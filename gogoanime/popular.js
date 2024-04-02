@@ -1,4 +1,5 @@
-const axios = require('axios');
+//const axios = require('axios');
+import axios, { AxiosRequestConfig, AxiosPromise, AxiosResponse } from 'axios';
 const cheerio = require('cheerio');
 const fs = require('fs');
 
