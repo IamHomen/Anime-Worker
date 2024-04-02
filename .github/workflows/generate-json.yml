@@ -1,19 +1,29 @@
 name: Generate Anime List Cron Job
 
 on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   schedule:
     - cron: "0 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    
+    strategy:
+      fail-fast: false
+      matrix:
+        language: ['javascript']
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
 
