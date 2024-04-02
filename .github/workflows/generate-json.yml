@@ -2,6 +2,11 @@ name: Generate Anime List Cron Job
 
 on:
   push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   schedule:
     - cron: "*/1 * * * *"
 
