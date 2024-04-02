@@ -25,8 +25,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run script
+      - name: Gogoanime (Popular)
         run: node ./gogoanime/popular.js
+      - name: Gogoanime (Trending)
+        run: node ./gogoanime/trending.js
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
