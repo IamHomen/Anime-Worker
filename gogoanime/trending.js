@@ -1,6 +1,6 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
+import axios from 'axios';
+import cheerio from 'cheerio';
+import fs from 'fs';
 
 const BASE_URL = 'https://anitaku.to';
 const popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html'; // You need to define this URL
