@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/gogoanime/popular.js",
+      "schedule": "* * * * *"
+    }
+  ]
+}
