@@ -16,12 +16,12 @@ const scrapePopularAnime = async () => {
         animeTitle: $(el).find('p.name > a').attr('title'),
         animeImg: $(el).find('div > a > img').attr('src'),
         releasedDate: $(el).find('p.released').text().replace('Released: ', '').trim(),
-        animeUrl: BASE_URL + '/' + $(el).find('p.name > a').attr('href'),
+        animeUrl: BASE_URL + $(el).find('p.name > a').attr('href'),
       });
     });
 
     const jsonList = JSON.stringify(list, null, 2);
-    fs.writeFileSync('gogoanime/popular.json', jsonList);
+    fs.writeFileSync('./gogoanime/popular.json', jsonList);
     console.log('Data saved to gogoanime/popular.json');
     
     return list;
