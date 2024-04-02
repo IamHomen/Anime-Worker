@@ -20,10 +20,10 @@ jobs:
         language: ['javascript']
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v3
         with:
           node-version: '20'
 
@@ -32,6 +32,7 @@ jobs:
 
       - name: Gogoanime (Popular)
         run: node ./gogoanime/popular.js
+        
       - name: Gogoanime (Trending)
         run: node ./gogoanime/trending.js
 
