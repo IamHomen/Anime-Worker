@@ -1,8 +1,8 @@
-name: Every Hour Cron Job
+name: Generate Anime List Cron Job
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   build:
