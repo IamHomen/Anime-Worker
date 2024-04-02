@@ -3,7 +3,7 @@ name: Generate Anime List Cron Job
 on:
   push:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/1 * * * *"
 
 jobs:
   build:
