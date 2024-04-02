@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const BASE_URL = 'https://gogoanime.so';
+const BASE_URL = 'https://anitaku.to';
 
 const scrapePopularAnime = async () => {
   let list = [];
