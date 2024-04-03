@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-import fs from 'fs';
+const fs = require('fs';)
 
 const BASE_URL = 'https://anitaku.to';
 
