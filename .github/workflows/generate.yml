@@ -29,7 +29,7 @@ jobs:
 
       - name: Gogoanime
         run: |
-           node gogoanime/generate.js
+           node gogoanime/generate.cjs
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
