@@ -2,7 +2,6 @@
     "name": "gogoanime-api",
     "version": "1.0.0",
     "description": "Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime",
-    "type": "module",
     "keywords": [
         "anime",
         "streaming",
