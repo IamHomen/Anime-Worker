@@ -4,7 +4,7 @@
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
     "latestEp": "Episode 0",
-    "animeUrl": "https://anitaku.to//category/tensei-shitara-slime-datta-ken-3rd-season",
+    "animeUrl": "https://anitaku.to/category/tensei-shitara-slime-datta-ken-3rd-season",
     "genres": [
       "Action",
       "Adventure",
@@ -20,7 +20,7 @@
     "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
     "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
     "latestEp": "Episode 1",
-    "animeUrl": "https://anitaku.to//category/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+    "animeUrl": "https://anitaku.to/category/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "genres": [
       "Adult Cast",
       "Adventure",
@@ -34,7 +34,7 @@
     "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
     "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
     "latestEp": "Episode 1",
-    "animeUrl": "https://anitaku.to//category/kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "animeUrl": "https://anitaku.to/category/kono-subarashii-sekai-ni-shukufuku-wo-3",
     "genres": [
       "Adventure",
       "Comedy",
@@ -49,7 +49,7 @@
     "animeTitle": "One Piece",
     "animeImg": "https://gogocdn.net/cover/one-piece-1708412053.png",
     "latestEp": "Episode 1099",
-    "animeUrl": "https://anitaku.to//category/one-piece",
+    "animeUrl": "https://anitaku.to/category/one-piece",
     "genres": [
       "Action",
       "Adventure",
@@ -64,7 +64,7 @@
     "animeTitle": "Dungeon Meshi",
     "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
     "latestEp": "Episode 13",
-    "animeUrl": "https://anitaku.to//category/dungeon-meshi",
+    "animeUrl": "https://anitaku.to/category/dungeon-meshi",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -77,7 +77,7 @@
     "animeTitle": "Kusuriya no Hitorigoto",
     "animeImg": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
     "latestEp": "Episode 24",
-    "animeUrl": "https://anitaku.to//category/kusuriya-no-hitorigoto",
+    "animeUrl": "https://anitaku.to/category/kusuriya-no-hitorigoto",
     "genres": [
       "Drama",
       "Historical",
@@ -90,7 +90,7 @@
     "animeTitle": "Detective Conan",
     "animeImg": "https://gogocdn.net/cover/detective-conan.png",
     "latestEp": "Episode 1118",
-    "animeUrl": "https://anitaku.to//category/detective-conan",
+    "animeUrl": "https://anitaku.to/category/detective-conan",
     "genres": [
       "Adventure",
       "Comedy",
@@ -101,42 +101,40 @@
     ]
   },
   {
-    "animeId": "remonster-dub",
-    "animeTitle": "Re:Monster (Dub)",
-    "animeImg": "https://gogocdn.net/cover/remonster-dub.png",
+    "animeId": "reincarnation-infinite-evolution",
+    "animeTitle": "Reincarnation: Infinite Evolution",
+    "animeImg": "https://gogocdn.net/cover/reincarnation-infinite-evolution.png",
+    "latestEp": "Episode 5",
+    "animeUrl": "https://anitaku.to/category/reincarnation-infinite-evolution",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Shounen",
+      "Supernatural"
+    ]
+  },
+  {
+    "animeId": "helck-dub",
+    "animeTitle": "Helck (Dub)",
+    "animeImg": "https://gogocdn.net/cover/helck-dub.png",
     "latestEp": "Episode 1",
-    "animeUrl": "https://anitaku.to//category/remonster-dub",
+    "animeUrl": "https://anitaku.to/category/helck-dub",
     "genres": [
       "Action",
-      "Adventure",
       "Fantasy"
     ]
   },
   {
-    "animeId": "kami-wa-game-ni-ueteiru-dub",
-    "animeTitle": "Kami wa Game ni Ueteiru. (Dub)",
-    "animeImg": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-dub.png",
+    "animeId": "remonster-dub",
+    "animeTitle": "Re:Monster (Dub)",
+    "animeImg": "https://gogocdn.net/cover/remonster-dub.png",
     "latestEp": "Episode 1",
-    "animeUrl": "https://anitaku.to//category/kami-wa-game-ni-ueteiru-dub",
-    "genres": [
-      "Ecchi",
-      "Fantasy",
-      "Suspense"
-    ]
-  },
-  {
-    "animeId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-dub",
-    "animeTitle": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2 (Dub)",
-    "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-dub.png",
-    "latestEp": "Episode 2",
-    "animeUrl": "https://anitaku.to//category/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-dub",
+    "animeUrl": "https://anitaku.to/category/remonster-dub",
     "genres": [
       "Action",
       "Adventure",
-      "Fantasy",
-      "Mythology",
-      "Sci-Fi",
-      "Shounen"
+      "Fantasy"
     ]
   }
 ]
