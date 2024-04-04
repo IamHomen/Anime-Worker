@@ -1,13 +1,8 @@
 # UPDATE DATA EVERY HOUR
-GogoAnime:
 
--Popular
+[SUPPORTED SITES](#sites)
+[GogoAnime]([https://https://anitaku.to/home.html)
+[AnimePahe](https://animepahe.ru/)
+[Anilist](https://anilist.co/)
 
--Trending
-
--New Season
-
--Recent Release
-
-
-# Still in Development 
+<strong>Still in Development</strong>
