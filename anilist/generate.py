@@ -7,7 +7,7 @@ GRAPHQL_URL = 'https://graphql.anilist.co'
 # Define your GraphQL query
 query = '''
 query {
-  Page(page: 1, perPage: 20) {
+  Page(page: 1, perPage: 50) {
     pageInfo {
       total
       perPage
@@ -76,7 +76,7 @@ def scrape_anilist_popular():
 # Define your GraphQL query
 trending = '''
 query {
-  Page(page: 1, perPage: 20) {
+  Page(page: 1, perPage: 50) {
     pageInfo {
       total
       perPage
