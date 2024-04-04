@@ -1,8 +1,8 @@
-# UPDATE JSON FILES EVERY HOUR
-GogoAnime:\n
--Popular\n
--Trending\n
--New Season\n
+# UPDATE DATA EVERY HOUR
+GogoAnime:
+-Popular
+-Trending
+-New Season
 -Recent Release
 
 
