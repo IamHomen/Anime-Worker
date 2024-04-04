@@ -31,7 +31,7 @@ def scrape_recent_sub_anime():
         print(e)
         return {'error': str(e)}
 
-POPULAR_URL = ''
+POPULAR_URL = 'https://anitaku.to/popular.html'
 
 def scrape_popular_anime():
     list = []
