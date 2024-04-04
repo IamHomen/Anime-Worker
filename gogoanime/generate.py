@@ -9,7 +9,7 @@ RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&
 def scrape_recent_sub_anime():
     list = []
     try:
-        headers = {'User-Agent': 'User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         recent_page = requests.get(RECENT_SUB_URL, headers=headers)
         soup = BeautifulSoup(recent_page.content, 'html.parser')
 
@@ -36,7 +36,7 @@ POPULAR_URL = 'https://anitaku.to/popular.html'
 def scrape_popular_anime():
     list = []
     try:
-        headers = {'User-Agent': 'User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         popular_page = requests.get(POPULAR_URL, headers=headers)
         soup = BeautifulSoup(popular_page.content, 'html.parser')
 
@@ -63,7 +63,7 @@ popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing
 def scrape_trending_anime():
     list = []
     try:
-        headers = {'User-Agent': 'User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         pageNum = 1
         popular_page = requests.get(popular_ongoing_url, headers=headers)
         soup = BeautifulSoup(popular_page.content, 'html.parser')
