@@ -15,7 +15,7 @@ def scrape_recent_sub_anime():
 
         for el in soup.select('div.last_episodes.loaddub > ul > li'):
             list.append({
-                'animeId': el.select_one('p.name > a')['href'].split('/')[2],
+                'animeId': el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0],
                 'animeTitle': el.select_one('p.name > a')['title'],
                 'animeImg': el.select_one('div > a > img')['src'],
                 'episode': el.select_one('p.episode').text(),
