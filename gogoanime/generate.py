@@ -13,7 +13,7 @@ def scrape_recent_sub_anime():
         recent_page = requests.get(RECENT_SUB_URL, headers=headers)
         soup = BeautifulSoup(recent_page.content, 'html.parser')
 
-        for el in soup.select('div.last_episodes.loaddub> ul > li'):
+        for el in soup.select('div.last_episodes.loaddub > ul > li'):
             list.append({
                 'animeId': el.select_one('p.name > a')['href'].split('/')[2],
                 'animeTitle': el.select_one('p.name > a')['title'],
