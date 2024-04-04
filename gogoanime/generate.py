@@ -10,7 +10,7 @@ def scrape_recent_sub_anime():
         recent_page = requests.get(f'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1')
         soup = BeautifulSoup(recent_page.content, 'html.parser')
 
-        for el in soup.select('div.last_episodes loaddub> ul > li'):
+        for el in soup.select('div.last_episodes.loaddub> ul > li'):
             list.append({
                 'animeId': el.select_one('p.name > a')['href'].split('/')[2],
                 'animeTitle': el.select_one('p.name > a')['title'],
@@ -21,7 +21,7 @@ def scrape_recent_sub_anime():
 
         with open('./gogoanime/recent-sub.json', 'w') as f:
             json.dump(list, f, indent=2)
-        print('Data saved to gogoanime/popular.json')
+        print('Data saved to gogoanime/recent-sub.json')
 
         return list
     except Exception as e:
