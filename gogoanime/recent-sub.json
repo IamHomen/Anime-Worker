@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "hananoi-kun-to-koi-no-yamai",
+    "animeTitle": "Hananoi-kun to Koi no Yamai",
+    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/hananoi-kun-to-koi-no-yamai-episode-1"
+  },
+  {
+    "animeId": "yuru-camp-season-3",
+    "animeTitle": "Yuru Camp\u25b3 Season 3",
+    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/yuru-camp-season-3-episode-1"
+  },
+  {
     "animeId": "hibike-euphonium-3",
     "animeTitle": "Hibike! Euphonium 3",
     "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-1"
-  },
-  {
-    "animeId": "remonster",
-    "animeTitle": "Re:Monster",
-    "animeImg": "https://gogocdn.net/cover/remonster-1711737486.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/remonster-episode-1"
-  },
-  {
-    "animeId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
-    "animeTitle": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
-    "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.to/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-2"
   }
 ]
