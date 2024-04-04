@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "dungeon-meshi",
+    "animeTitle": "Dungeon Meshi",
+    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "episode": "Episode 14",
+    "animeUrl": "https://anitaku.to/dungeon-meshi-episode-14"
+  },
+  {
     "animeId": "atashinchi",
     "animeTitle": "Atashin'chi",
     "animeImg": "https://gogocdn.net/cover/atashinchi.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/shuumatsu-train-doko-e-iku-episode-1"
-  },
-  {
-    "animeId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "animeTitle": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
-    "episode": "Episode 13",
-    "animeUrl": "https://anitaku.to/tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-13"
   }
 ]
