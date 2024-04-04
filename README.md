@@ -1,6 +1,6 @@
 # UPDATE DATA EVERY HOUR
 
-[SUPPORTED SITES](#sites)
+[SUPPORTED SITES]
 
 [GogoAnime](https://https://anitaku.to/home.html)
 
