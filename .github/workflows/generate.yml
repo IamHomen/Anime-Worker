@@ -29,10 +29,14 @@ jobs:
       run: |
         python ./gogoanime/generate.py
 
-    - name: Generate rss (AnimePahe)
+    - name: Generate (AnimePahe)
       run: |
         python ./animepahe/generate.py
 
+    - name: Generate (Anilist)
+      run: |
+        python ./anilist/generate.py
+        
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         # Optional but recommended
