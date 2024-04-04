@@ -3,11 +3,13 @@ from bs4 import BeautifulSoup
 import json
 
 BASE_URL = 'https://anitaku.to'
-recent_sub_url = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
+
+RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
+
 def scrape_recent_sub_anime():
     list = []
     try:
-        recent_page = requests.get(f'{recent_sub_url}')
+        recent_page = requests.get(f'{RECENT_SUB_URL}')
         soup = BeautifulSoup(recent_page.content, 'html.parser')
 
         for el in soup.select('div.last_episodes.loaddub> ul > li'):
@@ -15,7 +17,7 @@ def scrape_recent_sub_anime():
                 'animeId': el.select_one('p.name > a')['href'].split('/')[2],
                 'animeTitle': el.select_one('p.name > a')['title'],
                 'animeImg': el.select_one('div > a > img')['src'],
-                'episode': el.select_one('p.episode').text.replace('Released: ', '').strip(),
+                'episode': el.select_one('p.episode').text.strip(),
                 'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
             })
 
