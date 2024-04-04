@@ -2,7 +2,7 @@
   {
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "animeImg": "'https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png'",
     "latestEp": "Episode 0",
     "animeUrl": "https://anitaku.to/category/tensei-shitara-slime-datta-ken-3rd-season",
     "genres": [
@@ -18,7 +18,7 @@
   {
     "animeId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
+    "animeImg": "'https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png'",
     "latestEp": "Episode 1",
     "animeUrl": "https://anitaku.to/category/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "genres": [
@@ -32,7 +32,7 @@
   {
     "animeId": "kono-subarashii-sekai-ni-shukufuku-wo-3",
     "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
+    "animeImg": "'https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png'",
     "latestEp": "Episode 1",
     "animeUrl": "https://anitaku.to/category/kono-subarashii-sekai-ni-shukufuku-wo-3",
     "genres": [
@@ -47,7 +47,7 @@
   {
     "animeId": "one-piece",
     "animeTitle": "One Piece",
-    "animeImg": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "animeImg": "'https://gogocdn.net/cover/one-piece-1708412053.png'",
     "latestEp": "Episode 1099",
     "animeUrl": "https://anitaku.to/category/one-piece",
     "genres": [
@@ -62,7 +62,7 @@
   {
     "animeId": "dungeon-meshi",
     "animeTitle": "Dungeon Meshi",
-    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "animeImg": "'https://gogocdn.net/cover/dungeon-meshi-1708405352.png'",
     "latestEp": "Episode 13",
     "animeUrl": "https://anitaku.to/category/dungeon-meshi",
     "genres": [
@@ -75,7 +75,7 @@
   {
     "animeId": "kusuriya-no-hitorigoto",
     "animeTitle": "Kusuriya no Hitorigoto",
-    "animeImg": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
+    "animeImg": "'https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png'",
     "latestEp": "Episode 24",
     "animeUrl": "https://anitaku.to/category/kusuriya-no-hitorigoto",
     "genres": [
@@ -88,7 +88,7 @@
   {
     "animeId": "detective-conan",
     "animeTitle": "Detective Conan",
-    "animeImg": "https://gogocdn.net/cover/detective-conan.png",
+    "animeImg": "'https://gogocdn.net/cover/detective-conan.png'",
     "latestEp": "Episode 1118",
     "animeUrl": "https://anitaku.to/category/detective-conan",
     "genres": [
@@ -101,9 +101,22 @@
     ]
   },
   {
+    "animeId": "xiao-lu-he-xiao-lan-5th-season",
+    "animeTitle": "Xiao Lu He Xiao Lan 5th Season",
+    "animeImg": "'https://gogocdn.net/cover/xiao-lu-he-xiao-lan-5th-season.png'",
+    "latestEp": "Episode 3",
+    "animeUrl": "https://anitaku.to/category/xiao-lu-he-xiao-lan-5th-season",
+    "genres": [
+      "Boys Love",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
     "animeId": "san-xiuzhi-wang",
     "animeTitle": "San Xiuzhi Wang",
-    "animeImg": "https://gogocdn.net/cover/san-xiuzhi-wang.png",
+    "animeImg": "'https://gogocdn.net/cover/san-xiuzhi-wang.png'",
     "latestEp": "Episode 4",
     "animeUrl": "https://anitaku.to/category/san-xiuzhi-wang",
     "genres": [
@@ -117,7 +130,7 @@
   {
     "animeId": "reincarnation-infinite-evolution",
     "animeTitle": "Reincarnation: Infinite Evolution",
-    "animeImg": "https://gogocdn.net/cover/reincarnation-infinite-evolution.png",
+    "animeImg": "'https://gogocdn.net/cover/reincarnation-infinite-evolution.png'",
     "latestEp": "Episode 5",
     "animeUrl": "https://anitaku.to/category/reincarnation-infinite-evolution",
     "genres": [
@@ -126,17 +139,6 @@
       "Mystery",
       "Shounen",
       "Supernatural"
-    ]
-  },
-  {
-    "animeId": "helck-dub",
-    "animeTitle": "Helck (Dub)",
-    "animeImg": "https://gogocdn.net/cover/helck-dub.png",
-    "latestEp": "Episode 1",
-    "animeUrl": "https://anitaku.to/category/helck-dub",
-    "genres": [
-      "Action",
-      "Fantasy"
     ]
   }
 ]
