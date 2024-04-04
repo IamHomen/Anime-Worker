@@ -1,76 +1,60 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
+import requests
+from bs4 import BeautifulSoup
+import json
 
-const BASE_URL = 'https://anitaku.to';
+BASE_URL = 'https://anitaku.to'
 
-const scrapePopularAnime = async () => {
-  let list = [];
-  try {
-    const popularPage = await axios.get(`${BASE_URL}/popular.html?page=1`);
-    const $ = cheerio.load(popularPage.data);
+def scrape_popular_anime():
+    list = []
+    try:
+        popular_page = requests.get(f'{BASE_URL}/popular.html?page=1')
+        soup = BeautifulSoup(popular_page.content, 'html.parser')
 
-    $('div.last_episodes > ul > li').each((i, el) => {
-      list.push({
-        animeId: $(el).find('p.name > a').attr('href').split('/')[2],
-        animeTitle: $(el).find('p.name > a').attr('title'),
-        animeImg: $(el).find('div > a > img').attr('src'),
-        releasedDate: $(el).find('p.released').text().replace('Released: ', '').trim(),
-        animeUrl: BASE_URL + $(el).find('p.name > a').attr('href'),
-      });
-    });
+        for el in soup.select('div.last_episodes > ul > li'):
+            list.append({
+                'animeId': el.select_one('p.name > a')['href'].split('/')[2],
+                'animeTitle': el.select_one('p.name > a')['title'],
+                'animeImg': el.select_one('div > a > img')['src'],
+                'releasedDate': el.select_one('p.released').text.replace('Released: ', '').strip(),
+                'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
+            })
 
-    const jsonList = JSON.stringify(list, null, 2);
-    fs.writeFileSync('./gogoanime/popular.json', jsonList);
-    console.log('Data saved to gogoanime/popular.json');
-    
-    return list;
-  } catch (err) {
-    console.error(err);
-    return { error: err };
-  }
-};
+        with open('./gogoanime/popular.json', 'w') as f:
+            json.dump(list, f, indent=2)
+        print('Data saved to gogoanime/popular.json')
 
-const popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html'; // You need to define this URL
+        return list
+    except Exception as e:
+        print(e)
+        return {'error': str(e)}
 
-const scrapeTrendingAnime = async () => {
-  const list = [];
-  try {
-    let pageNum = 1;
-    const popular_page = await axios.get(`
-        ${popular_ongoing_url}?page=${pageNum}
-        `);
-  const $ = cheerio.load(popular_page.data);
+popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html'
 
-  $('div.added_series_body.popular > ul > li').each((i, el) => {
-   let genres = [];
-   $(el)
-    .find('p.genres > a')
-    .each((i, el) => {
-     genres.push($(el).attr('title'));
-    });
-   list.push({
-    animeId: $(el).find('a:nth-child(1)').attr('href').split('/')[2],
-    animeTitle: $(el).find('a:nth-child(1)').attr('title'),
-    animeImg: $(el)
-     .find('a:nth-child(1) > div')
-     .attr('style')
-     .match('(https?://.*.(?:png|jpg))')[0],
-    latestEp: $(el).find('p:nth-child(4) > a').text().trim(),
-    animeUrl: BASE_URL + $(el).find('a:nth-child(1)').attr('href'),
-    genres: genres,
-   });
-  });
+def scrape_trending_anime():
+    list = []
+    try:
+        pageNum = 1
+        popular_page = requests.get(f'{popular_ongoing_url}?page={pageNum}')
+        soup = BeautifulSoup(popular_page.content, 'html.parser')
 
-    const jsonList = JSON.stringify(list, null, 2);
-    fs.writeFileSync('./gogoanime/trending.json', jsonList);
-    console.log('Data saved to gogoanime/trending.json');
-    return list;
-  } catch (err) {
-    console.log(err);
-    return { error: err };
-  }
-};
+        for el in soup.select('div.added_series_body.popular > ul > li'):
+            genres = [a['title'] for a in el.select('p.genres > a')]
+            list.append({
+                'animeId': el.select_one('a:nth-child(1)')['href'].split('/')[2],
+                'animeTitle': el.select_one('a:nth-child(1)')['title'],
+                'animeImg': el.select_one('a:nth-child(1) > div')['style'].split('(')[1].split(')')[0],
+                'latestEp': el.select_one('p:nth-child(4) > a').text.strip(),
+                'animeUrl': BASE_URL + el.select_one('a:nth-child(1)')['href'],
+                'genres': genres
+            })
 
-scrapeTrendingAnime();
-scrapePopularAnime();
+        with open('./gogoanime/trending.json', 'w') as f:
+            json.dump(list, f, indent=2)
+        print('Data saved to gogoanime/trending.json')
+        return list
+    except Exception as e:
+        print(e)
+        return {'error': str(e)}
+
+scrape_trending_anime()
+scrape_popular_anime()
