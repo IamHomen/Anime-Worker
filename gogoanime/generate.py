@@ -9,7 +9,8 @@ RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&
 def scrape_recent_sub_anime():
     list = []
     try:
-        recent_page = requests.get(f'{RECENT_SUB_URL}')
+        headers = {'User-Agent': 'User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        recent_page = requests.get(RECENT_SUB_URL, headers=headers)
         soup = BeautifulSoup(recent_page.content, 'html.parser')
 
         for el in soup.select('div.last_episodes.loaddub> ul > li'):
@@ -30,10 +31,13 @@ def scrape_recent_sub_anime():
         print(e)
         return {'error': str(e)}
 
+POPULAR_URL = ''
+
 def scrape_popular_anime():
     list = []
     try:
-        popular_page = requests.get(f'{BASE_URL}/popular.html')
+        headers = {'User-Agent': 'User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        popular_page = requests.get(POPULAR_URL, headers=headers)
         soup = BeautifulSoup(popular_page.content, 'html.parser')
 
         for el in soup.select('div.last_episodes > ul > li'):
@@ -54,13 +58,14 @@ def scrape_popular_anime():
         print(e)
         return {'error': str(e)}
 
-popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html'
+popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html?page=1'
 
 def scrape_trending_anime():
     list = []
     try:
+        headers = {'User-Agent': 'User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         pageNum = 1
-        popular_page = requests.get(f'{popular_ongoing_url}?page={pageNum}')
+        popular_page = requests.get(popular_ongoing_url, headers=headers)
         soup = BeautifulSoup(popular_page.content, 'html.parser')
 
         for el in soup.select('div.added_series_body.popular > ul > li'):
