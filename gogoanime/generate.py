@@ -10,15 +10,15 @@ def scrape_recent_sub_anime():
     anime_list = []
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
-        popular_page = requests.get(RECENT_SUB_URL, headers=headers)
-        soup = BeautifulSoup(popular_page.content, 'html.parser')
+        response = requests.get(RECENT_SUB_URL, headers=headers)
+        soup = BeautifulSoup(response.content, 'html.parser')
 
         for el in soup.select('div.last_episodes.loaddub > ul > li'):
             anime_list.append({
                 'animeId': el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0],
                 'animeTitle': el.select_one('p.name > a')['title'],
                 'animeImg': el.select_one('div > a > img')['src'],
-                'episode': el.select_one('p.episode').text(),
+                'episode': el.select_one('p.episode').text.strip(),
                 'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
             })
 
