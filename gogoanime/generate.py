@@ -7,7 +7,7 @@ BASE_URL = 'https://anitaku.to'
 def scrape_popular_anime():
     list = []
     try:
-        popular_page = requests.get(f'{BASE_URL}/popular.html?page=1')
+        popular_page = requests.get(f'{BASE_URL}/popular.html')
         soup = BeautifulSoup(popular_page.content, 'html.parser')
 
         for el in soup.select('div.last_episodes > ul > li'):
