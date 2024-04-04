@@ -4,6 +4,30 @@ import json
 
 BASE_URL = 'https://anitaku.to'
 
+def scrape_recent_sub_anime():
+    list = []
+    try:
+        recent_page = requests.get(f'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1')
+        soup = BeautifulSoup(recent_page.content, 'html.parser')
+
+        for el in soup.select('div.last_episodes loaddub> ul > li'):
+            list.append({
+                'animeId': el.select_one('p.name > a')['href'].split('/')[2],
+                'animeTitle': el.select_one('p.name > a')['title'],
+                'animeImg': el.select_one('div > a > img')['src'],
+                'episode': el.select_one('p.episode').text.replace('Released: ', '').strip(),
+                'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
+            })
+
+        with open('./gogoanime/recent-sub.json', 'w') as f:
+            json.dump(list, f, indent=2)
+        print('Data saved to gogoanime/popular.json')
+
+        return list
+    except Exception as e:
+        print(e)
+        return {'error': str(e)}
+
 def scrape_popular_anime():
     list = []
     try:
@@ -56,5 +80,6 @@ def scrape_trending_anime():
         print(e)
         return {'error': str(e)}
 
+scrape_recent_sub_anime()
 scrape_trending_anime()
 scrape_popular_anime()
