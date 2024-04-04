@@ -7,8 +7,10 @@ BASE_URL = 'https://animepahe.ru/api?m=airing&page=1'
 def scrape_recent_sub_anime():
     
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
-        anime_list = requests.get(BASE_URL, headers=headers)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'
+        }
+        anime_list = requests.get(BASE_URL, headers=headers).json()
 
         with open('./animepahe/recent-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
