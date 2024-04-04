@@ -33,7 +33,7 @@ query {
 }
 '''
 
-def scrape_anilist_poular():
+def scrape_anilist_popular():
     anime_list = []
     try:
         # Define the request headers
