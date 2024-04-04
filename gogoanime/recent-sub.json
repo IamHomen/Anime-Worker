@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "hibike-euphonium-3",
+    "animeTitle": "Hibike! Euphonium 3",
+    "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.to/hibike-euphonium-3-episode-2"
+  },
+  {
+    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-1"
+  },
+  {
     "animeId": "dungeon-meshi",
     "animeTitle": "Dungeon Meshi",
     "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
@@ -70,13 +84,6 @@
     "animeUrl": "https://anitaku.to/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-1"
   },
   {
-    "animeId": "hibike-euphonium-3",
-    "animeTitle": "Hibike! Euphonium 3",
-    "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/hibike-euphonium-3-episode-1"
-  },
-  {
     "animeId": "odekake-kozame",
     "animeTitle": "Odekake Kozame",
     "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.to/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-2"
-  },
-  {
-    "animeId": "shuumatsu-train-doko-e-iku",
-    "animeTitle": "Shuumatsu Train Doko e Iku?",
-    "animeImg": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/shuumatsu-train-doko-e-iku-episode-1"
   }
 ]
