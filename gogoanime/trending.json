@@ -101,6 +101,20 @@
     ]
   },
   {
+    "animeId": "san-xiuzhi-wang",
+    "animeTitle": "San Xiuzhi Wang",
+    "animeImg": "https://gogocdn.net/cover/san-xiuzhi-wang.png",
+    "latestEp": "Episode 4",
+    "animeUrl": "https://anitaku.to/category/san-xiuzhi-wang",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Historical",
+      "Martial Arts"
+    ]
+  },
+  {
     "animeId": "reincarnation-infinite-evolution",
     "animeTitle": "Reincarnation: Infinite Evolution",
     "animeImg": "https://gogocdn.net/cover/reincarnation-infinite-evolution.png",
@@ -122,18 +136,6 @@
     "animeUrl": "https://anitaku.to/category/helck-dub",
     "genres": [
       "Action",
-      "Fantasy"
-    ]
-  },
-  {
-    "animeId": "remonster-dub",
-    "animeTitle": "Re:Monster (Dub)",
-    "animeImg": "https://gogocdn.net/cover/remonster-dub.png",
-    "latestEp": "Episode 1",
-    "animeUrl": "https://anitaku.to/category/remonster-dub",
-    "genres": [
-      "Action",
-      "Adventure",
       "Fantasy"
     ]
   }
