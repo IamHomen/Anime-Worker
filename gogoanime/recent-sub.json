@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "majo-to-yajuu",
+    "animeTitle": "Majo to Yajuu",
+    "animeImg": "https://gogocdn.net/cover/majo-to-yajuu-1704187164.png",
+    "episode": "Episode 12",
+    "animeUrl": "https://anitaku.to/majo-to-yajuu-episode-12"
+  },
+  {
+    "animeId": "wind-breaker",
+    "animeTitle": "Wind Breaker",
+    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/wind-breaker-episode-1"
+  },
+  {
     "animeId": "henjin-no-salad-bowl",
     "animeTitle": "Henjin no Salad Bowl",
     "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/tensei-kizoku-kantei-skill-de-nariagaru-episode-1"
-  },
-  {
-    "animeId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
-    "animeTitle": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-    "animeImg": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.to/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-episode-2"
-  },
-  {
-    "animeId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
-    "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-1"
   }
 ]
