@@ -22,11 +22,11 @@
 | `route` | select from below and replace the url |
 
 ### ROUTES  |   END POINT
-# gogoanime |  `recent-sub.json`, `popular.json`, `trending.json`
+ gogoanime |  `recent-sub.json`, `popular.json`, `trending.json`
 
-# animepahe |  `recent-sub.json`
+ animepahe |  `recent-sub.json`
 
-# anilist   |  `popular.json`, `trending.json`
+ anilist   |  `popular.json`, `trending.json`
 
 ```js
 fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/anilist/trending.json")
