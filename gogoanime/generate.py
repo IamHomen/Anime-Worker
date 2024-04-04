@@ -17,7 +17,7 @@ def scrape_recent_sub_anime():
                 'animeId': el.select_one('p.name > a')['href'].split('/')[2],
                 'animeTitle': el.select_one('p.name > a')['title'],
                 'animeImg': el.select_one('div > a > img')['src'],
-                'episode': el.select_one('p.episode').text.strip(),
+                'episode': el.select_one('p.episode').text(),
                 'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
             })
 
