@@ -7,14 +7,14 @@ BASE_URL = 'https://anitaku.to'
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
 
 def scrape_recent_sub_anime():
-    list = []
+    anime_list = []
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         popular_page = requests.get(RECENT_SUB_URL, headers=headers)
         soup = BeautifulSoup(popular_page.content, 'html.parser')
 
         for el in soup.select('div.last_episodes.loaddub > ul > li'):
-            list.append({
+            anime_list.append({
                 'animeId': el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0],
                 'animeTitle': el.select_one('p.name > a')['title'],
                 'animeImg': el.select_one('div > a > img')['src'],
@@ -23,10 +23,10 @@ def scrape_recent_sub_anime():
             })
 
         with open('./gogoanime/recent-sub.json', 'w') as f:
-            json.dump(list, f, indent=2)
+            json.dump(anime_list, f, indent=2)
         print('Data saved to gogoanime/recent-sub.json')
 
-        return list
+        return anime_list
     except Exception as e:
         print(e)
         return {'error': str(e)}
@@ -34,14 +34,14 @@ def scrape_recent_sub_anime():
 POPULAR_URL = 'https://anitaku.to/popular.html'
 
 def scrape_popular_anime():
-    list = []
+    anime_list = []
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         popular_page = requests.get(POPULAR_URL, headers=headers)
         soup = BeautifulSoup(popular_page.content, 'html.parser')
 
         for el in soup.select('div.last_episodes > ul > li'):
-            list.append({
+            anime_list.append({
                 'animeId': el.select_one('p.name > a')['href'].split('/')[2],
                 'animeTitle': el.select_one('p.name > a')['title'],
                 'animeImg': el.select_one('div > a > img')['src'],
@@ -50,10 +50,10 @@ def scrape_popular_anime():
             })
 
         with open('./gogoanime/popular.json', 'w') as f:
-            json.dump(list, f, indent=2)
+            json.dump(anime_list, f, indent=2)
         print('Data saved to gogoanime/popular.json')
 
-        return list
+        return anime_list
     except Exception as e:
         print(e)
         return {'error': str(e)}
@@ -61,7 +61,7 @@ def scrape_popular_anime():
 popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html?page=1'
 
 def scrape_trending_anime():
-    list = []
+    anime_list = []
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         pageNum = 1
@@ -70,7 +70,7 @@ def scrape_trending_anime():
 
         for el in soup.select('div.added_series_body.popular > ul > li'):
             genres = [a['title'] for a in el.select('p.genres > a')]
-            list.append({
+            anime_list.append({
                 'animeId': el.select_one('a:nth-child(1)')['href'].split('/')[2],
                 'animeTitle': el.select_one('a:nth-child(1)')['title'],
                 'animeImg': el.select_one('a:nth-child(1) > div')['style'].split('(')[1].split(')')[0],
@@ -80,9 +80,9 @@ def scrape_trending_anime():
             })
 
         with open('./gogoanime/trending.json', 'w') as f:
-            json.dump(list, f, indent=2)
+            json.dump(anime_list, f, indent=2)
         print('Data saved to gogoanime/trending.json')
-        return list
+        return anime_list
     except Exception as e:
         print(e)
         return {'error': str(e)}
