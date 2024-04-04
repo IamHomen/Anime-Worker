@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "henjin-no-salad-bowl",
+    "animeTitle": "Henjin no Salad Bowl",
+    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/henjin-no-salad-bowl-episode-1"
+  },
+  {
     "animeId": "hananoi-kun-to-koi-no-yamai",
     "animeTitle": "Hananoi-kun to Koi no Yamai",
     "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-1"
-  },
-  {
-    "animeId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
-    "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-    "animeImg": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-1"
   }
 ]
