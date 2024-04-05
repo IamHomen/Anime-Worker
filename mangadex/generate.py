@@ -28,7 +28,6 @@ def get_latest_manga_updates():
                 'title': manga['attributes']['title']['en'],
                 'updatedAt': manga['attributes']['updatedAt'],
                 'coverArt': coverUrl,
-                'availableChapters': manga['attributes']['chapterCount'],
                 'altTitles': manga['attributes']['altTitles'],
                 'description': manga['attributes']['description'],
                 'status': manga['attributes']['status'],
