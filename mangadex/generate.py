@@ -22,11 +22,11 @@ def get_latest_manga_updates():
                     cover_art_file_name = cover_art_attributes['fileName']
                     break  # Exit the loop once the correct relationship is found
 
-             
-            title = manga['attributes']['title']['en'],
-            coverUrl = f"https://mangadex.org/covers/{title}/{cover_art_file_name}"
+         mangaId = manga['id']
+         coverUrl = f"https://mangadex.org/covers/{id}/{cover_art_file_name}"
             manga_list.append({
-                'mangaId': manga['id'],
+                'mangaId': mangaId,
+                'title': manga['attributes']['title']['en'],
                 'updatedAt': manga['attributes']['updatedAt'],
                 'coverArt': coverUrl,
                 'availableChapters': manga['attributes']['chapterCount'] if 'chapterCount' in manga['attributes'] else None,
