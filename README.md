@@ -21,7 +21,7 @@
 | `route` | select from below and replace the url |
 
 ### ROUTES  |   END POINT
- gogoanime |  
+ # gogoanime |  
  
  `recent-sub.json`, 
  
@@ -29,14 +29,19 @@
 
  `trending.json`
 
- animepahe |  
+ # animepahe |  
  `recent-sub.json`
 
- anilist   |  
+ # anilist   |  
  
  `popular.json`, 
  
  `trending.json`
+
+ # mangadex  | 
+
+ `latest_manga_updates.json`
+ 
 
 ```js
 fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/anilist/trending.json")
