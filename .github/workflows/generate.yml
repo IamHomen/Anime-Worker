@@ -36,6 +36,10 @@ jobs:
     - name: Generate (Anilist)
       run: |
         python ./anilist/generate.py
+
+    - name: Generate (MangaDex)
+      run: |
+        python ./mangadex/generate.py
         
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
