@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "odekake-kozame",
+    "animeTitle": "Odekake Kozame",
+    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
+    "episode": "Episode 50",
+    "animeUrl": "https://anitaku.to/odekake-kozame-episode-50"
+  },
+  {
     "animeId": "mahouka-koukou-no-rettousei-3rd-season",
     "animeTitle": "Mahouka Koukou no Rettousei 3rd Season",
     "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/bartender-kami-no-glass-episode-1"
-  },
-  {
-    "animeId": "sengoku-youko",
-    "animeTitle": "Sengoku Youko",
-    "animeImg": "https://gogocdn.net/cover/sengoku-youko-1708569912.png",
-    "episode": "Episode 13",
-    "animeUrl": "https://anitaku.to/sengoku-youko-episode-13"
   }
 ]
