@@ -15,7 +15,7 @@ def get_latest_manga_updates():
         result = response.json()
 
         # Extract the manga data from the response
-for manga in result['data']:
+  for manga in result['data']:
     for relationship in manga['relationships']:
         if relationship['type'] == 'cover_art':
             cover_art_attributes = relationship['attributes']
@@ -38,8 +38,6 @@ for manga in result['data']:
         'lastVolume': manga['attributes']['lastVolume'],
         'lastChapter': manga['attributes']['lastChapter']
     })
-
-
         # Save the data to a JSON file
         with open('./mangadex/latest_manga_updates.json', 'w') as f:
             json.dump(manga_list, f, indent=2)
