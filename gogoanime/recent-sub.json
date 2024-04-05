@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "nijiyon-animation-2",
+    "animeTitle": "Nijiyon Animation 2",
+    "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/nijiyon-animation-2-episode-1"
+  },
+  {
     "animeId": "shaman-king-flowers",
     "animeTitle": "Shaman King: Flowers",
     "animeImg": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/sand-land-the-series.png",
     "episode": "Episode 9",
     "animeUrl": "https://anitaku.to/sand-land-the-series-episode-9"
-  },
-  {
-    "animeId": "touken-ranbu-kai-kyoden-moyuru-honnouji",
-    "animeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-    "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-1"
   }
 ]
