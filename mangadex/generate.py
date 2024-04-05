@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_URL_LATEST_UPDATE = 'https://api.mangadex.org/manga?includes[]=cover_art&order[latestUploadedChapter]=desc&hasAvailableChapters=true&limit=20'
+API_URL_LATEST_UPDATE = 'https://api.mangadex.org/manga?includes[]=cover_art&order[latestUploadedChapter]=desc&hasAvailableChapters=true&limit=50'
 
 def get_latest_manga_updates():
     manga_list = []
@@ -24,7 +24,7 @@ def get_latest_manga_updates():
             coverUrl = f"https://mangadex.org/covers/{mangaId}/{cover_art_file_name}"
             manga_list.append({
                 'mangaId': mangaId,
-                'title': manga['attributes']['altTitles']['en'],
+                'title': manga['attributes']['title']['en'],
                 'updatedAt': manga['attributes']['updatedAt'],
                 'coverArt': coverUrl,
                 'altTitles': manga['attributes']['altTitles'],
