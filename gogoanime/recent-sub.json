@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "highspeed-etoile",
+    "animeTitle": "Highspeed Etoile",
+    "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/highspeed-etoile-episode-1"
+  },
+  {
     "animeId": "snack-basue",
     "animeTitle": "Snack Basue",
     "animeImg": "https://gogocdn.net/cover/snack-basue.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/atashinchi.png",
     "episode": "Episode 358",
     "animeUrl": "https://anitaku.to/atashinchi-episode-358"
-  },
-  {
-    "animeId": "metallic-rouge",
-    "animeTitle": "Metallic Rouge",
-    "animeImg": "https://gogocdn.net/cover/metallic-rouge-1708570180.png",
-    "episode": "Episode 13",
-    "animeUrl": "https://anitaku.to/metallic-rouge-episode-13"
   }
 ]
