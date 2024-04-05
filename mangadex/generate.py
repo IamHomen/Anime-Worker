@@ -11,13 +11,8 @@ def get_latest_manga_updates():
         #headers = {'Authorization': f'Bearer {API_KEY}'}
 
         params = {
-            'order[updatedAt]': 'desc',
-            'includes[]': 'cover_art',
-            'contentRating[]': ['safe', 'suggestive', 'erotica', 'pornographic'],
-            'translatedLanguage[]': ['en'],  # Filter by English translations
+            'order[latestUploadedChapter]': 'desc',
             'limit': 100,  # Limit the number of results to 10
-            'status[]': ['ongoing', 'hiatus'],  # Filter by ongoing or hiatus status
-            'hasAvailableChapters': 'true'
         }
       
         # Make the request to the MangaDex API
@@ -35,7 +30,14 @@ def get_latest_manga_updates():
                 'title': manga['attributes']['title']['en'],
                 'updatedAt': manga['attributes']['updatedAt'],
                 'coverArt': cover_art,
-                'availableChapters': manga['attributes']['chapterCount'] if 'chapterCount' in manga['attributes'] else None
+                'availableChapters': manga['attributes']['chapterCount'] if 'chapterCount' in manga['attributes'] else None,
+                'altTitles': manga['attributes']['altTitles'],
+                'description': manga['attributes']['description'],
+                'status': manga['attributes']['status'],
+                'releaseDate': manga['attributes']['year'],
+                'contentRating': manga['attributes']['contentRating'],
+                'lastVolume': manga['attributes']['lastVolume'],
+                'lastChapter': manga['attributes']['lastChapter']
             })
 
         # Save the data to a JSON file
