@@ -2,21 +2,16 @@ import requests
 import json
 
 # Define the API endpoint for getting the latest manga updates
-API_URL = 'https://api.mangadex.org/manga'
+API_URL_LATEST_UPDATE = 'https://api.mangadex.org/manga?order[latestUploadedChapter]=desc&limit=100'
 
 def get_latest_manga_updates():
     manga_list = []
     try:
         # Define the request headers with your API key
         #headers = {'Authorization': f'Bearer {API_KEY}'}
-
-        params = {
-            'order[latestUploadedChapter]': 'desc',
-            'limit': 100  # Limit the number of results to 10
-        }
       
         # Make the request to the MangaDex API
-        response = requests.get(API_URL, params=params)
+        response = requests.get(API_URL_LATEST_UPDATE)
         response.raise_for_status()
 
         # Parse the JSON response
@@ -52,4 +47,3 @@ def get_latest_manga_updates():
 
 # Call the function to get the latest manga updates
 get_latest_manga_updates()
-      
