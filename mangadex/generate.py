@@ -28,7 +28,7 @@ def get_latest_manga_updates():
                 'title': manga['attributes']['title']['en'],
                 'updatedAt': manga['attributes']['updatedAt'],
                 'coverArt': coverUrl,
-                'availableChapters': manga['attributes']['chapterCount'] if 'chapterCount' in manga['attributes'] else None,
+                'availableChapters': manga['attributes']['chapterCount'],
                 'altTitles': manga['attributes']['altTitles'],
                 'description': manga['attributes']['description'],
                 'status': manga['attributes']['status'],
@@ -37,6 +37,7 @@ def get_latest_manga_updates():
                 'lastVolume': manga['attributes']['lastVolume'],
                 'lastChapter': manga['attributes']['lastChapter']
              })
+            
         # Save the data to a JSON file
         with open('./mangadex/latest_manga_updates.json', 'w') as f:
             json.dump(manga_list, f, indent=2)
