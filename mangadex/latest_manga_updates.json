@@ -1,5 +1,44 @@
 [
   {
+    "mangaId": "0925b477-9e72-4b40-8488-afb7aab4583f",
+    "title": {
+      "en": "Tomehane!"
+    },
+    "updatedAt": "2023-03-02T23:52:40+00:00",
+    "coverArt": "https://mangadex.org/covers/0925b477-9e72-4b40-8488-afb7aab4583f/0efe7a40-def2-4ac5-adb1-b46d31122194.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Tome wa Hane! Suzusato Koukou Shodoubu"
+      },
+      {
+        "ja-ro": "Tomehane! Suzuri K\u014dk\u014d Shod\u014dbu"
+      },
+      {
+        "ja-ro": "Tomehane! Suzuri Koukou Shodoubu"
+      },
+      {
+        "ja-ro": "Tomehanetsu! Suzusato"
+      },
+      {
+        "ja": "\u3068\u3081\u306f\u306d\u3063!"
+      },
+      {
+        "ja": "\u3068\u3081\u306f\u306d\u3063! \u9234\u91cc\u9ad8\u6821\u66f8\u9053\u90e8"
+      },
+      {
+        "ja": "\u3068\u3081\u306f\u306d\u3063\uff01\u2212\u9234\u91cc\u9ad8\u6821\u66f8\u9053\u90e8\u2212"
+      }
+    ],
+    "description": {
+      "en": "Tales of a high-school calligraphy club.  \n  \nA story about a high-school calligraphy club on the verge of breaking up that enters in a major competition while overcoming problems. Yuki, a promising female judoist, and Yukari, a quiet Canadian-raised boy who just returned to Japan, end up joining the club for the sake of maintaining the membership required to keep the club. Together with the old club members with unique characters, they gradually discover the fun of calligraphy and work together to win in the competition.  \n  \nTomehane! was nominated for best manga at the first two Manga Taisho.\n\nLive action series adaptation (2010): [MyDramaList](https://mydramalist.com/742-tomehane)"
+    },
+    "status": "completed",
+    "releaseDate": 2006,
+    "contentRating": "safe",
+    "lastVolume": "14",
+    "lastChapter": "179"
+  },
+  {
     "mangaId": "7d18c567-426e-4c11-8c49-6ec843f53cef",
     "title": {
       "en": "Ikigami Sairin"
@@ -1667,38 +1706,5 @@
     "contentRating": "safe",
     "lastVolume": "8",
     "lastChapter": "88"
-  },
-  {
-    "mangaId": "0311b163-a021-4c27-bd26-3f83f280115f",
-    "title": {
-      "en": "Tenki no Ko"
-    },
-    "updatedAt": "2023-10-27T21:40:53+00:00",
-    "coverArt": "https://mangadex.org/covers/0311b163-a021-4c27-bd26-3f83f280115f/f4d62c75-6b66-489b-b094-6db9c3b78f10.jpg",
-    "altTitles": [
-      {
-        "en": "Weathering with You"
-      },
-      {
-        "ru": "\u0414\u0438\u0442\u044f \u043f\u043e\u0433\u043e\u0434\u044b"
-      },
-      {
-        "zh": "\u5929\u6c14\u4e4b\u5b50"
-      },
-      {
-        "ja": "\u5929\u6c17\u306e\u5b50"
-      },
-      {
-        "pt-br": "O Tempo Com Voc\u00ea"
-      }
-    ],
-    "description": {
-      "en": "High school freshman Hodaka Morishima leaves his home on an isolated island and moves to Tokyo, but immediately becomes broke because he lacks the identification card and experience to find a job. He faces abuse and difficulty every day, the only bright spot a chance kindness by a girl working at a fast food restaurant. Finally he finds a job as an assistant to an editor he met on the ferry from his home island. Soon after, he has another chance meeting with the girl who had shown him kindness, and a shady character who had abused him at his lowest. Hodaka rescues the girl, Hina Amano, and they run away together. Due to certain circumstances, Hina and her younger brother live together, but have a cheerful and sturdy life. This bright and strong\u00adwilled girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky, but at a cost that she does not yet realize."
-    },
-    "status": "completed",
-    "releaseDate": 2019,
-    "contentRating": "safe",
-    "lastVolume": "3",
-    "lastChapter": "13.5"
   }
 ]
