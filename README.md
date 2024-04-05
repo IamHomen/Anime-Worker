@@ -19,7 +19,7 @@
 
 | parameters   | description       |
 | ------------ | ------------------- |
-| `gogoanime` `animepahe` `anilist` `mangadex` | select from below and replace the url |
+| `gogoanime` `animepahe` `anilist` `mangadex` | select filename from below and replace the url |
 
 ### ROUTES  |   END POINT
  # gogoanime |  
