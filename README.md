@@ -1,4 +1,4 @@
-<b>UPDATE DATA EVERY HOUR</b>
+<b>UPDATE DATA EVERY 15 MINUTES</b>
 
 <strong>SUPPORTED SITES</strong>
 
