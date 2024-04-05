@@ -12,7 +12,7 @@ def get_latest_manga_updates():
 
         params = {
             'order[latestUploadedChapter]': 'desc',
-            'limit': 100,  # Limit the number of results to 10
+            'limit': 100  # Limit the number of results to 10
         }
       
         # Make the request to the MangaDex API
