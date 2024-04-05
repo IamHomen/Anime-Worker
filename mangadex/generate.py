@@ -17,10 +17,11 @@ def get_latest_manga_updates():
         # Extract the manga data from the response
         for manga in result['data']:
             for relationship in manga['relationships']:
-         if relationship['type'] == 'cover_art':
-            cover_art_attributes = relationship['attributes']
-            cover_art_file_name = cover_art_attributes['fileName']
-            break
+                if relationship['type'] == 'cover_art':
+                    cover_art_attributes = relationship['attributes']
+                    cover_art_file_name = cover_art_attributes['fileName']
+                    break  # Exit the loop once the correct relationship is found
+
              
             title = manga['attributes']['title']['en'],
             coverUrl = f"https://mangadex.org/covers/{title}/{cover_art_file_name}"
