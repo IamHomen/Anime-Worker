@@ -2,14 +2,11 @@ import requests
 import json
 
 # Define the API endpoint for getting the latest manga updates
-API_URL_LATEST_UPDATE = 'https://api.mangadex.org/manga?order[latestUploadedChapter]=desc&limit=100'
+API_URL_LATEST_UPDATE = 'https://api.mangadex.org/manga?includes[]=cover_art&order[latestUploadedChapter]=desc&hasAvailableChapters=true&limit=20'
 
 def get_latest_manga_updates():
     manga_list = []
     try:
-        # Define the request headers with your API key
-        #headers = {'Authorization': f'Bearer {API_KEY}'}
-      
         # Make the request to the MangaDex API
         response = requests.get(API_URL_LATEST_UPDATE)
         response.raise_for_status()
