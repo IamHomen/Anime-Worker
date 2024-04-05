@@ -1,7 +1,6 @@
 import requests
 import json
 
-# Define the API endpoint for getting the latest manga updates
 API_URL_LATEST_UPDATE = 'https://api.mangadex.org/manga?includes[]=cover_art&order[latestUploadedChapter]=desc&hasAvailableChapters=true&limit=20'
 
 def get_latest_manga_updates():
