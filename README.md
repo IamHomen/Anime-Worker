@@ -22,15 +22,20 @@
 
 ### ROUTES  |   END POINT
  gogoanime |  
+ 
  `recent-sub.json`, 
+ 
  `popular.json`, 
+
  `trending.json`
 
  animepahe |  
  `recent-sub.json`
 
  anilist   |  
+ 
  `popular.json`, 
+ 
  `trending.json`
 
 ```js
