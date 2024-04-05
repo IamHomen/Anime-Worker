@@ -136,6 +136,30 @@
     "lastChapter": "67"
   },
   {
+    "mangaId": "d65f4c46-9e71-482c-9959-3a3c469eac29",
+    "title": {
+      "en": "Max Level Player"
+    },
+    "updatedAt": "2024-01-19T02:06:03+00:00",
+    "coverArt": "https://mangadex.org/covers/d65f4c46-9e71-482c-9959-3a3c469eac29/e525cc08-d704-4970-be68-d062872b079c.jpg",
+    "altTitles": [
+      {
+        "ko": "\ub9cc\ub819 \ud50c\ub808\uc774\uc5b4"
+      },
+      {
+        "en": "Max Talent Player"
+      }
+    ],
+    "description": {
+      "en": "The virtual reality game, Olympus.\n\nA means to support reality after all the knowledge and records accumulated by mankind had disappeared overnight.\n\n\u2018My real life starts now!\u2019\n\nAbsolute evil appears in such a world!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "17a56d33-9443-433a-9e0d-70459893ed8f",
     "title": {
       "en": "My Wife Is From a Thousand Years Ago"
@@ -1591,50 +1615,5 @@
     "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "661a792b-6729-4f54-af20-4108db55ccf4",
-    "title": {
-      "en": "Ouran High School Host Club"
-    },
-    "updatedAt": "2024-04-03T17:39:49+00:00",
-    "coverArt": "https://mangadex.org/covers/661a792b-6729-4f54-af20-4108db55ccf4/181706d5-2c5e-4f09-b55e-99e0294fe255.jpg",
-    "altTitles": [
-      {
-        "vi": "6 ch\u00e0ng trai v\u00e0 1 c\u00f4 g\u00e1i"
-      },
-      {
-        "pt-br": "Col\u00e9gio Ouran Host Club"
-      },
-      {
-        "fr": "Host Club - Le Lyc\u00e9e de la s\u00e9duction"
-      },
-      {
-        "ru": "\u0413\u043e\u0441\u0442\u0435\u0432\u043e\u0439 \u043a\u043b\u0443\u0431 \u043b\u0438\u0446\u0435\u044f \u041e\u0440\u0430\u043d"
-      },
-      {
-        "ru": "\u0425\u043e\u0441\u0442-\u043a\u043b\u0443\u0431 \u0448\u043a\u043e\u043b\u044b \u041e\u0440\u0430\u043d"
-      },
-      {
-        "ar": "\u0646\u0627\u062f\u064a \u0627\u0644\u0636\u064a\u0627\u0641\u0629 \u0644\u062b\u0627\u0646\u0648\u064a\u0629 \u0623\u0648\u0631\u0627\u0646"
-      },
-      {
-        "ja": "\u685c\u862d\u9ad8\u6821\u30db\u30b9\u30c8\u90e8"
-      },
-      {
-        "zh-hk": "\u6afb\u862d\u9ad8\u6821\u7537\u516c\u95dc\u90e8"
-      },
-      {
-        "ko": "\uc624\ub780\uace0\uad50 \ud638\uc2a4\ud2b8\ubd80"
-      }
-    ],
-    "description": {
-      "en": "One day, Haruhi, a scholarship student at exclusive Ouran High School, breaks an $80,000 vase that belongs to the \"Host Club,\" a mysterious campus group consisting of six super-rich (and gorgeous) guys. To pay back the damages, she is forced to work for the club, and it's there that she discovers just how wealthy the boys are and how different they are from everybody else. [Viz]"
-    },
-    "status": "completed",
-    "releaseDate": 2003,
-    "contentRating": "safe",
-    "lastVolume": "18",
-    "lastChapter": "83.5"
   }
 ]
