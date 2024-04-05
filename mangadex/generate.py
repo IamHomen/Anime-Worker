@@ -16,12 +16,18 @@ def get_latest_manga_updates():
 
         # Extract the manga data from the response
         for manga in result['data']:
-            cover_art = manga['relationships']['cover_art']['data']['id'] if 'cover_art' in manga['relationships'] else None
+            for relationship in manga['relationships']:
+         if relationship['type'] == 'cover_art':
+            cover_art_attributes = relationship['attributes']
+            cover_art_file_name = cover_art_attributes['fileName']
+            break
+             
+            title = manga['attributes']['title']['en'],
+            coverUrl = f"https://mangadex.org/covers/{title}/{cover_art_file_name}"
             manga_list.append({
                 'mangaId': manga['id'],
-                'title': manga['attributes']['title']['en'],
                 'updatedAt': manga['attributes']['updatedAt'],
-                'coverArt': cover_art,
+                'coverArt': coverUrl,
                 'availableChapters': manga['attributes']['chapterCount'] if 'chapterCount' in manga['attributes'] else None,
                 'altTitles': manga['attributes']['altTitles'],
                 'description': manga['attributes']['description'],
