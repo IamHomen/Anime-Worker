@@ -10,7 +10,8 @@
 
 [MangaDex](https://mangadex.org/)
 
-<strong>Still in Development</strong>
+<strong>ℹ️ Still in Development</strong>
+<center></red>WILL SUPPORT MORE IN THE FUTURE</center>
 
 ## Documentation
 
