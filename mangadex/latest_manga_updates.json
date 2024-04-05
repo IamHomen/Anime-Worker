@@ -1,29 +1,5 @@
 [
   {
-    "mangaId": "1e01d7f6-c4e1-4102-9dd0-a6fccc065978",
-    "title": {
-      "en": "Monochrome Lovers"
-    },
-    "updatedAt": "2024-03-24T11:19:45+00:00",
-    "coverArt": "https://mangadex.org/covers/1e01d7f6-c4e1-4102-9dd0-a6fccc065978/ebe9af06-9336-4b7e-93e7-624bb97c1d78.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Monokurorab\u0101zu"
-      },
-      {
-        "ja": "\u30e2\u30ce\u30af\u30ed\u30e9\u30d0\u30fc\u30ba"
-      }
-    ],
-    "description": {
-      "en": "One day, suddenly, an angel came descending from the sky!?  \nWhile heading towards his university entrance ceremony, Yuu meets an unsociable, mysterious girl. Yuu, who can't help but be curious of her \u2014 who is as free-willing as a stray cat \u2014 gradually shortens the distance between them. As various feelings mix around, their bond gets spun together, but what can be seen beyond that is\u2026"
-    },
-    "status": "completed",
-    "releaseDate": 2016,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "174"
-  },
-  {
     "mangaId": "3fc308c9-4b00-4dc3-943e-1f39242bc708",
     "title": {
       "en": "Overgeared"
@@ -1856,5 +1832,30 @@
     "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
+  },
+  {
+    "mangaId": "279caee1-4a5e-46a9-a472-dc250cd05093",
+    "title": {
+      "en": "Wonder House of Horrors"
+    },
+    "updatedAt": "2024-04-05T19:52:37+00:00",
+    "coverArt": "https://mangadex.org/covers/279caee1-4a5e-46a9-a472-dc250cd05093/70bc5590-df7e-418a-b963-456f4fdc8fce.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Kaiki no Yakata"
+      },
+      {
+        "ja": "\u602a\u5947\u306e\u9928"
+      }
+    ],
+    "description": {
+      "en": "A 10 story horror anthology by Miyako Cojima that is sometimes kooky, sometimes gory, and sometimes positively profound!\n\n1- Ugly Face\n2- The Amazing Dismembered Girl\n3- Monologue\n4- Severance\n5- Speed Girl\n6- Wonder Valentine\n7- Chocolate Man\n8- Mission School\n9- The Hut in the Mountains\n10- Mansion of Sweet Mystery\n\nNote: Wonder Valentine has 3 stories together",
+      "ja": "\u30fb\u919c\u3044\u9854\n\u30fb\u602a\u4eba\u30d0\u30e9\u30d0\u30e9\u5c11\u5973\n\u30fb\u72ec\u767d\n\u30fb\u9996\n\u30fb\u30de\u30c3\u30cf\uff27\uff2f-\uff27\uff2f-\u30ac\uff5e\u30eb\n\u30fb\u30ef\u30f3\u30c0\uff5e\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\n\u30fb\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30fb\u30de\u30f3\n\u30fb\u30df\u30c3\u30b7\u30e7\u30f3\u30b9\u30af\u30fc\u30eb\n\u30fb\u5c71\u5c0f\u5c4b\n\u30fb\u8b0e\u306e\u6d0b\u9928"
+    },
+    "status": "completed",
+    "releaseDate": 1997,
+    "contentRating": "safe",
+    "lastVolume": "1",
+    "lastChapter": "10"
   }
 ]
