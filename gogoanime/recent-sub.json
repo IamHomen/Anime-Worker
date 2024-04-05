@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "shaman-king-flowers",
+    "animeTitle": "Shaman King: Flowers",
+    "animeImg": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
+    "episode": "Episode 12",
+    "animeUrl": "https://anitaku.to/shaman-king-flowers-episode-12"
+  },
+  {
     "animeId": "ninjala",
     "animeTitle": "Ninjala",
     "animeImg": "https://gogocdn.net/cover/ninjala.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-1"
-  },
-  {
-    "animeId": "odekake-kozame",
-    "animeTitle": "Odekake Kozame",
-    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
-    "episode": "Episode 49",
-    "animeUrl": "https://anitaku.to/odekake-kozame-episode-49"
   }
 ]
