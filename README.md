@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mrcainv1-3128/Homen-Anime-Worker">
-    <img src="img/gogo.png" alt="Logo" width="85" height="85">
+    <img src="img/gogo.png" alt="Logo" width="100" height="85">
   </a>
 <a href="https://github.com/mrcainv1-3128/Homen-Anime-Worker">
     <img src="img/anilist.png" alt="Logo" width="85" height="85">
