@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "boku-no-hero-academia-7th-season",
+    "animeTitle": "Boku no Hero Academia 7th Season",
+    "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/boku-no-hero-academia-7th-season-episode-1"
+  },
+  {
     "animeId": "ooi-tonbo",
     "animeTitle": "Ooi! Tonbo",
     "animeImg": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/yuru-camp-season-3-episode-1"
-  },
-  {
-    "animeId": "hibike-euphonium-3",
-    "animeTitle": "Hibike! Euphonium 3",
-    "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.to/hibike-euphonium-3-episode-2"
   }
 ]
