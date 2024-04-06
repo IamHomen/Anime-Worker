@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "tonari-no-youkai-san",
+    "animeTitle": "Tonari no Youkai-san",
+    "animeImg": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/tonari-no-youkai-san-episode-1"
+  },
+  {
     "animeId": "boku-no-hero-academia-memories",
     "animeTitle": "Boku no Hero Academia: Memories",
     "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/ninjala.png",
     "episode": "Episode 111",
     "animeUrl": "https://anitaku.to/ninjala-episode-111"
-  },
-  {
-    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.to/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-2"
   }
 ]
