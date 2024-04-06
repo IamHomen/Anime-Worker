@@ -213,9 +213,5 @@ def scrape_anilist_trending():
 
 # Call the function to scrape AniList data
 scrape_anilist_most_favourites()
-
-# Call the function to scrape AniList data
 scrape_anilist_trending()
-
-# Call the function to scrape AniList data
 scrape_anilist_popular()
