@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "yoru-no-kurage-wa-oyogenai",
+    "animeTitle": "Yoru no Kurage wa Oyogenai",
+    "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/yoru-no-kurage-wa-oyogenai-episode-1"
+  },
+  {
     "animeId": "bucchigiri",
     "animeTitle": "Bucchigiri?!",
     "animeImg": "https://gogocdn.net/cover/bucchigiri-2-1704168535.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/majo-to-yajuu-1704187164.png",
     "episode": "Episode 12",
     "animeUrl": "https://anitaku.to/majo-to-yajuu-episode-12"
-  },
-  {
-    "animeId": "wind-breaker",
-    "animeTitle": "Wind Breaker",
-    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/wind-breaker-episode-1"
   }
 ]
