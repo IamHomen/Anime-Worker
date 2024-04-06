@@ -1,5 +1,5 @@
 {
-  "total": 5066,
+  "total": 5068,
   "per_page": 12,
   "current_page": 1,
   "last_page": 423,
@@ -8,6 +8,38 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 62334,
+      "anime_id": 5555,
+      "anime_title": "Nijiyon Animation 2",
+      "anime_session": "5671eabf-2c7c-3eb7-e36c-eadf8c229ad2",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/62ecaefb18ed10f5553dba47d3c758fb2c8a09c1f9d4f71d130b577b30fbb492.jpg",
+      "disc": "",
+      "session": "f923866a0cdb63b24289607d8e4fa716d9a526e7deb930e068b4dbee532d6707",
+      "filler": 0,
+      "created_at": "2024-04-05 19:45:38",
+      "completed": 0
+    },
+    {
+      "id": 62333,
+      "anime_id": 5541,
+      "anime_title": "Highspeed Etoile",
+      "anime_session": "4fe14e97-a273-9c59-7793-f9b271571f64",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/f57dc24688de5a64c41a69e602851e59b0189ac04f094d154e7dfd0f3f56f0e8.jpg",
+      "disc": "",
+      "session": "a37cbc6bf790e9fa3b72d6c61a977f106f03ff13ee0cb29f30c0e48ff7666dca",
+      "filler": 0,
+      "created_at": "2024-04-05 18:05:54",
+      "completed": 0
+    },
     {
       "id": 62332,
       "anime_id": 5465,
@@ -166,38 +198,6 @@
       "session": "e5799e984f19ec1a5bbf42fdf1c5c28158cabc62ddf5d88d506e0d9b4fd92a82",
       "filler": 0,
       "created_at": "2024-04-04 18:04:39",
-      "completed": 0
-    },
-    {
-      "id": 62321,
-      "anime_id": 5522,
-      "anime_title": "Wind Breaker",
-      "anime_session": "800c1e7c-356c-9e7f-b5bb-032b2dca5c2f",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/91625aefaa1638d95fc0cb22b2e7720e4c6097fb1eaafbcde860446c97bbd982.jpg",
-      "disc": "",
-      "session": "3220bfaaee22f86bd4c0c0840ad97008f0f4e38a2ad3daec67f7d401e09ffa11",
-      "filler": 0,
-      "created_at": "2024-04-04 17:35:55",
-      "completed": 0
-    },
-    {
-      "id": 62320,
-      "anime_id": 5520,
-      "anime_title": "Hananoi-kun to Koi no Yamai",
-      "anime_session": "85cd71e1-33a2-4a40-98b0-6802ebc35468",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/7bfaed9518dc1798e4eb524599d03b8df4a08084adebc0aa0c2068d52651f691.jpg",
-      "disc": "",
-      "session": "4eca94bbd682a7570d1fa7ecdb37f98c92e100da4190c9577c2ba70e262bd586",
-      "filler": 0,
-      "created_at": "2024-04-04 17:05:08",
       "completed": 0
     }
   ]
