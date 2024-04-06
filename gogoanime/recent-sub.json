@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "the-fable",
+    "animeTitle": "The Fable",
+    "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/the-fable-episode-1"
+  },
+  {
     "animeId": "yoru-no-kurage-wa-oyogenai",
     "animeTitle": "Yoru no Kurage wa Oyogenai",
     "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/chiikawa.png",
     "episode": "Episode 86",
     "animeUrl": "https://anitaku.to/chiikawa-episode-86"
-  },
-  {
-    "animeId": "majo-to-yajuu",
-    "animeTitle": "Majo to Yajuu",
-    "animeImg": "https://gogocdn.net/cover/majo-to-yajuu-1704187164.png",
-    "episode": "Episode 12",
-    "animeUrl": "https://anitaku.to/majo-to-yajuu-episode-12"
   }
 ]
