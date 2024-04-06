@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "bucchigiri",
+    "animeTitle": "Bucchigiri?!",
+    "animeImg": "https://gogocdn.net/cover/bucchigiri-2-1704168535.png",
+    "episode": "Episode 12",
+    "animeUrl": "https://anitaku.to/bucchigiri-episode-12"
+  },
+  {
     "animeId": "detective-conan",
     "animeTitle": "Detective Conan",
     "animeImg": "https://gogocdn.net/cover/detective-conan.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/wind-breaker-episode-1"
-  },
-  {
-    "animeId": "henjin-no-salad-bowl",
-    "animeTitle": "Henjin no Salad Bowl",
-    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/henjin-no-salad-bowl-episode-1"
   }
 ]
