@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "girls-band-cry",
+    "animeTitle": "Girls Band Cry",
+    "animeImg": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/girls-band-cry-episode-1"
+  },
+  {
     "animeId": "highspeed-etoile",
     "animeTitle": "Highspeed Etoile",
     "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
     "episode": "Episode 14",
     "animeUrl": "https://anitaku.to/dungeon-meshi-episode-14"
-  },
-  {
-    "animeId": "atashinchi",
-    "animeTitle": "Atashin'chi",
-    "animeImg": "https://gogocdn.net/cover/atashinchi.png",
-    "episode": "Episode 358",
-    "animeUrl": "https://anitaku.to/atashinchi-episode-358"
   }
 ]
