@@ -1,24 +1,5 @@
 [
   {
-    "mangaId": "5ab1ff1e-8a54-4d91-b388-8fd1e5ec9daa",
-    "title": {
-      "en": "Flirting"
-    },
-    "updatedAt": "2024-01-14T10:34:24+00:00",
-    "coverArt": "https://mangadex.org/covers/5ab1ff1e-8a54-4d91-b388-8fd1e5ec9daa/614c4288-6767-4661-a109-9d0dde30184b.png",
-    "altTitles": [
-      {
-        "ja": "\u30d5\u30e9\u30fc\u30c6\u30a3\u30f3\u30b0"
-      }
-    ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
     "mangaId": "2b8ea244-30be-4c4b-b3dd-d136b4b7b443",
     "title": {
       "en": "That Villain's Life, I'll Live It Once"
@@ -41,6 +22,25 @@
     },
     "status": "ongoing",
     "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "5ab1ff1e-8a54-4d91-b388-8fd1e5ec9daa",
+    "title": {
+      "en": "Flirting"
+    },
+    "updatedAt": "2024-01-14T10:34:24+00:00",
+    "coverArt": "https://mangadex.org/covers/5ab1ff1e-8a54-4d91-b388-8fd1e5ec9daa/614c4288-6767-4661-a109-9d0dde30184b.png",
+    "altTitles": [
+      {
+        "ja": "\u30d5\u30e9\u30fc\u30c6\u30a3\u30f3\u30b0"
+      }
+    ],
+    "description": {},
+    "status": "completed",
+    "releaseDate": 2024,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
