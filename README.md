@@ -15,8 +15,8 @@
     <img src="img/animepahe.svg" alt="Logo" width="85" height="85">
   </a>
   <br>
-  <h3 align="center">Homen Anime Worker</h3>
-
+  <h2 align="center">Homen Anime Worker</h3>
+<br>
 <b>UPDATE DATA EVERY 15 MINUTES</b>
 
 <strong>SUPPORTED SITES</strong>
