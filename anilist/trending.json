@@ -24,14 +24,6 @@
     "format": "TV"
   },
   {
-    "id": 166910,
-    "title": "The Fable",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 154587,
     "title": "Sousou no Frieren",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
@@ -72,6 +64,14 @@
     "format": "TV"
   },
   {
+    "id": 166910,
+    "title": "The Fable",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 25,
+    "format": "TV"
+  },
+  {
     "id": 169927,
     "title": "One Room, Hi Atari Futsuu, Tenshi Tsuki.",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169927-3FwBuKn4x5LL.jpg",
@@ -104,6 +104,14 @@
     "format": "TV"
   },
   {
+    "id": 161645,
+    "title": "Kusuriya no Hitorigoto",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-bX5S28Cc1Nnk.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
     "id": 143271,
     "title": "Mahouka Koukou no Rettousei 3rd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143271-o5wry0ohH9R3.jpg",
@@ -117,14 +125,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164212-xjkAkp6SKaCZ.jpg",
     "seasonYear": 2024,
     "totalEpisode": null,
-    "format": "TV"
-  },
-  {
-    "id": 161645,
-    "title": "Kusuriya no Hitorigoto",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-bX5S28Cc1Nnk.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -160,11 +160,11 @@
     "format": "TV"
   },
   {
-    "id": 166216,
-    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166216-JVyN7PHel5K9.jpg",
+    "id": 155890,
+    "title": "Bartender: Kami no Glass",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155890-1dhQgpT8wYkF.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 13,
+    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -200,14 +200,6 @@
     "format": "TV"
   },
   {
-    "id": 155890,
-    "title": "Bartender: Kami no Glass",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155890-1dhQgpT8wYkF.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": null,
-    "format": "TV"
-  },
-  {
     "id": 145064,
     "title": "Jujutsu Kaisen 2nd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-FwX2pzE4mS8Q.jpg",
@@ -237,6 +229,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166794-veSLL0zrrBhp.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 166216,
+    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166216-JVyN7PHel5K9.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 13,
     "format": "TV"
   },
   {
@@ -344,14 +344,6 @@
     "format": "TV"
   },
   {
-    "id": 144176,
-    "title": "Kami wa Game ni Ueteiru.",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144176-xM8XAC3oUn5C.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
     "id": 155657,
     "title": "Shuumatsu Train Doko e Iku?",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg",
@@ -397,6 +389,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png",
     "seasonYear": 2007,
     "totalEpisode": 500,
+    "format": "TV"
+  },
+  {
+    "id": 163076,
+    "title": "Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163076-zwNndcqDSEGs.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   }
 ]
