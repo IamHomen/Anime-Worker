@@ -1,5 +1,27 @@
 [
   {
+    "mangaId": "76a1ac57-522b-424c-99d1-c3a54ad86e07",
+    "title": {
+      "en": "Mantis."
+    },
+    "updatedAt": "2023-04-19T23:08:54+00:00",
+    "coverArt": "https://mangadex.org/covers/76a1ac57-522b-424c-99d1-c3a54ad86e07/49a72e07-d0dd-4e88-ab0e-27c67724d2d9.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Kamakiri."
+      },
+      {
+        "ja-ro": "\u304b\u307e\u304d\u308a\u3002"
+      }
+    ],
+    "description": {},
+    "status": "completed",
+    "releaseDate": 2019,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "f0d61c20-48e7-4e63-b40d-cb497dc1ed45",
     "title": {
       "en": "Terror Man"
@@ -20,6 +42,30 @@
     "contentRating": "safe",
     "lastVolume": "2",
     "lastChapter": "209"
+  },
+  {
+    "mangaId": "611abd12-2640-49f0-89e1-44a6a79bf8c8",
+    "title": {
+      "en": "Unexpected Luck"
+    },
+    "updatedAt": "2024-03-26T18:01:53+00:00",
+    "coverArt": "https://mangadex.org/covers/611abd12-2640-49f0-89e1-44a6a79bf8c8/b38be28c-2604-4ae5-a2c1-3554064541b2.jpg",
+    "altTitles": [
+      {
+        "zh": "\u8ffd\u5c3e"
+      },
+      {
+        "en": "Rear-End Collision"
+      }
+    ],
+    "description": {
+      "en": "\"Young Master Chi, you're not going to help me unconditionally, are you?\"\n\n\"You'll find out soon enough what this deal entails. Now, all you need to do is give me an answer. Do you want this opportunity or not?\"\n\n\"Yes, I do.\"\n\nChi Mingyao made a deal with an actor who was brave enough to block him because of a car accident. He only wanted to tease the little actor at first, but eventually, he genuinely wanted to befriend Li Yangxiao and pass on his good luck to him\u2014all so that Yangxiao could chase his dreams without a care in the world."
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
   },
   {
     "mangaId": "c4f27c5f-c136-4f86-8aab-f865c32978fd",
@@ -249,30 +295,6 @@
     "status": "ongoing",
     "releaseDate": 2019,
     "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "611abd12-2640-49f0-89e1-44a6a79bf8c8",
-    "title": {
-      "en": "Unexpected Luck"
-    },
-    "updatedAt": "2024-03-26T18:01:53+00:00",
-    "coverArt": "https://mangadex.org/covers/611abd12-2640-49f0-89e1-44a6a79bf8c8/b38be28c-2604-4ae5-a2c1-3554064541b2.jpg",
-    "altTitles": [
-      {
-        "zh": "\u8ffd\u5c3e"
-      },
-      {
-        "en": "Rear-End Collision"
-      }
-    ],
-    "description": {
-      "en": "\"Young Master Chi, you're not going to help me unconditionally, are you?\"\n\n\"You'll find out soon enough what this deal entails. Now, all you need to do is give me an answer. Do you want this opportunity or not?\"\n\n\"Yes, I do.\"\n\nChi Mingyao made a deal with an actor who was brave enough to block him because of a car accident. He only wanted to tease the little actor at first, but eventually, he genuinely wanted to befriend Li Yangxiao and pass on his good luck to him\u2014all so that Yangxiao could chase his dreams without a care in the world."
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "erotica",
     "lastVolume": "",
     "lastChapter": ""
   },
@@ -1521,42 +1543,5 @@
     "contentRating": "safe",
     "lastVolume": null,
     "lastChapter": null
-  },
-  {
-    "mangaId": "abad18cf-bf72-4bbc-97c8-b55dfa28f9b9",
-    "title": {
-      "en": "Ane no Yuujin (One-shot)"
-    },
-    "updatedAt": "2024-04-02T00:40:34+00:00",
-    "coverArt": "https://mangadex.org/covers/abad18cf-bf72-4bbc-97c8-b55dfa28f9b9/88dae6c1-55f2-425a-b76d-7771c64c4652.jpg",
-    "altTitles": [
-      {
-        "ja": "\u59c9\u306e\u53cb\u4eba (one-shot)"
-      },
-      {
-        "en": "My Older Sister's Friend"
-      },
-      {
-        "en": "The Cutest Girl Closest to Me."
-      },
-      {
-        "ru": "\u041f\u043e\u0434\u0440\u0443\u0433\u0430 \u0441\u0442\u0430\u0440\u0448\u0435\u0439 \u0441\u0435\u0441\u0442\u0440\u044b"
-      },
-      {
-        "ja": "\u59c9\u306e\u3068\u3082\u3060\u3061 ( Serialization)"
-      },
-      {
-        "ja": "Ane no Yuujin (One-shot)"
-      }
-    ],
-    "description": {
-      "en": "Hinako, a friend of Asahi's older sister, is a frequent guest at the home of the high school boy. She always misleads his mind with her suggestive attitude while treating him like a little brother...or rather, pet? A love story between a gal who has a bugged sense of proximity and an otaku guy who acts like her parent!\n\nChapters 3 and onwards can be found in the [serialised version](https://mangadex.org/title/1d330951-583e-423e-9cd7-abcd6f761f53/ane-no-tomodachi)",
-      "ja": "\u7537\u5b50\u9ad8\u6821\u751f\u30fb\u65ed\u306e\u5bb6\u306b\u5165\u308a\u6d78\u308b\u3001\u59c9\u306e\u53cb\u4eba\u30fb\u3072\u306a\u3053\u3002\u3044\u3064\u3082\u601d\u308f\u305b\u3076\u308a\u306a\u614b\u5ea6\u3067\u5fc3\u3092\u60d1\u308f\u305b\u308b\u306e\u306f\u3001\u5f1f\u2026\u3068\u3044\u3046\u304b\u30da\u30c3\u30c8\uff1f\u6271\u3044\u3060\u304b\u3089\u3068\u601d\u3063\u3066\u3044\u305f\u3051\u308c\u3069\u2026\uff1f\u8ddd\u96e2\u611f\u30d0\u30b0\u308a\u304e\u307f\u30ae\u30e3\u30eb\u00d7\u304a\u304b\u3093\u7cfb\u30aa\u30bf\u30af\u7537\u5b50\u3001\u30b8\u30ec\u304d\u3085\u3093\u30e9\u30d6\uff01"
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": "2"
   }
 ]
