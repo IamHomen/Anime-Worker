@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "ooi-tonbo",
+    "animeTitle": "Ooi! Tonbo",
+    "animeImg": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/ooi-tonbo-episode-1"
+  },
+  {
     "animeId": "girls-band-cry",
     "animeTitle": "Girls Band Cry",
     "animeImg": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.to/hibike-euphonium-3-episode-2"
-  },
-  {
-    "animeId": "dungeon-meshi",
-    "animeTitle": "Dungeon Meshi",
-    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 14",
-    "animeUrl": "https://anitaku.to/dungeon-meshi-episode-14"
   }
 ]
