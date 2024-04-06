@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "detective-conan",
+    "animeTitle": "Detective Conan",
+    "animeImg": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1119",
+    "animeUrl": "https://anitaku.to/detective-conan-episode-1119"
+  },
+  {
+    "animeId": "one-room-hiatari-futsuu-tenshi-tsuki",
+    "animeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+    "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.to/one-room-hiatari-futsuu-tenshi-tsuki-episode-2"
+  },
+  {
     "animeId": "boku-no-hero-academia-7th-season",
     "animeTitle": "Boku no Hero Academia 7th Season",
     "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/henjin-no-salad-bowl-episode-1"
-  },
-  {
-    "animeId": "hananoi-kun-to-koi-no-yamai",
-    "animeTitle": "Hananoi-kun to Koi no Yamai",
-    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/hananoi-kun-to-koi-no-yamai-episode-1"
-  },
-  {
-    "animeId": "yuru-camp-season-3",
-    "animeTitle": "Yuru Camp\u25b3 Season 3",
-    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/yuru-camp-season-3-episode-1"
   }
 ]
