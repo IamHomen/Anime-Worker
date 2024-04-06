@@ -1,3 +1,8 @@
+<img src"img/gogo.png">
+<img src"img/anilist.png">
+<img src"img/animepahe.svg">
+<img src"img/mangadex.svg">
+
 <b>UPDATE DATA EVERY 15 MINUTES</b>
 
 <strong>SUPPORTED SITES</strong>
@@ -11,7 +16,8 @@
 [MangaDex](https://mangadex.org/)
 
 <strong>ℹ️ Still in Development</strong>
-<center></red>WILL SUPPORT MORE IN THE FUTURE</center>
+
+<center>WILL SUPPORT MORE IN THE FUTURE</center>
 
 ## Documentation
 
@@ -37,7 +43,9 @@
  
  `popular.json`, 
  
- `trending.json`
+ `trending.json`,
+ 
+ `most-favourites.json`
 
  # mangadex  | 
 
@@ -49,3 +57,7 @@ fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/a
   .then((response) => response.json())
   .then((animelist) => console.log(animelist));
 ```
+
+
+
+<center>MADE PURELY ON PYTHON</center>
