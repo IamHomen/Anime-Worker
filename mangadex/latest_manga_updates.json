@@ -1,5 +1,70 @@
 [
   {
+    "mangaId": "c727d921-4294-455b-9bcc-2f0c7d29cd9a",
+    "title": {
+      "en": "Rokudenashi Blues"
+    },
+    "updatedAt": "2024-02-21T10:12:34+00:00",
+    "coverArt": "https://mangadex.org/covers/c727d921-4294-455b-9bcc-2f0c7d29cd9a/91c8d035-6dd3-4d18-973c-0152a440bbc8.png",
+    "altTitles": [
+      {
+        "fr": "Racaille Blues"
+      },
+      {
+        "ja-ro": "RokuBuru"
+      },
+      {
+        "tr": "Serseri H\u00fczn\u00fc"
+      },
+      {
+        "ja": "\u308d\u304f\u3067\u306a\u3057BLUES"
+      },
+      {
+        "vi": "B\u1ea3n Blues v\u00f4 gi\u00e1 tr\u1ecb"
+      },
+      {
+        "ja-ro": "Rokudenashi Blues"
+      },
+      {
+        "ja": "Maeda Taison Blues"
+      }
+    ],
+    "description": {
+      "en": "Maeda is a new student in the Teiken High School. He stutters when he's nervous and he's rather clumsy. He gets noted immediately because he hits a teacher during the entrance ceremony. Some clubs search to enlist him as they see in him a force they can use to get even with other clubs. But Maeda is a loner and has only one dream: becoming boxing champion. His first objective is to beat the leader of the boxing club. \"Rokudenashi\" translates as \"good for nothing\".  \n  \nThe manga focuses more on gang warfare than boxing.",
+      "es": "Maeda es un estudiante nuevo en el instituto Teiken. Tartamudea cuando est\u00e1 nervioso y es bastante torpe. Se hace notar inmediatamente porque golpea a un profesor durante la ceremonia de ingreso. Algunos clubes buscan alistarlo ya que ven en \u00e9l una fuerza que pueden utilizar para vengarse de otros clubes. Pero Maeda es un solitario y s\u00f3lo tiene un sue\u00f1o: convertirse en campe\u00f3n de boxeo. Su primer objetivo es vencer al l\u00edder del club de boxeo. \"Rokudenashi\" se traduce como \"bueno para nada\".\n\nEl manga se centra m\u00e1s en la lucha entre pandillas que en el boxeo.",
+      "es-la": "Maeda es un estudiante nuevo en el instituto Teiken. Tartamudea cuando est\u00e1 nervioso y es bastante torpe. Se hace notar inmediatamente porque golpea a un profesor durante la ceremonia de ingreso. Algunos clubes buscan alistarlo ya que ven en \u00e9l una fuerza que pueden utilizar para vengarse de otros clubes. Pero Maeda es un solitario y s\u00f3lo tiene un sue\u00f1o: convertirse en campe\u00f3n de boxeo. Su primer objetivo es vencer al l\u00edder del club de boxeo. \"Rokudenashi\" se traduce como \"bueno para nada\".\n\nEl manga se centra m\u00e1s en la lucha entre pandillas que en el boxeo."
+    },
+    "status": "completed",
+    "releaseDate": 1988,
+    "contentRating": "safe",
+    "lastVolume": "25",
+    "lastChapter": "422"
+  },
+  {
+    "mangaId": "6611fbc7-91a6-4022-8010-850b86328e6c",
+    "title": {
+      "en": "Elden Ring: Become Lord"
+    },
+    "updatedAt": "2024-04-02T19:12:48+00:00",
+    "coverArt": "https://mangadex.org/covers/6611fbc7-91a6-4022-8010-850b86328e6c/43e47f85-c8e1-4133-b834-54d5be4532bf.jpg",
+    "altTitles": [
+      {
+        "ru": "\u041a\u043e\u043b\u044c\u0446\u043e \u042d\u043b\u0434\u0435\u043d: \u0421\u0442\u0430\u043d\u044c \u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u043c"
+      },
+      {
+        "ja": "ELDEN RING Become Load"
+      }
+    ],
+    "description": {
+      "en": "Guided by a blessing, the fading adventurer who has reached the land between the two lands sets out on a journey to become the king of Elde - and he is not alone.\n\nThis comic book depicts Elden Ring's epic adventures, including fascinating characters encountered along the way, various dungeon explorations, and battles with powerful bosses."
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "826aec63-3fa8-413d-9a40-d2d1ef262725",
     "title": {
       "en": "The Most Notorious \"Talker\" Runs the World's Greatest Clan"
@@ -69,30 +134,6 @@
     },
     "status": "ongoing",
     "releaseDate": 2015,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "6611fbc7-91a6-4022-8010-850b86328e6c",
-    "title": {
-      "en": "Elden Ring: Become Lord"
-    },
-    "updatedAt": "2024-04-02T19:12:48+00:00",
-    "coverArt": "https://mangadex.org/covers/6611fbc7-91a6-4022-8010-850b86328e6c/43e47f85-c8e1-4133-b834-54d5be4532bf.jpg",
-    "altTitles": [
-      {
-        "ru": "\u041a\u043e\u043b\u044c\u0446\u043e \u042d\u043b\u0434\u0435\u043d: \u0421\u0442\u0430\u043d\u044c \u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u0435\u043c"
-      },
-      {
-        "ja": "ELDEN RING Become Load"
-      }
-    ],
-    "description": {
-      "en": "Guided by a blessing, the fading adventurer who has reached the land between the two lands sets out on a journey to become the king of Elde - and he is not alone.\n\nThis comic book depicts Elden Ring's epic adventures, including fascinating characters encountered along the way, various dungeon explorations, and battles with powerful bosses."
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
@@ -1615,57 +1656,5 @@
     "contentRating": "suggestive",
     "lastVolume": null,
     "lastChapter": null
-  },
-  {
-    "mangaId": "3ad8d2f2-1afe-43da-a88b-0a790c64939e",
-    "title": {
-      "en": "Maria no Danzai"
-    },
-    "updatedAt": "2024-03-12T13:42:44+00:00",
-    "coverArt": "https://mangadex.org/covers/3ad8d2f2-1afe-43da-a88b-0a790c64939e/7da041cc-0699-4d20-bee8-6f822f0fe3b7.jpg",
-    "altTitles": [
-      {
-        "ja": "\u8056\u6bcd\u306e\u65ad\u7f6a"
-      },
-      {
-        "ar": "\u062f\u064e\u064a\u0646\u064f\u0648\u0646\u064e\u0629 \u0645\u0627\u0631\u064a\u0627"
-      },
-      {
-        "ne": "\u092e\u093e\u0930\u093f\u092f\u093e\u0915\u094b \u0928\u093f\u0930\u094d\u0923\u092f"
-      },
-      {
-        "vi": "L\u1eddi tuy\u00ean \u00e1n c\u1ee7a \u0110\u1ee9c M\u1eb9"
-      },
-      {
-        "en": "Maria's Judgement"
-      },
-      {
-        "id": "Keyakinan Maria"
-      },
-      {
-        "es-la": "La Condena de Mar\u00eda"
-      },
-      {
-        "en": "Maria's Conviction"
-      },
-      {
-        "tl": "Ang Paghatol ni Maria"
-      },
-      {
-        "de": "Maria's Judgement"
-      }
-    ],
-    "description": {
-      "ar": "\u0628\u0639\u062f \u0648\u0641\u0627\u0629 \u0627\u0628\u0646\u0647\u0627 \u0628\u0637\u0631\u064a\u0642\u0629 \u0645\u0631\u0648\u0639\u0629\u060c \u062a\u0643\u062a\u0634\u0641 \u0648\u0627\u0644\u062f\u062a\u0647\u064f \u062a\u0646\u0645\u0631 \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0627\u0644\u0634\u062f\u064a\u062f \u0639\u0644\u064a\u0647\u060c \u0641\u0639\u0642\u062f\u062a \u0627\u0644\u0639\u0632\u0645 \u0639\u0644\u0649 \u0645\u0639\u0627\u0642\u0628\u0629 \u0623\u0648\u0644\u0626\u0643 \u0627\u0644\u0645\u062a\u0646\u0645\u0631\u064a\u0646 \u0627\u0644\u0630\u064a\u0646 \u0623\u062e\u0630\u0648\u0627 \u0627\u0628\u0646\u0647\u0627 \u0627\u0644\u062d\u0628\u064a\u0628 \u0645\u0646\u0647\u0627\u060c \u0648\u0628\u062f\u0623\u062a \u0627\u0644\u0639\u0645\u0644 \u0643\u0645\u0645\u0631\u0636\u0629 \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629",
-      "en": "The Nagare family was a happy home of three people. However, their son Kiritaka was secretly bullied at school. Then, an incident occurs, and the mother Mari's love for her son goes out of control.",
-      "ne": "\u0906\u092e\u093e\u092c\u0941\u0935\u093e \u0930 \u091b\u094b\u0930\u093e\u0938\u0939\u093f\u0924 \u0969 \u091c\u0928\u093e\u0915\u094b \u0928\u093e\u0917\u093e\u0930\u0947 \u092a\u0930\u093f\u0935\u093e\u0930\u0915\u094b \u0916\u0941\u0938\u0940\u0915\u094b \u0918\u0930 \u0925\u093f\u092f\u094b\u0964 \u0924\u0930, \u0909\u0928\u0940\u0939\u0930\u0941\u0915\u094b \u091b\u094b\u0930\u093e \u0915\u093f\u0930\u093f\u0924\u093e\u0915\u093e\u0932\u093e\u0908 \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\u092e\u093e \u0917\u094b\u092a\u094d\u092f \u0930\u0941\u092a\u092e\u093e \u0915\u0941\u091f\u092a\u093f\u091f \u0917\u0930\u093f\u090f\u0915\u094b \u0925\u093f\u092f\u094b\u0964  \u0924\u094d\u092f\u0938\u092a\u091b\u093f, \u090f\u0909\u091f\u093e \u0918\u091f\u0928\u093e \u0918\u091f\u094d\u091b, \u0930 \u0906\u092e\u093e \u092e\u093e\u0930\u093f\u092f\u093e\u0915\u094b \u091b\u094b\u0930\u093e\u092a\u094d\u0930\u0924\u093f\u0915\u094b \u092e\u093e\u092f\u093e \u0905\u0928\u093f\u092f\u0928\u094d\u0924\u094d\u0930\u093f\u0924 \u0939\u0941\u0928\u094d\u091b\u0964",
-      "vi": "M\u1ed9t gia \u0111\u00ecnh ba ng\u01b0\u1eddi nh\u1eefng t\u01b0\u1edfng \u0111ang h\u1ea1nh ph\u00fac, cho \u0111\u1ebfn khi Kiritaka, ng\u01b0\u1eddi con trai duy nh\u1ea5t c\u1ee7a Nagare Mari \"t\u1ef1 s\u00e1t\" v\u00ec \"qu\u00e1 \u0111au kh\u1ed5\". Cho r\u1eb1ng b\u1ea3n th\u00e2n \u0111\u00e3 v\u00f4 t\u00ecnh d\u1ed3n \u00e9p con trai y\u00eau qu\u00fd, Mari toang t\u00ecm \u0111\u1ebfn c\u00e1i ch\u1ebft, nh\u01b0ng kh\u00f4ng... c\u00f4 v\u00f4 t\u00ecnh ph\u00e1t hi\u1ec7n ra s\u1ef1 th\u1eadt con trai m\u00ecnh \u0111\u00e3 li\u00ean t\u1ee5c b\u1ecb b\u1eaft n\u1ea1t su\u1ed1t m\u1ed9t th\u1eddi gian d\u00e0i b\u1edfi nh\u1eefng con qu\u1ef7 \u0111\u1ed9i l\u1ed1t ng\u01b0\u1eddi t\u1ea1i tr\u01b0\u1eddng h\u1ecdc.\nV\u00e0 r\u1ed3i t\u00ecnh th\u01b0\u01a1ng con da di\u1ebft c\u1ee7a Mari... \u0111\u00e3 v\u01b0\u1ee3t ngo\u00e0i t\u1ea7m ki\u1ec3m so\u00e1t c\u1ee7a tr\u00e1i tim c\u00f4.",
-      "es-la": "La familia Nagare era un hogar feliz formado por tres personas. Sin embargo, su hijo Kiritaka sufr\u00eda acoso escolar extremo en secreto. Entonces, ocurre un incidente que har\u00eda que el amor de la madre, Mari, se descontrolara por completo."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
