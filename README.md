@@ -1,7 +1,20 @@
-<img src"img/gogo.png">
-<img src"img/anilist.png">
-<img src"img/animepahe.svg">
-<img src"img/mangadex.svg">
+<p align="center">
+  <a href="https://github.com/mrcainv1-3128/Homen-Anime-Worker">
+    <img src="img/gogo.png" alt="Logo" width="85" height="85">
+  </a>
+<a href="https://github.com/mrcainv1-3128/Homen-Anime-Worker">
+    <img src="img/anilist.png" alt="Logo" width="85" height="85">
+  </a>
+
+  <a href="https://github.com/mrcainv1-3128/Homen-Anime-Worker">
+    <img src="img/mangadex.svg" alt="Logo" width="85" height="85">
+  </a>
+
+  <a href="https://github.com/mrcainv1-3128/Homen-Anime-Worker">
+    <img src="img/animepahe.svg" alt="Logo" width="85" height="85">
+  </a>
+
+  <h3 align="center">Homen Anime Worker</h3>
 
 <b>UPDATE DATA EVERY 15 MINUTES</b>
 
