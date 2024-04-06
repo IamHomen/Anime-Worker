@@ -59,6 +59,19 @@
     ]
   },
   {
+    "animeId": "boku-no-hero-academia-7th-season",
+    "animeTitle": "Boku no Hero Academia 7th Season",
+    "animeImg": "'https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.to/category/boku-no-hero-academia-7th-season",
+    "genres": [
+      "Action",
+      "School",
+      "Shounen",
+      "Super Power"
+    ]
+  },
+  {
     "animeId": "one-piece",
     "animeTitle": "One Piece",
     "animeImg": "'https://gogocdn.net/cover/one-piece-1708412053.png'",
@@ -125,20 +138,6 @@
       "Comedy",
       "Drama",
       "Fantasy"
-    ]
-  },
-  {
-    "animeId": "san-xiuzhi-wang",
-    "animeTitle": "San Xiuzhi Wang",
-    "animeImg": "'https://gogocdn.net/cover/san-xiuzhi-wang.png'",
-    "latestEp": "Episode 4",
-    "animeUrl": "https://anitaku.to/category/san-xiuzhi-wang",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Historical",
-      "Martial Arts"
     ]
   }
 ]
