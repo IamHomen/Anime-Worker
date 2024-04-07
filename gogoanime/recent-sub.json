@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "shadowverse-flame-special",
+    "animeTitle": "Shadowverse Flame Special",
+    "animeImg": "https://gogocdn.net/cover/shadowverse-flame-special.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.to/shadowverse-flame-special-episode-3"
+  },
+  {
     "animeId": "one-piece",
     "animeTitle": "One Piece",
     "animeImg": "https://gogocdn.net/cover/one-piece-1708412053.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.to/kono-subarashii-sekai-ni-shukufuku-wo-3-episode-2"
-  },
-  {
-    "animeId": "nijiyon-animation-2",
-    "animeTitle": "Nijiyon Animation 2",
-    "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/nijiyon-animation-2-episode-1"
   }
 ]
