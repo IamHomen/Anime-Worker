@@ -1,5 +1,27 @@
 [
   {
+    "mangaId": "ee61b25d-154f-45e9-baa5-a9db3d5685ba",
+    "title": {
+      "en": "Ada and Eyva"
+    },
+    "updatedAt": "2024-04-07T10:27:19+00:00",
+    "coverArt": "https://mangadex.org/covers/ee61b25d-154f-45e9-baa5-a9db3d5685ba/e6b5ff08-a2b0-4600-9cb4-72af6e163472.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30a2\u30c0\u3068\u30a8\u30a4\u30f4\u30a1"
+      },
+      {
+        "ja-ro": "Ada to Eiva"
+      }
+    ],
+    "description": {},
+    "status": "completed",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "9ecd208c-c592-4462-9f57-4d7d4a9f956f",
     "title": {
       "en": "Mercenary Enrollment"
@@ -902,28 +924,6 @@
     },
     "status": "ongoing",
     "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "ee61b25d-154f-45e9-baa5-a9db3d5685ba",
-    "title": {
-      "en": "Ada and Eyva"
-    },
-    "updatedAt": "2024-04-07T10:27:19+00:00",
-    "coverArt": "https://mangadex.org/covers/ee61b25d-154f-45e9-baa5-a9db3d5685ba/e6b5ff08-a2b0-4600-9cb4-72af6e163472.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30a2\u30c0\u3068\u30a8\u30a4\u30f4\u30a1"
-      },
-      {
-        "ja-ro": "Ada to Eiva"
-      }
-    ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": 2024,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
