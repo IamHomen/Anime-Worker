@@ -1,5 +1,5 @@
 {
-  "total": 5071,
+  "total": 5073,
   "per_page": 12,
   "current_page": 1,
   "last_page": 423,
@@ -8,6 +8,38 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 62347,
+      "anime_id": 5578,
+      "anime_title": "Boku no Hero Academia: Memories",
+      "anime_session": "91e4a08b-fc50-002a-15b0-3d2e21ee8dc6",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/97c257eda29e65b2f0520574a58ca217a702f172753e97ed7fb6dc3a42801106.jpg",
+      "disc": "",
+      "session": "4cbc373242f2af0d70ab057cd6561d54785a392bfb6b166382a7bcc741e27023",
+      "filler": 0,
+      "created_at": "2024-04-07 11:05:40",
+      "completed": 0
+    },
+    {
+      "id": 62346,
+      "anime_id": 5484,
+      "anime_title": "Hibike! Euphonium 3",
+      "anime_session": "4a141823-2061-c53b-b505-610211334d4c",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/f146389d7ab1f466c7b165dd69f209d64f89e68d62f4fe67c705a2900af40f6b.jpg",
+      "disc": "",
+      "session": "06a02297e266a10799b5008145356f8cbb396b34e471c461facf9e22c1157233",
+      "filler": 0,
+      "created_at": "2024-04-07 10:59:10",
+      "completed": 0
+    },
     {
       "id": 62345,
       "anime_id": 5366,
@@ -166,38 +198,6 @@
       "session": "f6f58397d699f25009fae37e6b094dda24a8dae7fbbad451593fe09b59fb6291",
       "filler": 0,
       "created_at": "2024-04-06 14:04:28",
-      "completed": 0
-    },
-    {
-      "id": 62335,
-      "anime_id": 3,
-      "anime_title": "Meitantei Conan",
-      "anime_session": "81e98589-213e-0cbe-bb37-da33f5ed026d",
-      "episode": 1119,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/95e391d1ecb25dc736ac2994f139ad66cbd932b11fc50eb9952bf70dbf682415.jpg",
-      "disc": "",
-      "session": "887e353fd265a5fae2d9e3fac841325d087d7b7db898fe9e60745e3a1a6246b5",
-      "filler": 0,
-      "created_at": "2024-04-06 11:34:56",
-      "completed": 0
-    },
-    {
-      "id": 62334,
-      "anime_id": 5555,
-      "anime_title": "Nijiyon Animation 2",
-      "anime_session": "423305e3-a959-f2af-d9b4-0a6b73655228",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/62ecaefb18ed10f5553dba47d3c758fb2c8a09c1f9d4f71d130b577b30fbb492.jpg",
-      "disc": "",
-      "session": "ed466f3a0b7128467f409db0e2f49775ea05653c43ed7c48f6b068184a6d6686",
-      "filler": 0,
-      "created_at": "2024-04-05 19:45:38",
       "completed": 0
     }
   ]
