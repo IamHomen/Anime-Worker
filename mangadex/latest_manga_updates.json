@@ -1,5 +1,166 @@
 [
   {
+    "mangaId": "195023bf-cf9a-4772-94ef-09dd6eddea84",
+    "title": {
+      "en": "The Ancient Magus' Bride"
+    },
+    "updatedAt": "2024-04-07T16:42:54+00:00",
+    "coverArt": "https://mangadex.org/covers/195023bf-cf9a-4772-94ef-09dd6eddea84/99f342b5-b5f0-4891-b2b6-31de8720826c.jpg",
+    "altTitles": [
+      {
+        "tl": "Ang Asawa ng Mago"
+      },
+      {
+        "vi": "C\u00f4 D\u00e2u Ph\u00e1p S\u01b0"
+      },
+      {
+        "de": "Die Braut des Magiers"
+      },
+      {
+        "tr": "Kadim Magus'un Gelini"
+      },
+      {
+        "fr": "La Femme du Mage"
+      },
+      {
+        "es": "La Prometida del Mago"
+      },
+      {
+        "it": "La sposa dello stregone"
+      },
+      {
+        "ja-ro": "Mahoutsukai no Yome"
+      },
+      {
+        "pl": "Oblubienica czarnoksi\u0119\u017cnika"
+      },
+      {
+        "en": "The Magician's Bride"
+      },
+      {
+        "fi": "Velhon morsian"
+      },
+      {
+        "ru": "\u041d\u0435\u0432\u0435\u0441\u0442\u0430 \u0447\u0430\u0440\u043e\u0434\u0435\u044f"
+      },
+      {
+        "he": "\u05db\u05dc\u05ea \u05d4\u05de\u05d2\u05d5\u05e1 \u05d4\u05e2\u05ea\u05d9\u05e7"
+      },
+      {
+        "th": "\u0e40\u0e08\u0e49\u0e32\u0e2a\u0e32\u0e27\u0e1c\u0e21\u0e41\u0e14\u0e07\u0e01\u0e31\u0e1a\u0e08\u0e2d\u0e21\u0e40\u0e27\u0e17\u0e2d\u0e2a\u0e39\u0e23"
+      },
+      {
+        "ja": "\u9b54\u6cd5\u4f7f\u3044\u306e\u5ac1"
+      },
+      {
+        "zh": "\u9b54\u6cd5\u4f7f\u4e4b\u5ac1"
+      },
+      {
+        "zh-hk": "\u9b54\u6cd5\u4f7f\u7684\u65b0\u5a18"
+      },
+      {
+        "tr": "Kadim B\u00fcy\u00fcc\u00fcn\u00fcn Gelini"
+      },
+      {
+        "cs": "\u010carod\u011bjova nev\u011bsta"
+      },
+      {
+        "uk": "\u041d\u0430\u0440\u0435\u0447\u0435\u043d\u0430 \u0447\u0430\u043a\u043b\u0443\u043d\u0430"
+      },
+      {
+        "ar": "\u0639\u0631\u0648\u0633 \u0627\u0644\u0633\u0627\u062d\u0631"
+      },
+      {
+        "ko": "\ub9c8\ubc95\uc0ac\uc758 \uc2e0\ubd80"
+      },
+      {
+        "id": "Mempelai Sang Magus Kuno"
+      },
+      {
+        "ne": "\u091c\u093e\u0926\u0941\u0917\u0930\u0915\u094b \u092c\u0947\u0939\u0941\u0932\u0940"
+      },
+      {
+        "ja-ro": "Mahou Tsukai no Yome"
+      }
+    ],
+    "description": {
+      "en": "With her mother dead and father long gone, Chise Hatori has spent her childhood being passed unwanted from relative to relative, \nuntil she finally makes her unfortunate way to a strange and improbable auction block.\n\nOffered as a \u201cSlay Vega\u201d to the highest bidder, Chise is purchased by the (literally) boneheaded Elias Ainsworth, \nwho promises to take her on as his apprentice.\n\nElias is a mage, and his world is one of dragons and faeries - but before Chise can begin to get accustomed to all of this, \nElias drops another bombshell. Apparently Chise isn't just intended to be his apprentice - she will also be his bride.",
+      "es": "Chise Hatori tiene 15 a\u00f1os. Sin parientes, sin esperanzas en la vida y sin habilidades, fue comprada con dinero por un mago no humano...",
+      "ja": "\u5c11\u5973\u3092\u91d1\u3067\u8cb7\u3063\u305f\u306e\u306f\u3001\u30d2\u30c8\u70ba\u3089\u3056\u308b\u9b54\u6cd5\u4f7f\u3044\u2015\u2015\u2026\u2026\u3002\u7fbd\u9ce5\u30c1\u30bb15\u6b73\u3002\u8eab\u5bc4\u308a\u3082\u306a\u304f\u3001\u751f\u304d\u308b\u5e0c\u671b\u3082\u8853\u3082\u6301\u305f\u306c\u5f7c\u5973\u3092\u91d1\u3067\u8cb7\u3063\u305f\u306e\u306f\u3001\u30d2\u30c8\u70ba\u3089\u3056\u308b\u9b54\u6cd5\u4f7f\u3044\u3060\u3063\u305f\u2026\u2026\u3002",
+      "es-la": "Chise Hatori tiene 15 a\u00f1os. Sin parientes, sin esperanzas en la vida y sin habilidades, fue comprada con dinero por un mago no humano...",
+      "pt-br": "Hatori Chise tem apenas 16 anos, mas ela j\u00e1 perdeu muito mais do que o esperado. Sem uma fam\u00edlia nem esperan\u00e7a, parece que todas as portas est\u00e3o fechadas para ela. Mas um encontro acidental come\u00e7ou a mover as rodas enferrujadas do destino. \n\nNa sua hora mais escura, um misterioso mago aparece diante de Chise, oferecendo uma chance que ela n\u00e3o poderia recusar. \n\nEsse mago, que parece mais um dem\u00f4nio do que um humano, ir\u00e1 ele trazer a ela a luz que desesperadamente busca, ou afog\u00e1-la em sombras ainda mais profundas?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2013,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "47f93974-d406-45dd-8dbf-03db95654516",
+    "title": {
+      "en": "Bombergirl"
+    },
+    "updatedAt": "2023-07-09T03:29:53+00:00",
+    "coverArt": "https://mangadex.org/covers/47f93974-d406-45dd-8dbf-03db95654516/23c246c3-6795-41ea-a8b0-e42eb26494f1.jpg",
+    "altTitles": [
+      {
+        "en": "Bombergirl Short Comics"
+      },
+      {
+        "ja": "\u30dc\u30f3\u30d0\u30fc\u30ac\u30fc\u30eb"
+      },
+      {
+        "ja-ro": "Bonbaagaaru"
+      }
+    ],
+    "description": {
+      "en": "Sporadically posted comic pages on the official twitter of the Bombergirl arcade game."
+    },
+    "status": "ongoing",
+    "releaseDate": 2018,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "85a8ebda-9959-4244-ad03-a2d9f6a746a2",
+    "title": {
+      "en": "The Swordmaster's Son"
+    },
+    "updatedAt": "2023-10-30T21:28:20+00:00",
+    "coverArt": "https://mangadex.org/covers/85a8ebda-9959-4244-ad03-a2d9f6a746a2/820726d7-e97b-4619-b2b1-0e1af22ec993.jpg",
+    "altTitles": [
+      {
+        "en": "Youngest Son of the Renowned Swordsmanship Clan"
+      },
+      {
+        "ko": "\uac80\uc220\uba85\uac00 \ub9c9\ub0b4\uc544\ub4e4"
+      },
+      {
+        "en": "The Youngest Son of a Renowned Family of Swordsmen"
+      },
+      {
+        "ru": "\u041c\u043b\u0430\u0434\u0448\u0438\u0439 \u0441\u044b\u043d \u0444\u0435\u0445\u0442\u043e\u0432\u0430\u043b\u044c\u0449\u0438\u043a\u0430"
+      },
+      {
+        "en": "Youngest Son of the Renowned Swordsmanship Clan"
+      },
+      {
+        "en": "Swordmaster's Youngest Son"
+      }
+    ],
+    "description": {
+      "en": "Jin Runcandel was destined to become the head of his swordmaster clan. But despite his best efforts, he's banished for his shoddy swordsmanship. Though Jin eventually makes a contract with the god Solderet and is freed from the curse that hindered his abilities, he meets a rather unfortunate end. In the next moment, however, he awakens as a baby, long before his tragedy began.\n\nArmed with a second chance and some new powers, Jin swears to fulfill his destiny and become the ultimate swordmaster!\n\n---\n\n- [Webtoon PV](https://www.youtube.com/watch?v=UspJjUOFrFQ)",
+      "ko": "\uc9c4 \ub8ec\uce78\ub378\n\ub300\ub959 \ucd5c\uace0\uc758 \uac80\uc220\uba85\uac00, \ub8ec\uce78\ub378\uc758 \ub9c9\ub0b4\uc544\ub4e4\n\ub8ec\uce78\ub378 \uc5ed\uc0ac\uc0c1 \ucd5c\uc545\uc758 \ub454\uc7ac\n\n\ube44\ucc38\ud558\uac8c \ucad3\uaca8\ub098 \ud5c8\ubb34\ud55c \ucd5c\ud6c4\ub97c \ub9de\uc774\ud55c \uadf8\uc5d0\uac8c\n\ub2e4\uc2dc \ud55c \ubc88 \uae30\ud68c\uac00 \uc8fc\uc5b4\uc84c\ub2e4.\n\n\u201c\ub108\ub294 \uc774 \ud798\uc744 \uc5b4\ub5bb\uac8c \uc0ac\uc6a9\ud558\uace0 \uc2f6\ub354\ub0d0?\u201d\n\u201c\uc800\ub97c \uc704\ud574 \uc0ac\uc6a9\ud558\uace0 \uc2f6\uc2b5\ub2c8\ub2e4.\u201d\n\n\uc804\uc0dd\uc758 \uae30\uc5b5\uacfc \uc555\ub3c4\uc801\uc778 \uc7ac\ub2a5, \uadf8\ub9ac\uace0 \uc2e0\uacfc\uc758 \uacc4\uc57d\n\n\ucd5c\uac15\uc774 \ub420 \uc900\ube44\ub294 \ub05d\ub0ac\ub2e4.\n\n---\n\n- [Webtoon PV](https://www.youtube.com/watch?v=UspJjUOFrFQ)"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "5c89a5c6-9fe8-412a-8f78-44d51177dbdb",
     "title": {
       "en": "Maplestory: The Last Adventurer"
@@ -119,103 +280,6 @@
     },
     "status": "ongoing",
     "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "195023bf-cf9a-4772-94ef-09dd6eddea84",
-    "title": {
-      "en": "The Ancient Magus' Bride"
-    },
-    "updatedAt": "2024-04-07T16:42:54+00:00",
-    "coverArt": "https://mangadex.org/covers/195023bf-cf9a-4772-94ef-09dd6eddea84/99f342b5-b5f0-4891-b2b6-31de8720826c.jpg",
-    "altTitles": [
-      {
-        "tl": "Ang Asawa ng Mago"
-      },
-      {
-        "vi": "C\u00f4 D\u00e2u Ph\u00e1p S\u01b0"
-      },
-      {
-        "de": "Die Braut des Magiers"
-      },
-      {
-        "tr": "Kadim Magus'un Gelini"
-      },
-      {
-        "fr": "La Femme du Mage"
-      },
-      {
-        "es": "La Prometida del Mago"
-      },
-      {
-        "it": "La sposa dello stregone"
-      },
-      {
-        "ja-ro": "Mahoutsukai no Yome"
-      },
-      {
-        "pl": "Oblubienica czarnoksi\u0119\u017cnika"
-      },
-      {
-        "en": "The Magician's Bride"
-      },
-      {
-        "fi": "Velhon morsian"
-      },
-      {
-        "ru": "\u041d\u0435\u0432\u0435\u0441\u0442\u0430 \u0447\u0430\u0440\u043e\u0434\u0435\u044f"
-      },
-      {
-        "he": "\u05db\u05dc\u05ea \u05d4\u05de\u05d2\u05d5\u05e1 \u05d4\u05e2\u05ea\u05d9\u05e7"
-      },
-      {
-        "th": "\u0e40\u0e08\u0e49\u0e32\u0e2a\u0e32\u0e27\u0e1c\u0e21\u0e41\u0e14\u0e07\u0e01\u0e31\u0e1a\u0e08\u0e2d\u0e21\u0e40\u0e27\u0e17\u0e2d\u0e2a\u0e39\u0e23"
-      },
-      {
-        "ja": "\u9b54\u6cd5\u4f7f\u3044\u306e\u5ac1"
-      },
-      {
-        "zh": "\u9b54\u6cd5\u4f7f\u4e4b\u5ac1"
-      },
-      {
-        "zh-hk": "\u9b54\u6cd5\u4f7f\u7684\u65b0\u5a18"
-      },
-      {
-        "tr": "Kadim B\u00fcy\u00fcc\u00fcn\u00fcn Gelini"
-      },
-      {
-        "cs": "\u010carod\u011bjova nev\u011bsta"
-      },
-      {
-        "uk": "\u041d\u0430\u0440\u0435\u0447\u0435\u043d\u0430 \u0447\u0430\u043a\u043b\u0443\u043d\u0430"
-      },
-      {
-        "ar": "\u0639\u0631\u0648\u0633 \u0627\u0644\u0633\u0627\u062d\u0631"
-      },
-      {
-        "ko": "\ub9c8\ubc95\uc0ac\uc758 \uc2e0\ubd80"
-      },
-      {
-        "id": "Mempelai Sang Magus Kuno"
-      },
-      {
-        "ne": "\u091c\u093e\u0926\u0941\u0917\u0930\u0915\u094b \u092c\u0947\u0939\u0941\u0932\u0940"
-      },
-      {
-        "ja-ro": "Mahou Tsukai no Yome"
-      }
-    ],
-    "description": {
-      "en": "With her mother dead and father long gone, Chise Hatori has spent her childhood being passed unwanted from relative to relative, \nuntil she finally makes her unfortunate way to a strange and improbable auction block.\n\nOffered as a \u201cSlay Vega\u201d to the highest bidder, Chise is purchased by the (literally) boneheaded Elias Ainsworth, \nwho promises to take her on as his apprentice.\n\nElias is a mage, and his world is one of dragons and faeries - but before Chise can begin to get accustomed to all of this, \nElias drops another bombshell. Apparently Chise isn't just intended to be his apprentice - she will also be his bride.",
-      "es": "Chise Hatori tiene 15 a\u00f1os. Sin parientes, sin esperanzas en la vida y sin habilidades, fue comprada con dinero por un mago no humano...",
-      "ja": "\u5c11\u5973\u3092\u91d1\u3067\u8cb7\u3063\u305f\u306e\u306f\u3001\u30d2\u30c8\u70ba\u3089\u3056\u308b\u9b54\u6cd5\u4f7f\u3044\u2015\u2015\u2026\u2026\u3002\u7fbd\u9ce5\u30c1\u30bb15\u6b73\u3002\u8eab\u5bc4\u308a\u3082\u306a\u304f\u3001\u751f\u304d\u308b\u5e0c\u671b\u3082\u8853\u3082\u6301\u305f\u306c\u5f7c\u5973\u3092\u91d1\u3067\u8cb7\u3063\u305f\u306e\u306f\u3001\u30d2\u30c8\u70ba\u3089\u3056\u308b\u9b54\u6cd5\u4f7f\u3044\u3060\u3063\u305f\u2026\u2026\u3002",
-      "es-la": "Chise Hatori tiene 15 a\u00f1os. Sin parientes, sin esperanzas en la vida y sin habilidades, fue comprada con dinero por un mago no humano...",
-      "pt-br": "Hatori Chise tem apenas 16 anos, mas ela j\u00e1 perdeu muito mais do que o esperado. Sem uma fam\u00edlia nem esperan\u00e7a, parece que todas as portas est\u00e3o fechadas para ela. Mas um encontro acidental come\u00e7ou a mover as rodas enferrujadas do destino. \n\nNa sua hora mais escura, um misterioso mago aparece diante de Chise, oferecendo uma chance que ela n\u00e3o poderia recusar. \n\nEsse mago, que parece mais um dem\u00f4nio do que um humano, ir\u00e1 ele trazer a ela a luz que desesperadamente busca, ou afog\u00e1-la em sombras ainda mais profundas?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2013,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
@@ -1646,97 +1710,5 @@
     "contentRating": "safe",
     "lastVolume": "1",
     "lastChapter": "23"
-  },
-  {
-    "mangaId": "3ad8d2f2-1afe-43da-a88b-0a790c64939e",
-    "title": {
-      "en": "Maria no Danzai"
-    },
-    "updatedAt": "2024-03-12T13:42:44+00:00",
-    "coverArt": "https://mangadex.org/covers/3ad8d2f2-1afe-43da-a88b-0a790c64939e/7da041cc-0699-4d20-bee8-6f822f0fe3b7.jpg",
-    "altTitles": [
-      {
-        "ja": "\u8056\u6bcd\u306e\u65ad\u7f6a"
-      },
-      {
-        "ar": "\u062f\u064e\u064a\u0646\u064f\u0648\u0646\u064e\u0629 \u0645\u0627\u0631\u064a\u0627"
-      },
-      {
-        "ne": "\u092e\u093e\u0930\u093f\u092f\u093e\u0915\u094b \u0928\u093f\u0930\u094d\u0923\u092f"
-      },
-      {
-        "vi": "L\u1eddi tuy\u00ean \u00e1n c\u1ee7a \u0110\u1ee9c M\u1eb9"
-      },
-      {
-        "en": "Maria's Judgement"
-      },
-      {
-        "id": "Keyakinan Maria"
-      },
-      {
-        "es-la": "La Condena de Mar\u00eda"
-      },
-      {
-        "en": "Maria's Conviction"
-      },
-      {
-        "tl": "Ang Paghatol ni Maria"
-      },
-      {
-        "de": "Maria's Judgement"
-      }
-    ],
-    "description": {
-      "ar": "\u0628\u0639\u062f \u0648\u0641\u0627\u0629 \u0627\u0628\u0646\u0647\u0627 \u0628\u0637\u0631\u064a\u0642\u0629 \u0645\u0631\u0648\u0639\u0629\u060c \u062a\u0643\u062a\u0634\u0641 \u0648\u0627\u0644\u062f\u062a\u0647\u064f \u062a\u0646\u0645\u0631 \u0627\u0644\u0622\u062e\u0631\u064a\u0646 \u0627\u0644\u0634\u062f\u064a\u062f \u0639\u0644\u064a\u0647\u060c \u0641\u0639\u0642\u062f\u062a \u0627\u0644\u0639\u0632\u0645 \u0639\u0644\u0649 \u0645\u0639\u0627\u0642\u0628\u0629 \u0623\u0648\u0644\u0626\u0643 \u0627\u0644\u0645\u062a\u0646\u0645\u0631\u064a\u0646 \u0627\u0644\u0630\u064a\u0646 \u0623\u062e\u0630\u0648\u0627 \u0627\u0628\u0646\u0647\u0627 \u0627\u0644\u062d\u0628\u064a\u0628 \u0645\u0646\u0647\u0627\u060c \u0648\u0628\u062f\u0623\u062a \u0627\u0644\u0639\u0645\u0644 \u0643\u0645\u0645\u0631\u0636\u0629 \u0641\u064a \u0627\u0644\u0645\u062f\u0631\u0633\u0629",
-      "en": "The Nagare family was a happy home of three people. However, their son Kiritaka was secretly bullied at school. Then, an incident occurs, and the mother Mari's love for her son goes out of control.",
-      "ne": "\u0906\u092e\u093e\u092c\u0941\u0935\u093e \u0930 \u091b\u094b\u0930\u093e\u0938\u0939\u093f\u0924 \u0969 \u091c\u0928\u093e\u0915\u094b \u0928\u093e\u0917\u093e\u0930\u0947 \u092a\u0930\u093f\u0935\u093e\u0930\u0915\u094b \u0916\u0941\u0938\u0940\u0915\u094b \u0918\u0930 \u0925\u093f\u092f\u094b\u0964 \u0924\u0930, \u0909\u0928\u0940\u0939\u0930\u0941\u0915\u094b \u091b\u094b\u0930\u093e \u0915\u093f\u0930\u093f\u0924\u093e\u0915\u093e\u0932\u093e\u0908 \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\u092e\u093e \u0917\u094b\u092a\u094d\u092f \u0930\u0941\u092a\u092e\u093e \u0915\u0941\u091f\u092a\u093f\u091f \u0917\u0930\u093f\u090f\u0915\u094b \u0925\u093f\u092f\u094b\u0964  \u0924\u094d\u092f\u0938\u092a\u091b\u093f, \u090f\u0909\u091f\u093e \u0918\u091f\u0928\u093e \u0918\u091f\u094d\u091b, \u0930 \u0906\u092e\u093e \u092e\u093e\u0930\u093f\u092f\u093e\u0915\u094b \u091b\u094b\u0930\u093e\u092a\u094d\u0930\u0924\u093f\u0915\u094b \u092e\u093e\u092f\u093e \u0905\u0928\u093f\u092f\u0928\u094d\u0924\u094d\u0930\u093f\u0924 \u0939\u0941\u0928\u094d\u091b\u0964",
-      "vi": "M\u1ed9t gia \u0111\u00ecnh ba ng\u01b0\u1eddi nh\u1eefng t\u01b0\u1edfng \u0111ang h\u1ea1nh ph\u00fac, cho \u0111\u1ebfn khi Kiritaka, ng\u01b0\u1eddi con trai duy nh\u1ea5t c\u1ee7a Nagare Mari \"t\u1ef1 s\u00e1t\" v\u00ec \"qu\u00e1 \u0111au kh\u1ed5\". Cho r\u1eb1ng b\u1ea3n th\u00e2n \u0111\u00e3 v\u00f4 t\u00ecnh d\u1ed3n \u00e9p con trai y\u00eau qu\u00fd, Mari toang t\u00ecm \u0111\u1ebfn c\u00e1i ch\u1ebft, nh\u01b0ng kh\u00f4ng... c\u00f4 v\u00f4 t\u00ecnh ph\u00e1t hi\u1ec7n ra s\u1ef1 th\u1eadt con trai m\u00ecnh \u0111\u00e3 li\u00ean t\u1ee5c b\u1ecb b\u1eaft n\u1ea1t su\u1ed1t m\u1ed9t th\u1eddi gian d\u00e0i b\u1edfi nh\u1eefng con qu\u1ef7 \u0111\u1ed9i l\u1ed1t ng\u01b0\u1eddi t\u1ea1i tr\u01b0\u1eddng h\u1ecdc.\nV\u00e0 r\u1ed3i t\u00ecnh th\u01b0\u01a1ng con da di\u1ebft c\u1ee7a Mari... \u0111\u00e3 v\u01b0\u1ee3t ngo\u00e0i t\u1ea7m ki\u1ec3m so\u00e1t c\u1ee7a tr\u00e1i tim c\u00f4.",
-      "es-la": "La familia Nagare era un hogar feliz formado por tres personas. Sin embargo, su hijo Kiritaka sufr\u00eda acoso escolar extremo en secreto. Entonces, ocurre un incidente que har\u00eda que el amor de la madre, Mari, se descontrolara por completo."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "d97db976-eeec-4eb4-8868-346fbd7ed1e5",
-    "title": {
-      "en": "Psyren"
-    },
-    "updatedAt": "2023-02-10T01:57:48+00:00",
-    "coverArt": "https://mangadex.org/covers/d97db976-eeec-4eb4-8868-346fbd7ed1e5/1b688310-58ee-4187-8a3d-a950b21fa9bc.jpg",
-    "altTitles": [
-      {
-        "ja": "-\u30b5\u30a4\u30ec\u30f3-"
-      },
-      {
-        "ja": "PSYREN-\u30b5\u30a4\u30ec\u30f3-"
-      },
-      {
-        "ja": "\u30b5\u30a4\u30ec\u30f3"
-      },
-      {
-        "ja-ro": "\uff30\uff33\uff39\u042f\uff25\uff2e"
-      },
-      {
-        "en": "PSY\u042fEN"
-      },
-      {
-        "ru": "\u041f\u0441\u0430\u0439\u0440\u0435\u043d"
-      },
-      {
-        "ar": "\u0633\u0640\u0640\u0627\u064a\u0640\u0640\u0631\u0646"
-      }
-    ],
-    "description": {
-      "en": "Ageha Yoshina is a self-confident high school student who helps others for a fee. On his way back from a job, he finds a strange calling card with the word \"Psyren\" imprinted left behind in a phone booth and decides to keep it, unaware of its purpose. The very next day, Ageha discovers that his classmate Sakurako Amamiya has the exact same calling card in her possession. When he questions her, Sakurako asks him to save her, signaling the day his troubles begin.\n\nConfused by the circumstances of this encounter, Ageha realizes something is wrong when Sakurako goes missing. In an attempt to figure out what is happening, he decides to call the number provided on the calling card and is asked a series of questions by a mysterious voice, ending with a final, cryptic question: \"Would you like to go to Psyren?\" Thus begins two teenagers' participation in a game of life or death within a strange world inhabited by monsters called \"Taboo.\" Granted the ability to use psychic powers known as \"PSI,\" the duo fight to return to the place they call home.",
-      "ru": "\u0401\u0441\u0438\u043d\u0430 \u0410\u0433\u044d\u0445\u0430 \u2014 \u044f\u043f\u043e\u043d\u0441\u043a\u0438\u0439 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043b\u044e\u0431\u0438\u0442 \u0434\u0440\u0430\u0442\u044c\u0441\u044f, \u043f\u0440\u0438\u0441\u0442\u0430\u0432\u0430\u0442\u044c \u043a \u0434\u0435\u0432\u0443\u0448\u043a\u0430\u043c, \u0438 \u0432\u043e\u043e\u0431\u0449\u0435 \u0445\u0443\u043b\u0438\u0433\u0430\u043d\u0438\u0442\u044c. \u041c\u0430\u0442\u044c \u0443\u043c\u0435\u0440\u043b\u0430, \u043e\u0442\u0435\u0446 \u0432\u0435\u0447\u043d\u043e \u0442\u043e\u0440\u0447\u0438\u0442 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0435, \u0441\u0442\u0430\u0440\u0448\u0430\u044f \u0441\u0435\u0441\u0442\u0440\u0430 \u043c\u0435\u0441\u0438\u0442 \u043a\u0430\u043a \u0433\u0440\u0443\u0448\u0443 \u0437\u0430 \u043b\u044e\u0431\u043e\u0439 \u043f\u0440\u043e\u0441\u0442\u0443\u043f\u043e\u043a. \u0422\u0430\u043a\u0430\u044f \u0432\u043e\u0442 \u043f\u0440\u0438\u044f\u0442\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c \u044e\u043d\u043e\u0433\u043e \u044f\u043f\u043e\u043d\u0446\u0430! \u0418 \u043a\u0430\u043a \u043e\u043d\u043e \u0447\u0430\u0441\u0442\u043e \u0431\u044b\u0432\u0430\u0435\u0442, \u0435\u043c\u0443 \u043d\u0435\u0434\u043e\u043b\u0433\u043e \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0445\u043e\u0434\u0438\u0442\u044c \u0432 \u0448\u043a\u043e\u043b\u0443. \u041d\u0430 \u044d\u0442\u043e\u0442 \u0440\u0430\u0437 \u0432\u0441\u0451 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0441 \u043a\u0440\u0430\u0441\u043d\u043e\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u043e\u0439 \u043a\u0430\u0440\u0442\u044b \u0438 \u0441\u043b\u043e\u0432\u0430 Psyren. \u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 Psyren \u2014 \u043d\u043e\u0432\u044b\u0439 \u043c\u0438\u0440, \u0438\u043b\u043b\u044e\u0437\u0438\u044f \u0438\u043b\u0438 \u0436\u0435 \u0447\u0442\u043e-\u0442\u043e \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e \u0438\u043d\u043e\u0435?\u2026"
-    },
-    "status": "completed",
-    "releaseDate": 2007,
-    "contentRating": "safe",
-    "lastVolume": "16",
-    "lastChapter": "145.5"
   }
 ]
