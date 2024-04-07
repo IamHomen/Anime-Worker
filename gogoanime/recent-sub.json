@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "sentai-daishikkaku",
+    "animeTitle": "Sentai Daishikkaku",
+    "animeImg": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/sentai-daishikkaku-episode-1"
+  },
+  {
+    "animeId": "yozakura-san-chi-no-daisakusen",
+    "animeTitle": "Yozakura-san Chi no Daisakusen",
+    "animeImg": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/yozakura-san-chi-no-daisakusen-episode-1"
+  },
+  {
     "animeId": "ninja-kamui",
     "animeTitle": "Ninja Kamui",
     "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/mahouka-koukou-no-rettousei-3rd-season-episode-1"
-  },
-  {
-    "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
-    "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/tensei-shitara-slime-datta-ken-3rd-season-episode-1"
-  },
-  {
-    "animeId": "astro-note",
-    "animeTitle": "Astro Note",
-    "animeImg": "https://gogocdn.net/cover/astro-note.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/astro-note-episode-1"
   }
 ]
