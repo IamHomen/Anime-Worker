@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "wonderful-precure",
+    "animeTitle": "Wonderful Precure!",
+    "animeImg": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 10",
+    "animeUrl": "https://anitaku.to/wonderful-precure-episode-10"
+  },
+  {
     "animeId": "tonari-no-youkai-san",
     "animeTitle": "Tonari no Youkai-san",
     "animeImg": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
     "episode": "Episode 12",
     "animeUrl": "https://anitaku.to/shaman-king-flowers-episode-12"
-  },
-  {
-    "animeId": "ninjala",
-    "animeTitle": "Ninjala",
-    "animeImg": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 111",
-    "animeUrl": "https://anitaku.to/ninjala-episode-111"
   }
 ]
