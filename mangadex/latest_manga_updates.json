@@ -1,5 +1,33 @@
 [
   {
+    "mangaId": "151bca3e-db98-4ad2-8d8d-239943b91437",
+    "title": {
+      "en": "You Shou Yan"
+    },
+    "updatedAt": "2023-11-06T23:17:02+00:00",
+    "coverArt": "https://mangadex.org/covers/151bca3e-db98-4ad2-8d8d-239943b91437/b0f083db-ef76-4809-b563-dbb3d013fcd1.jpg",
+    "altTitles": [
+      {
+        "zh": "\u6709\u517d\u7109"
+      },
+      {
+        "en": "Fabulous Beasts"
+      },
+      {
+        "en": "There Are Beasts"
+      }
+    ],
+    "description": {
+      "en": "\"In this realm mythological creatures roam, descendant of the nine heavens they call home.\" \n\nSibuxiang, a mythical deer-man couch potato, is kicked out of heaven and assigned to support the mythological creatures wandering the human world. He meets and goes on adventures with his friends: the energetic, food loving Pixiu named Pipi, the fanatic moon bunny Tuye, the banished-from-heaven mouse brothers Jinjiao and Yinjiao, and many others. What kind of adventures will they take on?",
+      "zh": "\u300a\u4eba\u95f4\u6709\u795e\u517d\uff0c\u6765\u81ea\u4e5d\u91cd\u5929 \u300b\n\n\u968f\u7740\u79d1\u6280\u7684\u53d1\u5c55\uff0c\u5f80\u65e5\u5a01\u98ce\u51db\u51db\u7684\u795e\u517d\u4eec\u65e5\u5b50\u5927\u4e0d\u5982\u524d\u3002\u795e\u517d\u56db\u4e0d\u50cf\u5949\u547d\u4e0b\u51e1\uff0c\u53bb\u89e3\u6551\u6d41\u843d\u4eba\u95f4\u7684\u843d\u9b44\u795e\u517d\u3002\u5728\u51e1\u95f4\uff0c\u4ed6\u9047\u5230\u4e86\u8d70\u6295\u65e0\u8def\u7684\u8001\u540c\u4e8b\u5929\u7984\uff0c\u4e0d\u5f97\u5fd7\u7684\u9152\u53cb\u5154\u7237\uff0c\u88ab\u8d2c\u4e0b\u51e1\u7684\u91d1\u94f6\u89d2\u5144\u5f1f\u2026\u2026\u4ece\u6b64\u5f00\u542f\u4e86\u4e00\u6bb5\u65b0\u7684\u65c5\u7a0b\u3002"
+    },
+    "status": "ongoing",
+    "releaseDate": 2017,
+    "contentRating": "safe",
+    "lastVolume": null,
+    "lastChapter": null
+  },
+  {
     "mangaId": "dc444293-bda2-43ec-99b7-626528aa5683",
     "title": {
       "en": "Welcome to Dungeon Hotel"
@@ -1529,7 +1557,7 @@
       "en": "My Food Looks Very Cute"
     },
     "updatedAt": "2024-03-06T02:42:26+00:00",
-    "coverArt": "https://mangadex.org/covers/b98c4daf-be1a-46c8-ad83-21d532995240/d07b739f-17cb-4ec3-b358-8c349938af47.png",
+    "coverArt": "https://mangadex.org/covers/b98c4daf-be1a-46c8-ad83-21d532995240/5a720839-f246-4856-865a-68d53563cc73.png",
     "altTitles": [
       {
         "zh": "\u6211\u7684\u98df\u7269\u770b\u8d77\u6765\u5f88\u53ef\u7231"
@@ -1639,29 +1667,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "87d9e3d1-cad1-47c4-800f-632396927aa2",
-    "title": {
-      "en": "Splash!!"
-    },
-    "updatedAt": "2023-10-20T16:39:58+00:00",
-    "coverArt": "https://mangadex.org/covers/87d9e3d1-cad1-47c4-800f-632396927aa2/7d6b3e75-c98b-4ac0-ac2a-c2c4bde268e2.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5!!"
-      },
-      {
-        "ko": "\uc2a4\ud50c\ub798\uc26c"
-      }
-    ],
-    "description": {
-      "en": "Swimming diving competitions are harsh competitions in which the impact from the water surface can be as much as 1 ton when diving from a height of 10 meters.\n\nMizuha Shiozaki, a transfer student in Class A of Shirasagi High School, is a girl who has won many classical ballet competitions and is called a ``genius.''\nHowever, she was unable to keep up with the strict guidance of her mother, who was a world-famous prima donna, and quit ballet in her third year of junior high school due to her resentment towards her mother.She thought she would spend her high school life in a relaxed and fun way, but inside she had a complex that she had run away from ballet and her mother.\n\nOne day, an argument with Himeko Sawamura, a second-year student who is her childhood friend and unrequited love, causes her to jump off a 10-meter diving board, causing her to lose her temper.\n\nShirasagi High School is the only high school in Tokyo that has a \"diving club,'' and Himeko was an athlete who was nicknamed \"Ice Princess'' and was even selected as a candidate for Japan's Olympic team.\n\nMizuha climbed onto the diving board but balked at the height due to fear. However, this ignites Mizuha's competitive spirit and she becomes obsessed with diving competitions.\n\nA masterpiece sports manga depicting the bright and single-minded appearance of a girl who stakes her youth on diving competitions!"
-    },
-    "status": "completed",
-    "releaseDate": 2005,
-    "contentRating": "safe",
-    "lastVolume": "5",
-    "lastChapter": "53"
   }
 ]
