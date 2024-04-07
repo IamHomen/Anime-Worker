@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "yami-shibai-12",
+    "animeTitle": "Yami Shibai 12",
+    "animeImg": "https://gogocdn.net/cover/yami-shibai-12.png",
+    "episode": "Episode 13",
+    "animeUrl": "https://anitaku.to/yami-shibai-12-episode-13"
+  },
+  {
     "animeId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
     "animeTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
     "animeImg": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/boku-no-hero-academia-7th-season-episode-1"
-  },
-  {
-    "animeId": "ooi-tonbo",
-    "animeTitle": "Ooi! Tonbo",
-    "animeImg": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/ooi-tonbo-episode-1"
   }
 ]
