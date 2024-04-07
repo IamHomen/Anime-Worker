@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "shinkalion-change-the-world",
+    "animeTitle": "Shinkalion: Change the World",
+    "animeImg": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/shinkalion-change-the-world-episode-1"
+  },
+  {
     "animeId": "yami-shibai-12",
     "animeTitle": "Yami Shibai 12",
     "animeImg": "https://gogocdn.net/cover/yami-shibai-12.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.to/one-room-hiatari-futsuu-tenshi-tsuki-episode-2"
-  },
-  {
-    "animeId": "boku-no-hero-academia-7th-season",
-    "animeTitle": "Boku no Hero Academia 7th Season",
-    "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/boku-no-hero-academia-7th-season-episode-1"
   }
 ]
