@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "shaman-king-flowers",
+    "animeTitle": "Shaman King: Flowers",
+    "animeImg": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
+    "episode": "Episode 13",
+    "animeUrl": "https://anitaku.to/shaman-king-flowers-episode-13"
+  },
+  {
     "animeId": "blue-archive-the-animation",
     "animeTitle": "Blue Archive the Animation",
     "animeImg": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/tonari-no-youkai-san-episode-1"
-  },
-  {
-    "animeId": "boku-no-hero-academia-memories",
-    "animeTitle": "Boku no Hero Academia: Memories",
-    "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/boku-no-hero-academia-memories-episode-1"
   }
 ]
