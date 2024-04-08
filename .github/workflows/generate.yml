@@ -41,6 +41,10 @@ jobs:
       run: |
         python ./mangadex/generate.py
         
+    - name: Generate (Mangakakalot)
+      run: |
+        python ./mangakakalot/generate.py
+        
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         # Optional but recommended
