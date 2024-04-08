@@ -58,32 +58,6 @@ def scrape_hot_manga():
     except Exception as e:
         print(e)
         return {'error': str(e)}
-
-def scrape_popular_manga():
-    anime_list = []
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
-        response = requests.get(BASE_URL, headers=headers)
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        for el in soup.select('#owl-demo > .owl-wrapper-outer > .owl-wrapper'):
-            anime_list.append({
-                'mangaId': el.select_one('div.owl-item .slide-caption > a')['href'],
-                'mangaTitle': el.select_one('div.owl-item .slide-caption > h3'),
-                'mangaImg': el.select_one('div.owl-item .item > img')['src'],
-                'chapter': el.select_one('div.owl-item slide-caption > a')['title'],
-                'mangaUrl': el.select_one('div.owl-item slide-caption > a')['href']
-            })
-
-        with open('./mangakakalot/popular-manga.json', 'w') as f:
-            json.dump(anime_list, f, indent=2)
-        print('Data saved to mangakakalot/popular-manga.json')
-
-        return anime_list
-    except Exception as e:
-        print(e)
-        return {'error': str(e)}
     
 scrape_latest_update_manga()
 scrape_hot_manga()
-scrape_popular_manga()
