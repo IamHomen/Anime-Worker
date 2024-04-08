@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "tousouchuu-great-mission",
+    "animeTitle": "Tousouchuu: Great Mission",
+    "animeImg": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 50",
+    "animeUrl": "https://anitaku.to/tousouchuu-great-mission-episode-50"
+  },
+  {
     "animeId": "shinkalion-change-the-world",
     "animeTitle": "Shinkalion: Change the World",
     "animeImg": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/detective-conan.png",
     "episode": "Episode 1119",
     "animeUrl": "https://anitaku.to/detective-conan-episode-1119"
-  },
-  {
-    "animeId": "one-room-hiatari-futsuu-tenshi-tsuki",
-    "animeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
-    "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.to/one-room-hiatari-futsuu-tenshi-tsuki-episode-2"
   }
 ]
