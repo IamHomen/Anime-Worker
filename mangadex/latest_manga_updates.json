@@ -1,5 +1,53 @@
 [
   {
+    "mangaId": "04c7c56a-f4d9-484d-8e48-8a35dd38fa90",
+    "title": {
+      "en": "Koi ni Mudaguchi"
+    },
+    "updatedAt": "2024-02-03T15:23:33+00:00",
+    "coverArt": "https://mangadex.org/covers/04c7c56a-f4d9-484d-8e48-8a35dd38fa90/492d448a-c48e-4077-94dd-beaf1bfb662d.jpg",
+    "altTitles": [
+      {
+        "en": "Chatter About Love"
+      },
+      {
+        "ja": "\u604b\u306b\u7121\u99c4\u53e3"
+      }
+    ],
+    "description": {
+      "en": "The romantic comedy centers on a high school boy who is wasting his youth."
+    },
+    "status": "completed",
+    "releaseDate": 2019,
+    "contentRating": "safe",
+    "lastVolume": "12",
+    "lastChapter": "60"
+  },
+  {
+    "mangaId": "d80bbd21-a53f-45e6-8177-1d47a622d530",
+    "title": {
+      "en": "The Flirty Tenant and the Pretty Landlady"
+    },
+    "updatedAt": "2023-02-05T07:25:09+00:00",
+    "coverArt": "https://mangadex.org/covers/d80bbd21-a53f-45e6-8177-1d47a622d530/c0cea9bb-c9fe-4f5e-81af-28dbda2ae1fa.png",
+    "altTitles": [
+      {
+        "zh": "\u98ce\u6d41\u623f\u5ba2\u4fcf\u623f\u4e1c"
+      },
+      {
+        "uk": "\u041a\u043e\u043a\u0435\u0442\u043b\u0438\u0432\u0430 \u043e\u0440\u0435\u043d\u0434\u0430\u0442\u043e\u0440\u043a\u0430 \u0456 \u0432\u0440\u043e\u0434\u043b\u0438\u0432\u0430 \u0432\u043b\u0430\u0441\u043d\u0438\u0446\u044f"
+      }
+    ],
+    "description": {
+      "en": "A fluffy yet seductive story about Bo He, a landlady, and her tenant, Huang Qi."
+    },
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "60bfc1f5-928d-4bd8-9864-f848dccee4b2",
     "title": {
       "en": "Dragon Ball - Dragon Ball K (Doujinshi)"
@@ -54,30 +102,6 @@
     "status": "ongoing",
     "releaseDate": 2020,
     "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "d80bbd21-a53f-45e6-8177-1d47a622d530",
-    "title": {
-      "en": "The Flirty Tenant and the Pretty Landlady"
-    },
-    "updatedAt": "2023-02-05T07:25:09+00:00",
-    "coverArt": "https://mangadex.org/covers/d80bbd21-a53f-45e6-8177-1d47a622d530/c0cea9bb-c9fe-4f5e-81af-28dbda2ae1fa.png",
-    "altTitles": [
-      {
-        "zh": "\u98ce\u6d41\u623f\u5ba2\u4fcf\u623f\u4e1c"
-      },
-      {
-        "uk": "\u041a\u043e\u043a\u0435\u0442\u043b\u0438\u0432\u0430 \u043e\u0440\u0435\u043d\u0434\u0430\u0442\u043e\u0440\u043a\u0430 \u0456 \u0432\u0440\u043e\u0434\u043b\u0438\u0432\u0430 \u0432\u043b\u0430\u0441\u043d\u0438\u0446\u044f"
-      }
-    ],
-    "description": {
-      "en": "A fluffy yet seductive story about Bo He, a landlady, and her tenant, Huang Qi."
-    },
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
   },
@@ -1722,29 +1746,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "39470154-57d5-4bbe-b69a-95d91633a83e",
-    "title": {
-      "en": "Kuu Neru Futari Sumu Futari"
-    },
-    "updatedAt": "2022-06-16T01:52:41+00:00",
-    "coverArt": "https://mangadex.org/covers/39470154-57d5-4bbe-b69a-95d91633a83e/cf340eab-8fcf-4874-a193-2e6a4badcf9d.jpg",
-    "altTitles": [
-      {
-        "en": "Living, Eating and Sleeping Together"
-      },
-      {
-        "ja": "\u55b0\u3046\u5bdd\u308b\u3075\u305f\u308a \u4f4f\u3080\u3075\u305f\u308a"
-      }
-    ],
-    "description": {
-      "en": "Ritsuko and Shuichi have been dating for ten years, and living together for eight. The two are more than lovers, and just before marriage."
-    },
-    "status": "completed",
-    "releaseDate": 2012,
-    "contentRating": "safe",
-    "lastVolume": "5",
-    "lastChapter": "25"
   }
 ]
