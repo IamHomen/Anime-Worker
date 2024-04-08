@@ -14,7 +14,7 @@ def scrape_latest_update_manga():
 
         for el in soup.select('div.truyen-list > .list-truyen-item-wrap'):
             anime_list.append({
-                'mangaId': el.select_one('a.list-story-item.bookmark_check')['href'].split('/')[1].split('chapmanganato.to')[0],
+                'mangaId': el.select_one('a.list-story-item.bookmark_check')['href'].split('/')[1],
                 'mangaTitle': el.select_one('a.list-story-item.bookmark_check')['title'],
                 'mangaImg': el.select_one('a.list-story-item.bookmark_check > img')['src'],
                 'chapter': el.select_one('a.list-story-item-wrap-chapter').text.strip(),
