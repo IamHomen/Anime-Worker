@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "shuumatsu-train-doko-e-iku",
+    "animeTitle": "Shuumatsu Train Doko e Iku?",
+    "animeImg": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.to/shuumatsu-train-doko-e-iku-episode-2"
+  },
+  {
+    "animeId": "kami-wa-game-ni-ueteiru",
+    "animeTitle": "Kami wa Game ni Ueteiru.",
+    "animeImg": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.to/kami-wa-game-ni-ueteiru-episode-2"
+  },
+  {
     "animeId": "shaman-king-flowers",
     "animeTitle": "Shaman King: Flowers",
     "animeImg": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/one-piece-1708412053.png",
     "episode": "Episode 1100",
     "animeUrl": "https://anitaku.to/one-piece-episode-1100"
-  },
-  {
-    "animeId": "wonderful-precure",
-    "animeTitle": "Wonderful Precure!",
-    "animeImg": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 10",
-    "animeUrl": "https://anitaku.to/wonderful-precure-episode-10"
-  },
-  {
-    "animeId": "tonari-no-youkai-san",
-    "animeTitle": "Tonari no Youkai-san",
-    "animeImg": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/tonari-no-youkai-san-episode-1"
   }
 ]
