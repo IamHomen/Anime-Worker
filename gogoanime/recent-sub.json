@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "blue-archive-the-animation",
+    "animeTitle": "Blue Archive the Animation",
+    "animeImg": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/blue-archive-the-animation-episode-1"
+  },
+  {
     "animeId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
     "animeTitle": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
     "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/boku-no-hero-academia-memories-episode-1"
-  },
-  {
-    "animeId": "the-fable",
-    "animeTitle": "The Fable",
-    "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/the-fable-episode-1"
   }
 ]
