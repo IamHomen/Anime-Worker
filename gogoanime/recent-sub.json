@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "sf-saiyuuki-starzinger",
+    "animeTitle": "SF Saiyuuki Starzinger",
+    "animeImg": "https://gogocdn.net/cover/sf-saiyuuki-starzinger.png",
+    "episode": "Episode 72",
+    "animeUrl": "https://anitaku.to/sf-saiyuuki-starzinger-episode-72"
+  },
+  {
     "animeId": "beyblade-x",
     "animeTitle": "Beyblade X",
     "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/yoru-no-kurage-wa-oyogenai-episode-1"
-  },
-  {
-    "animeId": "bucchigiri",
-    "animeTitle": "Bucchigiri?!",
-    "animeImg": "https://gogocdn.net/cover/bucchigiri-2-1704168535.png",
-    "episode": "Episode 12",
-    "animeUrl": "https://anitaku.to/bucchigiri-episode-12"
   }
 ]
