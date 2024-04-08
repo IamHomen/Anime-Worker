@@ -66,13 +66,13 @@ def scrape_popular_manga():
         response = requests.get(BASE_URL, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        for el in soup.select('div.owl-wrapper-outer > .owl-wrapper > .owl-item'):
+        for el in soup.select('div.owl-wrapper-outer > .owl-wrapper'):
             anime_list.append({
-                'mangaId': el.select_one('div.slide-caption > a')['href'],
-                'mangaTitle': el.select_one('div.slide-caption > h3'),
-                'mangaImg': el.select_one('div.item > img')['src'],
-                'chapter': el.select_one('div.slide-caption > a')['title'],
-                'mangaUrl': el.select_one('div.slide-caption > a')['href']
+                'mangaId': el.select_one('div.owl-item .slide-caption > a')['href'],
+                'mangaTitle': el.select_one('div.owl-item .slide-caption > h3'),
+                'mangaImg': el.select_one('div.owl-item .item > img')['src'],
+                'chapter': el.select_one('div.owl-item slide-caption > a')['title'],
+                'mangaUrl': el.select_one('div.owl-item slide-caption > a')['href']
             })
 
         with open('./mangakakalot/popular-manga.json', 'w') as f:
