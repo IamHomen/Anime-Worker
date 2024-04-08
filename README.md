@@ -19,6 +19,7 @@
     <img src="img/mangakakalot.png" alt="Logo" width="100" height="85">
   </a>
   <br>
+</p>
   <h2 align="center">Homen Anime Worker</h3>
 <br>
 <b>UPDATE DATA EVERY 15 MINUTES</b>
@@ -33,6 +34,8 @@
 
 [MangaDex](https://mangadex.org/)
 
+[Mangakakalot](https://mangakakalot.com/)
+
 <strong>ℹ️ Still in Development</strong>
 
 <center>WILL SUPPORT MORE IN THE FUTURE</center>
@@ -43,7 +46,7 @@
 
 | parameters   | description       |
 | ------------ | ------------------- |
-| `gogoanime` `animepahe` `anilist` `mangadex` | select filename from below and replace the url |
+| `gogoanime` `animepahe` `anilist` `mangadex` `mangakakalot` | select filename from below and replace the url |
 
 ### ROUTES  |   END POINT
  # gogoanime |  
@@ -68,6 +71,12 @@
  # mangadex  | 
 
  `latest_manga_updates.json`
+
+ # mangadex  | 
+
+ `hot-manga.json`
+
+ `latest-update.json`
  
 
 ```js
@@ -75,7 +84,8 @@ fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/a
   .then((response) => response.json())
   .then((animelist) => console.log(animelist));
 ```
-
-
-
-<center>MADE PURELY ON PYTHON</center>
+<br>
+<br>
+<p align="center">
+PURELY MADE ON PYTHON
+</p>
