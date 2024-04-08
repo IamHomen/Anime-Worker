@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "tadaima-okaeri",
+    "animeTitle": "Tadaima, Okaeri",
+    "animeImg": "https://gogocdn.net/cover/tadaima-okaeri.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/tadaima-okaeri-episode-1"
+  },
+  {
     "animeId": "remonster",
     "animeTitle": "Re:Monster",
     "animeImg": "https://gogocdn.net/cover/remonster-1711737486.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/yozakura-san-chi-no-daisakusen-episode-1"
-  },
-  {
-    "animeId": "ninja-kamui",
-    "animeTitle": "Ninja Kamui",
-    "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
-    "episode": "Episode 9",
-    "animeUrl": "https://anitaku.to/ninja-kamui-episode-9"
   }
 ]
