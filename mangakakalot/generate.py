@@ -23,9 +23,9 @@ def scrape_latest_update_manga():
                 'views': el.select_one('span.aye_icon').text.strip()
             })
 
-        with open('./mangakakalot/latest-update.json', 'w') as f:
+        with open('./mangakakalot/hot-manga.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('Data saved to mangakakalot/latest-update.json')
+        print('Data saved to mangakakalot/hot-manga.json')
 
         return anime_list
     except Exception as e:
