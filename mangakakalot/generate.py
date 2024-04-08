@@ -66,7 +66,7 @@ def scrape_popular_manga():
         response = requests.get(BASE_URL, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        for el in soup.select('div.owl-wrapper-outer > .owl-wrapper'):
+        for el in soup.select('#owl-demo > .owl-wrapper-outer > .owl-wrapper'):
             anime_list.append({
                 'mangaId': el.select_one('div.owl-item .slide-caption > a')['href'],
                 'mangaTitle': el.select_one('div.owl-item .slide-caption > h3'),
