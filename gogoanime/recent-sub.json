@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "beyblade-x",
+    "animeTitle": "Beyblade X",
+    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 25",
+    "animeUrl": "https://anitaku.to/beyblade-x-episode-25"
+  },
+  {
     "animeId": "tousouchuu-great-mission",
     "animeTitle": "Tousouchuu: Great Mission",
     "animeImg": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/bucchigiri-2-1704168535.png",
     "episode": "Episode 12",
     "animeUrl": "https://anitaku.to/bucchigiri-episode-12"
-  },
-  {
-    "animeId": "detective-conan",
-    "animeTitle": "Detective Conan",
-    "animeImg": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1119",
-    "animeUrl": "https://anitaku.to/detective-conan-episode-1119"
   }
 ]
