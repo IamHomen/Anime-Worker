@@ -15,6 +15,10 @@
     <img src="img/animepahe.svg" alt="Logo" width="85" height="85">
   </a>
   <br>
+  <a href="https://github.com/mrcainv1-3128/Homen-Anime-Worker">
+    <img src="img/mangakakalot.png" alt="Logo" width="100" height="85">
+  </a>
+  <br>
   <h2 align="center">Homen Anime Worker</h3>
 <br>
 <b>UPDATE DATA EVERY 15 MINUTES</b>
