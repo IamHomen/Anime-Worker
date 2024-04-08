@@ -1,5 +1,26 @@
 [
   {
+    "mangaId": "31d95878-b6e2-4f10-a811-e40c01182a60",
+    "title": {
+      "en": "Zombie Hunter"
+    },
+    "updatedAt": "2022-04-05T23:24:48+00:00",
+    "coverArt": "https://mangadex.org/covers/31d95878-b6e2-4f10-a811-e40c01182a60/765fcb14-0277-4dbb-8744-0e16a0f95ce7.jpg",
+    "altTitles": [
+      {
+        "ru": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a \u043d\u0430 \u0437\u043e\u043c\u0431\u0438"
+      }
+    ],
+    "description": {
+      "en": "Unknown to the world, aliens have begun to invade people's bodies. A young race car driver named Toshio was contracted by a mysterious organization for a \"test\" for money. That test turned out to be a hellish training to become a Zombie Hunter. Toshio decided to return to a normal life instead, but soon was confronted by the harsh reality of a Zombie Hunter. Surrounded by shallow figures and aliens, Toshio accepts his new life as a Zombie Hunter \u2026"
+    },
+    "status": "cancelled",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "4",
+    "lastChapter": "26"
+  },
+  {
     "mangaId": "bc8d49fc-0f9b-4f85-9db7-19c3fe3fd81c",
     "title": {
       "en": "The Chart of Priest"
@@ -1523,23 +1544,6 @@
     "status": "ongoing",
     "releaseDate": 2021,
     "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "7d561f70-3503-459e-95f3-ffa33a321721",
-    "title": {
-      "en": "The journey of Dionysus"
-    },
-    "updatedAt": "2023-09-22T13:52:10+00:00",
-    "coverArt": "https://mangadex.org/covers/7d561f70-3503-459e-95f3-ffa33a321721/9134bbae-2358-4be6-93dd-ce8d10ff6b7b.jpg",
-    "altTitles": [],
-    "description": {
-      "en": "Dionysus- the young boy who grew up on a small island with no memory of his family and his constant strange nightmares and dreams. One day, Dionysus decided to go on a journey to find his family and discover who he really was, alongside the love of his life, Ariadne."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
   }
