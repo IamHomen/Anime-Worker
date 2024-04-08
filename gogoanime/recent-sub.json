@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "remonster",
+    "animeTitle": "Re:Monster",
+    "animeImg": "https://gogocdn.net/cover/remonster-1711737486.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.to/remonster-episode-2"
+  },
+  {
     "animeId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
     "animeTitle": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
     "animeImg": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
     "episode": "Episode 9",
     "animeUrl": "https://anitaku.to/ninja-kamui-episode-9"
-  },
-  {
-    "animeId": "shadowverse-flame-special",
-    "animeTitle": "Shadowverse Flame Special",
-    "animeImg": "https://gogocdn.net/cover/shadowverse-flame-special.png",
-    "episode": "Episode 3",
-    "animeUrl": "https://anitaku.to/shadowverse-flame-special-episode-3"
   }
 ]
