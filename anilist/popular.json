@@ -280,19 +280,19 @@
     "format": "TV"
   },
   {
-    "id": 104276,
-    "title": "Boku no Hero Academia 4",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104276-SnEowMvesWIE.png",
-    "seasonYear": 2019,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 20789,
     "title": "Nanatsu no Taizai",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-SsAI4pvvI9EU.jpg",
     "seasonYear": 2014,
     "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 104276,
+    "title": "Boku no Hero Academia 4",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104276-SnEowMvesWIE.png",
+    "seasonYear": 2019,
+    "totalEpisode": 25,
     "format": "TV"
   },
   {
