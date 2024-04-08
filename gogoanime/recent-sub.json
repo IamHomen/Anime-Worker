@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
+    "animeTitle": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
+    "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.to/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-3"
+  },
+  {
     "animeId": "sf-saiyuuki-starzinger",
     "animeTitle": "SF Saiyuuki Starzinger",
     "animeImg": "https://gogocdn.net/cover/sf-saiyuuki-starzinger.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/the-fable-episode-1"
-  },
-  {
-    "animeId": "yoru-no-kurage-wa-oyogenai",
-    "animeTitle": "Yoru no Kurage wa Oyogenai",
-    "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/yoru-no-kurage-wa-oyogenai-episode-1"
   }
 ]
