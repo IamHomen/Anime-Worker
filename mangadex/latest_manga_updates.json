@@ -1,29 +1,5 @@
 [
   {
-    "mangaId": "66fdcdd7-5a0e-4f55-8fd1-da732aa194e2",
-    "title": {
-      "en": "Watashi wo Center ni suru to Chikaimasu ka?"
-    },
-    "updatedAt": "2024-03-17T23:30:54+00:00",
-    "coverArt": "https://mangadex.org/covers/66fdcdd7-5a0e-4f55-8fd1-da732aa194e2/e6f503a9-fd6f-4d49-9b41-0e0d0e4463e2.jpg",
-    "altTitles": [
-      {
-        "ja": "\u79c1\u3092\u30bb\u30f3\u30bf\u30fc\u306b\u3059\u308b\u3068\u8a93\u3044\u307e\u3059\u304b\uff1f"
-      },
-      {
-        "en": "Do You Swear to Center Me?"
-      }
-    ],
-    "description": {
-      "en": "\"If you really can make me the center of the group... I'll marry you.\"\n\nMizuki Natsuno is the least popular member of the idol group \"Melty Strawberry.\" Koichi Okuda is the only person in the world who continues to support Mizuki. Two people who should never be connected, end up in a cooperative relationship under one roof, working her way up from the bottom of the ranks to become the leader of the group.\n\nA story about the \"Japanese Dream\" begins, as they work together as a team to reach stardom in the entertainment world!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
     "mangaId": "a4b8437c-ea32-42f9-96da-b3a6b53dabbd",
     "title": {
       "en": "Kitai Fuku ga Aru"
@@ -1699,5 +1675,33 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": "62.5"
+  },
+  {
+    "mangaId": "19dca456-59dd-466f-8d89-9709984ab10f",
+    "title": {
+      "en": "DOOOOM!"
+    },
+    "updatedAt": "2024-02-28T18:22:25+00:00",
+    "coverArt": "https://mangadex.org/covers/19dca456-59dd-466f-8d89-9709984ab10f/7aae4614-5537-457d-9972-936d80aa6266.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30c9\u30a5\u30fc\u30e0"
+      },
+      {
+        "ja": "DOOOOM\u2015\u30c9\u30a5\u30fc\u30e0\u2015"
+      },
+      {
+        "en": "DOOOOM"
+      }
+    ],
+    "description": {
+      "en": "\u201cLook and you\u2019ll die.\u201d \u201cPost a message and you\u2019ll be cursed.\u201d Horror begins to spread with the use of smartphones. Introducing a new series filled with mystery about the horrors of social media!",
+      "es-la": "\"Mira y morir\u00e1s\". \u201cPublica un mensaje y ser\u00e1s maldecido\u201d. El horror comienza a extenderse con el uso de los tel\u00e9fonos inteligentes. \u00a1Presentamos una nueva serie llena de misterio sobre los horrores de las redes sociales!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
   }
 ]
