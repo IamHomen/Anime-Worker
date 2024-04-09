@@ -1,5 +1,20 @@
 [
   {
+    "mangaId": "ff78afd7-6298-4ab0-8d45-9bd2660fa66f",
+    "title": {
+      "en": "THE iDOLM@STER Cinderella Girls - Daremasu Battle Royale (Doujinshi)"
+    },
+    "updatedAt": "2024-03-29T09:07:22+00:00",
+    "coverArt": "https://mangadex.org/covers/ff78afd7-6298-4ab0-8d45-9bd2660fa66f/c0734bcd-d426-4fad-a031-b02127efa8b4.jpg",
+    "altTitles": [],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "9cc9fced-fe83-45e9-938f-f20ef33e0594",
     "title": {
       "en": "Change 1 2 3"
@@ -38,6 +53,38 @@
     "contentRating": "suggestive",
     "lastVolume": "12",
     "lastChapter": "60"
+  },
+  {
+    "mangaId": "4e421eb8-d4a0-4096-86db-ca5e3fc42c5d",
+    "title": {
+      "en": "Pumpkin Night"
+    },
+    "updatedAt": "2024-01-07T19:13:45+00:00",
+    "coverArt": "https://mangadex.org/covers/4e421eb8-d4a0-4096-86db-ca5e3fc42c5d/50d0d034-d01d-4be8-88f3-dd029c6debfa.jpg",
+    "altTitles": [
+      {
+        "es": "Noche de calabazas"
+      },
+      {
+        "ja": "\u30d1\u30f3\u30d7\u30ad\u30f3\u30ca\u30a4\u30c8"
+      },
+      {
+        "kk": "\u0410\u0441\u049b\u0430\u0431\u0430\u049b \u0442\u04af\u043d\u0456"
+      }
+    ],
+    "description": {
+      "en": "A deformed female human goes out with a pumpkin on her head to kill all those who bullied her in the past after escaping from a mental hospital.",
+      "es": "Una deforme chica sale con una calabaza en su cabeza para matar a todos aquellos que la acosaron en su pasado despu\u00e9s de escapar de un manicomio.",
+      "fr": "Victime de s\u00e9vices orchestr\u00e9s aux yeux de tous par ses camarades de classe, une coll\u00e9gienne a \u00e9t\u00e9 intern\u00e9 dans un h\u00f4pital psychiatrique. Plusieurs mois plus tard, alors que ses bourreaux sont aujourd\u2019hui au lyc\u00e9e, ils apprennent qu\u2019elle s\u2019est \u00e9chapp\u00e9e en tuant tout le personnel hospitalier qui a tent\u00e9 de lui barrer la route et qu\u2019elle est bien d\u00e9cid\u00e9 \u00e0 se venger d\u2019eux.",
+      "kk": "\u0411\u0435\u0442 \u04d9\u043b\u043f\u0435\u0442\u0456 \u049b\u0430\u0442\u0442\u044b \u0437\u0430\u049b\u044b\u043c\u0434\u0430\u043d\u0493\u0430\u043d, \u043e\u049b\u0443\u0448\u044b \u049b\u044b\u0437, \u0431\u04b1\u0440\u044b\u043d \u043e\u043d\u044b \u043a\u0435\u043b\u0435\u043a\u0435 \u0435\u0442\u043a\u0435\u043d \u0430\u0434\u0430\u043c\u0434\u0430\u0440\u0434\u044b\u04a3 \u0436\u0430\u043d\u0434\u0430\u0440\u044b\u043d \u0430\u043b\u0443 \u04af\u0448\u0456\u043d, \u0430\u0443\u0440\u0443\u0445\u0430\u043d\u0430\u0434\u0430\u043d \u049b\u0430\u0448\u044b\u043f \u0448\u044b\u0493\u0430\u0434\u044b.",
+      "pt": "Uma mulher deformada sai com uma ab\u00f3bora na cabe\u00e7a para matar todos aqueles que a maltrataram no passado depois de escapar de um hospital psiqui\u00e1trico.",
+      "pt-br": "Uma mulher deformada sai com uma ab\u00f3bora na cabe\u00e7a para matar todos aqueles que fizeram bullying com ela no passado depois de escapar de um hospital psiqui\u00e1trico."
+    },
+    "status": "ongoing",
+    "releaseDate": 2016,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
   },
   {
     "mangaId": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
@@ -1576,8 +1623,8 @@
     "title": {
       "en": "Grand Dwarf"
     },
-    "updatedAt": "2024-01-05T19:52:30+00:00",
-    "coverArt": "https://mangadex.org/covers/a2e62666-3eac-4ea3-b0a2-1db36026103d/9975c221-b889-4008-a524-fb1206747254.jpg",
+    "updatedAt": "2024-04-09T20:58:34+00:00",
+    "coverArt": "https://mangadex.org/covers/a2e62666-3eac-4ea3-b0a2-1db36026103d/b6fd9d64-a464-4002-8ae4-7aebaaa9a239.jpg",
     "altTitles": [
       {
         "ja-ro": "Gurandowaafu - Machi Kou Shokunin, Takumi no Waza de Isekai Musou"
@@ -1876,86 +1923,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "df361a38-eef6-4674-bec6-86d08aa1d1aa",
-    "title": {
-      "en": "Ogami Tsumiki to Kinichijou."
-    },
-    "updatedAt": "2024-03-30T23:26:30+00:00",
-    "coverArt": "https://mangadex.org/covers/df361a38-eef6-4674-bec6-86d08aa1d1aa/b70c874a-be6d-4089-989d-7c408536544d.jpg",
-    "altTitles": [
-      {
-        "ja": "\u5c3e\u5b88\u3064\u307f\u304d\u3068\u5947\u65e5\u5e38\u3002"
-      },
-      {
-        "en": "Tsumiki Ogami & the Strange Everyday Life."
-      },
-      {
-        "es": "Tsumiki Omori y la extra\u00f1a vida cotidiana."
-      },
-      {
-        "es-la": "Tsumiki Omori y la extra\u00f1a vida cotidiana."
-      },
-      {
-        "pt-br": "Tsumiki Ogami e seu estranho coditiano."
-      },
-      {
-        "pl": "Tsumiki Ogami & jej Niecodzienne \u017bycie."
-      },
-      {
-        "vi": "Tsumiki Ogami V\u00e0 Cu\u1ed9c S\u1ed1ng DI\u1ec7u K\u1ef3"
-      },
-      {
-        "ru": "\u0426\u0443\u043c\u0438\u043a\u0438 \u041e\u0433\u0430\u043c\u0438 \u0438 \u0441\u0442\u0440\u0430\u043d\u043d\u0430\u044f \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c"
-      }
-    ],
-    "description": {
-      "en": "Today, we live in an age of diversity. The phrase \"non-humans\" is a thing of the past. \"Genjin\" live their lives interacting with human beings.\n\nOne human boy, Yutaka Shinsou, is troubled. He is so used to being in tune with his surroundings that he no longer understands his own feelings. At Keiki High School, where many \"Genjin\" attend, he meets Tsumiki Ogami, a werewolf. She is cute, powerful, a little out of the ordinary, and kind.\n\nWhen he spends time with her, Yutaka's heart is somehow noisier than usual. Spinning an \"unusual\" everyday life with Tsumiki the werewolf.\n\nThe new normal graph of youth is about to begin.",
-      "es": "Hoy vivimos en la era de la diversidad. La expresi\u00f3n \"no humanos\" es cosa del pasado. Los \"genjin\" viven sus vidas interactuando con los seres humanos. Un chico humano, Yutaka Shinsou, tiene problemas. Est\u00e1 tan acostumbrado a estar en sinton\u00eda con su entorno que ya no comprende sus propios sentimientos. En el instituto Keiki, al que acuden muchos \"genjin\", conoce a Tsumiki Ogami, una mujer lobo. Es guapa, poderosa, un poco fuera de lo com\u00fan y amable... Cuando pasa tiempo con ella, el coraz\u00f3n de Yutaka hace m\u00e1s ruido de lo normal. Hilando una \"inusual\" vida cotidiana con Tsumiki, la mujer lobo. El nuevo gr\u00e1fico normal de la juventud est\u00e1 a punto de comenzar.",
-      "ja": "\u30a6\u30a7\u30a2\u30a6\u30eb\u30d5\u306e\u5c3e\u5b88\u3064\u307f\u304d\u3055\u3093\u3068\u7d21\u3050\u3001\u300c\u666e\u901a\u300d\u3058\u3083\u306a\u3044\u65e5\u5e38\u2015\u2015\n\n\u591a\u69d8\u6027\u306e\u6642\u4ee3\u3068\u3055\u308c\u308b\u73fe\u4ee3\u3002\u3064\u3044\u3053\u306e\u9593\u307e\u3067\u300c\u4eba\u306a\u3089\u3056\u308b\u5b58\u5728\u300d\u3060\u3063\u305f\u300c\u5e7b\u4eba\u300d\u306f\u4eca\u306f\u4eba\u9593\u3068\u95a2\u308f\u308a\u5408\u3063\u3066\u751f\u6d3b\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u821e\u53f0\u306f\u3001\u5e7b\u4eba\u304c\u591a\u304f\u901a\u3046\u666f\u5e0c\u9ad8\u6821\u3002\u305d\u3053\u306b\u3044\u305f\u306e\u306f\u3001\u30a6\u30a7\u30a2\u30a6\u30eb\u30d5\u306e\u5c3e\u5b88\u3064\u307f\u304d\uff08\u304a\u304c\u307f\u3064\u307f\u304d\uff09\u3055\u3093\u3002\u30e2\u30d5\u30e2\u30d5\u306e\u8033\u3068\u5c3b\u5c3e\u304c\u63fa\u308c\u308b\u3001\u5929\u771f\u721b\u6f2b\u306a\u7f8e\u5c11\u5973\u3002\n\n\u771f\u5c64\u53cb\u5b5d\uff08\u3057\u3093\u305d\u3046\u3086\u305f\u304b\uff09\u304f\u3093\u306f\u3001\u60a9\u3081\u308b\u4eba\u9593\u306e\u5c11\u5e74\u3002\u4eba\u9593\u95a2\u4fc2\u304c\u539f\u56e0\u3067\u3001\u81ea\u5206\u306e\u3053\u3068\u304c\u5206\u304b\u3089\u306a\u304f\u306a\u308a\u307e\u3057\u305f\u3002\u53cb\u5b5d\u304f\u3093\u306f\u3064\u307f\u304d\u3055\u3093\u3068\u51fa\u4f1a\u3044\u3001\u81ea\u5206\u306e\u300c\u6c17\u6301\u3061\u300d\u3092\u898b\u3064\u3051\u3066\u3044\u304d\u307e\u3059\u3002\n\n\u300c\u2026\u4eba\u9593\u3063\u3066\u5927\u5909\u3060\u3041\uff5e\u300d\n\u65e5\u5e38\u304c\u5909\u308f\u3063\u3066\u3044\u304f\u3001\u3064\u307f\u304d\u3055\u3093\u3068\u4e00\u7dd2\u306a\u3089\u3002\n\n\u307e\u3060\u8ab0\u3082\u77e5\u3089\u306a\u3044\u3001\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\u306a\u9752\u6625\u304c\u3053\u3053\u306b\u3002",
-      "ru": "\u0421\u0435\u0433\u043e\u0434\u043d\u044f \u043c\u044b \u0436\u0438\u0432\u0451\u043c \u0432 \u044d\u043f\u043e\u0445\u0443 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0438\u044f. \"\u041d\u0435\u043b\u044e\u0434\u0438\" \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0443\u0448\u043b\u0438 \u0438\u0437 \u0441\u043b\u043e\u0432\u0435\u0441\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u043e\u0442\u0430. \"\u0413\u0435\u043d\u0434\u0437\u0438\u043d\u044b\" \u0436\u0438\u0432\u0443\u0442 \u0441\u0432\u043e\u0435\u0439 \u0436\u0438\u0437\u043d\u044c\u044e, \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044f \u0441 \u043b\u044e\u0434\u044c\u043c\u0438. \u041e\u0434\u0438\u043d \u0438\u0437 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u043e\u0432, \u042e\u0442\u0430\u043a\u0430 \u0428\u0438\u043d\u0441\u043e, \u043a\u043e\u0435-\u0447\u0435\u043c \u043e\u0431\u0435\u0441\u043f\u043e\u043a\u043e\u0435\u043d. \u041e\u043d \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0438\u0432\u044b\u043a \u0431\u044b\u0442\u044c \u0432 \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u0438 \u0441\u043e \u0441\u0432\u043e\u0438\u043c \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435\u043c, \u0447\u0442\u043e \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c \u0441\u0432\u043e\u0438 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0447\u0443\u0432\u0441\u0442\u0432\u0430. \u0412 \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u0448\u043a\u043e\u043b\u0435 \u041a\u044d\u0439\u043a\u0438, \u0433\u0434\u0435 \u0443\u0447\u0430\u0442\u0441\u044f \u043c\u043d\u043e\u0433\u0438\u0435 \"\u0433\u0435\u043d\u0434\u0437\u0438\u043d\u044b\", \u043e\u043d \u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u0441\u044f \u0441 \u043e\u0431\u043e\u0440\u043e\u0442\u043d\u0435\u043c \u0426\u0443\u043c\u0438\u043a\u0438 \u041e\u0433\u0430\u043c\u0438. \u041e\u043d\u0430 \u043c\u0438\u043b\u0430\u044f, \u0441\u0438\u043b\u044c\u043d\u0430\u044f, \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u0441\u0442\u0440\u0430\u043d\u043d\u0430\u044f \u0438 \u0434\u043e\u0431\u0440\u0430\u044f... \u041a\u043e\u0433\u0434\u0430 \u042e\u0442\u0430\u043a\u0430 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442 \u0441 \u043d\u0435\u0439 \u0432\u0440\u0435\u043c\u044f, \u0435\u0433\u043e \u0441\u0435\u0440\u0434\u0446\u0435 \u043f\u043e\u0447\u0435\u043c\u0443-\u0442\u043e \u0431\u044c\u0435\u0442\u0441\u044f \u0447\u0430\u0449\u0435 \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e.",
-      "es-la": "Hoy vivimos en la era de la diversidad. La expresi\u00f3n \"no humanos\" es cosa del pasado. Los \"genjin\" viven sus vidas interactuando con los seres humanos. Un chico humano, Yutaka Shinsou, tiene problemas. Est\u00e1 tan acostumbrado a estar en sinton\u00eda con su entorno que ya no comprende sus propios sentimientos. En el instituto Keiki, al que acuden muchos \"genjin\", conoce a Tsumiki Ogami, una mujer lobo. Es guapa, poderosa, un poco fuera de lo com\u00fan y amable... Cuando pasa tiempo con ella, el coraz\u00f3n de Yutaka hace m\u00e1s ruido de lo normal. Hilando una \"inusual\" vida cotidiana con Tsumiki, la mujer lobo. El nuevo gr\u00e1fico normal de la juventud est\u00e1 a punto de comenzar."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "5e433b63-7faa-4106-8ec9-802282f322b1",
-    "title": {
-      "en": "Watari-kun no \u00d7\u00d7 ga Houkai Sunzen"
-    },
-    "updatedAt": "2024-03-23T07:22:30+00:00",
-    "coverArt": "https://mangadex.org/covers/5e433b63-7faa-4106-8ec9-802282f322b1/676d7e37-7d21-469f-9afc-d841c58f78cb.jpg",
-    "altTitles": [
-      {
-        "ja": "\u6e21\u304f\u3093\u306e\u00d7\u00d7\u304c\u5d29\u58ca\u5bf8\u524d"
-      },
-      {
-        "zh": "\u6e21\u541b\u7684\u00d7\u00d7\u5373\u5c06\u5d29\u574f"
-      },
-      {
-        "ko": "\uc640\ud0c0\ub9ac\uad70\uc758 XX\uac00 \ubd95\uad34\uc9c1\uc804"
-      },
-      {
-        "en": "Watari-kun's ****** Is about to Collapse"
-      },
-      {
-        "ru": "XX \u0412\u0430\u0442\u0430\u0440\u0438-\u043a\u0443\u043d\u0430 \u043d\u0430 \u0433\u0440\u0430\u043d\u0438 \u0433\u0440\u0430\u0445\u0430"
-      }
-    ],
-    "description": {
-      "en": "Ever since his parents died, Watari Nao's life has revolved around his little sister. He forgoes club activities for the sake of spending time with her, leading many of his peers to label him a siscon. But as long as his sister's happy, Nao is willing to shut out any unwelcome comments about himself.  \n  \nUnbeknownst to Nao, however, a greater danger has resurfaced - one that destroyed his way of life six years ago, and threatens to do so once again.  \n  \nAnd that danger, in the form of a girl wielding a garden hoe, will stop at nothing to reclaim what could once have been hers, and hers alone.",
-      "ru": "\u0421 \u0442\u0435\u0445 \u043f\u043e\u0440, \u043a\u0430\u043a \u0435\u0433\u043e \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0443\u043c\u0435\u0440\u043b\u0438, \u0436\u0438\u0437\u043d\u044c \u0412\u0430\u0442\u0430\u0440\u0438 \u041d\u0430\u043e\u0442\u043e \u0432\u0440\u0430\u0449\u0430\u043b\u0430\u0441\u044c \u0432\u043e\u043a\u0440\u0443\u0433 \u0441\u0432\u043e\u0435\u0439 \u043c\u043b\u0430\u0434\u0448\u0435\u0439 \u0441\u0435\u0441\u0442\u0440\u044b. \u041e\u043d \u0432\u043e\u0437\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0442 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043a\u043b\u0443\u0431\u0430 \u0440\u0430\u0434\u0438 \u0442\u043e\u0433\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0441 \u043d\u0435\u0439, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0447\u0435\u0433\u043e \u043c\u043d\u043e\u0433\u0438\u0435 \u0438\u0437 \u0435\u0433\u043e \u0441\u0432\u0435\u0440\u0441\u0442\u043d\u0438\u043a\u043e\u0432 \u0434\u0443\u043c\u0430\u044e\u0442, \u0447\u0442\u043e \u043e\u043d \u0432\u043b\u044e\u0431\u043b\u0451\u043d \u0432 \u0441\u0432\u043e\u044e \u0441\u0435\u0441\u0442\u0440\u0443. \u041d\u043e \u043f\u043e\u043a\u0430 \u0435\u0433\u043e \u0441\u0435\u0441\u0442\u0440\u0430 \u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u0430, \u041d\u0430\u043e\u0442\u043e \u0433\u043e\u0442\u043e\u0432 \u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0433\u043b\u0430\u0437\u0430 \u043d\u0430 \u0432\u0441\u0435 \u044d\u0442\u0438 \u0441\u043f\u043b\u0435\u0442\u043d\u0438. \u041e\u0434\u043d\u0430\u043a\u043e \u0435\u043c\u0443 \u0443\u0433\u0440\u043e\u0436\u0430\u0435\u0442 \u0442\u0430 \u0436\u0435 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c, \u0447\u0442\u043e \u043d\u0430\u0441\u0442\u0438\u0433\u043b\u0430 \u0435\u0433\u043e \u0448\u0435\u0441\u0442\u044c \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434. \u042d\u0442\u0430 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u2014 \u0434\u0435\u0432\u0443\u0448\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043d\u0435 \u0443\u0439\u0434\u0435\u0442 \u0431\u0435\u0437 \u0442\u043e\u0433\u043e, \u0447\u0442\u043e \u043a\u043e\u0433\u0434\u0430-\u0442\u043e \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u043b\u043e \u0435\u0439 \u043e\u0434\u043d\u043e\u0439!",
-      "pt-br": "Desde que seus pais morreram, a vida de Watari Nao tem girado em torno de sua irm\u00e3 mais nova. Ele renuncia atividades do clube por causa de passar tempo com ela, levando muitos de seus colegas para rotul\u00e1-lo de SISCON. Mas, enquanto sua irm\u00e3 estiver feliz, Nao est\u00e1 disposto a calar quaisquer coment\u00e1rios indesej\u00e1veis sobre si mesmo. Sem o conhecimento de Nao, no entanto, um perigo maior ressurgiu - um que destruiu seu modo de vida, h\u00e1 seis anos, e amea\u00e7a faz\u00ea-lo mais uma vez, e o perigo vem sob a forma de uma garota empunhando uma enxada de jardim."
-    },
-    "status": "completed",
-    "releaseDate": 2014,
-    "contentRating": "suggestive",
-    "lastVolume": "16",
-    "lastChapter": "92"
   }
 ]
