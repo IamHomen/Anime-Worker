@@ -10,14 +10,12 @@ def scrape_latest_update_manga():
     try:
         headers = {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-          'Accept': '*/*'
           'Accept-Encoding': 'gzip, deflate, br, zstd'
           'Accept-Language': 'en-US,en;q=0.9'
           'Connection': 'keep-alive'
           'Content-Type': 'application/json'
           'Host': 's333.adxpremium.services'
           'Origin': 'https://asuratoon.com'
-          'Referer': 'https://asuratoon.com/'
         }
       
         response = requests.get({BASE_URL}{UPDATE_PATH}, headers=headers)
