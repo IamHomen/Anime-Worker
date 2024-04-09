@@ -83,6 +83,10 @@
   # asurascans  | 
   
  `latest-update.json`
+
+ `popular.json`
+
+ `newest-manga.json`
  
 
 ```js
