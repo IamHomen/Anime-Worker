@@ -12,13 +12,13 @@ def scrape_latest_update_manga():
         response = requests.get(BASE_URL, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        for el in soup.select('div.listupd'):
+        for el in soup.select('div.listupd > .bs'):
             anime_list.append({
-                'mangaId': el.select_one('div.bs > .bsx > a')['href'],
-                'animeTitle': el.select_one('div.bs > .bsx > a')['title'],
-                'animeImg': el.select_one('div.bs > .bsx > a > .limit > img')['src'],
-                'episode': el.select_one('div.bs > .bsx > a > .bigor > .adds > .epxs').text.strip(),
-                'animeUrl': BASE_URL + el.select_one('div.bs > .bsx > a')['href']
+                'mangaId': el.select_one('div.bsx > a')['href'],
+                'animeTitle': el.select_one('div.bsx > a')['title'],
+                'animeImg': el.select_one('div.bsx > a > .limit > img')['src'],
+                'episode': el.select_one('div.bsx > a > .bigor > .adds > .epxs').text.strip(),
+                'animeUrl': el.select_one('div.bsx > a')['href']
             })
 
         with open('./asurascans/latest-update.json', 'w') as f:
