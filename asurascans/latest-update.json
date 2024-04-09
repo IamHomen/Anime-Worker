@@ -1,5 +1,19 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-i-am-the-fated-villain/",
+    "animeTitle": "I Am the Fated Villain",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/11/fatedvillain-2.jpg",
+    "episode": "Chapter 144",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-i-am-the-fated-villain/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-nebulas-civilization/",
+    "animeTitle": "The Nebula\u2019s Civilization",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/TheNebulasCivilizationCover01.png",
+    "episode": "Chapter 38",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-nebulas-civilization/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-standard-of-reincarnation/",
     "animeTitle": "Standard of Reincarnation",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/08/standardofReCover06.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/BloodhoundsRegressionInstinctCover01.png",
     "episode": "Chapter 23",
     "animeUrl": "https://asuratoon.com/manga/1908287720-bloodhounds-regression-instinct/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-your-talent-is-mine/",
-    "animeTitle": "Your Talent is Mine",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/Cover-1-218x300.jpg",
-    "episode": "Chapter 74",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-your-talent-is-mine/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-tutorial-is-too-hard/",
-    "animeTitle": "The Tutorial is Too Hard",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/01/TheTutorialisTooHardCover02.png",
-    "episode": "Chapter 159",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-tutorial-is-too-hard/"
   }
 ]
