@@ -87,5 +87,7 @@ fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/a
 <br>
 <br>
 <p align="center">
-PURELY MADE ON PYTHON
+<strong>PURELY MADE ON PYTHON</strong>
 </p>
+<br>
+[Request Route in Issue Sectio](https://github.com/IamHomen/Anime-Worker/issues)
