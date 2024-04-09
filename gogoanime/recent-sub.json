@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "oomuro-ke-dear-sisters",
+    "animeTitle": "Oomuro-ke: Dear Sisters",
+    "animeImg": "https://gogocdn.net/cover/oomuro-ke-dear-sisters.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/oomuro-ke-dear-sisters-episode-1"
+  },
+  {
     "animeId": "atashinchi",
     "animeTitle": "Atashin'chi",
     "animeImg": "https://gogocdn.net/cover/atashinchi.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/shinkalion-change-the-world-episode-1"
-  },
-  {
-    "animeId": "yami-shibai-12",
-    "animeTitle": "Yami Shibai 12",
-    "animeImg": "https://gogocdn.net/cover/yami-shibai-12.png",
-    "episode": "Episode 13",
-    "animeUrl": "https://anitaku.to/yami-shibai-12-episode-13"
   }
 ]
