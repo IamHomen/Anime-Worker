@@ -40,6 +40,205 @@
     "lastChapter": "60"
   },
   {
+    "mangaId": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
+    "title": {
+      "en": "Komi-san wa Komyushou Desu."
+    },
+    "updatedAt": "2024-01-03T18:40:27+00:00",
+    "coverArt": "https://mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/ef3ce0e5-19ff-4623-95fc-acf41afe1075.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Comi-san ha Comyusho Desu."
+      },
+      {
+        "en": "Komi Can't Communicate"
+      },
+      {
+        "en": "Komi-san Can't Communicate."
+      },
+      {
+        "en": "Komi-san Has a Communication Disorder."
+      },
+      {
+        "ja-ro": "Komi-san wa, Communication Shougai desu."
+      },
+      {
+        "en": "Miss Komi Is Bad at Communication."
+      },
+      {
+        "ru": "\u0423 \u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u043e\u0431\u0449\u0435\u043d\u0438\u0435\u043c"
+      },
+      {
+        "th": "\u0e42\u0e09\u0e21\u0e07\u0e32\u0e21\u0e1e\u0e39\u0e14\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07\u0e01\u0e31\u0e1a\u0e1c\u0e2d\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e40\u0e15\u0e47\u0e07"
+      },
+      {
+        "ja": "\u53e4\u898b\u3055\u3093\u306f\u3001\u30b3\u30df\u30e5\u75c7\u3067\u3059\u3002"
+      },
+      {
+        "ko": "\ucf54\ubbf8 \uc591\uc740, \ucee4\ubba4\uc99d\uc774\uc5d0\uc694"
+      },
+      {
+        "ar": "\u0643\u0648\u0645\u064a \u0633\u0627\u0646 \u0644\u0627 \u064a\u0645\u0643\u0646\u0647\u0627 \u0627\u0644\u062a\u0648\u0627\u0635\u0644"
+      },
+      {
+        "ja-ro": "Furumi-san wa, Komyu-sh\u014ddesu."
+      },
+      {
+        "vi": "Komi - N\u1eef th\u1ea7n s\u1ee3 giao ti\u1ebfp"
+      },
+      {
+        "fr": "Komi cherche ses mots"
+      },
+      {
+        "tr": "Komi Konu\u015fmaktan Korkuyor"
+      },
+      {
+        "pt": "Komi n\u00e3o consegue se comunicar"
+      },
+      {
+        "id": "Komi Sulit Berkomunikasi"
+      },
+      {
+        "ms": "Komi Tidak Boleh Berkomunikasi"
+      },
+      {
+        "hu": "Komi-san Kommunik\u00e1ci\u00f3s Zavarral K\u00fczd"
+      },
+      {
+        "cs": "Komi-san nem\u016f\u017ee komunikovat"
+      },
+      {
+        "pl": "Komi-san nie m\u00f3c komunikuje"
+      },
+      {
+        "pl": "Komi-san nie m\u00f3c porozumiewa"
+      },
+      {
+        "es": "Komi-san no puede comunicarse"
+      },
+      {
+        "pt": "Senhora Komi n\u00e3o consegue se comunicar"
+      },
+      {
+        "pt-br": "Senhorita Komi n\u00e3o consegue se comunicar"
+      },
+      {
+        "ru": "\u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u0432\u0430, \u043a\u043e\u043c\u044e\u0441\u0451: \u0434\u044d\u0441\u0443"
+      },
+      {
+        "mn": "\u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u0445\u0430\u0440\u0438\u043b\u0446\u0430\u0436 \u0447\u0430\u0434\u0434\u0430\u0433\u0433\u04af\u0439"
+      },
+      {
+        "ru": "\u0423 \u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u043e\u0431\u0449\u0435\u043d\u0438\u0435\u043c"
+      },
+      {
+        "uk": "\u0423 \u041a\u043e\u043c\u0456-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u0437\u0456 \u0441\u043f\u0456\u043b\u043a\u0443\u0432\u0430\u043d\u043d\u044f\u043c"
+      },
+      {
+        "ar": "\u0643\u0648\u0645\u064a \u0644\u0627 \u062a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644"
+      },
+      {
+        "fa": "\u06a9\u0648\u0645\u06cc \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0635\u062d\u0628\u062a \u06a9\u0646\u062f"
+      },
+      {
+        "ne": "\u0915\u094b\u092e\u0940 \u0938\u091e\u094d\u091a\u093e\u0930 \u0917\u0930\u094d\u0928 \u0938\u0915\u094d\u0926\u0948\u0928\u0964"
+      },
+      {
+        "th": "\u0e42\u0e09\u0e21\u0e07\u0e32\u0e21\u0e1e\u0e39\u0e14\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07\u0e01\u0e31\u0e1a\u0e1c\u0e2d\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e40\u0e15\u0e47\u0e07"
+      },
+      {
+        "zh-hk": "\u53e4\u898b\u540c\u5b78\u662f\u6e9d\u901a\u9b6f\u86c7\u3002"
+      },
+      {
+        "zh-hk": "\u53e4\u898b\u540c\u5b78\u6709\u4ea4\u6d41\u969c\u7919\u75c7"
+      },
+      {
+        "zh": "\u53e4\u89c1\u540c\u5b66\u6709\u4ea4\u6d41\u969c\u788d\u75c7"
+      },
+      {
+        "ko": "\ucf54\ubbf8 \uc591\uc740 \ucee4\ubba4\uc99d\uc785\ub2c8\ub2e4"
+      },
+      {
+        "ko": "\ucf54\ubbf8 \uc591\uc740, \ucee4\ubba4\uc99d\uc774\uc5d0\uc694"
+      }
+    ],
+    "description": {
+      "en": "Komi-san is a beautiful and admirable girl that no one can take their eyes off of. Almost the whole school sees her as the cold beauty that's out of their league, but Tadano Hitohito knows the truth: she's just really bad at communicating with others.\n\nKomi-san, who wishes to fix this bad habit of hers, tries to improve it with the help of Tadano-kun by achieving her goal of having 100 friends.",
+      "pl": "Komi-san jest pi\u0119kn\u0105 i godn\u0105 podziwu dziewczyn\u0105, od kt\u00f3rej nikt nie mo\u017ce oderwa\u0107 oczu. Prawie ca\u0142a szko\u0142a postrzega j\u0105 jako zimne pi\u0119kno, kt\u00f3re jest poza ich zasi\u0119giem, ale Tadano Hitohito zna prawd\u0119: m\u0142oda pi\u0119kno\u015b\u0107 po prostu \u017ale komunikuje si\u0119 z innymi. Komi-san, chce to zmieni\u0107, a ma jej w tym pom\u00f3c Tadano.",
+      "pt-br": "Komi-san \u00e9 uma bela e admir\u00e1vel garota que ningu\u00e9m consegue tirar os olhos. Quase todos da escola a veem como algu\u00e9m fora do alcance, mas Tadano Shigeo sabe a verdade: **ela apenas n\u00e3o sabe como se comunicar com os outras pessoas**. Komi-san, que deseja corrigir este mau h\u00e1bito dela, tenta melhorar com a ajuda do Tadano-kun..."
+    },
+    "status": "ongoing",
+    "releaseDate": 2016,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "df204d2f-13e4-4c88-9bee-0525d6181004",
+    "title": {
+      "en": "The Son of the First Emperor Kills Enemies and Becomes a God"
+    },
+    "updatedAt": "2024-02-23T08:10:54+00:00",
+    "coverArt": "https://mangadex.org/covers/df204d2f-13e4-4c88-9bee-0525d6181004/c47e7a72-5e93-4863-839c-e48e50a668da.jpg",
+    "altTitles": [
+      {
+        "zh": "\u5927\u79e6\uff1a\u59cb\u7687\u4e4b\u5b50\u6740\u654c\u5347\u7ea7\u6210\u795e"
+      },
+      {
+        "zh-ro": "Daqin: Shi Huang Zhizi Sha Di Shengji Cheng Shen"
+      },
+      {
+        "zh-ro": "D\u00e0q\u00edn: Sh\u01d0 Hu\u00e1ng Zh\u012bz\u01d0 Sh\u0101 D\u00ed Sh\u0113ngj\u00ed Ch\u00e9ng Sh\u00e9n"
+      },
+      {
+        "en": "Daqin: The First Emperor's Son Killed Enemies to Upgrade to Be God"
+      },
+      {
+        "en": "Da Qin The Son Of The First Emperor Kills Enemies And Becomes A God"
+      }
+    ],
+    "description": {
+      "en": "Zhao Qi gets reborn to the warring period. At the time when the Qin emperor, Ying Zheng, started sweeping the 6 nations, and rule the world. Enlisting in the army Without hesitation, I didn\u2019t expect once I start killing enemies I would level up the system! Slowly but surely, Zhao Qi became the commander for Da Qin\u2019s army, when he saw emperor Qin he was immediately startled, he is actually the son of the emperor, Da Qin\u2019s prince!",
+      "zh": "\u8d75\u7941\u91cd\u751f\u5230\u4e86\u6218\u56fd\u65f6\u671f\u3002\u6b63\u503c\u4e8e\u79e6\u59cb\u7687\u5b34\u653f\u5f00\u542f\u626b\u516d\u5408\uff0c\u7edf\u5929\u4e0b\u4e4b\u65f6\u3002\u6bc5\u7136\u5165\u4f0d\u4ece\u519b\uff0c\u6ca1\u60f3\u5230\u7adf\u7136\u5f00\u542f\u6740\u654c\u5347\u7ea7\u7cfb\u7edf\uff01\u8d75\u7941\u4e00\u6b65\u6b65\u6210\u4e3a\u4e86\u5927\u79e6\u9510\u58eb\u7684\u7edf\u5e05\uff0c\u5f53\u770b\u5230\u79e6\u59cb\u7687\u540e\uff0c\u987f\u65f6\u60ca\u4e86\uff0c\u81ea\u5df1\u7adf\u7136\u662f\u59cb\u7687\u4e4b\u5b50\uff0c\u5927\u79e6\u957f\u516c\u5b50\uff01"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "ca33a142-58fb-4fee-88b9-36ef87f02c77",
+    "title": {
+      "en": "Nezumi no Hatsukoi"
+    },
+    "updatedAt": "2024-04-03T06:31:19+00:00",
+    "coverArt": "https://mangadex.org/covers/ca33a142-58fb-4fee-88b9-36ef87f02c77/fb9e2922-7708-4e0e-b163-00f173a5c16b.jpg",
+    "altTitles": [
+      {
+        "ja": "\u306d\u305a\u307f\u306e\u521d\u604b"
+      },
+      {
+        "en": "Nezumi's First Love"
+      },
+      {
+        "vi": "T\u00ecnh \u0111\u1ea7u c\u1ee7a Nezumi"
+      },
+      {
+        "ne": "\u0928\u0947\u091c\u0941\u092e\u0940 \u0915\u094b \u092a\u0939\u093f\u0932\u094b \u092a\u094d\u0930\u0947\u092e"
+      }
+    ],
+    "description": {
+      "en": "Nezumi is a girl who was raised as a hitman by the yakuza and grew up not knowing human love. An ordinary young man, Ao, knows nothing. They fall in love and start to live together, but the evil hand is close at hand.... This is a story of first love, so cruel and so sad.\n\nRead the prequel oneshot featuring Messiah-chan's backstory [here](https://mangadex.org/title/a53ff4b3-1514-4b91-9fa0-acd99dd797de/gomennasai-messiah-chan).",
+      "ja": "\u30e4\u30af\u30b6\u306b\u6bba\u3057\u5c4b\u3068\u3057\u3066\u80b2\u3066\u3089\u308c\u3001\u4eba\u306e\u611b\u3092\u77e5\u3089\u305a\u306b\u80b2\u3063\u305f\u5c11\u5973\u3001\u306d\u305a\u307f\u3002\u4f55\u3082\u77e5\u3089\u306a\u3044\u666e\u901a\u306e\u9752\u5e74\u3001\u78a7(\u3042\u304a)\u3002\u4e8c\u4eba\u306f\u604b\u306b\u843d\u3061\u3001\u5171\u306b\u66ae\u3089\u3057\u59cb\u3081\u308b\u304c\u3001\u9b54\u306e\u624b\u306f\u3059\u3050\u305d\u3053\u307e\u3067\u8feb\u3063\u3066\u3044\u305f\u2025\u2025\u3002"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "b4ecb445-9a26-4f9d-bf16-df96bda62de0",
     "title": {
       "en": "Marriage of Convenience"
@@ -792,140 +991,6 @@
     "contentRating": "safe",
     "lastVolume": "2",
     "lastChapter": "72"
-  },
-  {
-    "mangaId": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
-    "title": {
-      "en": "Komi-san wa Komyushou Desu."
-    },
-    "updatedAt": "2024-01-03T18:40:27+00:00",
-    "coverArt": "https://mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/ef3ce0e5-19ff-4623-95fc-acf41afe1075.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Comi-san ha Comyusho Desu."
-      },
-      {
-        "en": "Komi Can't Communicate"
-      },
-      {
-        "en": "Komi-san Can't Communicate."
-      },
-      {
-        "en": "Komi-san Has a Communication Disorder."
-      },
-      {
-        "ja-ro": "Komi-san wa, Communication Shougai desu."
-      },
-      {
-        "en": "Miss Komi Is Bad at Communication."
-      },
-      {
-        "ru": "\u0423 \u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u043e\u0431\u0449\u0435\u043d\u0438\u0435\u043c"
-      },
-      {
-        "th": "\u0e42\u0e09\u0e21\u0e07\u0e32\u0e21\u0e1e\u0e39\u0e14\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07\u0e01\u0e31\u0e1a\u0e1c\u0e2d\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e40\u0e15\u0e47\u0e07"
-      },
-      {
-        "ja": "\u53e4\u898b\u3055\u3093\u306f\u3001\u30b3\u30df\u30e5\u75c7\u3067\u3059\u3002"
-      },
-      {
-        "ko": "\ucf54\ubbf8 \uc591\uc740, \ucee4\ubba4\uc99d\uc774\uc5d0\uc694"
-      },
-      {
-        "ar": "\u0643\u0648\u0645\u064a \u0633\u0627\u0646 \u0644\u0627 \u064a\u0645\u0643\u0646\u0647\u0627 \u0627\u0644\u062a\u0648\u0627\u0635\u0644"
-      },
-      {
-        "ja-ro": "Furumi-san wa, Komyu-sh\u014ddesu."
-      },
-      {
-        "vi": "Komi - N\u1eef th\u1ea7n s\u1ee3 giao ti\u1ebfp"
-      },
-      {
-        "fr": "Komi cherche ses mots"
-      },
-      {
-        "tr": "Komi Konu\u015fmaktan Korkuyor"
-      },
-      {
-        "pt": "Komi n\u00e3o consegue se comunicar"
-      },
-      {
-        "id": "Komi Sulit Berkomunikasi"
-      },
-      {
-        "ms": "Komi Tidak Boleh Berkomunikasi"
-      },
-      {
-        "hu": "Komi-san Kommunik\u00e1ci\u00f3s Zavarral K\u00fczd"
-      },
-      {
-        "cs": "Komi-san nem\u016f\u017ee komunikovat"
-      },
-      {
-        "pl": "Komi-san nie m\u00f3c komunikuje"
-      },
-      {
-        "pl": "Komi-san nie m\u00f3c porozumiewa"
-      },
-      {
-        "es": "Komi-san no puede comunicarse"
-      },
-      {
-        "pt": "Senhora Komi n\u00e3o consegue se comunicar"
-      },
-      {
-        "pt-br": "Senhorita Komi n\u00e3o consegue se comunicar"
-      },
-      {
-        "ru": "\u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u0432\u0430, \u043a\u043e\u043c\u044e\u0441\u0451: \u0434\u044d\u0441\u0443"
-      },
-      {
-        "mn": "\u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u0445\u0430\u0440\u0438\u043b\u0446\u0430\u0436 \u0447\u0430\u0434\u0434\u0430\u0433\u0433\u04af\u0439"
-      },
-      {
-        "ru": "\u0423 \u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u043e\u0431\u0449\u0435\u043d\u0438\u0435\u043c"
-      },
-      {
-        "uk": "\u0423 \u041a\u043e\u043c\u0456-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u0437\u0456 \u0441\u043f\u0456\u043b\u043a\u0443\u0432\u0430\u043d\u043d\u044f\u043c"
-      },
-      {
-        "ar": "\u0643\u0648\u0645\u064a \u0644\u0627 \u062a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644"
-      },
-      {
-        "fa": "\u06a9\u0648\u0645\u06cc \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0635\u062d\u0628\u062a \u06a9\u0646\u062f"
-      },
-      {
-        "ne": "\u0915\u094b\u092e\u0940 \u0938\u091e\u094d\u091a\u093e\u0930 \u0917\u0930\u094d\u0928 \u0938\u0915\u094d\u0926\u0948\u0928\u0964"
-      },
-      {
-        "th": "\u0e42\u0e09\u0e21\u0e07\u0e32\u0e21\u0e1e\u0e39\u0e14\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07\u0e01\u0e31\u0e1a\u0e1c\u0e2d\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e40\u0e15\u0e47\u0e07"
-      },
-      {
-        "zh-hk": "\u53e4\u898b\u540c\u5b78\u662f\u6e9d\u901a\u9b6f\u86c7\u3002"
-      },
-      {
-        "zh-hk": "\u53e4\u898b\u540c\u5b78\u6709\u4ea4\u6d41\u969c\u7919\u75c7"
-      },
-      {
-        "zh": "\u53e4\u89c1\u540c\u5b66\u6709\u4ea4\u6d41\u969c\u788d\u75c7"
-      },
-      {
-        "ko": "\ucf54\ubbf8 \uc591\uc740 \ucee4\ubba4\uc99d\uc785\ub2c8\ub2e4"
-      },
-      {
-        "ko": "\ucf54\ubbf8 \uc591\uc740, \ucee4\ubba4\uc99d\uc774\uc5d0\uc694"
-      }
-    ],
-    "description": {
-      "en": "Komi-san is a beautiful and admirable girl that no one can take their eyes off of. Almost the whole school sees her as the cold beauty that's out of their league, but Tadano Hitohito knows the truth: she's just really bad at communicating with others.\n\nKomi-san, who wishes to fix this bad habit of hers, tries to improve it with the help of Tadano-kun by achieving her goal of having 100 friends.",
-      "pl": "Komi-san jest pi\u0119kn\u0105 i godn\u0105 podziwu dziewczyn\u0105, od kt\u00f3rej nikt nie mo\u017ce oderwa\u0107 oczu. Prawie ca\u0142a szko\u0142a postrzega j\u0105 jako zimne pi\u0119kno, kt\u00f3re jest poza ich zasi\u0119giem, ale Tadano Hitohito zna prawd\u0119: m\u0142oda pi\u0119kno\u015b\u0107 po prostu \u017ale komunikuje si\u0119 z innymi. Komi-san, chce to zmieni\u0107, a ma jej w tym pom\u00f3c Tadano.",
-      "pt-br": "Komi-san \u00e9 uma bela e admir\u00e1vel garota que ningu\u00e9m consegue tirar os olhos. Quase todos da escola a veem como algu\u00e9m fora do alcance, mas Tadano Shigeo sabe a verdade: **ela apenas n\u00e3o sabe como se comunicar com os outras pessoas**. Komi-san, que deseja corrigir este mau h\u00e1bito dela, tenta melhorar com a ajuda do Tadano-kun..."
-    },
-    "status": "ongoing",
-    "releaseDate": 2016,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   },
   {
     "mangaId": "53b1f57b-bc65-4c39-89e4-fd7a79c6664b",
@@ -1892,74 +1957,5 @@
     "contentRating": "suggestive",
     "lastVolume": "16",
     "lastChapter": "92"
-  },
-  {
-    "mangaId": "503ce7a9-032a-4178-812d-fd089a755fd0",
-    "title": {
-      "en": "Ultraman Nexus"
-    },
-    "updatedAt": "2022-07-07T00:24:29+00:00",
-    "coverArt": "https://mangadex.org/covers/503ce7a9-032a-4178-812d-fd089a755fd0/b220b224-2f55-4b06-9705-a8a6fc1a2a4b.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30a6\u30eb\u30c8\u30e9\u30de\u30f3\u30cd\u30af\u30b5\u30b9"
-      }
-    ],
-    "description": {
-      "en": "*Based on the 2004 Tokusatsu TV series Ultraman Nexus*\n\nTLT is a covert international anti-monster unit, established secretly to combat the Space Beasts, mysterious monsters that are out to attack humans in the year 2009. One of the TLT's new recruits, Kazuki Komon, is attacked by one of them prior to reporting for duty. However, he is saved by a silver giant that he names \"Ultraman\". What no one knows is that the silver giant is an Ultraman \u2014 to be precise, Ultraman Nexus, ready to fight the Space Beasts to save the planet Earth.\n\nFrom Shogakukan:\n\"Ultraman Nexus\" by Takashi Shiina, which was serialized in Televikun, has been revived after 10 years. Includes 28 pages of the last story completely written by Shiina, and beautiful pinups. A must-have for not only Ultraman fans, but Shiina fans as well!\n\nOriginally serialized in 2004, released as a full book in 2015, and then in 2022 digitally."
-    },
-    "status": "completed",
-    "releaseDate": 2004,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "10"
-  },
-  {
-    "mangaId": "f6ce20ca-73c3-4fdd-9367-e2901fca780e",
-    "title": {
-      "en": "The Ravages of Time"
-    },
-    "updatedAt": "2024-01-21T01:06:58+00:00",
-    "coverArt": "https://mangadex.org/covers/f6ce20ca-73c3-4fdd-9367-e2901fca780e/f4dc7518-cebc-4ce2-9b59-82f6d389ce7e.jpg",
-    "altTitles": [
-      {
-        "vi": "H\u1ecfa Ph\u1ee5ng Li\u00eau Nguy\u00ean"
-      },
-      {
-        "zh-ro": "Huo Feng Liao Yuan"
-      },
-      {
-        "ja-ro": "Sangokushi Gunyuuden Kahou Ryougen"
-      },
-      {
-        "zh-ro": "Sanguozhi Qunxiongzhuan: Huo Feng Liao Yuan"
-      },
-      {
-        "ru": "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0444\u0435\u043d\u0438\u043a\u0441 \u043e\u043f\u0430\u043b\u044f\u0435\u0442 \u0440\u0430\u0432\u043d\u0438\u043d\u044b"
-      },
-      {
-        "zh-hk": "\u4e09\u56fd\u5fd7\u7fa4\u96c4\u4f1d\u706b\u9cf3\u71ce\u539f"
-      },
-      {
-        "zh-hk": "\u706b\u9cf3\u71ce\u539f"
-      },
-      {
-        "zh": "\u706b\u51e4\u71ce\u539f"
-      },
-      {
-        "ja": "\u706b\u9cf3\u71ce\u539f"
-      },
-      {
-        "de": "The Ravages of Time: Die Geschichte der Drei Reiche"
-      }
-    ],
-    "description": {
-      "en": "Nearly 2000 years ago, the prosperous Han dynasty of China collapsed. Heroes rose and fell, and three nations emerged\u2013Wei, Shu, and Wu. Historians refer to this period as the Three Kingdoms period. The romance of the three kingdoms is an intriguing tale of heroic deeds, of alliance forged and broken, of loyalty and betrayal.  \n  \nHong Kong artist Chan Mou retells this classic tale in \"The Ravages of Time\" from the perspective of the Sima clan, which in the end united the three kingdoms. Readers will be attracted by an array of well-developed characters and Chan Mou's own unique top-notch art-style. Whether you have played Dynasty Warriors or not, this is definitely worth a read!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2001,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
