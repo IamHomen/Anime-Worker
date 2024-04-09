@@ -30,4 +30,4 @@ def scrape_latest_update_manga():
         print(e)
         return {'error': str(e)}
 
- scrape_latest_update_manga()
+scrape_latest_update_manga()
