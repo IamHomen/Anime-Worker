@@ -36,6 +36,8 @@
 
 [Mangakakalot](https://mangakakalot.com/)
 
+[Request Route in Issue Section](https://github.com/IamHomen/Anime-Worker/issues)
+
 <strong>ℹ️ Still in Development</strong>
 
 <center>WILL SUPPORT MORE IN THE FUTURE</center>
@@ -90,4 +92,3 @@ fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/a
 <strong>PURELY MADE ON PYTHON</strong>
 </p>
 <br>
-[Request Route in Issue Sectio](https://github.com/IamHomen/Anime-Worker/issues)
