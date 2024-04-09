@@ -2,27 +2,21 @@
   <a href="https://github.com/IamHomen/Anime-Worker">
     <img src="img/gogo.png" alt="Logo" width="100" height="85">
   </a>
-  <br>
 <a href="https://github.com/IamHomen/Anime-Worker">
     <img src="img/anilist.png" alt="Logo" width="85" height="85">
   </a>
-  <br>
   <a href="https://github.com/IamHomen/Anime-Worker">
     <img src="img/mangadex.svg" alt="Logo" width="85" height="85">
   </a>
-  <br>
   <a href="https://github.com/IamHomen/Anime-Worker">
     <img src="img/animepahe.svg" alt="Logo" width="85" height="85">
   </a>
-  <br>
   <a href="https://github.com/IamHomen/Anime-Worker">
     <img src="img/mangakakalot.png" alt="Logo" width="100" height="85">
   </a>
-  <br>
    <a href="https://github.com/IamHomen/Anime-Worker">
     <img src="img/asura.png" alt="Logo" width="85" height="85">
   </a>
-  <br>
 </p>
   <h2 align="center">Homen Anime Worker</h3>
 <br>
