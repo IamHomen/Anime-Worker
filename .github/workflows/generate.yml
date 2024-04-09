@@ -44,6 +44,10 @@ jobs:
     - name: Generate (Mangakakalot)
       run: |
         python ./mangakakalot/generate.py
+
+    - name: Generate (AsuraScans)
+      run: |
+        python ./asurascans/generate.py
         
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
