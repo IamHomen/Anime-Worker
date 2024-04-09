@@ -36,6 +36,8 @@
 
 [Mangakakalot](https://mangakakalot.com/)
 
+[AsuraScans](https://asuratoon.com/)
+
 [Request Route in Issue Section](https://github.com/IamHomen/Anime-Worker/issues)
 
 <strong>ℹ️ Still in Development</strong>
@@ -74,10 +76,14 @@
 
  `latest_manga_updates.json`
 
- # mangadex  | 
+ # mangakakalot  | 
 
  `hot-manga.json`
 
+ `latest-update.json`
+
+  # asurascans  | 
+  
  `latest-update.json`
  
 
