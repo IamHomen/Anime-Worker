@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "gekai-elise-mini-drama",
+    "animeTitle": "Gekai Elise - Mini Drama",
+    "animeImg": "https://gogocdn.net/cover/gekai-elise-mini-drama.png",
+    "episode": "Episode 12",
+    "animeUrl": "https://anitaku.to/gekai-elise-mini-drama-episode-12"
+  },
+  {
     "animeId": "himitsu-no-aipri",
     "animeTitle": "Himitsu no AiPri",
     "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-1"
-  },
-  {
-    "animeId": "jiisan-baasan-wakagaeru",
-    "animeTitle": "Jiisan Baasan Wakagaeru",
-    "animeImg": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/jiisan-baasan-wakagaeru-episode-1"
   }
 ]
