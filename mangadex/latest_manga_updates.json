@@ -1,5 +1,24 @@
 [
   {
+    "mangaId": "fc83ec61-2859-463f-a84d-2988e8b628fb",
+    "title": {
+      "en": "Tsukiaitai Karenshi"
+    },
+    "updatedAt": "2024-04-09T05:32:09+00:00",
+    "coverArt": "https://mangadex.org/covers/fc83ec61-2859-463f-a84d-2988e8b628fb/3622074e-4e49-4a3c-94df-74d58225845b.jpg",
+    "altTitles": [
+      {
+        "ja": "\u3064\u304d\u3042\u3044\u305f\u3044\u30ab\u30ec\u30b7"
+      }
+    ],
+    "description": {},
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "1",
+    "lastChapter": "6.5"
+  },
+  {
     "mangaId": "a636ca5b-018c-42eb-afd3-2e7037afac86",
     "title": {
       "en": "Gannibal"
@@ -1677,36 +1696,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "3ad71bcc-3b99-4da6-9c1f-729741cce411",
-    "title": {
-      "en": "Tamarowa"
-    },
-    "updatedAt": "2022-07-17T09:20:56+00:00",
-    "coverArt": "https://mangadex.org/covers/3ad71bcc-3b99-4da6-9c1f-729741cce411/0ba0027b-13cc-451b-8e41-630eaeb34c02.jpg",
-    "altTitles": [
-      {
-        "en": "Who Wants to Marry a Billionaire?"
-      },
-      {
-        "ja": "\u30bf\u30de\u30ed\u30ef"
-      },
-      {
-        "ja": "\u30bf\u30de\u30ed\u30ef\u3000\uff5e100\uff05\u91d1\u76ee\u5f53\u3066 \u8cc7\u752335\u5104\u306e\u30a4\u30b1\u30e1\u30f3\u3092\u5de1\u308b\u8a33\u30a2\u30ea\u5973\u9054\u306e\u7389\u306e\u8f3f\u30d0\u30c8\u30eb\u30ed\u30ef\u30a4\u30e4\u30eb\uff5e"
-      },
-      {
-        "zh-hk": "\u91d1\u6230 \u301c100\uff05\u70ba\u4e86\u9322\u570d\u7e5e\u8cc7\u752235\u5104\u7684\u5e25\u54e5\u6709\u7279\u522b\u539f\u56e0\u7684\u5973\u58eb\u5011\u7684\u5c0b\u627e\u91d1\u9f9c\u5a7f\u5927\u6230\u722d\u301c"
-      }
-    ],
-    "description": {
-      "en": "What happens when several women with special circumstances compete for a rich handsome businessman's hand in marriage? Let the curtains rise on the \u201cCourtship Battle Royale\u201d show, where anything goes! Thus begins the beauty Gotou Yuuna's struggle to overturn her debt-straddled life!",
-      "id": "apa yang terjadi ketika beberapa wanita dengan keadaan khusus bersaing untuk mendapatkan seorang pengusaha tampan dan kaya dalam pernikahan? Biarkan tirai naik pada acara \"Battle Royale\", di mana semuanya berjalan! Inilah awal perjuangan Gotou Yuuna untuk membatalkan hutang hidupnya!"
-    },
-    "status": "completed",
-    "releaseDate": 2019,
-    "contentRating": "erotica",
-    "lastVolume": "7",
-    "lastChapter": "50"
   }
 ]
