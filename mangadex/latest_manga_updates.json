@@ -101,6 +101,258 @@
     "lastChapter": "95"
   },
   {
+    "mangaId": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
+    "title": {
+      "en": "Komi-san wa Komyushou Desu."
+    },
+    "updatedAt": "2024-01-03T18:40:27+00:00",
+    "coverArt": "https://mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/ef3ce0e5-19ff-4623-95fc-acf41afe1075.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Comi-san ha Comyusho Desu."
+      },
+      {
+        "en": "Komi Can't Communicate"
+      },
+      {
+        "en": "Komi-san Can't Communicate."
+      },
+      {
+        "en": "Komi-san Has a Communication Disorder."
+      },
+      {
+        "ja-ro": "Komi-san wa, Communication Shougai desu."
+      },
+      {
+        "en": "Miss Komi Is Bad at Communication."
+      },
+      {
+        "ru": "\u0423 \u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u043e\u0431\u0449\u0435\u043d\u0438\u0435\u043c"
+      },
+      {
+        "th": "\u0e42\u0e09\u0e21\u0e07\u0e32\u0e21\u0e1e\u0e39\u0e14\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07\u0e01\u0e31\u0e1a\u0e1c\u0e2d\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e40\u0e15\u0e47\u0e07"
+      },
+      {
+        "ja": "\u53e4\u898b\u3055\u3093\u306f\u3001\u30b3\u30df\u30e5\u75c7\u3067\u3059\u3002"
+      },
+      {
+        "ko": "\ucf54\ubbf8 \uc591\uc740, \ucee4\ubba4\uc99d\uc774\uc5d0\uc694"
+      },
+      {
+        "ar": "\u0643\u0648\u0645\u064a \u0633\u0627\u0646 \u0644\u0627 \u064a\u0645\u0643\u0646\u0647\u0627 \u0627\u0644\u062a\u0648\u0627\u0635\u0644"
+      },
+      {
+        "ja-ro": "Furumi-san wa, Komyu-sh\u014ddesu."
+      },
+      {
+        "vi": "Komi - N\u1eef th\u1ea7n s\u1ee3 giao ti\u1ebfp"
+      },
+      {
+        "fr": "Komi cherche ses mots"
+      },
+      {
+        "tr": "Komi Konu\u015fmaktan Korkuyor"
+      },
+      {
+        "pt": "Komi n\u00e3o consegue se comunicar"
+      },
+      {
+        "id": "Komi Sulit Berkomunikasi"
+      },
+      {
+        "ms": "Komi Tidak Boleh Berkomunikasi"
+      },
+      {
+        "hu": "Komi-san Kommunik\u00e1ci\u00f3s Zavarral K\u00fczd"
+      },
+      {
+        "cs": "Komi-san nem\u016f\u017ee komunikovat"
+      },
+      {
+        "pl": "Komi-san nie m\u00f3c komunikuje"
+      },
+      {
+        "pl": "Komi-san nie m\u00f3c porozumiewa"
+      },
+      {
+        "es": "Komi-san no puede comunicarse"
+      },
+      {
+        "pt": "Senhora Komi n\u00e3o consegue se comunicar"
+      },
+      {
+        "pt-br": "Senhorita Komi n\u00e3o consegue se comunicar"
+      },
+      {
+        "ru": "\u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u0432\u0430, \u043a\u043e\u043c\u044e\u0441\u0451: \u0434\u044d\u0441\u0443"
+      },
+      {
+        "mn": "\u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u0445\u0430\u0440\u0438\u043b\u0446\u0430\u0436 \u0447\u0430\u0434\u0434\u0430\u0433\u0433\u04af\u0439"
+      },
+      {
+        "ru": "\u0423 \u041a\u043e\u043c\u0438-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u043e\u0431\u0449\u0435\u043d\u0438\u0435\u043c"
+      },
+      {
+        "uk": "\u0423 \u041a\u043e\u043c\u0456-\u0441\u0430\u043d \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u0437\u0456 \u0441\u043f\u0456\u043b\u043a\u0443\u0432\u0430\u043d\u043d\u044f\u043c"
+      },
+      {
+        "ar": "\u0643\u0648\u0645\u064a \u0644\u0627 \u062a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062a\u0648\u0627\u0635\u0644"
+      },
+      {
+        "fa": "\u06a9\u0648\u0645\u06cc \u0646\u0645\u06cc\u062a\u0648\u0627\u0646\u062f \u0635\u062d\u0628\u062a \u06a9\u0646\u062f"
+      },
+      {
+        "ne": "\u0915\u094b\u092e\u0940 \u0938\u091e\u094d\u091a\u093e\u0930 \u0917\u0930\u094d\u0928 \u0938\u0915\u094d\u0926\u0948\u0928\u0964"
+      },
+      {
+        "th": "\u0e42\u0e09\u0e21\u0e07\u0e32\u0e21\u0e1e\u0e39\u0e14\u0e44\u0e21\u0e48\u0e40\u0e01\u0e48\u0e07\u0e01\u0e31\u0e1a\u0e1c\u0e2d\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e40\u0e15\u0e47\u0e07"
+      },
+      {
+        "zh-hk": "\u53e4\u898b\u540c\u5b78\u662f\u6e9d\u901a\u9b6f\u86c7\u3002"
+      },
+      {
+        "zh-hk": "\u53e4\u898b\u540c\u5b78\u6709\u4ea4\u6d41\u969c\u7919\u75c7"
+      },
+      {
+        "zh": "\u53e4\u89c1\u540c\u5b66\u6709\u4ea4\u6d41\u969c\u788d\u75c7"
+      },
+      {
+        "ko": "\ucf54\ubbf8 \uc591\uc740 \ucee4\ubba4\uc99d\uc785\ub2c8\ub2e4"
+      },
+      {
+        "ko": "\ucf54\ubbf8 \uc591\uc740, \ucee4\ubba4\uc99d\uc774\uc5d0\uc694"
+      }
+    ],
+    "description": {
+      "en": "Komi-san is a beautiful and admirable girl that no one can take their eyes off of. Almost the whole school sees her as the cold beauty that's out of their league, but Tadano Hitohito knows the truth: she's just really bad at communicating with others.\n\nKomi-san, who wishes to fix this bad habit of hers, tries to improve it with the help of Tadano-kun by achieving her goal of having 100 friends.",
+      "pl": "Komi-san jest pi\u0119kn\u0105 i godn\u0105 podziwu dziewczyn\u0105, od kt\u00f3rej nikt nie mo\u017ce oderwa\u0107 oczu. Prawie ca\u0142a szko\u0142a postrzega j\u0105 jako zimne pi\u0119kno, kt\u00f3re jest poza ich zasi\u0119giem, ale Tadano Hitohito zna prawd\u0119: m\u0142oda pi\u0119kno\u015b\u0107 po prostu \u017ale komunikuje si\u0119 z innymi. Komi-san, chce to zmieni\u0107, a ma jej w tym pom\u00f3c Tadano.",
+      "pt-br": "Komi-san \u00e9 uma bela e admir\u00e1vel garota que ningu\u00e9m consegue tirar os olhos. Quase todos da escola a veem como algu\u00e9m fora do alcance, mas Tadano Shigeo sabe a verdade: **ela apenas n\u00e3o sabe como se comunicar com os outras pessoas**. Komi-san, que deseja corrigir este mau h\u00e1bito dela, tenta melhorar com a ajuda do Tadano-kun..."
+    },
+    "status": "ongoing",
+    "releaseDate": 2016,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "53b1f57b-bc65-4c39-89e4-fd7a79c6664b",
+    "title": {
+      "en": "God-Slaying Copycat"
+    },
+    "updatedAt": "2024-04-08T20:02:08+00:00",
+    "coverArt": "https://mangadex.org/covers/53b1f57b-bc65-4c39-89e4-fd7a79c6664b/fb97208f-892e-4999-8d71-483256f95c2a.png",
+    "altTitles": [
+      {
+        "ja": "\u795e\u6bba\u3057\u306e\u6a21\u5023\u4f7f\u3044"
+      },
+      {
+        "ja-ro": "Kami Goroshi no Mohou Tsukai"
+      },
+      {
+        "en": "Godslayer's Imitator"
+      }
+    ],
+    "description": {
+      "en": "\"If it\u2019s to protect someone close to me\u2026 then I\u2019d even kill a god.\"\n\nHalf a century ago, Dungeons, Monsters, as well as people who had received special abilities commonly referred to as [Skills] appeared. Those people were referred to as Adventurers and challenged dungeons in search of dreams and riches.\n\nKisaragi Tsukasa is one of these adventurers. However, he has received an inferior skill and was often treated as trash. One day, he was tricked by his peers and was thrown into a dangerous dungeon.\n\nWhat awaited him at the other end was the Mythical monster, the God-Eater Fenrir. In despair over the overwhelming power difference, Tsukasa was prepared to die. That was when the master of the dungeon, Loki, appeared before him.\n\n\u201cWelcome to my castle.\u201d\n\nThanks to Loki, Tsukasa\u2019s skill evolved to become [Copycat]... A unique boy-meets-girl story woven into a modern battle fantasy is about to begin!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "7215e726-9e7d-4ad2-9fdd-2f7b142c6e3e",
+    "title": {
+      "en": "Cohabitation with My Fianc\u00e9e"
+    },
+    "updatedAt": "2023-05-26T01:11:26+00:00",
+    "coverArt": "https://mangadex.org/covers/7215e726-9e7d-4ad2-9fdd-2f7b142c6e3e/6bca78bd-9ca5-4e63-ad25-1da705961570.jpg",
+    "altTitles": [
+      {
+        "en": "Cohabitation with the Fiancee"
+      },
+      {
+        "en": "The Fianc\u00e9es Live Together"
+      },
+      {
+        "es": "Viviendo con la prometida"
+      },
+      {
+        "ko-ro": "Yaghyonjaneun Donggeojung"
+      },
+      {
+        "ru": "\u0421\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c \u0441 \u043d\u0435\u0432\u0435\u0441\u0442\u043e\u0439"
+      },
+      {
+        "ko": "\uc57d\ud63c\uc790\ub294 \ub3d9\uac70\uc911"
+      },
+      {
+        "pl": "Narzeczeni mieszkaj\u0105 razem"
+      }
+    ],
+    "description": {
+      "en": "His fiancee lost her parents so she will be living with the Hyeons, but Sang-Won is a middle school student and the fianc\u00e9e is a 24 year old adult!? Sang-Won tries to deny that his fianc\u00e9e is 9 years older than him, but seeing that she does not act her age, he then feels comfortable around her. His fianc\u00e9e seems kind and innocent on the outside, but on the inside\u2026"
+    },
+    "status": "completed",
+    "releaseDate": null,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": "130"
+  },
+  {
+    "mangaId": "9363b613-ac57-4336-9481-601565a89e08",
+    "title": {
+      "en": "I Am the Shadow Reverend"
+    },
+    "updatedAt": "2024-02-27T20:16:11+00:00",
+    "coverArt": "https://mangadex.org/covers/9363b613-ac57-4336-9481-601565a89e08/a247bcf5-0b4f-46ac-b9da-274ec0debe3f.jpg",
+    "altTitles": [
+      {
+        "zh": "\u5168\u6c11\u8f6c\u804c\uff1a\u6211\u7267\u5e08\uff0c\u90fd\u4ec0\u4e48\u9634\u95f4\u6280\u80fd"
+      },
+      {
+        "vi": "Ti\u0101n Sh\u0113ng D\u00fa N\u01cei, W\u01d2 Z\u01d4zh\u00f2ule Qu\u00e1n Sh\u00ecji\u00e8!"
+      }
+    ],
+    "description": {
+      "en": "Traveling through a parallel world, the game merges with the real world, where ferocious beasts are rampant, alien races are raging, and there are a large number of dungeons and secret realms in the wild.\nHumans can awaken into various professions and work hard to kill monsters and upgrade.\nOn the day of his profession awakening, Lin Luo awakened the priest profession, which is the most popular but has no damage ability.\nJust when he was struggling, he discovered that his skills had mutated!\nThe blood recovery technique mutates into the bleeding technique?\nBlessing mutates into curse?\nBut I am really a healing priest!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "6cc85df7-e44b-4fa1-97f2-be04430cc570",
+    "title": {
+      "en": "The Fairytale-like You Goes on the Assault"
+    },
+    "updatedAt": "2023-05-31T15:58:57+00:00",
+    "coverArt": "https://mangadex.org/covers/6cc85df7-e44b-4fa1-97f2-be04430cc570/747da025-c554-43c4-848c-118aa37ca2d2.jpg",
+    "altTitles": [
+      {
+        "ja": "\u511a\u3044\u30ad\u30df\u306f\u731b\u653b\u3092\u306f\u3058\u3081\u308b"
+      },
+      {
+        "ja-ro": "Hakanai Kimi wa Moukou wo Hajimeru"
+      },
+      {
+        "zh": "\u7ae5\u8bdd\u822c\u7684\u4f60\u5f00\u59cb\u4e86\u604b\u7231\u731b\u653b"
+      }
+    ],
+    "description": {
+      "en": "Kagari, an ephemeral beauty, reunites with her older childhood friend, Nana-kun, and begins her romantic assault on him.",
+      "vi": "M\u1ed9t series si\u00eau ng\u1ecdt n\u1eefa t\u1edbi t\u1eeb Hazano Kazutake - t\u00e1c gi\u1ea3 c\u1ee7a b\u1ed9 Th\u00e1nh n\u1eef Cecilia v\u00e0 m\u1ee5c s\u01b0 Lawrence. C\u00e2u chuy\u1ec7n v\u1ec1 \u0111\u00f4i b\u1ea1n th\u01b0\u1edf nh\u1ecf c\u1ee9 t\u1ed1i \u0111\u1ebfn l\u00e0 l\u1ea1i \u1edf chung nh\u00e0 \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o s\u1ef1 an to\u00e0n cho nhau..."
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "73692e5f-4cca-4a03-ab18-91c747cc110f",
     "title": {
       "en": "I Can Have Infinite Epiphanies"
@@ -1680,196 +1932,5 @@
     "contentRating": "safe",
     "lastVolume": "12",
     "lastChapter": "100"
-  },
-  {
-    "mangaId": "43b7b709-f876-4f06-a9fc-9fe3b55453f4",
-    "title": {
-      "en": "Lone Swan"
-    },
-    "updatedAt": "2023-12-19T19:58:12+00:00",
-    "coverArt": "https://mangadex.org/covers/43b7b709-f876-4f06-a9fc-9fe3b55453f4/2652e1f8-923d-4599-b13c-8da39f0171c1.jpg",
-    "altTitles": [
-      {
-        "en": "\u5b64\u9e3f"
-      }
-    ],
-    "description": {
-      "en": "After losing his memory, Shen Yiqiu, a disciple from the decent sect meets a very special man named Yan Luofeng, who is the leader of the evil Divine Wind Cult. When escaping and conflicting with Yan, Shen gradually finds his original self as well as his previous love back. Together they rip off the facade of the martial world and reveal the hidden true\u2026  \n  \n  \n  \nApr\u00e8s avoir perdu la m\u00e9moire, Shen Yiqiu, un disciple de la secte d\u00e9cente, rencontre un homme tr\u00e8s sp\u00e9cial nomm\u00e9 Yan Luofeng, qui est le chef du culte du vent divin mal\u00e9fique. En s'\u00e9chappant et en entrant en conflit avec Yan, Shen retrouve peu \u00e0 peu son identit\u00e9 d'origine ainsi que son amour pr\u00e9c\u00e9dent. Ensemble, ils arrachent la fa\u00e7ade du monde martial et r\u00e9v\u00e8lent le vrai secret\u2026"
-    },
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "56efe33b-09f6-4e56-a0c0-780d815ed043",
-    "title": {
-      "en": "Kirby of the Stars! Raging Pupupu Hour!"
-    },
-    "updatedAt": "2024-02-01T00:49:47+00:00",
-    "coverArt": "https://mangadex.org/covers/56efe33b-09f6-4e56-a0c0-780d815ed043/ef14a689-1a03-466c-a2cc-e67711ef6238.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Hoshi no Kirby! Mouretsu Pupupu Hour!"
-      },
-      {
-        "ja": "\u661f\u306e\u30ab\u30fc\u30d3\u30a3\uff01 \u3082\u30fc\u308c\u3064\u30d7\u30d7\u30d7\u30a2\u30ef\u30fc\uff01"
-      }
-    ],
-    "description": {
-      "en": "The popular Kirby has been adapted into a new manga to commemorate the completion of the DS game *Kirby: Squeak Squad*! The Squeak Squad, the great bandits, have appeared in the peaceful land of Pupupu Land! However, they are constantly pushed around by Kirby's appetite and copying ability..."
-    },
-    "status": "completed",
-    "releaseDate": 2006,
-    "contentRating": "safe",
-    "lastVolume": "13",
-    "lastChapter": "11"
-  },
-  {
-    "mangaId": "077a3fed-1634-424f-be7a-9a96b7f07b78",
-    "title": {
-      "en": "Kingdom"
-    },
-    "updatedAt": "2024-02-11T18:18:02+00:00",
-    "coverArt": "https://mangadex.org/covers/077a3fed-1634-424f-be7a-9a96b7f07b78/f3fbdcfe-83a8-4852-a676-ccabd299a013.jpg",
-    "altTitles": [
-      {
-        "vi": "Chi\u1ebfn qu\u1ed1c"
-      },
-      {
-        "es": "El Reino"
-      },
-      {
-        "it": "Il Regno"
-      },
-      {
-        "tl": "Kaharian"
-      },
-      {
-        "lt": "Karalyst\u0117"
-      },
-      {
-        "ms": "Kerajaan"
-      },
-      {
-        "da": "Kongerige"
-      },
-      {
-        "nl": "Koninkrijk"
-      },
-      {
-        "pl": "Kr\u00f3lestwo"
-      },
-      {
-        "tr": "Krall\u0131k"
-      },
-      {
-        "es-la": "Reino"
-      },
-      {
-        "bg": "\u041a\u0440\u0430\u043b\u0441\u0442\u0432\u043e"
-      },
-      {
-        "ru": "\u0426\u0430\u0440\u0441\u0442\u0432\u043e"
-      },
-      {
-        "he": "\u05de\u05de\u05dc\u05db\u05d4"
-      },
-      {
-        "fa": "\u0627\u0645\u067e\u0631\u0627\u0637\u0648\u0631\u06cc"
-      },
-      {
-        "ar": "\u0645\u0645\u0644\u0643\u0629"
-      },
-      {
-        "ja": "\u30ad\u30f3\u30b0\u30c0\u30e0"
-      },
-      {
-        "zh-hk": "\u738b\u8005\u5929\u4e0b"
-      },
-      {
-        "kk": "\u041f\u0430\u0442\u0448\u0430\u043b\u044b\u049b"
-      },
-      {
-        "fr": "Kingdom"
-      },
-      {
-        "de": "K\u00f6nigreich"
-      }
-    ],
-    "description": {
-      "en": "Millions of years have passed since the times of legends, when the worlds of man and gods were still the same. In these times it was the desires of man that moved the world. It is the era of the 500 year war: The warring states period. Kingdom is the story of a young boy named Shin who grew into a great general and all the trials and bloodshed that lead him there.  \n\n---\n  \n- **Won the Osamu Tezuka Cultural Grand Prize in 2013**\n- **Earned a Guinness World Record on December 12, 2012 for Manga written by the most people. -Note- The record was due to its \"Social Kingdom\" campaign in which fans and other artists were given the task of redrawing the entire 26th volume.**\n\nAs of June 2022, Kingdom has over 90 million copies in circulation, making it one of the currently best-selling manga series of all time. \n\nParution: Weekly Young Jump\n\n---\n\n**Officially Translated:**  \n- In French by [Meian](https://www.meian-editions.fr/meian/licence/kingdom/1131)  \n- In Italian by [J-pop](https://j-pop.it/it/fumetti/manga/kingdom.html)",
-      "fr": "**Cette Histoire se d\u00e9roule avant notre \u00e8re.**\n\nLa chine, qui n'est pas encore unifi\u00e9e, traverse une grande guerre de cinq si\u00e8cles. Shin, un jeune gar\u00e7on contemporain de ces temps violents et houleux, cherche, par la seule force de son \u00e9p\u00e9e, \u00e0 se faire un nom sous les cieux !!!\n___\n**Kingdom en France, le manga tant attendu ! V\u00e9ritable ph\u00e9nom\u00e8ne au Japon !**\n- \u00c9lu meilleur manga au 17e Grand Prix Culturel Osamu Tezuka (2013)\n- Meilleur manga seinen vendu au Japon depuis 2015 (source : Oricon)\n- 3\u00e8me meilleur manga vendu au Japon en 2016 et 2017 (source : Oricon)",
-      "pt-br": "Milh\u00f5es de anos se passaram desde os tempos de lendas, quando os mundos dos homens e deuses ainda eram os mesmos. Nestes tempos eram os desejos do homem que mudaram o mundo. \u00c9 o per\u00edodo da guerra de 500 anos: a Era dos Reinos Combatentes. Kingdom \u00e9 a hist\u00f3ria de um garoto \u00f3rf\u00e3o e pobre tem o sonho de se tornar um grande general e assim come\u00e7ando seu caminho de prova\u00e7\u00f5es e derramamento de sangue que o levar\u00e3o at\u00e9 o topo das lendas!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2006,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "da616594-c563-4e7a-810b-1c0997024be5",
-    "title": {
-      "en": "Isekaied as \"Mary Stu\""
-    },
-    "updatedAt": "2024-02-27T12:38:03+00:00",
-    "coverArt": "https://mangadex.org/covers/da616594-c563-4e7a-810b-1c0997024be5/e10b0192-d538-46ac-ba9f-25795471df01.jpg",
-    "altTitles": [
-      {
-        "zh": "\u7a7f\u8d8a\u6210\u4e3a\u201c\u739b\u4e3d\u53d4\u201d"
-      }
-    ],
-    "description": {
-      "en": "An ordinary 30-year-old salaryman named Yang Dong gets transported into the role of the female protagonist in a Mary Sue harem novel. Although in his own eyes he still looks like a middle-aged man, others see him as a lovely high school girl. Now he\u2019s falling into classic shoujo tropes and getting tangled up with the four male protagonists! How will he survive with his dignity?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "9e107c4a-ad46-4fcf-9ca1-98f21c6ec2a3",
-    "title": {
-      "en": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!"
-    },
-    "updatedAt": "2024-02-16T05:49:19+00:00",
-    "coverArt": "https://mangadex.org/covers/9e107c4a-ad46-4fcf-9ca1-98f21c6ec2a3/f278697a-ed3e-455e-ae8f-cac04783756a.jpg",
-    "altTitles": [
-      {
-        "ja": "\u52c7\u8005\u306b\u5168\u90e8\u596a\u308f\u308c\u305f\u4ffa\u306f\u52c7\u8005\u306e\u6bcd\u89aa\u3068\u30d1\u30fc\u30c6\u30a3\u3092\u7d44\u307f\u307e\u3057\u305f\uff01"
-      },
-      {
-        "ja-ro": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!"
-      },
-      {
-        "zh-hk": "\u88ab\u52c7\u8005\u596a\u53d6\u5168\u90e8\u7684\u6211\uff0c\u548c\u52c7\u8005\u7684\u6bcd\u89aa\u7d44\u6210\u4e86\u968a\u4f0d\uff01"
-      },
-      {
-        "zh": "\u88ab\u52c7\u8005\u8e22\u51fa\u961f\u4f0d\u7684\u6211\uff0c\u6700\u540e\u548c\u4ed6\u4eec\u7684\u5988\u5988\u7ec4\u961f\u4e86\uff01"
-      },
-      {
-        "id": "Pahlawan Mengambil Segalanya Dariku, Jadi Aku Menikahi Ibunya!"
-      },
-      {
-        "tr": "Kahraman Her \u015eeyimi Elimden \u00c7ald\u0131, Ben de Annesiyle Parti Yapt\u0131m!"
-      },
-      {
-        "en": "The Hero Took Everything from Me, So I Partied with the Hero\u2019s Mother!"
-      }
-    ],
-    "description": {
-      "en": "A young man wants to marry the mothers of the hero's party\u2014\n\nAs a member of the hero's party Ceres, the main character, set out to defeat the demon king.\nBut one day, he was suddenly dismissed by the hero, and he had to leave the party.\nAll alone, Ceres sought to find a domestic slave to take care of him. What he saw at the slave market was Ms Shizuko, the mother of the hero, sold as a slave\u2014??\n\nThe unreasonably expelled young man's Isekai mama harem is born!!",
-      "id": "Seorang pemuda ingin menikahi ibu dari kelompok pahlawan\u2014\n\nSebagai anggota kelompok pahlawan Ceres sang tokoh utama, berangkat untuk mengalahkan raja iblis.\nNamun suatu hari, dia tiba-tiba di keluarkan dari kelompok pahlawan oleh sang pahlawan,\nSeorang diri, Ceres mencari budak rumah tangga untuk merawatnya. Namun apa yang dia lihat di pasar budak adalah Nyonya Shizuko, ibu dari sang pahlawan, dijual sebagai budak\u2014??\n\nHarem Isekai yang tak masuk akal dari pemuda yang dikeluarkan dari kelompok pahlawan lahir!!",
-      "ja": "\u5c11\u5e74\u304c\u7d50\u5a5a\u3057\u305f\u3044\u306e\u306f\u3001\n\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u306e\u304a\u6bcd\u3055\u3093\u305f\u3061\u3067\u3057\u305f\u2015\u2015\n\n\u52c7\u8005\u30d1\u30fc\u30c6\u30a3\u306e\u4e00\u54e1\u3068\u3057\u3066\n\u9b54\u738b\u306e\u5012\u3059\u65c5\u306b\u51fa\u3066\u3044\u308b\u4e3b\u4eba\u516c\u30fb\u30bb\u30ec\u30b9\u3002\n\n\u3060\u304c\u3042\u308b\u65e5\u7a81\u7136\u3001\u52c7\u8005\u30bc\u30af\u30c8\u304b\u3089\u30af\u30d3\u5ba3\u544a\u3092\u53d7\u3051\u3001\n\u30d1\u30fc\u30c6\u30a3\u3092\u629c\u3051\u308b\u3053\u3068\u306b\u3002\n\n\u4e00\u4eba\u306b\u306a\u3063\u305f\u30bb\u30ec\u30b9\u306f\u3001\n\u8eab\u306e\u56de\u308a\u306e\u4e16\u8a71\u5f79\u3068\u3057\u3066\u5bb6\u4e8b\u5974\u96b7\u63a2\u3057\u3078\u3002\n\n\u305d\u306e\u5974\u96b7\u5e02\u5834\u3067\u898b\u304b\u3051\u305f\u306e\u306f\n\u5974\u96b7\u3068\u3057\u3066\u58f2\u3089\u308c\u305f\u3001\u52c7\u8005\u306e\u6bcd\u89aa\u3067\u3042\u308b\u9759\u5b50\u3055\u3093\u306e\u59ff\u304c\u2015\u2015\uff1f\uff1f\n\n\u7406\u4e0d\u5c3d\u306b\u8ffd\u653e\u3055\u308c\u305f\u5c11\u5e74\u306e\n\u7570\u4e16\u754c\u30de\u30de\u30cf\u30fc\u30ec\u30e0\u304c\u7523\u58f0\u3092\u4e0a\u3052\u308b\uff01\uff01",
-      "pt-br": "Ceres e seus amigos de inf\u00e2ncia criaram um grupo de aventureiros nomeado de \u201cluz da esperan\u00e7a\u201d, mas depois que Zect, um de seus amigos, se tornou o grande her\u00f3i, ele expulsou Ceres do grupo. Agora, s\u00f3 restava ao extasiado Ceres retornar para seu vilarejo. Contudo, quando foi comprar uma escrava para auxili\u00e1-lo, Ceres se deparou com Shizuko, a m\u00e3e do grande her\u00f3i Zect!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "erotica",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
