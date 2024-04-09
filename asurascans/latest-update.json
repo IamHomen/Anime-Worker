@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-maxed-out-leveling/",
+    "animeTitle": "Maxed Out Leveling",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/11/resource-1-1-1-222x300.jpg",
+    "episode": "Chapter 54 - S2 START",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-maxed-out-leveling/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-i-am-the-fated-villain/",
     "animeTitle": "I Am the Fated Villain",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/11/fatedvillain-2.jpg",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/01/GrandArchiveCover01.png",
     "episode": "Chapter 71",
     "animeUrl": "https://asuratoon.com/manga/1908287720-heavenly-grand-archives-young-master/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-bloodhounds-regression-instinct/",
-    "animeTitle": "Bloodhound\u2019s Regression Instinct",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/BloodhoundsRegressionInstinctCover01.png",
-    "episode": "Chapter 23",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-bloodhounds-regression-instinct/"
   }
 ]
