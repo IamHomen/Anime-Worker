@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "boukyaku-battery-tv",
+    "animeTitle": "Boukyaku Battery (TV)",
+    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/boukyaku-battery-tv-episode-1"
+  },
+  {
     "animeId": "oomuro-ke-dear-sisters",
     "animeTitle": "Oomuro-ke: Dear Sisters",
     "animeImg": "https://gogocdn.net/cover/oomuro-ke-dear-sisters.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
     "episode": "Episode 50",
     "animeUrl": "https://anitaku.to/tousouchuu-great-mission-episode-50"
-  },
-  {
-    "animeId": "shinkalion-change-the-world",
-    "animeTitle": "Shinkalion: Change the World",
-    "animeImg": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/shinkalion-change-the-world-episode-1"
   }
 ]
