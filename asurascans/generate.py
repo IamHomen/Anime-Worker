@@ -20,7 +20,7 @@ def scrape_latest_update_manga():
           'Referer': 'https://asuratoon.com/'
         }
       
-        response = requests.get({BASE_URL}{UPDATE_PATH, headers=headers)
+        response = requests.get({BASE_URL}{UPDATE_PATH}, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 
         for el in soup.select('div.listupd'):
