@@ -1,5 +1,26 @@
 [
   {
+    "mangaId": "7c7b0950-a4d0-4e93-be7f-6f4c1a7ae6b0",
+    "title": {
+      "en": "My Brother's Lover"
+    },
+    "updatedAt": "2024-02-17T14:06:25+00:00",
+    "coverArt": "https://mangadex.org/covers/7c7b0950-a4d0-4e93-be7f-6f4c1a7ae6b0/9129385f-cfe5-430c-9066-cff6873294b4.jpg",
+    "altTitles": [
+      {
+        "ko": "\ub0b4 \ud615\uc758 \uc5f0\uc778"
+      }
+    ],
+    "description": {
+      "en": "After confessing my love at the end of our graduation ceremony, we accidentally met again in college.\n\nChan-ran, a piano prodigy, and Hye-joon, an ex-lover of Chan-ran. Hye-joon, who has not yet forgotten his brother who has committed suicide, looked like him.\n\nAgitated by his voice, Hye-joon, who was drunk, slowly closed his eyes and fell into the temptation to sleep..."
+    },
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "74ea9c74-87b5-48c1-b0dd-4e56722c13bb",
     "title": {
       "en": "Arknights: OPERATORS!"
@@ -95,27 +116,6 @@
     "lastChapter": ""
   },
   {
-    "mangaId": "7c7b0950-a4d0-4e93-be7f-6f4c1a7ae6b0",
-    "title": {
-      "en": "My Brother's Lover"
-    },
-    "updatedAt": "2024-02-17T14:06:25+00:00",
-    "coverArt": "https://mangadex.org/covers/7c7b0950-a4d0-4e93-be7f-6f4c1a7ae6b0/9129385f-cfe5-430c-9066-cff6873294b4.jpg",
-    "altTitles": [
-      {
-        "ko": "\ub0b4 \ud615\uc758 \uc5f0\uc778"
-      }
-    ],
-    "description": {
-      "en": "After confessing my love at the end of our graduation ceremony, we accidentally met again in college.\n\nChan-ran, a piano prodigy, and Hye-joon, an ex-lover of Chan-ran. Hye-joon, who has not yet forgotten his brother who has committed suicide, looked like him.\n\nAgitated by his voice, Hye-joon, who was drunk, slowly closed his eyes and fell into the temptation to sleep..."
-    },
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "erotica",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
     "mangaId": "c3afb856-c000-4b57-8069-6f85c314b345",
     "title": {
       "en": "Futari Sabotage"
@@ -164,13 +164,16 @@
   {
     "mangaId": "a1ac3c1d-2373-4d06-8b81-1ded6b2f6699",
     "title": {
-      "en": "Scumbag Hero Scumbagman"
+      "en": "Scumbag-type Hero Scumbagman"
     },
-    "updatedAt": "2024-04-09T10:23:39+00:00",
+    "updatedAt": "2024-04-09T10:57:39+00:00",
     "coverArt": "https://mangadex.org/covers/a1ac3c1d-2373-4d06-8b81-1ded6b2f6699/985626a3-25fc-42f6-942d-d5efdfc9eb48.png",
     "altTitles": [
       {
         "ja": "\u30af\u30ba\u7cfb\u30d2\u30fc\u30ed\u30fc\u3000\u30af\u30ba\u7537\u30de\u30f3"
+      },
+      {
+        "ja-ro": "Kuzu-kei Hero Kuzu Dan Man"
       }
     ],
     "description": {},
