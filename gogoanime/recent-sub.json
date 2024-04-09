@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "rinkai",
+    "animeTitle": "Rinkai!",
+    "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/rinkai-episode-1"
+  },
+  {
     "animeId": "boukyaku-battery-tv",
     "animeTitle": "Boukyaku Battery (TV)",
     "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 25",
     "animeUrl": "https://anitaku.to/beyblade-x-episode-25"
-  },
-  {
-    "animeId": "tousouchuu-great-mission",
-    "animeTitle": "Tousouchuu: Great Mission",
-    "animeImg": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 50",
-    "animeUrl": "https://anitaku.to/tousouchuu-great-mission-episode-50"
   }
 ]
