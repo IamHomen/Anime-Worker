@@ -2,15 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-BASE_URL = 'https://asuratoon.com/'
-UPDATE_PATH = 'manga/?order=update'
+BASE_URL = 'https://asuratoon.com/manga/?order=update'
 
 def scrape_latest_update_manga():
     anime_list = []
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
       
-        response = requests.get({BASE_URL}{UPDATE_PATH}, headers=headers)
+        response = requests.get(BASE_URL, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 
         for el in soup.select('div.listupd'):
