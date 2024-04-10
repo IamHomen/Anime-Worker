@@ -1,21 +1,47 @@
 [
   {
-    "mangaId": "fd295257-05f1-4094-9cac-109ceb41893a",
+    "mangaId": "cb114652-dbaa-49bc-b49a-ac9483967a78",
     "title": {
-      "en": "Lucky Spider"
+      "en": "Shojo Null"
     },
-    "updatedAt": "2024-04-10T06:44:25+00:00",
-    "coverArt": "https://mangadex.org/covers/fd295257-05f1-4094-9cac-109ceb41893a/6da79efa-230b-4a3a-b13c-59e41b054d9c.jpg",
+    "updatedAt": "2024-04-10T06:56:52+00:00",
+    "coverArt": "https://mangadex.org/covers/cb114652-dbaa-49bc-b49a-ac9483967a78/9e7ef59a-9154-4c23-8f37-2aab461592b4.jpg",
     "altTitles": [
       {
-        "ja": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30b9\u30d1\u30a4\u30c0\u30fc"
+        "ja": "\u5c11\u5973Null"
       }
     ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": 2016,
+    "description": {
+      "en": "With the proliferation of organic robots called Gijins, humanity is enjoying prosperity in 23rd century Tokyo. But when a young man named Riaha meets a certain Gijin, he uncovers the dark truth of the world! From the creators of Hiasobi Domei!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
     "contentRating": "safe",
     "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "3f208e0e-d61a-4a10-bf8c-dc8e4464378c",
+    "title": {
+      "en": "Star of the Giants"
+    },
+    "updatedAt": "2023-12-09T06:35:12+00:00",
+    "coverArt": "https://mangadex.org/covers/3f208e0e-d61a-4a10-bf8c-dc8e4464378c/c7cad76c-3290-4cad-9921-03f60690e6fe.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Kyojin no Hoshi"
+      },
+      {
+        "ja": "\u5de8\u4eba\u306e\u661f"
+      }
+    ],
+    "description": {
+      "en": "**\"Hyuma, be a big giant star!\"**\n\nThis is the story of Hyuma Hoshi , a hot-blooded boy who endures intense, bloody training in response to his father's wish!\n\nAdapted into Anime twice once in 1968, lasting 182 episodes and again in 1977(As Shin Star of the Giants with a follow-up), lasting a total of 75 episodes. Numerous Anime films were also produced as well as an OVA featuring a crossover with Tezuka's Atom, directed by Gundam's Yoshiyuki Tomino.\n\n---\n- **Won the 8th Kodansha Children's Manga Award in 1967**"
+    },
+    "status": "completed",
+    "releaseDate": 1966,
+    "contentRating": "safe",
+    "lastVolume": "19",
     "lastChapter": ""
   },
   {
@@ -1816,44 +1842,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "bce6fbab-d917-4bc8-afe9-85c398c8f495",
-    "title": {
-      "en": "Sekai wa Kimi o Sukuu!"
-    },
-    "updatedAt": "2022-05-23T18:02:14+00:00",
-    "coverArt": "https://mangadex.org/covers/bce6fbab-d917-4bc8-afe9-85c398c8f495/f6508e42-a7b6-4fe6-87f8-d1a85d085583.jpg",
-    "altTitles": [
-      {
-        "en": "My Sweet Heart"
-      },
-      {
-        "en": "My Sweetheart."
-      },
-      {
-        "ja-ro": "Sekai wa Kimi wo Sukuu!"
-      },
-      {
-        "en": "The World Is Bound To Save You"
-      },
-      {
-        "ja": "\u4e16\u754c\u306f\u304d\u307f\u3092\u6551\u3046\uff01"
-      },
-      {
-        "en": "\u6211\u7684\u751c\u5fc3\u5b9d\u8d1d"
-      },
-      {
-        "en": "\u751c\u5fc3\u96f6\u8ddd\u96e2"
-      }
-    ],
-    "description": {
-      "en": "Contains five short stories.  \n  \n1-2. Sekai wa kimi (w)o Sukuu!  \nHarusawa Hiro, a 16-year-old girl, is always saying what she thinks and has no friends. One day, she yells at the famous Yamazaki Ryou from class C.  \n  \n3. Boku no Candy / My Sweet Heart  \nKubo Yukiya confesses to the girl he likes: Hoshino Mimi! She looks like an angel but is nothing like that at all\u2026!  \n  \n4. Clear Note  \nHasegawa Rumi is a rather shy girl that likes books. One day, she has to do the class-duties with the popular Kazama. They seem to have nothing in common\u2026  \n  \n5. Green Boy x Blue Girl"
-    },
-    "status": "completed",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": "1",
-    "lastChapter": "5"
   }
 ]
