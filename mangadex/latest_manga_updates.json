@@ -1,5 +1,41 @@
 [
   {
+    "mangaId": "b1670c6b-05cc-4744-87b7-ab5affc3a215",
+    "title": {
+      "en": "Eden: It's an Endless World!"
+    },
+    "updatedAt": "2023-11-21T13:44:30+00:00",
+    "coverArt": "https://mangadex.org/covers/b1670c6b-05cc-4744-87b7-ab5affc3a215/ada08b7a-53c0-46c7-80fe-f9c394977ddf.jpg",
+    "altTitles": [
+      {
+        "ja": "EDEN \uff5eIt's an Endless World!\uff5e"
+      },
+      {
+        "en": "Eden (ENDO Hiroki)"
+      },
+      {
+        "ru": "\u042d\u0434\u0435\u043c: \u042d\u0442\u043e\u0442 \u0431\u0435\u0441\u043a\u0440\u0430\u0439\u043d\u0438\u0439 \u043c\u0438\u0440"
+      },
+      {
+        "fa": "\u0628\u0647\u0634\u062a : \u062c\u0647\u0627\u0646\u06cc \u0628\u06cc \u067e\u0627\u06cc\u0627\u0646 \u0627\u0633\u062a"
+      },
+      {
+        "ja": "\u30a8\u30c7\u30f3 \u30a4\u30c3\u30c4\u30a2\u30f3\u30a8\u30f3\u30c9\u30ec\u30b9\u30ef\u30fc\u30eb\u30c9"
+      },
+      {
+        "zh": "\u4f0a\u7538\u56ed"
+      }
+    ],
+    "description": {
+      "en": "In the panic surrounding a worldwide pandemic which kills 15 percent of the population and cripples many more, a secret organization, the Propater, topples the UN and seizes control of much of the world. A boy and a girl, raised in an abandoned virology research center, immune to the virus, are attacked by the Propater and escape. Based strongly on Gnostic mythology, all major characters are named after gnostic deities, and have analogous roles."
+    },
+    "status": "completed",
+    "releaseDate": 1997,
+    "contentRating": "erotica",
+    "lastVolume": "18",
+    "lastChapter": "126"
+  },
+  {
     "mangaId": "aafb046c-9de4-4c3d-990c-6d75b079c0b9",
     "title": {
       "en": "Release That Witch"
@@ -37,40 +73,69 @@
     "lastChapter": ""
   },
   {
-    "mangaId": "b1670c6b-05cc-4744-87b7-ab5affc3a215",
+    "mangaId": "dc58d5ef-1a86-4107-90c6-da8b25ff03d4",
     "title": {
-      "en": "Eden: It's an Endless World!"
+      "en": "Gal and Young Lady"
     },
-    "updatedAt": "2023-11-21T13:44:30+00:00",
-    "coverArt": "https://mangadex.org/covers/b1670c6b-05cc-4744-87b7-ab5affc3a215/ada08b7a-53c0-46c7-80fe-f9c394977ddf.jpg",
+    "updatedAt": "2023-06-10T17:40:44+00:00",
+    "coverArt": "https://mangadex.org/covers/dc58d5ef-1a86-4107-90c6-da8b25ff03d4/c4ffa57f-dffb-47f1-9e32-0e682f747136.png",
     "altTitles": [
       {
-        "ja": "EDEN \uff5eIt's an Endless World!\uff5e"
+        "ja": "\u30ae\u30e3\u30eb\u3068\u304a\u5b22\u69d8"
       },
       {
-        "en": "Eden (ENDO Hiroki)"
+        "ja-ro": "Gyaru to Ojousama"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "4a7193e2-e98b-4e57-8303-79bd92572058",
+    "title": {
+      "en": "Matchmaking by the NEET at the Shrine"
+    },
+    "updatedAt": "2024-04-10T19:24:43+00:00",
+    "coverArt": "https://mangadex.org/covers/4a7193e2-e98b-4e57-8303-79bd92572058/c3aca8c4-65ac-4d41-9a98-a4aa0ad2cc05.jpg",
+    "altTitles": [
+      {
+        "ja": "\u5883\u5185\u30cb\u30fc\u30c8\u306e\u7e01\u7d50\u3073"
+      }
+    ],
+    "description": {},
+    "status": "completed",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "cf501b93-d5cd-4cce-bf2e-22a263275ff7",
+    "title": {
+      "en": "Shin Megami Tensei Apocrypha: War of the Dove"
+    },
+    "updatedAt": "2024-04-04T07:00:57+00:00",
+    "coverArt": "https://mangadex.org/covers/cf501b93-d5cd-4cce-bf2e-22a263275ff7/494008be-bb15-4891-a286-054d5b2e7e31.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Shin Megami Tensei Gaiten - Hato no Senki"
       },
       {
-        "ru": "\u042d\u0434\u0435\u043c: \u042d\u0442\u043e\u0442 \u0431\u0435\u0441\u043a\u0440\u0430\u0439\u043d\u0438\u0439 \u043c\u0438\u0440"
-      },
-      {
-        "fa": "\u0628\u0647\u0634\u062a : \u062c\u0647\u0627\u0646\u06cc \u0628\u06cc \u067e\u0627\u06cc\u0627\u0646 \u0627\u0633\u062a"
-      },
-      {
-        "ja": "\u30a8\u30c7\u30f3 \u30a4\u30c3\u30c4\u30a2\u30f3\u30a8\u30f3\u30c9\u30ec\u30b9\u30ef\u30fc\u30eb\u30c9"
-      },
-      {
-        "zh": "\u4f0a\u7538\u56ed"
+        "ja": "\u771f\u30fb\u5973\u795e\u8ee2\u751f\u5916\u5178 \u9ce9\u306e\u6226\u8a18"
       }
     ],
     "description": {
-      "en": "In the panic surrounding a worldwide pandemic which kills 15 percent of the population and cripples many more, a secret organization, the Propater, topples the UN and seizes control of much of the world. A boy and a girl, raised in an abandoned virology research center, immune to the virus, are attacked by the Propater and escape. Based strongly on Gnostic mythology, all major characters are named after gnostic deities, and have analogous roles."
+      "en": "A standalone story set in the larger Megami Tensei universe. Our hero Hato is just an ordinary schoolboy, until one day he receives a ~~Command Spell~~ Stigma on his left hand, forges a contract with ~~Lancer~~ Cu Chulainn to become his master, and is unwittingly dragged into a city-wide Holy ~~Grail~~ War."
     },
     "status": "completed",
-    "releaseDate": 1997,
-    "contentRating": "erotica",
-    "lastVolume": "18",
-    "lastChapter": "126"
+    "releaseDate": 2001,
+    "contentRating": "safe",
+    "lastVolume": "3",
+    "lastChapter": ""
   },
   {
     "mangaId": "113c8d8d-dc45-4e88-95b9-9950afca37e2",
@@ -1713,104 +1778,6 @@
       "en": "A man meets up with his university tokusatsu circle after the passing of their leader."
     },
     "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "fff8f972-ff3e-4f24-9792-82e91635378e",
-    "title": {
-      "en": "Gigantis"
-    },
-    "updatedAt": "2023-08-12T14:37:06+00:00",
-    "coverArt": "https://mangadex.org/covers/fff8f972-ff3e-4f24-9792-82e91635378e/aa2b8f94-f7a8-46e3-8088-412f879aefad.jpg",
-    "altTitles": [
-      {
-        "ja": "GIGANTIS\u2015\u30b8\u30e3\u30a4\u30ac\u30f3\u30c6\u30a3\u30b9\u2015"
-      },
-      {
-        "uk": "\u0490\u0456\u0491\u0430\u043d\u0442\u0456\u0441"
-      }
-    ],
-    "description": {
-      "en": "On that day, humanity was turned into \u201cprey\u201d\u2015Gen is a high school student living on the island of Tsushima, a door to mainland Japan.\n\nAlong with his sickly sister, Misaki, and his heartwarming mother, Gen was living a peaceful life, all until an \u201casymmetrical monster\u201d appears on the island. All hell breaks loose on the island of Tsushima.\n\nThese monsters devour everything from plants to animals, to humans, and mutate together. Will humanity stand a chance against these mutant creatures? Is there any hope?",
-      "uk": "\u0422\u043e\u0433\u043e \u0434\u043d\u044f \u043b\u044e\u0434\u0441\u0442\u0432\u043e \u0431\u0443\u043b\u043e \u043f\u0435\u0440\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u043e \u043d\u0430 \u00ab\u0437\u0434\u043e\u0431\u0438\u0447\u00bb.\n\u0490\u0435\u043d \u2014 \u0441\u0442\u0430\u0440\u0448\u043e\u043a\u043b\u0430\u0441\u043d\u0438\u043a, \u044f\u043a\u0438\u0439 \u0436\u0438\u0432\u0435 \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0456 \u0426\u0443\u0448\u0456\u043c\u0430, \u0449\u043e \u0454 \u0434\u0432\u0435\u0440\u0438\u043c\u0430 \u0434\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u043a\u043e\u0432\u043e\u0457 \u042f\u043f\u043e\u043d\u0456\u0457.\n\u0420\u0430\u0437\u043e\u043c \u0437\u0456 \u0441\u0432\u043e\u0454\u044e \u0445\u0432\u043e\u0440\u043e\u0431\u043b\u0438\u0432\u043e\u044e \u0441\u0435\u0441\u0442\u0440\u043e\u044e \u041c\u0456\u0441\u0430\u043a\u0456 \u0442\u0430 \u0447\u0430\u0440\u0456\u0432\u043d\u043e\u044e \u043c\u0430\u0442\u0456\u0440'\u044e \u0490\u0435\u043d \u0436\u0438\u0432 \u043c\u0438\u0440\u043d\u0438\u043c \u0436\u0438\u0442\u0442\u044f\u043c, \u043f\u043e\u043a\u0438 \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0456 \u043d\u0435 \u0437'\u044f\u0432\u0438\u0432\u0441\u044f \u00ab\u0430\u0441\u0438\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u0438\u0439 \u043c\u043e\u043d\u0441\u0442\u0440\u00bb.\n\n\u041f\u0456\u0441\u043b\u044f \u0446\u044c\u043e\u0433\u043e \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0456 \u0426\u0443\u0448\u0456\u043c\u0430 \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u0435\u043a\u043b\u043e.\n\n\u0426\u0456 \u043c\u043e\u043d\u0441\u0442\u0440\u0438 \u043f\u043e\u0436\u0438\u0440\u0430\u044e\u0442\u044c \u0432\u0441\u0435, \u0432\u0456\u0434 \u0440\u043e\u0441\u043b\u0438\u043d \u0434\u043e \u0442\u0432\u0430\u0440\u0438\u043d \u0456 \u043b\u044e\u0434\u0435\u0439. \u041f\u0456\u0441\u043b\u044f \u0446\u044c\u043e\u0433\u043e \u043c\u0443\u0442\u0443\u044e\u0442\u044c.\n\u0427\u0438 \u043c\u0430\u0442\u0438\u043c\u0435 \u043b\u044e\u0434\u0441\u0442\u0432\u043e \u0448\u0430\u043d\u0441 \u043f\u0440\u043e\u0442\u0438\u0441\u0442\u043e\u044f\u0442\u0438 \u0446\u0438\u043c \u0456\u0441\u0442\u043e\u0442\u0430\u043c-\u043c\u0443\u0442\u0430\u043d\u0442\u0430\u043c?\n\u0404 \u044f\u043a\u0430\u0441\u044c \u043d\u0430\u0434\u0456\u044f?"
-    },
-    "status": "completed",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "5",
-    "lastChapter": "39"
-  },
-  {
-    "mangaId": "af38f328-8df1-4b4c-a272-e737625c3ddc",
-    "title": {
-      "en": "Senpai ga Uzai Kouhai no Hanashi"
-    },
-    "updatedAt": "2024-03-16T16:06:17+00:00",
-    "coverArt": "https://mangadex.org/covers/af38f328-8df1-4b4c-a272-e737625c3ddc/57004e6b-3573-414d-b234-afd512d89c63.jpg",
-    "altTitles": [
-      {
-        "en": "A Story About a Senior Who Annoys His Junior"
-      },
-      {
-        "en": "A Story About a Senpai Who Annoys His Kouhai"
-      },
-      {
-        "en": "My Senpai Is Annoying"
-      },
-      {
-        "ja-ro": "Senpai ga Urusai Kouhai no Hanashi"
-      },
-      {
-        "ro": "Senpai-ul meu este enervant"
-      },
-      {
-        "tr": "Senpai'si Uyuz Kouhai'nin Hikayesi"
-      },
-      {
-        "ja": "\u5148\u8f29\u304c\u3046\u3056\u3044\u5f8c\u8f29\u306e\u8a71"
-      },
-      {
-        "pt-br": "Meu Senpai \u00e9 Irritante"
-      },
-      {
-        "uk": "\u041c\u0456\u0439 \u0441\u0435\u043c\u043f\u0430\u0439 \u0434\u0440\u0430\u0442\u0443\u0454"
-      },
-      {
-        "el": "\u039f Senpai \u039c\u03bf\u03c5 \u0395\u03af\u03bd\u03b1\u03b9 \u0395\u03bd\u03bf\u03c7\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc\u03c2"
-      }
-    ],
-    "description": {
-      "en": "Futaba Igarashi is a diminutive office lady who finds that her towering and boisterous work senpai Harumi Takeda always gets in her hair, but he always has her back, he always keeps her company, and she starts noticing that her heart is slowly veering towards him\u2026  \n  \n1st place of Tsugi Manga Awards, Category Webmanga (2018)\n\n---\n\n+++ Difference to volumes\nPixiv/Twitter (Web) to volume mapping:\n| Web Ch. | Volume Ch. | Change | Difference \n| :--- | :--- | :--- | :--- |\n| 64 | v.4 64 | | 0 |\n| 65 | v.4 64.5 | - | 1 |\n| 66 | v.4 65 |  | 1 |\n| 79 | v.4 77.5 | - | 2 |\n| 146.5 | v. 5. 145 | + | 1 |\n| 149.5 | v. 8 149 | + | 0 |\n| 150.5 | v. 8 151 | + | 1 |\n| 153.5 | v. 8 155 | + | 2 |\n| 154.5 | v. 8 157 | + | 3 |\n+++",
-      "ja": "\u3061\u3087\u3063\u3074\u308a\u30ac\u30b5\u30c4\u3060\u3051\u3069\u9762\u5012\u898b\u306e\u3044\u3044\u5148\u8f29\u30fb\u6b66\u7530\u3068\u3001\u305d\u3093\u306a\u5f7c\u306b\u7d20\u76f4\u306b\u306a\u308c\u306a\u3044\uff08\uff1f\uff09\u5f8c\u8f29\u30fb\u4e94\u5341\u5d50\u3002\n\n\u4eca\u65e5\u3082\u4e94\u5341\u5d50\u306f\u6b66\u7530\u3092\u3046\u3056\u3044\u3068\u601d\u3044\u3064\u3064\u3001\u672c\u5f53\u306f\u307e\u3093\u3056\u3089\u3067\u3082\u306a\u304b\u3063\u305f\u308a\u3084\u3063\u3071\u308a\u672c\u5f53\u306b\u3046\u3056\u3044\u3068\u304d\u3082\u3042\u3063\u305f\u308a\u3068\u81ea\u899a\u306e\u306a\u3044\u4e8c\u4eba\u306e\u5fae\u5999\u306a\u8ddd\u96e2\u611f\u306b\u3082\u3060\u3048\u3061\u3083\u3046\u3053\u3068\u307e\u3061\u304c\u3044\u306a\u3057\uff01",
-      "uk": "\u0406\u0491\u0430\u0440\u0430\u0448\u0456 - \u043f\u0440\u0430\u0446\u044c\u043e\u0432\u0438\u0442\u0430 \u043c\u043e\u043b\u043e\u0434\u0430 \u043e\u0444\u0456\u0441\u043d\u0430 \u0436\u0456\u043d\u043a\u0430. \u0422\u0430\u043a\u0435\u0434\u0430 - \u0441\u0435\u043c\u043f\u0430\u0439 \u0437 \u0440\u043e\u0431\u043e\u0442\u0438, \u043d\u0435\u0440\u0432\u0443\u0454 \u0457\u0457 \u043f\u043e\u0441\u0442\u0456\u0439\u043d\u043e - \u0456 \u0432\u0441\u0435 \u0436 \u0432\u043e\u043d\u0430 \u0441\u0442\u0430\u0454 \u0432\u0441\u0435 \u0431\u043b\u0438\u0436\u0447\u0435 \u0434\u043e \u043d\u044c\u043e\u0433\u043e. \u041a\u043e\u0436\u0435\u043d \u0434\u0435\u043d\u044c \u043d\u0430\u043f\u043e\u0432\u043d\u0435\u043d\u0438\u0439 \u043a\u043e\u043c\u0456\u0447\u043d\u0438\u043c\u0438 \u043d\u0435\u0432\u0434\u0430\u0447\u0430\u043c\u0438 \u0442\u0430 \u0440\u043e\u043c\u0430\u043d\u0442\u0438\u0447\u043d\u0438\u043c\u0438 \u043c\u043e\u043c\u0435\u043d\u0442\u0430\u043c\u0438, \u043a\u043e\u043b\u0438 \u0406\u0491\u0430\u0440\u0430\u0448\u0456 \u043d\u0430\u043c\u0430\u0433\u0430\u0454\u0442\u044c\u0441\u044f \u0437\u0431\u0430\u043b\u0430\u043d\u0441\u0443\u0432\u0430\u0442\u0438 \u0440\u043e\u0431\u043e\u0442\u0443, \u0436\u0438\u0442\u0442\u044f \u0442\u0430 \u043a\u043e\u0445\u0430\u043d\u043d\u044f.",
-      "pt-br": "Igarashi \u00e9 uma jovem esfor\u00e7ada que trabalha em um escrit\u00f3rio. Takeda, o senpai acima dela no trabalho, a irrita constantemente - e ainda assim ela se encontra cada vez mais pr\u00f3xima dele. Todos os dias s\u00e3o repletos de contratempos c\u00f4micos e momentos rom\u00e2nticos enquanto Igarashi tenta equilibrar trabalho, vida e amor."
-    },
-    "status": "ongoing",
-    "releaseDate": 2017,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "948dd677-89b4-4b25-868f-c471bd399e79",
-    "title": {
-      "en": "Love Wins"
-    },
-    "updatedAt": "2024-04-06T23:06:21+00:00",
-    "coverArt": "https://mangadex.org/covers/948dd677-89b4-4b25-868f-c471bd399e79/fd0fc63a-788e-4f0c-92eb-eb380dd44fff.jpg",
-    "altTitles": [
-      {
-        "ko": "LOVE WINS"
-      }
-    ],
-    "description": {
-      "en": "Da-yeon was excited by the news of legalization of same-sex marriage. I filed a marriage registration with a woman I didn't know because I was drunk....!?",
-      "ko": "\u300c \ub808\uc9c4\ucc4c\ub9b0\uc9c0\uc5d0\uc11c \ub3c5\uc790\ub4e4\uc758 \uc815\uc2e0\uc774 \uc544\ucc14\ud574\uc9c0\uac8c \uc6c3\uae30\uace0 \uc124\ub81c\ub358 \uc120 \uacb0\ud63c \ud6c4 \uc5f0\uc560 \ub85c\ub9e8\uc2a4!! \u300d\n\ub3d9\uc131\ud63c \ud569\ubc95\ud654 \uc18c\uc2dd\uc5d0 \ub4e4\ub5a0 \ubc88\uac1c\uc5d0 \ub098\uac04 \ubaa8\uc3e0 \ub808\uc988 \uc774\ub2e4\uc5f0.\n\uc220\uc5d0 \ucde8\ud574 \ubaa8\ub974\ub294 \uc5ec\uc790\uc640 \ud63c\uc778\uc2e0\uace0\ub97c \ud574\ubc84\ub838\ub2e4....!?"
-    },
-    "status": "completed",
     "releaseDate": 2021,
     "contentRating": "suggestive",
     "lastVolume": "",
