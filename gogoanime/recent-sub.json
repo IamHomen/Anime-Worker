@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "odekake-kozame",
+    "animeTitle": "Odekake Kozame",
+    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
+    "episode": "Episode 51",
+    "animeUrl": "https://anitaku.to/odekake-kozame-episode-51"
+  },
+  {
+    "animeId": "yugioh-go-rush",
+    "animeTitle": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "animeImg": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 103",
+    "animeUrl": "https://anitaku.to/yugioh-go-rush-episode-103"
+  },
+  {
     "animeId": "rinkai",
     "animeTitle": "Rinkai!",
     "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.to/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-3"
-  },
-  {
-    "animeId": "sf-saiyuuki-starzinger",
-    "animeTitle": "SF Saiyuuki Starzinger",
-    "animeImg": "https://gogocdn.net/cover/sf-saiyuuki-starzinger.png",
-    "episode": "Episode 72",
-    "animeUrl": "https://anitaku.to/sf-saiyuuki-starzinger-episode-72"
-  },
-  {
-    "animeId": "beyblade-x",
-    "animeTitle": "Beyblade X",
-    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 25",
-    "animeUrl": "https://anitaku.to/beyblade-x-episode-25"
   }
 ]
