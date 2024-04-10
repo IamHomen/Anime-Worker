@@ -5,6 +5,7 @@ import json
 BASE_URL = 'https://anitaku.to'
 
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
+LOAD_LIST_EPISODE = 'https://ajax.gogo-load.com/ajax/load-list-episode'
 
 def scrape_recent_sub_anime():
     anime_list = []
@@ -43,44 +44,24 @@ def scrape_anime_info(ids):
 
         soup = BeautifulSoup(animePageTest.content, 'html.parser')
 
-        animeTitle_elem = soup.select_one('div.anime_info_body_bg > h1')
-        animeTitle = animeTitle_elem.text if animeTitle_elem else None
+        animeTitle = soup.select_one('div.anime_info_body_bg > h1').text.strip()
+        animeImage = soup.select_one('div.anime_info_body_bg > img')['src']
+        type = soup.select_one('div.anime_info_body_bg > p:nth-child(4) > a').text.strip()
+        desc = soup.select_one('div.anime_info_body_bg > p:nth-child(5)').text.replace('Plot Summary: ', '').strip()
+        releasedDate = soup.select_one('div.anime_info_body_bg > p:nth-child(7)').text.replace('Released: ', '').strip()
+        status = soup.select_one('div.anime_info_body_bg > p:nth-child(8) > a').text.strip()
+        otherName = soup.select_one('div.anime_info_body_bg > p:nth-child(9)').text.replace('Other name: ', '').replace(';', ',').strip()
 
-        animeImg_elem = soup.select_one('div.anime_info_body_bg > img')
-        animeImg = animeImg_elem['src'] if animeImg_elem else None
-
-        type_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Type:)) > a')
-        type = type_elem.text if type_elem else None
-
-        desc_elem = soup.select_one('div.anime_info_body_bg > div.description')
-        desc = desc_elem.text.replace('Plot Summary: ', '') if desc_elem else None
-
-        releasedDate_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Released:))')
-        releasedDate = releasedDate_elem.text.replace('Released: ', '') if releasedDate_elem else None
-
-        status_elem = soup.select_one('div.anime_info_body_bg > p.type:has(a:contains(Ongoing))')
-        status = status_elem.text if status_elem else None
-
-        otherName_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Other name:))')
-        otherName = otherName_elem.text.replace('Other name: ', '').replace(';', ',') if otherName_elem else None
-
-        genres = []
-         for genre in soup.select('div.anime_info_body_bg > p:nth-child(7) > a'):
-           genres.append({
-            'genre_title': genre['title'],
-            'genre_url': genre['href']
-            })
+        for genre in soup.select('div.anime_info_body_bg > p:nth-child(6) > a'):
+            genres.append(genre['title'].strip())
 
         ep_start = soup.select_one('#episode_page > li').find('a')['ep_start']
         ep_end = soup.select_one('#episode_page > li:last-child').find('a')['ep_end']
         movie_id = soup.select_one('#movie_id')['value']
         alias = soup.select_one('#alias_anime')['value']
 
-        list_episodes_url = 'https://example.com/list_episodes'  # Replace with the actual URL
         html = requests.get(f'{list_episodes_url}?ep_start={ep_start}&ep_end={ep_end}&id={movie_id}&default_ep=0&alias={alias}')
         html.raise_for_status()
-
-        episode_soup = BeautifulSoup(html.content, 'html.parser')
 
         for el in episode_soup('#episode_related > li'):
             episodeLocale = el.select_one('div.cate').text.strip().lower()
@@ -105,7 +86,7 @@ def scrape_anime_info(ids):
             'episodesList': epList,
         }
 
-        with open(f'./gogoanime/anime-info/{id}.json', 'w') as json_file:
+        with open(f'./gogoanime/anime-info/{ids}.json', 'w') as json_file:
             json.dump(anime_data, json_file, indent=2)
 
         return anime_data
