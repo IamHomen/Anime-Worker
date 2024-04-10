@@ -1,5 +1,26 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-killer-pietro/",
+    "animeTitle": "Killer Pietro",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/09/KillerPietroCover01.png",
+    "episode": "Chapter 33",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-killer-pietro/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/",
+    "animeTitle": "Sword Fanatic Wanders Through The Night",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/swordfanaticCover01.png",
+    "episode": "Chapter 107",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/",
+    "animeTitle": "Life of a Magic Academy Mage",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/11/magicAcademyMageCover02.png",
+    "episode": "Chapter 88",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-world-after-the-end/",
     "animeTitle": "The World After The End",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/02/the-world-after-the-end-cover-207x300.jpg",
@@ -117,26 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/TheMainCharactersThatOnlyIKnowCover01.png",
     "episode": "Chapter 21",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-main-characters-that-only-i-know/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-regressed-son-of-a-duke-is-an-assassin/",
-    "animeTitle": "The Regressed Son of a Duke is an Assassin",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/02/TheRegressedSonofaDukeisanAssassinCover01-webp.webp",
-    "episode": "Chapter 17 - Royal Academy (2)",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-regressed-son-of-a-duke-is-an-assassin/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-insanely-talented-player/",
-    "animeTitle": "Insanely-Talented Player",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/09/InsanelyTalentedPlayerCover01.png",
-    "episode": "Chapter 37",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-insanely-talented-player/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-player-who-returned-10000-years-later/",
-    "animeTitle": "Player Who Returned 10,000 Years Later",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/07/Player10000yearsCover02_copy.png",
-    "episode": "Chapter 75",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-player-who-returned-10000-years-later/"
   }
 ]
