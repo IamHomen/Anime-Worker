@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-max-level-hero-has-returned/",
+    "animeTitle": "The Max Level Hero has Returned!",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2020/10/maxlevelheroCover02.png",
+    "episode": "Chapter 160",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-max-level-hero-has-returned/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-tutorial-is-too-hard/",
     "animeTitle": "The Tutorial is Too Hard",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/01/TheTutorialisTooHardCover02.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/01/WhyIQuitBeingtheDemonKingCover01.png",
     "episode": "Chapter 17 - You? To me?",
     "animeUrl": "https://asuratoon.com/manga/1908287720-why-i-quit-being-the-demon-king/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/",
-    "animeTitle": "Myst, Might, Mayhem",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/MystMightMayhemCover01.png",
-    "episode": "Chapter 15 - Phoenix Pavilion",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/"
   }
 ]
