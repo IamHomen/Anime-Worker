@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "seiyuu-radio-no-uraomote",
+    "animeTitle": "Seiyuu Radio no Uraomote",
+    "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/seiyuu-radio-no-uraomote-episode-1"
+  },
+  {
     "animeId": "geats-extra-geats-anime-another-grand-prix",
     "animeTitle": "Geats Extra: Geats Anime - Another Grand Prix",
     "animeImg": "https://gogocdn.net/cover/geats-extra-geats-anime-another-grand-prix.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.to/kami-wa-game-ni-ueteiru-episode-2"
-  },
-  {
-    "animeId": "shaman-king-flowers",
-    "animeTitle": "Shaman King: Flowers",
-    "animeImg": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
-    "episode": "Episode 13",
-    "animeUrl": "https://anitaku.to/shaman-king-flowers-episode-13"
   }
 ]
