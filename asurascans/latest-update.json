@@ -1,9 +1,23 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-extras-academy-survival-guide/",
+    "animeTitle": "The Extra\u2019s Academy Survival Guide",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/12/TheExtrasAcademySurvivalGuideCover01.png",
+    "episode": "Chapter 20",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-extras-academy-survival-guide/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-omniscient-readers-viewpoint/",
+    "animeTitle": "Omniscient Reader\u2019s Viewpoint",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2020/09/ORV03.png",
+    "episode": "Chapter 206",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-omniscient-readers-viewpoint/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-killer-pietro/",
     "animeTitle": "Killer Pietro",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/09/KillerPietroCover01.png",
-    "episode": "Chapter 33",
+    "episode": "Chapter 35",
     "animeUrl": "https://asuratoon.com/manga/1908287720-killer-pietro/"
   },
   {
@@ -124,19 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/12/ReincarnatorCover01.png",
     "episode": "Chapter 21",
     "animeUrl": "https://asuratoon.com/manga/1908287720-reincarnator/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/",
-    "animeTitle": "Return of The Unrivaled Spear Knight",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/10/cover.png",
-    "episode": "Chapter 132",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-main-characters-that-only-i-know/",
-    "animeTitle": "The Main Characters That Only I Know",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/TheMainCharactersThatOnlyIKnowCover01.png",
-    "episode": "Chapter 21",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-main-characters-that-only-i-know/"
   }
 ]
