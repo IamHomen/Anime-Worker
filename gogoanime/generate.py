@@ -43,8 +43,7 @@ def scrape_anime_info(ids):
 
         soup = BeautifulSoup(animePageTest.content, 'html.parser')
 
-        animeTitle = soup.select_one('div.anime_info_body_bg > h1').text.strip()
-        animeTitle_elem = soup.select_one('div.anime_info_body_bg > h1')
+    animeTitle_elem = soup.select_one('div.anime_info_body_bg > h1')
     animeTitle = animeTitle_elem.text if animeTitle_elem else None
 
     animeImg_elem = soup.select_one('div.anime_info_body_bg > img')
