@@ -1,5 +1,321 @@
 [
   {
+    "mangaId": "fc4c9b57-1295-4667-8d4e-c6b93dce2e68",
+    "title": {
+      "en": "Coffee Moon"
+    },
+    "updatedAt": "2024-04-02T06:29:06+00:00",
+    "coverArt": "https://mangadex.org/covers/fc4c9b57-1295-4667-8d4e-c6b93dce2e68/16dd1891-7005-4824-bdd5-7917bd02732d.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30b3\u30fc\u30d2\u30fc\u30e0\u30fc\u30f3"
+      }
+    ],
+    "description": {
+      "en": "The light is gone. Unable to escape the darkness, Pieta repeats the same day. Every day she walks to school down the same road, through the same rain, then has the same conversation with her friend Danae. Eventually, she finds happiness in the repetition. The days carry on as normal, until one day, her routine chat with Danae takes a different turn: \"What?! You can remember the today that happened yesterday too?\" Despite their bleak situation, the girls reach towards tomorrow!"
+    },
+    "status": "completed",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "34"
+  },
+  {
+    "mangaId": "d04ed8ab-e28e-46c3-b6b2-ecf6e2df2d35",
+    "title": {
+      "en": "Cinderella"
+    },
+    "updatedAt": "2022-05-18T17:53:28+00:00",
+    "coverArt": "https://mangadex.org/covers/d04ed8ab-e28e-46c3-b6b2-ecf6e2df2d35/c255a1eb-3b22-46cf-93ca-12f8f007a22b.jpg",
+    "altTitles": [
+      {
+        "zh": "\u7070\u59d1\u5a18"
+      },
+      {
+        "zh-ro": "Hu\u012b G\u016bni\u00e1ng"
+      }
+    ],
+    "description": {
+      "en": "The story of a Cinderella who didn't get a happy ending."
+    },
+    "status": "completed",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "1"
+  },
+  {
+    "mangaId": "f731150b-c2e9-42ce-a5af-5604bcd83c3d",
+    "title": {
+      "en": "I Don't Want to Be the Magpie Bridge"
+    },
+    "updatedAt": "2023-12-07T18:20:24+00:00",
+    "coverArt": "https://mangadex.org/covers/f731150b-c2e9-42ce-a5af-5604bcd83c3d/b5a51f77-102b-48de-9efb-1326e6a07097.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc624\uc791\uad50\ub294 \uc2eb\uc2b5\ub2c8\ub2e4"
+      },
+      {
+        "en": "I Don't Want to Be a Magpie Bridge"
+      },
+      {
+        "en": "I Don't Want to Be an Ojakgyo"
+      },
+      {
+        "ru": "\u041d\u0435 \u0445\u043e\u0447\u0443 \u0431\u044b\u0442\u044c \u041e\u0447\u0436\u0430\u043a\u043a\u0451"
+      },
+      {
+        "ko-ro": "Ojakgyoneun Silseumnida"
+      }
+    ],
+    "description": {
+      "en": "I\u2019ve been reincarnated into a side character of a novel. On top of that, I am the character who is like a magpie bridge in the mentally-exhausting story, *The Guys Around Hestia*.\n\nThere is no romance in store for me, and it absolutely horrifies me to think that my family is destined to drown in debt!\n\nI planned on becoming a civil servant, enjoying a life of wealth and honor that I was unable to attain in my previous life but\u2026 why are the guys behaving out of character? Why are you blushing in front of me? Why do you keep giving me food?\n\n\u201cCan you Imagine Shushu being shy when looking at someone?\u201d\n\n\u201cWhoa\u2026 It\u2019d be amazing if that happens.\u201d\n\nAs Cory absent-mindedly said that to Hiley, Eve frowned and murmured under his breath, \u201cShould I run away with her\u2026\u201d\n\nSwan remained silent while he hid his face with his sleeves. His face and ears turned red.\n\nWhat\u2019s up with you guys? Why are you guys doing other things instead of being obsessed with the female lead? Get yourself together!\n\nThis is the survival story of an academy student, Schulaina West, who wants to pursue a wealthy future in a reverse harem novel. \n\nTL/N: Magpie Bridge is the bridge made by a flock of magpies that connects the two star-crossed lovers Orihime and Hikoboshi in the legend behind the Tanabata festival."
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "ae8c6312-6121-4469-846f-637f40afbd3b",
+    "title": {
+      "en": "Winter Moon"
+    },
+    "updatedAt": "2023-09-22T22:23:07+00:00",
+    "coverArt": "https://mangadex.org/covers/ae8c6312-6121-4469-846f-637f40afbd3b/b2d6e929-53bb-4b3b-8bd7-b9d90f13d61d.png",
+    "altTitles": [
+      {
+        "en": "Wintermoon"
+      },
+      {
+        "pl": "Zimowy ksi\u0119\u017cyc"
+      },
+      {
+        "ja": "\u51ac\u6708"
+      }
+    ],
+    "description": {
+      "en": "A gay sorceror and a seductive priestess cross paths in an Online RPG.",
+      "fr": "Suivez les aventures d'un sorcier gay et d'une jolie pr\u00eatresse en plein c\u0153ur d'un RPG.",
+      "ro": "Un vrajitor homosexual si o preoteasa seductiva se intalnesc din intamplare intr-un online RPG",
+      "pt-br": "Um feiticeiro homossexual e uma sacerdotisa sedutora se cruzam em um RPG online."
+    },
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "6f2b317e-17ff-491a-8f61-e6e591ae2df2",
+    "title": {
+      "en": "Akanabe-sensei Doesn't Know about Embarrassment"
+    },
+    "updatedAt": "2024-04-08T05:23:15+00:00",
+    "coverArt": "https://mangadex.org/covers/6f2b317e-17ff-491a-8f61-e6e591ae2df2/4e02cfa9-56d4-42af-b027-4ea3c774b6d0.jpg",
+    "altTitles": [
+      {
+        "ja": "\u831c\u90e8\u5148\u751f\u306f\u7167\u308c\u77e5\u3089\u305a"
+      },
+      {
+        "ja-ro": "Akanabe-sensei wa Tereshirazu"
+      }
+    ],
+    "description": {
+      "en": "Kouki Sakieda is an assistant for Akira Akanabe, a manga artist he admires, who always tries to praise him in some way. Sakieda is worried that he will end up falling in love with her if this situation continues. Then Akanabe unexpectedly asks him to go out with her... The story depicts the daily life of Akanabe-sensei, who lavishes praise on Sakieda without embarrassment, and Sakieda, who tries to accept it all gracefully."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
+    "title": {
+      "en": "Jujutsu Kaisen"
+    },
+    "updatedAt": "2024-04-03T23:24:40+00:00",
+    "coverArt": "https://mangadex.org/covers/c52b2ce3-7f95-469c-96b0-479524fb7a1a/a112e575-4f11-48b2-83d8-28057ceecc4c.jpg",
+    "altTitles": [
+      {
+        "es": "Batalla de hechiceros"
+      },
+      {
+        "en": "Magic Martial Arts"
+      },
+      {
+        "ru": "\u0416\u04af\u0436\u04af\u0446\u04af \u041a\u0430\u0439\u0441\u044d\u043d"
+      },
+      {
+        "ru": "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0431\u0438\u0442\u0432\u0430"
+      },
+      {
+        "ja": "\u546a\u8853\u5efb\u6226"
+      },
+      {
+        "zh": "\u5492\u672f\u56de\u6218"
+      },
+      {
+        "zh-hk": "\u5492\u8853\u56de\u6230"
+      },
+      {
+        "ko": "\uc8fc\uc220\ud68c\uc804"
+      },
+      {
+        "uk": "\u041c\u0430\u0433\u0456\u0447\u043d\u0430 \u0411\u0438\u0442\u0432\u0430"
+      },
+      {
+        "en": "Magic Jujutsu"
+      },
+      {
+        "kk": "\u0421\u0438\u049b\u044b\u0440\u043b\u044b \u0448\u0430\u0439\u049b\u0430\u0441"
+      },
+      {
+        "kk": "\u0410\u043b\u0430\u0441 \u0442\u0430\u043b\u0430\u0441"
+      },
+      {
+        "tr": "B\u00fcy\u00fcl\u00fc D\u00f6v\u00fc\u015f Sanatlar\u0131"
+      },
+      {
+        "fr": "Jujutsu Kaisen"
+      },
+      {
+        "pt-br": "Jujutsu Kaisen - Batalha de Feiticeiros"
+      },
+      {
+        "en": "Revolving Sorcery Fight"
+      }
+    ],
+    "description": {
+      "en": "Yuuji is a genius at track and field. But he has zero interest running around in circles, he's happy as a clam in the Occult Research Club. Although he's only in the club for kicks, things get serious when a real spirit shows up at school! Life's about to get really strange in Sugisawa Town #3 High School!",
+      "fr": "Yuuji est un jeune \u00e9tudiant qui excelle dans le sport, notamment dans l'athl\u00e9tisme, mais qui a un immense poil dans la main. Du coup, au lieu de parfaire ses capacit\u00e9s physiques qui pourraient lui permettre de devenir le meilleur de l'\u00e9tablissement, il s'est inscrit au club de recherches occultes du lyc\u00e9e. Son petit train-train va changer du tout au tout lorsqu'un v\u00e9ritable esprit malfaiteur vient menacer son \u00e9cole\u2026",
+      "ru": "\u042e\u0434\u0437\u0438 \u0433\u0435\u043d\u0438\u0439 \u043d\u0430 \u043f\u043e\u043b\u0435! \u0412\u043e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0448\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u043c\u0430\u043b\u043e \u0447\u0435\u043c \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0435\u0442. \u0421\u0442\u0430\u0432 \u0447\u0430\u0441\u0442\u044c\u044e \u043a\u043b\u0443\u0431\u0430 \u043e\u043a\u043a\u0443\u043b\u044c\u0442\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u043e\u043d \u0440\u0435\u0448\u0430\u0435\u0442 \u0437\u0430\u0436\u0438\u0442\u044c \u0442\u0438\u0445\u043e\u0439 \u0436\u0438\u0437\u043d\u044c\u044e, \u043d\u043e \u0432\u0441\u0435 \u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u0432 \u0448\u043a\u043e\u043b\u0435 \u043e\u0431\u044a\u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0434\u0443\u0445\u0438.",
+      "tr": "Yuuji bir atletizm dehas\u0131d\u0131r ama ko\u015fuya hi\u00e7 ilgisi yoktur. Bilinmezleri Ara\u015ft\u0131rma Kul\u00fcb\u00fcnde \u00e7ok mutludur. Her ne kadar kul\u00fcpte e\u011flencesine bulunsa bile, okulda ger\u00e7ek bir ruh ortaya \u00e7\u0131k\u0131nca i\u015fler ciddiye biner! Hayat, Sugisawa \u015eehrindeki 3 Numaral\u0131 Lisedeki \u00e7ocuklar i\u00e7in tuhafla\u015fmaya ba\u015flamak \u00fczere!",
+      "uk": "\u0406\u0442\u0430\u0434\u043e\u0440\u0456 \u042e\u0443\u0434\u0436\u0456 - \u043d\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e \u0442\u0430\u043b\u0430\u043d\u043e\u0432\u0438\u0442\u0438\u0439 \u0441\u0442\u0430\u0440\u0448\u043e\u043a\u043b\u0430\u0441\u043d\u0438\u043a \u0456\u0437 \u0421\u0435\u043d\u0434\u0430\u044e. \u0423\u0442\u0456\u043c, \u0445\u043e\u0447 \u0432\u0456\u043d \u0456 \u0432\u043f\u0440\u0430\u0432\u043d\u0438\u0439 \u0441\u043f\u043e\u0440\u0442\u0441\u043c\u0435\u043d, \u0439\u043e\u0433\u043e \u043d\u0435 \u0446\u0456\u043a\u0430\u0432\u043b\u044f\u0442\u044c \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u0456 \u043a\u043b\u0443\u0431\u0438: \u0432\u0456\u043d \u043f\u0456\u043a\u043b\u0443\u0454\u0442\u044c\u0441\u044f \u043f\u0440\u043e \u0441\u0432\u043e\u0433\u043e \u0434\u0456\u0434\u0443\u0441\u044f, \u0449\u043e \u043b\u0435\u0436\u0438\u0442\u044c \u0443 \u043c\u0456\u0441\u0446\u0435\u0432\u0456\u0439 \u043b\u0456\u043a\u0430\u0440\u043d\u0456. \u0412\u0441\u0435 \u0437\u043c\u0456\u043d\u044e\u0454\u0442\u044c\u0441\u044f, \u043a\u043e\u043b\u0438 \u0447\u0435\u0440\u0435\u0437 \u0436\u0430\u0440\u0442\u0456\u0432\u043b\u0438\u0432\u0438\u0439 \u0441\u043f\u0456\u0440\u0438\u0442\u0438\u0447\u043d\u0438\u0439 \u0441\u0435\u0430\u043d\u0441 \u043d\u0430 \u042e\u0443\u0434\u0436\u0456 \u0442\u0430 \u0439\u043e\u0433\u043e \u0434\u0440\u0443\u0437\u0456\u0432 \u0440\u0430\u043f\u0442\u043e\u0432\u043e \u043d\u0430\u043f\u0430\u0434\u0430\u044e\u0442\u044c \u043c\u043e\u0442\u043e\u0440\u043e\u0448\u043d\u0456 \u0447\u0443\u0434\u043e\u0432\u0438\u0441\u044c\u043a\u0430, \u044f\u043a\u0438\u0445 \u0434\u0438\u0432\u0430\u043a\u0443\u0432\u0430\u0442\u0438\u0439 \u043d\u0435\u0437\u043d\u0430\u0439\u043e\u043c\u0435\u0446\u044c, \u0424\u0443\u0448\u0456\u0491\u0443\u0440\u043e \u041c\u0435\u0491\u0443\u043c\u0456, \u0447\u043e\u043c\u0443\u0441\u044c \u043d\u0430\u0437\u0438\u0432\u0430\u0454 \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u0442\u044f\u043c\u0438. \u0410\u0431\u0438 \u0432\u0440\u044f\u0442\u0443\u0432\u0430\u0442\u0438 \u0441\u0435\u0431\u0435 \u0442\u0430 \u0434\u0440\u0443\u0437\u0456\u0432, \u042e\u0443\u0434\u0436\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0438\u0439 \u0440\u0438\u0437\u0438\u043a\u043d\u0443\u0442\u0438 - \u0456 \u0442\u0430\u043a \u0432\u0438\u043f\u0430\u0434\u043a\u043e\u0432\u043e \u0441\u0442\u0430\u0442\u0438 \u0432\u043c\u0456\u0441\u0442\u0438\u043b\u0438\u0449\u0435\u043c \u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u043e\u0433\u043e, \u043d\u0430\u0439\u043c\u043e\u0433\u0443\u0442\u043d\u0456\u0448\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043b\u044f \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u044c. \u0410 \u043f\u043e\u0442\u0456\u043c \u043d\u0430 \u0442\u043e\u0431\u0456 - \u0432\u0438\u0440\u043e\u043a: \"\u0442\u0435\u0431\u0435 \u043c\u0430\u044e\u0442\u044c \u0441\u0442\u0440\u0430\u0442\u0438\u0442\u0438\". \u041d\u0443 \u0456 \u0449\u043e \u0440\u043e\u0431\u0438\u0442\u0438? \u0422\u044f\u0436\u043a\u0438\u0439 \u0432\u0438\u0431\u0456\u0440, \u043c\u0430\u0433\u0456\u0447\u043d\u0430 \u0448\u043a\u043e\u043b\u0430, \u043d\u043e\u0432\u0456 \u0434\u0440\u0443\u0437\u0456 \u0439 \u043d\u043e\u0432\u0456 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 - \u0442\u0430\u043a \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u0439\u043e\u0433\u043e \u0448\u043b\u044f\u0445...",
+      "pt-br": "Itadori Yuuji, um estudante do colegial com uma capacidade f\u00edsica \u00fanica, tem como rotina visitar seu av\u00f4 que est\u00e1 hospitalizado. Por\u00e9m, um dia, o selo de um \"objeto amaldi\u00e7oado\" escondido em sua escola \u00e9 rompido, fazendo surgir criaturas assustadoras. Para salvar seus colegas ele parte em dire\u00e7\u00e3o ao col\u00e9gio, quando algo inesperado acontece...!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2018,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "5b2c7a03-ca53-43f0-abc8-031c0c136ae6",
+    "title": {
+      "en": "Wonder Cat Kyuu-chan"
+    },
+    "updatedAt": "2023-12-14T16:09:45+00:00",
+    "coverArt": "https://mangadex.org/covers/5b2c7a03-ca53-43f0-abc8-031c0c136ae6/07917c0d-dd8d-47b7-92b8-ac833c0636ac.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Fushigi Neko no Kyuu-chan"
+      },
+      {
+        "ro": "Pisica Minune Kyuu-chan"
+      },
+      {
+        "ro": "Pisica Misterioas\u0103 Kyuu-chan"
+      },
+      {
+        "en": "Wondercat Kyuu-chan"
+      },
+      {
+        "ru": "\u0427\u0443\u0434\u0435\u0441\u043d\u044b\u0439 \u043a\u043e\u0442\u0438\u043a \u041a\u044e"
+      },
+      {
+        "ja": "\u3075\u3057\u304e\u306d\u3053\u306e\u304d\u3085\u30fc\u3061\u3083\u3093"
+      }
+    ],
+    "description": {
+      "en": "The cute Kyuu-chan is a wonder cat. Dance, sing, be happy together!\n\n---\n\n- **[Official English license announcement](https://sevenseasentertainment.com/2020/08/28/seven-seas-isnt-kitten-around-with-license-of-wondercat-kyuu-chan-manga-series/)**\n\n- **[ManiManiTV YouTube channel](https://www.youtube.com/c/ManiManiTV/videos/), Official Kyuu-chan motion comic videos:** [#1,](https://www.youtube.com/watch?v=zCBZUbEbI-w) [#2,](https://www.youtube.com/watch?v=wSJURvGO494) [#3](https://www.youtube.com/watch?v=ytJbXHsqikw)\u2026",
+      "ro": "O manga adorabil\u0103 color despre un t\u00e2n\u0103r ce salveaz\u0103 o pisic\u0103 foarte special\u0103. Dar pisica asta nu e ceea ce pare! Kyuu-chan iubeste m\u00e2ncarea, \u00eembr\u0103\u021bi\u0219\u0103rile \u0219i fundele, dar cel mai mult, \u00eel iube\u0219te pe Hinata, t\u00e2n\u0103rul care l-a adoptat. Pe m\u0103sur\u0103 ce se obi\u0219nuiesc s\u0103 tr\u0103iasc\u0103 \u00eempreun\u0103, ei descoper\u0103 c\u0103 au mult de \u00eenv\u0103\u021bat unul de la cel\u0103lalt. Vede\u021bi via\u021ba ordinar\u0103 \u0219i extraordinar\u0103 pe care cei doi o tr\u0103iesc \u00een aceast\u0103 minunat\u0103 slice-of-life manga pentru to\u021bi iubitorii de animale \u0219i nu numai!",
+      "ru": "\u041c\u0438\u043b\u0430\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043e \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438 \u0431\u0435\u0437\u0434\u043e\u043c\u043d\u043e\u0433\u043e \u043a\u043e\u0442\u0438\u043a\u0430 \u041a\u044e \u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0440\u0435\u0448\u0430\u0435\u0442 \u0435\u0433\u043e \u043f\u0440\u0438\u044e\u0442\u0438\u0442\u044c.",
+      "pt-br": "Hinata \u00e9 um jovem trabalhador que leva uma vida mundana. No meio de uma tempestade de neve, ele acha um gato abandonado passando frio em uma caixa de papel\u00e3o, e decide o levar pra casa. O que Hinata n\u00e3o sabia \u00e9 que ele tinha acabado de pegar o melhor gato de todos!"
+    },
+    "status": "hiatus",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "b847999d-1de3-4df5-83e5-a2cf970d060a",
+    "title": {
+      "en": "Kusozako Choroin Nishiga Hachi"
+    },
+    "updatedAt": "2024-03-28T01:57:51+00:00",
+    "coverArt": "https://mangadex.org/covers/b847999d-1de3-4df5-83e5-a2cf970d060a/07ab623f-eb2a-4e1d-8802-8ebc87b34694.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30af\u30bd\u30b6\u30b3\u3061\u3087\u308d\u30a4\u30f3\u897f\u8cc0\u8702"
+      },
+      {
+        "en": "Klutzy, Gullible Nishiga Hachi"
+      },
+      {
+        "pt-br": "A ing\u00eanua e desajeitada Nishiga Hachi"
+      },
+      {
+        "ru": "\u041d\u0435\u0443\u043a\u043b\u044e\u0436\u0430\u044f \u041d\u0438\u0448\u0438\u0433\u0430 \u0425\u0430\u0442\u0438"
+      },
+      {
+        "tr": "Lanet Olas\u0131 Ezik Nishiga Hachi"
+      }
+    ],
+    "description": {
+      "en": "Nishiga Hachi, a female kouhai, wants to make our protagonist, Azuma, to care about her by constantly following him around. She always tries to get the upper hand, but because of her shitty logic and stupidity, she always ends up in tears after Azuma brushes her off. A Counter Rom-Com about a gullible kouhai heroine and a super-dry protagonist!",
+      "ja": "\u5f8c\u8f29\u306e\u5973\u306e\u5b50\u30fb\u897f\u8cc0\u8702\u306f\u3001\u69cb\u3063\u3066\u307b\u3057\u3044\u306e\u304b\u4e3b\u4eba\u516c\u306e\u6771\u9593\u306b\u3044\u3064\u3082\u3064\u304d\u307e\u3068\u3046\u3002\u30de\u30a6\u30f3\u30c8\u3092\u53d6\u308d\u3046\u3068\u3059\u308b\u8702\u3060\u304c\u3001\u5b9f\u306f\u30af\u30bd\u96d1\u9b5a\u30e1\u30f3\u30bf\u30eb\u3067\u30a2\u30db\u306e\u70ba\u3001\u6700\u5f8c\u306f\u3044\u3064\u3082\u6771\u9593\u306b\u8efd\u304f\u3042\u3057\u3089\u308f\u308c\u3066\u6d99\u76ee\u2026\u2026\uff01\u3046\u3056\u3061\u3087\u308d\u3044\u5f8c\u8f29\u30d2\u30ed\u30a4\u30f3\u3068\u8d85\u30c9\u30e9\u30a4\u4e3b\u4eba\u516c\u3067\u304a\u5c4a\u3051\u3059\u308b\u3001\u30ab\u30a6\u30f3\u30bf\u30fc\u30e9\u30d6\u30b3\u30e1\u30c7\u30a3!!",
+      "pt-br": "Nishiga Hachi, uma kouhai feminina, quer fazer com que nosso protagonista, Azuma, se importe com ela, seguindo-o constantemente. Ela sempre tenta levar vantagem, mas por causa de sua l\u00f3gica de merda e estupidez, ela sempre acaba em l\u00e1grimas depois que Azuma a ignora. Um Counter Rom-Com sobre uma hero\u00edna kouhai cr\u00e9dula e um protagonista super-seco!"
+    },
+    "status": "completed",
+    "releaseDate": 2020,
+    "contentRating": "suggestive",
+    "lastVolume": "3",
+    "lastChapter": "33"
+  },
+  {
+    "mangaId": "190616bc-7da6-45fd-abd4-dd2ca656c183",
+    "title": {
+      "en": "Ganbare, Douki-chan (Webcomic)"
+    },
+    "updatedAt": "2024-04-07T02:10:04+00:00",
+    "coverArt": "https://mangadex.org/covers/190616bc-7da6-45fd-abd4-dd2ca656c183/77253b0c-ea6f-4cfc-ac1a-6dce4faf537d.jpg",
+    "altTitles": [
+      {
+        "es": "Esfuerzate, Douki"
+      },
+      {
+        "ja-ro": "Ganbare, Doukichan"
+      },
+      {
+        "id": "Kamu Pasti Bisa, Douki-chan"
+      },
+      {
+        "en": "Do Your Best, Douki-chan"
+      },
+      {
+        "ru": "\u0414\u043e\u043a\u0438, \u0442\u044b \u0441\u043f\u0440\u0430\u0432\u0438\u0448\u044c\u0441\u044f!"
+      },
+      {
+        "ja": "\u304c\u3093\u3070\u308c\u540c\u671f\u3061\u3083\u3093"
+      },
+      {
+        "zh": "\u52a0\u6cb9\uff01\u540c\u671f\u91ac"
+      }
+    ],
+    "description": {
+      "en": "\"Cute\" love story of girls who will stop at nothing but making the eyeless protagonist theirs!"
+    },
+    "status": "completed",
+    "releaseDate": 2020,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": "222"
+  },
+  {
     "mangaId": "547b5366-e71a-400d-b48e-7d4447ac1cf3",
     "title": {
       "en": "A Parallel World With a 1:39 Male to Female Ratio Is Unexpectedly Normal"
@@ -58,45 +374,6 @@
     "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "190616bc-7da6-45fd-abd4-dd2ca656c183",
-    "title": {
-      "en": "Ganbare, Douki-chan (Webcomic)"
-    },
-    "updatedAt": "2024-04-07T02:10:04+00:00",
-    "coverArt": "https://mangadex.org/covers/190616bc-7da6-45fd-abd4-dd2ca656c183/77253b0c-ea6f-4cfc-ac1a-6dce4faf537d.jpg",
-    "altTitles": [
-      {
-        "es": "Esfuerzate, Douki"
-      },
-      {
-        "ja-ro": "Ganbare, Doukichan"
-      },
-      {
-        "id": "Kamu Pasti Bisa, Douki-chan"
-      },
-      {
-        "en": "Do Your Best, Douki-chan"
-      },
-      {
-        "ru": "\u0414\u043e\u043a\u0438, \u0442\u044b \u0441\u043f\u0440\u0430\u0432\u0438\u0448\u044c\u0441\u044f!"
-      },
-      {
-        "ja": "\u304c\u3093\u3070\u308c\u540c\u671f\u3061\u3083\u3093"
-      },
-      {
-        "zh": "\u52a0\u6cb9\uff01\u540c\u671f\u91ac"
-      }
-    ],
-    "description": {
-      "en": "\"Cute\" love story of girls who will stop at nothing but making the eyeless protagonist theirs!"
-    },
-    "status": "completed",
-    "releaseDate": 2020,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": "222"
   },
   {
     "mangaId": "ec1817a2-3d0b-4234-9269-6b8fb459e8b6",
@@ -1234,227 +1511,5 @@
     "contentRating": "safe",
     "lastVolume": "7",
     "lastChapter": "77"
-  },
-  {
-    "mangaId": "f0c504c3-56eb-4bb3-bcab-427e315319c3",
-    "title": {
-      "en": "Yougisha \"A\" no Hanayome"
-    },
-    "updatedAt": "2024-04-01T15:59:03+00:00",
-    "coverArt": "https://mangadex.org/covers/f0c504c3-56eb-4bb3-bcab-427e315319c3/62e12f82-989c-4a81-a618-0d6966b70556.jpg",
-    "altTitles": [
-      {
-        "ja": "\u5bb9\u7591\u8005A\u306e\u82b1\u5ac1"
-      },
-      {
-        "en": "The Bride of Suspect A"
-      }
-    ],
-    "description": {
-      "en": "The \"erotic love suspense\" manga centers on Hana, who returns to her family after her husband dies. She lives every day in an oppressive atmosphere, until one day her parents start talking about having a marriage interview for her with a globally renowned artist named Aoi.",
-      "ja": "\u592b\u3092\u4ea1\u304f\u3057\u3001\u5b9f\u5bb6\u306b\u623b\u3063\u305f\u7fbd\u83dc\u3002\u606f\u82e6\u3057\u3044\u6bce\u65e5\u3092\u9001\u3063\u3066\u3044\u305f\u3042\u308b\u65e5\u3001\u4e16\u754c\u7684\u306b\u6709\u540d\u306a\u753b\u5bb6\u30fb\u84bc\u4e95\u91cd\u7460\u3068\u306e\u898b\u5408\u3044\u8a71\u304c\u6301\u3061\u4e0a\u304c\u308b\u3002\u4eca\u306e\u751f\u6d3b\u304b\u3089\u9003\u308c\u308b\u305f\u3081\u306b\u3001\u84bc\u4e95\u3068\u306e\u518d\u5a5a\u3092\u53d7\u3051\u5165\u308c\u305f\u7fbd\u83dc\u3060\u3051\u3069\u2026\u5f7c\u306f\u3001\u524d\u59bb3\u4eba\u3092\u6bba\u3057\u305f\u9023\u7d9a\u6bba\u4eba\u4e8b\u4ef6\u306e\u5bb9\u7591\u8005\u3067\u2015\u2015\uff01\uff1f"
-    },
-    "status": "completed",
-    "releaseDate": 2021,
-    "contentRating": "erotica",
-    "lastVolume": "3",
-    "lastChapter": "16"
-  },
-  {
-    "mangaId": "61830b36-1712-4b7b-9421-f671e9ced6d3",
-    "title": {
-      "en": "Tonari no Neko to Koi Shirazu"
-    },
-    "updatedAt": "2024-03-29T16:33:47+00:00",
-    "coverArt": "https://mangadex.org/covers/61830b36-1712-4b7b-9421-f671e9ced6d3/749af3c3-9171-47a1-bb23-638b1b3271bd.jpg",
-    "altTitles": [
-      {
-        "ja": "\u3068\u306a\u308a\u306e\u732b\u3068\u604b\u77e5\u3089\u305a"
-      },
-      {
-        "en": "The Feline Neighbor and the Unversed-in-Love"
-      },
-      {
-        "ja": "\u3068\u306a\u306d\u3053"
-      },
-      {
-        "ja-ro": "Tonaneko"
-      }
-    ],
-    "description": {
-      "en": "Minato Seno, who has always been very shy since he was young, struggled to make friends during his first few days of high school. He also never got a glimpse of his classmate Nekozane-san's face, as she was always asleep at the desk next to him. However, one day after school, a chance encounter revealed a side of Nekozane-san that was completely different from the one Minato knew in the classroom."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "19c67156-8d76-4f25-b9ed-7978133b8366",
-    "title": {
-      "en": "Fate/Grand Order: Holy Grail Front"
-    },
-    "updatedAt": "2023-05-24T19:58:45+00:00",
-    "coverArt": "https://mangadex.org/covers/19c67156-8d76-4f25-b9ed-7978133b8366/46d0b717-5c0b-44cd-b1ac-4bd21ffc9200.jpg",
-    "altTitles": [
-      {
-        "ja": "Fate/Grand Order \u300c\u8056\u676f\u6226\u7dda\u300d"
-      }
-    ],
-    "description": {
-      "en": "Manga adaptation of the Fate/Grand Order 2020 event: Dance Tournament in the Land of Shadows ~Holy Grail War Between the Bunny and the Cat~.",
-      "fr": "Adaptation manga de l'\u00e9v\u00e9nement de Fate/Grand Order organis\u00e9 en 2020 : Dance Tournament in the Land of Shadows ~Holy Grail War Between the Bunny and the Cat~."
-    },
-    "status": "completed",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "db0ac526-46c9-41ea-be96-1959bc26a314",
-    "title": {
-      "en": "A Cool Older Lady That Makes Me Crazy"
-    },
-    "updatedAt": "2024-04-09T13:46:26+00:00",
-    "coverArt": "https://mangadex.org/covers/db0ac526-46c9-41ea-be96-1959bc26a314/e069ea38-58be-4894-aa3d-134699f911dd.png",
-    "altTitles": [
-      {
-        "ja": "\u50d5\u3092\u72c2\u308f\u3059\u30ab\u30c3\u30b3\u30a4\u30a4\u304a\u59c9\u3055\u3093"
-      },
-      {
-        "ja-ro": "Boku o Kuruwasu Kakkoii Onee-san"
-      },
-      {
-        "en": "A Cool Older Lady Who Drives Me Crazy"
-      }
-    ],
-    "description": {},
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "7e544761-7d3d-4fce-8137-719814d7d138",
-    "title": {
-      "en": "Eleceed"
-    },
-    "updatedAt": "2024-04-09T21:00:07+00:00",
-    "coverArt": "https://mangadex.org/covers/7e544761-7d3d-4fce-8137-719814d7d138/52cf193d-6862-43e8-9de4-1025c0e6e297.jpg",
-    "altTitles": [
-      {
-        "ko": "\uc77c\ub809\uc2dc\ub4dc"
-      },
-      {
-        "ru": "\u042d\u043b\u0438\u0441\u0435\u0434"
-      },
-      {
-        "ja": "\u30a8\u30ec\u30ad\u30b7\u30fc\u30c9"
-      },
-      {
-        "zh": "\u89c9\u9192\u5427\uff0c\u94f2\u5c4e\u5b98\uff01"
-      },
-      {
-        "es": "Eleceed: Velocidad el\u00e9ctrica"
-      },
-      {
-        "es-la": "Electricidad veloz"
-      }
-    ],
-    "description": {
-      "en": "Jiwoo is a kind-hearted young man who harnesses the lightning quick reflexes of a cat to secretly make the world a better place \u2013 one saved little child or foster pet at a time. Kayden is a secret agent on the run, who finds himself stuck in the body of a \u2026um\u2026 decidedly fat old fluffy cat. Together, armed with Jiwoo\u2019s super powers and Kayden\u2019s uber-smarts, they\u2019re out to fight those forces who would let evil rule this world. That is, if they can stand each other long enough to get the job done.\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "es": "Jiwoo es un joven amable que utiliza sus reflejos incre\u00edblemente r\u00e1pidos, como los de un gato, para hacer del mundo un mejor lugar salvando ni\u00f1os o mascotas. Kayden es un agente secreto pr\u00f3fugo que termina encerrado en el cuerpo de un... mmm... gato gordo, peludo y viejo. Juntos y con la ayuda de los superpoderes de Jiwoo y la inteligencia de Kayden luchar\u00e1n contra las fuerzas que desean que el mal tome control del mundo. Aunque solo lo lograr\u00e1n si consiguen soportarse lo suficiente para hacerlo.\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "fr": "Jiwoo est un jeune lyc\u00e9en au bon coeur qui utilise ses r\u00e9flexes incroyablement rapides pour rendre le monde meilleur, que ce soit en sauvant un petit enfant ou bien un animal de compagnie. Kayden est un agent secret fugitif qui finit par \u00eatre enferm\u00e9 dans le corps d'un... euh... vieux, gros chat tout poilu. Ensemble, et \u00e9quip\u00e9s des superpouvoirs de Jiwoo et de l'intelligence de Kayden, ils lutteront contre les forces obscures qui veulent que le mal domine le monde... mais seulement s'ils arrivent \u00e0 bien s'entendre !\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "id": "Kolaborasi yang luar biasa dari author \"Noblesse\" dan author \"Girls the Wild's\"! Kisah aksi fantasi mengenai Kaiden yang jiwanya masuk ke seekor kucing gendut dan Jiwoo yang suka menyembunyikan kekuatannya!\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "ja": "\u6575\u306e\u4e0d\u610f\u6253\u3061\u3067\u6df1\u3044\u50b7\u3092\u8ca0\u3044\u3001\u732b\u306e\u4f53\u306b\u8eab\u3092\u96a0\u3057\u305f\u899a\u9192\u8005\u306e\u30ab\u30a4\u30c9\u3002\u732b\u597d\u304d\u306e\u4e3b\u4eba\u516c\u30fb\u52c7\u7fbd\u306b\u52a9\u3051\u3089\u308c\u308b\u304c\u2026 \u300e\u30ce\u30d6\u30ec\u30b9\u300f X \u300e\u5c11\u5973\u30b6\u30ef\u30a4\u30eb\u30ba\u300f\u4f5c\u5bb6\u3089\u306b\u3088\u308b\u723d\u5feb\u30a2\u30af\u30b7\u30e7\u30f3\uff01\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "ko": "<\ub178\ube14\ub808\uc2a4> \uc190\uc81c\ud638 \uc791\uac00\uc640 <\uc18c\ub140\ub354\uc640\uc77c\uc988> \uc81c\ub098 \uc791\uac00\uac00 \ub9cc\ub0ac\ub2e4!\n\uace0\uc591\uc774 \ubab8\uc5d0 \uae43\ub4e0 \uac01\uc131\uc790 \uce74\uc774\ub4e0\uacfc \uac01\uc131\ub2a5\ub825\uc744 \uc228\uaca8\uc628 \uace0\ub4f1\ud559\uc0dd \uc9c0\uc6b0\n\ub7ec\ube14\ub9ac 2\uc778\uc870\uc758 \uc561\uc158 \ud310\ud0c0\uc9c0\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "ru": "\u041a\u0430\u0439\u0434\u0435\u043d - \u0437\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043b\u043e\u0432\u043d\u043e \u043a\u043e\u043c\u0435\u0442\u0430 \u0441\u043f\u0443\u0441\u0442\u0438\u043b\u0441\u044f \u0441 \u043d\u0435\u0431\u0430. \u0412\u0435\u0441\u044c \u0438\u0437\u0440\u0430\u043d\u0435\u043d\u043d\u044b\u0439, \u043f\u043e\u0447\u0442\u0438 \u043f\u043e\u0442\u0435\u0440\u044f\u0432\u0448\u0438\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0441\u0438\u043b\u044b, \u043e\u043d \u0440\u0435\u0448\u0430\u0435\u0442 \u0441\u043a\u0440\u044b\u0442\u044c \u0441\u0432\u043e\u0435 \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 - \u0432\u0435\u0434\u044c \u043f\u043e-\u0434\u0440\u0443\u0433\u043e\u043c\u0443 \u043e\u0442 \u043f\u043e\u0433\u043e\u043d\u0438 \u043d\u0435 \u0443\u0439\u0442\u0438. \u041f\u043e \u0434\u043e\u0440\u043e\u0433\u0435 \u041a\u0430\u0439\u0434\u0435\u043d \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442 \u043e\u0431\u044b\u0447\u043d\u0443\u044e \u0434\u0432\u043e\u0440\u043e\u0432\u0443\u044e \u043a\u043e\u0448\u043a\u0443 \u0438, \u043f\u043e\u0447\u0442\u0438 \u043d\u0435 \u0434\u0443\u043c\u0430\u044f, \u0440\u0435\u0448\u0430\u0435\u0442 \u0432\u0441\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 \u0435\u0435 \u0442\u0435\u043b\u043e. \u0421\u043e \u0427\u0436\u0438 \u0423 - \u044d\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u044b\u0439 \u0438 \u043e\u0431\u0449\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0438\u0437 \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u0448\u043a\u043e\u043b\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0447\u0435\u043d\u044c \u043b\u044e\u0431\u0438\u0442 \u043a\u043e\u0448\u0435\u043a. \u041e\u0434\u0438\u043d \u0440\u0430\u0437 \u043f\u043e \u043f\u0443\u0442\u0438 \u0434\u043e\u043c\u043e\u0439 \u043e\u043d \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442 \u0434\u043e \u0431\u043e\u043b\u0438 \u043f\u043e\u0442\u0440\u0435\u043f\u0430\u043d\u043d\u043e\u0433\u043e \u043a\u043e\u0442\u0430 \u0438 \u0431\u0435\u0440\u0435\u0442 \u0435\u0433\u043e \u043a \u0441\u0435\u0431\u0435 \u0434\u043e\u043c\u043e\u0439. \u041d\u0430\u0448 \u0423 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043e\u0431\u0440\u044b\u0439, \u043d\u043e \u0435\u0449\u0435 \u0438 \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u043e\u0434\u043d\u043e\u0439 \u0441\u043a\u0440\u044b\u0442\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e. \u041a\u0430\u043a\u043e\u0439 \u0436\u0435?\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "th": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e19\u0e31\u0e01\u0e40\u0e02\u0e35\u0e22\u0e19 Son Je-ho \u0e08\u0e32\u0e01 <\u0e42\u0e19\u0e40\u0e1a\u0e25\u0e2a> \u0e41\u0e25\u0e30 Zhena \u0e08\u0e32\u0e01 <\u0e27\u0e35\u0e19 \u0e40\u0e2b\u0e27\u0e35\u0e48\u0e22\u0e07 WILD \u0e21\u0e31\u0e18\u0e22\u0e21\u0e2a\u0e32\u0e27\u0e1e\u0e31\u0e19\u0e18\u0e38\u0e4c\u0e14\u0e38>! \u0e41\u0e2d\u0e47\u0e01\u0e0a\u0e31\u0e19\u0e41\u0e1f\u0e19\u0e15\u0e32\u0e0b\u0e35\u0e2a\u0e38\u0e14\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01 \u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e02\u0e2d\u0e07 \"\u0e44\u0e04\u0e40\u0e14\u0e19\" \u0e1c\u0e39\u0e49\u0e21\u0e35\u0e1e\u0e25\u0e31\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e41\u0e15\u0e48\u0e41\u0e1d\u0e07\u0e15\u0e31\u0e27\u0e14\u0e49\u0e27\u0e22\u0e01\u0e32\u0e23\u0e2a\u0e34\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e23\u0e48\u0e32\u0e07\u0e41\u0e21\u0e27 \u0e41\u0e25\u0e30 \"\u0e08\u0e35\u0e2d\u0e39\" \u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19\u0e2b\u0e19\u0e38\u0e48\u0e21\u0e17\u0e32\u0e2a\u0e41\u0e21\u0e27\u0e41\u0e2a\u0e19\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32\u0e17\u0e35\u0e48\u0e41\u0e2d\u0e1a\u0e0b\u0e48\u0e2d\u0e19\u0e1e\u0e25\u0e31\u0e07\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32\u0e40\u0e2d\u0e32\u0e44\u0e27\u0e49\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "zh": "\u8d85\u5f3a\u89c9\u9192\u8005\u610f\u5916\u53d8\u8eab\u80d6\u6a58\uff0c\n\u6ca1\u60f3\u5230\u94f2\u5c4e\u5b98\u4e5f\u6709\u8d85\u80fd\u529b!\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)",
-      "pt-br": "Ji-U \u00e9 um jovem de bom cora\u00e7\u00e3o que aproveita os reflexos r\u00e1pidos de um gato para secretamente tornar o mundo um lugar melhor - uma crian\u00e7a salva ou um animal de estima\u00e7\u00e3o adotivo de cada vez. Kayden \u00e9 um agente secreto em fuga, que se encontra preso no corpo de um... hum... decididamente gordo velho gato fofo. Juntos, armados com os superpoderes de Ji-U e a super intelig\u00eancia de Kayden, eles est\u00e3o prontos para lutar contra as for\u00e7as que deixariam o mal governar este mundo. Isto \u00e9, se eles aguentarem um ao outro tempo suficiente para fazer o trabalho.\n\n---\n- [Official Simplified Chinese Translation](https://www.dongmanmanhua.cn/FANTASY/juexingbachanshiguan/list?title_no=1313)\n- [Official Spanish <Es> Translation](https://www.webtoons.com/es/action/eleceed/list?title_no=2642)\n- [Official Indonesian Translation](https://www.webtoons.com/id/fantasy/eleceed/list?title_no=2034)\n- [Official Japanese Translation](https://manga.line.me/product/periodic?id=Z0000883)\n- [Official French Translation](https://www.webtoons.com/fr/fantasy/eleceed/list?title_no=2861)\n- [Official Thai Translation](https://www.webtoons.com/th/fantasy/eleceed/list?title_no=3523)"
-    },
-    "status": "ongoing",
-    "releaseDate": 2018,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "630a0b98-4846-4f4c-9727-76175b69db85",
-    "title": {
-      "en": "One + One"
-    },
-    "updatedAt": "2023-12-22T20:33:41+00:00",
-    "coverArt": "https://mangadex.org/covers/630a0b98-4846-4f4c-9727-76175b69db85/0793f9d6-3b77-46b5-befb-795ec0491e87.png",
-    "altTitles": [
-      {
-        "zh": "1\u52a01"
-      },
-      {
-        "en": "One Plus One"
-      },
-      {
-        "zh-hk": "1\u52a01"
-      }
-    ],
-    "description": {
-      "en": "The innocent and independent Mian Hua and the cautious and conservative Lan Bao. The two people met coincidentally while one was renting a house. What kind of love sparks will emerge from two people who have very different worldviews, values, \u200b\u200band outlooks on life? From the same creator of the fluffy love story <One Minute Underwater>, Bao-Ah. How will she utilize her elegant writing style and an adorable plot to create a \u201cnext-door neighbor\u201d type of romantic drama set in Hong Kong\u2026~"
-    },
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": null
-  },
-  {
-    "mangaId": "bfd18f9d-5441-43e5-8b37-1e83de3758c4",
-    "title": {
-      "en": "Shibatarian"
-    },
-    "updatedAt": "2024-03-28T15:18:39+00:00",
-    "coverArt": "https://mangadex.org/covers/bfd18f9d-5441-43e5-8b37-1e83de3758c4/4c36a3b1-d0ed-4bdf-9ca8-914576afe821.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30b7\u30d0\u30bf\u30ea\u30a2\u30f3"
-      },
-      {
-        "ru": "C\u0438\u0431\u0430\u0442\u0430\u0440\u0438\u0430\u043d\u0435\u0446"
-      },
-      {
-        "th": "\u0e0a\u0e32\u0e27\u0e0a\u0e34\u0e1a\u0e32\u0e15\u0e30"
-      }
-    ],
-    "description": {
-      "en": "In the spring of my third year of middle school, I found Shibata buried beneath a sakura tree. We watched movies and became fast friends, even planned to make a movie together for the school festival...but no one at school seemed to know him. I will discover Shibata and the whole world will turn into Shibata. This is a story of, by, and for Shibata. Now showing in a theater near you."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "0f09ad8a-fd05-4260-adef-7282db098086",
-    "title": {
-      "en": "I Can\u2019t Sleep With This Sex Animal"
-    },
-    "updatedAt": "2024-01-03T18:22:48+00:00",
-    "coverArt": "https://mangadex.org/covers/0f09ad8a-fd05-4260-adef-7282db098086/bda0eb65-1686-4cde-81bf-5f030dd0e6ef.png",
-    "altTitles": [
-      {
-        "ja": "\u3053\u3093\u306a\u6027\u7363\u3068\u5bdd\u3066\u306f\u3044\u3051\u306a\u3044\u3002"
-      }
-    ],
-    "description": {
-      "en": "\\\"The boy that I fell in love with was a beast driven by lust.\\\" During high school, Aya was brutally rejected by the most troublesome student on campus: Hayate. However, three years later, she meets him again in an unexpected place and becomes his tutor...? The two of them are alone in a locked room, a dangerous area where the sinful smell of lust fills the room...  There's no time for studying when he constantly harasses me! He rubs my nipples so lovingly, and my pussy gets all mushy and tender.... He finally confesses \\\"I was so happy when you confessed to me,\\\" making Aya fall into a trance of embarassment and happiness."
-    },
-    "status": "completed",
-    "releaseDate": null,
-    "contentRating": "erotica",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
