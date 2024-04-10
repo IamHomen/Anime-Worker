@@ -73,6 +73,39 @@
     "lastChapter": "126"
   },
   {
+    "mangaId": "d4a253b3-a4ee-4731-9be0-21003cb6fb1f",
+    "title": {
+      "en": "Hyaku Monogatari"
+    },
+    "updatedAt": "2023-11-01T04:24:14+00:00",
+    "coverArt": "https://mangadex.org/covers/d4a253b3-a4ee-4731-9be0-21003cb6fb1f/53df8f61-6eab-40b4-bfcc-0e67edf51161.jpg",
+    "altTitles": [
+      {
+        "en": "A Hundred Stories"
+      },
+      {
+        "ja-ro": "Hyaku Monogatari"
+      },
+      {
+        "ja": "\u767e\u7269\u8a9e"
+      },
+      {
+        "en": "100 Stories"
+      },
+      {
+        "ru": "\u0421\u0442\u043e \u0438\u0441\u0442\u043e\u0440\u0438\u0439"
+      }
+    ],
+    "description": {
+      "en": "99 ghost stories, by the late Garo mangaka and Edo expert, Sugiura Hinako."
+    },
+    "status": "completed",
+    "releaseDate": 1988,
+    "contentRating": "safe",
+    "lastVolume": "1",
+    "lastChapter": "99"
+  },
+  {
     "mangaId": "a846b1d7-2e57-4622-acdf-9c584d07ce7f",
     "title": {
       "en": "I Became the Tyrant of a Defense Game"
@@ -1741,39 +1774,6 @@
     },
     "status": "ongoing",
     "releaseDate": 2013,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9",
-    "title": {
-      "en": "Burning Kabaddi"
-    },
-    "updatedAt": "2023-12-27T22:24:38+00:00",
-    "coverArt": "https://mangadex.org/covers/1aca5c7d-f9db-4b8f-90a3-d56bf357ecb9/12a3a6f8-c0d5-4c04-9c10-2b10f049b945.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Shakunetsu Kabaddi"
-      },
-      {
-        "ta": "\u0b8e\u0bb0\u0bbf\u0baf\u0bc1\u0bae\u0bcd \u0b95\u0baa\u0b9f\u0bbf"
-      },
-      {
-        "ja": "\u707c\u71b1\u30ab\u30d0\u30c7\u30a3"
-      },
-      {
-        "hi": "Jwalit Kabaddi"
-      },
-      {
-        "hi": "\u0927\u0927\u0915\u0924\u0940 \u0915\u092c\u0921\u094d\u0921\u0940"
-      }
-    ],
-    "description": {
-      "en": "The story centres on first-year high school student Tatsuya Yoigoshi, a former ace soccer player who dislikes sports. \nHe gets invited to join the team for an Indian contact sport called Kabaddi. \nHe scoffs at the idea at first but becomes interested after watching a kabaddi practice."
-    },
-    "status": "ongoing",
-    "releaseDate": 2015,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
