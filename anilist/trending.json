@@ -56,14 +56,6 @@
     "format": "TV"
   },
   {
-    "id": 154587,
-    "title": "Sousou no Frieren",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 28,
-    "format": "TV"
-  },
-  {
     "id": 145728,
     "title": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145728-YUKXjN2E81Pq.jpg",
@@ -72,17 +64,25 @@
     "format": "TV"
   },
   {
-    "id": 151807,
-    "title": "Ore dake Level Up na Ken",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
+    "id": 154587,
+    "title": "Sousou no Frieren",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 28,
     "format": "TV"
   },
   {
     "id": 166873,
     "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-JC56ExYSC2YB.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 151807,
+    "title": "Ore dake Level Up na Ken",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -104,38 +104,6 @@
     "format": "TV"
   },
   {
-    "id": 156822,
-    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
-    "id": 166610,
-    "title": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 161645,
-    "title": "Kusuriya no Hitorigoto",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-bX5S28Cc1Nnk.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
-    "id": 156415,
-    "title": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156415-zwP9deA786S1.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": null,
-    "format": "TV"
-  },
-  {
     "id": 153518,
     "title": "Dungeon Meshi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153518-LEK6pAXtI03D.jpg",
@@ -152,6 +120,14 @@
     "format": "TV"
   },
   {
+    "id": 161645,
+    "title": "Kusuriya no Hitorigoto",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-bX5S28Cc1Nnk.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
     "id": 151970,
     "title": "Shangri-La Frontier",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-ld9HtIKiv7xo.jpg",
@@ -165,6 +141,30 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
     "seasonYear": 2024,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 166610,
+    "title": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 156822,
+    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 156415,
+    "title": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156415-zwP9deA786S1.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -192,6 +192,22 @@
     "format": "TV"
   },
   {
+    "id": 163078,
+    "title": "Yoru no Kurage wa Oyogenai",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 155657,
+    "title": "Shuumatsu Train Doko e Iku?",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
     "id": 170130,
     "title": "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170130-tvhn13WYQ2qM.jpg",
@@ -208,19 +224,11 @@
     "format": "TV"
   },
   {
-    "id": 145064,
-    "title": "Jujutsu Kaisen 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-FwX2pzE4mS8Q.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 23,
-    "format": "TV"
-  },
-  {
-    "id": 163078,
-    "title": "Yoru no Kurage wa Oyogenai",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
+    "id": 137908,
+    "title": "Chiyu Mahou no Machigatta Tsukaikata",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137908-50af3lKVbst2.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 12,
+    "totalEpisode": 13,
     "format": "TV"
   },
   {
@@ -232,49 +240,9 @@
     "format": "TV"
   },
   {
-    "id": 155657,
-    "title": "Shuumatsu Train Doko e Iku?",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 137908,
-    "title": "Chiyu Mahou no Machigatta Tsukaikata",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137908-50af3lKVbst2.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
-    "id": 156023,
-    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156023-cY4NC8gCcAg7.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 167927,
     "title": "Boukyaku Battery (TV)",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167927-eHWavr99BeTj.png",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 160589,
-    "title": "Blue Archive The Animation",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160589-QBvUpgARwgMA.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": null,
-    "format": "TV"
-  },
-  {
-    "id": 169698,
-    "title": "Tadaima, Okaeri",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169698-pmIhuxlGufON.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -288,19 +256,35 @@
     "format": "TV"
   },
   {
-    "id": 154116,
-    "title": "Undead Unluck",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154116-ypBL1uGj3qMG.png",
-    "seasonYear": 2023,
-    "totalEpisode": 24,
+    "id": 156023,
+    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156023-cY4NC8gCcAg7.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 165254,
-    "title": "BUCCHIGIRI?!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165254-VyebZ8cyb0u0.jpg",
+    "id": 145064,
+    "title": "Jujutsu Kaisen 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-FwX2pzE4mS8Q.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 23,
+    "format": "TV"
+  },
+  {
+    "id": 169698,
+    "title": "Tadaima, Okaeri",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169698-pmIhuxlGufON.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 160589,
+    "title": "Blue Archive The Animation",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160589-QBvUpgARwgMA.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -312,19 +296,19 @@
     "format": "ONA"
   },
   {
-    "id": 166794,
-    "title": "Yubisaki to Renren",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166794-veSLL0zrrBhp.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
+    "id": 11061,
+    "title": "HUNTER\u00d7HUNTER (2011)",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
+    "seasonYear": 2011,
+    "totalEpisode": 148,
     "format": "TV"
   },
   {
-    "id": 20665,
-    "title": "Shigatsu wa Kimi no Uso",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-zuhC5OO6XgZ7.png",
-    "seasonYear": 2014,
-    "totalEpisode": 22,
+    "id": 166216,
+    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166216-JVyN7PHel5K9.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 13,
     "format": "TV"
   },
   {
@@ -336,19 +320,27 @@
     "format": "TV"
   },
   {
-    "id": 153818,
-    "title": "Majo to Yajuu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153818-FWvl0RL6vDbq.png",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
+    "id": 154116,
+    "title": "Undead Unluck",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154116-ypBL1uGj3qMG.png",
+    "seasonYear": 2023,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
-    "id": 11061,
-    "title": "HUNTER\u00d7HUNTER (2011)",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
-    "seasonYear": 2011,
-    "totalEpisode": 148,
+    "id": 20665,
+    "title": "Shigatsu wa Kimi no Uso",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-zuhC5OO6XgZ7.png",
+    "seasonYear": 2014,
+    "totalEpisode": 22,
+    "format": "TV"
+  },
+  {
+    "id": 166794,
+    "title": "Yubisaki to Renren",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166794-veSLL0zrrBhp.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -360,25 +352,17 @@
     "format": "TV"
   },
   {
-    "id": 162985,
-    "title": "Metallic Rouge",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162985-3J7PrG5oO67v.jpg",
+    "id": 165254,
+    "title": "BUCCHIGIRI?!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165254-VyebZ8cyb0u0.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
-    "id": 151801,
-    "title": "MASHLE",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-wYg28dEaJAw3.png",
-    "seasonYear": 2023,
     "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 164702,
-    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg",
+    "id": 153818,
+    "title": "Majo to Yajuu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153818-FWvl0RL6vDbq.png",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -392,11 +376,27 @@
     "format": "TV"
   },
   {
-    "id": 166216,
-    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166216-JVyN7PHel5K9.jpg",
+    "id": 1735,
+    "title": "NARUTO: Shippuuden",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png",
+    "seasonYear": 2007,
+    "totalEpisode": 500,
+    "format": "TV"
+  },
+  {
+    "id": 162985,
+    "title": "Metallic Rouge",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162985-3J7PrG5oO67v.jpg",
     "seasonYear": 2024,
     "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
+    "id": 164702,
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164702-FjpM96MPdzVm.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   }
 ]
