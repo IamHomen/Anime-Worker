@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "kenka-dokugaku",
+    "animeTitle": "Kenka Dokugaku",
+    "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/kenka-dokugaku-episode-1"
+  },
+  {
     "animeId": "bartender-kami-no-glass",
     "animeTitle": "Bartender: Kami no Glass",
     "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tadaima-okaeri.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.to/tadaima-okaeri-episode-1"
-  },
-  {
-    "animeId": "remonster",
-    "animeTitle": "Re:Monster",
-    "animeImg": "https://gogocdn.net/cover/remonster-1711737486.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.to/remonster-episode-2"
   }
 ]
