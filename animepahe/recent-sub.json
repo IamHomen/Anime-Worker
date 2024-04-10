@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62371,
+      "anime_id": 5525,
+      "anime_title": "Bartender: Kami no Glass",
+      "anime_session": "5c809170-f9f6-b581-f0aa-77fcae407a79",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/ce07cdaaff491b58f9781e374df0abf1afe90d943ed00c522cd3f8dc482cd308.jpg",
+      "disc": "",
+      "session": "0f63fe6e09e5eac508c716918c0607ac0ba597c1a5160dc15f9facca3f2e9ae2",
+      "filler": 0,
+      "created_at": "2024-04-10 16:34:19",
+      "completed": 0
+    },
+    {
       "id": 62370,
       "anime_id": 5513,
       "anime_title": "Date A Live V",
@@ -182,22 +198,6 @@
       "session": "4f63e3df3b9c11277a1cb4494436a1e6f634be69925fe1754447b3aa5397ce8b",
       "filler": 0,
       "created_at": "2024-04-08 16:35:40",
-      "completed": 0
-    },
-    {
-      "id": 62359,
-      "anime_id": 5539,
-      "anime_title": "Re:Monster",
-      "anime_session": "79377cba-ab38-7734-ab1b-f09d8de90fe0",
-      "episode": 2,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/1a879c4c4c1a9c0062688ac732e4d0d421dc2e9483697a83fa9c2218378f8d77.jpg",
-      "disc": "",
-      "session": "419bb16a19375b3013e3b650bc025d88f1e6f08c4ff0f1564311e2c155e26de0",
-      "filler": 0,
-      "created_at": "2024-04-08 15:35:00",
       "completed": 0
     }
   ]
