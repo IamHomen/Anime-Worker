@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "date-a-live-v",
+    "animeTitle": "Date A Live V",
+    "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.to/date-a-live-v-episode-1"
+  },
+  {
     "animeId": "kaii-to-otome-to-kamikakushi",
     "animeTitle": "Kaii to Otome to Kamikakushi",
     "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
     "episode": "Episode 14",
     "animeUrl": "https://anitaku.to/tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-14"
-  },
-  {
-    "animeId": "shuumatsu-train-doko-e-iku",
-    "animeTitle": "Shuumatsu Train Doko e Iku?",
-    "animeImg": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.to/shuumatsu-train-doko-e-iku-episode-2"
   }
 ]

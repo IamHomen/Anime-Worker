@@ -74,6 +74,21 @@
     ]
   },
   {
+    "animeId": "date-a-live-v",
+    "animeTitle": "Date A Live V",
+    "animeImg": "'https://gogocdn.net/cover/date-a-live-v.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.to/category/date-a-live-v",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Harem",
+      "Romance",
+      "School",
+      "Sci-Fi"
+    ]
+  },
+  {
     "animeId": "boku-no-hero-academia-7th-season",
     "animeTitle": "Boku no Hero Academia 7th Season",
     "animeImg": "'https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png'",
@@ -125,21 +140,6 @@
       "Historical",
       "Medical",
       "Mystery"
-    ]
-  },
-  {
-    "animeId": "detective-conan",
-    "animeTitle": "Detective Conan",
-    "animeImg": "'https://gogocdn.net/cover/detective-conan.png'",
-    "latestEp": "Episode 1119",
-    "animeUrl": "https://anitaku.to/category/detective-conan",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Mystery",
-      "Police",
-      "Psychological",
-      "Shounen"
     ]
   }
 ]
