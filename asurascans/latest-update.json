@@ -1,5 +1,19 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/",
+    "animeTitle": "I Killed an Academy Player",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/IKilledanAcademyPlayerCover01.png",
+    "episode": "Chapter 28",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-sss-class-ranker/",
+    "animeTitle": "Return of the SSS-Class Ranker",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/08/ReturnSSSCover01.png",
+    "episode": "Chapter 99",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-sss-class-ranker/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-pick-me-up-infinite-gacha/",
     "animeTitle": "Pick Me Up, Infinite Gacha",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/12/infiniteGachaCover03.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/04/kapkaw-copy-222x300.jpg",
     "episode": "Chapter 151",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-constellation-that-returned-from-hell/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-dungeon-defense/",
-    "animeTitle": "Dungeon Defense",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/mode3_w720-\u30c0\u30f3\u30b8\u30e7\u30f3\u30c7\u30a3\u30d5\u30a7\u30f3\u30b9_\u30b5\u30e0\u30cd\u30a4\u30eb\u30af\u30ec\u30b8\u30c3\u30c8\u6700\u7d42\u7248Photoauto_scaleLevel3width-2000.jpg",
-    "episode": "Chapter 23",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-dungeon-defense/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-terminally-ill-young-master-of-the-baek-clan/",
-    "animeTitle": "The Terminally Ill Young Master of the Baek Clan",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/08/TheTerminallyIllYoungMasteroftheBaekClanCover01.png",
-    "episode": "Chapter 38 - Tri-Elemental Holy Flower",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-terminally-ill-young-master-of-the-baek-clan/"
   }
 ]
