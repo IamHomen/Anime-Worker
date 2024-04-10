@@ -43,33 +43,33 @@ def scrape_anime_info(ids):
 
         soup = BeautifulSoup(animePageTest.content, 'html.parser')
 
-    animeTitle_elem = soup.select_one('div.anime_info_body_bg > h1')
-    animeTitle = animeTitle_elem.text if animeTitle_elem else None
+        animeTitle_elem = soup.select_one('div.anime_info_body_bg > h1')
+        animeTitle = animeTitle_elem.text if animeTitle_elem else None
 
-    animeImg_elem = soup.select_one('div.anime_info_body_bg > img')
-    animeImg = animeImg_elem['src'] if animeImg_elem else None
+        animeImg_elem = soup.select_one('div.anime_info_body_bg > img')
+        animeImg = animeImg_elem['src'] if animeImg_elem else None
 
-    type_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Type:)) > a')
-    type = type_elem.text if type_elem else None
+        type_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Type:)) > a')
+        type = type_elem.text if type_elem else None
 
-    desc_elem = soup.select_one('div.anime_info_body_bg > div.description')
-    desc = desc_elem.text.replace('Plot Summary: ', '') if desc_elem else None
+        desc_elem = soup.select_one('div.anime_info_body_bg > div.description')
+        desc = desc_elem.text.replace('Plot Summary: ', '') if desc_elem else None
 
-    releasedDate_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Released:))')
-    releasedDate = releasedDate_elem.text.replace('Released: ', '') if releasedDate_elem else None
+        releasedDate_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Released:))')
+        releasedDate = releasedDate_elem.text.replace('Released: ', '') if releasedDate_elem else None
 
-    status_elem = soup.select_one('div.anime_info_body_bg > p.type:has(a:contains(Ongoing))')
-    status = status_elem.text if status_elem else None
+        status_elem = soup.select_one('div.anime_info_body_bg > p.type:has(a:contains(Ongoing))')
+        status = status_elem.text if status_elem else None
 
-    otherName_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Other name:))')
-    otherName = otherName_elem.text.replace('Other name: ', '').replace(';', ',') if otherName_elem else None
+        otherName_elem = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Other name:))')
+        otherName = otherName_elem.text.replace('Other name: ', '').replace(';', ',') if otherName_elem else None
 
-    genres = []
-    for genre in soup.select('div.anime_info_body_bg > p:nth-child(7) > a'):
-        genres.append({
+        genres = []
+         for genre in soup.select('div.anime_info_body_bg > p:nth-child(7) > a'):
+           genres.append({
             'genre_title': genre['title'],
             'genre_url': genre['href']
-        })
+            })
 
         ep_start = soup.select_one('#episode_page > li').find('a')['ep_start']
         ep_end = soup.select_one('#episode_page > li:last-child').find('a')['ep_end']
