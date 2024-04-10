@@ -1,5 +1,29 @@
 [
   {
+    "mangaId": "59d890a9-479a-45d9-bda5-8855444a7e7e",
+    "title": {
+      "en": "OVERWATCH 2 - Guardian of Kanezaka -"
+    },
+    "updatedAt": "2024-04-03T14:42:40+00:00",
+    "coverArt": "https://mangadex.org/covers/59d890a9-479a-45d9-bda5-8855444a7e7e/4b579858-66ff-458f-b6ad-b9e3b94f3a0f.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "OVERWATCH 2: Kanezaka no Moribito"
+      },
+      {
+        "ja": "OVERWATCH\uff12\u3000\u2015\u9244\u5742\u306e\u5b88\u308a\u4eba\u2015"
+      }
+    ],
+    "description": {
+      "en": "A manga based on the popular action shooter game Overwatch 2! Kiriko is a popular character from the game who has been secretly fighting against evil to protect her homeland, Kanezaka."
+    },
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "10fab94e-2227-47e2-b059-f4762eb5ca4e",
     "title": {
       "en": "Jii-san To Baa-san Wakagaeru"
@@ -1691,30 +1715,6 @@
     "releaseDate": 2024,
     "contentRating": "safe",
     "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "cf501b93-d5cd-4cce-bf2e-22a263275ff7",
-    "title": {
-      "en": "Shin Megami Tensei Apocrypha: War of the Dove"
-    },
-    "updatedAt": "2024-04-04T07:00:57+00:00",
-    "coverArt": "https://mangadex.org/covers/cf501b93-d5cd-4cce-bf2e-22a263275ff7/494008be-bb15-4891-a286-054d5b2e7e31.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Shin Megami Tensei Gaiten - Hato no Senki"
-      },
-      {
-        "ja": "\u771f\u30fb\u5973\u795e\u8ee2\u751f\u5916\u5178 \u9ce9\u306e\u6226\u8a18"
-      }
-    ],
-    "description": {
-      "en": "A standalone story set in the larger Megami Tensei universe. Our hero Hato is just an ordinary schoolboy, until one day he receives a ~~Command Spell~~ Stigma on his left hand, forges a contract with ~~Lancer~~ Cu Chulainn to become his master, and is unwittingly dragged into a city-wide Holy ~~Grail~~ War."
-    },
-    "status": "completed",
-    "releaseDate": 2001,
-    "contentRating": "safe",
-    "lastVolume": "3",
     "lastChapter": ""
   }
 ]
