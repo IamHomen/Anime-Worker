@@ -115,7 +115,7 @@ def scrape_anime_info(ids):
             genres.append(genre['title'].strip())
 
         ep_start = soup.select_one('#episode_page > li').find('a')['ep_start']
-        ep_end = soup.select_one('#episode_page > li:last-child').find('a')['ep_end']
+        ep_end = soup.select_one('#episode_page > li').find('a')['ep_end']
         movie_id = soup.select_one('#movie_id')['value']
         alias = soup.select_one('#alias_anime')['value']
 
