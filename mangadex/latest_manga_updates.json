@@ -1,5 +1,38 @@
 [
   {
+    "mangaId": "2d68c7b8-6085-49cb-9c44-ec16805481da",
+    "title": {
+      "en": "Appleseed"
+    },
+    "updatedAt": "2022-07-09T00:04:15+00:00",
+    "coverArt": "https://mangadex.org/covers/2d68c7b8-6085-49cb-9c44-ec16805481da/521d0471-bea8-4290-a52b-168dd5752bf6.jpg",
+    "altTitles": [
+      {
+        "ru": "\u042f\u0431\u043b\u043e\u0447\u043d\u043e\u0435 \u0437\u0451\u0440\u043d\u044b\u0448\u043a\u043e"
+      },
+      {
+        "ru": "\u042f\u0431\u043b\u043e\u0447\u043d\u043e\u0435 \u0441\u0435\u043c\u044f"
+      },
+      {
+        "ja": "\u30a2\u30c3\u30d7\u30eb\u30b7\u30fc\u30c9"
+      },
+      {
+        "ko": "\uc560\ud50c\uc2dc\ub4dc"
+      },
+      {
+        "ja-ro": "Appurush\u012bdo"
+      }
+    ],
+    "description": {
+      "en": "World War III is over, and nomad soldier Duenan Knute and her cyborg partner Briareos struggle to survive in the abandoned cities and demilitarized zones of the post-war wasteland, the \"Badside.\" Matters appear on the upswing, however, when they are found and brought to Olympus, an urban utopia and centerpiece for the reconstruction of civilization. Duenan and Bri join the Olympus police, a force that seems hardly necessary in such a paradise. But, like in most pretty pictures, perfection is an illusion, and Olympus's peaceful fa\u00e7ade hides a dark secret, a violent struggle between human and cyborg that could once again plunge the world into war\u2026 and genocide.\n\n**Was supposed to receive a 5th Volume which was partially finished and distributed into the English version's Hypernotes and ID. The series remains unfinished.**\n\n---\n- **Won the Seiun Award for Best Comic in 1986**"
+    },
+    "status": "cancelled",
+    "releaseDate": 1985,
+    "contentRating": "suggestive",
+    "lastVolume": "4",
+    "lastChapter": "25"
+  },
+  {
     "mangaId": "df361a38-eef6-4674-bec6-86d08aa1d1aa",
     "title": {
       "en": "Ogami Tsumiki to Kinichijou."
@@ -1600,28 +1633,5 @@
     "contentRating": "safe",
     "lastVolume": "5",
     "lastChapter": "39"
-  },
-  {
-    "mangaId": "af21fa9b-3adb-43d4-8f58-2d57b0b60b5a",
-    "title": {
-      "en": "Circle"
-    },
-    "updatedAt": "2024-02-19T18:25:25+00:00",
-    "coverArt": "https://mangadex.org/covers/af21fa9b-3adb-43d4-8f58-2d57b0b60b5a/b2631979-8f30-4276-b818-d7e39dc3fa7f.png",
-    "altTitles": [
-      {
-        "pl": "Kr\u0105g"
-      }
-    ],
-    "description": {
-      "en": "The best way for the diverse human beings who make up society to unite is to find themselves a common enemy. School is a mini-version of society, so why shouldn't the same thing happen in a classroom setting?  \n  \nThis particular class has chosen Xiao Shang to be that common enemy. But one of its more popular students soon finds himself becoming intrigued by Shang's unapologetic, straightforward way of life.  \n\nThis comic is posted for free on the author's weibo: <https://weibo.com/u/3567976483>",
-      "pl": "Naj\u0142atwiejszym sposobem zjednoczenia si\u0119 r\u00f3\u017cnorodnych jednostek, kt\u00f3re tworz\u0105 spo\u0142ecze\u0144stwo, jest znalezienie wsp\u00f3lnego wroga. Szko\u0142a jest mini spo\u0142ecze\u0144stwem, wi\u0119c czy to samo nie powinno odbywa\u0107 si\u0119 w klasie? Ta konkretna klasa wybra\u0142a na wsp\u00f3lnego wroga Xu Shanga. Ale wkr\u00f3tce jeden z najpopularniejszych uczni\u00f3w w szkole staje si\u0119 zaintrygowany specyficznym \u017cyciem Shanga.",
-      "pt-br": "Ao e Xun s\u00e3o amigos desde a inf\u00e2ncia que mant\u00eam um relacionamento secreto fora da escola, na mesma escola existe o aluno transferido Xiao Shang que esconde uma vida totalmente diferente atrav\u00e9s de sua natureza tranquila. C\u00edrculos Sociais significam aceita\u00e7\u00f5es e esses meninos buscam uma forma de como se encaixar nesse meio."
-    },
-    "status": "ongoing",
-    "releaseDate": 2015,
-    "contentRating": "erotica",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
