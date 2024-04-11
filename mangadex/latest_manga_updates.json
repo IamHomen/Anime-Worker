@@ -1,5 +1,33 @@
 [
   {
+    "mangaId": "778b8438-af3a-4534-841c-adf923b55ee1",
+    "title": {
+      "en": "Uma Musume Pretty Derby: Star Blossom"
+    },
+    "updatedAt": "2024-03-31T18:10:29+00:00",
+    "coverArt": "https://mangadex.org/covers/778b8438-af3a-4534-841c-adf923b55ee1/3124d911-022c-419e-a2f9-4fc855aff651.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc \u30b9\u30bf\u30fc\u30d6\u30ed\u30c3\u30b5\u30e0"
+      },
+      {
+        "ja-ro": "Uma Musume Puritiudaubiu Sutauburossamu"
+      },
+      {
+        "ru": "\u0414\u0435\u0432\u0443\u0448\u043a\u0438-\u043f\u043e\u043d\u0438 \u0421\u043b\u0430\u0432\u043d\u043e\u0435 \u0414\u0435\u0440\u0431\u0438: \u0417\u0432\u0451\u0437\u0434\u043d\u044b\u0439 \u0446\u0432\u0435\u0442\u043e\u043a"
+      }
+    ],
+    "description": {
+      "en": "The popular cross-media content \"Uma Musume Pretty Derby\" features \"Uma Musume\" who have inherited the names and souls of numerous racehorses! A new legend begins with the indomitable horse girl \"Sakura Laurel\" as the main character.\n\n---\n\n- [Alternative Raw](https://shonenjumpplus.com/episode/4856001361118480104)",
+      "ja": "\u300c\u6311\u6226\u306a\u304f\u3057\u3066\u3001\u5f97\u3089\u308c\u308b\u3082\u306e\u306a\u3069\u4f55\u3082\u306a\u3044\u300d\u3000\u898b\u7fd2\u3044\u30c8\u30ec\u30fc\u30ca\u30fc\u30fb\u693f\u304c\u51fa\u4f1a\u3063\u305f\u306e\u306f\u3001\u30ac\u30e9\u30b9\u306e\u811a\u3092\u62b1\u3048\u305f\u30c7\u30d3\u30e5\u30fc\u524d\u306e\u30a6\u30de\u5a18\u30fb\u30b5\u30af\u30e9\u30ed\u30fc\u30ec\u30eb\u3002\u534a\u4eba\u524d\u306e2\u4eba\u304c\u898b\u305f\u9802\u70b9\u3078\u306e\u5922\u306f\u3001\u7121\u8b00\u306a\u306e\u304b\u2015\u2015\u3002"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "c527f82a-7fef-45fa-931e-e93edc120612",
     "title": {
       "en": "Freesia"
@@ -1686,32 +1714,5 @@
     "contentRating": "suggestive",
     "lastVolume": "3",
     "lastChapter": "104"
-  },
-  {
-    "mangaId": "ff01fec1-6465-4825-9497-44c7d9133f2c",
-    "title": {
-      "en": "Bell & Ring wa Kane"
-    },
-    "updatedAt": "2024-01-12T02:58:40+00:00",
-    "coverArt": "https://mangadex.org/covers/ff01fec1-6465-4825-9497-44c7d9133f2c/596d223c-97bb-48b8-9129-2ecc89b9b78e.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30d9\u30eb\u30ea\u30f3\u306f\u9418"
-      },
-      {
-        "ja-ro": "Bell & Ring ha Kane"
-      },
-      {
-        "en": "Bell & Ring are Bells"
-      }
-    ],
-    "description": {
-      "en": "A chaotic 4-panel manga about the daily lives of siblings Ringabelle and Bigbell, who are bells."
-    },
-    "status": "completed",
-    "releaseDate": 2014,
-    "contentRating": "safe",
-    "lastVolume": "7",
-    "lastChapter": "132"
   }
 ]
