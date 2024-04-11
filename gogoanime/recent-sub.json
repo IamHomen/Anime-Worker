@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "henjin-no-salad-bowl",
+    "animeTitle": "Henjin no Salad Bowl",
+    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/henjin-no-salad-bowl-episode-2"
+  },
+  {
     "animeId": "urusei-yatsura-2022-2nd-season",
     "animeTitle": "Urusei Yatsura (2022) 2nd Season",
     "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/oomuro-ke-dear-sisters.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/oomuro-ke-dear-sisters-episode-1"
-  },
-  {
-    "animeId": "atashinchi",
-    "animeTitle": "Atashin'chi",
-    "animeImg": "https://gogocdn.net/cover/atashinchi.png",
-    "episode": "Episode 362",
-    "animeUrl": "https://anitaku.so/atashinchi-episode-362"
   }
 ]
