@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "wind-breaker",
+    "animeTitle": "Wind Breaker",
+    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/wind-breaker-episode-2"
+  },
+  {
     "animeId": "chiikawa",
     "animeTitle": "Chiikawa",
     "animeImg": "https://gogocdn.net/cover/chiikawa.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/rinkai-episode-1"
-  },
-  {
-    "animeId": "boukyaku-battery-tv",
-    "animeTitle": "Boukyaku Battery (TV)",
-    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/boukyaku-battery-tv-episode-1"
   }
 ]
