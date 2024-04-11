@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "beyblade-x",
+    "animeTitle": "Beyblade X",
+    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 26",
+    "animeUrl": "https://anitaku.to/beyblade-x-episode-26"
+  },
+  {
     "animeId": "kenka-dokugaku",
     "animeTitle": "Kenka Dokugaku",
     "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.to/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-2"
-  },
-  {
-    "animeId": "tadaima-okaeri",
-    "animeTitle": "Tadaima, Okaeri",
-    "animeImg": "https://gogocdn.net/cover/tadaima-okaeri.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.to/tadaima-okaeri-episode-1"
   }
 ]
