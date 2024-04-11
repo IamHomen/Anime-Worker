@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 
 BASE_URL = 'https://anitaku.so'
-
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
 LOAD_LIST_EPISODE = 'https://ajax.gogocdn.net/ajax/load-list-episode'
 
