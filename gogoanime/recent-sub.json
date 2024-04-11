@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "chiikawa",
+    "animeTitle": "Chiikawa",
+    "animeImg": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 87",
+    "animeUrl": "https://anitaku.so/chiikawa-episode-87"
+  },
+  {
     "animeId": "henjin-no-salad-bowl",
     "animeTitle": "Henjin no Salad Bowl",
     "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/boukyaku-battery-tv-episode-1"
-  },
-  {
-    "animeId": "oomuro-ke-dear-sisters",
-    "animeTitle": "Oomuro-ke: Dear Sisters",
-    "animeImg": "https://gogocdn.net/cover/oomuro-ke-dear-sisters.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/oomuro-ke-dear-sisters-episode-1"
   }
 ]
