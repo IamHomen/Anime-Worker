@@ -1,5 +1,51 @@
 [
   {
+    "mangaId": "c527f82a-7fef-45fa-931e-e93edc120612",
+    "title": {
+      "en": "Freesia"
+    },
+    "updatedAt": "2022-01-25T04:48:05+00:00",
+    "coverArt": "https://mangadex.org/covers/c527f82a-7fef-45fa-931e-e93edc120612/d2774d40-b69a-4a91-bac6-30777434a7ee.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30d5\u30ea\u30fc\u30b8\u30a2"
+      },
+      {
+        "zh": "\u672b\u4e16\u6740\u624b"
+      }
+    ],
+    "description": {
+      "en": "Freesia is set in an alternative Japanese society that is at war, and has passed a law legalizing retaliatory killings. If somebody kills your loved one, you are legally sanctioned to kill, or hire someone to kill, the victimizer. The manga is set around a character who works for a firm that specializes in these retaliatory killings."
+    },
+    "status": "completed",
+    "releaseDate": 2001,
+    "contentRating": "suggestive",
+    "lastVolume": "12",
+    "lastChapter": "82"
+  },
+  {
+    "mangaId": "e90f0484-f65c-4892-903a-42a180692392",
+    "title": {
+      "en": "My Sister\u2019s Private Life"
+    },
+    "updatedAt": "2024-04-01T20:28:19+00:00",
+    "coverArt": "https://mangadex.org/covers/e90f0484-f65c-4892-903a-42a180692392/1f934158-78db-42c1-9f46-f58e2d4f7ee6.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc790\ub9e4\uc758 \uc0ac\uc0dd\ud65c"
+      },
+      {
+        "uk": "\u041f\u0440\u0438\u0432\u0430\u0442\u043d\u0435 \u0436\u0438\u0442\u0442\u044f \u043c\u043e\u0454\u0457 \u0441\u0435\u0441\u0442\u0440\u0438"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "8d2e9520-4127-4bf2-94a3-b2571029562d",
     "title": {
       "en": "Make the Exorcist Fall in Love"
@@ -32,30 +78,6 @@
     "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "c527f82a-7fef-45fa-931e-e93edc120612",
-    "title": {
-      "en": "Freesia"
-    },
-    "updatedAt": "2022-01-25T04:48:05+00:00",
-    "coverArt": "https://mangadex.org/covers/c527f82a-7fef-45fa-931e-e93edc120612/d2774d40-b69a-4a91-bac6-30777434a7ee.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30d5\u30ea\u30fc\u30b8\u30a2"
-      },
-      {
-        "zh": "\u672b\u4e16\u6740\u624b"
-      }
-    ],
-    "description": {
-      "en": "Freesia is set in an alternative Japanese society that is at war, and has passed a law legalizing retaliatory killings. If somebody kills your loved one, you are legally sanctioned to kill, or hire someone to kill, the victimizer. The manga is set around a character who works for a firm that specializes in these retaliatory killings."
-    },
-    "status": "completed",
-    "releaseDate": 2001,
-    "contentRating": "suggestive",
-    "lastVolume": "12",
-    "lastChapter": "82"
   },
   {
     "mangaId": "ad84e944-a533-4c56-aedb-4f1e44e285a4",
@@ -1691,47 +1713,5 @@
     "contentRating": "safe",
     "lastVolume": "7",
     "lastChapter": "132"
-  },
-  {
-    "mangaId": "0c045d96-da7e-47fb-af3a-cc76677d6f17",
-    "title": {
-      "en": "Birdy the Mighty Evolution"
-    },
-    "updatedAt": "2023-12-03T23:43:51+00:00",
-    "coverArt": "https://mangadex.org/covers/0c045d96-da7e-47fb-af3a-cc76677d6f17/bfc5f2ed-1cc0-41a9-bdb6-3ea6e30d708f.png",
-    "altTitles": [
-      {
-        "ja-ro": "Tetsuwan Birdy Evolution"
-      },
-      {
-        "ru": "\u041c\u043e\u0433\u0443\u0447\u0430\u044f \u0411\u0451\u0440\u0434\u0438: \u042d\u0432\u043e\u043b\u044e\u0446\u0438\u044f"
-      },
-      {
-        "th": "\u0e2a\u0e25\u0e31\u0e1a\u0e23\u0e48\u0e32\u0e07\u0e25\u0e49\u0e32\u0e07\u0e2d\u0e18\u0e23\u0e23\u0e21 \u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e14\u0e35\u0e49 Evolution"
-      },
-      {
-        "ja": "\u9244\u8155\u30d0\u30fc\u30c7\u30a3\u30fc EVOLUTION"
-      },
-      {
-        "ja": "\u9244\u8155\u30d0\u30fc\u30c7\u30a3\u30fcEVOLUTION"
-      },
-      {
-        "zh": "\u9435\u8155\u5973\u8b66EVOLUTION"
-      },
-      {
-        "zh-hk": "\u94c1\u8155\u5973\u8b66EVOLUTION"
-      },
-      {
-        "ko": "\ucca0\uc644 \ubc84\ub514 EVOLUTION"
-      }
-    ],
-    "description": {
-      "en": "After two years of being dormant inside Tsutomu Senkawa, an accidental encounter with their old nemesis violently wakes Birdy up. With Birdy kicking evil's ass once again, the dark secrets of the experiments conducted by the \"Agni\" corporation are slowly revealed. They seem to be dabbling with human body enhancement, creating what they call \"beast men,\" to combat the alien invasions related to Birdy."
-    },
-    "status": "completed",
-    "releaseDate": 2008,
-    "contentRating": "suggestive",
-    "lastVolume": "13",
-    "lastChapter": "140"
   }
 ]
