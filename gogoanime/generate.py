@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-BASE_URL = 'https://anitaku.to'
+BASE_URL = 'https://anitaku.so'
 
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
 LOAD_LIST_EPISODE = 'https://ajax.gogo-load.com/ajax/load-list-episode'
@@ -46,13 +46,13 @@ def scrape_anime_info(ids):
 
         animeTitle = soup.select_one('div.anime_info_body_bg > h1').text.strip()
         animeImage = soup.select_one('div.anime_info_body_bg > img')['src']
-        type = soup.select_one('div.anime_info_body_bg > p:nth-child(4) > a').text.strip()
-        desc = soup.select_one('div.anime_info_body_bg > p:nth-child(5)').text.replace('Plot Summary: ', '').strip()
-        releasedDate = soup.select_one('div.anime_info_body_bg > p:nth-child(7)').text.replace('Released: ', '').strip()
-        status = soup.select_one('div.anime_info_body_bg > p:nth-child(8) > a').text.strip()
-        otherName = soup.select_one('div.anime_info_body_bg > p:nth-child(9)').text.replace('Other name: ', '').replace(';', ',').strip()
+        type = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Type:))').text.strip()
+        desc = soup.select_one('div.anime_info_body_bg > div.descriptiom').text.replace('Plot Summary: ', '').strip()
+        releasedDate = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Released:))').text.replace('Released: ', '').strip()
+        status = soup.select_one('div.anime_info_body_bg > p.type:has(a:contains(Ongoing))').text.strip()
+        otherName = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Other name:))').text.replace('Other name: ', '').replace(';', ',').strip()
 
-        for genre in soup.select('div.anime_info_body_bg > p:nth-child(6) > a'):
+        for genre in soup.select('div.anime_info_body_bg > p:nth-child(7) > a'):
             genres.append(genre['title'].strip())
 
         ep_start = soup.select_one('#episode_page > li').find('a')['ep_start']
