@@ -1,32 +1,5 @@
 [
   {
-    "mangaId": "485a777b-e395-4ab1-b262-2a87f53e23c0",
-    "title": {
-      "en": "Pyu to Fuku! Jaguar"
-    },
-    "updatedAt": "2023-11-23T12:53:27+00:00",
-    "coverArt": "https://mangadex.org/covers/485a777b-e395-4ab1-b262-2a87f53e23c0/2ea6efa2-debf-4d81-b878-b61b22090aed.jpg",
-    "altTitles": [
-      {
-        "en": "Blow that Flute! Jaguar"
-      },
-      {
-        "ja-ro": "Pyuu to Fuku! Jaguar"
-      },
-      {
-        "ja": "\u30d4\u30e5\u30fc\u3068\u5439\u304f!\u30b8\u30e3\u30ac\u30fc"
-      }
-    ],
-    "description": {
-      "en": "Piyohiko has a dream: He wants to be a succesfull guitar-player. Then this guy Jaguar shows up, and coaxes him into playing the 'recorder'. Thus ending Piyohiko's noble dream."
-    },
-    "status": "completed",
-    "releaseDate": 2000,
-    "contentRating": "safe",
-    "lastVolume": "20",
-    "lastChapter": "438"
-  },
-  {
     "mangaId": "2d68c7b8-6085-49cb-9c44-ec16805481da",
     "title": {
       "en": "Appleseed"
@@ -58,6 +31,33 @@
     "contentRating": "suggestive",
     "lastVolume": "4",
     "lastChapter": "25"
+  },
+  {
+    "mangaId": "485a777b-e395-4ab1-b262-2a87f53e23c0",
+    "title": {
+      "en": "Pyu to Fuku! Jaguar"
+    },
+    "updatedAt": "2023-11-23T12:53:27+00:00",
+    "coverArt": "https://mangadex.org/covers/485a777b-e395-4ab1-b262-2a87f53e23c0/2ea6efa2-debf-4d81-b878-b61b22090aed.jpg",
+    "altTitles": [
+      {
+        "en": "Blow that Flute! Jaguar"
+      },
+      {
+        "ja-ro": "Pyuu to Fuku! Jaguar"
+      },
+      {
+        "ja": "\u30d4\u30e5\u30fc\u3068\u5439\u304f!\u30b8\u30e3\u30ac\u30fc"
+      }
+    ],
+    "description": {
+      "en": "Piyohiko has a dream: He wants to be a succesfull guitar-player. Then this guy Jaguar shows up, and coaxes him into playing the 'recorder'. Thus ending Piyohiko's noble dream."
+    },
+    "status": "completed",
+    "releaseDate": 2000,
+    "contentRating": "safe",
+    "lastVolume": "20",
+    "lastChapter": "438"
   },
   {
     "mangaId": "9d351a80-5037-4334-a020-6985899f5b1f",
