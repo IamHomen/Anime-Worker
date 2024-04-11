@@ -65,13 +65,10 @@ def scrape_anime_info(ids):
         episode_soup = BeautifulSoup(html.content, 'html.parser')
 
         for el in episode_soup('#episode_related > li'):
-            episodeLocale = el.select_one('div.cate').text.strip().lower()
             epList.append({
-                'episodeId': el.find('a')['href'].split('/')[1],
-                'episodeNum': el.select_one('div.name').text.replace('EP ', '').strip(),
-                'episodeUrl': BASE_URL + el.find('a')['href'].strip(),
-                'isSubbed': episodeLocale == "sub",
-                'isDubbed': episodeLocale == "dub"
+                'episodeId': el.select_one('a')['href'].split('/')[1],
+                'episodeNum': el.select_one('div.name').text.replace('EP ', 'Episode ').strip(),
+                'episodeUrl': BASE_URL + el.find('a')['href'].strip()
             })
 
         anime_data = {
