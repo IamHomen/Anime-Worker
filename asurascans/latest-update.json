@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-solo-max-level-newbie/",
+    "animeTitle": "Solo Max-Level Newbie",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/solomaxlevelnewbie.jpg",
+    "episode": "Chapter 149 - World of Players (3)",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-solo-max-level-newbie/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-return-of-the-crazy-demon/",
     "animeTitle": "The Return of the Crazy Demon",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/CrazyDemonCover02-1.webp",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2020/09/ORV03.png",
     "episode": "Chapter 206",
     "animeUrl": "https://asuratoon.com/manga/1908287720-omniscient-readers-viewpoint/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-killer-pietro/",
-    "animeTitle": "Killer Pietro",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/09/KillerPietroCover01.png",
-    "episode": "Chapter 35",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-killer-pietro/"
   }
 ]
