@@ -120,6 +120,14 @@
     "format": "TV"
   },
   {
+    "id": 158709,
+    "title": "Unnamed Memory",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158709-WFA0RHloDvPl.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
     "id": 151970,
     "title": "Shangri-La Frontier",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-ld9HtIKiv7xo.jpg",
@@ -149,14 +157,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168138-jgMSP1rDkJhs.jpg",
     "seasonYear": 2024,
     "totalEpisode": 11,
-    "format": "TV"
-  },
-  {
-    "id": 158709,
-    "title": "Unnamed Memory",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158709-WFA0RHloDvPl.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -224,17 +224,17 @@
     "format": "TV"
   },
   {
-    "id": 166794,
-    "title": "Yubisaki to Renren",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166794-veSLL0zrrBhp.jpg",
+    "id": 155657,
+    "title": "Shuumatsu Train Doko e Iku?",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 163078,
-    "title": "Yoru no Kurage wa Oyogenai",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
+    "id": 166794,
+    "title": "Yubisaki to Renren",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166794-veSLL0zrrBhp.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -288,6 +288,22 @@
     "format": "TV"
   },
   {
+    "id": 151801,
+    "title": "MASHLE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-wYg28dEaJAw3.png",
+    "seasonYear": 2023,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 20,
+    "title": "NARUTO",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg",
+    "seasonYear": 2002,
+    "totalEpisode": 220,
+    "format": "TV"
+  },
+  {
     "id": 162780,
     "title": "Mahou Shoujo ni Akogarete",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162780-brAdNEROhZdG.jpg",
@@ -304,22 +320,6 @@
     "format": "TV"
   },
   {
-    "id": 155657,
-    "title": "Shuumatsu Train Doko e Iku?",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 143866,
-    "title": "Jaku-Chara Tomozaki-kun 2nd STAGE",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143866-75E3G6nYEUVr.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
     "id": 11061,
     "title": "HUNTER\u00d7HUNTER (2011)",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
@@ -328,11 +328,11 @@
     "format": "TV"
   },
   {
-    "id": 19,
-    "title": "MONSTER",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
-    "seasonYear": 2004,
-    "totalEpisode": 74,
+    "id": 163078,
+    "title": "Yoru no Kurage wa Oyogenai",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -360,9 +360,9 @@
     "format": "TV"
   },
   {
-    "id": 167927,
-    "title": "Boukyaku Battery (TV)",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167927-eHWavr99BeTj.png",
+    "id": 165855,
+    "title": "Hananoi-kun to Koi no Yamai",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165855-uJ0Hq5EFUlz8.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -371,6 +371,14 @@
     "id": 154116,
     "title": "Undead Unluck",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154116-ypBL1uGj3qMG.png",
+    "seasonYear": 2023,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 146493,
+    "title": "Ragna Crimson",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146493-bThyDJ4ZmbfV.jpg",
     "seasonYear": 2023,
     "totalEpisode": 24,
     "format": "TV"
@@ -390,13 +398,5 @@
     "seasonYear": 2009,
     "totalEpisode": 64,
     "format": "TV"
-  },
-  {
-    "id": 175642,
-    "title": "SAND LAND: THE SERIES",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175642-TAHPp5wztFUp.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 13,
-    "format": "ONA"
   }
 ]
