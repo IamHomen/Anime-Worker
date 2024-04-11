@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "hananoi-kun-to-koi-no-yamai",
+    "animeTitle": "Hananoi-kun to Koi no Yamai",
+    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/hananoi-kun-to-koi-no-yamai-episode-2"
+  },
+  {
     "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
     "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
     "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/gekai-elise-mini-drama.png",
     "episode": "Episode 12",
     "animeUrl": "https://anitaku.so/gekai-elise-mini-drama-episode-12"
-  },
-  {
-    "animeId": "himitsu-no-aipri",
-    "animeTitle": "Himitsu no AiPri",
-    "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/himitsu-no-aipri-episode-1"
   }
 ]
