@@ -73,7 +73,7 @@ def scrape_trending_anime():
         soup = BeautifulSoup(popular_page.content, 'html.parser')
 
         for el in soup.select('div.added_series_body.popular > ul > li'):
-            ids = el.select_one('a:nth-child(1)')['href'].split('/')[2],
+            ids = el.select_one('a:nth-child(1)')['href'].split('/')[2]
             genres = [a['title'] for a in el.select('p.genres > a')]
             anime_list.append({
                 'animeId': el.select_one('a:nth-child(1)')['href'].split('/')[2],
