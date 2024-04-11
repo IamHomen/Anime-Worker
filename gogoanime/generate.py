@@ -46,10 +46,10 @@ def scrape_anime_info(ids):
 
         animeTitle = soup.select_one('div.anime_info_body_bg > h1').text.strip()
         animeImage = soup.select_one('div.anime_info_body_bg > img')['src']
-        type = soup.select_one('div.anime_info_body_bg > p.type:contains("Type: ")').text.replace('Type: ', '').strip()
+        type = soup.select_one('div.anime_info_body_bg > p.type:-soup-contains("Type: ")').text.replace('Type: ', '').strip()
         desc = soup.select_one('div.anime_info_body_bg > div.description').text.replace('Plot Summary: ', '').strip()
-        releasedDate = soup.select_one('div.anime_info_body_bg > p.type:contains("Released: ")').text.replace('Released: ', '').strip()
-        status = soup.select_one('div.anime_info_body_bg > p.type:contains("Status: ") > a').text.strip()
+        releasedDate = soup.select_one('div.anime_info_body_bg > p.type:-soup-contains("Released: ")').text.replace('Released: ', '').strip()
+        status = soup.select_one('div.anime_info_body_bg > p.type:-soup-contains("Status: ") > a').text.strip()
         otherName = soup.select_one('div.anime_info_body_bg > p.type.other-name > a').text.strip()
 
         for genre in soup.select('div.anime_info_body_bg > p:nth-child(7) > a'):
@@ -60,7 +60,7 @@ def scrape_anime_info(ids):
         movie_id = soup.select_one('#movie_id')['value']
         alias = soup.select_one('#alias_anime')['value']
 
-        html = requests.get(f'{list_episodes_url}?ep_start={ep_start}&ep_end={ep_end}&id={movie_id}&default_ep=0&alias={alias}')
+        html = requests.get(f'{LOAD_LIST_EPISODE}?ep_start={ep_start}&ep_end={ep_end}&id={movie_id}&default_ep=0&alias={alias}')
         html.raise_for_status()
 
         for el in episode_soup('#episode_related > li'):
