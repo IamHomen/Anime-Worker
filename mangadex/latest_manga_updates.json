@@ -1,5 +1,26 @@
 [
   {
+    "mangaId": "42060735-a373-465a-a7a9-0fee5db73e3e",
+    "title": {
+      "en": "Historiae Obscura"
+    },
+    "updatedAt": "2023-09-23T19:38:48+00:00",
+    "coverArt": "https://mangadex.org/covers/42060735-a373-465a-a7a9-0fee5db73e3e/2ce84a67-5dde-4651-a409-f313de371371.png",
+    "altTitles": [
+      {
+        "en": "The Dark History"
+      }
+    ],
+    "description": {
+      "en": "A true story about the creation of the camera."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "fff8f972-ff3e-4f24-9792-82e91635378e",
     "title": {
       "en": "Gigantis"
@@ -1695,27 +1716,6 @@
     "status": "ongoing",
     "releaseDate": 2016,
     "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "85a99758-de39-471e-9f6d-800547f53d0a",
-    "title": {
-      "en": "Tougen Anki"
-    },
-    "updatedAt": "2023-09-23T02:42:02+00:00",
-    "coverArt": "https://mangadex.org/covers/85a99758-de39-471e-9f6d-800547f53d0a/c0f158ec-87bc-4e8b-8b0d-f43638670e2f.jpg",
-    "altTitles": [
-      {
-        "ja": "\u6843\u6e90\u6697\u9b3c"
-      }
-    ],
-    "description": {
-      "en": "Ichinose Shiki, an inheritor of the blood of Oni had lived out his entire childhood oblivious to this fact. However, when an unknown man comes rushing into his home in attempts to assassinate him, his foster father finally reveals the truth. In a world where Oni and Momotarou have never been able to coexist, join Ichinose in his struggle for power and unifying the two races!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2020,
-    "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
   }
