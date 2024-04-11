@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-mount-hua-sect/",
+    "animeTitle": "Return of the Mount Hua Sect",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/03/cover.jpg",
+    "episode": "Chapter 119",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-mount-hua-sect/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-maxed-out-leveling/",
     "animeTitle": "Maxed Out Leveling",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/11/resource-1-1-1-222x300.jpg",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/11/magicAcademyMageCover02.png",
     "episode": "Chapter 88",
     "animeUrl": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-world-after-the-end/",
-    "animeTitle": "The World After The End",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/02/the-world-after-the-end-cover-207x300.jpg",
-    "episode": "Chapter 122",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-world-after-the-end/"
   }
 ]
