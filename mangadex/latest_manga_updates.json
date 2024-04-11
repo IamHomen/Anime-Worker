@@ -1,5 +1,22 @@
 [
   {
+    "mangaId": "e5c43dab-9866-49c8-a296-fb3b68d62119",
+    "title": {
+      "en": "Cacomistle's Anthology"
+    },
+    "updatedAt": "2023-06-20T11:51:13+00:00",
+    "coverArt": "https://mangadex.org/covers/e5c43dab-9866-49c8-a296-fb3b68d62119/11c609f5-8ca7-45f8-a6cc-55bff8eb7d8b.png",
+    "altTitles": [],
+    "description": {
+      "en": "An unofficial compilation of oneshots / 4-komas by Cacomistle (\u30ab\u30b3\u30df\u30b9\u30eb) in their twitter profile.Author's Twitter : [@cacomistle_tail](https://twitter.com/cacomistle_tail)"
+    },
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "3424f790-bc25-4a5d-8798-cd79b6f34487",
     "title": {
       "en": "The Ex-tra Hot Neighbor"
@@ -1568,44 +1585,5 @@
     "contentRating": "suggestive",
     "lastVolume": "12",
     "lastChapter": "82"
-  },
-  {
-    "mangaId": "d872bcf3-2e1a-461e-aef2-5db25bf08d99",
-    "title": {
-      "en": "Adekan"
-    },
-    "updatedAt": "2024-03-22T20:26:15+00:00",
-    "coverArt": "https://mangadex.org/covers/d872bcf3-2e1a-461e-aef2-5db25bf08d99/56db00c3-3e7a-491e-933e-287dcde6a663.jpg",
-    "altTitles": [
-      {
-        "ru": "\u041a\u0440\u0430\u0441\u0430\u0432\u0447\u0438\u043a (\u041d\u0410\u041e \u0426\u0443\u043a\u0438\u0434\u0436\u0438)"
-      },
-      {
-        "ja": "\u30a2\u30c7\u30ab\u30f3"
-      },
-      {
-        "zh": "\u8273\u6c49"
-      },
-      {
-        "zh-hk": "\u8276\u6f22"
-      },
-      {
-        "zh-hk": "\u8c54\u6f22"
-      },
-      {
-        "ko": "\uc5fc\ud55c - \uc218\ub824\ud55c \ub0a8\uc790"
-      },
-      {
-        "ja-ro": "Adekan"
-      }
-    ],
-    "description": {
-      "en": "Laid-back and somewhat absent-mindedly seductive umbrella craftsman Shiro, and hot-blooded officer Kojiro, who stands against all things undisciplined, become involved in a bloody and erotic thrill-ride in an off-kilter town. This action-packed jack-of-all-trades manga will have you swooning at its sexiness and leave you more addicted than opium!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2008,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
