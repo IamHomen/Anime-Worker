@@ -46,7 +46,8 @@ def scrape_anime_info(ids):
 
         animeTitle = soup.select_one('div.anime_info_body_bg > h1').text.strip()
         animeImage = soup.select_one('div.anime_info_body_bg > img')['src']
-        type = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Type:))').text.strip()
+        type_elem = soup.find('div', class_='anime_info_body_bg').find('p', class_='type', text='Type:').find_next('a')
+        type = type_elem.text if type_elem else None
         desc = soup.select_one('div.anime_info_body_bg > div.descriptiom').text.replace('Plot Summary: ', '').strip()
         releasedDate = soup.select_one('div.anime_info_body_bg > p.type:has(span:contains(Released:))').text.replace('Released: ', '').strip()
         status = soup.select_one('div.anime_info_body_bg > p.type:has(a:contains(Ongoing))').text.strip()
