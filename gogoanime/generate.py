@@ -63,7 +63,7 @@ def scrape_anime_info(ids):
         html = requests.get(f'{LOAD_LIST_EPISODE}?ep_start={ep_start}&ep_end={ep_end}&id={movie_id}&default_ep=0&alias={alias}')
         html.raise_for_status()
 
-        for el in episode_soup('#episode_related > li'):
+        for el in html('#episode_related > li'):
             episodeLocale = el.select_one('div.cate').text.strip().lower()
             epList.append({
                 'episodeId': el.find('a')['href'].split('/')[1],
