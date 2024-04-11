@@ -1,5 +1,36 @@
 [
   {
+    "mangaId": "bc8d49fc-0f9b-4f85-9db7-19c3fe3fd81c",
+    "title": {
+      "en": "The Chart of Priest"
+    },
+    "updatedAt": "2022-02-06T20:32:58+00:00",
+    "coverArt": "https://mangadex.org/covers/bc8d49fc-0f9b-4f85-9db7-19c3fe3fd81c/4066373a-8049-4f24-b71f-852100d010b3.jpg",
+    "altTitles": [
+      {
+        "ko-ro": "Sinbunim-ui Carte"
+      },
+      {
+        "ko-ro": "Sinbunimhwe Karute"
+      },
+      {
+        "en": "The Priest's Chart"
+      },
+      {
+        "ko": "\uc2e0\ubd80\ub2d8\uc758 \uce74\ub974\ud14c"
+      }
+    ],
+    "description": {
+      "en": "Edward, a young priest, meets a veteran who's under a vicious curse. Before very long he finds himself falling in love, and makes a vow to save and protect Cliff no matter what.  \n  \nThis is the love story of a young priest who wants to save his hero, the veteran.",
+      "pl": "M\u0142ody ksi\u0105dz Edward spotyka weterana, kt\u00f3ry jest pod wp\u0142ywem okropnej kl\u0105twy. Ze wszelkich si\u0142 stara mu si\u0119 pom\u00f3c, jednak prowadzi to g\u0142\u00f3wnie do pojawienia si\u0119 w jego sercu skomplikowanych uczu\u0107\u2026"
+    },
+    "status": "hiatus",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "881c4da6-87c5-437f-8660-70f3fa4b476a",
     "title": {
       "en": "Wandering Emanon"
@@ -1603,26 +1634,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "a633b16a-f8c7-4749-a0dd-264acc7f3a81",
-    "title": {
-      "en": "Kimi to Ishin Denshin!"
-    },
-    "updatedAt": "2023-01-23T06:26:53+00:00",
-    "coverArt": "https://mangadex.org/covers/a633b16a-f8c7-4749-a0dd-264acc7f3a81/e9f0e9d2-96b8-474d-aa30-feddfe41d9e4.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30ad\u30df\u3068\u4ee5\u5fc3\u4f1d\u5fc3\u3063\uff01"
-      }
-    ],
-    "description": {
-      "en": "High school student Saika has psychic abilities, and as such he is constantly tormented by people's thoughts. However, after he makes a friend \u2013 who happens to be in love with him \u2013 he finds it's not all that bad."
-    },
-    "status": "completed",
-    "releaseDate": 2017,
-    "contentRating": "erotica",
-    "lastVolume": "1",
-    "lastChapter": "6"
   }
 ]
