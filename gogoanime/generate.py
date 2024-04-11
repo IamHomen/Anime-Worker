@@ -5,7 +5,7 @@ import json
 BASE_URL = 'https://anitaku.so'
 
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
-LOAD_LIST_EPISODE = 'https://ajax.gogo-load.com/ajax/load-list-episode'
+LOAD_LIST_EPISODE = 'https://ajax.gogocdn.net/ajax/load-list-episode'
 
 def scrape_recent_sub_anime():
     anime_list = []
