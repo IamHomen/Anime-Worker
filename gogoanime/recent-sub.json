@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "astro-note",
+    "animeTitle": "Astro Note",
+    "animeImg": "https://gogocdn.net/cover/astro-note.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/astro-note-episode-2"
+  },
+  {
     "animeId": "super-dragon-ball-heroes-meteor-mission",
     "animeTitle": "Super Dragon Ball Heroes Meteor Mission",
     "animeImg": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/kaii-to-otome-to-kamikakushi-episode-1"
-  },
-  {
-    "animeId": "seiyuu-radio-no-uraomote",
-    "animeTitle": "Seiyuu Radio no Uraomote",
-    "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/seiyuu-radio-no-uraomote-episode-1"
   }
 ]
