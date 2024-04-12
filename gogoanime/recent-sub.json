@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "nijiyon-animation-2",
+    "animeTitle": "Nijiyon Animation 2",
+    "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/nijiyon-animation-2-episode-2"
+  },
+  {
     "animeId": "kurayukaba",
     "animeTitle": "Kurayukaba",
     "animeImg": "https://gogocdn.net/cover/kurayukaba.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/geats-extra-geats-anime-another-grand-prix.png",
     "episode": "Episode 8",
     "animeUrl": "https://anitaku.so/geats-extra-geats-anime-another-grand-prix-episode-8"
-  },
-  {
-    "animeId": "sand-land-the-series",
-    "animeTitle": "Sand Land: The Series",
-    "animeImg": "https://gogocdn.net/cover/sand-land-the-series.png",
-    "episode": "Episode 10",
-    "animeUrl": "https://anitaku.so/sand-land-the-series-episode-10"
   }
 ]
