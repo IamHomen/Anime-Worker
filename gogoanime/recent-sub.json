@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "odekake-kozame",
+    "animeTitle": "Odekake Kozame",
+    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
+    "episode": "Episode 52",
+    "animeUrl": "https://anitaku.so/odekake-kozame-episode-52"
+  },
+  {
     "animeId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
     "animeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
     "animeImg": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 26",
     "animeUrl": "https://anitaku.so/beyblade-x-episode-26"
-  },
-  {
-    "animeId": "kenka-dokugaku",
-    "animeTitle": "Kenka Dokugaku",
-    "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/kenka-dokugaku-episode-1"
   }
 ]
