@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "cardfight-vanguard-divinez",
+    "animeTitle": "Cardfight!! Vanguard: Divinez",
+    "animeImg": "https://gogocdn.net/cover/cardfight-vanguard-divinez.png",
+    "episode": "Episode 12",
+    "animeUrl": "https://anitaku.so/cardfight-vanguard-divinez-episode-12"
+  },
+  {
     "animeId": "girls-band-cry",
     "animeTitle": "Girls Band Cry",
     "animeImg": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-3"
-  },
-  {
-    "animeId": "yuru-camp-season-3",
-    "animeTitle": "Yuru Camp\u25b3 Season 3",
-    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/yuru-camp-season-3-episode-2"
   }
 ]
