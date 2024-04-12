@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 62383,
+      "anime_id": 5546,
+      "anime_title": "Henjin no Salad Bowl",
+      "anime_session": "358184c5-9321-b3c0-0a02-962eb3603879",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/0d181e7fad787941b2e6a6b19e59ef6a0ee5690434cbf898382e434222f54340.jpg",
+      "disc": "",
+      "session": "69e8501876b906d4e36c61b2dab1f9ecdc8caa6726ce66d17fada80e5260d032",
+      "filler": 0,
+      "created_at": "2024-04-11 18:49:25",
+      "completed": 0
+    },
+    {
+      "id": 62382,
+      "anime_id": 5522,
+      "anime_title": "Wind Breaker",
+      "anime_session": "42b86a6c-213b-98f7-a5a0-58f3d831d7ac",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/eb48c41ad1dbaa2137845d6d26d116d7d9866c73bccf60e65f3b8a64daf1d811.jpg",
+      "disc": "",
+      "session": "27bc088b34df26ee45992d09692e17a6a02f2bd6bdbd5f5b51e8fd147693069a",
+      "filler": 0,
+      "created_at": "2024-04-11 18:35:41",
+      "completed": 0
+    },
+    {
       "id": 62380,
       "anime_id": 5435,
       "anime_title": "Urusei Yatsura (2022) 2nd Season",
@@ -166,38 +198,6 @@
       "session": "7251cad016a049e8db09ddd4e07ece27ec88702a797963061606c94e1bc1dc21",
       "filler": 0,
       "created_at": "2024-04-10 17:12:07",
-      "completed": 0
-    },
-    {
-      "id": 62371,
-      "anime_id": 5525,
-      "anime_title": "Bartender: Kami no Glass",
-      "anime_session": "9914e32c-6e1a-0ffb-ad16-0e25ff8d4b3e",
-      "episode": 2,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/ce07cdaaff491b58f9781e374df0abf1afe90d943ed00c522cd3f8dc482cd308.jpg",
-      "disc": "",
-      "session": "1e86776a559b8237cb285e8272c3ec0ca4bb6c9cb0ae53ac5f587a44342951c4",
-      "filler": 0,
-      "created_at": "2024-04-10 16:34:19",
-      "completed": 0
-    },
-    {
-      "id": 62370,
-      "anime_id": 5513,
-      "anime_title": "Date A Live V",
-      "anime_session": "6d1b98ab-586f-0bc2-c195-4ed5096a0fcd",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/7f032c7ee75c9d0d991516b0904148f9149ac45b15070d58e951064de6dce84e.jpg",
-      "disc": "",
-      "session": "fd76e31c1389b0e3f02b3416717a59d4a1bdb6e7ca94264213413eff0f9a8653",
-      "filler": 0,
-      "created_at": "2024-04-10 14:34:21",
       "completed": 0
     }
   ]

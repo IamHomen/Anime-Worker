@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-overpowered-sword/",
+    "animeTitle": "Overpowered Sword",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/overpoweredswordCover02.png",
+    "episode": "Chapter 92",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-overpowered-sword/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-player-hides-his-past/",
     "animeTitle": "The Player Hides His Past",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/06/thePlayerHideHisPastCover01Photoauto_scaleLevel3width-1400.jpg",
@@ -49,18 +56,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-genius-of-the-unique-lineage/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/",
-    "animeTitle": "Superhuman Battlefield",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
-    "episode": "Chapter 101",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/",
     "animeTitle": "The Genius Assassin Who Takes it All",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/TheGeniusAssassinWhoTakesitAllCover01-1.png",
     "episode": "Chapter 26",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/",
+    "animeTitle": "Superhuman Battlefield",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
+    "episode": "Chapter 101",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-bloodhounds-regression-instinct/",
@@ -98,18 +105,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-logging-10000-years-into-the-future/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-villain-to-kill/",
-    "animeTitle": "Villain To Kill",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/02/villain.jpg",
-    "episode": "Chapter 143",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-villain-to-kill/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-kill-the-dragon/",
     "animeTitle": "Kill The Dragon",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/04/coverrr.jpg",
     "episode": "Chapter 106",
     "animeUrl": "https://asuratoon.com/manga/1908287720-kill-the-dragon/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-villain-to-kill/",
+    "animeTitle": "Villain To Kill",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/02/villain.jpg",
+    "episode": "Chapter 143",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-villain-to-kill/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-solo-max-level-newbie/",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/07/Reaper-Moon-Cover-Animation_Compressed.gif",
     "episode": "Chapter 83",
     "animeUrl": "https://asuratoon.com/manga/1908287720-reaper-of-the-drifting-moon/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-mount-hua-sect/",
-    "animeTitle": "Return of the Mount Hua Sect",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/03/cover.jpg",
-    "episode": "Chapter 119",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-mount-hua-sect/"
   }
 ]
