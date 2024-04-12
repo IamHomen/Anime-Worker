@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "kurayukaba",
+    "animeTitle": "Kurayukaba",
+    "animeImg": "https://gogocdn.net/cover/kurayukaba.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/kurayukaba-episode-1"
+  },
+  {
     "animeId": "kuramerukagari",
     "animeTitle": "Kuramerukagari",
     "animeImg": "https://gogocdn.net/cover/kuramerukagari.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/sand-land-the-series.png",
     "episode": "Episode 10",
     "animeUrl": "https://anitaku.so/sand-land-the-series-episode-10"
-  },
-  {
-    "animeId": "odekake-kozame",
-    "animeTitle": "Odekake Kozame",
-    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
-    "episode": "Episode 51",
-    "animeUrl": "https://anitaku.so/odekake-kozame-episode-51"
   }
 ]
