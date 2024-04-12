@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "ninjala",
+    "animeTitle": "Ninjala",
+    "animeImg": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 112",
+    "animeUrl": "https://anitaku.so/ninjala-episode-112"
+  },
+  {
     "animeId": "wind-breaker",
     "animeTitle": "Wind Breaker",
     "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 103",
     "animeUrl": "https://anitaku.so/yugioh-go-rush-episode-103"
-  },
-  {
-    "animeId": "rinkai",
-    "animeTitle": "Rinkai!",
-    "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/rinkai-episode-1"
   }
 ]
