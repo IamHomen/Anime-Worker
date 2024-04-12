@@ -127,7 +127,7 @@ def scrape_anime_info(ids):
         for el in episode_soup('#episode_related > li'):
             epList.append({
                 'episodeId': el.select_one('a')['href'].split('/')[1],
-                'episodeNum': el.select_one('div.name').text.replace('EP ', 'Episode ').strip(),
+                'episodeNum': el.select_one('a > .name').text.replace('EP ', 'Episode ').strip(),
                 'episodeUrl': BASE_URL + el.find('a')['href'].strip()
             })
 
