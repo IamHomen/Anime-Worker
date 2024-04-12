@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "the-idolmster-shiny-colors",
+    "animeTitle": "The iDOLM@STER Shiny Colors",
+    "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/the-idolmster-shiny-colors-episode-1"
+  },
+  {
     "animeId": "odekake-kozame",
     "animeTitle": "Odekake Kozame",
     "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-new-vestroia.png",
     "episode": "Episode 51",
     "animeUrl": "https://anitaku.so/bakugan-battle-brawlers-new-vestroia-episode-51"
-  },
-  {
-    "animeId": "beyblade-x",
-    "animeTitle": "Beyblade X",
-    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 26",
-    "animeUrl": "https://anitaku.so/beyblade-x-episode-26"
   }
 ]
