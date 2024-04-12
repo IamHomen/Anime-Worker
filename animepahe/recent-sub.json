@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62384,
+      "anime_id": 5500,
+      "anime_title": "Fairies Albums 4",
+      "anime_session": "66226a9b-6f6d-ead0-a31e-52a83752422a",
+      "episode": 9,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/2c50d41312fc786595a8213054cccc36a3825262255a47b3e677c98d3f9921fa.jpg",
+      "disc": "",
+      "session": "3ea8dd8bf887180650e6ec6b3d113b27196fd8bd97fc84b372d5e2f79881fa38",
+      "filler": 0,
+      "created_at": "2024-04-12 05:48:37",
+      "completed": 0
+    },
+    {
       "id": 62383,
       "anime_id": 5546,
       "anime_title": "Henjin no Salad Bowl",
@@ -182,22 +198,6 @@
       "session": "3411309fe0a5f96b15a4b3fb8b96d634ed0e68e17364119d71b18fe2b8870308",
       "filler": 0,
       "created_at": "2024-04-10 17:30:33",
-      "completed": 0
-    },
-    {
-      "id": 62372,
-      "anime_id": 5507,
-      "anime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-      "anime_session": "35fa64aa-a00b-a0d8-da0e-23dcdaa5871c",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/bd711b47f3e27f8b7f9981e34b8f3216bbb2c3962abaeae0204b8c07655f0a89.jpg",
-      "disc": "",
-      "session": "7251cad016a049e8db09ddd4e07ece27ec88702a797963061606c94e1bc1dc21",
-      "filler": 0,
-      "created_at": "2024-04-10 17:12:07",
       "completed": 0
     }
   ]
