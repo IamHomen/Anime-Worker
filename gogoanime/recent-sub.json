@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "super-dragon-ball-heroes-meteor-mission",
+    "animeTitle": "Super Dragon Ball Heroes Meteor Mission",
+    "animeImg": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
+    "episode": "Episode 4",
+    "animeUrl": "https://anitaku.so/super-dragon-ball-heroes-meteor-mission-episode-4"
+  },
+  {
     "animeId": "nijiyon-animation-2",
     "animeTitle": "Nijiyon Animation 2",
     "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/seiyuu-radio-no-uraomote-episode-1"
-  },
-  {
-    "animeId": "geats-extra-geats-anime-another-grand-prix",
-    "animeTitle": "Geats Extra: Geats Anime - Another Grand Prix",
-    "animeImg": "https://gogocdn.net/cover/geats-extra-geats-anime-another-grand-prix.png",
-    "episode": "Episode 8",
-    "animeUrl": "https://anitaku.so/geats-extra-geats-anime-another-grand-prix-episode-8"
   }
 ]
