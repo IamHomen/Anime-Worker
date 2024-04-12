@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-im-not-a-regressor/",
+    "animeTitle": "I\u2019m Not a Regressor",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/ImNotaRegressorCover01.png",
+    "episode": "Chapter 35",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-im-not-a-regressor/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-overpowered-sword/",
     "animeTitle": "Overpowered Sword",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/overpoweredswordCover02.png",
@@ -56,18 +63,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-genius-of-the-unique-lineage/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/",
-    "animeTitle": "The Genius Assassin Who Takes it All",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/TheGeniusAssassinWhoTakesitAllCover01-1.png",
-    "episode": "Chapter 26",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/",
     "animeTitle": "Superhuman Battlefield",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
     "episode": "Chapter 101",
     "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/",
+    "animeTitle": "The Genius Assassin Who Takes it All",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/TheGeniusAssassinWhoTakesitAllCover01-1.png",
+    "episode": "Chapter 26",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-bloodhounds-regression-instinct/",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/CrazyDemonCover02-1.webp",
     "episode": "Chapter 117",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-return-of-the-crazy-demon/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-reaper-of-the-drifting-moon/",
-    "animeTitle": "Reaper of the Drifting Moon",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/07/Reaper-Moon-Cover-Animation_Compressed.gif",
-    "episode": "Chapter 83",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-reaper-of-the-drifting-moon/"
   }
 ]
