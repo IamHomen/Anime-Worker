@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "mahouka-koukou-no-rettousei-3rd-season",
+    "animeTitle": "Mahouka Koukou no Rettousei 3rd Season",
+    "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/mahouka-koukou-no-rettousei-3rd-season-episode-2"
+  },
+  {
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/bartender-kami-no-glass-episode-2"
-  },
-  {
-    "animeId": "date-a-live-v",
-    "animeTitle": "Date A Live V",
-    "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/date-a-live-v-episode-1"
   }
 ]
