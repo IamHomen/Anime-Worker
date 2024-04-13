@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "yoru-no-kurage-wa-oyogenai",
+    "animeTitle": "Yoru no Kurage wa Oyogenai",
+    "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/yoru-no-kurage-wa-oyogenai-episode-2"
+  },
+  {
     "animeId": "kuroshitsuji-kishuku-gakkou-hen",
     "animeTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
     "animeImg": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/nijiyon-animation-2-episode-2"
-  },
-  {
-    "animeId": "kurayukaba",
-    "animeTitle": "Kurayukaba",
-    "animeImg": "https://gogocdn.net/cover/kurayukaba.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/kurayukaba-episode-1"
   }
 ]
