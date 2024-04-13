@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "karasu-wa-aruji-wo-erabanai",
+    "animeTitle": "Karasu wa Aruji wo Erabanai",
+    "animeImg": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/karasu-wa-aruji-wo-erabanai-episode-2"
+  },
+  {
     "animeId": "the-new-gate",
     "animeTitle": "The New Gate",
     "animeImg": "https://gogocdn.net/cover/the-new-gate.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/tensei-shitara-slime-datta-ken-3rd-season-episode-2"
-  },
-  {
-    "animeId": "astro-note",
-    "animeTitle": "Astro Note",
-    "animeImg": "https://gogocdn.net/cover/astro-note.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/astro-note-episode-2"
   }
 ]
