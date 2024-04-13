@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "pokemon-shinsaku-anime",
+    "animeTitle": "Pokemon (Shinsaku Anime)",
+    "animeImg": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 46",
+    "animeUrl": "https://anitaku.so/pokemon-shinsaku-anime-episode-46"
+  },
+  {
     "animeId": "shadowverse-flame-arc-hen",
     "animeTitle": "Shadowverse Flame: Arc-hen",
     "animeImg": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/henjin-no-salad-bowl-episode-2"
-  },
-  {
-    "animeId": "urusei-yatsura-2022-2nd-season",
-    "animeTitle": "Urusei Yatsura (2022) 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
-    "episode": "Episode 13",
-    "animeUrl": "https://anitaku.so/urusei-yatsura-2022-2nd-season-episode-13"
   }
 ]
