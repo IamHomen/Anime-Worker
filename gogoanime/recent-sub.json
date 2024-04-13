@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "shadowverse-flame-arc-hen",
+    "animeTitle": "Shadowverse Flame: Arc-hen",
+    "animeImg": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/shadowverse-flame-arc-hen-episode-1"
+  },
+  {
     "animeId": "the-idolmster-shiny-colors",
     "animeTitle": "The iDOLM@STER Shiny Colors",
     "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
     "episode": "Episode 13",
     "animeUrl": "https://anitaku.so/urusei-yatsura-2022-2nd-season-episode-13"
-  },
-  {
-    "animeId": "hananoi-kun-to-koi-no-yamai",
-    "animeTitle": "Hananoi-kun to Koi no Yamai",
-    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/hananoi-kun-to-koi-no-yamai-episode-2"
   }
 ]
