@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "the-new-gate",
+    "animeTitle": "The New Gate",
+    "animeImg": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/the-new-gate-episode-1"
+  },
+  {
     "animeId": "sasayaku-you-ni-koi-wo-utau",
     "animeTitle": "Sasayaku You ni Koi wo Utau",
     "animeImg": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/astro-note.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/astro-note-episode-2"
-  },
-  {
-    "animeId": "super-dragon-ball-heroes-meteor-mission",
-    "animeTitle": "Super Dragon Ball Heroes Meteor Mission",
-    "animeImg": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
-    "episode": "Episode 4",
-    "animeUrl": "https://anitaku.so/super-dragon-ball-heroes-meteor-mission-episode-4"
   }
 ]
