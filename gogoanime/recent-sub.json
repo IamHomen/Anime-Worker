@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "kuroshitsuji-kishuku-gakkou-hen",
+    "animeTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "animeImg": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/kuroshitsuji-kishuku-gakkou-hen-episode-1"
+  },
+  {
     "animeId": "kaijuu-8-gou",
     "animeTitle": "Kaijuu 8-gou",
     "animeImg": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/kurayukaba.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/kurayukaba-episode-1"
-  },
-  {
-    "animeId": "kuramerukagari",
-    "animeTitle": "Kuramerukagari",
-    "animeImg": "https://gogocdn.net/cover/kuramerukagari.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/kuramerukagari-episode-1"
   }
 ]
