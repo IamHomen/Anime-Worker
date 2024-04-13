@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "sasayaku-you-ni-koi-wo-utau",
+    "animeTitle": "Sasayaku You ni Koi wo Utau",
+    "animeImg": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/sasayaku-you-ni-koi-wo-utau-episode-1"
+  },
+  {
     "animeId": "yoru-no-kurage-wa-oyogenai",
     "animeTitle": "Yoru no Kurage wa Oyogenai",
     "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
     "episode": "Episode 4",
     "animeUrl": "https://anitaku.so/super-dragon-ball-heroes-meteor-mission-episode-4"
-  },
-  {
-    "animeId": "nijiyon-animation-2",
-    "animeTitle": "Nijiyon Animation 2",
-    "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/nijiyon-animation-2-episode-2"
   }
 ]
