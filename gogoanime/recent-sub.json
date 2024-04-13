@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "tonari-no-youkai-san",
+    "animeTitle": "Tonari no Youkai-san",
+    "animeImg": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/tonari-no-youkai-san-episode-2"
+  },
+  {
     "animeId": "karasu-wa-aruji-wo-erabanai",
     "animeTitle": "Karasu wa Aruji wo Erabanai",
     "animeImg": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/mahouka-koukou-no-rettousei-3rd-season-episode-2"
-  },
-  {
-    "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
-    "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/tensei-shitara-slime-datta-ken-3rd-season-episode-2"
   }
 ]
