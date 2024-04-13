@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "kaijuu-8-gou",
+    "animeTitle": "Kaijuu 8-gou",
+    "animeImg": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/kaijuu-8-gou-episode-1"
+  },
+  {
     "animeId": "one-room-hiatari-futsuu-tenshi-tsuki",
     "animeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
     "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/kuramerukagari.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/kuramerukagari-episode-1"
-  },
-  {
-    "animeId": "ninjala",
-    "animeTitle": "Ninjala",
-    "animeImg": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 112",
-    "animeUrl": "https://anitaku.so/ninjala-episode-112"
   }
 ]
