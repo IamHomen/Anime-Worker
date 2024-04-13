@@ -1,5 +1,19 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-swordmasters-youngest-son/",
+    "animeTitle": "Swordmaster\u2019s Youngest Son",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/04/swordmastersyoungestCover02.png",
+    "episode": "Chapter 107",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-swordmasters-youngest-son/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-boundless-necromancer/",
+    "animeTitle": "Boundless Necromancer",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/12/boundlessNecroCover01.png",
+    "episode": "Chapter 80",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-boundless-necromancer/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-last-adventurer/",
     "animeTitle": "The Last Adventurer",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/TheLastAdventurerCover01.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/03/DemonFactionCover02.png",
     "episode": "Chapter 64",
     "animeUrl": "https://asuratoon.com/manga/1908287720-chronicles-of-the-demon-faction/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-genius-of-the-unique-lineage/",
-    "animeTitle": "Genius of the Unique Lineage",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/08/geniusLineageCover01.png",
-    "episode": "Chapter 63",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-genius-of-the-unique-lineage/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/",
-    "animeTitle": "The Genius Assassin Who Takes it All",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/TheGeniusAssassinWhoTakesitAllCover01-1.png",
-    "episode": "Chapter 26",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-genius-assassin-who-takes-it-all/"
   }
 ]
