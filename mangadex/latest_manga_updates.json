@@ -1,5 +1,32 @@
 [
   {
+    "mangaId": "47f93974-d406-45dd-8dbf-03db95654516",
+    "title": {
+      "en": "Bombergirl"
+    },
+    "updatedAt": "2023-07-09T03:29:53+00:00",
+    "coverArt": "https://mangadex.org/covers/47f93974-d406-45dd-8dbf-03db95654516/23c246c3-6795-41ea-a8b0-e42eb26494f1.jpg",
+    "altTitles": [
+      {
+        "en": "Bombergirl Short Comics"
+      },
+      {
+        "ja": "\u30dc\u30f3\u30d0\u30fc\u30ac\u30fc\u30eb"
+      },
+      {
+        "ja-ro": "Bonbaagaaru"
+      }
+    ],
+    "description": {
+      "en": "Sporadically posted comic pages on the official twitter of the Bombergirl arcade game."
+    },
+    "status": "ongoing",
+    "releaseDate": 2018,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "9bcaaed3-b14a-4c49-b4b6-cc86a2b44be3",
     "title": {
       "en": "Black Corporation: Joseon"
@@ -508,6 +535,30 @@
     "lastChapter": ""
   },
   {
+    "mangaId": "b121ffde-3d18-49f9-b66c-3fea76950aee",
+    "title": {
+      "en": "Muscle Mage"
+    },
+    "updatedAt": "2024-04-04T13:47:11+00:00",
+    "coverArt": "https://mangadex.org/covers/b121ffde-3d18-49f9-b66c-3fea76950aee/b2538689-2196-45c5-8bc5-673861c9b3d6.png",
+    "altTitles": [
+      {
+        "zh-ro": "Gang Meng Da Fa Shi"
+      },
+      {
+        "zh": "\u521a\u731b\u5927\u6cd5\u5e08"
+      }
+    ],
+    "description": {
+      "en": "In an era when magic is prevalent, the magician is the most powerful profession in society. Atilian, who is completely unable to practice magic, has a reason why he must become a great magician!\n\nHe relies on perseverance, passion and courage to conquer everyone around him!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "d4a4aade-f5cf-4670-ad9e-4769f73e3933",
     "title": {
       "en": "The Manager and The Oblivious Waitress"
@@ -539,30 +590,6 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": "55"
-  },
-  {
-    "mangaId": "b121ffde-3d18-49f9-b66c-3fea76950aee",
-    "title": {
-      "en": "Muscle Mage"
-    },
-    "updatedAt": "2024-04-04T13:47:11+00:00",
-    "coverArt": "https://mangadex.org/covers/b121ffde-3d18-49f9-b66c-3fea76950aee/b2538689-2196-45c5-8bc5-673861c9b3d6.png",
-    "altTitles": [
-      {
-        "zh-ro": "Gang Meng Da Fa Shi"
-      },
-      {
-        "zh": "\u521a\u731b\u5927\u6cd5\u5e08"
-      }
-    ],
-    "description": {
-      "en": "In an era when magic is prevalent, the magician is the most powerful profession in society. Atilian, who is completely unable to practice magic, has a reason why he must become a great magician!\n\nHe relies on perseverance, passion and courage to conquer everyone around him!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   },
   {
     "mangaId": "a2320293-f00e-43a0-8d08-1110cf26a894",
@@ -1614,29 +1641,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "751254d3-ba82-4f3d-9c3c-97c070469bff",
-    "title": {
-      "en": "Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made"
-    },
-    "updatedAt": "2024-01-28T21:36:28+00:00",
-    "coverArt": "https://mangadex.org/covers/751254d3-ba82-4f3d-9c3c-97c070469bff/f936ca28-7a5b-4966-8fd4-a5b26ccadf5b.jpg",
-    "altTitles": [
-      {
-        "ja": "\u96d1\u7528\u4ed8\u4e0e\u8853\u5e2b\u304c\u81ea\u5206\u306e\u6700\u5f37\u306b\u6c17\u4ed8\u304f\u307e\u3067"
-      },
-      {
-        "en": "Until the Chore Granting Sorcerer Realized That He Is At His Strongest"
-      }
-    ],
-    "description": {
-      "en": "Wimme Strauss is an adjunct sorcerer who provides support and does odd jobs. However, after defeating the master of the hierarchy, he is expelled from the party by the leader, whose pride is hurt. Wimme is at a loss, but his childhood ~~stalker~~friend Heidemarie finds him and recruits him for the biggest party, the Wings of the Dragon.\n\"It's like a miracle ...... fuhehe.\"\nHe claims that his achievement is a coincidence, but it's only a matter of time before everyone around him realizes what he's capable of."
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": null
   }
 ]
