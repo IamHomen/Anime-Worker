@@ -1,5 +1,33 @@
 [
   {
+    "animeId": "himitsu-no-aipri",
+    "animeTitle": "Himitsu no AiPri",
+    "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/himitsu-no-aipri-episode-2"
+  },
+  {
+    "animeId": "minami-no-niji-no-lucy",
+    "animeTitle": "Minami no Niji no Lucy",
+    "animeImg": "https://gogocdn.net/cover/minami-no-niji-no-lucy.png",
+    "episode": "Episode 50",
+    "animeUrl": "https://anitaku.so/minami-no-niji-no-lucy-episode-50"
+  },
+  {
+    "animeId": "blue-archive-the-animation",
+    "animeTitle": "Blue Archive the Animation",
+    "animeImg": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/blue-archive-the-animation-episode-2"
+  },
+  {
+    "animeId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+    "animeTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "animeImg": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-2"
+  },
+  {
     "animeId": "tensei-kizoku-kantei-skill-de-nariagaru",
     "animeTitle": "Tensei Kizoku, Kantei Skill de Nariagaru",
     "animeImg": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
@@ -110,33 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/yoru-no-kurage-wa-oyogenai-episode-2"
-  },
-  {
-    "animeId": "kuroshitsuji-kishuku-gakkou-hen",
-    "animeTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "animeImg": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/kuroshitsuji-kishuku-gakkou-hen-episode-1"
-  },
-  {
-    "animeId": "kaijuu-8-gou",
-    "animeTitle": "Kaijuu 8-gou",
-    "animeImg": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/kaijuu-8-gou-episode-1"
-  },
-  {
-    "animeId": "one-room-hiatari-futsuu-tenshi-tsuki",
-    "animeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
-    "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
-    "episode": "Episode 3",
-    "animeUrl": "https://anitaku.so/one-room-hiatari-futsuu-tenshi-tsuki-episode-3"
-  },
-  {
-    "animeId": "detective-conan",
-    "animeTitle": "Detective Conan",
-    "animeImg": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1120",
-    "animeUrl": "https://anitaku.so/detective-conan-episode-1120"
   }
 ]
