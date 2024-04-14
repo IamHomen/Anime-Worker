@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "ninja-kamui",
+    "animeTitle": "Ninja Kamui",
+    "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
+    "episode": "Episode 10",
+    "animeUrl": "https://anitaku.so/ninja-kamui-episode-10"
+  },
+  {
+    "animeId": "yozakura-san-chi-no-daisakusen",
+    "animeTitle": "Yozakura-san Chi no Daisakusen",
+    "animeImg": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/yozakura-san-chi-no-daisakusen-episode-2"
+  },
+  {
     "animeId": "bakugan-battle-brawlers-new-vestroia",
     "animeTitle": "Bakugan Battle Brawlers: New Vestroia",
     "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-new-vestroia.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/cardfight-vanguard-divinez.png",
     "episode": "Episode 12",
     "animeUrl": "https://anitaku.so/cardfight-vanguard-divinez-episode-12"
-  },
-  {
-    "animeId": "girls-band-cry",
-    "animeTitle": "Girls Band Cry",
-    "animeImg": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/girls-band-cry-episode-2"
-  },
-  {
-    "animeId": "highspeed-etoile",
-    "animeTitle": "Highspeed Etoile",
-    "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/highspeed-etoile-episode-2"
   }
 ]
