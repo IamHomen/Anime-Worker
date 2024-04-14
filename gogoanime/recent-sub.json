@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "sentai-daishikkaku",
+    "animeTitle": "Sentai Daishikkaku",
+    "animeImg": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/sentai-daishikkaku-episode-2"
+  },
+  {
     "animeId": "ninja-kamui",
     "animeTitle": "Ninja Kamui",
     "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/ooi-tonbo-episode-2"
-  },
-  {
-    "animeId": "cardfight-vanguard-divinez",
-    "animeTitle": "Cardfight!! Vanguard: Divinez",
-    "animeImg": "https://gogocdn.net/cover/cardfight-vanguard-divinez.png",
-    "episode": "Episode 12",
-    "animeUrl": "https://anitaku.so/cardfight-vanguard-divinez-episode-12"
   }
 ]
