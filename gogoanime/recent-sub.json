@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "bakugan-battle-brawlers-new-vestroia",
+    "animeTitle": "Bakugan Battle Brawlers: New Vestroia",
+    "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-new-vestroia.png",
+    "episode": "Episode 52",
+    "animeUrl": "https://anitaku.so/bakugan-battle-brawlers-new-vestroia-episode-52"
+  },
+  {
     "animeId": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol",
     "animeTitle": "One Piece: Log of Rivalry! The Straw Hats and Cipher Pol",
     "animeImg": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/highspeed-etoile-episode-2"
-  },
-  {
-    "animeId": "odekake-kozame",
-    "animeTitle": "Odekake Kozame",
-    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
-    "episode": "Episode 52",
-    "animeUrl": "https://anitaku.so/odekake-kozame-episode-52"
   }
 ]
