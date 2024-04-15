@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
+    "animeTitle": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
+    "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
+    "episode": "Episode 4",
+    "animeUrl": "https://anitaku.so/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-4"
+  },
+  {
     "animeId": "himitsu-no-aipri",
     "animeTitle": "Himitsu no AiPri",
     "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/sasayaku-you-ni-koi-wo-utau-episode-1"
-  },
-  {
-    "animeId": "yoru-no-kurage-wa-oyogenai",
-    "animeTitle": "Yoru no Kurage wa Oyogenai",
-    "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/yoru-no-kurage-wa-oyogenai-episode-2"
   }
 ]
