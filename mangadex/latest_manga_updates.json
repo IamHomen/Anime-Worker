@@ -1,5 +1,38 @@
 [
   {
+    "mangaId": "084f390c-e8b1-471a-aa68-2aa29d454ec6",
+    "title": {
+      "en": "Azur Lane 4-koma: Slow Ahead!"
+    },
+    "updatedAt": "2024-02-09T16:23:46+00:00",
+    "coverArt": "https://mangadex.org/covers/084f390c-e8b1-471a-aa68-2aa29d454ec6/303e4f9d-f38b-4b0e-aed0-6f41c1eb0bfb.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Azur Lane 4-koma: Bisoku Zenshin!"
+      },
+      {
+        "ja-ro": "Azure Lane: Bisoku Zensin!"
+      },
+      {
+        "en": "Azure Lane: Slow Ahead!"
+      },
+      {
+        "ja": "\u30a2\u30ba\u30fc\u30eb\u30ec\u30fc\u30f3\uff14\u30b3\u30de\u30de\u30f3\u30ac\u3000\u3073\u305d\u304f\u305c\u3093\u3057\u3093\u3063\uff01"
+      },
+      {
+        "pl": "Azur Lane: Leniwie Naprz\u00f3d!"
+      }
+    ],
+    "description": {
+      "en": "Official 4-koma webcomic from the popular mobile game Azur Lane."
+    },
+    "status": "ongoing",
+    "releaseDate": 2018,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "8332417b-d7f1-4888-b5ea-9b807e5ca37f",
     "title": {
       "en": "My Sect's Senior Disciple Has a Hole in His Brain"
@@ -1589,43 +1622,6 @@
     "status": "ongoing",
     "releaseDate": 2024,
     "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "2750ed89-ea66-4c0c-ab05-7417a9e0de3e",
-    "title": {
-      "en": "The Kingdoms of Ruin"
-    },
-    "updatedAt": "2024-03-22T10:05:42+00:00",
-    "coverArt": "https://mangadex.org/covers/2750ed89-ea66-4c0c-ab05-7417a9e0de3e/049de459-f552-4908-a330-8db58f8892ff.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Hametsu no Oukoku"
-      },
-      {
-        "ru": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0440\u0443\u0438\u043d"
-      },
-      {
-        "ja": "\u306f\u3081\u3064\u306e\u304a\u3046\u3053\u304f"
-      },
-      {
-        "ko": "\ud30c\uba78\uc758 \uc655\uad6d"
-      },
-      {
-        "ru": "\u0420\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u044b\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430"
-      },
-      {
-        "pt-br": "Os Reinos da Ru\u00edna"
-      }
-    ],
-    "description": {
-      "en": "Due to the Gear Expansion, witches who had been friends with the people become unnecessary. Humans, who were afraid of unscientific power, begin a witch hunt\u2026 And a human boy who has his beloved witch killed becomes the \u201cWizard of vengeance\u201d.",
-      "pt-br": "Devido \u00e0 Expans\u00e3o da Tecnologia, as bruxas que eram amigas do povo se tornaram desnecess\u00e1rias. Humanos, que temiam o poder n\u00e3o cient\u00edfico, come\u00e7am uma ca\u00e7a \u00e0s bruxas\u2026 E um menino humano que teve sua amada bruxa morta, se torna o \u201cMago da Vingan\u00e7a\u201d."
-    },
-    "status": "ongoing",
-    "releaseDate": 2019,
-    "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
   }
