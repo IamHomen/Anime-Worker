@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "tadaima-okaeri",
+    "animeTitle": "Tadaima, Okaeri",
+    "animeImg": "https://gogocdn.net/cover/tadaima-okaeri.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/tadaima-okaeri-episode-2"
+  },
+  {
     "animeId": "remonster",
     "animeTitle": "Re:Monster",
     "animeImg": "https://gogocdn.net/cover/remonster-1711737486.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-new-vestroia.png",
     "episode": "Episode 52",
     "animeUrl": "https://anitaku.so/bakugan-battle-brawlers-new-vestroia-episode-52"
-  },
-  {
-    "animeId": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol",
-    "animeTitle": "One Piece: Log of Rivalry! The Straw Hats and Cipher Pol",
-    "animeImg": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
-    "episode": "Episode 1",
-    "animeUrl": "https://anitaku.so/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol-episode-1"
   }
 ]
