@@ -1,5 +1,32 @@
 [
   {
+    "mangaId": "3486c56e-47db-4d62-a9b4-71ea44acbaec",
+    "title": {
+      "en": "Centuria"
+    },
+    "updatedAt": "2024-04-14T16:41:31+00:00",
+    "coverArt": "https://mangadex.org/covers/3486c56e-47db-4d62-a9b4-71ea44acbaec/cd6ab605-b228-405b-9791-3e630588d6f1.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30b1\u30f3\u30c8\u30a5\u30ea\u30a2"
+      },
+      {
+        "vi": "Centuria"
+      },
+      {
+        "en": "Centuria"
+      }
+    ],
+    "description": {
+      "en": "Stowing himself away on a slave ship, Julian sets sail for the great continent with a hundred slaves, all yearning for freedom, until...?! Embark on a groundbreaking journey through this action-packed dark fantasy saga!!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "63578db4-fb38-4f4f-9907-7bd93a12e77f",
     "title": {
       "en": "Ochikobore Shoukanshi to Toumei na Boku"
@@ -1617,35 +1644,5 @@
     "contentRating": "erotica",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "84bab9b6-b5c1-40e2-a9ce-0664e519b177",
-    "title": {
-      "en": "Takemitsu Zamurai"
-    },
-    "updatedAt": "2022-07-06T22:35:43+00:00",
-    "coverArt": "https://mangadex.org/covers/84bab9b6-b5c1-40e2-a9ce-0664e519b177/ec640bb2-022e-431b-a46a-294b32b01c1f.jpg",
-    "altTitles": [
-      {
-        "en": "Bamboo Samurai"
-      },
-      {
-        "tr": "Bambu K\u0131l\u0131\u00e7l\u0131 Samuray"
-      },
-      {
-        "ja-ro": "Takemitsuzamurai"
-      },
-      {
-        "ja": "\u7af9\u5149\u4f8d"
-      }
-    ],
-    "description": {
-      "en": "Early one New Year's morning, the rounin Senou Souichirou appears in Edo's Katagi tenements.  \n  \nInitially, the inhabitants regard him with fear and suspicion: Kankichi, the carpenter's son, thinks he may not be human; the neighborhood cats remark that he reeks of blood. But soon Souichirou pawns his sword, and, with a bamboo replica at his waist, settles down to a quiet life as the neighborhood school-teacher.  \n  \nMonths pass, and all appears to be well. But trouble will not leave the Katagi tenements alone \u2026  \n  \n---\n- **Won the 15th Osamu Tezuka Cultural Grand Prize in 2011**"
-    },
-    "status": "completed",
-    "releaseDate": 2006,
-    "contentRating": "safe",
-    "lastVolume": "8",
-    "lastChapter": "83"
   }
 ]
