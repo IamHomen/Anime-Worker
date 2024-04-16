@@ -16,14 +16,6 @@
     "format": "TV"
   },
   {
-    "id": 139518,
-    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-GZWYKM8Kg1S2.png",
-    "seasonYear": 2024,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 21,
     "title": "ONE PIECE",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg",
@@ -45,6 +37,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156415-zwP9deA786S1.jpg",
     "seasonYear": 2024,
     "totalEpisode": null,
+    "format": "TV"
+  },
+  {
+    "id": 139518,
+    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139518-GZWYKM8Kg1S2.png",
+    "seasonYear": 2024,
+    "totalEpisode": 25,
     "format": "TV"
   },
   {
@@ -72,22 +72,6 @@
     "format": "TV"
   },
   {
-    "id": 166372,
-    "title": "Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166372-AO67sLMZfUpB.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": null,
-    "format": "TV"
-  },
-  {
-    "id": 163270,
-    "title": "WIND BREAKER",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
     "id": 154587,
     "title": "Sousou no Frieren",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
@@ -96,11 +80,27 @@
     "format": "TV"
   },
   {
+    "id": 166372,
+    "title": "Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166372-AO67sLMZfUpB.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": null,
+    "format": "TV"
+  },
+  {
     "id": 155657,
     "title": "Shuumatsu Train Doko e Iku?",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155657-qZo0UNx6rEN0.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 163270,
+    "title": "WIND BREAKER",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 13,
     "format": "TV"
   },
   {
@@ -136,6 +136,14 @@
     "format": "TV"
   },
   {
+    "id": 163078,
+    "title": "Yoru no Kurage wa Oyogenai",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
     "id": 161645,
     "title": "Kusuriya no Hitorigoto",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-bX5S28Cc1Nnk.jpg",
@@ -160,27 +168,11 @@
     "format": "TV"
   },
   {
-    "id": 163078,
-    "title": "Yoru no Kurage wa Oyogenai",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 158417,
     "title": "Sentai Daishikkaku",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158417-2jUaUdiGBZQ8.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 136804,
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 11,
     "format": "TV"
   },
   {
@@ -272,11 +264,11 @@
     "format": "TV"
   },
   {
-    "id": 164212,
-    "title": "Girls Band Cry",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164212-xjkAkp6SKaCZ.jpg",
+    "id": 136804,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136804-7FVftG67FPBc.jpg",
     "seasonYear": 2024,
-    "totalEpisode": null,
+    "totalEpisode": 11,
     "format": "TV"
   },
   {
@@ -344,11 +336,11 @@
     "format": "TV"
   },
   {
-    "id": 155890,
-    "title": "Bartender: Kami no Glass",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155890-1dhQgpT8wYkF.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": null,
+    "id": 151801,
+    "title": "MASHLE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-wYg28dEaJAw3.png",
+    "seasonYear": 2023,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -376,6 +368,22 @@
     "format": "TV"
   },
   {
+    "id": 166910,
+    "title": "The Fable",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 25,
+    "format": "TV"
+  },
+  {
+    "id": 164212,
+    "title": "Girls Band Cry",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164212-xjkAkp6SKaCZ.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": null,
+    "format": "TV"
+  },
+  {
     "id": 143271,
     "title": "Mahouka Koukou no Rettousei 3rd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143271-o5wry0ohH9R3.jpg",
@@ -389,14 +397,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137908-50af3lKVbst2.jpg",
     "seasonYear": 2024,
     "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
-    "id": 113415,
-    "title": "Jujutsu Kaisen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
-    "seasonYear": 2020,
-    "totalEpisode": 24,
     "format": "TV"
   }
 ]
