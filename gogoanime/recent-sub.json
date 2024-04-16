@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "junk-boy",
+    "animeTitle": "Junk Boy",
+    "animeImg": "https://gogocdn.net/cover/junk-boy.png",
+    "episode": "Episode 1",
+    "animeUrl": "https://anitaku.so/junk-boy-episode-1"
+  },
+  {
     "animeId": "the-fable",
     "animeTitle": "The Fable",
     "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/shinigami-bocchan-to-kuro-maid-3rd-season-episode-2"
-  },
-  {
-    "animeId": "captain-tsubasa-season-2-junior-youth-hen",
-    "animeTitle": "Captain Tsubasa Season 2: Junior Youth-hen",
-    "animeImg": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
-    "episode": "Episode 28",
-    "animeUrl": "https://anitaku.so/captain-tsubasa-season-2-junior-youth-hen-episode-28"
   }
 ]
