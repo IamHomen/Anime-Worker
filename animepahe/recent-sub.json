@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 62446,
+      "anime_id": 5549,
+      "anime_title": "Boukyaku Battery (TV)",
+      "anime_session": "00efab8e-24ea-a14f-8dee-1464e7da48b9",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/eb7f0c7bae3734afe4a5889d1e0dcb60504e392ad8b2b40944427c9b1485205b.jpg",
+      "disc": "",
+      "session": "2e5eeffad8bcdd4cf3c2eeefdd0fea492754a61722846a3dc6bb3680ca05630f",
+      "filler": 0,
+      "created_at": "2024-04-16 16:06:25",
+      "completed": 0
+    },
+    {
+      "id": 62445,
+      "anime_id": 5521,
+      "anime_title": "Unnamed Memory",
+      "anime_session": "bb667824-0e7e-ef83-1567-21d10e9d9cf2",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/31457342c4e119acfaba876429d65a8ecd164d66b47f9b82471f2d3cdb9f60f3.jpg",
+      "disc": "",
+      "session": "c0f1430750eea01111fd2b67b2d02e8e140adab8bd06eefb703ffa76ce477324",
+      "filler": 0,
+      "created_at": "2024-04-16 15:06:59",
+      "completed": 0
+    },
+    {
       "id": 62444,
       "anime_id": 5456,
       "anime_title": "Pon no Michi",
@@ -166,38 +198,6 @@
       "session": "8099f599ed03de47c1ac0fa13184b0a1b386c3fe29428e6783b1c8847ee5ccce",
       "filler": 0,
       "created_at": "2024-04-15 13:35:32",
-      "completed": 0
-    },
-    {
-      "id": 62423,
-      "anime_id": 5548,
-      "anime_title": "Shuumatsu Train Doko e Iku?",
-      "anime_session": "555fc326-7dd3-a5f2-d889-ddc7fab3b441",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/bd51b685af71bd7753941bf1a7c1ad2de7e771e15aa8d1ff51f10450b80efec8.jpg",
-      "disc": "",
-      "session": "8fdd4c69c2c5f35f0b278913b0f86c46366aab549461347cfdc78ea14bb435bf",
-      "filler": 0,
-      "created_at": "2024-04-15 12:36:15",
-      "completed": 0
-    },
-    {
-      "id": 62421,
-      "anime_id": 5510,
-      "anime_title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-      "anime_session": "16c60c57-cbeb-a81d-d01f-d6417eda0eec",
-      "episode": 14,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "MTBB",
-      "snapshot": "https://i.animepahe.ru/snapshots/355dc803b31ed6634a901e843d99d401f4ac4cd6230704d826f1fd3f059f4a03.jpg",
-      "disc": "",
-      "session": "ebee7ee92aeff79433f001e76c686fd88514e9fcc106f15d47a35af4a35d452e",
-      "filler": 0,
-      "created_at": "2024-04-14 15:35:13",
       "completed": 0
     }
   ]
