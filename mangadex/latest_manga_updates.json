@@ -1,5 +1,130 @@
 [
   {
+    "mangaId": "7d121a49-15b6-45a7-87f5-57891abce744",
+    "title": {
+      "en": "Fate/Grand Order: Fujimaru Ritsuka Doesn't Get it"
+    },
+    "updatedAt": "2023-08-05T10:47:50+00:00",
+    "coverArt": "https://mangadex.org/covers/7d121a49-15b6-45a7-87f5-57891abce744/b9d3c61c-6456-4507-9eea-e2e3320c7546.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai"
+      },
+      {
+        "ja": "Fate/Grand Order \u85e4\u4e38\u7acb\u9999\u306f\u308f\u304b\u3089\u306a\u3044"
+      },
+      {
+        "fr": "Fate/Grand Order : Ritsuka Fujimaru n\u2019a rien pig\u00e9"
+      },
+      {
+        "en": "You've Lost Ritsuka Fujimaru"
+      }
+    ],
+    "description": {
+      "en": "New short comedy manga based on Fate/Grand Order."
+    },
+    "status": "ongoing",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "a82fe527-9e74-48d0-9c5f-a5e788c0bd4a",
+    "title": {
+      "en": "The Villainess Is a Marionette"
+    },
+    "updatedAt": "2024-01-28T22:53:53+00:00",
+    "coverArt": "https://mangadex.org/covers/a82fe527-9e74-48d0-9c5f-a5e788c0bd4a/c62f9627-3690-47f4-b0cd-0060e379eb8b.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc545\ub140\ub294 \ub9c8\ub9ac\uc624\ub124\ud2b8"
+      },
+      {
+        "ko-ro": "Agnyeoneun Marionette"
+      },
+      {
+        "ko-ro": "Agnyeoneun Marioneteu"
+      },
+      {
+        "fr": "La vilaine est une marionnette"
+      },
+      {
+        "fr": "L'antagoniste est une marionnette"
+      },
+      {
+        "pt-br": "A vil\u00e3 \u00e9 uma marionete"
+      },
+      {
+        "es": "La villana es una marioneta"
+      },
+      {
+        "uk": "\u041b\u0438\u0445\u043e\u0434\u0456\u0439\u043a\u0430-\u043c\u0430\u0440\u0456\u043e\u043d\u0435\u0442\u043a\u0430"
+      },
+      {
+        "uk": "\u041b\u0438\u0445\u043e\u0434\u0456\u0439\u043a\u0430 \u041c\u0430\u0440\u0456\u043e\u043d\u0435\u0442\u043a\u0430"
+      },
+      {
+        "ru": "\u0417\u043b\u043e\u0434\u0435\u0439\u043a\u0430-\u043c\u0430\u0440\u0438\u043e\u043d\u0435\u0442\u043a\u0430"
+      },
+      {
+        "fa": "\u0634\u0631\u0648\u0631 \u0639\u0631\u0648\u0633\u06a9 \u062e\u06cc\u0645\u0647\u200c\u0634\u0628 \u0628\u0627\u0632\u06cc \u0627\u0633\u062a"
+      },
+      {
+        "fa": "\u0634\u0631\u0648\u0631 \u0639\u0631\u0648\u0633\u06a9 \u062e\u06cc\u0645\u0647\u0634\u0628 \u0628\u0627\u0632\u06cc \u0627\u0633\u062a"
+      },
+      {
+        "mn": "\u0425\u043e\u0440\u043e\u043d \u0441\u0430\u043d\u0430\u0430\u0442 \u0443\u0442\u0441\u0430\u043d \u0445\u04af\u04af\u0445\u044d\u043b\u0434\u044d\u0439"
+      },
+      {
+        "ja": "\u60aa\u5973\u306f\u30de\u30ea\u30aa\u30cd\u30c3\u30c8"
+      },
+      {
+        "th": "\u0e19\u0e32\u0e07\u0e23\u0e49\u0e32\u0e22\u0e2b\u0e38\u0e48\u0e19\u0e40\u0e0a\u0e34\u0e14"
+      },
+      {
+        "zh": "\u6076\u5973\u4e0d\u505a\u63d0\u7ebf\u6728\u5076"
+      },
+      {
+        "zh": "\u6076\u5973\u662f\u63d0\u7ebf\u6728\u5076"
+      },
+      {
+        "zh-hk": "\u60e1\u5973\u662f\u61f8\u7d72\u6728\u5076"
+      },
+      {
+        "zh-hk": "\u60e1\u5973\u662f\u61f8\u7dda\u6728\u5076"
+      },
+      {
+        "vi": "K\u1ebb Ph\u1ea3n di\u1ec7n ch\u1ec9 l\u00e0 M\u1ed9t Con R\u1ed1i"
+      },
+      {
+        "vi": "\u00c1c N\u1eef L\u00e0 Con R\u1ed1i"
+      },
+      {
+        "id": "Aku Bukan Boneka"
+      },
+      {
+        "id": "Boneka Marionette"
+      },
+      {
+        "id": "Penjahat Wanita Adalah Boneka"
+      },
+      {
+        "fr": "La M\u00e9chante est une marionnette (piccoma)"
+      }
+    ],
+    "description": {
+      "en": "\"Beauty cannot be real power.\"\n\nCayena, the Imperial Princess, was known as the most beautiful woman in the Empire. She was a woman who knew nothing but evil and luxury. However, she was destined for ruin: she would be used as a chess piece by her younger brother to secure his throne and killed by her crazy husband.\n\n\"I'll make you the emperor.\"\n\n\"\u2026Sister, you're going to make me the emperor?\"\n\n\"In exchange, give me freedom.\"\n\nShe had to change things before she became *that* Cayena.\n\n---\nI woke up as Kayena Hill, the novel\u2019s villainess, praised as the greatest beauty in the empire. Who knew that her story would catch my attention because I was her in my past life? Destined for terrible ends, I\u2019ve died twice\u2014but I refuse to die a third time as a pawn in someone else\u2019s scheme. I\u2019m no longer the vain and na\u00efve princess. Now that I know how the story will unfold, I\u2019ll turn the tables around and have everyone dancing to my tune. This time, I\u2019ll be the one pulling the strings.\n\n---\n**Original Webtoon:** [Daum](https://webtoon.kakao.com/content/%EC%95%85%EB%85%80%EB%8A%94-%EB%A7%88%EB%A6%AC%EC%98%A4%EB%84%A4%ED%8A%B8/2464), [KakaoPage](https://page.kakao.com/content/56422254)\n\n**Official Translations:**\n* English: [Radish](https://radishfiction.com/stories/17106), [Tapas](https://tapas.io/series/the-villainess-is-a-marionette/info)\n* [Chinese (Simplified) / \u6c49\u8bed](https://www.podoteng.com/)\n* [Chinese (Traditional) / \u6f22\u8a9e](https://tw.kakaowebtoon.com/content/%E6%83%A1%E5%A5%B3%E6%98%AF%E6%87%B8%E7%B5%B2%E6%9C%A8%E5%81%B6/94)\n* [French / Fran\u00e7ais](https://fr.piccoma.com/fr/product/231)\n* [Indonesian / Bahasa Indonesia](https://id.kakaowebtoon.com/content/The-Villainess-is-a-Marionette/40)\n* [Japanese / \u65e5\u672c\u8a9e](https://piccoma.com/web/product/67171)\n* [Thai / \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22](https://th.kakaowebtoon.com/content/%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94/117)",
+      "ru": "\u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430 \u041a\u0430\u0435\u043d\u0430, \u043f\u0440\u043e\u0441\u043b\u0430\u0432\u0438\u0432\u0448\u0430\u044f\u0441\u044f \u0441\u0432\u043e\u0435\u0439 \u043a\u0440\u0430\u0441\u043e\u0442\u043e\u0439 \u043d\u0430 \u0432\u0441\u044e \u0418\u043c\u043f\u0435\u0440\u0438\u044e, \u043d\u0435 \u0432\u0435\u0434\u0430\u0435\u0442 \u043d\u0438\u0447\u0435\u0433\u043e, \u043a\u0440\u043e\u043c\u0435 \u0430\u043b\u0447\u043d\u043e\u0441\u0442\u0438 \u0438 \u0437\u043b\u043e\u0431\u044b. \u0414\u043e\u043b\u0433\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u043e\u043d\u0430 \u043f\u044b\u0442\u0430\u043b\u0430\u0441\u044c \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u0441\u0432\u043e\u0435\u0433\u043e \u043c\u043b\u0430\u0434\u0448\u0435\u0433\u043e \u0431\u0440\u0430\u0442\u0430-\u0442\u0438\u0440\u0430\u043d\u0430, \u043d\u043e \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u043b\u0430 \u0441\u043c\u0435\u0440\u0442\u044c \u043e\u0442 \u0440\u0443\u043a\u0438 \u0441\u0432\u043e\u0435\u0433\u043e \u043c\u0443\u0436\u0430.\n\u2014 \u042f \u043f\u043e\u043c\u043e\u0433\u0443 \u0442\u0435\u0431\u0435 \u0441\u0442\u0430\u0442\u044c \u0418\u043c\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u043c.\n\u2014 \u0421\u0435\u0441\u0442\u0440\u0430\u2026 \u0412\u044b \u043e\u0431\u043e \u043c\u043d\u0435?..\n\u2014 \u041d\u043e \u0432 \u043e\u0431\u043c\u0435\u043d\u2026 \u0442\u044b \u043f\u043e\u0434\u0430\u0440\u0438\u0448\u044c \u043c\u043d\u0435 \u0441\u0432\u043e\u0431\u043e\u0434\u0443.\n\u0414\u043e \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u00ab\u044f\u00bb \u0441\u0442\u0430\u043d\u0443 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u043e\u0439 \u041a\u0430\u0435\u043d\u043e\u0439.\n\n---\n**Original Webtoon:** [Daum](https://webtoon.kakao.com/content/%EC%95%85%EB%85%80%EB%8A%94-%EB%A7%88%EB%A6%AC%EC%98%A4%EB%84%A4%ED%8A%B8/2464), [KakaoPage](https://page.kakao.com/content/56422254)\n\n**Official Translations:**\n* English: [Radish](https://radishfiction.com/stories/17106), [Tapas](https://tapas.io/series/the-villainess-is-a-marionette/info)\n* [Chinese (Simplified) / \u6c49\u8bed](https://www.podoteng.com/)\n* [Chinese (Traditional) / \u6f22\u8a9e](https://tw.kakaowebtoon.com/content/%E6%83%A1%E5%A5%B3%E6%98%AF%E6%87%B8%E7%B5%B2%E6%9C%A8%E5%81%B6/94)\n* [French / Fran\u00e7ais](https://fr.piccoma.com/fr/product/231)\n* [Indonesian / Bahasa Indonesia](https://id.kakaowebtoon.com/content/The-Villainess-is-a-Marionette/40)\n* [Japanese / \u65e5\u672c\u8a9e](https://piccoma.com/web/product/67171)\n* [Thai / \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22](https://th.kakaowebtoon.com/content/%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94/117)",
+      "zh": "\u5e1d\u56fd\u7684\u7687\u5973\uff0c\u5361\u4e5f\u5a1c\uff0c\u88ab\u8a89\u4e3a\u5e1d\u56fd\u6700\u6f02\u4eae\u7684\u5973\u4eba\u3002 \u5979\u4e5f\u662f\u4e00\u4e2a\u9664\u4e86\u90aa\u6076\u4e0e\u5962\u4f88\u4ee5\u5916\u4e00\u65e0\u6240\u77e5\u7684\u5973\u4eba\u3002 \u4f46\u662f\uff0c\u5979\u6ce8\u5b9a\u4f1a\u706d\u4ea1\uff1a\u5979\u7684\u5f1f\u5f1f\u7528\u5979\u4f5c\u4e3a\u68cb\u5b50\u6765\u4fdd\u4f4f\u81ea\u5df1\u7684\u738b\u4f4d\uff0c\u800c\u6700\u7ec8\u5361\u4e5f\u5a1c\u4e5f\u4f1a\u88ab\u81ea\u5df1\u75af\u72c2\u7684\u4e08\u592b\u6740\u6b7b\u3002 \u201c\u6211\u4f1a\u8ba9\u4f60\u6210\u4e3a\u7687\u5e1d\u3002\u201d \u201c\u2026\u2026\u59d0\u59d0\uff0c\u60a8\u662f\u6307\u6211\u5417\uff1f\u201d \u201c\u4f5c\u4e3a\u4ea4\u6362\uff0c\u8bf7\u7ed9\u6211\u81ea\u7531\u3002\u201d \u5979\u5fc5\u987b\u5728\u6210\u4e3a\u90a3\u4e2a\u5361\u4e5f\u5a1c\u4e4b\u524d\u626d\u8f6c\u5c40\u9762\u3002\n\n---\n**Original Webtoon:** [Daum](https://webtoon.kakao.com/content/%EC%95%85%EB%85%80%EB%8A%94-%EB%A7%88%EB%A6%AC%EC%98%A4%EB%84%A4%ED%8A%B8/2464), [KakaoPage](https://page.kakao.com/content/56422254)\n\n**Official Translations:**\n* English: [Radish](https://radishfiction.com/stories/17106), [Tapas](https://tapas.io/series/the-villainess-is-a-marionette/info)\n* [Chinese (Simplified) / \u6c49\u8bed](https://www.podoteng.com/)\n* [Chinese (Traditional) / \u6f22\u8a9e](https://tw.kakaowebtoon.com/content/%E6%83%A1%E5%A5%B3%E6%98%AF%E6%87%B8%E7%B5%B2%E6%9C%A8%E5%81%B6/94)\n* [French / Fran\u00e7ais](https://fr.piccoma.com/fr/product/231)\n* [Indonesian / Bahasa Indonesia](https://id.kakaowebtoon.com/content/The-Villainess-is-a-Marionette/40)\n* [Japanese / \u65e5\u672c\u8a9e](https://piccoma.com/web/product/67171)\n* [Thai / \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22](https://th.kakaowebtoon.com/content/%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94/117)"
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "af21fa9b-3adb-43d4-8f58-2d57b0b60b5a",
     "title": {
       "en": "Circle"
@@ -19,6 +144,41 @@
     "status": "ongoing",
     "releaseDate": 2015,
     "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "3a8488a3-8b93-4576-baee-cae53c2be018",
+    "title": {
+      "en": "Kill the Male Lead to Become the Villainess"
+    },
+    "updatedAt": "2024-04-04T21:48:42+00:00",
+    "coverArt": "https://mangadex.org/covers/3a8488a3-8b93-4576-baee-cae53c2be018/24246a44-11a6-4441-816e-2372481bd10e.png",
+    "altTitles": [
+      {
+        "zh": "\u6740\u6b7b\u7537\u4e3b\u7136\u540e\u6210\u4e3a\u5973\u9b54\u5934"
+      },
+      {
+        "ru": "\u0423\u0431\u0438\u0442\u044c \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0433\u0435\u0440\u043e\u044f, \u0447\u0442\u043e\u0431\u044b \u0441\u0442\u0430\u0442\u044c \u0437\u043b\u043e\u0434\u0435\u0439\u043a\u043e\u0439"
+      },
+      {
+        "zh-ro": "Sha Si Nan Zhu Ranhou Chengwei Nv Mo Tou"
+      },
+      {
+        "zh-ro": "Sh\u0101 S\u01d0 N\u00e1n Zh\u01d4 R\u00e1nh\u00f2u Ch\u00e9ngw\u00e9i N\u01da M\u00f3 T\u00f3u"
+      },
+      {
+        "en": "Kill the Male Lead to Become the Demoness"
+      }
+    ],
+    "description": {
+      "en": "After killing the male lead, the originally innocent girl transformed into a villainess.\nJust as she was about to enjoy her newfound freedom, she died a violent death and returned back to the start of the game.\nHaving carried over with her all the skills she acquired in her previous \"playthrough\", she was prepared to kill the male lead again; however, the current circumstances seem a bit... strange?",
+      "ru": "\u0423\u0431\u0438\u0432 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0433\u0435\u0440\u043e\u044f, \u0434\u0435\u0432\u0443\u0448\u043a\u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043c\u043e\u043d\u0441\u0442\u0440\u043e\u043c \u0432 \u0433\u043b\u0430\u0437\u0430\u0445 \u0434\u0440\u0443\u0433\u0438\u0445, \u043d\u043e, \u0441\u043e\u0431\u0438\u0440\u0430\u044f\u0441\u044c \u043d\u0430\u0441\u043b\u0430\u0434\u0438\u0442\u044c\u0441\u044f \u0441\u0432\u043e\u0431\u043e\u0434\u043e\u0439, \u0442\u0440\u0430\u0433\u0438\u0447\u043d\u043e \u043f\u043e\u0433\u0438\u0431\u0430\u0435\u0442 \u0438 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u0438\u0433\u0440\u044b. \u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0432 \u0437\u043d\u0430\u043d\u0438\u044f \u0438 \u043d\u0430\u0432\u044b\u043a\u0438 \u0438\u0437 \u043f\u0440\u043e\u0448\u043b\u043e\u0439 \u0436\u0438\u0437\u043d\u0438, \u043e\u043d\u0430 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c \u0441\u0432\u043e\u0451 \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u043e, \u043e\u0434\u043d\u0430\u043a\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u044f\u0449\u0435\u0435 \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u043d\u0435\u043c\u043d\u043e\u0433\u043e\u2026 \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u043c.\n\u00ab\u0414\u0430 \u043a\u0442\u043e \u0436\u0435 \u0442\u044b \u0442\u0430\u043a\u043e\u0439?!\u00bb",
+      "zh": "\u6740\u6b7b\u7537\u4e3b\u89d2\u540e\uff0c\u539f\u5c0f\u767d\u82b1\u5973\u4e8c\u9ed1\u5316\u6210\u4e86\u5973\u9b54\u5934\uff0c\u6b63\u5f53\u5979\u5feb\u610f\u6c5f\u6e56\u7684\u65f6\u5019\u5374\u66b4\u6bd9\u56de\u5230\u6e38\u620f\u7684\u5f00\u5934\u3002\u7ee7\u627f\u4e86\u4e0a\u5468\u76ee\u6240\u6709\u80fd\u529b\u7684\u5979\u51c6\u5907\u5148\u4e0b\u624b\u4e3a\u5f3a\u518d\u6b21\u6740\u6b7b\u7537\u4e3b\uff0c\u53ea\u662f\u73b0\u5728\u7684\u60c5\u51b5\u597d\u50cf\u6709\u70b9\u2026\u2026\u610f\u5916\uff1f \u201c\u4e0d\u5bf9\uff0c\u4f60\u5230\u5e95\u8c01\u554a\u2014\u2014\uff1f\uff01\u201d"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
   },
@@ -280,7 +440,7 @@
       "en": "Erio and the Electric Doll"
     },
     "updatedAt": "2024-02-28T18:26:04+00:00",
-    "coverArt": "https://mangadex.org/covers/21699dbf-c427-41d8-bbcf-c7cbd1755615/265c0c94-b3d6-4eef-bded-c4dbe175fa68.jpg",
+    "coverArt": "https://mangadex.org/covers/21699dbf-c427-41d8-bbcf-c7cbd1755615/568631e3-a6ef-4bd9-a98d-b77aaeabda69.jpg",
     "altTitles": [
       {
         "ja": "\u30a8\u30ea\u30aa\u3068\u96fb\u6c17\u4eba\u5f62"
@@ -1640,125 +1800,5 @@
     "contentRating": "safe",
     "lastVolume": "4",
     "lastChapter": "22"
-  },
-  {
-    "mangaId": "ffe69cc2-3f9e-4eab-a7f7-c963cea9ec25",
-    "title": {
-      "en": "Hitoribocchi no Isekai Kouryaku"
-    },
-    "updatedAt": "2023-08-14T21:05:16+00:00",
-    "coverArt": "https://mangadex.org/covers/ffe69cc2-3f9e-4eab-a7f7-c963cea9ec25/9155f8de-88f8-49a9-844d-770b5ee86dd7.jpg",
-    "altTitles": [
-      {
-        "en": "Loner Life in Another World"
-      },
-      {
-        "ja": "\u3072\u3068\u308a\u307c\u3063\u3061\u306e\u7570\u4e16\u754c\u653b\u7565"
-      },
-      {
-        "zh": "\u5b64\u55ae\u4e00\u4eba\u7684\u7570\u4e16\u754c\u653b\u7565"
-      },
-      {
-        "el": "\u039c\u03bf\u03bd\u03b1\u03c7\u03b9\u03ba\u03ae \u03b5\u03c0\u03af\u03b8\u03b5\u03c3\u03b7 \u03c3\u03c4\u03bf\u03bd \u03b1\u03bb\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf."
-      },
-      {
-        "ru": "\u041d\u0430\u043f\u0430\u0434\u0435\u043d\u0438\u0435 \u043e\u0434\u0438\u043d\u043e\u0447\u043a\u0438 \u043d\u0430 \u0438\u043d\u043e\u0439 \u043c\u0438\u0440"
-      },
-      {
-        "zh-ro": "Duzi Yi Ren De Yi Shijie Gongl\u00fce"
-      },
-      {
-        "ko": "Wetol'i'eui Isegye Gongryag"
-      },
-      {
-        "zh-hk": "\u7368\u81ea\u4e00\u4eba\u7684\u7570\u4e16\u754c\u653b\u7565"
-      },
-      {
-        "ko": "\uc678\ud1a8\uc774\uc758 \uc774\uc138\uacc4 \uacf5\ub7b5"
-      },
-      {
-        "th": "\u0e19\u0e32\u0e22\u0e42\u0e14\u0e14\u0e40\u0e14\u0e35\u0e48\u0e22\u0e27\u0e1e\u0e34\u0e0a\u0e34\u0e15\u0e15\u0e48\u0e32\u0e07\u0e42\u0e25\u0e01"
-      },
-      {
-        "en": "Lonely Attack on the Different World"
-      }
-    ],
-    "description": {
-      "en": "The strongest doesn\u2019t need any cheats! Haruka, who spends his high school life a loner, was suddenly summoned to another world one day along with all his classmates. When ol\u2019 God enters the picture, Haruka believes he can just choose whatever cheat skill he wants to help him survive in the new world\u2026 But, contrary to his expectations, that list of cheat skills works on a first come, first serve basis. And so, his classmates pick out all the cheat skills. His choices now limited to leftovers, Haruka finds himself incapable of assembling a party due to his own \u201cloner\u201d skill. Even though it\u2019s a different world, it seems his adventuring days will be, as per usual, a solitary affair\u2026 After becoming aware of a crisis looming over his classmates, Haruka makes a silent vow to save them. No relying on cheats! He will walk a heretical path of strength that transcends the need for them.  \n  \nThe curtain rises on the strongest loner\u2019s otherworld strategy guide!",
-      "es-la": "El fuerte no necesita trucos. Haruka, un estudiante de preparatoria quien gast\u00f3 su vida como un \"solitario\", es convocado a otro mundo con sus compa\u00f1eros de clases. Al ser convocado se encuentra con un \"Dios\", quien le da a escoger una habilidad, sin embargo... No era lo que esperaba encontrarse.",
-      "pt-br": "Exilado da classe? Checado  \r\n  \r\nSer transportado para um mundo alternativo com seus colegas? Checado  \r\n  \r\n Encontrar um Deus em uma esp\u00e9cie de Limbo entre os dois mundos? Checado  \r\n  \r\n Pegar uma skill roubada? N\u00e3o gostaria de ser voc\u00ea, j\u00e1 foram todas vendidas.  \r\n  \r\n Essa hist\u00f3ria \u00e9 sobre a aventura de um garoto solit\u00e1rio em um mundo alternativo, n\u00e3o agradecido a um Deus s\u00eanil que deu a ele todas as habilidades que n\u00e3o precisava."
-    },
-    "status": "ongoing",
-    "releaseDate": 2019,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "1003024d-101c-4fb6-86e6-033167bab723",
-    "title": {
-      "en": "Amai Seikatsu"
-    },
-    "updatedAt": "2023-08-01T16:39:59+00:00",
-    "coverArt": "https://mangadex.org/covers/1003024d-101c-4fb6-86e6-033167bab723/57892aeb-0a79-4f4f-a59d-33151b1daf24.png",
-    "altTitles": [
-      {
-        "zh": "\u5185\u8863\u9ad8\u624b"
-      },
-      {
-        "ja": "\u7518\u3044\u751f\u6d3b"
-      },
-      {
-        "ko": "\ub2ec\ucf64\ud55c \uc0dd\ud65c"
-      },
-      {
-        "en": "Sweet Life"
-      }
-    ],
-    "description": {
-      "en": "The complicated story of a young man who goes to work for a lingerie company. \nOne of the very first harem manga, done by a former shojo mangaka known for his peculiar tendencies \n(was known to cross dress among other things) and serialized in the now defunct Business Jump.\n \nVolume titles and Romaji equivalent:  \n  \n2. \u30e9\u30f3\u30b8\u30a7\u30ea\u30fc\u306b\u604b\u3057\u3066\u308b\u2665 (Ranjer\u012b ni Koishiteru \u2665)  \n- \u611b\u306e\u60a9\u307f (Ai no Nayami)  \n- \u604b\u6a21\u69d8\u307f\u3060\u308c\u9aea (Koi Moy\u014d Midare-kami)  \n- \u304a\u304b\u3057\u306a\u4e8c\u4eba (Okashina Futari)  \n- \u5f13\u9999\u306e\u65e5\u8a18 (Yumika no Nikki)  \n- \u4e8c\u4eba\u306e\u6c17\u6301\u3061 (Futari no Kimochi)  \n- \u4f38\u4ecb\u306e\u9078\u629e (Shinsuke no sentaku)  \n- \u304a\u304b\u3057\u306a\u6c17\u5206 (Okashina Kibun)  \n- \u304a\u304b\u3057\u306a\u4e09\u89d2\u95a2\u4fc2 (Okashina Sankaku Kankei)  \n- \u3088\u307f\u304c\u3048\u308b\u7f8e (Yomigaeru Bi)  \n- \u6771\u4eac\u30b7\u30e7\u30c3\u30af (Tokyo Shock)  \n- \u30e6\u30df\u30ab\u30fb\u30bb\u30f3\u30bb\u30fc\u30b7\u30e7\u30f3 (Yumika Sensation)  \n- \u30bb\u30eb\u30d5\u30cc\u30fc\u30c9 (Self-nude)  \n- \u80fd\u529b\u55aa\u5931 (N\u014dryoku S\u014dshitsu)  \n- \u304a\u5b22\u69d8\u306e\u521d\u4f53\u9a13 (Oj\u014d-sama no Shotaiken)  \n- \u5df4\u306e\u76ee\u899a\u3081 (Tomoe no Mezame)  \n- \u3071\u3093\u3064\u306e\u304a\u62ab\u9732\u76ee (Pantsu no Ohirome)  \n- \u5973\u512a\u30fb\u4f50\u5009\u6faa (Joy\u016b Sakura Mio)  \n- \u5f13\u9999\u304c\u5973\u512a (Yumika ga Joy\u016b)  \n- \u7f8e\u4eba\u53cc\u5b50\u59c9\u59b9 (Bijin Futago Shimai)  \n- \u653f\u7565\u7d50\u5a5a\uff01\uff1f (Seiryaku Kekkon!?)  \n- \u89e6\u308a\u306e\u30e9\u30a4\u30bb\u30f3\u30b9 (Sawari no License)  \n- \u304c\u3093\u3070\u308c\uff01\uff01\u5927\u7d71\u9818\uff01\uff01 (Ganbare!! Dait\u014dry\u014d!!)  \n- \u30d6\u30fc\u30d3\u30fc\u30fb\u30c8\u30e9\u30c3\u30d7 (Booby Trap)  \n- \u30ac\u30de\u30f3\u5927\u4f1a (Gaman Taikai)  \n- \u4e16\u754c\u65b0\u8a18\u9332\uff01\uff1f (Sekaishinkiroku!?)  \n- \u6bbf\u30fb\u59eb\u30fb\u4f38\u4ecb (Tono Hime Shinsuke)  \n- \u59eb\u306e\u304a\u76ee\u899a\u3081\uff1f (Hime no o Mezame?)  \n- \u30cb\u30e5\u30fc\u30b4\u30c3\u30c9\u30cf\u30f3\u30c9\uff1f (New God Hand?)  \n- \u30b3\u30b9\u30d7\u30ec\u79d8\u66f8 (Cosplay Hisho)  \n- \u5929\u624d\u00d7\u5929\u624d (Tensai \u00d7 Tensai)  \n- \u30ca\u30de\u3067\u5927\u4e8b\u4ef6\uff01\uff1f (Nama de Daijigen!?)  \n- 4\u56de\u8ee2\u30de\u30c3\u30b5\u30fc\u30b8 (4 Kaiten Massage)  \n- \u5b98\u80fd\u30bf\u30a4\u30d5\u30fc\u30f3 (Kan'n\u014d Typhoon)  \n- \u30c7\u30b6\u30a4\u30ca\u30fc\u306e\u8cc7\u8cea (Designer no Shishitsu)  \n- \u4f38\u4ecb\u306e\u75f4\u6f22\u9a12\u52d5 (Shinsuke no Chikan S\u014dd\u014d)  \n- \u30d9\u30ac\u30b9\u306e\u72c2\u4e71 (Vegas no Ky\u014dran)  \n- 1000\u4e07\u30c9\u30eb\u306e\u4e0b\u7740 (1000 Man-doru no Shitagi)  \n- \u5e7c\u306a\u3058\u307f\u306e\u4e0b\u7740 (Osana Najimi no Shitagi)  \n- \u546a\u3044\u306e\u30b3\u30eb\u30bb\u30c3\u30c8\u767a\u52d5\uff01\uff1f (Noroi no Corset Hatsud\u014d!?)"
-    },
-    "status": "completed",
-    "releaseDate": 1990,
-    "contentRating": "erotica",
-    "lastVolume": "40",
-    "lastChapter": "480"
-  },
-  {
-    "mangaId": "c855ec45-b8d9-4aea-9a0d-b2ae544c11dc",
-    "title": {
-      "en": "Tokimori-san ga Muboubi desu!!"
-    },
-    "updatedAt": "2024-02-15T03:44:07+00:00",
-    "coverArt": "https://mangadex.org/covers/c855ec45-b8d9-4aea-9a0d-b2ae544c11dc/bdb73d50-fe66-48fe-bb58-fe3ad0993248.jpg",
-    "altTitles": [
-      {
-        "ja": "\u6642\u68ee\u3055\u3093\u304c\u7121\u9632\u5099\u3067\u3059!!"
-      },
-      {
-        "zh-hk": "\u6642\u68ee\u5c0f\u59d0\u6beb\u7121\u9632\u5099!!"
-      },
-      {
-        "vi": "Tokimori-san Ch\u1eb3ng Ch\u00fat Ph\u00f2ng B\u1ecb!!"
-      },
-      {
-        "th": "\u0e04\u0e38\u0e13\u0e42\u0e17\u0e04\u0e34\u0e42\u0e21\u0e23\u0e34\u0e44\u0e21\u0e48\u0e23\u0e30\u0e27\u0e31\u0e07\u0e15\u0e31\u0e27\u0e40\u0e25\u0e22\u0e04\u0e23\u0e31\u0e1a!!"
-      },
-      {
-        "en": "Tokimori-san Is Completely Defenseless!!"
-      },
-      {
-        "ja-ro": "Tokimori-san ga Muboubi desu!!"
-      }
-    ],
-    "description": {
-      "en": "Tokimori-san is a beautiful and successful woman. But when she's off the job, she tends to be a bit absent-minded! Living together with the charming Tokimori-san always makes me nervous!",
-      "ja": "\u7f8e\u4eba\u3067\u4ed5\u4e8b\u304c\u30c7\u30ad\u308b\u6642\u68ee\u3055\u3093\u3002\u3067\u3082\u30aa\u30d5\u306e\u3068\u304d\u306f\u3001\u3061\u3087\u3063\u3068\u307f\u3060\u308c\u304c\u3061\u3067\uff01\uff1f\u8276\u304b\u3057\u3044\u6642\u68ee\u3055\u3093\u3068\u306e\u540c\u5c45\u751f\u6d3b\u306b\u3001\u50d5\u306f\u3044\u3064\u3082\u30c9\u30ad\u30c9\u30ad\u3055\u305b\u3089\u308c\u308b\u2014\uff01\uff01"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
