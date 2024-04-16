@@ -1,5 +1,19 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-omniscient-readers-viewpoint/",
+    "animeTitle": "Omniscient Reader\u2019s Viewpoint",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2020/09/ORV03.png",
+    "episode": "Chapter 207",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-omniscient-readers-viewpoint/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-talent-swallowing-magician/",
+    "animeTitle": "Talent-Swallowing Magician",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/12/replicate-prediction-lsp6sezbqr7ku67emx3bdgtumi.png",
+    "episode": "Chapter 70",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-talent-swallowing-magician/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/",
     "animeTitle": "Myst, Might, Mayhem",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/MystMightMayhemCover01.png",
@@ -7,18 +21,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/",
-    "animeTitle": "The Heavenly Demon\u2019s Descendant",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GExtGyAagAAhU60-vertPhotoauto_scaleLevel3width_1000_copy-1.png",
-    "episode": "Chapter 32",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/",
     "animeTitle": "Superhuman Battlefield",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
     "episode": "Chapter 102",
     "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/",
+    "animeTitle": "The Heavenly Demon\u2019s Descendant",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GExtGyAagAAhU60-vertPhotoauto_scaleLevel3width_1000_copy-1.png",
+    "episode": "Chapter 32",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-villain-to-kill/",
@@ -124,19 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/11/resource-1-1-1-222x300.jpg",
     "episode": "Chapter 57",
     "animeUrl": "https://asuratoon.com/manga/1908287720-maxed-out-leveling/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-insanely-talented-player/",
-    "animeTitle": "Insanely-Talented Player",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/09/InsanelyTalentedPlayerCover01.png",
-    "episode": "Chapter 38",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-insanely-talented-player/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-regressed-son-of-a-duke-is-an-assassin/",
-    "animeTitle": "The Regressed Son of a Duke is an Assassin",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/02/TheRegressedSonofaDukeisanAssassinCover01-webp.webp",
-    "episode": "Chapter 18 - Followers of the Black Fog (1)",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-regressed-son-of-a-duke-is-an-assassin/"
   }
 ]
