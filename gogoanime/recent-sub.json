@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "unnamed-memory",
+    "animeTitle": "Unnamed Memory",
+    "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/unnamed-memory-episode-2"
+  },
+  {
     "animeId": "atashinchi",
     "animeTitle": "Atashin'chi",
     "animeImg": "https://gogocdn.net/cover/atashinchi.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/jiisan-baasan-wakagaeru-episode-2"
-  },
-  {
-    "animeId": "vampire-dormitory",
-    "animeTitle": "Vampire Dormitory",
-    "animeImg": "https://gogocdn.net/cover/vampire-dormitory.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/vampire-dormitory-episode-2"
   }
 ]
