@@ -1,5 +1,50 @@
 [
   {
+    "mangaId": "7f9eee54-94ac-4872-bb66-51ba93b87467",
+    "title": {
+      "en": "City of Sands"
+    },
+    "updatedAt": "2024-04-14T21:01:35+00:00",
+    "coverArt": "https://mangadex.org/covers/7f9eee54-94ac-4872-bb66-51ba93b87467/cfda5dbe-19ed-4c02-a4bb-ed8406a30d51.jpg",
+    "altTitles": [
+      {
+        "en": "The City of Sand"
+      },
+      {
+        "ja": "\u7802\u306e\u90fd"
+      }
+    ],
+    "description": {
+      "en": "Stories about the lives and experiences of people living on an island in the desert, a place where the present and past intermingle.\n\n**Won 9th place in the 2024 *Kono Manga ga Sugoi!* men's category rankings.**"
+    },
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "1",
+    "lastChapter": "8"
+  },
+  {
+    "mangaId": "1132efc6-357b-464a-85b7-026fd6661184",
+    "title": {
+      "en": "Legend of the Holy Sword"
+    },
+    "updatedAt": "2023-12-06T13:50:38+00:00",
+    "coverArt": "https://mangadex.org/covers/1132efc6-357b-464a-85b7-026fd6661184/4adee488-6ff6-4758-80a7-4e8168dae22e.png",
+    "altTitles": [
+      {
+        "ko": "\uc131\uac80\uc804\uc124"
+      }
+    ],
+    "description": {
+      "en": "The one and only weapon to take down the Dark Lord.\nThe Holy Sword.\nAnd the Warrior who lost it\u2026\nWarrior seeks and seeks until he finds the Holy Sword.\n10 years, 20 years, 30 years\u2026 From the Dragon\u2019s Nest till the Spirit King\u2019s Hideout\nThe Warrior seeks the Holy Sword still to this day."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "80dbce9d-92a8-4a19-8bd5-b1727dc0f6c8",
     "title": {
       "en": "Choukadou Girls"
@@ -1791,51 +1836,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "27d58e73-a540-4816-ab29-c25c9c50bf8d",
-    "title": {
-      "en": "Kit-Kat"
-    },
-    "updatedAt": "2023-09-28T16:23:35+00:00",
-    "coverArt": "https://mangadex.org/covers/27d58e73-a540-4816-ab29-c25c9c50bf8d/25d1d598-fcac-439b-925d-4091f9ab9743.png",
-    "altTitles": [
-      {
-        "ja": "\u30ad\u30c3\u30c8\u30ab\u30c3\u30c8"
-      }
-    ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "7e6980de-2ec2-4994-aafa-f170f7d4961a",
-    "title": {
-      "en": "Tartarus Theater Wild"
-    },
-    "updatedAt": "2022-06-24T00:06:30+00:00",
-    "coverArt": "https://mangadex.org/covers/7e6980de-2ec2-4994-aafa-f170f7d4961a/2f536a72-af76-4ea4-91ec-fcb3e18dabf6.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Tartaros Gekijou Wild"
-      },
-      {
-        "ja": "\u30bf\u30eb\u30bf\u30ed\u30b9\u5287\u5834\u30ef\u30a4\u30eb\u30c9"
-      },
-      {
-        "en": "Tartarus Theater Wild Persona 4koma!"
-      }
-    ],
-    "description": {
-      "en": "Collection of 4-komas centered around Persona 3, 4, 5 and their various spinoff games."
-    },
-    "status": "completed",
-    "releaseDate": 2017,
-    "contentRating": "safe",
-    "lastVolume": "2",
-    "lastChapter": "26"
   }
 ]
