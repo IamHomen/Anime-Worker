@@ -1,23 +1,5 @@
 [
   {
-    "mangaId": "9095b589-73d0-495a-a3d3-36f3dbb78d75",
-    "title": {
-      "en": "1HP Club"
-    },
-    "updatedAt": "2024-03-22T20:23:31+00:00",
-    "coverArt": "https://mangadex.org/covers/9095b589-73d0-495a-a3d3-36f3dbb78d75/ca190c80-9f22-40ff-bc86-e78f9206dbae.jpg",
-    "altTitles": [],
-    "description": {
-      "en": "A comic about the daily life of dungeon boys. Slaying the city, saving the dragons... or something like that.",
-      "pl": "Komiks o codziennym \u017cyciu lochowych ch\u0142opc\u00f3w. Mordowanie miasta, ratowanie smok\u00f3w... czy co\u015b w tym stylu."
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
     "mangaId": "c855ec45-b8d9-4aea-9a0d-b2ae544c11dc",
     "title": {
       "en": "Tokimori-san ga Muboubi desu!!"
@@ -51,6 +33,24 @@
     "status": "ongoing",
     "releaseDate": 2022,
     "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "9095b589-73d0-495a-a3d3-36f3dbb78d75",
+    "title": {
+      "en": "1HP Club"
+    },
+    "updatedAt": "2024-03-22T20:23:31+00:00",
+    "coverArt": "https://mangadex.org/covers/9095b589-73d0-495a-a3d3-36f3dbb78d75/ca190c80-9f22-40ff-bc86-e78f9206dbae.jpg",
+    "altTitles": [],
+    "description": {
+      "en": "A comic about the daily life of dungeon boys. Slaying the city, saving the dragons... or something like that.",
+      "pl": "Komiks o codziennym \u017cyciu lochowych ch\u0142opc\u00f3w. Mordowanie miasta, ratowanie smok\u00f3w... czy co\u015b w tym stylu."
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
   },
