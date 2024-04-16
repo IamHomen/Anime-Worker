@@ -1,5 +1,26 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/",
+    "animeTitle": "Sword Fanatic Wanders Through The Night",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/swordfanaticCover01.png",
+    "episode": "Chapter 108",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/",
+    "animeTitle": "Life of a Magic Academy Mage",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/11/magicAcademyMageCover02.png",
+    "episode": "Chapter 89",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-star-embracing-swordmaster/",
+    "animeTitle": "Star-Embracing Swordmaster",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/09/StarEmbracingSwordmasterCover01.png",
+    "episode": "Chapter 37",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-star-embracing-swordmaster/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-omniscient-readers-viewpoint/",
     "animeTitle": "Omniscient Reader\u2019s Viewpoint",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2020/09/ORV03.png",
@@ -21,18 +42,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/",
-    "animeTitle": "Superhuman Battlefield",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
-    "episode": "Chapter 102",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/",
     "animeTitle": "The Heavenly Demon\u2019s Descendant",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GExtGyAagAAhU60-vertPhotoauto_scaleLevel3width_1000_copy-1.png",
     "episode": "Chapter 32",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/",
+    "animeTitle": "Superhuman Battlefield",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
+    "episode": "Chapter 102",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-villain-to-kill/",
@@ -117,26 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/08/myschoollifeCover02.png",
     "episode": "Chapter 57",
     "animeUrl": "https://asuratoon.com/manga/1908287720-my-school-life-pretending-to-be-a-worthless-person/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-sss-class-ranker/",
-    "animeTitle": "Return of the SSS-Class Ranker",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/08/ReturnSSSCover01.png",
-    "episode": "Chapter 100",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-sss-class-ranker/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-reincarnator/",
-    "animeTitle": "Reincarnator",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/12/ReincarnatorCover01.png",
-    "episode": "Chapter 22",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-reincarnator/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-maxed-out-leveling/",
-    "animeTitle": "Maxed Out Leveling",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/11/resource-1-1-1-222x300.jpg",
-    "episode": "Chapter 57",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-maxed-out-leveling/"
   }
 ]
