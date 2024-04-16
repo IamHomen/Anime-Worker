@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "the-fable",
+    "animeTitle": "The Fable",
+    "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/the-fable-episode-2"
+  },
+  {
     "animeId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
     "animeTitle": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
     "animeImg": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
     "episode": "Episode 28",
     "animeUrl": "https://anitaku.so/captain-tsubasa-season-2-junior-youth-hen-episode-28"
-  },
-  {
-    "animeId": "sentai-daishikkaku",
-    "animeTitle": "Sentai Daishikkaku",
-    "animeImg": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/sentai-daishikkaku-episode-2"
   }
 ]
