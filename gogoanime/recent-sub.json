@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "atashinchi",
+    "animeTitle": "Atashin'chi",
+    "animeImg": "https://gogocdn.net/cover/atashinchi.png",
+    "episode": "Episode 368",
+    "animeUrl": "https://anitaku.so/atashinchi-episode-368"
+  },
+  {
     "animeId": "junk-boy",
     "animeTitle": "Junk Boy",
     "animeImg": "https://gogocdn.net/cover/junk-boy.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/vampire-dormitory.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/vampire-dormitory-episode-2"
-  },
-  {
-    "animeId": "shinigami-bocchan-to-kuro-maid-3rd-season",
-    "animeTitle": "Shinigami Bocchan to Kuro Maid 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/shinigami-bocchan-to-kuro-maid-3rd-season-episode-2"
   }
 ]
