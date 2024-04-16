@@ -1,5 +1,54 @@
 [
   {
+    "mangaId": "bc86a871-ddc5-4e42-812a-ccd38101d82e",
+    "title": {
+      "ja": "Hana ni Arashi"
+    },
+    "updatedAt": "2024-03-05T21:33:42+00:00",
+    "coverArt": "https://mangadex.org/covers/bc86a871-ddc5-4e42-812a-ccd38101d82e/43fc00ab-79d8-4539-8893-dd5f9dee59ca.jpg",
+    "altTitles": [
+      {
+        "en": "Rainbows After Storms"
+      },
+      {
+        "ja-ro": "Nanoha to Chidori"
+      },
+      {
+        "es": "Tormenta de Flores"
+      },
+      {
+        "ru": "\u041d\u0430\u043d\u043e\u0445\u0430 \u0438 \u0427\u0438\u0434\u043e\u0440\u0438"
+      },
+      {
+        "ja": "\u306f\u306a\u306b\u3042\u3089\u3057"
+      },
+      {
+        "id": "Badai di antara Bunga"
+      },
+      {
+        "zh": "\u597d\u4e8b\u591a\u78e8"
+      },
+      {
+        "zh-hk": "\u597d\u4e8b\u591a\u78e8"
+      },
+      {
+        "fr": "Une fleur dans la temp\u00eate"
+      },
+      {
+        "en": "Rainbows After Storms"
+      }
+    ],
+    "description": {
+      "en": "Unbeknownst to their friends and classmates, Nanoha and Chidori are dating. Watch as they try to keep their relationship secret!",
+      "es": "A las espaldas de sus amigas y compa\u00f1eras the sal\u00f3n, Nanoha y Chidori est\u00e1n saliendo juntas. \u00a1Velas tratando de mantener su relaci\u00f3n en secreto!"
+    },
+    "status": "completed",
+    "releaseDate": 2017,
+    "contentRating": "safe",
+    "lastVolume": "13",
+    "lastChapter": "162"
+  },
+  {
     "mangaId": "9290f4f1-3860-4bc2-8194-c3a7271fe398",
     "title": {
       "en": "A World Without You."
@@ -1859,23 +1908,6 @@
     "status": "ongoing",
     "releaseDate": 2023,
     "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "8488bb32-5b67-4eb2-a19d-befcc446a488",
-    "title": {
-      "en": "Unknown"
-    },
-    "updatedAt": "2023-08-01T08:57:53+00:00",
-    "coverArt": "https://mangadex.org/covers/8488bb32-5b67-4eb2-a19d-befcc446a488/a6239fc7-5736-4a6e-9dbd-39232a7d3b96.jpg",
-    "altTitles": [],
-    "description": {
-      "en": "One day, a man awakens out of a hole only to discover the horrors of the world."
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
   }
