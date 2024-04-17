@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "beyblade-x",
+    "animeTitle": "Beyblade X",
+    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 27",
+    "animeUrl": "https://anitaku.so/beyblade-x-episode-27"
+  },
+  {
     "animeId": "kenka-dokugaku",
     "animeTitle": "Kenka Dokugaku",
     "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-3"
-  },
-  {
-    "animeId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
-    "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-    "animeImg": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
-    "episode": "Episode 3",
-    "animeUrl": "https://anitaku.so/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-3"
   }
 ]
