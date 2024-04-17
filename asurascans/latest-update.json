@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-terminally-ill-genius-dark-knight/",
+    "animeTitle": "Terminally-Ill Genius Dark Knight",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/05/terminallyilldarkknightCover01.png",
+    "episode": "Chapter 53",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-terminally-ill-genius-dark-knight/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-gods-gambit/",
     "animeTitle": "Gods\u2019 Gambit",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GodsGambitCover01.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/10/cover.png",
     "episode": "Chapter 133",
     "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-tutorial-is-too-hard/",
-    "animeTitle": "The Tutorial is Too Hard",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/01/TheTutorialisTooHardCover02.png",
-    "episode": "Chapter 161",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-tutorial-is-too-hard/"
   }
 ]
