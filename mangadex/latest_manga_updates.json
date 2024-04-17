@@ -1,5 +1,30 @@
 [
   {
+    "mangaId": "fa718bd1-a6d2-4225-acc2-2828ac2dce6b",
+    "title": {
+      "en": "Oshibana!"
+    },
+    "updatedAt": "2024-01-24T16:05:14+00:00",
+    "coverArt": "https://mangadex.org/covers/fa718bd1-a6d2-4225-acc2-2828ac2dce6b/29bc86cb-20ef-46f9-a6d1-68e628f4b7ce.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30aa\u30b7\u30d0\u30ca\uff01"
+      },
+      {
+        "en": "Pressed Flower"
+      }
+    ],
+    "description": {
+      "en": "A romantic comedy centered around \"The School Prince\" bringing the tense conflict of young boys and girls to the breaking point!",
+      "ja": "\u300c\u5b66\u5712\u306e\u738b\u5b50\u69d8\u300d\u306a\u30d2\u30ed\u30a4\u30f3\u3092\u5de1\u3063\u3066\u5c11\u5e74\u5c11\u5973\u304c\u305b\u3081\u304e\u5408\u3046\u4e00\u89e6\u5373\u767a\u30e9\u30d6\u30b3\u30e1\u30c7\u30a3"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "1f4fe738-cf4f-46ab-86e6-0fb549429dfe",
     "title": {
       "en": "Doku wo Kurawaba Sara Made"
@@ -1685,22 +1710,5 @@
     "contentRating": "safe",
     "lastVolume": null,
     "lastChapter": "355"
-  },
-  {
-    "mangaId": "ee6b75bd-d359-473d-a2b4-c8fb10470833",
-    "title": {
-      "en": "The Strongest in History"
-    },
-    "updatedAt": "2024-04-12T19:56:02+00:00",
-    "coverArt": "https://mangadex.org/covers/ee6b75bd-d359-473d-a2b4-c8fb10470833/5e7d3ff1-52ef-4b1a-809d-e5b0d2b3cecd.jpg",
-    "altTitles": [],
-    "description": {
-      "en": "Be it Guan Yunchang, the Saint of War, Xiang Yu, the Hegemon King of Chu,  the below one and above all, Lu Fengxian, or Oboi, each pair is going to face off each other in a life-death battle. The ultimate winner shall be granted a wish. [Remake]"
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
