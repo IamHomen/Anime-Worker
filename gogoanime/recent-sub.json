@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "date-a-live-v",
+    "animeTitle": "Date A Live V",
+    "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/date-a-live-v-episode-2"
+  },
+  {
     "animeId": "grimm-kumikyoku",
     "animeTitle": "Grimm Kumikyoku",
     "animeImg": "https://gogocdn.net/cover/grimm-kumikyoku.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/remonster-1711737486.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/remonster-episode-3"
-  },
-  {
-    "animeId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "animeTitle": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
-    "episode": "Episode 15",
-    "animeUrl": "https://anitaku.so/tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-15"
   }
 ]
