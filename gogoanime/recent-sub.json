@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "seiyuu-radio-no-uraomote",
+    "animeTitle": "Seiyuu Radio no Uraomote",
+    "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/seiyuu-radio-no-uraomote-episode-2"
+  },
+  {
     "animeId": "iwa-kakeru-sport-climbing-girls",
     "animeTitle": "Iwa Kakeru!: Sport Climbing Girls",
     "animeImg": "https://gogocdn.net/cover/iwa-kakeru-sport-climbing-girls.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/shuumatsu-train-doko-e-iku-episode-3"
-  },
-  {
-    "animeId": "kami-wa-game-ni-ueteiru",
-    "animeTitle": "Kami wa Game ni Ueteiru.",
-    "animeImg": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
-    "episode": "Episode 3",
-    "animeUrl": "https://anitaku.so/kami-wa-game-ni-ueteiru-episode-3"
   }
 ]
