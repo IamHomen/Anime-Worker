@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "kenka-dokugaku",
+    "animeTitle": "Kenka Dokugaku",
+    "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/kenka-dokugaku-episode-2"
+  },
+  {
     "animeId": "bartender-kami-no-glass",
     "animeTitle": "Bartender: Kami no Glass",
     "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-3"
-  },
-  {
-    "animeId": "tadaima-okaeri",
-    "animeTitle": "Tadaima, Okaeri",
-    "animeImg": "https://gogocdn.net/cover/tadaima-okaeri.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/tadaima-okaeri-episode-2"
   }
 ]
