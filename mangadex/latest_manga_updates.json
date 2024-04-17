@@ -1,5 +1,36 @@
 [
   {
+    "mangaId": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
+    "title": {
+      "en": "Kimi to Warui Koto ga Shitai"
+    },
+    "updatedAt": "2024-04-16T18:52:23+00:00",
+    "coverArt": "https://mangadex.org/covers/2de8ffd3-25b7-42cd-80e8-32148478c40c/ce3d3bf5-0568-4123-ad38-c26343c48436.jpg",
+    "altTitles": [
+      {
+        "en": "I Wanna Do Bad Things with You"
+      },
+      {
+        "ja": "\u541b\u3068\u60aa\u3044\u3053\u3068\u304c\u3057\u305f\u3044"
+      },
+      {
+        "zh-hk": "\u60f3\u548c\u4f60\u4e00\u8d77\u505a\u58de\u4e8b"
+      },
+      {
+        "en": "I Want to Do Bad Things with You"
+      }
+    ],
+    "description": {
+      "en": "Mamori Wataya is a tall but dark, plain, and shady high school girl. One day she meets Kanashi Fuji, who has a small, thin body and an evil-looking smile. A supporting character that no one can find and a villain that no one likes. This encounter turns their gray days blue.",
+      "ja": "\u80cc\u306f\u9ad8\u3044\u3051\u3069\u5730\u5473\u3067\u6697\u3044\u8107\u5f79\u5973\u5b50\u30fb\u307e\u3082\u308a\u3002\u5acc\u3044\u3060\u304b\u3089\u3068\u30d7\u30fc\u30eb\u306e\u6c34\u3092\u629c\u304f\u3001\u5b66\u6821\u4e00\u306e\u5acc\u308f\u308c\u8005\u306e\u60aa\u5f79\u7537\u5b50\u30fb\u85e4\u3002\u60aa\u3044\u30e4\u30c4\u306e\u3001\u4e0d\u601d\u8b70\u306a\u5f37\u3055\u306b\u60f9\u304b\u308c\u3066\u3044\u3063\u305f\u305d\u306e\u5148\u306b\u3042\u3063\u305f\u306e\u306f\u3001\u900f\u304d\u901a\u308b\u3088\u3046\u306a\u9752\u3044\u65e5\u3005\u3002"
+    },
+    "status": "completed",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "7",
+    "lastChapter": "67"
+  },
+  {
     "mangaId": "fa718bd1-a6d2-4225-acc2-2828ac2dce6b",
     "title": {
       "en": "Oshibana!"
@@ -1683,32 +1714,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "a3850522-6640-4743-9fbc-acc725714459",
-    "title": {
-      "en": "Star Dream Idol Project"
-    },
-    "updatedAt": "2024-02-10T11:57:49+00:00",
-    "coverArt": "https://mangadex.org/covers/a3850522-6640-4743-9fbc-acc725714459/747bdb66-0633-45ef-896b-12efeb4e8599.jpg",
-    "altTitles": [
-      {
-        "zh-ro": "Xing Meng Ou Xiang Ji Hua"
-      },
-      {
-        "zh": "\u661f\u68a6\u5076\u50cf\u8ba1\u5212"
-      },
-      {
-        "vi": "Tinh M\u1ed9ng Th\u1ea7n T\u01b0\u1ee3ng"
-      }
-    ],
-    "description": {
-      "en": "The shining lights, the magnificent stage! Friendships created through singing, making a future through dancing, the girls embark on their journey towards their dreams! One who has lost status due to a scandal is hiding a plot behind her back. A pair of bosom friends, separated by fate. A girl who tries to exonerate her mother sets off on her journey for a talent competition. When the stage turns into an empty battlefield, she uses her voice to chase after her dreams."
-    },
-    "status": "completed",
-    "releaseDate": 2015,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": "355"
   }
 ]
