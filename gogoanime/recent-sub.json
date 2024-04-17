@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "grimm-kumikyoku",
+    "animeTitle": "Grimm Kumikyoku",
+    "animeImg": "https://gogocdn.net/cover/grimm-kumikyoku.png",
+    "episode": "Episode 6",
+    "animeUrl": "https://anitaku.so/grimm-kumikyoku-episode-6"
+  },
+  {
     "animeId": "kaii-to-otome-to-kamikakushi",
     "animeTitle": "Kaii to Otome to Kamikakushi",
     "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
     "episode": "Episode 15",
     "animeUrl": "https://anitaku.so/tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-15"
-  },
-  {
-    "animeId": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
-    "animeTitle": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-    "animeImg": "https://gogocdn.net/cover/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-episode-2"
   }
 ]

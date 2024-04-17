@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-pick-me-up-infinite-gacha/",
+    "animeTitle": "Pick Me Up, Infinite Gacha",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/12/infiniteGachaCover03.png",
+    "episode": "Chapter 91",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-pick-me-up-infinite-gacha/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/sons-retribution/",
     "animeTitle": "Son\u2019s Retribution",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/04/690x1000.jpg",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/swordfanaticCover01.png",
     "episode": "Chapter 108",
     "animeUrl": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/",
-    "animeTitle": "Life of a Magic Academy Mage",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/11/magicAcademyMageCover02.png",
-    "episode": "Chapter 89",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/"
   }
 ]
