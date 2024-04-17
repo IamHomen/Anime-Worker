@@ -1,5 +1,38 @@
 [
   {
+    "mangaId": "fc420404-190a-47e8-b101-803e1518e26c",
+    "title": {
+      "en": "Our\u2606Light Club"
+    },
+    "updatedAt": "2023-11-30T05:19:36+00:00",
+    "coverArt": "https://mangadex.org/covers/fc420404-190a-47e8-b101-803e1518e26c/069bec24-5054-43a8-904b-8766d8c4938c.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Bokura no Hikari Club"
+      },
+      {
+        "ja": "\u307c\u304f\u3089\u306e\u2606\u3072\u304b\u308a\u30af\u30e9\u30d6"
+      },
+      {
+        "ja": "\u307c\u304f\u3089\u306e\u3072\u304b\u308a\u30af\u30e9\u30d6"
+      },
+      {
+        "en": "Our\u2606Light Club"
+      },
+      {
+        "ja-ro": "Bokura no\u2606Hikari Club"
+      }
+    ],
+    "description": {
+      "en": "Chronicles the events leading up to the development and eventual downfall of the Hikari Club."
+    },
+    "status": "completed",
+    "releaseDate": 2011,
+    "contentRating": "safe",
+    "lastVolume": "2",
+    "lastChapter": "12"
+  },
+  {
     "mangaId": "b1461071-bfbb-43e7-a5b6-a7ba5904649f",
     "title": {
       "en": "Martial Peak"
@@ -70,6 +103,27 @@
     "lastChapter": ""
   },
   {
+    "mangaId": "030c30a3-7fa5-43fa-839b-70a1a4d55349",
+    "title": {
+      "en": "Fighters"
+    },
+    "updatedAt": "2023-02-06T22:02:08+00:00",
+    "coverArt": "https://mangadex.org/covers/030c30a3-7fa5-43fa-839b-70a1a4d55349/813b3ae5-1054-42b3-b549-911727fde220.png",
+    "altTitles": [
+      {
+        "ko": "\ud30c\uc774\ud130\uc2a4"
+      }
+    ],
+    "description": {
+      "en": "The Genius Fighter Jason Kim. However his winning streak ends with an accident during match, and he couldn\u2019t use his left arm anymore.\nAfter defeat, he quit the pro scene and returned to hometown, but the life is just hard to live quietly for such fighter.\nHe\u2019s getting involved into endless fights, regardless of his will.."
+    },
+    "status": "completed",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "83"
+  },
+  {
     "mangaId": "e3fa25bc-23eb-46c3-af17-36ec9200456e",
     "title": {
       "en": "Keiyaku Shimai"
@@ -102,27 +156,6 @@
     "contentRating": "safe",
     "lastVolume": null,
     "lastChapter": null
-  },
-  {
-    "mangaId": "030c30a3-7fa5-43fa-839b-70a1a4d55349",
-    "title": {
-      "en": "Fighters"
-    },
-    "updatedAt": "2023-02-06T22:02:08+00:00",
-    "coverArt": "https://mangadex.org/covers/030c30a3-7fa5-43fa-839b-70a1a4d55349/813b3ae5-1054-42b3-b549-911727fde220.png",
-    "altTitles": [
-      {
-        "ko": "\ud30c\uc774\ud130\uc2a4"
-      }
-    ],
-    "description": {
-      "en": "The Genius Fighter Jason Kim. However his winning streak ends with an accident during match, and he couldn\u2019t use his left arm anymore.\nAfter defeat, he quit the pro scene and returned to hometown, but the life is just hard to live quietly for such fighter.\nHe\u2019s getting involved into endless fights, regardless of his will.."
-    },
-    "status": "completed",
-    "releaseDate": 2020,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "83"
   },
   {
     "mangaId": "3e6911b1-7294-4cfe-bff0-81e9ca0be8b6",
@@ -1731,26 +1764,5 @@
     "contentRating": "safe",
     "lastVolume": "2",
     "lastChapter": "60"
-  },
-  {
-    "mangaId": "334019e1-18bb-4ac0-b35c-0e8efb1e481c",
-    "title": {
-      "en": "JoJo's Bizarre Adventure Part 9 - The JOJOLands (Official Colored)"
-    },
-    "updatedAt": "2023-12-19T20:26:22+00:00",
-    "coverArt": "https://mangadex.org/covers/334019e1-18bb-4ac0-b35c-0e8efb1e481c/931ca2d2-a398-42b6-aac4-4c588973f8dd.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u7b2c9\u90e8 \u30b6\u30fb\u30b8\u30e7\u30b8\u30e7\u30e9\u30f3\u30ba \u30ab\u30e9\u30fc\u7248"
-      }
-    ],
-    "description": {
-      "en": "The ninth story arc of Jojo\u2019s Bizarre Adventure.\n\nO\u2019ahu, present day. Dua Lipa is the trending musician, and COVID is still a major concern. On this island lives a 15-year-old boy named Jodio Joestar. Living with his brother and mother, he acts as a dealer for certain illegal substances. One day, his employer comes and shows him an excellent find: a Japanese person has landed in Hawaii with a diamond worth over six million dollars. Normally it would be impossible to steal, but for someone with a stand\u2026\n\nThis is a story of a young boy and his quest to become rich."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
