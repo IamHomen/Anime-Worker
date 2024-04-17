@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-gods-gambit/",
+    "animeTitle": "Gods\u2019 Gambit",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GodsGambitCover01.png",
+    "episode": "Chapter 37",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-gods-gambit/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/sons-retribution/",
     "animeTitle": "Son\u2019s Retribution",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/04/690x1000.jpg",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/01/TheTutorialisTooHardCover02.png",
     "episode": "Chapter 161",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-tutorial-is-too-hard/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/",
-    "animeTitle": "Sword Fanatic Wanders Through The Night",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/swordfanaticCover01.png",
-    "episode": "Chapter 108",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/"
   }
 ]
