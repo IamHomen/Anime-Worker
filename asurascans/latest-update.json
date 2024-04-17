@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-overpowered-sword/",
+    "animeTitle": "Overpowered Sword",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/overpoweredswordCover02.png",
+    "episode": "Chapter 93",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-overpowered-sword/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-world-after-the-end/",
     "animeTitle": "The World After The End",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/02/the-world-after-the-end-cover-207x300.jpg",
@@ -98,18 +105,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/",
-    "animeTitle": "The Heavenly Demon\u2019s Descendant",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GExtGyAagAAhU60-vertPhotoauto_scaleLevel3width_1000_copy-1.png",
-    "episode": "Chapter 32",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/",
     "animeTitle": "Superhuman Battlefield",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
     "episode": "Chapter 102",
     "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/",
+    "animeTitle": "The Heavenly Demon\u2019s Descendant",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GExtGyAagAAhU60-vertPhotoauto_scaleLevel3width_1000_copy-1.png",
+    "episode": "Chapter 32",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-heavenly-demons-descendant/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-nebulas-civilization/",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/01/Logging10000YearsCover01.png",
     "episode": "Chapter 108",
     "animeUrl": "https://asuratoon.com/manga/1908287720-logging-10000-years-into-the-future/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/my-exclusive-tower-guide/",
-    "animeTitle": "My Exclusive Tower Guide",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/04/GLPrgVCawAAXtvX.jpg",
-    "episode": "Chapter 7",
-    "animeUrl": "https://asuratoon.com/manga/my-exclusive-tower-guide/"
   }
 ]
