@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "sand-land-the-series",
+    "animeTitle": "Sand Land: The Series",
+    "animeImg": "https://gogocdn.net/cover/sand-land-the-series.png",
+    "episode": "Episode 11",
+    "animeUrl": "https://anitaku.so/sand-land-the-series-episode-11"
+  },
+  {
     "animeId": "touken-ranbu-kai-kyoden-moyuru-honnouji",
     "animeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
     "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 4",
     "animeUrl": "https://anitaku.so/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-4"
-  },
-  {
-    "animeId": "himitsu-no-aipri",
-    "animeTitle": "Himitsu no AiPri",
-    "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/himitsu-no-aipri-episode-2"
   }
 ]
