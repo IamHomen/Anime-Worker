@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-return-of-the-crazy-demon/",
+    "animeTitle": "The Return of the Crazy Demon",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/CrazyDemonCover02-1.webp",
+    "episode": "Chapter 118",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-return-of-the-crazy-demon/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-terminally-ill-genius-dark-knight/",
     "animeTitle": "Terminally-Ill Genius Dark Knight",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/05/terminallyilldarkknightCover01.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/08/TheTerminallyIllYoungMasteroftheBaekClanCover01.png",
     "episode": "Chapter 39 - Another Honor Flower Disciple",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-terminally-ill-young-master-of-the-baek-clan/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/",
-    "animeTitle": "Return of The Unrivaled Spear Knight",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/10/cover.png",
-    "episode": "Chapter 133",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/"
   }
 ]
