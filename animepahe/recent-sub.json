@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62464,
+      "anime_id": 4889,
+      "anime_title": "Chiikawa",
+      "anime_session": "6c448d50-ee58-fbd8-4911-d70c1f3c1f04",
+      "episode": 88,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/23786e481551c9c3bbad20630c000f8fa17d4ab725ebfc484583fb8d75cb4464.jpg",
+      "disc": "",
+      "session": "45b4fa3113c8af14f02e7a679210432850f8fed3409ee924847e8d16448d497c",
+      "filler": 0,
+      "created_at": "2024-04-18 18:06:29",
+      "completed": 0
+    },
+    {
       "id": 62463,
       "anime_id": 5522,
       "anime_title": "Wind Breaker",
@@ -182,22 +198,6 @@
       "session": "61c0c619496fe364021ef70b2f2025826e01010338473d735011efae5fac02f5",
       "filler": 0,
       "created_at": "2024-04-17 15:07:12",
-      "completed": 0
-    },
-    {
-      "id": 62451,
-      "anime_id": 5513,
-      "anime_title": "Date A Live V",
-      "anime_session": "084a2e2d-f358-e6c5-8ede-8646edce5d97",
-      "episode": 2,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/077e2bd25d0223ca1bddea6c50d543daad8398332bd1e9c9cbc6ec2bf71addad.jpg",
-      "disc": "",
-      "session": "8f16eeddf0804206d39666e589fb10d47b0f789b14270c0d4cbb2f0cc20d204e",
-      "filler": 0,
-      "created_at": "2024-04-17 14:57:07",
       "completed": 0
     }
   ]
