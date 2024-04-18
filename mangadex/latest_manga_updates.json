@@ -1,5 +1,50 @@
 [
   {
+    "mangaId": "d32f798f-cfcd-4c16-9648-7b0150e87b25",
+    "title": {
+      "en": "Sea of June"
+    },
+    "updatedAt": "2024-04-18T22:36:13+00:00",
+    "coverArt": "https://mangadex.org/covers/d32f798f-cfcd-4c16-9648-7b0150e87b25/66eb4a03-0346-4948-98b1-53025adb5586.jpg",
+    "altTitles": [
+      {
+        "ko-ro": "Yuworui Bada"
+      },
+      {
+        "ko": "\uc720\uc6d4\uc758 \ubc14\ub2e4"
+      }
+    ],
+    "description": {
+      "en": "Busan, 1936. Yeon Jeong lives her life without fitting in anywhere, until she meets a mermaid by fate. The mermaid tells her that she has come to pick her up as promised, and asks her to follow her to the place where eternal happiness lies.  \n  \n\"Can I be happy there at last, living as myself?"
+    },
+    "status": "completed",
+    "releaseDate": 2018,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": "44"
+  },
+  {
+    "mangaId": "772c0da7-4d33-4522-bf54-5d17701f660b",
+    "title": {
+      "en": "The Baby Saint Wants to Destroy the World!"
+    },
+    "updatedAt": "2024-04-07T10:35:48+00:00",
+    "coverArt": "https://mangadex.org/covers/772c0da7-4d33-4522-bf54-5d17701f660b/2835a5d8-0c3c-4eb0-8344-f9666f0b4099.png",
+    "altTitles": [
+      {
+        "ko": "\uc544\uae30 \uc131\ub140\ub2d8\uc740 \uc138\uc0c1\uc744 \uba78\ub9dd\uc2dc\ud0a4\uace0 \uc2f6\uc5b4!"
+      }
+    ],
+    "description": {
+      "en": "The perpetual cycle of reincarnation, the recurring tragic deaths. Lucyphela, a formidable witch who became tired of life after enduring 99 lifetimes. She aims to halt the cycle by causing the world's demise.\n\nNevertheless...\nUpon awakening, she discovers her rebirth as the 'Baby Saint,' fated to rescue this world?\n\nNurtured by the very priests who were formerly her adversaries.\nMenaced by former companions who were once her apprentices!\n\nCan the Baby Saint provoke the world's ruin unscathed?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "2b8ea244-30be-4c4b-b3dd-d136b4b7b443",
     "title": {
       "en": "That Villain's Life, I'll Live It Once"
@@ -134,30 +179,6 @@
     "contentRating": "safe",
     "lastVolume": "11",
     "lastChapter": "51"
-  },
-  {
-    "mangaId": "d32f798f-cfcd-4c16-9648-7b0150e87b25",
-    "title": {
-      "en": "Sea of June"
-    },
-    "updatedAt": "2024-04-18T22:36:13+00:00",
-    "coverArt": "https://mangadex.org/covers/d32f798f-cfcd-4c16-9648-7b0150e87b25/66eb4a03-0346-4948-98b1-53025adb5586.jpg",
-    "altTitles": [
-      {
-        "ko-ro": "Yuworui Bada"
-      },
-      {
-        "ko": "\uc720\uc6d4\uc758 \ubc14\ub2e4"
-      }
-    ],
-    "description": {
-      "en": "Busan, 1936. Yeon Jeong lives her life without fitting in anywhere, until she meets a mermaid by fate. The mermaid tells her that she has come to pick her up as promised, and asks her to follow her to the place where eternal happiness lies.  \n  \n\"Can I be happy there at last, living as myself?"
-    },
-    "status": "completed",
-    "releaseDate": 2018,
-    "contentRating": "erotica",
-    "lastVolume": "",
-    "lastChapter": "44"
   },
   {
     "mangaId": "0d54e639-979e-4d55-ab94-f6628eded425",
@@ -1583,33 +1604,5 @@
     "contentRating": "safe",
     "lastVolume": "9",
     "lastChapter": "70"
-  },
-  {
-    "mangaId": "0bb65ad2-d238-49c3-aa19-98fa02768942",
-    "title": {
-      "en": "Aishuu Lava"
-    },
-    "updatedAt": "2024-04-08T15:38:55+00:00",
-    "coverArt": "https://mangadex.org/covers/0bb65ad2-d238-49c3-aa19-98fa02768942/034fe0de-7ed6-4464-b408-0528bb10b9a0.jpg",
-    "altTitles": [
-      {
-        "es-la": "Lava, La Prisionera del amor"
-      },
-      {
-        "ja": "\u611b\u56da\u30e9\u30f4\u30a1"
-      },
-      {
-        "en": "Aishuu Lover"
-      }
-    ],
-    "description": {
-      "en": "In a world where people suddenly developed super-powers, those who used their abilities to do evil are held at Catastrophe Prison. Shu Ono, a guard at the prison, somehow fell in love with the strongest female prisoner Lava! A crazy love-comedy about the forbidden relationship between guard and prisoner!",
-      "es-la": "Un mundo en el que las personas desarrollan repentinamente habilidades diferentes. Los que utilizan sus habilidades para hacer el mal son encarcelados en una prisi\u00f3n de catastr\u00f3fica. Shu Ono, que trabaja all\u00ed como guardia, se enamora de alg\u00fan modo de la prisionera m\u00e1s fuerte, \u00a1Lava!"
-    },
-    "status": "completed",
-    "releaseDate": 2021,
-    "contentRating": "suggestive",
-    "lastVolume": "4",
-    "lastChapter": "35"
   }
 ]
