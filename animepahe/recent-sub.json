@@ -1,5 +1,5 @@
 {
-  "total": 5098,
+  "total": 5099,
   "per_page": 12,
   "current_page": 1,
   "last_page": 425,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 62458,
+      "anime_id": 5551,
+      "anime_title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+      "anime_session": "ce37de98-f7d1-a4c0-eccf-98cf285efe47",
+      "episode": 3,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/95b674da90086906ffc4829b1217253fc9410720913de5058eb1a336bc5fea57.jpg",
+      "disc": "",
+      "session": "1c0cc677ca9c117e42afcd3e36e952036eaeb3cc3bc0f6e2d89226d850a78392",
+      "filler": 0,
+      "created_at": "2024-04-18 04:59:25",
+      "completed": 0
+    },
     {
       "id": 62455,
       "anime_id": 5481,
@@ -183,22 +199,6 @@
       "filler": 0,
       "created_at": "2024-04-16 15:06:59",
       "completed": 0
-    },
-    {
-      "id": 62444,
-      "anime_id": 5456,
-      "anime_title": "Pon no Michi",
-      "anime_session": "d48f64bf-8b2c-ff87-02ac-f2c8278ce210",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "MahjongSoulless",
-      "snapshot": "https://i.animepahe.ru/snapshots/aca3d0b9a5d3578d96ad34f9ea0e9f224cd0d6731f7e6caec89700a7be84892b.jpg",
-      "disc": "",
-      "session": "7f16317b369fb8afa72d810f2c0f1b40820dab5b1bf498934b3e3bae0dc53dc7",
-      "filler": 0,
-      "created_at": "2024-04-16 02:53:25",
-      "completed": 1
     }
   ]
 }
