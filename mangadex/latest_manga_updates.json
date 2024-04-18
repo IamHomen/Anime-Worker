@@ -75,40 +75,6 @@
     "lastChapter": "179"
   },
   {
-    "mangaId": "0428fcd8-7a65-47b1-9be7-05b22f75e6dd",
-    "title": {
-      "en": "Phoenix Queen"
-    },
-    "updatedAt": "2024-03-12T20:33:28+00:00",
-    "coverArt": "https://mangadex.org/covers/0428fcd8-7a65-47b1-9be7-05b22f75e6dd/707f6d32-2a16-4c25-8c8b-e8912c0ccff3.jpg",
-    "altTitles": [
-      {
-        "zh": "\u795e\u533b\u51f0\u540e"
-      },
-      {
-        "en": "Divine Empress Doctor"
-      },
-      {
-        "en": "Dance of the Phoenix"
-      },
-      {
-        "zh-ro": "Shenyi Huang Hou"
-      },
-      {
-        "zh-ro": "Sh\u00e9ny\u012b Hu\u00e1ng H\u00f2u"
-      }
-    ],
-    "description": {
-      "en": "Feng Wu was born with the true blood of the phoenix and was hailed as a peerless genius in all of Junwu. However, her blessing was also a curse...it placed a target on her back. After she was attacked and had her blood stolen, her master Mu Jiuzhou exhausted his spiritual power to save Feng Wu and disappeared right in front of her. Powerless, she could only watch.\n\nStarting again from the beginning, she resolves herself \"Zuo Qingyun, our relation is irreconcilable, I cannot live in a world with you in it!\"\n\nWatch how our \"useless\" protagonist becomes a phoenix step by step!",
-      "fr": "Feng Wu, une jeune fille talentueuse, perd son sang de ph\u00e9nix et devient inutile apr\u00e8s avoir \u00e9t\u00e9 pi\u00e9g\u00e9e par son ennemi Zuo Qingyuan. Son professeur tombe dans un profond sommeil apr\u00e8s l'avoir sauv\u00e9e. Fei Chai, une \u00e9tudiante en m\u00e9decine traditionnelle de l'\u00e8re moderne, entre accidentellement dans ce monde fantastique par le biais d'un jeu et prend l'identit\u00e9 de Feng Wu. Il s'av\u00e8re que Feng Wu a conclu un accord de mariage avec Jun Linyuan, prince du clan Jun Wu. Feng Wu commence une nouvelle vie, utilisant ses connaissances modernes et ses comp\u00e9tences m\u00e9dicales pour aider sa famille, tout en passant ses journ\u00e9es \u00e0 se cultiver. Elle se fait ainsi de nouveaux amis et tombe amoureuse de Jun Linzhou.\n\n\u22c6\u250aAdapt\u00e9 du novel \"Godly Empress Doctor\" de Su Xiaonuan"
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
     "mangaId": "8587c766-37a3-4fb0-89db-8145fafb3152",
     "title": {
       "en": "Rascal Does Not Dream of Siscon Idol"
@@ -159,27 +125,6 @@
     "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "359141ca-888e-43c6-a3e3-de58ade76037",
-    "title": {
-      "en": "Peach on Ice"
-    },
-    "updatedAt": "2024-04-18T03:39:40+00:00",
-    "coverArt": "https://mangadex.org/covers/359141ca-888e-43c6-a3e3-de58ade76037/ec3f763c-5c06-46a5-a583-fcc433ca62f9.jpg",
-    "altTitles": [
-      {
-        "ko": "\uc5bc\uc74c\uc5d0 \ubcf5\uc22d\uc544"
-      }
-    ],
-    "description": {
-      "en": "Lee Kyun, the Shepherd, is at the top of the pyramid of the Carnivore Class. Everything was perfect - other than the fact that he has a crush on his best friend, Choi Hae Beom, the Leopard. Too scared to confess, he thought he would be satisfied with just the title of \"Best Friend,\" when a bottom-of-the-food-chain, zero-attack-power Golden Hamster appears and starts to show interest in Hae Beom. Between the two of them, who will manage to capture the Leopard's heart?!\n\n#BL #ShortSeries #Cute #Sweet #SchoolSetting #Hybrids #UnrequitedLove #LoveTriangle #NiceTop #CuteBottom"
-    },
-    "status": "completed",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "9"
   },
   {
     "mangaId": "f110d48a-8461-428e-bbcb-5ae3c0d53d25",
@@ -454,6 +399,27 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
+  },
+  {
+    "mangaId": "359141ca-888e-43c6-a3e3-de58ade76037",
+    "title": {
+      "en": "Peach on Ice"
+    },
+    "updatedAt": "2024-04-18T03:39:40+00:00",
+    "coverArt": "https://mangadex.org/covers/359141ca-888e-43c6-a3e3-de58ade76037/ec3f763c-5c06-46a5-a583-fcc433ca62f9.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc5bc\uc74c\uc5d0 \ubcf5\uc22d\uc544"
+      }
+    ],
+    "description": {
+      "en": "Lee Kyun, the Shepherd, is at the top of the pyramid of the Carnivore Class. Everything was perfect - other than the fact that he has a crush on his best friend, Choi Hae Beom, the Leopard. Too scared to confess, he thought he would be satisfied with just the title of \"Best Friend,\" when a bottom-of-the-food-chain, zero-attack-power Golden Hamster appears and starts to show interest in Hae Beom. Between the two of them, who will manage to capture the Leopard's heart?!\n\n#BL #ShortSeries #Cute #Sweet #SchoolSetting #Hybrids #UnrequitedLove #LoveTriangle #NiceTop #CuteBottom"
+    },
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "9"
   },
   {
     "mangaId": "751254d3-ba82-4f3d-9c3c-97c070469bff",
@@ -1878,5 +1844,29 @@
     "contentRating": "safe",
     "lastVolume": null,
     "lastChapter": null
+  },
+  {
+    "mangaId": "afac87ae-4739-4793-8183-e8946f3e840d",
+    "title": {
+      "en": "To Those Who Long For My Destruction"
+    },
+    "updatedAt": "2024-03-30T00:00:38+00:00",
+    "coverArt": "https://mangadex.org/covers/afac87ae-4739-4793-8183-e8946f3e840d/2659cbb2-fc8e-4c4b-8081-6223c2f1e34b.jpg",
+    "altTitles": [
+      {
+        "pt-br": "Para aqueles que anseiam por minha Destrui\u00e7\u00e3o"
+      },
+      {
+        "ko": "\uc6d0\ub354\uc2a4 \uc791\uac00\ub2d8 - \ub098\uc758 \ud30c\uba78\uc744 \ubc14\ub77c\ub294 \uadf8\ub300\ub4e4\uc5d0\uac8c"
+      }
+    ],
+    "description": {
+      "pt-br": "De pais casados \u200b\u200b\u00e0 for\u00e7a, cuja \u00fanica paix\u00e3o compartilhada \u00e9 o desd\u00e9m m\u00fatuo, nasce uma crian\u00e7a negligenciada \u2013 Leoni.\n\nAnsiosa por afeto quando crian\u00e7a, Leoni perde a m\u00e3e para uma doen\u00e7a, apenas para que seu pai leiloe sua m\u00e3o em casamento.\n\nSuportando tr\u00eas casamentos arranjados, Leoni enfrenta mais dificuldades quando \u00e9 falsamente acusada de um crime capital, aparentemente destinado a um amargo fim.\n\n\u201cAqueles que orquestraram minha mis\u00e9ria\u2026 Cada um deles\u2026 pagar\u00e1\u2026!\u201d\n\nTalvez por for\u00e7a de vontade, Leoni se encontra de volta \u00e0 inf\u00e2ncia, com mem\u00f3rias intactas \u2013 e sua ira.\n\nAgora, ela deve recuperar sua vida e buscar a t\u00e3o esperada felicidade. Mas primeiro h\u00e1 d\u00edvidas de sofrimento a serem pagas. E Leoni vem cobrar."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
   }
 ]
