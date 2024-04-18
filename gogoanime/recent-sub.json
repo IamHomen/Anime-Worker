@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "hananoi-kun-to-koi-no-yamai",
+    "animeTitle": "Hananoi-kun to Koi no Yamai",
+    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/hananoi-kun-to-koi-no-yamai-episode-3"
+  },
+  {
     "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
     "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
     "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/unnamed-memory-episode-2"
-  },
-  {
-    "animeId": "atashinchi",
-    "animeTitle": "Atashin'chi",
-    "animeImg": "https://gogocdn.net/cover/atashinchi.png",
-    "episode": "Episode 368",
-    "animeUrl": "https://anitaku.so/atashinchi-episode-368"
   }
 ]
