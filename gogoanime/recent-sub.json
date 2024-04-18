@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "chiikawa",
+    "animeTitle": "Chiikawa",
+    "animeImg": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 88",
+    "animeUrl": "https://anitaku.so/chiikawa-episode-88"
+  },
+  {
     "animeId": "wind-breaker",
     "animeTitle": "Wind Breaker",
     "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
     "episode": "Episode 53",
     "animeUrl": "https://anitaku.so/odekake-kozame-episode-53"
-  },
-  {
-    "animeId": "boukyaku-battery-tv",
-    "animeTitle": "Boukyaku Battery (TV)",
-    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/boukyaku-battery-tv-episode-2"
   }
 ]
