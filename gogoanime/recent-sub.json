@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "yuru-camp-season-3",
+    "animeTitle": "Yuru Camp\u25b3 Season 3",
+    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/yuru-camp-season-3-episode-3"
+  },
+  {
     "animeId": "dungeon-meshi",
     "animeTitle": "Dungeon Meshi",
     "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/junk-boy.png",
     "episode": "Episode 1",
     "animeUrl": "https://anitaku.so/junk-boy-episode-1"
-  },
-  {
-    "animeId": "the-fable",
-    "animeTitle": "The Fable",
-    "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/the-fable-episode-2"
   }
 ]
