@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "urusei-yatsura-2022-2nd-season",
+    "animeTitle": "Urusei Yatsura (2022) 2nd Season",
+    "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
+    "episode": "Episode 14",
+    "animeUrl": "https://anitaku.so/urusei-yatsura-2022-2nd-season-episode-14"
+  },
+  {
     "animeId": "hananoi-kun-to-koi-no-yamai",
     "animeTitle": "Hananoi-kun to Koi no Yamai",
     "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/rinkai-episode-2"
-  },
-  {
-    "animeId": "unnamed-memory",
-    "animeTitle": "Unnamed Memory",
-    "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/unnamed-memory-episode-2"
   }
 ]
