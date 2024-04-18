@@ -1,9 +1,23 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-shattered-constellation/",
+    "animeTitle": "Return Of The Shattered Constellation",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/11/00-cover.jpg",
+    "episode": "Chapter 108",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-shattered-constellation/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-trash-of-the-counts-family/",
+    "animeTitle": "Trash of the Count\u2019s Family",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/04/TrashoftheCountsFamilyCover01.png",
+    "episode": "Chapter 125",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-trash-of-the-counts-family/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-solo-max-level-newbie/",
     "animeTitle": "Solo Max-Level Newbie",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/solomaxlevelnewbie.jpg",
-    "episode": "Chapter 150",
+    "episode": "Chapter 150 - Heros\u2019 Return",
     "animeUrl": "https://asuratoon.com/manga/1908287720-solo-max-level-newbie/"
   },
   {
@@ -124,19 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/TheMainCharactersThatOnlyIKnowCover01.png",
     "episode": "Chapter 23",
     "animeUrl": "https://asuratoon.com/manga/1908287720-the-main-characters-that-only-i-know/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-dungeon-defense/",
-    "animeTitle": "Dungeon Defense",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/DungeonDefenseCover01.png",
-    "episode": "Chapter 24",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-dungeon-defense/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-constellation-that-returned-from-hell/",
-    "animeTitle": "The Constellation That Returned From Hell",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/04/kapkaw-copy-222x300.jpg",
-    "episode": "Chapter 152",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-constellation-that-returned-from-hell/"
   }
 ]

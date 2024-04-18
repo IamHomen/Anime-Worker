@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "henjin-no-salad-bowl",
+    "animeTitle": "Henjin no Salad Bowl",
+    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/henjin-no-salad-bowl-episode-3"
+  },
+  {
     "animeId": "chiikawa",
     "animeTitle": "Chiikawa",
     "animeImg": "https://gogocdn.net/cover/chiikawa.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 104",
     "animeUrl": "https://anitaku.so/yugioh-go-rush-episode-104"
-  },
-  {
-    "animeId": "odekake-kozame",
-    "animeTitle": "Odekake Kozame",
-    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
-    "episode": "Episode 53",
-    "animeUrl": "https://anitaku.so/odekake-kozame-episode-53"
   }
 ]
