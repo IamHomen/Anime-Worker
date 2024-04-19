@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "mahouka-koukou-no-rettousei-3rd-season",
+    "animeTitle": "Mahouka Koukou no Rettousei 3rd Season",
+    "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/mahouka-koukou-no-rettousei-3rd-season-episode-3"
+  },
+  {
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/kaii-to-otome-to-kamikakushi-episode-2"
-  },
-  {
-    "animeId": "seiyuu-radio-no-uraomote",
-    "animeTitle": "Seiyuu Radio no Uraomote",
-    "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/seiyuu-radio-no-uraomote-episode-2"
   }
 ]
