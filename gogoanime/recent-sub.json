@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "the-idolmster-shiny-colors",
+    "animeTitle": "The iDOLM@STER Shiny Colors",
+    "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/the-idolmster-shiny-colors-episode-3"
+  },
+  {
     "animeId": "girls-band-cry",
     "animeTitle": "Girls Band Cry",
     "animeImg": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/bartender-kami-no-glass-episode-3"
-  },
-  {
-    "animeId": "date-a-live-v",
-    "animeTitle": "Date A Live V",
-    "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/date-a-live-v-episode-2"
   }
 ]
