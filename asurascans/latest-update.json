@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-reaper-of-the-drifting-moon/",
+    "animeTitle": "Reaper of the Drifting Moon",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/07/Reaper-Moon-Cover-Animation_Compressed.gif",
+    "episode": "Chapter 84",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-reaper-of-the-drifting-moon/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-max-level-hero-has-returned/",
     "animeTitle": "The Max Level Hero has Returned!",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2020/10/maxlevelheroCover02.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/08/myschoollifeCover02.png",
     "episode": "Chapter 58",
     "animeUrl": "https://asuratoon.com/manga/1908287720-my-school-life-pretending-to-be-a-worthless-person/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-kill-the-dragon/",
-    "animeTitle": "Kill The Dragon",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/04/coverrr.jpg",
-    "episode": "Chapter 107",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-kill-the-dragon/"
   }
 ]
