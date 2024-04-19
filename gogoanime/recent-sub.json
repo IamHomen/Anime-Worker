@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "girls-band-cry",
+    "animeTitle": "Girls Band Cry",
+    "animeImg": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/girls-band-cry-episode-3"
+  },
+  {
+    "animeId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
+    "animeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+    "animeImg": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-2"
+  },
+  {
     "animeId": "mahouka-koukou-no-rettousei-3rd-season",
     "animeTitle": "Mahouka Koukou no Rettousei 3rd Season",
     "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/date-a-live-v-episode-2"
-  },
-  {
-    "animeId": "grimm-kumikyoku",
-    "animeTitle": "Grimm Kumikyoku",
-    "animeImg": "https://gogocdn.net/cover/grimm-kumikyoku.png",
-    "episode": "Episode 6",
-    "animeUrl": "https://anitaku.so/grimm-kumikyoku-episode-6"
-  },
-  {
-    "animeId": "kaii-to-otome-to-kamikakushi",
-    "animeTitle": "Kaii to Otome to Kamikakushi",
-    "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/kaii-to-otome-to-kamikakushi-episode-2"
   }
 ]
