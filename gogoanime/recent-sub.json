@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "astro-note",
+    "animeTitle": "Astro Note",
+    "animeImg": "https://gogocdn.net/cover/astro-note.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/astro-note-episode-3"
+  },
+  {
     "animeId": "nijiyon-animation-2",
     "animeTitle": "Nijiyon Animation 2",
     "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/iwa-kakeru-sport-climbing-girls.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/iwa-kakeru-sport-climbing-girls-episode-2"
-  },
-  {
-    "animeId": "sand-land-the-series",
-    "animeTitle": "Sand Land: The Series",
-    "animeImg": "https://gogocdn.net/cover/sand-land-the-series.png",
-    "episode": "Episode 11",
-    "animeUrl": "https://anitaku.so/sand-land-the-series-episode-11"
   }
 ]
