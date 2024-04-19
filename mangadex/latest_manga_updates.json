@@ -1,5 +1,120 @@
 [
   {
+    "mangaId": "defa12b2-6b85-4d08-9a51-560e4b717ef2",
+    "title": {
+      "en": "Two Way Trial"
+    },
+    "updatedAt": "2022-05-02T07:02:50+00:00",
+    "coverArt": "https://mangadex.org/covers/defa12b2-6b85-4d08-9a51-560e4b717ef2/4019940e-6f97-4a5c-8671-d327ea70913f.jpg",
+    "altTitles": [
+      {
+        "zh": "\u53cc\u5411\u6e21\u52ab\u00b7\u9752\u6625\u96c6"
+      }
+    ],
+    "description": {
+      "en": "A collection of stories between two boys when they were still students."
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "3f3b46a2-a399-4883-bc83-783f2fbd18d7",
+    "title": {
+      "en": "Paper Braver"
+    },
+    "updatedAt": "2023-10-21T11:25:05+00:00",
+    "coverArt": "https://mangadex.org/covers/3f3b46a2-a399-4883-bc83-783f2fbd18d7/c1a59ed8-5aee-4f15-8e88-0ae66586d0ac.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30da\u30fc\u30d1\u30fc\u30d6\u30ec\u30a4\u30d0\u30fc"
+      }
+    ],
+    "description": {
+      "en": "In contemporary Japan, descendants of the Holy Warriors live in secret, awaiting the resurrection of the Demon King.\nShiromado Hijiri is the successor of the Great White Witch who can use recovery magic.\n\nOne day, she encounters the very descendant of the Yuusha who she is fated to serve...!"
+    },
+    "status": "completed",
+    "releaseDate": 2013,
+    "contentRating": "safe",
+    "lastVolume": "4",
+    "lastChapter": "64"
+  },
+  {
+    "mangaId": "7f15e45c-b7fd-4164-8d8e-ede14a817f0d",
+    "title": {
+      "en": "The Extra\u2019s Academy Survival Guide"
+    },
+    "updatedAt": "2024-03-18T19:24:35+00:00",
+    "coverArt": "https://mangadex.org/covers/7f15e45c-b7fd-4164-8d8e-ede14a817f0d/419973f4-63bb-4dbc-bb65-22dbc051ed54.png",
+    "altTitles": [
+      {
+        "en": "Surviving the Academy"
+      },
+      {
+        "en": "How to Survive at the Academy"
+      },
+      {
+        "ko": "\uc544\uce74\ub370\ubbf8\uc5d0\uc11c \uc0b4\uc544\ub0a8\uae30"
+      },
+      {
+        "pt-br": "O Guia de Sobreviv\u00eancia do Extra da Academia"
+      },
+      {
+        "pt-br": "O Guia de Sobreviv\u00eancia do Figurante da Academia"
+      },
+      {
+        "ko-ro": "Academy-eseo Saranamgi"
+      }
+    ],
+    "description": {
+      "en": "I possessed a third-rate extra villain character in my favorite game. I have no ambitions and I just want to live a quiet life. But sheesh, this world is a hard place to survive in. I will survive to the ending of this story, in a way the protagonist cannot. I will survive in the way of a third-rate villainous character.",
+      "pt-br": "Eu possu\u00eda um personagem vil\u00e3o extra de terceira categoria em meu jogo favorito. N\u00e3o tenho ambi\u00e7\u00f5es e s\u00f3 quero viver uma vida tranquila. Mas, caramba, este mundo \u00e9 um lugar dif\u00edcil de sobreviver. Eu sobreviverei at\u00e9 o final desta hist\u00f3ria, de uma forma que o protagonista n\u00e3o conseguir\u00e1. Sobreviverei \u00e0 maneira de um personagem vil\u00e3o de terceira categoria."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "d152582d-3f0c-4f5e-a0c1-6658b9be30f0",
+    "title": {
+      "en": "Captain Kid"
+    },
+    "updatedAt": "2024-03-02T14:52:37+00:00",
+    "coverArt": "https://mangadex.org/covers/d152582d-3f0c-4f5e-a0c1-6658b9be30f0/1e43bd67-4ab7-42a9-a005-dfab9d0ff31d.png",
+    "altTitles": [
+      {
+        "vi": "Ho\u00e0ng T\u1eed C\u01b0\u1edbp Bi\u1ec3n"
+      },
+      {
+        "vi": "Ho\u00e0ng T\u1eed Sinh B\u00e1"
+      },
+      {
+        "ru": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u041a\u0438\u0434"
+      },
+      {
+        "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u30ad\u30c3\u30c9"
+      },
+      {
+        "zh-hk": "\u6d77\u76dc\u738b\u5b50"
+      },
+      {
+        "zh-ro": "H\u01ceid\u00e0o w\u00e1ngz\u01d0"
+      }
+    ],
+    "description": {
+      "en": "In the 19th century, there lived a young pirate king, feared enough to be called the \u201cDevil of the Sea\u201d. His name is Captain Kid! With his mysterious guardian sword, Black Lightning, he sails the seven seas aboard his vessel, the Golden Drake!! What awaits him? Is it hell, or the furious waves of the ocean?! The adventurous tale of Kid and his band of rogues begins here!!"
+    },
+    "status": "completed",
+    "releaseDate": 1990,
+    "contentRating": "safe",
+    "lastVolume": "10",
+    "lastChapter": "64"
+  },
+  {
     "mangaId": "4fb13e27-641c-427e-ac61-01db67837b83",
     "title": {
       "en": "Desharow Merman"
@@ -1472,109 +1587,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "f48e28cd-46aa-4d6e-8052-4791eb1a0183",
-    "title": {
-      "en": "A Childhood Friend Who Is Nice to a Shut-In"
-    },
-    "updatedAt": "2024-04-18T14:32:31+00:00",
-    "coverArt": "https://mangadex.org/covers/f48e28cd-46aa-4d6e-8052-4791eb1a0183/d6ff050c-e6a7-4d37-adfa-bfefd76a1f28.jpg",
-    "altTitles": [
-      {
-        "ja": "\u5f15\u304d\u3053\u3082\u308a\u306b\u512a\u3057\u3044\u5e7c\u99b4\u67d3"
-      },
-      {
-        "ja-ro": "Hikikomori ni Yasashii Osananajimi"
-      }
-    ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "13c18abd-2a44-4f1e-86fb-63f970566c3c",
-    "title": {
-      "en": "Osoto Gohan wo Goisshoni"
-    },
-    "updatedAt": "2024-03-21T07:43:10+00:00",
-    "coverArt": "https://mangadex.org/covers/13c18abd-2a44-4f1e-86fb-63f970566c3c/90c1f600-f883-492a-886b-d8825a658db7.png",
-    "altTitles": [
-      {
-        "ja": "\u304a\u305d\u3068\u3054\u306f\u3093\u3092\u3054\u4e00\u7dd2\u306b"
-      },
-      {
-        "zh": "\u9080\u4f60\u4e00\u8d77\u5728\u6237\u5916\u5171\u8fdb\u7f8e\u9910"
-      },
-      {
-        "id": "Ayo makan di Luar ruangan bersama"
-      },
-      {
-        "en": "Let's Eat Outdoors!"
-      }
-    ],
-    "description": {
-      "ja": "\u30a2\u30d1\u30fc\u30c8\u306e\u72ed\u3044\u30ad\u30c3\u30c1\u30f3\u306b\u60a9\u3080\u6599\u7406\u597d\u304d\u306e\u5973\u5b50\u5927\u751f\u30fb\u98a8\u9999\u304c\u51fa\u4f1a\u3063\u305f\u306e\u306f\u3001\u6599\u7406\u304c\u82e6\u624b\u3067\u7834\u5929\u8352\u306a\u30a2\u30a6\u30c8\u30c9\u30a2\u5973\u5b50\u30fb\u3088\u3082\u304e\u3060\u3063\u305f\u3002\n\u6210\u308a\u884c\u304d\u3067\u59cb\u307e\u3063\u305f\u305f\u3075\u305f\u308a\u306e\u304a\u305d\u3068\u3054\u306f\u3093\u306f\u3001\u306a\u3093\u3060\u304b\u3068\u3063\u3066\u3082\u6e29\u304b\u304f\u3066\u2026\n\u5973\u3075\u305f\u308a\u306e\u52a9\u3051\u5408\u3044\u30a2\u30a6\u30c8\u30c9\u30a2\u30b0\u30eb\u30e1\u6f2b\u753b\u30b9\u30bf\u30fc\u30c8\uff01"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "4c221393-092a-4c43-9af7-be21427aa411",
-    "title": {
-      "en": "Kiraware Majo to Karada ga Irekawatta Keredo, Watashi wa Kyou mo Genki ni Kurashiteimasu!"
-    },
-    "updatedAt": "2024-03-07T16:59:00+00:00",
-    "coverArt": "https://mangadex.org/covers/4c221393-092a-4c43-9af7-be21427aa411/e50a23f7-e2e8-49f5-953b-981da7fa4154.jpg",
-    "altTitles": [
-      {
-        "ja": "\u5acc\u308f\u308c\u9b54\u5973\u3068\u4f53\u304c\u5165\u308c\u66ff\u308f\u3063\u305f\u3051\u308c\u3069\u3001\u79c1\u306f\u4eca\u65e5\u3082\u5143\u6c17\u306b\u66ae\u3089\u3057\u3066\u3044\u307e\u3059\uff01"
-      },
-      {
-        "en": "I Swapped Bodies With a Wicked Witch, But Today I'll Keep Having Fun!"
-      }
-    ],
-    "description": {
-      "en": "A happy slow life begins with a switch! Marietta, princess of the snow country of Snewe, is trapped in a magic tower because she can't use magic. 8 years later, on her wedding day with the prince of the silver country, she thought she had succeeded in summoning a holy beast, but then... What appeared was...?",
-      "ja": "\u53d6\u308a\u6c7a\u3081\u306b\u3088\u308a\u96ea\u306e\u56fd\u30fb\u30b9\u30cb\u30e5\u30fc\u30a6\u304b\u3089\u5927\u56fd\u30fb\u30b8\u30eb\u30f4\u30a1\u30e9\u306b\u8f3f\u5165\u308c\u3057\u3066\u304d\u305f\u738b\u5973\u30fb\u30de\u30ea\u30a8\u30c3\u30bf\u3002\u3057\u304b\u3057\u9b54\u6cd5\u304c\u4f7f\u3048\u306a\u3044\u30de\u30ea\u30a8\u30c3\u30bf\u306f\u5854\u306b\u5e7d\u9589\u3055\u308c\u30017\u5e74\u5f8c\u306b\u884c\u308f\u308c\u308b\u8056\u7363\u53ec\u559a\u306e\u5100\u5f0f\u3092\u6210\u529f\u3055\u305b\u308b\u305f\u3081\u3001\u3072\u305f\u3059\u3089\u9b54\u6cd5\u306e\u4fee\u884c\u3092\u5f37\u3044\u3089\u308c\u305f\u3002\u305d\u3057\u30667\u5e74\u5f8c\u898b\u4e8b\u306b\u767d\u3044\u7adc\u3092\u53ec\u559a\u3057\u305f\u30de\u30ea\u30a8\u30c3\u30bf\u3060\u304c\u3001\u6b21\u306e\u77ac\u9593\u8b0e\u306e\u58f0\u306b\u3044\u3056\u306a\u308f\u308c\u3001\u6c17\u304c\u3064\u3051\u3070\u898b\u77e5\u3089\u306c\u5834\u6240\u306b\u3044\u305f\u3002\u3057\u304b\u3082\u898b\u305f\u76ee\u306f\u305d\u3063\u304f\u308a\u306a\u306e\u306b\u3001\u3069\u3093\u306a\u9b54\u6cd5\u3082\u4f7f\u3048\u308b\u307b\u3069\u9b54\u529b\u306b\u6ea2\u308c\u305f\u8eab\u4f53\u306b\u306a\u3063\u3066\u3044\u3066\u2026\u3002"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "bd4b3774-0acb-4c7e-a9c5-7160ede8d07a",
-    "title": {
-      "en": "\u00c9trang\u00e8re"
-    },
-    "updatedAt": "2024-04-19T07:02:00+00:00",
-    "coverArt": "https://mangadex.org/covers/bd4b3774-0acb-4c7e-a9c5-7160ede8d07a/cb2ecb14-d243-4f0b-957e-562832f4b9a4.jpg",
-    "altTitles": [
-      {
-        "fr": "Etrang\u00e9e"
-      },
-      {
-        "ko": "\uc5d0\ub728\ub791\uc81c"
-      },
-      {
-        "en": "ETRANGERE"
-      }
-    ],
-    "description": {
-      "en": "A standard parachuting drill turns deadly for Commander Kang San and Lieutenant Kim Biyeon when they land in a mysterious dimension filled with bloodthirsty monsters! The only help they have comes in the form of mysterious texts and rewards for completing missions.\n\nAs the two soldiers push themselves to their limits to survive, they unlock mysterious abilities that are powerful beyond their control.\n\nCan they learn to harness these powers to stay alive and make it out of this twisted game?"
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "78"
   }
 ]
