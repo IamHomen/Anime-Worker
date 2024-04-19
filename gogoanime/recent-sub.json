@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "highspeed-etoile",
+    "animeTitle": "Highspeed Etoile",
+    "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/highspeed-etoile-episode-3"
+  },
+  {
     "animeId": "the-idolmster-shiny-colors",
     "animeTitle": "The iDOLM@STER Shiny Colors",
     "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
     "episode": "Episode 2",
     "animeUrl": "https://anitaku.so/kenka-dokugaku-episode-2"
-  },
-  {
-    "animeId": "bartender-kami-no-glass",
-    "animeTitle": "Bartender: Kami no Glass",
-    "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
-    "episode": "Episode 3",
-    "animeUrl": "https://anitaku.so/bartender-kami-no-glass-episode-3"
   }
 ]
