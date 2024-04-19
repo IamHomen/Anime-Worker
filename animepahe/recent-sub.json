@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62469,
+      "anime_id": 5545,
+      "anime_title": "Astro Note",
+      "anime_session": "b7144b01-f026-41ed-60bb-8cade5272159",
+      "episode": 3,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/37f6c2c6d074cfd35c04012c3d37e1573741cca29528b3f1585e31fa4024501e.jpg",
+      "disc": "",
+      "session": "7a9d20c942676a273cb17b95b8ce1ccc107fa2c7fb4ffb33569e30fec0e4d6f0",
+      "filler": 0,
+      "created_at": "2024-04-19 14:06:30",
+      "completed": 0
+    },
+    {
       "id": 62468,
       "anime_id": 5555,
       "anime_title": "Nijiyon Animation 2",
@@ -182,22 +198,6 @@
       "session": "d37c323e6cb128ee183ece0fa740006140d596d3a2892e8cdf48f21255605c2b",
       "filler": 0,
       "created_at": "2024-04-18 15:05:19",
-      "completed": 0
-    },
-    {
-      "id": 62458,
-      "anime_id": 5551,
-      "anime_title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-      "anime_session": "3c11500d-be80-e117-41c6-bb358c6e51fd",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/95b674da90086906ffc4829b1217253fc9410720913de5058eb1a336bc5fea57.jpg",
-      "disc": "",
-      "session": "0ec362711747f96c1310c91f3d2f7fbc83d86e41ab3b6037838272be06151d58",
-      "filler": 0,
-      "created_at": "2024-04-18 04:59:25",
       "completed": 0
     }
   ]

@@ -1,5 +1,146 @@
 [
   {
+    "mangaId": "3fdd2237-c1a9-4abe-9dc5-99c4d6f72370",
+    "title": {
+      "en": "A Story about a Skinny Girl Who Aims to Have an Attractive Body and a Muscle Gal."
+    },
+    "updatedAt": "2024-04-19T14:43:47+00:00",
+    "coverArt": "https://mangadex.org/covers/3fdd2237-c1a9-4abe-9dc5-99c4d6f72370/52d0b671-6ae1-4feb-80bf-2276722ceb03.jpg",
+    "altTitles": [
+      {
+        "ja": "\u75e9\u305b\u304e\u3059\u5973\u5b50\u304c\u30e0\u30c1\u30e0\u30c1\u30ae\u30e3\u30eb\u5b50\u3068\u30e2\u30c6\u30dc\u30c7\u30a3\u3092\u76ee\u6307\u3059\u8a71\u3002"
+      },
+      {
+        "ja-ro": "Yasegisu Joshi ga Muchimuchigyaru-ko to Motebodhi wo Mezasu Hanashi."
+      },
+      {
+        "vi": "C\u00e2u chuy\u1ec7n v\u1ec1 c\u00f4 g\u00e1i m\u1ea3nh mai \u0111ang c\u1ed1 g\u1eafng \u0111\u1ec3 c\u00f3 m\u1ed9t th\u00e2n h\u00ecnh quy\u1ebfn r\u0169 v\u00e0 n\u00e0ng gal c\u00f4 g\u00e1i xinh \u0111\u1eb9p."
+      }
+    ],
+    "description": {},
+    "status": "completed",
+    "releaseDate": 2024,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "7b7902f0-2344-4474-8604-e12953d71308",
+    "title": {
+      "en": "Mujihi na Yoru ni"
+    },
+    "updatedAt": "2023-10-30T10:14:56+00:00",
+    "coverArt": "https://mangadex.org/covers/7b7902f0-2344-4474-8604-e12953d71308/6d04f0e6-984f-4b8e-aeaf-157d6f9ca561.jpg",
+    "altTitles": [
+      {
+        "ja": "\u7121\u6148\u60b2\u306a\u30e8\u30eb\u306b"
+      },
+      {
+        "en": "Ruthless Nights"
+      }
+    ],
+    "description": {
+      "en": "The story of Aikawa Kuon, the quiet college student and Shirahane Nanao, the devilish young man continues..."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "6a468761-5bd6-4de0-a0cb-47cb456ac2e0",
+    "title": {
+      "en": "A Returner's Magic Should Be Special"
+    },
+    "updatedAt": "2023-11-09T23:32:04+00:00",
+    "coverArt": "https://mangadex.org/covers/6a468761-5bd6-4de0-a0cb-47cb456ac2e0/98162533-1838-4639-8419-2f19f8af651b.png",
+    "altTitles": [
+      {
+        "ko": "\uadc0\ud658\uc790\uc758 \ub9c8\ubc95\uc740 \ud2b9\ubcc4\ud574\uc57c \ud569\ub2c8\ub2e4"
+      },
+      {
+        "ru": "\u041c\u0430\u0433\u0438\u044f \u0432\u0435\u0440\u043d\u0443\u0432\u0448\u0435\u0433\u043e\u0441\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0439"
+      },
+      {
+        "ja": "\u5e30\u9084\u8005\u306e\u9b54\u6cd5\u306f\u7279\u5225\u3067\u3059"
+      },
+      {
+        "ko-ro": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida"
+      },
+      {
+        "id": "Returner\u2019s Special Magic"
+      },
+      {
+        "zh": "\u5f52\u8fd8\u8005\u7684\u9b54\u6cd5\u8981\u7279\u522b"
+      },
+      {
+        "zh-hk": "\u91cd\u751f\u8005\u7684\u9b54\u6cd5\u4e00\u5b9a\u8981\u7279\u5225"
+      },
+      {
+        "th": "\u0e1e\u0e25\u0e31\u0e07\u0e02\u0e31\u0e49\u0e19\u0e40\u0e17\u0e1e\u0e02\u0e2d\u0e07\u0e08\u0e2d\u0e21\u0e40\u0e27\u0e17\u0e08\u0e38\u0e15\u0e34\u0e43\u0e2b\u0e21\u0e48"
+      },
+      {
+        "es": "La magia de un retornado debe ser especial"
+      },
+      {
+        "vi": "Ma thu\u1eadt \u0111\u1eb7c bi\u1ec7t c\u1ee7a ph\u00f9 th\u1ee7y quay ng\u01b0\u1ee3c th\u1eddi gian"
+      },
+      {
+        "en": "Magician who Reversing Time"
+      },
+      {
+        "pt-br": "A Magia de um Retornado Tem de Ser Especial"
+      }
+    ],
+    "description": {
+      "de": "\"Jetzt, wo ich zur\u00fcckgekehrt bin, werde ich keinen meiner Liebsten wieder sterben lassen!\" Das Labyrinth der Schatten - die t\u00f6dlichste Katastrophe, der die Menschheit jemals gegen\u00fcberstand. Desir Arman, einer der sechs \u00dcberlebenden der Menschheit, befindet sich im Labyrinth. Die sechs versuchen gemeinsam, die letzte Pr\u00fcfung des Labyrinths zu meistern, scheitern aber, woraufhin die Welt untergeht. Aber als sich Desir gerade auf sein Ende vorbereitet, erscheint pl\u00f6tzlich vor ihm die Welt \u2026 von vor 13 Jahren?! Desir ist in die Vergangenheit zur\u00fcckgekehrt, in eine Zeit, als er Sch\u00fcler an der besten Magierschule seines war. Er und seine Liebsten wurden wieder vereint, und er ist entschlossen, dieses Mal sie und die Welt zu retten! Es bleiben noch drei Jahre bevor die Schattenwelt erscheint! \u00c4ndere die Vergangenheit und versammle m\u00e4chtige Kameraden um dich, um die Menschheit zu retten!\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "en": "\"Now that I'm back, I won't allow my loved ones to die again!\"  \r\n  \r\nThe Shadow Labyrinth - the deadliest catastrophe humanity has ever known.  \r\nDesir Arman, one of the six remaining survivors of mankind, is inside the Labyrinth. The six of them attempt to clear the final level of the Labyrinth but ultimately fail, and the world comes to an end.  \r\nHowever, when Desir thought he would meet his demise, what appears before him is the world\u2026 thirteen years ago?!  \r\n  \r\nDesir is returned to the past, back to the time when he enrolled at the nation's finest magic academy, Havrion. He is reunited with his precious friends, and he is determined to change the past to save the world and his loved ones\u2026!  \r\n  \r\nThree years remain before the emergence of the Shadow World!  \r\nChange the past and gather powerful comrades to save mankind!\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "fr": "Le monde est au bord de la destruction apr\u00e8s une guerre d\u00e9vastatrice de dix ans dans le \u00ab Labyrinthe des ombres \u00bb. Desir Herrman est l'un des derniers magiciens restants, mais il n'est pas assez puissant pour combattre l'ennemi fatal qui menace l'Humanit\u00e9. Alors qu'il est certain que la fin est proche, il est renvoy\u00e9 dans le temps, \u00e0 l'\u00e9poque o\u00f9 il \u00e9tudiait la magie \u00e0 la prestigieuse Acad\u00e9mie Hebrion ! Gr\u00e2ce \u00e0 cette seconde chance, Desir est bien d\u00e9cid\u00e9 \u00e0 sauver non seulement sa peau, mais \u00e9galement celle de ses amis et camarades perdus. Sachant d\u00e9j\u00e0 ce que le futur leur r\u00e9serve, ses efforts pourront-ils faire la diff\u00e9rence, ou bien seront-ils tous condamn\u00e9s \u00e0 revivre le m\u00eame destin tragique ? Adapt\u00e9 du roman phare.\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "id": "\"Agak disesalkan, tapi sebaiknya kita bersia-siap untuk mati!\"\r\n\"Apa dunia akan benar-benar berakhir di sini?!\"\r\n\r\nDesir mengira semua sudah berakhir. Namun, ternyata dia kembali ke ujian masuk akademi hevrion 13 tahun yang lalu! Ia kembali berkumpul dengan orang-orang tercinta yang mati dalam dunia bayangan. Tiga tahun tersisa sebelum dunia bayangan muncul! \r\n\r\n\"Kesempatan datang lagi, aku tidak akan kehilangan orang-orang yang kucintai untuk kedua kalinya!\"\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "ja": "\u4eba\u985e\u304c\u8fce\u3048\u305f\u6700\u60aa\u306e\u707d\u5bb3\u3001\u5f71\u306e\u8ff7\u5bae\u3002 \u300c\u30c7\u30b8\u30fc\u30eb\u30fb\u30a2\u30eb\u30de\u30f3\u300d\u306f\u5f71\u306e\u8ff7\u5bae\u306e\u4e2d\u3067\u6700\u5f8c\u307e\u3067\u751f\u304d\u6b8b\u3063\u305f\u751f\u5b58\u80056\u4eba\u306e\u3046\u3061\u306e1\u4eba\u3067\u3042\u308b\u3002 \u5f7c\u3089\u306f\u5f71\u306e\u8ff7\u5bae\u306e\u6700\u5f8c\u306e\u30dc\u30b9\u306b\u6311\u6226\u3057\u305f\u304c\u3001\u5931\u6557\u3057\u3001\u4e16\u754c\u306f\u6ec5\u4ea1\u3092\u8fce\u3048\u3066\u3057\u307e\u3063\u305f\u3002 \u5168\u3066\u304c\u7d42\u308f\u3063\u305f\u3068\u601d\u3063\u305f\u77ac\u9593\u3001\u300c\u30c7\u30b8\u30fc\u30eb\u300d\u306e\u76ee\u306e\u524d\u306b\u898b\u3048\u308b\u5149\u666f\u306f\u202613\u5e74\u524d\u306e\u4e16\u754c\uff01\uff1f \u5e1d\u56fd\u6700\u9ad8\u306e\u9b54\u6cd5\u5b66\u9662\u3001\u3078\u30d6\u30ea\u30aa\u30f3\u5b66\u5712\u306e\u5165\u5b66\u5f0f\u306b\u623b\u3063\u3066\u304d\u305f\u300c\u30c7\u30b8\u30fc\u30eb\u300d \u6700\u60aa\u306e\u707d\u5bb3\u300c\u5f71\u306e\u4e16\u754c\u300d\u767a\u751f\u307e\u3067\u306e\u6b8b\u308a\u306e\u6642\u9593\u306f3\u5e74\uff01 \u904e\u53bb\u3092\u5909\u3048\u3001\u5f37\u3044\u4ef2\u9593\u3092\u96c6\u3081\u3066\u3001\u4e16\u754c\u3092\u6551\u3048\u308b\u3053\u3068\u306f\u3067\u304d\u308b\u3060\u308d\u3046\u304b\uff01\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "ko": "\"\ub2e4\uc2dc \ub3cc\uc544\uc628 \uc774\uc0c1, \uc0ac\ub791\ud558\ub294 \uc0ac\ub78c\ub4e4\uc744 \ub450 \ubc88 \uc783\uc744 \uc21c \uc5c6\uc5b4!\"\r\n\r\n\uc778\ub958\uac00 \ub9de\uc774\ud55c \ucd5c\uc545\uc758 \uc7ac\uc559, \uadf8\ub9bc\uc790 \ubbf8\uad81.\r\n\ub370\uc9c0\ub974 \uc544\ub974\ub9dd\uc740 \ubbf8\uad81 \uc18d\uc5d0\uc11c \r\n\ub9c8\uc9c0\ub9c9\uae4c\uc9c0 \uc0b4\uc544\ub0a8\uc740 \ucd5c\ud6c4\uc758 \uc0dd\uc874\uc790 6\uba85 \uc911 \ud55c \uba85\uc774\ub2e4.\r\n\uadf8\ub4e4\uc740 \uadf8\ub9bc\uc790 \ubbf8\uad81\uc758 \ub9c8\uc9c0\ub9c9 \ub2e8\uacc4\uc5d0 \ub3c4\uc804\ud558\uc9c0\ub9cc \uacb0\uad6d \uc2e4\ud328\ud558\uace0\r\n\uc138\uacc4\ub294 \uba78\ub9dd\uc744 \ub9de\uc774\ud558\uace0 \ub9cc\ub2e4.\r\n\r\n\ubaa8\ub4e0 \uac8c \ub05d\uc774\ub77c \uc0dd\uac01\ud588\ub358 \uc21c\uac04,\r\n\ub370\uc9c0\ub974\uc758 \ub208\uc55e\uc5d0 \ud3bc\uccd0\uc9c4 \uac83\uc740 \ub2e4\ub984 \uc544\ub2cc 13\ub144 \uc804\uc758 \uc138\uc0c1?!\r\n\r\n\uc81c\uad6d \ucd5c\uace0\uc758 \ub9c8\ubc95 \ud559\uc6d0, \ud5e4\ube0c\ub9ac\uc628\uc5d0 \uc785\ud559\ud588\ub358 \uc21c\uac04\uc73c\ub85c \ub3cc\uc544\uc628 \ub370\uc9c0\ub974.\r\n\uadf8\ub9bc\uc790 \ubbf8\uad81\uc5d0\uc11c \uc783\uc5c8\ub358 \uc18c\uc911\ud55c \uc0ac\ub78c\ub4e4\uacfc \uc7ac\ud68c\ud558\uac8c \ub418\uace0,\r\n\uc0ac\ub791\ud558\ub294 \uc0ac\ub78c\ub4e4\uacfc \uc138\uc0c1\uc744 \uad6c\ud558\uae30 \uc704\ud574 \uacfc\uac70\ub97c \ubc14\uafb8\uace0\uc790 \ud558\ub294\ub370\u2026!\r\n\r\n\uadf8\ub9bc\uc790 \uc138\uacc4 \ubc1c\uc0dd\uae4c\uc9c0 \ub0a8\uc740 \uc2dc\uac04\uc740 3\ub144!\r\n\uacfc\uac70\ub97c \ubc14\uafb8\uace0, \uac15\ud55c \ub3d9\ub8cc\ub97c \ubaa8\uc544 \uc138\uc0c1\uc744 \uad6c\uc6d0\ud558\ub77c!\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "ru": "\"\u0422\u0435\u043f\u0435\u0440\u044c, \u043a\u043e\u0433\u0434\u0430 \u044f \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f, \u044f \u043d\u0435 \u043f\u043e\u0437\u0432\u043e\u043b\u044e \u0434\u043e\u0440\u043e\u0433\u0438\u043c \u0434\u043b\u044f \u043c\u0435\u043d\u044f \u043b\u044e\u0434\u044f\u043c \u0441\u043d\u043e\u0432\u0430 \u0443\u043c\u0435\u0440\u0435\u0442\u044c\".\r\n\u041b\u0430\u0431\u0438\u0440\u0438\u043d\u0442 \u0422\u0435\u043d\u0435\u0439 \u2013 \u0433\u043b\u0430\u0432\u043d\u0430\u044f \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u0430 \u0434\u043b\u044f \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430 \u0437\u0430 \u0432\u0441\u044e \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0435\u0433\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f.\r\n\u0414\u0435\u0437\u0438\u0440 \u0410\u0440\u043c\u0430\u043d \u2013 \u043e\u0434\u0438\u043d \u0438\u0437 \u0448\u0435\u0441\u0442\u0438 \u0432\u044b\u0436\u0438\u0432\u0448\u0438\u0445 \u043b\u044e\u0434\u0435\u0439.\r\n\r\n\u0428\u0435\u0441\u0442\u044c \u043f\u043e\u043f\u044b\u0442\u043e\u043a \u0437\u0430\u0447\u0438\u0441\u0442\u0438\u0442\u044c \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u043b\u0430\u0431\u0438\u0440\u0438\u043d\u0442\u0430 \u043f\u043e\u0442\u0435\u0440\u043f\u0435\u043b\u0438 \u043f\u043e\u043b\u043d\u0443\u044e \u043d\u0435\u0443\u0434\u0430\u0447\u0443, \u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u043c\u0438\u0440 \u0431\u043b\u0438\u0437\u0438\u0442\u0441\u044f \u043a \u043a\u043e\u043d\u0446\u0443.\r\n\u041e\u0434\u043d\u0430\u043a\u043e, \u043a\u043e\u0433\u0434\u0430 \u0414\u0435\u0437\u0438\u0440 \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u0441\u044f \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u044c \u0441\u0432\u043e\u044e \u043a\u043e\u043d\u0447\u0438\u043d\u0443, \u0442\u043e, \u0447\u0442\u043e \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0435\u0440\u0435\u0434 \u043d\u0438\u043c \u2013 \u044d\u0442\u043e \u043c\u0438\u0440... 13 \u043b\u0435\u0442 \u043d\u0430\u0437\u0430\u0434?!\r\n\r\n\u0414\u0435\u0437\u0438\u0440 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u0432 \u043f\u0440\u043e\u0448\u043b\u043e\u0435, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0441\u0442\u0443\u043f\u0438\u043b \u0432 \u0441\u0430\u043c\u0443\u044e \u043f\u0440\u0435\u0441\u0442\u0438\u0436\u043d\u0443\u044e \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044e \u043c\u0430\u0433\u0438\u0438 \u0432 \u0441\u0442\u0440\u0430\u043d\u0435 \u2013 \u0425\u0430\u0432\u0440\u0438\u043e\u043d. \u041e\u043d \u0432\u043d\u043e\u0432\u044c \u0432\u043e\u0441\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u043b\u0441\u044f \u0441\u043e \u0441\u0432\u043e\u0438\u043c\u0438 \u0434\u043e\u0440\u043e\u0433\u0438\u043c\u0438 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438 \u0438 \u0433\u043e\u0442\u043e\u0432 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u0440\u043e\u0448\u043b\u043e\u0435, \u0447\u0442\u043e\u0431\u044b \u0441\u043f\u0430\u0441\u0442\u0438 \u044d\u0442\u043e\u0442 \u043c\u0438\u0440 \u0438 \u0442\u0435\u0445, \u043a\u0442\u043e \u0435\u043c\u0443 \u0434\u043e\u0440\u043e\u0433.\r\n\r\n\u041e\u0441\u0442\u0430\u043b\u0438\u0441\u044c \u0442\u0440\u0438 \u0433\u043e\u0434\u0430 \u0434\u043e \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0422\u0435\u043d\u0435\u0432\u043e\u0433\u043e \u041c\u0438\u0440\u0430! \u0418\u0437\u043c\u0435\u043d\u0438\u0442\u0435 \u043f\u0440\u043e\u0448\u043b\u043e\u0435 \u0438 \u0441\u043e\u0431\u0435\u0440\u0438\u0442\u0435 \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0442\u043e\u0432\u0430\u0440\u0438\u0449\u0435\u0439, \u0447\u0442\u043e\u0431\u044b \u0441\u043f\u0430\u0441\u0442\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u043e!\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "th": "\u0e2b\u0e25\u0e31\u0e07\u0e08\u0e32\u0e01\u0e17\u0e33\u0e20\u0e32\u0e23\u0e01\u0e34\u0e08\u0e43\u0e19\u0e42\u0e25\u0e01\u0e41\u0e2b\u0e48\u0e07\u0e40\u0e07\u0e32\u0e44\u0e21\u0e48\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08 '\u0e40\u0e14\u0e40\u0e0b\u0e35\u0e22\u0e23\u0e4c \u0e40\u0e2d\u0e2d\u0e23\u0e4c\u0e41\u0e21\u0e19' \u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e27\u0e48\u0e32\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e32\u0e22\u0e41\u0e25\u0e49\u0e27 \u0e44\u0e14\u0e49\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e40\u0e01\u0e34\u0e14\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e19\u0e0a\u0e48\u0e27\u0e07 3 \u0e1b\u0e35\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e08\u0e30\u0e40\u0e02\u0e49\u0e32\u0e44\u0e1b\u0e15\u0e48\u0e2d\u0e2a\u0e39\u0e49\u0e43\u0e19\u0e42\u0e25\u0e01\u0e41\u0e2b\u0e48\u0e07\u0e40\u0e07\u0e32 \u0e01\u0e32\u0e23\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e23\u0e31\u0e49\u0e07\u0e19\u0e35\u0e49\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e02\u0e32\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e41\u0e1b\u0e25\u0e07\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e41\u0e25\u0e30\u0e04\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e44\u0e27\u0e49\u0e43\u0e2b\u0e49\u0e44\u0e14\u0e49\u0e21\u0e32\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14!\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "vi": "Desir v\u1eadt l\u1ed9n trong M\u00ea cung b\u00f3ng t\u1ed1i su\u1ed1t 10 n\u0103m d\u00e0i \u0111\u1eb1ng \u0111\u1eb5ng, ch\u1ee9ng ki\u1ebfn \u0111\u1ed3ng \u0111\u1ed9i v\u00e0 b\u1ea1n b\u00e8 l\u1ea7n l\u01b0\u1ee3t ng\u00e3 xu\u1ed1ng, m\u00e3i \u0111\u1ebfn khi to\u00e0n \u0111\u1ed9i c\u1ea3 tr\u0103m ng\u01b0\u1eddi ch\u1ec9 c\u00f2n v\u1ecfn v\u1eb9n 6 ng\u01b0\u1eddi th\u00ec m\u1edbi \u0111\u00e1nh b\u1ea1i \u0111\u01b0\u1ee3c k\u1ebb th\u00f9 chung. Nh\u1eefng t\u01b0\u1edfng \u0111\u00e3 c\u1ee9u \u0111\u01b0\u1ee3c th\u1ebf gi\u1edbi kh\u1ecfi nguy c\u01a1 di\u1ec7t vong, n\u00e0o ng\u1edd tai h\u1ecda b\u1ea5t ng\u1edd \u1eadp \u0111\u1ebfn cu\u1ed1n tr\u00f4i t\u1ea5t c\u1ea3 m\u1ecdi th\u1ee9. L\u1ea7n n\u1eefa t\u1ec9nh l\u1ea1i, Desir ph\u00e1t hi\u1ec7n m\u00ecnh \u0111\u00e3 quay ng\u01b0\u1ee3c th\u1eddi gian tr\u1edf v\u1ec1 ng\u00e0y \u0111\u1ea7u nh\u1eadp h\u1ecdc \u1edf H\u1ecdc vi\u1ec7n Hebrion. Li\u1ec7u l\u1ea7n n\u00e0y anh c\u00f3 th\u1ec3 b\u1ea3o v\u1ec7 nh\u1eefng ng\u01b0\u1eddi m\u00ecnh th\u01b0\u01a1ng y\u00eau v\u00e0 c\u1ee9u v\u1edbt th\u1ebf gi\u1edbi kh\u00f4ng?\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "zh": "\u4e0d\u77e5\u4f55\u65f6\uff0c\u4e16\u754c\u4e0a\u51fa\u73b0\u4e86\u80fd\u8695\u98df\u73b0\u4e16\u7684\u5e76\u884c\u4e16\u754c\u2014\u2014\u201c\u5f71\u4e16\u754c\u201d\u3002\u53ea\u6709\u6218\u80dc\u5f71\u8ff7\u5bab\uff0c\u4eba\u7c7b\u624d\u80fd\u83b7\u5f97\u5b81\u9759\uff0c\u7136\u800c\u6700\u7ec8\u4e00\u5207\u4ed8\u4e4b\u4e00\u70ac\uff0c\u6218\u6597\u5931\u8d25\uff0c\u5730\u7403\u706d\u4ea1\u3002\u4f46\u8fd9\u5e76\u975e\u7ed3\u5c40\uff0c\u800c\u662f\u53e6\u4e00\u4e2a\u5f00\u59cb\u2026\u2026\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)",
+      "zh-hk": "\u300c\u65e2\u7136\u5df2\u7d93\u56de\u4f86\u4e86\uff0c\r\n\u5c31\u4e0d\u80fd\u518d\u6b21\u5931\u53bb\u5fc3\u611b\u7684\u4eba\u5011!\u300d\r\n\r\n\u4eba\u985e\u6b63\u9762\u81e8\u6700\u53ef\u6015\u7684\u707d\u96e3\u2014\u2014\u5f71\u4e4b\u8ff7\u5bae\u3002\r\n\u6234\u57fa\u723e\uff0e\u963f\u66fc\u5fb7\u662f\u8ff7\u5bae\u88e1\u6700\u5f8c\u76846\u540d\u5016\u5b58\u8005\u4e4b\u4e00\u3002\r\n\u4ed6\u5011\u8a66\u5716\u6311\u6230\u8ff7\u5bae\u7684\u6700\u5f8c\u95dc\u5361\uff0c\r\n\u7136\u800c\u537b\u4ee5\u5931\u6557\u544a\u7d42\uff0c\r\n\u4e16\u754c\u6700\u7d42\u8d70\u5411\u6ec5\u4ea1\u3002\r\n\r\n\u7576\u4ee5\u70ba\u4e00\u5207\u5df2\u7d93\u7d50\u675f\u7684\u90a3\u523b\uff0c\r\n\u6234\u57fa\u723e\u537b\u56de\u5230\u4e8613\u5e74\u524d\u7684\u904e\u53bb?!\r\n\r\n\u7576\u6642\u7684\u6234\u57fa\u723e\u6b63\u8981\u9032\u5165\u5e1d\u570b\u6700\u5f37\u7684\u9b54\u6cd5\u5b78\u9662\u2014\u2014\r\n\u8d6b\u5e03\u91cc\u6eab\u5b78\u9662\u5c31\u8b80\uff0c\r\n\u4e26\u4e14\u8207\u5728\u8ff7\u5bae\u4e2d\u901d\u53bb\u7684\u73cd\u8cb4\u5925\u4f34\u5011\u91cd\u9022\u3002\r\n\u70ba\u4e86\u62ef\u6551\u4ed6\u5fc3\u611b\u7684\u4eba\u5011\u8207\u9019\u500b\u4e16\u754c\uff0c\r\n\u4ed6\u6c7a\u5fc3\u8981\u6539\u8b8a\u904e\u53bb...!\r\n\r\n\u8ddd\u96e2\u5f71\u4e4b\u4e16\u754c\u51fa\u73fe\u7684\u6642\u9593\u53ea\u52693\u5e74\u4e86!\r\n\u5feb\u53ec\u96c6\u5f37\u608d\u7684\u540c\u4f34\u4e00\u540c\u62ef\u6551\u4e16\u754c\u5427!\r\n\r\n---\r\n- [1st Trailer](https://www.youtube.com/watch?v=NS6o8phnUKo) | [ENG](https://www.youtube.com/watch?v=C8Z02WbpE8c) | [JP](https://www.youtube.com/watch?v=YdHjqPsN5gQ) | [Renewal](https://www.youtube.com/watch?v=C6GFn5z9ru0)\r\n- [2nd Trailer](https://www.youtube.com/watch?v=7m-7hsTzQb8)\r\n---\r\n- [Original Book <Yes24>](http://www.yes24.com/Product/Goods/96273480)\r\n- [Original Book <Aladin>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=258728878)\r\n>\r\n- [Book <German Edition>](https://altraverse.de/manga/a-returner-s-magic-should-be-special/)\r\n- [Book <Japanese Edition>](https://www.kadokawa.co.jp/product/322104000234/)\r\n---\r\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E9%87%8D%E7%94%9F%E8%80%85%E7%9A%84%E9%AD%94%E6%B3%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%89%B9%E5%88%A5/125)\r\n\r\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc27917)\r\n\r\n- [Official English <Tapas> Translation](https://tapas.io/series/a-returners-magic-should-be-special/info)\r\n\r\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Returners-Special-Magic/3095)\r\n\r\n- [Official Vietnamese Translation](https://www.comico.vn/title/662)\r\n\r\n- [Official Japanese Translation](https://piccoma.com/web/product/8944)\r\n\r\n- [Official German Translation](https://www.tappytoon.com/de/comics/returners-magic-should-be-special-de)\r\n\r\n- [Official French Translation](https://www.tappytoon.com/fr/comics/returners-magic-should-be-special-fr)\r\n\r\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/49)"
+    },
+    "status": "ongoing",
+    "releaseDate": 2018,
+    "contentRating": "safe",
+    "lastVolume": null,
+    "lastChapter": null
+  },
+  {
+    "mangaId": "0899e35e-7cee-4d41-9620-3e9cb707ae54",
+    "title": {
+      "en": "Hair-Raising Desires"
+    },
+    "updatedAt": "2023-10-03T19:44:27+00:00",
+    "coverArt": "https://mangadex.org/covers/0899e35e-7cee-4d41-9620-3e9cb707ae54/f5e41dc7-a708-490a-b140-42e6630b5b9c.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc740\ubc00\ud55c \uba38\ub9bf\uc18d \uc0ac\uc815"
+      },
+      {
+        "es-la": "Pensamientos Secretos"
+      },
+      {
+        "en": "Secret Inside My Head"
+      }
+    ],
+    "description": {
+      "en": "The intelligent Hong Danwoo who also is an introvert, has a secret that\u2019s also a problem\u2026 He\u2019s unable to get a haircut! But that isn\u2019t the only issue\u2026 He\u2019s broke. So, in search of a job, Danwoo finds himself at a small hair salon where he meets a remarkably attractive hairstylist, Kwon Tae-han. A fateful occurrence unfolds when Dan-woo can't help but feel an intense sensation from Tae-Han\u2019s skillful touch while he\u2019s getting his haircut. Unable to hold back his feelings towards the touching, he says,\u201c Um\u2026 When you touch my head, it feels like this\u2026\u201dIn the end, Dan-woo decides to confess his little problem with Taehan expecting to receive judgment, Taehan offers to help him instead of thinking he\u2019s some kind of pervert. In order to become a better version of himself, Dan-woo starts up secret training sessions with Taehan. But little does he know, these hidden training sessions become more than just training sessions.",
+      "es-la": "Peluquero Coqueto X Nerd Sensible. \u00a1C\u00f3mo puede ser que la zona er\u00f3gena de alguien sea su cuero cabelludo/cabello...! Hong Dan-woo es un chico extremadamente introvertida que no tiene ni un solo amigo porque su zona er\u00f3gena es el cuero cabelludo/cabello. Un d\u00eda, su jefe a tiempo parcial le dice que se corte el pelo por el bien de su larga melena, \u00a1as\u00ed que se arma de valor y va a una peluquer\u00eda unipersonal a cortarse el pelo...!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "8e74e420-b05e-4975-9844-676c7156bd63",
     "title": {
       "en": "Destiny Unchain Online ~Kyuuketsu-ki Shoujo to natte, Yagate\u300eAka no Maou\u300fto Yobareru You ni Narimashita~"
@@ -321,34 +462,6 @@
     "status": "ongoing",
     "releaseDate": 2022,
     "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "0899e35e-7cee-4d41-9620-3e9cb707ae54",
-    "title": {
-      "en": "Hair-Raising Desires"
-    },
-    "updatedAt": "2023-10-03T19:44:27+00:00",
-    "coverArt": "https://mangadex.org/covers/0899e35e-7cee-4d41-9620-3e9cb707ae54/f5e41dc7-a708-490a-b140-42e6630b5b9c.jpg",
-    "altTitles": [
-      {
-        "ko": "\uc740\ubc00\ud55c \uba38\ub9bf\uc18d \uc0ac\uc815"
-      },
-      {
-        "es-la": "Pensamientos Secretos"
-      },
-      {
-        "en": "Secret Inside My Head"
-      }
-    ],
-    "description": {
-      "en": "The intelligent Hong Danwoo who also is an introvert, has a secret that\u2019s also a problem\u2026 He\u2019s unable to get a haircut! But that isn\u2019t the only issue\u2026 He\u2019s broke. So, in search of a job, Danwoo finds himself at a small hair salon where he meets a remarkably attractive hairstylist, Kwon Tae-han. A fateful occurrence unfolds when Dan-woo can't help but feel an intense sensation from Tae-Han\u2019s skillful touch while he\u2019s getting his haircut. Unable to hold back his feelings towards the touching, he says,\u201c Um\u2026 When you touch my head, it feels like this\u2026\u201dIn the end, Dan-woo decides to confess his little problem with Taehan expecting to receive judgment, Taehan offers to help him instead of thinking he\u2019s some kind of pervert. In order to become a better version of himself, Dan-woo starts up secret training sessions with Taehan. But little does he know, these hidden training sessions become more than just training sessions.",
-      "es-la": "Peluquero Coqueto X Nerd Sensible. \u00a1C\u00f3mo puede ser que la zona er\u00f3gena de alguien sea su cuero cabelludo/cabello...! Hong Dan-woo es un chico extremadamente introvertida que no tiene ni un solo amigo porque su zona er\u00f3gena es el cuero cabelludo/cabello. Un d\u00eda, su jefe a tiempo parcial le dice que se corte el pelo por el bien de su larga melena, \u00a1as\u00ed que se arma de valor y va a una peluquer\u00eda unipersonal a cortarse el pelo...!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "erotica",
     "lastVolume": "",
     "lastChapter": ""
   },
@@ -1491,91 +1604,6 @@
     },
     "status": "ongoing",
     "releaseDate": 2016,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "69854e22-5bb8-4491-ab71-c8f8a0cb94d0",
-    "title": {
-      "en": "Apocalyptic Thief"
-    },
-    "updatedAt": "2023-11-08T16:27:35+00:00",
-    "coverArt": "https://mangadex.org/covers/69854e22-5bb8-4491-ab71-c8f8a0cb94d0/800d870a-14ea-41d0-b6c6-72c11d9b11a2.jpg",
-    "altTitles": [
-      {
-        "en": "Rogue of Doom"
-      },
-      {
-        "zh": "\u672b\u4e16\u76d7\u8d3c\u884c"
-      }
-    ],
-    "description": {
-      "en": "A storm of the universe brought species mutations. The poison, undead, giants and monsters in the city roared as they waved their weapons. As the beasts in the woods fought over territorial rights, humans, too, awakened an ability known as star power\u2026 Zhou Zheng, without star power, traversed to this apocalyptic world. Using the abilities of the thief character in the game, he destroys the darkness and fog, seeking supreme power!",
-      "fr": "Un mouvement dans l'univers a apport\u00e9 des mutations au niveau des esp\u00e8ces vivantes. Un poison, des morts vivants, des g\u00e9ants et des monstres rugissent dans la ville en agitant leurs armes. Alors que des b\u00eates dans les bois se battent pour des territoires, certains humains \u00e9veillent une capacit\u00e9 sp\u00e9ciale connue sous le nom de pouvoir des \u00e9toiles... Zhou Zheng, d\u00e9ficient de ce pouvoir, va traverser ce nouveau monde post apocalyptique.\nUtilisant ses capacit\u00e9s de voleur issue d'un autre jeu, il d\u00e9truit t\u00e9n\u00e8bres et brouillard, \u00e0 la recherche du pouvoir supr\u00eame !",
-      "zh": "\u4e00\u573a\u5b87\u5b99\u98ce\u66b4\u5e26\u6765\u4e86\u7269\u79cd\u7684\u53d8\u5f02\u3002\u57ce\u5e02\u4e2d\u7684\u6bd2\u5c38\u5de8\u602a\uff0c\u6325\u52a8\u7740\u6218\u65a7\u5486\u54ee\u3002\u4e1b\u6797\u4e2d\u7684\u5f02\u517d\u4eec\uff0c\u4e89\u593a\u7740\u9886\u5730\u7684\u4e3b\u6743\u3002\u4eba\u7c7b\u4e5f\u89c9\u9192\u4e86\u4e00\u79cd\u540d\u4e3a\u661f\u529b\u7684\u5f02\u80fd\u2026\u2026\u6ca1\u6709\u661f\u529b\u7684\u5468\u6b63\u7a7f\u8d8a\u5230\u8fd9\u4e2a\u672b\u4e16\u3002\u5229\u7528\u6e38\u620f\u4e2d\u76d7\u8d3c\u7684\u89d2\u8272\u80fd\u529b\uff0c\u4ed6\u5c06\u6495\u6bc1\u9ed1\u6697\u8ff7\u96fe\uff0c\u8ffd\u9010\u81f3\u9ad8\u7684\u529b\u91cf\uff01"
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "85b3504c-62e8-49e7-9a81-fb64a3f51def",
-    "title": {
-      "en": "Houkago Kitaku Biyori"
-    },
-    "updatedAt": "2024-02-14T19:24:16+00:00",
-    "coverArt": "https://mangadex.org/covers/85b3504c-62e8-49e7-9a81-fb64a3f51def/a1c0d064-0713-48ad-a14e-ae022179ea9d.jpg",
-    "altTitles": [
-      {
-        "en": "Journey Home After School"
-      },
-      {
-        "es-la": "El Camino a Casa Despu\u00e9s de la Escuela"
-      },
-      {
-        "ja": "\u653e\u8ab2\u5f8c\u5e30\u5b85\u3073\u3088\u308a"
-      },
-      {
-        "pt-br": "Viagem para casa depois da escola"
-      },
-      {
-        "ru": "\u0414\u043e\u0440\u043e\u0433\u0430 \u0434\u043e\u043c\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u0448\u043a\u043e\u043b\u044b"
-      }
-    ],
-    "description": {
-      "en": "Shun was invited to the Going-Home Club by Naoki Satou, also known as \"Chokki-chan\". Despite refusing, he ends up being somewhat forcefully involved in the club's activities! A Going Home Club rom-com featuring a detour-loving high school girl and a new high school student who has lost his dream.",
-      "ja": "\u4f50\u85e4\u76f4\u5e0c\u3053\u3068\u201c\u76f4\u5e30\u3061\u3083\u3093\u201d\u304b\u3089\u5e30\u5b85\u90e8\u306b\u52e7\u8a98\u3055\u308c\u305f\u77ac\u3002\u65ad\u3063\u305f\u306e\u306b\u3001\u534a\u3070\u5f37\u5f15\u306a\u5f62\u3067\u6d3b\u52d5\u306b\u53c2\u52a0\u3055\u305b\u3089\u308c\u308b\u30cf\u30e1\u306b\uff01 \u5bc4\u308a\u9053\u5927\u597d\u304d\u5973\u5b50\u9ad8\u751f\u3068\u5922\u3092\u5931\u3063\u305f\u65b0\u5165\u751f\u304c\u7d21\u3050\u5e30\u5b85\u90e8\u30e9\u30d6\u30b3\u30e1\u30c7\u30a3\uff01\n\n---\n\nSat\u014d Naoki koto \u201cchokki-chan\u201d kara kitaku-bu ni kan'y\u016b sa reta Shun. Kotowatta no ni, nakaba g\u014din'na katachi de katsud\u014d ni sanka sa se rareru hame ni! Yorimichi daisuki mesuk\u014dsei to yume o ushinatta shin'ny\u016bsei ga tsumugu kitaku-bu rabukomedi!",
-      "es-la": "Shun fue invitado al Club de Irse a Casa por Naoki Satou, tambi\u00e9n conocida como \"Chokki-chan\". A pesar de negarse, acaba involucr\u00e1ndose a la fuerza en las actividades del club. Una comedia rom\u00e1ntica del Club de Irse a Casa protagonizada por una chica de preparatoria amante de los desv\u00edos y un nuevo estudiante de preparatoria que ha perdido su sue\u00f1o."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "8c89080f-681a-4bcf-8abe-ce12659e010f",
-    "title": {
-      "en": "Subdue My \"Villain\" Hubby"
-    },
-    "updatedAt": "2023-03-20T01:36:45+00:00",
-    "coverArt": "https://mangadex.org/covers/8c89080f-681a-4bcf-8abe-ce12659e010f/77142dd0-7f0d-4f4d-a423-6dfad07838da.jpg",
-    "altTitles": [
-      {
-        "zh": "\u6211\u6210\u4e86\u53cd\u6d3e\u5927\u4f6c\u7684\u5c0f\u5a07\u59bb"
-      },
-      {
-        "en": "I Became the Villain's Wife"
-      }
-    ],
-    "description": {
-      "en": "The dainty flower idol Chen Cong Rong unluckily fell into a trap and awoke to a stunning naked man in her bed! Hahaha, is it okay to be with such a beautiful man? Hang on\u2026 Are you telling me I've switched places with the toxic, evil, and manipulative side character who won\u2019t even survive 20% of the plot?! No, I'm definitely not ready to die!! Watch as I keep on living my ideal life!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
