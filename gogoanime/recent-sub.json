@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "ninjala",
+    "animeTitle": "Ninjala",
+    "animeImg": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 113",
+    "animeUrl": "https://anitaku.so/ninjala-episode-113"
+  },
+  {
     "animeId": "henjin-no-salad-bowl",
     "animeTitle": "Henjin no Salad Bowl",
     "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-3"
-  },
-  {
-    "animeId": "yugioh-go-rush",
-    "animeTitle": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "animeImg": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 104",
-    "animeUrl": "https://anitaku.so/yugioh-go-rush-episode-104"
   }
 ]
