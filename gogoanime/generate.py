@@ -3,26 +3,35 @@ from bs4 import BeautifulSoup
 import json
 
 BASE_URL = 'https://anitaku.so'
-RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html?page=1&type=1'
+RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html'
 LOAD_LIST_EPISODE = 'https://ajax.gogocdn.net/ajax/load-list-episode'
 
 def scrape_recent_sub_anime():
     anime_list = []
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
-        response = requests.get(RECENT_SUB_URL, headers=headers)
-        soup = BeautifulSoup(response.content, 'html.parser')
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        page_number = 1
+        while True:
+            response = requests.get(RECENT_SUB_URL + f"?page={page_number}&type=1", headers=headers)
+            soup = BeautifulSoup(response.content, 'html.parser')
 
-        for el in soup.select('div.last_episodes.loaddub > ul > li'):
-            ids = el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0]
-            anime_list.append({
-                'animeId': el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0],
-                'animeTitle': el.select_one('p.name > a')['title'],
-                'animeImg': el.select_one('div > a > img')['src'],
-                'episode': el.select_one('p.episode').text.strip(),
-                'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
-            })
-            #scrape_anime_info(ids)
+            # Check if the page contains anime entries
+            if not soup.select('div.last_episodes.loaddub > ul > li'):
+                break  # No more pages to scrape
+
+            for el in soup.select('div.last_episodes.loaddub > ul > li'):
+                ids = el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0]
+                anime_list.append({
+                    'animeId': el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0],
+                    'animeTitle': el.select_one('p.name > a')['title'],
+                    'animeImg': el.select_one('div > a > img')['src'],
+                    'episode': el.select_one('p.episode').text.strip(),
+                    'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
+                })
+                # scrape_anime_info(ids)
+
+            page_number += 1
 
         with open('./gogoanime/recent-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -32,6 +41,7 @@ def scrape_recent_sub_anime():
     except Exception as e:
         print(e)
         return {'error': str(e)}
+                
 
 POPULAR_URL = 'https://anitaku.to/popular.html'
 
