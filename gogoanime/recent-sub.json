@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "pokemon-shinsaku-anime",
+    "animeTitle": "Pokemon (Shinsaku Anime)",
+    "animeImg": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 47",
+    "animeUrl": "https://anitaku.so/pokemon-shinsaku-anime-episode-47"
+  },
+  {
     "animeId": "shadowverse-flame-arc-hen",
     "animeTitle": "Shadowverse Flame: Arc-hen",
     "animeImg": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
     "episode": "Episode 4",
     "animeUrl": "https://anitaku.so/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-4"
-  },
-  {
-    "animeId": "yuru-camp-season-3",
-    "animeTitle": "Yuru Camp\u25b3 Season 3",
-    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 3",
-    "animeUrl": "https://anitaku.so/yuru-camp-season-3-episode-3"
   }
 ]
