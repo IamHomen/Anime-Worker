@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "boku-no-hero-academia-memories",
+    "animeTitle": "Boku no Hero Academia: Memories",
+    "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/boku-no-hero-academia-memories-episode-3"
+  },
+  {
     "animeId": "pokemon-shinsaku-anime",
     "animeTitle": "Pokemon (Shinsaku Anime)",
     "animeImg": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/hananoi-kun-to-koi-no-yamai-episode-3"
-  },
-  {
-    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
-    "episode": "Episode 4",
-    "animeUrl": "https://anitaku.so/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-4"
   }
 ]
