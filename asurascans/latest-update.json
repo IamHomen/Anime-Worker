@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-last-adventurer/",
+    "animeTitle": "The Last Adventurer",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/TheLastAdventurerCover01.png",
+    "episode": "Chapter 11",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-last-adventurer/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-swordmasters-youngest-son/",
     "animeTitle": "Swordmaster\u2019s Youngest Son",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/04/swordmastersyoungestCover02.png",
@@ -28,18 +35,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-ending-maker/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-crown-prince-that-sells-medicine/",
-    "animeTitle": "The Crown Prince That Sells Medicine",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/12/TheCrownPrinceThatSellsMedicineCover02.png",
-    "episode": "Chapter 25",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-crown-prince-that-sells-medicine/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-ill-be-taking-a-break-for-personal-reasons/",
     "animeTitle": "I\u2019ll Be Taking A Break For Personal Reasons",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/10/takingaBreakCover01.png",
     "episode": "Chapter 99",
     "animeUrl": "https://asuratoon.com/manga/1908287720-ill-be-taking-a-break-for-personal-reasons/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-the-crown-prince-that-sells-medicine/",
+    "animeTitle": "The Crown Prince That Sells Medicine",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/12/TheCrownPrinceThatSellsMedicineCover02.png",
+    "episode": "Chapter 25",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-the-crown-prince-that-sells-medicine/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-mr-devourer-please-act-like-a-final-boss/",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/tIEELUSJN.webp-t.w640-vert-copyCUnetauto_scaleLevel3width-1000.jpg",
     "episode": "Chapter 55",
     "animeUrl": "https://asuratoon.com/manga/1908287720-demonic-evolution/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-max-level-hero-has-returned/",
-    "animeTitle": "The Max Level Hero has Returned!",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2020/10/maxlevelheroCover02.png",
-    "episode": "Chapter 161",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-max-level-hero-has-returned/"
   }
 ]
