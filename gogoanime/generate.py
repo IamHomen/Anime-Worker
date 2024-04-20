@@ -22,7 +22,7 @@ def scrape_recent_sub_anime():
                 'episode': el.select_one('p.episode').text.strip(),
                 'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
             })
-            scrape_anime_info(ids)
+            #scrape_anime_info(ids)
 
         with open('./gogoanime/recent-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -58,7 +58,7 @@ def scrape_popular_anime():
                     'releasedDate': el.select_one('p.released').text.replace('Released: ', '').strip(),
                     'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
                 })
-                scrape_anime_info(ids)
+                #scrape_anime_info(ids)
 
             page_number += 1
 
@@ -93,7 +93,7 @@ def scrape_trending_anime():
                 'animeUrl': BASE_URL + el.select_one('a:nth-child(1)')['href'],
                 'genres': genres
             })
-            scrape_anime_info(ids)
+            #scrape_anime_info(ids)
 
         with open('./gogoanime/trending.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
