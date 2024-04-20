@@ -38,20 +38,29 @@ POPULAR_URL = 'https://anitaku.to/popular.html'
 def scrape_popular_anime():
     anime_list = []
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
-        popular_page = requests.get(POPULAR_URL, headers=headers)
-        soup = BeautifulSoup(popular_page.content, 'html.parser')
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        page_number = 1
+        while True:
+            popular_page = requests.get(POPULAR_URL + f"?page={page_number}", headers=headers)
+            soup = BeautifulSoup(popular_page.content, 'html.parser')
 
-        for el in soup.select('div.last_episodes > ul > li'):
-            ids = el.select_one('p.name > a')['href'].split('/')[2]
-            anime_list.append({
-                'animeId': el.select_one('p.name > a')['href'].split('/')[2],
-                'animeTitle': el.select_one('p.name > a')['title'],
-                'animeImg': el.select_one('div > a > img')['src'],
-                'releasedDate': el.select_one('p.released').text.replace('Released: ', '').strip(),
-                'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
-            })
-            scrape_anime_info(ids)
+            # Check if the page contains anime entries
+            if not soup.select('div.last_episodes > ul > li'):
+                break  # No more pages to scrape
+
+            for el in soup.select('div.last_episodes > ul > li'):
+                ids = el.select_one('p.name > a')['href'].split('/')[2]
+                anime_list.append({
+                    'animeId': el.select_one('p.name > a')['href'].split('/')[2],
+                    'animeTitle': el.select_one('p.name > a')['title'],
+                    'animeImg': el.select_one('div > a > img')['src'],
+                    'releasedDate': el.select_one('p.released').text.replace('Released: ', '').strip(),
+                    'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
+                })
+                scrape_anime_info(ids)
+
+            page_number += 1
 
         with open('./gogoanime/popular.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -61,6 +70,7 @@ def scrape_popular_anime():
     except Exception as e:
         print(e)
         return {'error': str(e)}
+
 
 popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html?page=1'
 
