@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "shadowverse-flame-arc-hen",
+    "animeTitle": "Shadowverse Flame: Arc-hen",
+    "animeImg": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
+    "episode": "Episode 2",
+    "animeUrl": "https://anitaku.so/shadowverse-flame-arc-hen-episode-2"
+  },
+  {
     "animeId": "ooi-tonbo",
     "animeTitle": "Ooi! Tonbo",
     "animeImg": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 3",
     "animeUrl": "https://anitaku.so/yuru-camp-season-3-episode-3"
-  },
-  {
-    "animeId": "dungeon-meshi",
-    "animeTitle": "Dungeon Meshi",
-    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 16",
-    "animeUrl": "https://anitaku.so/dungeon-meshi-episode-16"
   }
 ]
