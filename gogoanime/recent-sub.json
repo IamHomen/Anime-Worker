@@ -1,5 +1,12 @@
 [
   {
+    "animeId": "ooi-tonbo",
+    "animeTitle": "Ooi! Tonbo",
+    "animeImg": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
+    "episode": "Episode 3",
+    "animeUrl": "https://anitaku.so/ooi-tonbo-episode-3"
+  },
+  {
     "animeId": "odekake-kozame",
     "animeTitle": "Odekake Kozame",
     "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
     "episode": "Episode 16",
     "animeUrl": "https://anitaku.so/dungeon-meshi-episode-16"
-  },
-  {
-    "animeId": "idol-land-pripara",
-    "animeTitle": "Idol Land PriPara",
-    "animeImg": "https://gogocdn.net/cover/idol-land-pripara.png",
-    "episode": "Episode 7",
-    "animeUrl": "https://anitaku.so/idol-land-pripara-episode-7"
   }
 ]
