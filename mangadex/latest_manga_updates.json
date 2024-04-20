@@ -1,5 +1,44 @@
 [
   {
+    "mangaId": "39878c19-f107-4385-b56a-3d90d2b2370f",
+    "title": {
+      "en": "Ellin\u2019s Solhwa"
+    },
+    "updatedAt": "2024-01-19T02:20:59+00:00",
+    "coverArt": "https://mangadex.org/covers/39878c19-f107-4385-b56a-3d90d2b2370f/13dc0dc1-068a-4ff7-b924-ca29b89f68e1.jpg",
+    "altTitles": [],
+    "description": {
+      "en": "The last thing Ellin remembers is having to deal with a belligerent customer at her dead-end job. And when she opened her eyes\u2026 she\u2019s \u201cSolhwa,\u201d the beautiful fourth concubine to the king of the Xyaran Empire. Between trying to learn the language and eating steak, Ellin\u2019s trying to figure exactly what\u2019s going on. Where is she? How did this happen? And who can she trust: Solhwa\u2019s handsome charismatic childhood friend or the elegant, raven-haired king\u2019s advisor?"
+    },
+    "status": "completed",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "3",
+    "lastChapter": "51"
+  },
+  {
+    "mangaId": "c3e8cd7a-1cb6-4700-8649-8525f3476cb7",
+    "title": {
+      "en": "Shenmue Side Story"
+    },
+    "updatedAt": "2024-04-20T08:10:39+00:00",
+    "coverArt": "https://mangadex.org/covers/c3e8cd7a-1cb6-4700-8649-8525f3476cb7/78875da4-f157-4132-8406-690b5c2f93e4.jpg",
+    "altTitles": [
+      {
+        "en": "Shenmue Gaiden"
+      }
+    ],
+    "description": {
+      "en": "Shenmue Side Story is a 4-part comic that incorporates Chapter 2 of the Shenmue saga. Naturally, it takes place between Shenmue and Shenmue II.   \nIt was included as an unlockable in the Xbox version of Shenmue II and tells stories of the main characters not mentioned during the game.",
+      "tr": "Shenmue Side Story, Shenmue sagan\u0131n 2. Chapter'\u0131n\u0131 i\u00e7eren 4 b\u00f6l\u00fcml\u00fck bir \u00e7izgi romand\u0131r. Do\u011fal olarak Shenmue ve Shenmue II aras\u0131nda ge\u00e7mektedir. Shenmue II'nin Xbox s\u00fcr\u00fcm\u00fcne a\u00e7\u0131labilir bir i\u00e7erik olarak dahil edilmi\u015ftir ve oyun s\u0131ras\u0131nda bahsedilmeyen ana karakterlerin hikayelerini anlat\u0131r."
+    },
+    "status": "completed",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": null,
+    "lastChapter": "4"
+  },
+  {
     "mangaId": "70a2cce3-6807-412d-a503-d1c221179ead",
     "title": {
       "en": "To My Neighbor Angel!"
@@ -71,28 +110,6 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "c3e8cd7a-1cb6-4700-8649-8525f3476cb7",
-    "title": {
-      "en": "Shenmue Side Story"
-    },
-    "updatedAt": "2024-04-20T08:10:39+00:00",
-    "coverArt": "https://mangadex.org/covers/c3e8cd7a-1cb6-4700-8649-8525f3476cb7/78875da4-f157-4132-8406-690b5c2f93e4.jpg",
-    "altTitles": [
-      {
-        "en": "Shenmue Gaiden"
-      }
-    ],
-    "description": {
-      "en": "Shenmue Side Story is a 4-part comic that incorporates Chapter 2 of the Shenmue saga. Naturally, it takes place between Shenmue and Shenmue II.   \nIt was included as an unlockable in the Xbox version of Shenmue II and tells stories of the main characters not mentioned during the game.",
-      "tr": "Shenmue Side Story, Shenmue sagan\u0131n 2. Chapter'\u0131n\u0131 i\u00e7eren 4 b\u00f6l\u00fcml\u00fck bir \u00e7izgi romand\u0131r. Do\u011fal olarak Shenmue ve Shenmue II aras\u0131nda ge\u00e7mektedir. Shenmue II'nin Xbox s\u00fcr\u00fcm\u00fcne a\u00e7\u0131labilir bir i\u00e7erik olarak dahil edilmi\u015ftir ve oyun s\u0131ras\u0131nda bahsedilmeyen ana karakterlerin hikayelerini anlat\u0131r."
-    },
-    "status": "completed",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": "4"
   },
   {
     "mangaId": "915e386e-01d0-47c5-8551-efffff1bdd3f",
@@ -1496,26 +1513,5 @@
     "contentRating": "safe",
     "lastVolume": "4",
     "lastChapter": "22"
-  },
-  {
-    "mangaId": "78c3b5fc-037c-46a8-aca2-70fa4ac0e773",
-    "title": {
-      "en": "Fate/EXTRA"
-    },
-    "updatedAt": "2023-07-21T05:23:54+00:00",
-    "coverArt": "https://mangadex.org/covers/78c3b5fc-037c-46a8-aca2-70fa4ac0e773/a02c4f8d-078b-4021-b8e6-234093c4e098.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30d5\u30a7\u30a4\u30c8/\u30a8\u30af\u30b9\u30c8\u30e9"
-      }
-    ],
-    "description": {
-      "en": "In cyberspace the battle between magicians unfold. \"Fate\" might not be \"Fate\", and now, the new Holy Grail War has begun! Based of the PSP game of the same name, \"Fate/Extra\""
-    },
-    "status": "completed",
-    "releaseDate": 2011,
-    "contentRating": "safe",
-    "lastVolume": "6",
-    "lastChapter": "38"
   }
 ]
