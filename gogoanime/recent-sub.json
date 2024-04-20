@@ -1,5 +1,19 @@
 [
   {
+    "animeId": "odekake-kozame",
+    "animeTitle": "Odekake Kozame",
+    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
+    "episode": "Episode 54",
+    "animeUrl": "https://anitaku.so/odekake-kozame-episode-54"
+  },
+  {
+    "animeId": "cardfight-vanguard-divinez",
+    "animeTitle": "Cardfight!! Vanguard: Divinez",
+    "animeImg": "https://gogocdn.net/cover/cardfight-vanguard-divinez.png",
+    "episode": "Episode 13",
+    "animeUrl": "https://anitaku.so/cardfight-vanguard-divinez-episode-13"
+  },
+  {
     "animeId": "highspeed-etoile",
     "animeTitle": "Highspeed Etoile",
     "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
@@ -124,19 +138,5 @@
     "animeImg": "https://gogocdn.net/cover/idol-land-pripara.png",
     "episode": "Episode 7",
     "animeUrl": "https://anitaku.so/idol-land-pripara-episode-7"
-  },
-  {
-    "animeId": "beyblade-x",
-    "animeTitle": "Beyblade X",
-    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 27",
-    "animeUrl": "https://anitaku.so/beyblade-x-episode-27"
-  },
-  {
-    "animeId": "kenka-dokugaku",
-    "animeTitle": "Kenka Dokugaku",
-    "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 2",
-    "animeUrl": "https://anitaku.so/kenka-dokugaku-episode-2"
   }
 ]
