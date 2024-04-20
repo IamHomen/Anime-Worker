@@ -1,6 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import csv
+import os
+import psycopg2
+from dotenv import load_dotenv
 
 BASE_URL = 'https://anitaku.so'
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html'
