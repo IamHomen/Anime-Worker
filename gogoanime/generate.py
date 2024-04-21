@@ -37,7 +37,8 @@ def scrape_recent_sub_anime():
                 # scrape_anime_info(ids)
 
             page_number += 1
-            updateTable('recent-release')
+            
+        updateTable('recent-release')
 
         with open('./gogoanime/recent-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
