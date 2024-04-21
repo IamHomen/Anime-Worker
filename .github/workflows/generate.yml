@@ -48,6 +48,13 @@ jobs:
     - name: Generate (AsuraScans)
       run: |
         python ./asurascans/generate.py
+
+    - name: Supabase (Gogoanime)
+      env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      run:  |
+        python ./gogoanime/supabase.py
         
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
