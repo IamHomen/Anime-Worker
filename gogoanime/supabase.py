@@ -5,7 +5,7 @@ import os
 # Load environment variables
 SUPABASE_URL = os.getenv('SUPABASE_URL')
 SUPABASE_KEY = os.getenv('SUPABASE_KEY')
-CSV_FILE_PATH = '/.gogoamime/csv/recent-release-sub.csv'
+CSV_FILE_PATH = '/.gogoanime/csv/recent-release-sub.csv'
 TABLE_NAME = 'recent-release-sub'
 
 # Read CSV file
