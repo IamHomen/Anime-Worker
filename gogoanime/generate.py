@@ -38,7 +38,7 @@ def scrape_recent_sub_anime():
 
             page_number += 1
             
-        updateTable('recent-release')
+        updateTable('recent-release-sub')
 
         with open('./gogoanime/recent-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -78,7 +78,7 @@ def scrape_popular_anime():
 
             page_number += 1
 
-        updateTable('popula')
+        updateTable('popular')
         
         with open('./gogoanime/popular.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -188,17 +188,13 @@ def scrape_anime_info(ids):
         return {'error': str(err)}
 
 def updateTable(val):
-    # Supabase credentials and connection
-    SUPABASE_URL = os.getenv('SUPABASE_URL')
-    SUPABASE_KEY = os.getenv('SUPABASE_KEY')
-    SUPABASE_TABLE = val
 
     # Load JSON data from a file
     with open('./gogoanime/popular.json', 'r') as json_file:
         data = json.load(json_file)
 
     # Specify the CSV file path
-    csv_file_path = f"./gogoanime/{val}.csv"
+    csv_file_path = f"./gogoanime/csv/{val}.csv"
 
     # Extract the keys from the first element to use as headers
     keys = data[0].keys()
@@ -210,23 +206,6 @@ def updateTable(val):
         writer.writerows(data)
 
     print('JSON data converted to CSV successfully.')
-
-    # Update Supabase table using CSV
-    try:
-        conn = psycopg2.connect(SUPABASE_URL)
-        cursor = conn.cursor()
-
-        with open(csv_file_path, 'r') as f:
-            next(f)  # Skip the header row
-            cursor.copy_from(f, SUPABASE_TABLE, sep=',')
-
-        conn.commit()
-        print('Table in Supabase database updated successfully.')
-    except (Exception, psycopg2.DatabaseError) as error:
-        print('Error:', error)
-    finally:
-        if conn is not None:
-            conn.close()
 
 scrape_recent_sub_anime()
 scrape_trending_anime()
