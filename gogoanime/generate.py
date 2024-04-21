@@ -120,46 +120,7 @@ def scrape_trending_anime():
         print(e)
         return {'error': str(e)}
 
-def updateTable(val):
-    # Supabase credentials and connection
-    SUPABASE_URL = os.getenv('SUPABASE_URL')
-    SUPABASE_KEY = os.getenv('SUPABASE_KEY')
-    SUPABASE_TABLE = val
 
-    # Load JSON data from a file
-    with open('./gogoanime/popular.json', 'r') as json_file:
-        data = json.load(json_file)
-
-    # Specify the CSV file path
-    csv_file = f"./gogoanime/{val}.csv"
-
-    # Extract the keys from the first element to use as headers
-    keys = data[0].keys()
-
-    # Write the data to a CSV file
-    with open(csv_file, 'w', newline='') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=keys)
-        writer.writeheader()
-        writer.writerows(data)
-
-    print('JSON data converted to CSV successfully.')
-
-    # Update Supabase table using CSV
-    try:
-        conn = psycopg2.connect(SUPABASE_URL)
-        cursor = conn.cursor()
-
-        with open(csv_file, 'r') as f:
-            next(f)  # Skip the header row
-            cursor.copy_from(f, SUPABASE_TABLE, sep=',')
-
-        conn.commit()
-        print('Table in Supabase database updated successfully.')
-    except (Exception, psycopg2.DatabaseError) as error:
-        print('Error:', error)
-    finally:
-        if conn is not None:
-            conn.close()
 
 def scrape_anime_info(ids):
     try:
@@ -224,6 +185,47 @@ def scrape_anime_info(ids):
     except Exception as err:
         print(err)
         return {'error': str(err)}
+
+def updateTable(val):
+    # Supabase credentials and connection
+    SUPABASE_URL = os.getenv('SUPABASE_URL')
+    SUPABASE_KEY = os.getenv('SUPABASE_KEY')
+    SUPABASE_TABLE = val
+
+    # Load JSON data from a file
+    with open('./gogoanime/popular.json', 'r') as json_file:
+        data = json.load(json_file)
+
+    # Specify the CSV file path
+    csv_file_path = f"./gogoanime/{val}.csv"
+
+    # Extract the keys from the first element to use as headers
+    keys = data[0].keys()
+
+    # Write the data to a CSV file
+    with open(csv_file_path, 'w', newline='') as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=keys)
+        writer.writeheader()
+        writer.writerows(data)
+
+    print('JSON data converted to CSV successfully.')
+
+    # Update Supabase table using CSV
+    try:
+        conn = psycopg2.connect(SUPABASE_URL)
+        cursor = conn.cursor()
+
+        with open(csv_file_path, 'r') as f:
+            next(f)  # Skip the header row
+            cursor.copy_from(f, SUPABASE_TABLE, sep=',')
+
+        conn.commit()
+        print('Table in Supabase database updated successfully.')
+    except (Exception, psycopg2.DatabaseError) as error:
+        print('Error:', error)
+    finally:
+        if conn is not None:
+            conn.close()
 
 scrape_recent_sub_anime()
 scrape_trending_anime()
