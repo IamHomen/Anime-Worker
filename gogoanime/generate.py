@@ -38,7 +38,7 @@ def scrape_recent_sub_anime():
 
             page_number += 1
             
-        updateTable('recent-release-sub')
+        #updateTable('recent-release-sub')
 
         with open('./gogoanime/recent-release-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -187,25 +187,25 @@ def scrape_anime_info(ids):
         print(err)
         return {'error': str(err)}
 
-def updateTable(val):
+#def updateTable(val):
 
     # Load JSON data from a file
-    with open(f"./gogoanime/{val}.json", 'r') as json_file:
-        data = json.load(json_file)
+   # with open(f"./gogoanime/{val}.json", 'r') as json_file:
+        #data = json.load(json_file)
 
     # Specify the CSV file path
-    csv_file_path = f"./gogoanime/csv/{val}.csv"
+  #  csv_file_path = f"./gogoanime/csv/{val}.csv"
 
     # Extract the keys from the first element to use as headers
-    keys = data[0].keys()
+  #  keys = data[0].keys()
 
     # Write the data to a CSV file
-    with open(csv_file_path, 'w', newline='') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=keys)
-        writer.writeheader()
-        writer.writerows(data)
+#  with open(csv_file_path, 'w', newline='') as csv_file:
+        #writer = csv.DictWriter(csv_file, fieldnames=keys)
+       # writer.writeheader()
+       # writer.writerows(data)
 
-    print('JSON data converted to CSV successfully.')
+   # print('JSON data converted to CSV successfully.')
 
 scrape_recent_sub_anime()
 scrape_trending_anime()
