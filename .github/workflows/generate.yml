@@ -2,7 +2,7 @@ name: Generate Anime List
 on:
   push:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0/180 * * * *"
 
 jobs:
   build:
@@ -62,7 +62,9 @@ jobs:
         # Defaults to "Apply automatic changes"
         commit_message: Apply automatic changes
 
-        file_pattern: ./*.json
+        file_pattern: |
+            ./*.json
+            ./*.csv
 
         # Optional local file path to the repository
         # Defaults to the root of the repository
