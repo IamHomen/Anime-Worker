@@ -1,31 +1,22 @@
-import csv
-import requests
 import os
+import json
+from supabase import create_client, Client
 
-# Load environment variables
-SUPABASE_URL = os.getenv('SUPABASE_URL')
-SUPABASE_KEY = os.getenv('SUPABASE_KEY')
-CSV_FILE_PATH = './gogoanime/csv/recent-release-sub.csv'
-TABLE_NAME = 'recent-release-sub'
+url: str = os.environ.get("SUPABASE_URL")
+key: str = os.environ.get("SUPABASE_KEY")
+supabase: Client = create_client(url, key)
+RECENT_RELEASE_SUB_FILE_PATH = './gogoanime/recent-release-sub.json'
+RECENT_TABLE_NAME = 'recent-release-sub'
 
-# Read CSV file
-with open(CSV_FILE_PATH, newline='') as csvfile:
-    reader = csv.DictReader(csvfile)
-    data = list(reader)
+# Load JSON data from a file
+with open(RECENT_RELEASE_SUB_FILE_PATH, 'r') as json_file:
+    data = json.load(json_file)
 
-# Update data to to selected table
-for row in data:
-    response = requests.update(
-        f'{SUPABASE_URL}/rest/v1/{TABLE_NAME}',
-        headers={
-            'Content-Type': 'application/json',
-            'apikey': SUPABASE_KEY
-        },
-        json=row
-    )
-    if response.status_code != 201:
-        print(f'Failed to insert row: {row}')
-        print(response.text)
-    else:
-        print(f'Successfully inserted row: {row}')
-      
+# Update data in the table
+response = supabase.table(RECENT_TABLE_NAME).update(data).execute()
+
+# Check for errors
+if response['error'] is not None:
+    print(f"Failed to update data: {response['error']}")
+else:
+    print("Data updated successfully")
