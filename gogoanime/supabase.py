@@ -13,9 +13,9 @@ with open(CSV_FILE_PATH, newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     data = list(reader)
 
-# Post data to Supabase
+# Update data to to selected table
 for row in data:
-    response = requests.post(
+    response = requests.update(
         f'{SUPABASE_URL}/rest/v1/{TABLE_NAME}',
         headers={
             'Content-Type': 'application/json',
