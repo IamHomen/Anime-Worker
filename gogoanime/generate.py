@@ -40,9 +40,9 @@ def scrape_recent_sub_anime():
             
         updateTable('recent-release-sub')
 
-        with open('./gogoanime/recent-sub.json', 'w') as f:
+        with open('./gogoanime/recent-release-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('Data saved to gogoanime/recent-sub.json')
+        print('Data saved to gogoanime/recent-release-sub.json')
 
         return anime_list
     except Exception as e:
@@ -190,7 +190,7 @@ def scrape_anime_info(ids):
 def updateTable(val):
 
     # Load JSON data from a file
-    with open('./gogoanime/popular.json', 'r') as json_file:
+    with open(f"./gogoanime/{val}.json", 'r') as json_file:
         data = json.load(json_file)
 
     # Specify the CSV file path
