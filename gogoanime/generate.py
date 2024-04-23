@@ -34,7 +34,7 @@ def scrape_recent_sub_anime():
                     'episode': el.select_one('p.episode').text.strip()
                     #'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
                 })
-                scrape_anime_info(ids)
+               # scrape_anime_info(ids)
 
             page_number += 1
             
