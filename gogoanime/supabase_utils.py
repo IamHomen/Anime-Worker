@@ -12,8 +12,12 @@ RECENT_TABLE_NAME = 'recent-release-sub'
 with open(RECENT_RELEASE_SUB_FILE_PATH, 'r') as json_file:
     data = json.load(json_file)
 
-# Update data in the table
-response = supabase.table(RECENT_TABLE_NAME).update(data).filter('1', 'eq', '1').execute()
+# Delete all records in the table
+response = supabase.table(RECENT_TABLE_NAME).delete().execute()
+
+responses = supabase.table(RECENT_TABLE_NAME)
+  .insert(data)
+  .execute()
 
 # Check for errors
 if response['error'] is not None:
