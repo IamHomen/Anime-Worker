@@ -15,7 +15,7 @@ with open(RECENT_RELEASE_SUB_FILE_PATH, 'r') as json_file:
 responses = supabase.table(RECENT_TABLE_NAME).insert(data).execute()
 
 # Check for errors
-if responses['error'] is not None:
-    print(f"Failed to update data: {response['error']}")
-else:
-    print("Data updated successfully")
+#if responses['error'] is not None:
+  #  print(f"Failed to update data: {response['error']}")
+#else:
+ #   print("Data updated successfully")
