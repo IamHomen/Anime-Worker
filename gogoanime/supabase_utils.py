@@ -15,9 +15,7 @@ with open(RECENT_RELEASE_SUB_FILE_PATH, 'r') as json_file:
 # Delete all records in the table
 response = supabase.table(RECENT_TABLE_NAME).delete().execute()
 
-responses = supabase.table(RECENT_TABLE_NAME)
-  .insert(data)
-  .execute()
+responses = supabase.table(RECENT_TABLE_NAME).insert(data).execute()
 
 # Check for errors
 if response['error'] is not None:
