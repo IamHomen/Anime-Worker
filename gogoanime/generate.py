@@ -74,7 +74,7 @@ def scrape_popular_anime():
                     'animeImg': el.select_one('div > a > img')['src'],
                     'releasedDate': el.select_one('p.released').text.replace('Released: ', '').strip()
                 })
-                scrape_anime_info(ids)
+                #scrape_anime_info(ids)
 
             page_number += 1
 
@@ -111,7 +111,7 @@ def scrape_trending_anime():
                 'animeUrl': BASE_URL + el.select_one('a:nth-child(1)')['href'],
                 'genres': genres
             })
-            scrape_anime_info(ids)
+            #scrape_anime_info(ids)
 
         with open('./gogoanime/trending.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
