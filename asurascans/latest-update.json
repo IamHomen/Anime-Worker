@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-my-daughter-is-the-final-boss/",
+    "animeTitle": "My Daughter is the Final Boss",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/04/resourcePhotoauto_scaleLevel3width-1000.jpg",
+    "episode": "Chapter 119",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-my-daughter-is-the-final-boss/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-newbie-is-too-strong/",
     "animeTitle": "The Newbie is Too Strong",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/Popoi-copy.jpg",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/Cover-1-218x300.jpg",
     "episode": "Chapter 75",
     "animeUrl": "https://asuratoon.com/manga/1908287720-your-talent-is-mine/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/",
-    "animeTitle": "Return of The Unrivaled Spear Knight",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/10/cover.png",
-    "episode": "Chapter 134",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/"
   }
 ]
