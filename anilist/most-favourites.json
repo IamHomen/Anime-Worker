@@ -248,19 +248,19 @@
     "format": "TV"
   },
   {
-    "id": 2001,
-    "title": "Tengen Toppa Gurren Lagann",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
-    "seasonYear": 2007,
-    "totalEpisode": 27,
-    "format": "TV"
-  },
-  {
     "id": 101338,
     "title": "Mob Psycho 100 II",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-7qOfIaEKSjgl.jpg",
     "seasonYear": 2019,
     "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
+    "id": 2001,
+    "title": "Tengen Toppa Gurren Lagann",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
+    "seasonYear": 2007,
+    "totalEpisode": 27,
     "format": "TV"
   },
   {
@@ -360,14 +360,6 @@
     "format": "TV"
   },
   {
-    "id": 20605,
-    "title": "Tokyo Ghoul",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
-    "seasonYear": 2014,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 101280,
     "title": "Tensei Shitara Slime Datta Ken",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-ezBXqEHi8pg0.jpg",
@@ -381,6 +373,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
     "seasonYear": 2004,
     "totalEpisode": 74,
+    "format": "TV"
+  },
+  {
+    "id": 20605,
+    "title": "Tokyo Ghoul",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
+    "seasonYear": 2014,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
