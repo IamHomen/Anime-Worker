@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-reaper-of-the-drifting-moon/",
+    "animeTitle": "Reaper of the Drifting Moon",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/07/Reaper-Moon-Cover-Animation_Compressed.gif",
+    "episode": "Chapter 85",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-reaper-of-the-drifting-moon/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-hero-returns/",
     "animeTitle": "The Hero Returns",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/03/theheroreturnsCover02.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/02/superhumanCover02.png",
     "episode": "Chapter 104",
     "animeUrl": "https://asuratoon.com/manga/1908287720-superhuman-battlefield/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-i-became-a-renowned-familys-sword-prodigy/",
-    "animeTitle": "I Became a Renowned Family\u2019s Sword Prodigy",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/swordprodigyCover02.png",
-    "episode": "Chapter 110",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-i-became-a-renowned-familys-sword-prodigy/"
   }
 ]
