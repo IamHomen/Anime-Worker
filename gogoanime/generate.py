@@ -17,7 +17,7 @@ def scrape_recent_sub_anime():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
-        while True:
+        while page_number <= 10:  # Stop when page_number reaches 10
             response = requests.get(RECENT_SUB_URL + f"?page={page_number}&type=1", headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -47,8 +47,7 @@ def scrape_recent_sub_anime():
         return anime_list
     except Exception as e:
         print(e)
-        return {'error': str(e)}
-                
+        return {'error': str(e)}      
 
 POPULAR_URL = 'https://anitaku.to/popular.html'
 
