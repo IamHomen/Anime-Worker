@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-gods-gambit/",
+    "animeTitle": "Gods\u2019 Gambit",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/10/GodsGambitCover01.png",
+    "episode": "Chapter 39",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-gods-gambit/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-youngest-scion-of-the-mages/",
     "animeTitle": "Youngest Scion of the Mages",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/10/youngestScionCover01.png",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/overpoweredswordCover02.png",
     "episode": "Chapter 94",
     "animeUrl": "https://asuratoon.com/manga/1908287720-overpowered-sword/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-dungeon-defense/",
-    "animeTitle": "Dungeon Defense",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/DungeonDefenseCover01.png",
-    "episode": "Chapter 25",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-dungeon-defense/"
   }
 ]
