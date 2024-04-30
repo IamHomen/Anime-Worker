@@ -1,5 +1,11 @@
 [
   {
+    "animeId": "akuma-kun",
+    "animeTitle": "Akuma-kun",
+    "animeImg": "https://gogocdn.net/cover/akuma-kun.png",
+    "episode": "Episode 10"
+  },
+  {
     "animeId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
     "animeTitle": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
     "animeImg": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
@@ -802,12 +808,6 @@
     "animeTitle": "Stitch to Suna no Wakusei",
     "animeImg": "https://gogocdn.net/cover/stitch-to-suna-no-wakusei.png",
     "episode": "Episode 2"
-  },
-  {
-    "animeId": "akuma-kun",
-    "animeTitle": "Akuma-kun",
-    "animeImg": "https://gogocdn.net/cover/akuma-kun.png",
-    "episode": "Episode 9"
   },
   {
     "animeId": "30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
