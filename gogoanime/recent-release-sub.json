@@ -1,5 +1,29 @@
 [
   {
+    "animeId": "boukyaku-battery-tv",
+    "animeTitle": "Boukyaku Battery (TV)",
+    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "rinkai",
+    "animeTitle": "Rinkai!",
+    "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "touken-ranbu-kai-kyoden-moyuru-honnouji",
+    "animeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+    "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "unnamed-memory",
+    "animeTitle": "Unnamed Memory",
+    "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "episode": "Episode 4"
+  },
+  {
     "animeId": "akuma-kun",
     "animeTitle": "Akuma-kun",
     "animeImg": "https://gogocdn.net/cover/akuma-kun.png",
@@ -456,34 +480,10 @@
     "episode": "Episode 2"
   },
   {
-    "animeId": "rinkai",
-    "animeTitle": "Rinkai!",
-    "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 3"
-  },
-  {
     "animeId": "atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou",
     "animeTitle": "Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou",
     "animeImg": "https://gogocdn.net/cover/atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou.png",
     "episode": "Episode 1"
-  },
-  {
-    "animeId": "boukyaku-battery-tv",
-    "animeTitle": "Boukyaku Battery (TV)",
-    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 3"
-  },
-  {
-    "animeId": "touken-ranbu-kai-kyoden-moyuru-honnouji",
-    "animeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-    "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "unnamed-memory",
-    "animeTitle": "Unnamed Memory",
-    "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
-    "episode": "Episode 3"
   },
   {
     "animeId": "yugioh-go-rush",

@@ -1,5 +1,26 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-star-embracing-swordmaster/",
+    "animeTitle": "Star-Embracing Swordmaster",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/09/StarEmbracingSwordmasterCover01.png",
+    "episode": "Chapter 39",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-star-embracing-swordmaster/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/",
+    "animeTitle": "Sword Fanatic Wanders Through The Night",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/06/swordfanaticCover01.png",
+    "episode": "Chapter 110",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-sword-fanatic-wanders-through-the-night/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/",
+    "animeTitle": "Life of a Magic Academy Mage",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/11/magicAcademyMageCover02.png",
+    "episode": "Chapter 91",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-life-of-a-magic-academy-mage/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/",
     "animeTitle": "Return of The Unrivaled Spear Knight",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/10/cover.png",
@@ -49,18 +70,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-dungeon-odyssey/",
-    "animeTitle": "Dungeon Odyssey",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/09/S2CUnetauto_scaleLevel3width-1000-copyCUnetauto_scaleLevel3width-1250-copy-1.jpg",
-    "episode": "Chapter 85",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-dungeon-odyssey/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/",
     "animeTitle": "I Killed an Academy Player",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/IKilledanAcademyPlayerCover01.png",
     "episode": "Chapter 30",
     "animeUrl": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-dungeon-odyssey/",
+    "animeTitle": "Dungeon Odyssey",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/09/S2CUnetauto_scaleLevel3width-1000-copyCUnetauto_scaleLevel3width-1250-copy-1.jpg",
+    "episode": "Chapter 85",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-dungeon-odyssey/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-indomitable-martial-king/",
@@ -117,26 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/03/DungeonDefenseCover01.png",
     "episode": "Chapter 26",
     "animeUrl": "https://asuratoon.com/manga/1908287720-dungeon-defense/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/sons-retribution/",
-    "animeTitle": "Son\u2019s Retribution",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/04/690x1000.jpg",
-    "episode": "Chapter 7",
-    "animeUrl": "https://asuratoon.com/manga/sons-retribution/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-the-dark-magician-transmigrates-after-66666-years/",
-    "animeTitle": "The Dark Magician Transmigrates After 66666 Years",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/06/666666.jpg",
-    "episode": "Chapter 114 - The man in the riddle",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-the-dark-magician-transmigrates-after-66666-years/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-heavenly-grand-archives-young-master/",
-    "animeTitle": "Heavenly Grand Archive\u2019s Young Master",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/01/GrandArchiveCover01.png",
-    "episode": "Chapter 74",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-heavenly-grand-archives-young-master/"
   }
 ]
