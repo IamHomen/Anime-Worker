@@ -1,5 +1,17 @@
 [
   {
+    "animeId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
+    "animeTitle": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+    "animeImg": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+    "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+    "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
+    "episode": "Episode 5"
+  },
+  {
     "animeId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
     "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
@@ -16,12 +28,6 @@
     "animeTitle": "Shinkalion: Change the World",
     "animeImg": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 4"
-  },
-  {
-    "animeId": "remonster-dub",
-    "animeTitle": "Re:Monster (Dub)",
-    "animeImg": "https://gogocdn.net/cover/remonster-dub.png",
-    "episode": "Episode 5"
   },
   {
     "animeId": "remonster",
@@ -490,18 +496,6 @@
     "animeTitle": "Muu no Hakugei",
     "animeImg": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 1"
-  },
-  {
-    "animeId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
-    "animeTitle": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-    "animeImg": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
-    "episode": "Episode 5"
-  },
-  {
-    "animeId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
-    "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
-    "episode": "Episode 4"
   },
   {
     "animeId": "mahou-no-tenshi-creamy-mami-zutto-kitto-motto",
@@ -1198,5 +1192,11 @@
     "animeTitle": "Pururun! Shizuku-chan",
     "animeImg": "https://gogocdn.net/cover/pururun-shizuku-chan.png",
     "episode": "Episode 51"
+  },
+  {
+    "animeId": "magical-hat",
+    "animeTitle": "Magical Hat",
+    "animeImg": "https://gogocdn.net/cover/magical-hat.png",
+    "episode": "Episode 28"
   }
 ]
