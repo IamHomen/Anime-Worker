@@ -1,5 +1,12 @@
 [
   {
+    "mangaId": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/",
+    "animeTitle": "Return of The Unrivaled Spear Knight",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/10/cover.png",
+    "episode": "Chapter 135",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-return-of-the-unrivaled-spear-knight/"
+  },
+  {
     "mangaId": "https://asuratoon.com/manga/1908287720-why-i-quit-being-the-demon-king/",
     "animeTitle": "Why I Quit Being the Demon King",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2024/01/WhyIQuitBeingtheDemonKingCover01.png",
@@ -42,18 +49,18 @@
     "animeUrl": "https://asuratoon.com/manga/1908287720-myst-might-mayhem/"
   },
   {
-    "mangaId": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/",
-    "animeTitle": "I Killed an Academy Player",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/IKilledanAcademyPlayerCover01.png",
-    "episode": "Chapter 30",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/"
-  },
-  {
     "mangaId": "https://asuratoon.com/manga/1908287720-dungeon-odyssey/",
     "animeTitle": "Dungeon Odyssey",
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2022/09/S2CUnetauto_scaleLevel3width-1000-copyCUnetauto_scaleLevel3width-1250-copy-1.jpg",
     "episode": "Chapter 85",
     "animeUrl": "https://asuratoon.com/manga/1908287720-dungeon-odyssey/"
+  },
+  {
+    "mangaId": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/",
+    "animeTitle": "I Killed an Academy Player",
+    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/11/IKilledanAcademyPlayerCover01.png",
+    "episode": "Chapter 30",
+    "animeUrl": "https://asuratoon.com/manga/1908287720-i-killed-an-academy-player/"
   },
   {
     "mangaId": "https://asuratoon.com/manga/1908287720-the-indomitable-martial-king/",
@@ -131,12 +138,5 @@
     "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2023/01/GrandArchiveCover01.png",
     "episode": "Chapter 74",
     "animeUrl": "https://asuratoon.com/manga/1908287720-heavenly-grand-archives-young-master/"
-  },
-  {
-    "mangaId": "https://asuratoon.com/manga/1908287720-your-talent-is-mine/",
-    "animeTitle": "Your Talent is Mine",
-    "animeImg": "https://img.asuracomics.com/unsafe/fit-in/330x450/filters:format(webp)/https://asuratoon.com/wp-content/uploads/2021/07/Cover-1-218x300.jpg",
-    "episode": "Chapter 76",
-    "animeUrl": "https://asuratoon.com/manga/1908287720-your-talent-is-mine/"
   }
 ]
