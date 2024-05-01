@@ -1,5 +1,41 @@
 [
   {
+    "animeId": "kenka-dokugaku",
+    "animeTitle": "Kenka Dokugaku",
+    "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "bartender-kami-no-glass",
+    "animeTitle": "Bartender: Kami no Glass",
+    "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "date-a-live-v",
+    "animeTitle": "Date A Live V",
+    "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "kaii-to-otome-to-kamikakushi",
+    "animeTitle": "Kaii to Otome to Kamikakushi",
+    "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "seiyuu-radio-no-uraomote",
+    "animeTitle": "Seiyuu Radio no Uraomote",
+    "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 4"
+  },
+  {
     "animeId": "dr-slump-arale-chan",
     "animeTitle": "Dr. Slump: Arale-chan",
     "animeImg": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
@@ -436,42 +472,6 @@
     "animeTitle": "Mahou no Princess Minky Momo",
     "animeImg": "https://gogocdn.net/cover/mahou-no-princess-minky-momo.png",
     "episode": "Episode 63"
-  },
-  {
-    "animeId": "kenka-dokugaku",
-    "animeTitle": "Kenka Dokugaku",
-    "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 3"
-  },
-  {
-    "animeId": "bartender-kami-no-glass",
-    "animeTitle": "Bartender: Kami no Glass",
-    "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "kono-subarashii-sekai-ni-shukufuku-wo-3",
-    "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
-    "episode": "Episode 3"
-  },
-  {
-    "animeId": "date-a-live-v",
-    "animeTitle": "Date A Live V",
-    "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 3"
-  },
-  {
-    "animeId": "kaii-to-otome-to-kamikakushi",
-    "animeTitle": "Kaii to Otome to Kamikakushi",
-    "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 3"
-  },
-  {
-    "animeId": "seiyuu-radio-no-uraomote",
-    "animeTitle": "Seiyuu Radio no Uraomote",
-    "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
-    "episode": "Episode 3"
   },
   {
     "animeId": "paripi-koumei-road-to-summer-sonia",
