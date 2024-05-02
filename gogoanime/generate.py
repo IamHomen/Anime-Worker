@@ -202,3 +202,4 @@ def scrape_anime_info(ids):
 scrape_recent_sub_anime()
 scrape_trending_anime()
 scrape_popular_anime()
+scrape_anime_info('tsuki-ga-michibiku-isekai-douchuu-2nd-season')
