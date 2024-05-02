@@ -1,5 +1,11 @@
 [
   {
+    "animeId": "enter-the-garden",
+    "animeTitle": "Enter the Garden",
+    "animeImg": "https://gogocdn.net/cover/enter-the-garden.png",
+    "episode": "Episode 1"
+  },
+  {
     "animeId": "kenka-dokugaku",
     "animeTitle": "Kenka Dokugaku",
     "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
@@ -1192,11 +1198,5 @@
     "animeTitle": "Pururun! Shizuku-chan",
     "animeImg": "https://gogocdn.net/cover/pururun-shizuku-chan.png",
     "episode": "Episode 51"
-  },
-  {
-    "animeId": "magical-hat",
-    "animeTitle": "Magical Hat",
-    "animeImg": "https://gogocdn.net/cover/magical-hat.png",
-    "episode": "Episode 28"
   }
 ]
