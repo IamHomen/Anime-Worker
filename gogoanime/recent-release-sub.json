@@ -1,5 +1,41 @@
 [
   {
+    "animeId": "chiikawa",
+    "animeTitle": "Chiikawa",
+    "animeImg": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 90"
+  },
+  {
+    "animeId": "hananoi-kun-to-koi-no-yamai",
+    "animeTitle": "Hananoi-kun to Koi no Yamai",
+    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "henjin-no-salad-bowl",
+    "animeTitle": "Henjin no Salad Bowl",
+    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "wind-breaker",
+    "animeTitle": "Wind Breaker",
+    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "dungeon-meshi",
+    "animeTitle": "Dungeon Meshi",
+    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "episode": "Episode 18"
+  },
+  {
     "animeId": "kinnikuman",
     "animeTitle": "Kinnikuman",
     "animeImg": "https://gogocdn.net/cover/kinnikuman.png",
@@ -420,40 +456,10 @@
     "episode": "Episode 114"
   },
   {
-    "animeId": "chiikawa",
-    "animeTitle": "Chiikawa",
-    "animeImg": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 89"
-  },
-  {
-    "animeId": "wind-breaker",
-    "animeTitle": "Wind Breaker",
-    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
-    "episode": "Episode 4"
-  },
-  {
     "animeId": "urusei-yatsura-2022-2nd-season",
     "animeTitle": "Urusei Yatsura (2022) 2nd Season",
     "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
     "episode": "Episode 15"
-  },
-  {
-    "animeId": "henjin-no-salad-bowl",
-    "animeTitle": "Henjin no Salad Bowl",
-    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "hananoi-kun-to-koi-no-yamai",
-    "animeTitle": "Hananoi-kun to Koi no Yamai",
-    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
-    "episode": "Episode 5"
   },
   {
     "animeId": "yuru-camp-season-3",
@@ -472,12 +478,6 @@
     "animeTitle": "Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami",
     "animeImg": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami.png",
     "episode": "Episode 1"
-  },
-  {
-    "animeId": "dungeon-meshi",
-    "animeTitle": "Dungeon Meshi",
-    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 17"
   },
   {
     "animeId": "mahou-no-princess-minky-momo",
