@@ -1,5 +1,11 @@
 [
   {
+    "animeId": "kinnikuman",
+    "animeTitle": "Kinnikuman",
+    "animeImg": "https://gogocdn.net/cover/kinnikuman.png",
+    "episode": "Episode 127"
+  },
+  {
     "animeId": "enter-the-garden",
     "animeTitle": "Enter the Garden",
     "animeImg": "https://gogocdn.net/cover/enter-the-garden.png",
@@ -712,12 +718,6 @@
     "animeTitle": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
     "animeImg": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-1708395198.png",
     "episode": "Episode 24"
-  },
-  {
-    "animeId": "kinnikuman",
-    "animeTitle": "Kinnikuman",
-    "animeImg": "https://gogocdn.net/cover/kinnikuman.png",
-    "episode": "Episode 125"
   },
   {
     "animeId": "kingdom-5th-season",
