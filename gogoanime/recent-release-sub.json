@@ -1,5 +1,23 @@
 [
   {
+    "animeId": "boku-no-oldies-wa-all-color",
+    "animeTitle": "Boku no Oldies wa All Color",
+    "animeImg": "https://gogocdn.net/cover/boku-no-oldies-wa-all-color.png",
+    "episode": "Episode 1"
+  },
+  {
+    "animeId": "eternity-memories",
+    "animeTitle": "Eternity Memories",
+    "animeImg": "https://gogocdn.net/cover/eternity-memories.png",
+    "episode": "Episode 1"
+  },
+  {
+    "animeId": "ninjala",
+    "animeTitle": "Ninjala",
+    "animeImg": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 115"
+  },
+  {
     "animeId": "t-p-bon",
     "animeTitle": "T.P BON",
     "animeImg": "https://gogocdn.net/cover/t-p-bon.png",
@@ -472,12 +490,6 @@
     "animeTitle": "Nijiyon Animation 2",
     "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
     "episode": "Episode 4"
-  },
-  {
-    "animeId": "ninjala",
-    "animeTitle": "Ninjala",
-    "animeImg": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 114"
   },
   {
     "animeId": "mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami",
@@ -1186,17 +1198,5 @@
     "animeTitle": "Goal FH: Field Hunter",
     "animeImg": "https://gogocdn.net/cover/goal-fh-field-hunter.png",
     "episode": "Episode 1"
-  },
-  {
-    "animeId": "motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season",
-    "animeTitle": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season.png",
-    "episode": "Episode 22"
-  },
-  {
-    "animeId": "ninja-hattori-kun",
-    "animeTitle": "Ninja Hattori-kun",
-    "animeImg": "https://gogocdn.net/cover/ninja-hattori-kun.png",
-    "episode": "Episode 9"
   }
 ]
