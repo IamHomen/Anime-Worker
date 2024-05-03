@@ -1,5 +1,29 @@
 [
   {
+    "animeId": "t-p-bon",
+    "animeTitle": "T.P BON",
+    "animeImg": "https://gogocdn.net/cover/t-p-bon.png",
+    "episode": "Episode 12"
+  },
+  {
+    "animeId": "urusei-yatsura-2022-2nd-season",
+    "animeTitle": "Urusei Yatsura (2022) 2nd Season",
+    "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
+    "episode": "Episode 16"
+  },
+  {
+    "animeId": "yuru-camp-season-3",
+    "animeTitle": "Yuru Camp\u25b3 Season 3",
+    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "jantama-kan",
+    "animeTitle": "Jantama Kan!!",
+    "animeImg": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 2"
+  },
+  {
     "animeId": "chiikawa",
     "animeTitle": "Chiikawa",
     "animeImg": "https://gogocdn.net/cover/chiikawa.png",
@@ -454,24 +478,6 @@
     "animeTitle": "Ninjala",
     "animeImg": "https://gogocdn.net/cover/ninjala.png",
     "episode": "Episode 114"
-  },
-  {
-    "animeId": "urusei-yatsura-2022-2nd-season",
-    "animeTitle": "Urusei Yatsura (2022) 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
-    "episode": "Episode 15"
-  },
-  {
-    "animeId": "yuru-camp-season-3",
-    "animeTitle": "Yuru Camp\u25b3 Season 3",
-    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "jantama-kan",
-    "animeTitle": "Jantama Kan!!",
-    "animeImg": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 1"
   },
   {
     "animeId": "mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami",
@@ -1192,11 +1198,5 @@
     "animeTitle": "Ninja Hattori-kun",
     "animeImg": "https://gogocdn.net/cover/ninja-hattori-kun.png",
     "episode": "Episode 9"
-  },
-  {
-    "animeId": "pururun-shizuku-chan",
-    "animeTitle": "Pururun! Shizuku-chan",
-    "animeImg": "https://gogocdn.net/cover/pururun-shizuku-chan.png",
-    "episode": "Episode 51"
   }
 ]
