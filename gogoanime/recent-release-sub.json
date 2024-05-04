@@ -1,5 +1,11 @@
 [
   {
+    "animeId": "highspeed-etoile",
+    "animeTitle": "Highspeed Etoile",
+    "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "episode": "Episode 5"
+  },
+  {
     "animeId": "the-idolmster-shiny-colors",
     "animeTitle": "The iDOLM@STER Shiny Colors",
     "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
@@ -478,12 +484,6 @@
     "animeTitle": "Oishinbo",
     "animeImg": "https://gogocdn.net/cover/oishinbo.png",
     "episode": "Episode 48"
-  },
-  {
-    "animeId": "highspeed-etoile",
-    "animeTitle": "Highspeed Etoile",
-    "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
-    "episode": "Episode 4"
   },
   {
     "animeId": "deltora-quest",
