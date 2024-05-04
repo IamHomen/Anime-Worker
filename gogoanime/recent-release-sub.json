@@ -1,5 +1,53 @@
 [
   {
+    "animeId": "chouriki-robo-galatt",
+    "animeTitle": "Chouriki Robo Galatt",
+    "animeImg": "https://gogocdn.net/cover/chouriki-robo-galatt.png",
+    "episode": "Episode 19"
+  },
+  {
+    "animeId": "the-new-gate",
+    "animeTitle": "The New Gate",
+    "animeImg": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "yoru-no-kurage-wa-oyogenai",
+    "animeTitle": "Yoru no Kurage wa Oyogenai",
+    "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "the-fable",
+    "animeTitle": "The Fable",
+    "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "kuroshitsuji-kishuku-gakkou-hen",
+    "animeTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "animeImg": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "kaijuu-8-gou",
+    "animeTitle": "Kaijuu 8-gou",
+    "animeImg": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
+    "episode": "Episode 4"
+  },
+  {
+    "animeId": "one-room-hiatari-futsuu-tenshi-tsuki",
+    "animeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+    "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "detective-conan",
+    "animeTitle": "Detective Conan",
+    "animeImg": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1122"
+  },
+  {
     "animeId": "boku-no-hero-academia-7th-season",
     "animeTitle": "Boku no Hero Academia 7th Season",
     "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
@@ -432,52 +480,10 @@
     "episode": "Episode 4"
   },
   {
-    "animeId": "the-new-gate",
-    "animeTitle": "The New Gate",
-    "animeImg": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 3"
-  },
-  {
     "animeId": "sasayaku-you-ni-koi-wo-utau",
     "animeTitle": "Sasayaku You ni Koi wo Utau",
     "animeImg": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
     "episode": "Episode 3"
-  },
-  {
-    "animeId": "the-fable",
-    "animeTitle": "The Fable",
-    "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "yoru-no-kurage-wa-oyogenai",
-    "animeTitle": "Yoru no Kurage wa Oyogenai",
-    "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "kuroshitsuji-kishuku-gakkou-hen",
-    "animeTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "animeImg": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 3"
-  },
-  {
-    "animeId": "kaijuu-8-gou",
-    "animeTitle": "Kaijuu 8-gou",
-    "animeImg": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
-    "episode": "Episode 3"
-  },
-  {
-    "animeId": "one-room-hiatari-futsuu-tenshi-tsuki",
-    "animeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
-    "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
-    "episode": "Episode 5"
-  },
-  {
-    "animeId": "detective-conan",
-    "animeTitle": "Detective Conan",
-    "animeImg": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1121"
   },
   {
     "animeId": "boku-no-hero-academia-memories",
@@ -1192,11 +1198,5 @@
     "animeTitle": "Kaitei Shounen Marine",
     "animeImg": "https://gogocdn.net/cover/kaitei-shounen-marine.png",
     "episode": "Episode 1"
-  },
-  {
-    "animeId": "mahou-shoujo-lalabel",
-    "animeTitle": "Mahou Shoujo Lalabel",
-    "animeImg": "https://gogocdn.net/cover/mahou-shoujo-lalabel.png",
-    "episode": "Episode 7"
   }
 ]
