@@ -1,5 +1,35 @@
 [
   {
+    "animeId": "ninja-kamui",
+    "animeTitle": "Ninja Kamui",
+    "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
+    "episode": "Episode 13"
+  },
+  {
+    "animeId": "bakugan-battle-brawlers-gundalian-invaders",
+    "animeTitle": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 3"
+  },
+  {
+    "animeId": "beyblade-x",
+    "animeTitle": "Beyblade X",
+    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 29"
+  },
+  {
+    "animeId": "one-piece",
+    "animeTitle": "One Piece",
+    "animeImg": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1103"
+  },
+  {
+    "animeId": "wonderful-precure",
+    "animeTitle": "Wonderful Precure!",
+    "animeImg": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 14"
+  },
+  {
     "animeId": "sasayaku-you-ni-koi-wo-utau",
     "animeTitle": "Sasayaku You ni Koi wo Utau",
     "animeImg": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
@@ -456,46 +486,16 @@
     "episode": "Episode 4"
   },
   {
-    "animeId": "ninja-kamui",
-    "animeTitle": "Ninja Kamui",
-    "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
-    "episode": "Episode 12"
-  },
-  {
-    "animeId": "bakugan-battle-brawlers-gundalian-invaders",
-    "animeTitle": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 2"
-  },
-  {
     "animeId": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
     "animeTitle": "Meitou ",
     "animeImg": "https://gogocdn.net/cover/meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "one-piece",
-    "animeTitle": "One Piece",
-    "animeImg": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1102"
-  },
-  {
-    "animeId": "wonderful-precure",
-    "animeTitle": "Wonderful Precure!",
-    "animeImg": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 13"
-  },
-  {
     "animeId": "boku-no-hero-academia-memories",
     "animeTitle": "Boku no Hero Academia: Memories",
     "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png",
     "episode": "Episode 4"
-  },
-  {
-    "animeId": "beyblade-x",
-    "animeTitle": "Beyblade X",
-    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 28"
   },
   {
     "animeId": "oishinbo",
