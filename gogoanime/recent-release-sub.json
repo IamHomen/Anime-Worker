@@ -1,5 +1,35 @@
 [
   {
+    "animeId": "hibike-euphonium-3",
+    "animeTitle": "Hibike! Euphonium 3",
+    "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "atashinchi-movie",
+    "animeTitle": "Atashinchi Movie",
+    "animeImg": "https://gogocdn.net/cover/atashinchi-movie.png",
+    "episode": "Episode 1"
+  },
+  {
+    "animeId": "captain-tsubasa-season-2-junior-youth-hen",
+    "animeTitle": "Captain Tsubasa Season 2: Junior Youth-hen",
+    "animeImg": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
+    "episode": "Episode 31"
+  },
+  {
+    "animeId": "masou-gakuen-hxh-uncensored",
+    "animeTitle": "Masou Gakuen HxH (Uncensored)",
+    "animeImg": "https://gogocdn.net/cover/masou-gakuen-hxh-uncensored.png",
+    "episode": "Episode 12"
+  },
+  {
+    "animeId": "yozakura-san-chi-no-daisakusen",
+    "animeTitle": "Yozakura-san Chi no Daisakusen",
+    "animeImg": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
+    "episode": "Episode 5"
+  },
+  {
     "animeId": "ninja-kamui",
     "animeTitle": "Ninja Kamui",
     "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
@@ -462,27 +492,9 @@
     "episode": "Episode 1428"
   },
   {
-    "animeId": "hibike-euphonium-3",
-    "animeTitle": "Hibike! Euphonium 3",
-    "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "captain-tsubasa-season-2-junior-youth-hen",
-    "animeTitle": "Captain Tsubasa Season 2: Junior Youth-hen",
-    "animeImg": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
-    "episode": "Episode 30"
-  },
-  {
     "animeId": "sentai-daishikkaku",
     "animeTitle": "Sentai Daishikkaku",
     "animeImg": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "yozakura-san-chi-no-daisakusen",
-    "animeTitle": "Yozakura-san Chi no Daisakusen",
-    "animeImg": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 4"
   },
   {
@@ -1186,17 +1198,5 @@
     "animeTitle": "Gowapper 5 Gordam",
     "animeImg": "https://gogocdn.net/cover/gowapper-5-gordam.png",
     "episode": "Episode 2"
-  },
-  {
-    "animeId": "wanpaku-tanteidan",
-    "animeTitle": "Wanpaku Tanteidan",
-    "animeImg": "https://gogocdn.net/cover/wanpaku-tanteidan.png",
-    "episode": "Episode 1"
-  },
-  {
-    "animeId": "kaitei-shounen-marine",
-    "animeTitle": "Kaitei Shounen Marine",
-    "animeImg": "https://gogocdn.net/cover/kaitei-shounen-marine.png",
-    "episode": "Episode 1"
   }
 ]
