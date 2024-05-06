@@ -1,5 +1,17 @@
 [
   {
+    "animeId": "haai-step-jun",
+    "animeTitle": "Haai Step Jun",
+    "animeImg": "https://gogocdn.net/cover/haai-step-jun.png",
+    "episode": "Episode 19"
+  },
+  {
+    "animeId": "blue-archive-the-animation",
+    "animeTitle": "Blue Archive the Animation",
+    "animeImg": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 5"
+  },
+  {
     "animeId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
     "animeTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
     "animeImg": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
@@ -483,12 +495,6 @@
     "animeId": "himitsu-no-aipri",
     "animeTitle": "Himitsu no AiPri",
     "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "blue-archive-the-animation",
-    "animeTitle": "Blue Archive the Animation",
-    "animeImg": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
     "episode": "Episode 4"
   },
   {
@@ -1192,11 +1198,5 @@
     "animeTitle": "Grandeek",
     "animeImg": "https://gogocdn.net/cover/grandeek.png",
     "episode": "Episode 1"
-  },
-  {
-    "animeId": "gowapper-5-gordam",
-    "animeTitle": "Gowapper 5 Gordam",
-    "animeImg": "https://gogocdn.net/cover/gowapper-5-gordam.png",
-    "episode": "Episode 2"
   }
 ]
