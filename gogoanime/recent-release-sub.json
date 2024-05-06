@@ -1,5 +1,11 @@
 [
   {
+    "animeId": "shin-hokuto-no-ken",
+    "animeTitle": "Shin Hokuto no Ken",
+    "animeImg": "https://gogocdn.net/cover/shin-hokuto-no-ken.png",
+    "episode": "Episode 3"
+  },
+  {
     "animeId": "haai-step-jun",
     "animeTitle": "Haai Step Jun",
     "animeImg": "https://gogocdn.net/cover/haai-step-jun.png",
@@ -1191,12 +1197,6 @@
     "animeId": "hoshi-no-ko-chobin",
     "animeTitle": "Hoshi no Ko Chobin",
     "animeImg": "https://gogocdn.net/cover/hoshi-no-ko-chobin.png",
-    "episode": "Episode 1"
-  },
-  {
-    "animeId": "grandeek",
-    "animeTitle": "Grandeek",
-    "animeImg": "https://gogocdn.net/cover/grandeek.png",
     "episode": "Episode 1"
   }
 ]

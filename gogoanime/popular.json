@@ -3186,12 +3186,6 @@
     "releasedDate": "2008"
   },
   {
-    "animeId": "fist-of-the-north-star",
-    "animeTitle": "Fist of the North Star",
-    "animeImg": "https://gogocdn.net/images/anime/F/fist-of-the-north-star.jpg",
-    "releasedDate": "1984"
-  },
-  {
     "animeId": "touch",
     "animeTitle": "Touch",
     "animeImg": "https://gogocdn.net/images/anime/T/touch.jpg",
@@ -5158,12 +5152,6 @@
     "animeTitle": "Ai Yori Aoshi",
     "animeImg": "https://gogocdn.net/images/anime/ai-yori-aoshi.jpg",
     "releasedDate": "2002"
-  },
-  {
-    "animeId": "bakugan-gundalian-invaders",
-    "animeTitle": "Bakugan: Gundalian Invaders",
-    "animeImg": "https://gogocdn.net/images/anime/B/bakugan-gundalian-invaders.jpg",
-    "releasedDate": "2010"
   },
   {
     "animeId": "poyopoyo-kansatsu-nikki",
@@ -11986,12 +11974,6 @@
     "animeTitle": "Ring ni Kakero ",
     "animeImg": "https://gogocdn.net/images/anime/R/ring-ni-kakero.jpg",
     "releasedDate": "2004"
-  },
-  {
-    "animeId": "fist-of-the-north-star-movie",
-    "animeTitle": "Fist Of The North Star Movie",
-    "animeImg": "https://gogocdn.net/images/anime/F/Fist-Of-The-North-Star-Movie.jpg",
-    "releasedDate": "1986"
   },
   {
     "animeId": "zan-sayonara-zetsubou-sensei",
@@ -39930,6 +39912,12 @@
     "releasedDate": "2022"
   },
   {
+    "animeId": "rwby-volume-1-japanese-dub",
+    "animeTitle": "RWBY Volume 1 (Japanese Dub)",
+    "animeImg": "https://gogocdn.net/cover/rwby-volume-1-japanese-dub.png",
+    "releasedDate": "2013"
+  },
+  {
     "animeId": "cyborg-009-vs-devilman",
     "animeTitle": "Cyborg 009 VS Devilman",
     "animeImg": "https://gogocdn.net/cover/cyborg-009-vs-devilman.jpg",
@@ -40144,6 +40132,12 @@
     "animeTitle": "Yun Zhongju San Zi",
     "animeImg": "https://gogocdn.net/cover/yun-zhongju-san-zi.png",
     "releasedDate": "2024"
+  },
+  {
+    "animeId": "shin-hokuto-no-ken",
+    "animeTitle": "Shin Hokuto no Ken",
+    "animeImg": "https://gogocdn.net/cover/shin-hokuto-no-ken.png",
+    "releasedDate": "2003"
   },
   {
     "animeId": "garo-guren-no-tsuki",
@@ -40378,6 +40372,12 @@
     "animeTitle": "Xian Wang de Richang Shenghuo 4 (Dub)",
     "animeImg": "https://gogocdn.net/cover/xian-wang-de-richang-shenghuo-4-dub.png",
     "releasedDate": "2023"
+  },
+  {
+    "animeId": "rwby-volume-2-japanese-dub",
+    "animeTitle": "RWBY Volume 2 (Japanese Dub)",
+    "animeImg": "https://gogocdn.net/cover/rwby-volume-2-japanese-dub.png",
+    "releasedDate": "2014"
   },
   {
     "animeId": "uchuu-senkan-yamato-2199-hoshimeguru-hakobune",
