@@ -1,5 +1,35 @@
 [
   {
+    "animeId": "odekake-kozame",
+    "animeTitle": "Odekake Kozame",
+    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
+    "episode": "Episode 59"
+  },
+  {
+    "animeId": "boukyaku-battery-tv",
+    "animeTitle": "Boukyaku Battery (TV)",
+    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "rinkai",
+    "animeTitle": "Rinkai!",
+    "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 5"
+  },
+  {
+    "animeId": "touken-ranbu-kai-kyoden-moyuru-honnouji",
+    "animeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+    "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "unnamed-memory",
+    "animeTitle": "Unnamed Memory",
+    "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "episode": "Episode 5"
+  },
+  {
     "animeId": "kinnikuman",
     "animeTitle": "Kinnikuman",
     "animeImg": "https://gogocdn.net/cover/kinnikuman.png",
@@ -312,12 +342,6 @@
     "episode": "Episode 5"
   },
   {
-    "animeId": "odekake-kozame",
-    "animeTitle": "Odekake Kozame",
-    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
-    "episode": "Episode 58"
-  },
-  {
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
@@ -466,30 +490,6 @@
     "animeTitle": "Sand Land: The Series",
     "animeImg": "https://gogocdn.net/cover/sand-land-the-series.png",
     "episode": "Episode 13"
-  },
-  {
-    "animeId": "boukyaku-battery-tv",
-    "animeTitle": "Boukyaku Battery (TV)",
-    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "rinkai",
-    "animeTitle": "Rinkai!",
-    "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 4"
-  },
-  {
-    "animeId": "touken-ranbu-kai-kyoden-moyuru-honnouji",
-    "animeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-    "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
-    "episode": "Episode 5"
-  },
-  {
-    "animeId": "unnamed-memory",
-    "animeTitle": "Unnamed Memory",
-    "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
-    "episode": "Episode 4"
   },
   {
     "animeId": "akuma-kun",
