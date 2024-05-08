@@ -1,5 +1,11 @@
 [
   {
+    "animeId": "himitsu-no-aipri",
+    "animeTitle": "Himitsu no AiPri",
+    "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 5"
+  },
+  {
     "animeId": "girls-panzer-saishuushou-part-4-specials",
     "animeTitle": "Girls & Panzer: Saishuushou Part 4 Specials",
     "animeImg": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-specials.png",
@@ -502,12 +508,6 @@
     "animeTitle": "Akuma-kun",
     "animeImg": "https://gogocdn.net/cover/akuma-kun.png",
     "episode": "Episode 10"
-  },
-  {
-    "animeId": "himitsu-no-aipri",
-    "animeTitle": "Himitsu no AiPri",
-    "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 4"
   },
   {
     "animeId": "sentai-daishikkaku",
