@@ -1,5 +1,11 @@
 [
   {
+    "animeId": "girls-panzer-saishuushou-part-4-specials",
+    "animeTitle": "Girls & Panzer: Saishuushou Part 4 Specials",
+    "animeImg": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-specials.png",
+    "episode": "Episode 1"
+  },
+  {
     "animeId": "odekake-kozame",
     "animeTitle": "Odekake Kozame",
     "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
@@ -1192,11 +1198,5 @@
     "animeTitle": "Choujin Sentai Baratack",
     "animeImg": "https://gogocdn.net/cover/choujin-sentai-baratack.png",
     "episode": "Episode 16"
-  },
-  {
-    "animeId": "hoshi-no-ko-chobin",
-    "animeTitle": "Hoshi no Ko Chobin",
-    "animeImg": "https://gogocdn.net/cover/hoshi-no-ko-chobin.png",
-    "episode": "Episode 1"
   }
 ]
