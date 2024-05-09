@@ -336,19 +336,19 @@
     "format": "TV"
   },
   {
-    "id": 127230,
-    "title": "Chainsaw Man",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-NuHM32a3VJsb.png",
-    "seasonYear": 2022,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 99423,
     "title": "Darling in the Franxx",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99423-8MBxtwCeHf8B.png",
     "seasonYear": 2018,
     "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 127230,
+    "title": "Chainsaw Man",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-NuHM32a3VJsb.png",
+    "seasonYear": 2022,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {

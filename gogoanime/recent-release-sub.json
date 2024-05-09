@@ -1,5 +1,59 @@
 [
   {
+    "animeId": "chiikawa",
+    "animeTitle": "Chiikawa",
+    "animeImg": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 91"
+  },
+  {
+    "animeId": "urusei-yatsura-2022-2nd-season",
+    "animeTitle": "Urusei Yatsura (2022) 2nd Season",
+    "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
+    "episode": "Episode 17"
+  },
+  {
+    "animeId": "henjin-no-salad-bowl",
+    "animeTitle": "Henjin no Salad Bowl",
+    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "wind-breaker",
+    "animeTitle": "Wind Breaker",
+    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "hananoi-kun-to-koi-no-yamai",
+    "animeTitle": "Hananoi-kun to Koi no Yamai",
+    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
+    "episode": "Episode 7"
+  },
+  {
+    "animeId": "yuru-camp-season-3",
+    "animeTitle": "Yuru Camp\u25b3 Season 3",
+    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
+    "episode": "Episode 6"
+  },
+  {
+    "animeId": "dungeon-meshi",
+    "animeTitle": "Dungeon Meshi",
+    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "episode": "Episode 19"
+  },
+  {
+    "animeId": "jantama-kan",
+    "animeTitle": "Jantama Kan!!",
+    "animeImg": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 3"
+  },
+  {
     "animeId": "kenka-dokugaku",
     "animeTitle": "Kenka Dokugaku",
     "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
@@ -430,60 +484,6 @@
     "animeTitle": "T.P BON",
     "animeImg": "https://gogocdn.net/cover/t-p-bon.png",
     "episode": "Episode 12"
-  },
-  {
-    "animeId": "urusei-yatsura-2022-2nd-season",
-    "animeTitle": "Urusei Yatsura (2022) 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
-    "episode": "Episode 16"
-  },
-  {
-    "animeId": "yuru-camp-season-3",
-    "animeTitle": "Yuru Camp\u25b3 Season 3",
-    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 5"
-  },
-  {
-    "animeId": "jantama-kan",
-    "animeTitle": "Jantama Kan!!",
-    "animeImg": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 2"
-  },
-  {
-    "animeId": "chiikawa",
-    "animeTitle": "Chiikawa",
-    "animeImg": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 90"
-  },
-  {
-    "animeId": "hananoi-kun-to-koi-no-yamai",
-    "animeTitle": "Hananoi-kun to Koi no Yamai",
-    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
-    "episode": "Episode 5"
-  },
-  {
-    "animeId": "henjin-no-salad-bowl",
-    "animeTitle": "Henjin no Salad Bowl",
-    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 5"
-  },
-  {
-    "animeId": "wind-breaker",
-    "animeTitle": "Wind Breaker",
-    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
-    "episode": "Episode 5"
-  },
-  {
-    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
-    "episode": "Episode 6"
-  },
-  {
-    "animeId": "dungeon-meshi",
-    "animeTitle": "Dungeon Meshi",
-    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 18"
   },
   {
     "animeId": "enter-the-garden",
