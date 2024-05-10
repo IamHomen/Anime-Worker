@@ -1,1202 +1,1402 @@
 [
   {
-    "animeId": "ninjala",
-    "animeTitle": "Ninjala",
-    "animeImg": "https://gogocdn.net/cover/ninjala.png",
+    "id": "ninjala",
+    "epId": "ninjala-episode-116",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
     "episode": "Episode 116"
   },
   {
-    "animeId": "tondemo-senshi-muteking",
-    "animeTitle": "Tondemo Senshi Muteking",
-    "animeImg": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
+    "id": "tondemo-senshi-muteking",
+    "epId": "tondemo-senshi-muteking-episode-2",
+    "title": "Tondemo Senshi Muteking",
+    "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "chiikawa",
-    "animeTitle": "Chiikawa",
-    "animeImg": "https://gogocdn.net/cover/chiikawa.png",
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-91",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
     "episode": "Episode 91"
   },
   {
-    "animeId": "urusei-yatsura-2022-2nd-season",
-    "animeTitle": "Urusei Yatsura (2022) 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
+    "id": "urusei-yatsura-2022-2nd-season",
+    "epId": "urusei-yatsura-2022-2nd-season-episode-17",
+    "title": "Urusei Yatsura (2022) 2nd Season",
+    "img": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
     "episode": "Episode 17"
   },
   {
-    "animeId": "henjin-no-salad-bowl",
-    "animeTitle": "Henjin no Salad Bowl",
-    "animeImg": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "id": "henjin-no-salad-bowl",
+    "epId": "henjin-no-salad-bowl-episode-6",
+    "title": "Henjin no Salad Bowl",
+    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "wind-breaker",
-    "animeTitle": "Wind Breaker",
-    "animeImg": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "id": "wind-breaker",
+    "epId": "wind-breaker-episode-6",
+    "title": "Wind Breaker",
+    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "hananoi-kun-to-koi-no-yamai",
-    "animeTitle": "Hananoi-kun to Koi no Yamai",
-    "animeImg": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "id": "hananoi-kun-to-koi-no-yamai",
+    "epId": "hananoi-kun-to-koi-no-yamai-episode-6",
+    "title": "Hananoi-kun to Koi no Yamai",
+    "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-    "animeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "animeImg": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
+    "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+    "epId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-7",
+    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "img": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
     "episode": "Episode 7"
   },
   {
-    "animeId": "yuru-camp-season-3",
-    "animeTitle": "Yuru Camp\u25b3 Season 3",
-    "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
+    "id": "yuru-camp-season-3",
+    "epId": "yuru-camp-season-3-episode-6",
+    "title": "Yuru Camp\u25b3 Season 3",
+    "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "dungeon-meshi",
-    "animeTitle": "Dungeon Meshi",
-    "animeImg": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "id": "dungeon-meshi",
+    "epId": "dungeon-meshi-episode-19",
+    "title": "Dungeon Meshi",
+    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
     "episode": "Episode 19"
   },
   {
-    "animeId": "jantama-kan",
-    "animeTitle": "Jantama Kan!!",
-    "animeImg": "https://gogocdn.net/cover/jantama-kan.png",
+    "id": "jantama-kan",
+    "epId": "jantama-kan-episode-3",
+    "title": "Jantama Kan!!",
+    "img": "https://gogocdn.net/cover/jantama-kan.png",
     "episode": "Episode 3"
   },
   {
-    "animeId": "kenka-dokugaku",
-    "animeTitle": "Kenka Dokugaku",
-    "animeImg": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-5",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "bartender-kami-no-glass",
-    "animeTitle": "Bartender: Kami no Glass",
-    "animeImg": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
+    "id": "bartender-kami-no-glass",
+    "epId": "bartender-kami-no-glass-episode-6",
+    "title": "Bartender: Kami no Glass",
+    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "kono-subarashii-sekai-ni-shukufuku-wo-3",
-    "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-5",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "date-a-live-v",
-    "animeTitle": "Date A Live V",
-    "animeImg": "https://gogocdn.net/cover/date-a-live-v.png",
+    "id": "date-a-live-v",
+    "epId": "date-a-live-v-episode-5",
+    "title": "Date A Live V",
+    "img": "https://gogocdn.net/cover/date-a-live-v.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "kaii-to-otome-to-kamikakushi",
-    "animeTitle": "Kaii to Otome to Kamikakushi",
-    "animeImg": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
+    "id": "kaii-to-otome-to-kamikakushi",
+    "epId": "kaii-to-otome-to-kamikakushi-episode-5",
+    "title": "Kaii to Otome to Kamikakushi",
+    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "seiyuu-radio-no-uraomote",
-    "animeTitle": "Seiyuu Radio no Uraomote",
-    "animeImg": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "id": "seiyuu-radio-no-uraomote",
+    "epId": "seiyuu-radio-no-uraomote-episode-5",
+    "title": "Seiyuu Radio no Uraomote",
+    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "himitsu-no-aipri",
-    "animeTitle": "Himitsu no AiPri",
-    "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-5",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "girls-panzer-saishuushou-part-4-specials",
-    "animeTitle": "Girls & Panzer: Saishuushou Part 4 Specials",
-    "animeImg": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-specials.png",
+    "id": "girls-panzer-saishuushou-part-4-specials",
+    "epId": "girls-panzer-saishuushou-part-4-specials-episode-1",
+    "title": "Girls & Panzer: Saishuushou Part 4 Specials",
+    "img": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-specials.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "odekake-kozame",
-    "animeTitle": "Odekake Kozame",
-    "animeImg": "https://gogocdn.net/cover/odekake-kozame.png",
+    "id": "odekake-kozame",
+    "epId": "odekake-kozame-episode-59",
+    "title": "Odekake Kozame",
+    "img": "https://gogocdn.net/cover/odekake-kozame.png",
     "episode": "Episode 59"
   },
   {
-    "animeId": "boukyaku-battery-tv",
-    "animeTitle": "Boukyaku Battery (TV)",
-    "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "id": "boukyaku-battery-tv",
+    "epId": "boukyaku-battery-tv-episode-5",
+    "title": "Boukyaku Battery (TV)",
+    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "rinkai",
-    "animeTitle": "Rinkai!",
-    "animeImg": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "id": "rinkai",
+    "epId": "rinkai-episode-5",
+    "title": "Rinkai!",
+    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "touken-ranbu-kai-kyoden-moyuru-honnouji",
-    "animeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-    "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
+    "id": "touken-ranbu-kai-kyoden-moyuru-honnouji",
+    "epId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-6",
+    "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+    "img": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "unnamed-memory",
-    "animeTitle": "Unnamed Memory",
-    "animeImg": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "id": "unnamed-memory",
+    "epId": "unnamed-memory-episode-5",
+    "title": "Unnamed Memory",
+    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "kinnikuman",
-    "animeTitle": "Kinnikuman",
-    "animeImg": "https://gogocdn.net/cover/kinnikuman.png",
+    "id": "kinnikuman",
+    "epId": "kinnikuman-episode-128",
+    "title": "Kinnikuman",
+    "img": "https://gogocdn.net/cover/kinnikuman.png",
     "episode": "Episode 128"
   },
   {
-    "animeId": "yugioh-go-rush",
-    "animeTitle": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "animeImg": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-107",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 107"
   },
   {
-    "animeId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
-    "animeTitle": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-    "animeImg": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
+    "id": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
+    "epId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-episode-7",
+    "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+    "img": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
     "episode": "Episode 7"
   },
   {
-    "animeId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
-    "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "animeImg": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
+    "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+    "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-6",
+    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+    "img": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "shinkalion-change-the-world",
-    "animeTitle": "Shinkalion: Change the World",
-    "animeImg": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "id": "shinkalion-change-the-world",
+    "epId": "shinkalion-change-the-world-episode-5",
+    "title": "Shinkalion: Change the World",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
-    "animeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-    "animeImg": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
+    "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+    "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-6",
+    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+    "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "tadaima-okaeri",
-    "animeTitle": "Tadaima, Okaeri",
-    "animeImg": "https://gogocdn.net/cover/tadaima-okaeri.png",
+    "id": "tadaima-okaeri",
+    "epId": "tadaima-okaeri-episode-5",
+    "title": "Tadaima, Okaeri",
+    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "animeTitle": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
+    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
+    "epId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-18",
+    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+    "img": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
     "episode": "Episode 18"
   },
   {
-    "animeId": "remonster",
-    "animeTitle": "Re:Monster",
-    "animeImg": "https://gogocdn.net/cover/remonster-1711737486.png",
+    "id": "remonster",
+    "epId": "remonster-episode-6",
+    "title": "Re:Monster",
+    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
-    "animeTitle": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-    "animeImg": "https://gogocdn.net/cover/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life.png",
+    "id": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
+    "epId": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-episode-5",
+    "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+    "img": "https://gogocdn.net/cover/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "shuumatsu-train-doko-e-iku",
-    "animeTitle": "Shuumatsu Train Doko e Iku?",
-    "animeImg": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
+    "id": "shuumatsu-train-doko-e-iku",
+    "epId": "shuumatsu-train-doko-e-iku-episode-6",
+    "title": "Shuumatsu Train Doko e Iku?",
+    "img": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "kami-wa-game-ni-ueteiru",
-    "animeTitle": "Kami wa Game ni Ueteiru.",
-    "animeImg": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
+    "id": "kami-wa-game-ni-ueteiru",
+    "epId": "kami-wa-game-ni-ueteiru-episode-6",
+    "title": "Kami wa Game ni Ueteiru.",
+    "img": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
-    "animeTitle": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
-    "animeImg": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
+    "id": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
+    "epId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-7",
+    "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
+    "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 7"
   },
   {
-    "animeId": "shin-hokuto-no-ken",
-    "animeTitle": "Shin Hokuto no Ken",
-    "animeImg": "https://gogocdn.net/cover/shin-hokuto-no-ken.png",
+    "id": "shin-hokuto-no-ken",
+    "epId": "shin-hokuto-no-ken-episode-3",
+    "title": "Shin Hokuto no Ken",
+    "img": "https://gogocdn.net/cover/shin-hokuto-no-ken.png",
     "episode": "Episode 3"
   },
   {
-    "animeId": "haai-step-jun",
-    "animeTitle": "Haai Step Jun",
-    "animeImg": "https://gogocdn.net/cover/haai-step-jun.png",
+    "id": "haai-step-jun",
+    "epId": "haai-step-jun-episode-19",
+    "title": "Haai Step Jun",
+    "img": "https://gogocdn.net/cover/haai-step-jun.png",
     "episode": "Episode 19"
   },
   {
-    "animeId": "blue-archive-the-animation",
-    "animeTitle": "Blue Archive the Animation",
-    "animeImg": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "id": "blue-archive-the-animation",
+    "epId": "blue-archive-the-animation-episode-5",
+    "title": "Blue Archive the Animation",
+    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "animeTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-    "animeImg": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
+    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-5",
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "tensei-kizoku-kantei-skill-de-nariagaru",
-    "animeTitle": "Tensei Kizoku, Kantei Skill de Nariagaru",
-    "animeImg": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
+    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
+    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-5",
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "jiisan-baasan-wakagaeru",
-    "animeTitle": "Jiisan Baasan Wakagaeru",
-    "animeImg": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
+    "id": "jiisan-baasan-wakagaeru",
+    "epId": "jiisan-baasan-wakagaeru-episode-5",
+    "title": "Jiisan Baasan Wakagaeru",
+    "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "vampire-dormitory",
-    "animeTitle": "Vampire Dormitory",
-    "animeImg": "https://gogocdn.net/cover/vampire-dormitory.png",
+    "id": "vampire-dormitory",
+    "epId": "vampire-dormitory-episode-5",
+    "title": "Vampire Dormitory",
+    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "shinigami-bocchan-to-kuro-maid-3rd-season",
-    "animeTitle": "Shinigami Bocchan to Kuro Maid 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
+    "id": "shinigami-bocchan-to-kuro-maid-3rd-season",
+    "epId": "shinigami-bocchan-to-kuro-maid-3rd-season-episode-5",
+    "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
+    "img": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "chibi-maruko-chan",
-    "animeTitle": "Chibi Maruko-chan",
-    "animeImg": "https://gogocdn.net/cover/chibi-maruko-chan.png",
+    "id": "chibi-maruko-chan",
+    "epId": "chibi-maruko-chan-episode-1429",
+    "title": "Chibi Maruko-chan",
+    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
     "episode": "Episode 1429"
   },
   {
-    "animeId": "hibike-euphonium-3",
-    "animeTitle": "Hibike! Euphonium 3",
-    "animeImg": "https://gogocdn.net/cover/hibike-euphonium-3.png",
+    "id": "hibike-euphonium-3",
+    "epId": "hibike-euphonium-3-episode-5",
+    "title": "Hibike! Euphonium 3",
+    "img": "https://gogocdn.net/cover/hibike-euphonium-3.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "atashinchi-movie",
-    "animeTitle": "Atashinchi Movie",
-    "animeImg": "https://gogocdn.net/cover/atashinchi-movie.png",
+    "id": "atashinchi-movie",
+    "epId": "atashinchi-movie-episode-1",
+    "title": "Atashinchi Movie",
+    "img": "https://gogocdn.net/cover/atashinchi-movie.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "captain-tsubasa-season-2-junior-youth-hen",
-    "animeTitle": "Captain Tsubasa Season 2: Junior Youth-hen",
-    "animeImg": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
+    "id": "captain-tsubasa-season-2-junior-youth-hen",
+    "epId": "captain-tsubasa-season-2-junior-youth-hen-episode-31",
+    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+    "img": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
     "episode": "Episode 31"
   },
   {
-    "animeId": "masou-gakuen-hxh-uncensored",
-    "animeTitle": "Masou Gakuen HxH (Uncensored)",
-    "animeImg": "https://gogocdn.net/cover/masou-gakuen-hxh-uncensored.png",
+    "id": "masou-gakuen-hxh-uncensored",
+    "epId": "masou-gakuen-hxh-uncensored-episode-12",
+    "title": "Masou Gakuen HxH (Uncensored)",
+    "img": "https://gogocdn.net/cover/masou-gakuen-hxh-uncensored.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "yozakura-san-chi-no-daisakusen",
-    "animeTitle": "Yozakura-san Chi no Daisakusen",
-    "animeImg": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
+    "id": "yozakura-san-chi-no-daisakusen",
+    "epId": "yozakura-san-chi-no-daisakusen-episode-5",
+    "title": "Yozakura-san Chi no Daisakusen",
+    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "ninja-kamui",
-    "animeTitle": "Ninja Kamui",
-    "animeImg": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
+    "id": "ninja-kamui",
+    "epId": "ninja-kamui-episode-13",
+    "title": "Ninja Kamui",
+    "img": "https://gogocdn.net/cover/ninja-kamui-1708402702.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "bakugan-battle-brawlers-gundalian-invaders",
-    "animeTitle": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-3",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 3"
   },
   {
-    "animeId": "beyblade-x",
-    "animeTitle": "Beyblade X",
-    "animeImg": "https://gogocdn.net/cover/beyblade-x.png",
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-29",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 29"
   },
   {
-    "animeId": "one-piece",
-    "animeTitle": "One Piece",
-    "animeImg": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "id": "one-piece",
+    "epId": "one-piece-episode-1103",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
     "episode": "Episode 1103"
   },
   {
-    "animeId": "wonderful-precure",
-    "animeTitle": "Wonderful Precure!",
-    "animeImg": "https://gogocdn.net/cover/wonderful-precure.png",
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-14",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
     "episode": "Episode 14"
   },
   {
-    "animeId": "sasayaku-you-ni-koi-wo-utau",
-    "animeTitle": "Sasayaku You ni Koi wo Utau",
-    "animeImg": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
+    "id": "sasayaku-you-ni-koi-wo-utau",
+    "epId": "sasayaku-you-ni-koi-wo-utau-episode-4",
+    "title": "Sasayaku You ni Koi wo Utau",
+    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "tonari-no-youkai-san",
-    "animeTitle": "Tonari no Youkai-san",
-    "animeImg": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "id": "tonari-no-youkai-san",
+    "epId": "tonari-no-youkai-san-episode-5",
+    "title": "Tonari no Youkai-san",
+    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "karasu-wa-aruji-wo-erabanai",
-    "animeTitle": "Karasu wa Aruji wo Erabanai",
-    "animeImg": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
+    "id": "karasu-wa-aruji-wo-erabanai",
+    "epId": "karasu-wa-aruji-wo-erabanai-episode-5",
+    "title": "Karasu wa Aruji wo Erabanai",
+    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "chouriki-robo-galatt",
-    "animeTitle": "Chouriki Robo Galatt",
-    "animeImg": "https://gogocdn.net/cover/chouriki-robo-galatt.png",
+    "id": "chouriki-robo-galatt",
+    "epId": "chouriki-robo-galatt-episode-19",
+    "title": "Chouriki Robo Galatt",
+    "img": "https://gogocdn.net/cover/chouriki-robo-galatt.png",
     "episode": "Episode 19"
   },
   {
-    "animeId": "the-new-gate",
-    "animeTitle": "The New Gate",
-    "animeImg": "https://gogocdn.net/cover/the-new-gate.png",
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-4",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "yoru-no-kurage-wa-oyogenai",
-    "animeTitle": "Yoru no Kurage wa Oyogenai",
-    "animeImg": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "id": "yoru-no-kurage-wa-oyogenai",
+    "epId": "yoru-no-kurage-wa-oyogenai-episode-5",
+    "title": "Yoru no Kurage wa Oyogenai",
+    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "the-fable",
-    "animeTitle": "The Fable",
-    "animeImg": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "id": "the-fable",
+    "epId": "the-fable-episode-5",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "kuroshitsuji-kishuku-gakkou-hen",
-    "animeTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "animeImg": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-4",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "kaijuu-8-gou",
-    "animeTitle": "Kaijuu 8-gou",
-    "animeImg": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
+    "id": "kaijuu-8-gou",
+    "epId": "kaijuu-8-gou-episode-4",
+    "title": "Kaijuu 8-gou",
+    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "one-room-hiatari-futsuu-tenshi-tsuki",
-    "animeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
-    "animeImg": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
+    "id": "one-room-hiatari-futsuu-tenshi-tsuki",
+    "epId": "one-room-hiatari-futsuu-tenshi-tsuki-episode-6",
+    "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+    "img": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "detective-conan",
-    "animeTitle": "Detective Conan",
-    "animeImg": "https://gogocdn.net/cover/detective-conan.png",
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1122",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
     "episode": "Episode 1122"
   },
   {
-    "animeId": "boku-no-hero-academia-7th-season",
-    "animeTitle": "Boku no Hero Academia 7th Season",
-    "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-1",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "pokemon-shinsaku-anime",
-    "animeTitle": "Pokemon (Shinsaku Anime)",
-    "animeImg": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-48",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
     "episode": "Episode 48"
   },
   {
-    "animeId": "shadowverse-flame-arc-hen",
-    "animeTitle": "Shadowverse Flame: Arc-hen",
-    "animeImg": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
+    "id": "shadowverse-flame-arc-hen",
+    "epId": "shadowverse-flame-arc-hen-episode-4",
+    "title": "Shadowverse Flame: Arc-hen",
+    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "ooi-tonbo",
-    "animeTitle": "Ooi! Tonbo",
-    "animeImg": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
+    "id": "ooi-tonbo",
+    "epId": "ooi-tonbo-episode-5",
+    "title": "Ooi! Tonbo",
+    "img": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "highspeed-etoile",
-    "animeTitle": "Highspeed Etoile",
-    "animeImg": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "id": "highspeed-etoile",
+    "epId": "highspeed-etoile-episode-5",
+    "title": "Highspeed Etoile",
+    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "the-idolmster-shiny-colors",
-    "animeTitle": "The iDOLM@STER Shiny Colors",
-    "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
+    "id": "the-idolmster-shiny-colors",
+    "epId": "the-idolmster-shiny-colors-episode-5",
+    "title": "The iDOLM@STER Shiny Colors",
+    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "girls-band-cry",
-    "animeTitle": "Girls Band Cry",
-    "animeImg": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
+    "id": "girls-band-cry",
+    "epId": "girls-band-cry-episode-5",
+    "title": "Girls Band Cry",
+    "img": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
-    "animeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
-    "animeImg": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
+    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
+    "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-4",
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+    "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "mahouka-koukou-no-rettousei-3rd-season",
-    "animeTitle": "Mahouka Koukou no Rettousei 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
+    "id": "mahouka-koukou-no-rettousei-3rd-season",
+    "epId": "mahouka-koukou-no-rettousei-3rd-season-episode-5",
+    "title": "Mahouka Koukou no Rettousei 3rd Season",
+    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
-    "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-5",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "astro-note",
-    "animeTitle": "Astro Note",
-    "animeImg": "https://gogocdn.net/cover/astro-note.png",
+    "id": "astro-note",
+    "epId": "astro-note-episode-5",
+    "title": "Astro Note",
+    "img": "https://gogocdn.net/cover/astro-note.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "nijiyon-animation-2",
-    "animeTitle": "Nijiyon Animation 2",
-    "animeImg": "https://gogocdn.net/cover/nijiyon-animation-2.png",
+    "id": "nijiyon-animation-2",
+    "epId": "nijiyon-animation-2-episode-5",
+    "title": "Nijiyon Animation 2",
+    "img": "https://gogocdn.net/cover/nijiyon-animation-2.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "boku-no-oldies-wa-all-color",
-    "animeTitle": "Boku no Oldies wa All Color",
-    "animeImg": "https://gogocdn.net/cover/boku-no-oldies-wa-all-color.png",
+    "id": "boku-no-oldies-wa-all-color",
+    "epId": "boku-no-oldies-wa-all-color-episode-1",
+    "title": "Boku no Oldies wa All Color",
+    "img": "https://gogocdn.net/cover/boku-no-oldies-wa-all-color.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "eternity-memories",
-    "animeTitle": "Eternity Memories",
-    "animeImg": "https://gogocdn.net/cover/eternity-memories.png",
+    "id": "eternity-memories",
+    "epId": "eternity-memories-episode-1",
+    "title": "Eternity Memories",
+    "img": "https://gogocdn.net/cover/eternity-memories.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "t-p-bon",
-    "animeTitle": "T.P BON",
-    "animeImg": "https://gogocdn.net/cover/t-p-bon.png",
+    "id": "t-p-bon",
+    "epId": "t-p-bon-episode-12",
+    "title": "T.P BON",
+    "img": "https://gogocdn.net/cover/t-p-bon.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "enter-the-garden",
-    "animeTitle": "Enter the Garden",
-    "animeImg": "https://gogocdn.net/cover/enter-the-garden.png",
+    "id": "enter-the-garden",
+    "epId": "enter-the-garden-episode-1",
+    "title": "Enter the Garden",
+    "img": "https://gogocdn.net/cover/enter-the-garden.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "dr-slump-arale-chan",
-    "animeTitle": "Dr. Slump: Arale-chan",
-    "animeImg": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
+    "id": "dr-slump-arale-chan",
+    "epId": "dr-slump-arale-chan-episode-158",
+    "title": "Dr. Slump: Arale-chan",
+    "img": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
     "episode": "Episode 158"
   },
   {
-    "animeId": "sand-land-the-series",
-    "animeTitle": "Sand Land: The Series",
-    "animeImg": "https://gogocdn.net/cover/sand-land-the-series.png",
+    "id": "sand-land-the-series",
+    "epId": "sand-land-the-series-episode-13",
+    "title": "Sand Land: The Series",
+    "img": "https://gogocdn.net/cover/sand-land-the-series.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "akuma-kun",
-    "animeTitle": "Akuma-kun",
-    "animeImg": "https://gogocdn.net/cover/akuma-kun.png",
+    "id": "akuma-kun",
+    "epId": "akuma-kun-episode-10",
+    "title": "Akuma-kun",
+    "img": "https://gogocdn.net/cover/akuma-kun.png",
     "episode": "Episode 10"
   },
   {
-    "animeId": "sentai-daishikkaku",
-    "animeTitle": "Sentai Daishikkaku",
-    "animeImg": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
+    "id": "sentai-daishikkaku",
+    "epId": "sentai-daishikkaku-episode-4",
+    "title": "Sentai Daishikkaku",
+    "img": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
-    "animeTitle": "Meitou ",
-    "animeImg": "https://gogocdn.net/cover/meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita.png",
+    "id": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
+    "epId": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita-episode-12",
+    "title": "Meitou ",
+    "img": "https://gogocdn.net/cover/meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "boku-no-hero-academia-memories",
-    "animeTitle": "Boku no Hero Academia: Memories",
-    "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png",
+    "id": "boku-no-hero-academia-memories",
+    "epId": "boku-no-hero-academia-memories-episode-4",
+    "title": "Boku no Hero Academia: Memories",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-memories.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "oishinbo",
-    "animeTitle": "Oishinbo",
-    "animeImg": "https://gogocdn.net/cover/oishinbo.png",
+    "id": "oishinbo",
+    "epId": "oishinbo-episode-48",
+    "title": "Oishinbo",
+    "img": "https://gogocdn.net/cover/oishinbo.png",
     "episode": "Episode 48"
   },
   {
-    "animeId": "deltora-quest",
-    "animeTitle": "Deltora Quest",
-    "animeImg": "https://gogocdn.net/images/anime/D/deltora-quest.jpg",
+    "id": "deltora-quest",
+    "epId": "deltora-quest-episode-65",
+    "title": "Deltora Quest",
+    "img": "https://gogocdn.net/images/anime/D/deltora-quest.jpg",
     "episode": "Episode 65"
   },
   {
-    "animeId": "mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami",
-    "animeTitle": "Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami",
-    "animeImg": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami.png",
+    "id": "mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami",
+    "epId": "mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami-episode-1",
+    "title": "Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami",
+    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-vs-mahou-no-tenshi-creamy-mami.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "mahou-no-princess-minky-momo",
-    "animeTitle": "Mahou no Princess Minky Momo",
-    "animeImg": "https://gogocdn.net/cover/mahou-no-princess-minky-momo.png",
+    "id": "mahou-no-princess-minky-momo",
+    "epId": "mahou-no-princess-minky-momo-episode-63",
+    "title": "Mahou no Princess Minky Momo",
+    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo.png",
     "episode": "Episode 63"
   },
   {
-    "animeId": "paripi-koumei-road-to-summer-sonia",
-    "animeTitle": "Paripi Koumei: Road to Summer Sonia",
-    "animeImg": "https://gogocdn.net/cover/paripi-koumei-road-to-summer-sonia.png",
+    "id": "paripi-koumei-road-to-summer-sonia",
+    "epId": "paripi-koumei-road-to-summer-sonia-episode-1",
+    "title": "Paripi Koumei: Road to Summer Sonia",
+    "img": "https://gogocdn.net/cover/paripi-koumei-road-to-summer-sonia.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "anima-yell-ouen-douga",
-    "animeTitle": "Anima Yell! Ouen Douga",
-    "animeImg": "https://gogocdn.net/cover/anima-yell-ouen-douga.png",
+    "id": "anima-yell-ouen-douga",
+    "epId": "anima-yell-ouen-douga-episode-12",
+    "title": "Anima Yell! Ouen Douga",
+    "img": "https://gogocdn.net/cover/anima-yell-ouen-douga.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "stratos-4-ova",
-    "animeTitle": "Stratos 4 OVA",
-    "animeImg": "https://gogocdn.net/cover/stratos-4-ova.png",
+    "id": "stratos-4-ova",
+    "epId": "stratos-4-ova-episode-2",
+    "title": "Stratos 4 OVA",
+    "img": "https://gogocdn.net/cover/stratos-4-ova.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou",
-    "animeTitle": "Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou",
-    "animeImg": "https://gogocdn.net/cover/atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou.png",
+    "id": "atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou",
+    "epId": "atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou-episode-1",
+    "title": "Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou",
+    "img": "https://gogocdn.net/cover/atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "rakudai-majo-fuuka-to-yami-no-majo",
-    "animeTitle": "Rakudai Majo: Fuuka to Yami no Majo",
-    "animeImg": "https://gogocdn.net/cover/rakudai-majo-fuuka-to-yami-no-majo-1713846138.png",
+    "id": "rakudai-majo-fuuka-to-yami-no-majo",
+    "epId": "rakudai-majo-fuuka-to-yami-no-majo-episode-1",
+    "title": "Rakudai Majo: Fuuka to Yami no Majo",
+    "img": "https://gogocdn.net/cover/rakudai-majo-fuuka-to-yami-no-majo-1713846138.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "muu-no-hakugei",
-    "animeTitle": "Muu no Hakugei",
-    "animeImg": "https://gogocdn.net/cover/muu-no-hakugei.png",
+    "id": "muu-no-hakugei",
+    "epId": "muu-no-hakugei-episode-1",
+    "title": "Muu no Hakugei",
+    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "mahou-no-tenshi-creamy-mami-zutto-kitto-motto",
-    "animeTitle": "Mahou no Tenshi Creamy Mami: Zutto Kitto Motto",
-    "animeImg": "https://gogocdn.net/cover/mahou-no-tenshi-creamy-mami-zutto-kitto-motto.png",
+    "id": "mahou-no-tenshi-creamy-mami-zutto-kitto-motto",
+    "epId": "mahou-no-tenshi-creamy-mami-zutto-kitto-motto-episode-1",
+    "title": "Mahou no Tenshi Creamy Mami: Zutto Kitto Motto",
+    "img": "https://gogocdn.net/cover/mahou-no-tenshi-creamy-mami-zutto-kitto-motto.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "kaze-no-invitation",
-    "animeTitle": "Kaze no Invitation",
-    "animeImg": "https://gogocdn.net/cover/kaze-no-invitation.png",
+    "id": "kaze-no-invitation",
+    "epId": "kaze-no-invitation-episode-1",
+    "title": "Kaze no Invitation",
+    "img": "https://gogocdn.net/cover/kaze-no-invitation.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "mahou-no-yousei-persia-escape",
-    "animeTitle": "Mahou no Yousei Persia: Escape!",
-    "animeImg": "https://gogocdn.net/cover/mahou-no-yousei-persia-escape.png",
+    "id": "mahou-no-yousei-persia-escape",
+    "epId": "mahou-no-yousei-persia-escape-episode-1",
+    "title": "Mahou no Yousei Persia: Escape!",
+    "img": "https://gogocdn.net/cover/mahou-no-yousei-persia-escape.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "gunma-chan-season-2",
-    "animeTitle": "Gunma-chan Season 2",
-    "animeImg": "https://gogocdn.net/cover/gunma-chan-season-2.png",
+    "id": "gunma-chan-season-2",
+    "epId": "gunma-chan-season-2-episode-2",
+    "title": "Gunma-chan Season 2",
+    "img": "https://gogocdn.net/cover/gunma-chan-season-2.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "magicaltaruruuto-kun",
-    "animeTitle": "Magical\u2605Taruruuto-kun",
-    "animeImg": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
+    "id": "magicaltaruruuto-kun",
+    "epId": "magicaltaruruuto-kun-episode-50",
+    "title": "Magical\u2605Taruruuto-kun",
+    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 50"
   },
   {
-    "animeId": "cardfight-vanguard-divinez",
-    "animeTitle": "Cardfight!! Vanguard: Divinez",
-    "animeImg": "https://gogocdn.net/cover/cardfight-vanguard-divinez.png",
+    "id": "cardfight-vanguard-divinez",
+    "epId": "cardfight-vanguard-divinez-episode-13",
+    "title": "Cardfight!! Vanguard: Divinez",
+    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "idol-land-pripara",
-    "animeTitle": "Idol Land PriPara",
-    "animeImg": "https://gogocdn.net/cover/idol-land-pripara.png",
+    "id": "idol-land-pripara",
+    "epId": "idol-land-pripara-episode-7",
+    "title": "Idol Land PriPara",
+    "img": "https://gogocdn.net/cover/idol-land-pripara.png",
     "episode": "Episode 7"
   },
   {
-    "animeId": "grimm-kumikyoku",
-    "animeTitle": "Grimm Kumikyoku",
-    "animeImg": "https://gogocdn.net/cover/grimm-kumikyoku.png",
+    "id": "grimm-kumikyoku",
+    "epId": "grimm-kumikyoku-episode-6",
+    "title": "Grimm Kumikyoku",
+    "img": "https://gogocdn.net/cover/grimm-kumikyoku.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "iwa-kakeru-sport-climbing-girls",
-    "animeTitle": "Iwa Kakeru!: Sport Climbing Girls",
-    "animeImg": "https://gogocdn.net/cover/iwa-kakeru-sport-climbing-girls.png",
+    "id": "iwa-kakeru-sport-climbing-girls",
+    "epId": "iwa-kakeru-sport-climbing-girls-episode-2",
+    "title": "Iwa Kakeru!: Sport Climbing Girls",
+    "img": "https://gogocdn.net/cover/iwa-kakeru-sport-climbing-girls.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "atashinchi",
-    "animeTitle": "Atashin'chi",
-    "animeImg": "https://gogocdn.net/cover/atashinchi.png",
+    "id": "atashinchi",
+    "epId": "atashinchi-episode-368",
+    "title": "Atashin'chi",
+    "img": "https://gogocdn.net/cover/atashinchi.png",
     "episode": "Episode 368"
   },
   {
-    "animeId": "junk-boy",
-    "animeTitle": "Junk Boy",
-    "animeImg": "https://gogocdn.net/cover/junk-boy.png",
+    "id": "junk-boy",
+    "epId": "junk-boy-episode-1",
+    "title": "Junk Boy",
+    "img": "https://gogocdn.net/cover/junk-boy.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "minami-no-niji-no-lucy",
-    "animeTitle": "Minami no Niji no Lucy",
-    "animeImg": "https://gogocdn.net/cover/minami-no-niji-no-lucy.png",
+    "id": "minami-no-niji-no-lucy",
+    "epId": "minami-no-niji-no-lucy-episode-50",
+    "title": "Minami no Niji no Lucy",
+    "img": "https://gogocdn.net/cover/minami-no-niji-no-lucy.png",
     "episode": "Episode 50"
   },
   {
-    "animeId": "bakugan-battle-brawlers-new-vestroia",
-    "animeTitle": "Bakugan Battle Brawlers: New Vestroia",
-    "animeImg": "https://gogocdn.net/cover/bakugan-battle-brawlers-new-vestroia.png",
+    "id": "bakugan-battle-brawlers-new-vestroia",
+    "epId": "bakugan-battle-brawlers-new-vestroia-episode-52",
+    "title": "Bakugan Battle Brawlers: New Vestroia",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-new-vestroia.png",
     "episode": "Episode 52"
   },
   {
-    "animeId": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol",
-    "animeTitle": "One Piece: Log of Rivalry! The Straw Hats and Cipher Pol",
-    "animeImg": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
+    "id": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol",
+    "epId": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol-episode-1",
+    "title": "One Piece: Log of Rivalry! The Straw Hats and Cipher Pol",
+    "img": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "super-dragon-ball-heroes-meteor-mission",
-    "animeTitle": "Super Dragon Ball Heroes Meteor Mission",
-    "animeImg": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
+    "id": "super-dragon-ball-heroes-meteor-mission",
+    "epId": "super-dragon-ball-heroes-meteor-mission-episode-4",
+    "title": "Super Dragon Ball Heroes Meteor Mission",
+    "img": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
     "episode": "Episode 4"
   },
   {
-    "animeId": "kurayukaba",
-    "animeTitle": "Kurayukaba",
-    "animeImg": "https://gogocdn.net/cover/kurayukaba.png",
+    "id": "kurayukaba",
+    "epId": "kurayukaba-episode-1",
+    "title": "Kurayukaba",
+    "img": "https://gogocdn.net/cover/kurayukaba.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "kuramerukagari",
-    "animeTitle": "Kuramerukagari",
-    "animeImg": "https://gogocdn.net/cover/kuramerukagari.png",
+    "id": "kuramerukagari",
+    "epId": "kuramerukagari-episode-1",
+    "title": "Kuramerukagari",
+    "img": "https://gogocdn.net/cover/kuramerukagari.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "geats-extra-geats-anime-another-grand-prix",
-    "animeTitle": "Geats Extra: Geats Anime - Another Grand Prix",
-    "animeImg": "https://gogocdn.net/cover/geats-extra-geats-anime-another-grand-prix.png",
+    "id": "geats-extra-geats-anime-another-grand-prix",
+    "epId": "geats-extra-geats-anime-another-grand-prix-episode-8",
+    "title": "Geats Extra: Geats Anime - Another Grand Prix",
+    "img": "https://gogocdn.net/cover/geats-extra-geats-anime-another-grand-prix.png",
     "episode": "Episode 8"
   },
   {
-    "animeId": "oomuro-ke-dear-sisters",
-    "animeTitle": "Oomuro-ke: Dear Sisters",
-    "animeImg": "https://gogocdn.net/cover/oomuro-ke-dear-sisters.png",
+    "id": "oomuro-ke-dear-sisters",
+    "epId": "oomuro-ke-dear-sisters-episode-1",
+    "title": "Oomuro-ke: Dear Sisters",
+    "img": "https://gogocdn.net/cover/oomuro-ke-dear-sisters.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "gekai-elise-mini-drama",
-    "animeTitle": "Gekai Elise - Mini Drama",
-    "animeImg": "https://gogocdn.net/cover/gekai-elise-mini-drama.png",
+    "id": "gekai-elise-mini-drama",
+    "epId": "gekai-elise-mini-drama-episode-12",
+    "title": "Gekai Elise - Mini Drama",
+    "img": "https://gogocdn.net/cover/gekai-elise-mini-drama.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "shaman-king-flowers",
-    "animeTitle": "Shaman King: Flowers",
-    "animeImg": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
+    "id": "shaman-king-flowers",
+    "epId": "shaman-king-flowers-episode-13",
+    "title": "Shaman King: Flowers",
+    "img": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "sf-saiyuuki-starzinger",
-    "animeTitle": "SF Saiyuuki Starzinger",
-    "animeImg": "https://gogocdn.net/cover/sf-saiyuuki-starzinger.png",
+    "id": "sf-saiyuuki-starzinger",
+    "epId": "sf-saiyuuki-starzinger-episode-72",
+    "title": "SF Saiyuuki Starzinger",
+    "img": "https://gogocdn.net/cover/sf-saiyuuki-starzinger.png",
     "episode": "Episode 72"
   },
   {
-    "animeId": "tousouchuu-great-mission",
-    "animeTitle": "Tousouchuu: Great Mission",
-    "animeImg": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-50",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
     "episode": "Episode 50"
   },
   {
-    "animeId": "yami-shibai-12",
-    "animeTitle": "Yami Shibai 12",
-    "animeImg": "https://gogocdn.net/cover/yami-shibai-12.png",
+    "id": "yami-shibai-12",
+    "epId": "yami-shibai-12-episode-13",
+    "title": "Yami Shibai 12",
+    "img": "https://gogocdn.net/cover/yami-shibai-12.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "shadowverse-flame-special",
-    "animeTitle": "Shadowverse Flame Special",
-    "animeImg": "https://gogocdn.net/cover/shadowverse-flame-special.png",
+    "id": "shadowverse-flame-special",
+    "epId": "shadowverse-flame-special-episode-3",
+    "title": "Shadowverse Flame Special",
+    "img": "https://gogocdn.net/cover/shadowverse-flame-special.png",
     "episode": "Episode 3"
   },
   {
-    "animeId": "bucchigiri",
-    "animeTitle": "Bucchigiri?!",
-    "animeImg": "https://gogocdn.net/cover/bucchigiri-2-1704168535.png",
+    "id": "bucchigiri",
+    "epId": "bucchigiri-episode-12",
+    "title": "Bucchigiri?!",
+    "img": "https://gogocdn.net/cover/bucchigiri-2-1704168535.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "snack-basue",
-    "animeTitle": "Snack Basue",
-    "animeImg": "https://gogocdn.net/cover/snack-basue.png",
+    "id": "snack-basue",
+    "epId": "snack-basue-episode-13",
+    "title": "Snack Basue",
+    "img": "https://gogocdn.net/cover/snack-basue.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "majo-to-yajuu",
-    "animeTitle": "Majo to Yajuu",
-    "animeImg": "https://gogocdn.net/cover/majo-to-yajuu-1704187164.png",
+    "id": "majo-to-yajuu",
+    "epId": "majo-to-yajuu-episode-12",
+    "title": "Majo to Yajuu",
+    "img": "https://gogocdn.net/cover/majo-to-yajuu-1704187164.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "metallic-rouge",
-    "animeTitle": "Metallic Rouge",
-    "animeImg": "https://gogocdn.net/cover/metallic-rouge-1708570180.png",
+    "id": "metallic-rouge",
+    "epId": "metallic-rouge-episode-13",
+    "title": "Metallic Rouge",
+    "img": "https://gogocdn.net/cover/metallic-rouge-1708570180.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "sengoku-youko",
-    "animeTitle": "Sengoku Youko",
-    "animeImg": "https://gogocdn.net/cover/sengoku-youko-1708569912.png",
+    "id": "sengoku-youko",
+    "epId": "sengoku-youko-episode-13",
+    "title": "Sengoku Youko",
+    "img": "https://gogocdn.net/cover/sengoku-youko-1708569912.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "kingdom-5th-season-chinese-name",
-    "animeTitle": "Kingdom 5th Season (Chinese Name)",
-    "animeImg": "https://gogocdn.net/cover/kingdom-5th-season-chinese-name.png",
+    "id": "kingdom-5th-season-chinese-name",
+    "epId": "kingdom-5th-season-chinese-name-episode-13",
+    "title": "Kingdom 5th Season (Chinese Name)",
+    "img": "https://gogocdn.net/cover/kingdom-5th-season-chinese-name.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "nanatsu-no-taizai-mokushiroku-no-yonkishi",
-    "animeTitle": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-    "animeImg": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-1708395198.png",
+    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi",
+    "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-24",
+    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+    "img": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-1708395198.png",
     "episode": "Episode 24"
   },
   {
-    "animeId": "kingdom-5th-season",
-    "animeTitle": "Kingdom 5th Season",
-    "animeImg": "https://gogocdn.net/cover/kingdom-5th-season-1704186249.png",
+    "id": "kingdom-5th-season",
+    "epId": "kingdom-5th-season-episode-13",
+    "title": "Kingdom 5th Season",
+    "img": "https://gogocdn.net/cover/kingdom-5th-season-1704186249.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-    "animeTitle": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-    "animeImg": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-1698288586.png",
+    "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+    "epId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-episode-25",
+    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+    "img": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-1698288586.png",
     "episode": "Episode 25"
   },
   {
-    "animeId": "ochibi-san",
-    "animeTitle": "Ochibi-san",
-    "animeImg": "https://gogocdn.net/cover/ochibi-san.png",
+    "id": "ochibi-san",
+    "epId": "ochibi-san-episode-24",
+    "title": "Ochibi-san",
+    "img": "https://gogocdn.net/cover/ochibi-san.png",
     "episode": "Episode 24"
   },
   {
-    "animeId": "boku-no-kokoro-no-yabai-yatsu-season-2",
-    "animeTitle": "Boku no Kokoro no Yabai Yatsu Season 2",
-    "animeImg": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-season-2-1704168450.png",
+    "id": "boku-no-kokoro-no-yabai-yatsu-season-2",
+    "epId": "boku-no-kokoro-no-yabai-yatsu-season-2-episode-13",
+    "title": "Boku no Kokoro no Yabai Yatsu Season 2",
+    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-season-2-1704168450.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "ore-dake-level-up-na-ken",
-    "animeTitle": "Ore dake Level Up na Ken",
-    "animeImg": "https://gogocdn.net/cover/ore-dake-level-up-na-ken-1708917521.png",
+    "id": "ore-dake-level-up-na-ken",
+    "epId": "ore-dake-level-up-na-ken-episode-12",
+    "title": "Ore dake Level Up na Ken",
+    "img": "https://gogocdn.net/cover/ore-dake-level-up-na-ken-1708917521.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "ragna-crimson",
-    "animeTitle": "Ragna Crimson",
-    "animeImg": "https://gogocdn.net/cover/ragna-crimson-1698304218.png",
+    "id": "ragna-crimson",
+    "epId": "ragna-crimson-episode-24",
+    "title": "Ragna Crimson",
+    "img": "https://gogocdn.net/cover/ragna-crimson-1698304218.png",
     "episode": "Episode 24"
   },
   {
-    "animeId": "mashle-2nd-season",
-    "animeTitle": "Mashle 2nd Season",
-    "animeImg": "https://gogocdn.net/cover/mashle-2nd-season-1708568890.png",
+    "id": "mashle-2nd-season",
+    "epId": "mashle-2nd-season-episode-12",
+    "title": "Mashle 2nd Season",
+    "img": "https://gogocdn.net/cover/mashle-2nd-season-1708568890.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "yume-senshi-wingman",
-    "animeTitle": "Yume Senshi Wingman",
-    "animeImg": "https://gogocdn.net/cover/yume-senshi-wingman.png",
+    "id": "yume-senshi-wingman",
+    "epId": "yume-senshi-wingman-episode-22",
+    "title": "Yume Senshi Wingman",
+    "img": "https://gogocdn.net/cover/yume-senshi-wingman.png",
     "episode": "Episode 22"
   },
   {
-    "animeId": "detective-conan-kid-vs-komei-the-targeted-lips",
-    "animeTitle": "Detective Conan - Kid vs. Komei - The Targeted Lips",
-    "animeImg": "https://gogocdn.net/cover/detective-conan-kid-vs-komei-the-targeted-lips.png",
+    "id": "detective-conan-kid-vs-komei-the-targeted-lips",
+    "epId": "detective-conan-kid-vs-komei-the-targeted-lips-episode-1",
+    "title": "Detective Conan - Kid vs. Komei - The Targeted Lips",
+    "img": "https://gogocdn.net/cover/detective-conan-kid-vs-komei-the-targeted-lips.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin",
-    "animeTitle": "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin",
-    "animeImg": "https://gogocdn.net/cover/chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-1704169353.png",
+    "id": "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin",
+    "epId": "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-episode-13",
+    "title": "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin",
+    "img": "https://gogocdn.net/cover/chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-1704169353.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
-    "animeTitle": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
-    "animeImg": "https://gogocdn.net/cover/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-1704248035.png",
+    "id": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
+    "epId": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-episode-12",
+    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+    "img": "https://gogocdn.net/cover/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-1704248035.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "meitantei-conan-vs-kaitou-kid",
-    "animeTitle": "Meitantei Conan vs. Kaitou Kid",
-    "animeImg": "https://gogocdn.net/cover/meitantei-conan-vs-kaitou-kid.png",
+    "id": "meitantei-conan-vs-kaitou-kid",
+    "epId": "meitantei-conan-vs-kaitou-kid-episode-1",
+    "title": "Meitantei Conan vs. Kaitou Kid",
+    "img": "https://gogocdn.net/cover/meitantei-conan-vs-kaitou-kid.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "seigi-wo-aisuru-mono-gekkou-kamen",
-    "animeTitle": "Seigi wo Aisuru Mono Gekkou Kamen",
-    "animeImg": "https://gogocdn.net/cover/seigi-wo-aisuru-mono-gekkou-kamen.png",
+    "id": "seigi-wo-aisuru-mono-gekkou-kamen",
+    "epId": "seigi-wo-aisuru-mono-gekkou-kamen-episode-3",
+    "title": "Seigi wo Aisuru Mono Gekkou Kamen",
+    "img": "https://gogocdn.net/cover/seigi-wo-aisuru-mono-gekkou-kamen.png",
     "episode": "Episode 3"
   },
   {
-    "animeId": "yuuki-bakuhatsu-bang-bravern",
-    "animeTitle": "Yuuki Bakuhatsu Bang Bravern",
-    "animeImg": "https://gogocdn.net/cover/yuuki-bakuhatsu-bang-bravern-1704252414.png",
+    "id": "yuuki-bakuhatsu-bang-bravern",
+    "epId": "yuuki-bakuhatsu-bang-bravern-episode-12",
+    "title": "Yuuki Bakuhatsu Bang Bravern",
+    "img": "https://gogocdn.net/cover/yuuki-bakuhatsu-bang-bravern-1704252414.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "gekkan-mousou-kagaku",
-    "animeTitle": "Gekkan Mousou Kagaku",
-    "animeImg": "https://gogocdn.net/cover/gekkan-mousou-kagaku-1704169853.png",
+    "id": "gekkan-mousou-kagaku",
+    "epId": "gekkan-mousou-kagaku-episode-12",
+    "title": "Gekkan Mousou Kagaku",
+    "img": "https://gogocdn.net/cover/gekkan-mousou-kagaku-1704169853.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "stitch-perfect-memory",
-    "animeTitle": "Stitch! Perfect Memory",
-    "animeImg": "https://gogocdn.net/cover/stitch-perfect-memory.png",
+    "id": "stitch-perfect-memory",
+    "epId": "stitch-perfect-memory-episode-2",
+    "title": "Stitch! Perfect Memory",
+    "img": "https://gogocdn.net/cover/stitch-perfect-memory.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "stitch-to-suna-no-wakusei",
-    "animeTitle": "Stitch to Suna no Wakusei",
-    "animeImg": "https://gogocdn.net/cover/stitch-to-suna-no-wakusei.png",
+    "id": "stitch-to-suna-no-wakusei",
+    "epId": "stitch-to-suna-no-wakusei-episode-2",
+    "title": "Stitch to Suna no Wakusei",
+    "img": "https://gogocdn.net/cover/stitch-to-suna-no-wakusei.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
-    "animeTitle": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
-    "animeImg": "https://gogocdn.net/cover/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii.png",
+    "id": "30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
+    "epId": "30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii-episode-12",
+    "title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
+    "img": "https://gogocdn.net/cover/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "mahou-shoujo-ni-akogarete",
-    "animeTitle": "Mahou Shoujo ni Akogarete",
-    "animeImg": "https://gogocdn.net/cover/mahou-shoujo-ni-akogarete-1704187057.png",
+    "id": "mahou-shoujo-ni-akogarete",
+    "epId": "mahou-shoujo-ni-akogarete-episode-13",
+    "title": "Mahou Shoujo ni Akogarete",
+    "img": "https://gogocdn.net/cover/mahou-shoujo-ni-akogarete-1704187057.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
-    "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-    "animeImg": "https://gogocdn.net/cover/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season-1704252258.png",
+    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+    "epId": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-13",
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+    "img": "https://gogocdn.net/cover/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season-1704252258.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "gekai-elise",
-    "animeTitle": "Gekai Elise",
-    "animeImg": "https://gogocdn.net/cover/gekai-elise-1708567768.png",
+    "id": "gekai-elise",
+    "epId": "gekai-elise-episode-12",
+    "title": "Gekai Elise",
+    "img": "https://gogocdn.net/cover/gekai-elise-1708567768.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "jaku-chara-tomozaki-kun-2nd-stage",
-    "animeTitle": "Jaku-Chara Tomozaki-kun 2nd Stage",
-    "animeImg": "https://gogocdn.net/cover/jaku-chara-tomozaki-kun-2nd-stage-1704186096.png",
+    "id": "jaku-chara-tomozaki-kun-2nd-stage",
+    "epId": "jaku-chara-tomozaki-kun-2nd-stage-episode-13",
+    "title": "Jaku-Chara Tomozaki-kun 2nd Stage",
+    "img": "https://gogocdn.net/cover/jaku-chara-tomozaki-kun-2nd-stage-1704186096.png",
     "episode": "Episode 13"
   },
   {
-    "animeId": "the-borgman-last-battle",
-    "animeTitle": "The Borgman: Last Battle",
-    "animeImg": "https://gogocdn.net/cover/the-borgman-last-battle.png",
+    "id": "the-borgman-last-battle",
+    "epId": "the-borgman-last-battle-episode-1",
+    "title": "The Borgman: Last Battle",
+    "img": "https://gogocdn.net/cover/the-borgman-last-battle.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "chouon-senshi-borgman-lovers-rain",
-    "animeTitle": "Chouon Senshi Borgman: Lovers Rain",
-    "animeImg": "https://gogocdn.net/cover/chouon-senshi-borgman-lovers-rain.png",
+    "id": "chouon-senshi-borgman-lovers-rain",
+    "epId": "chouon-senshi-borgman-lovers-rain-episode-1",
+    "title": "Chouon Senshi Borgman: Lovers Rain",
+    "img": "https://gogocdn.net/cover/chouon-senshi-borgman-lovers-rain.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "hajimete-no-futarikkiri-ryokou",
-    "animeTitle": "Hajimete no Futarikkiri Ryokou",
-    "animeImg": "https://gogocdn.net/cover/hajimete-no-futarikkiri-ryokou.png",
+    "id": "hajimete-no-futarikkiri-ryokou",
+    "epId": "hajimete-no-futarikkiri-ryokou-episode-1",
+    "title": "Hajimete no Futarikkiri Ryokou",
+    "img": "https://gogocdn.net/cover/hajimete-no-futarikkiri-ryokou.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "sousou-no-frieren-no-mahou",
-    "animeTitle": "Sousou no Frieren: \u25cf\u25cf no Mahou",
-    "animeImg": "https://gogocdn.net/cover/sousou-no-frieren-no-mahou.png",
+    "id": "sousou-no-frieren-no-mahou",
+    "epId": "sousou-no-frieren-no-mahou-episode-12",
+    "title": "Sousou no Frieren: \u25cf\u25cf no Mahou",
+    "img": "https://gogocdn.net/cover/sousou-no-frieren-no-mahou.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
-    "animeTitle": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
-    "animeImg": "https://gogocdn.net/cover/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-1704167871.png",
+    "id": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+    "epId": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-episode-12",
+    "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+    "img": "https://gogocdn.net/cover/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-1704167871.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "yokohama-meibutsu-otoko-katayama-gumi",
-    "animeTitle": "Yokohama Meibutsu: Otoko Katayama-gumi!",
-    "animeImg": "https://gogocdn.net/cover/yokohama-meibutsu-otoko-katayama-gumi.png",
+    "id": "yokohama-meibutsu-otoko-katayama-gumi",
+    "epId": "yokohama-meibutsu-otoko-katayama-gumi-episode-2",
+    "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+    "img": "https://gogocdn.net/cover/yokohama-meibutsu-otoko-katayama-gumi.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "shin-shounan-bakusouzoku-arakure-knight",
-    "animeTitle": "Shin Shounan Bakusouzoku Arakure Knight",
-    "animeImg": "https://gogocdn.net/cover/shin-shounan-bakusouzoku-arakure-knight.png",
+    "id": "shin-shounan-bakusouzoku-arakure-knight",
+    "epId": "shin-shounan-bakusouzoku-arakure-knight-episode-2",
+    "title": "Shin Shounan Bakusouzoku Arakure Knight",
+    "img": "https://gogocdn.net/cover/shin-shounan-bakusouzoku-arakure-knight.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "owarimonogatari",
-    "animeTitle": "Owarimonogatari",
-    "animeImg": "https://gogocdn.net/images/upload/177264.jpg",
+    "id": "owarimonogatari",
+    "epId": "owarimonogatari-episode-13",
+    "title": "Owarimonogatari",
+    "img": "https://gogocdn.net/images/upload/177264.jpg",
     "episode": "Episode 13"
   },
   {
-    "animeId": "otokogi",
-    "animeTitle": "Otokogi",
-    "animeImg": "https://gogocdn.net/cover/otokogi.png",
+    "id": "otokogi",
+    "epId": "otokogi-episode-2",
+    "title": "Otokogi",
+    "img": "https://gogocdn.net/cover/otokogi.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "getter-robo-go",
-    "animeTitle": "Getter Robo Go",
-    "animeImg": "https://gogocdn.net/cover/getter-robo-go.png",
+    "id": "getter-robo-go",
+    "epId": "getter-robo-go-episode-27",
+    "title": "Getter Robo Go",
+    "img": "https://gogocdn.net/cover/getter-robo-go.png",
     "episode": "Episode 27"
   },
   {
-    "animeId": "magnerobo-ga-keen",
-    "animeTitle": "Magnerobo Ga-Keen",
-    "animeImg": "https://gogocdn.net/cover/magnerobo-ga-keen.png",
+    "id": "magnerobo-ga-keen",
+    "epId": "magnerobo-ga-keen-episode-27",
+    "title": "Magnerobo Ga-Keen",
+    "img": "https://gogocdn.net/cover/magnerobo-ga-keen.png",
     "episode": "Episode 27"
   },
   {
-    "animeId": "nanako-sos",
-    "animeTitle": "Nanako SOS",
-    "animeImg": "https://gogocdn.net/cover/nanako-sos.png",
+    "id": "nanako-sos",
+    "epId": "nanako-sos-episode-5",
+    "title": "Nanako SOS",
+    "img": "https://gogocdn.net/cover/nanako-sos.png",
     "episode": "Episode 5"
   },
   {
-    "animeId": "oroka-na-tenshi-wa-akuma-to-odoru",
-    "animeTitle": "Oroka na Tenshi wa Akuma to Odoru",
-    "animeImg": "https://gogocdn.net/cover/oroka-na-tenshi-wa-akuma-to-odoru-1704247848.png",
+    "id": "oroka-na-tenshi-wa-akuma-to-odoru",
+    "epId": "oroka-na-tenshi-wa-akuma-to-odoru-episode-12",
+    "title": "Oroka na Tenshi wa Akuma to Odoru",
+    "img": "https://gogocdn.net/cover/oroka-na-tenshi-wa-akuma-to-odoru-1704247848.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "dosanko-gal-wa-namara-menkoi",
-    "animeTitle": "Dosanko Gal wa Namara Menkoi",
-    "animeImg": "https://gogocdn.net/cover/dosanko-gal-wa-namara-menkoi-1708569614.png",
+    "id": "dosanko-gal-wa-namara-menkoi",
+    "epId": "dosanko-gal-wa-namara-menkoi-episode-12",
+    "title": "Dosanko Gal wa Namara Menkoi",
+    "img": "https://gogocdn.net/cover/dosanko-gal-wa-namara-menkoi-1708569614.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "synduality-noir-part-2",
-    "animeTitle": "Synduality: Noir Part 2",
-    "animeImg": "https://gogocdn.net/cover/synduality-noir-part-2-1708400288.png",
+    "id": "synduality-noir-part-2",
+    "epId": "synduality-noir-part-2-episode-12",
+    "title": "Synduality: Noir Part 2",
+    "img": "https://gogocdn.net/cover/synduality-noir-part-2-1708400288.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "himesama-goumon-no-jikan-desu",
-    "animeTitle": "Himesama ",
-    "animeImg": "https://gogocdn.net/cover/himesama-goumon-no-jikan-desu-1704184795.png",
+    "id": "himesama-goumon-no-jikan-desu",
+    "epId": "himesama-goumon-no-jikan-desu-episode-12",
+    "title": "Himesama ",
+    "img": "https://gogocdn.net/cover/himesama-goumon-no-jikan-desu-1704184795.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "high-card-season-2",
-    "animeTitle": "High Card Season 2",
-    "animeImg": "https://gogocdn.net/cover/high-card-season-2.png",
+    "id": "high-card-season-2",
+    "epId": "high-card-season-2-episode-12",
+    "title": "High Card Season 2",
+    "img": "https://gogocdn.net/cover/high-card-season-2.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "araiguma-rascal",
-    "animeTitle": "Araiguma Rascal",
-    "animeImg": "https://gogocdn.net/cover/araiguma-rascal.png",
+    "id": "araiguma-rascal",
+    "epId": "araiguma-rascal-episode-48",
+    "title": "Araiguma Rascal",
+    "img": "https://gogocdn.net/cover/araiguma-rascal.png",
     "episode": "Episode 48"
   },
   {
-    "animeId": "kyuujitsu-no-warumono-san",
-    "animeTitle": "Kyuujitsu no Warumono-san",
-    "animeImg": "https://gogocdn.net/cover/kyuujitsu-no-warumono-san-1708915495.png",
+    "id": "kyuujitsu-no-warumono-san",
+    "epId": "kyuujitsu-no-warumono-san-episode-12",
+    "title": "Kyuujitsu no Warumono-san",
+    "img": "https://gogocdn.net/cover/kyuujitsu-no-warumono-san-1708915495.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd",
-    "animeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
-    "animeImg": "https://gogocdn.net/cover/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd-1704249955.png",
+    "id": "shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd",
+    "epId": "shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd-episode-12",
+    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
+    "img": "https://gogocdn.net/cover/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd-1704249955.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru",
-    "animeTitle": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
-    "animeImg": "https://gogocdn.net/cover/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru.png",
+    "id": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru",
+    "epId": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru-episode-12",
+    "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
+    "img": "https://gogocdn.net/cover/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "chouon-senshi-borgman-2-shinseiki-2058",
-    "animeTitle": "Chouon Senshi Borgman 2: Shinseiki 2058",
-    "animeImg": "https://gogocdn.net/cover/chouon-senshi-borgman-2-shinseiki-2058.png",
+    "id": "chouon-senshi-borgman-2-shinseiki-2058",
+    "epId": "chouon-senshi-borgman-2-shinseiki-2058-episode-3",
+    "title": "Chouon Senshi Borgman 2: Shinseiki 2058",
+    "img": "https://gogocdn.net/cover/chouon-senshi-borgman-2-shinseiki-2058.png",
     "episode": "Episode 3"
   },
   {
-    "animeId": "future-war-198x-nen",
-    "animeTitle": "Future War 198X-nen",
-    "animeImg": "https://gogocdn.net/cover/future-war-198x-nen.png",
+    "id": "future-war-198x-nen",
+    "epId": "future-war-198x-nen-episode-1",
+    "title": "Future War 198X-nen",
+    "img": "https://gogocdn.net/cover/future-war-198x-nen.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "kyomu-senshi-miroku",
-    "animeTitle": "Kyomu Senshi Miroku",
-    "animeImg": "https://gogocdn.net/cover/kyomu-senshi-miroku.png",
+    "id": "kyomu-senshi-miroku",
+    "epId": "kyomu-senshi-miroku-episode-6",
+    "title": "Kyomu Senshi Miroku",
+    "img": "https://gogocdn.net/cover/kyomu-senshi-miroku.png",
     "episode": "Episode 6"
   },
   {
-    "animeId": "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru",
-    "animeTitle": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
-    "animeImg": "https://gogocdn.net/cover/saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru-1704248612.png",
+    "id": "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru",
+    "epId": "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru-episode-12",
+    "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
+    "img": "https://gogocdn.net/cover/saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru-1704248612.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "kusuriya-no-hitorigoto",
-    "animeTitle": "Kusuriya no Hitorigoto",
-    "animeImg": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
+    "id": "kusuriya-no-hitorigoto",
+    "epId": "kusuriya-no-hitorigoto-episode-24",
+    "title": "Kusuriya no Hitorigoto",
+    "img": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
     "episode": "Episode 24"
   },
   {
-    "animeId": "ao-no-exorcist-shimane-illuminati-hen",
-    "animeTitle": "Ao no Exorcist: Shimane Illuminati-hen",
-    "animeImg": "https://gogocdn.net/cover/ao-no-exorcist-shimane-illuminati-hen-1704168077.png",
+    "id": "ao-no-exorcist-shimane-illuminati-hen",
+    "epId": "ao-no-exorcist-shimane-illuminati-hen-episode-12",
+    "title": "Ao no Exorcist: Shimane Illuminati-hen",
+    "img": "https://gogocdn.net/cover/ao-no-exorcist-shimane-illuminati-hen-1704168077.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "yubisaki-to-renren",
-    "animeTitle": "Yubisaki to Renren",
-    "animeImg": "https://gogocdn.net/cover/yubisaki-to-renren-1704252298.png",
+    "id": "yubisaki-to-renren",
+    "epId": "yubisaki-to-renren-episode-12",
+    "title": "Yubisaki to Renren",
+    "img": "https://gogocdn.net/cover/yubisaki-to-renren-1704252298.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "kekkon-yubiwa-monogatari",
-    "animeTitle": "Kekkon Yubiwa Monogatari",
-    "animeImg": "https://gogocdn.net/cover/kekkon-yubiwa-monogatari-1704186162.png",
+    "id": "kekkon-yubiwa-monogatari",
+    "epId": "kekkon-yubiwa-monogatari-episode-12",
+    "title": "Kekkon Yubiwa Monogatari",
+    "img": "https://gogocdn.net/cover/kekkon-yubiwa-monogatari-1704186162.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "megumi-no-daigo-kyuukoku-no-orange",
-    "animeTitle": "Megumi no Daigo: Kyuukoku no Orange",
-    "animeImg": "https://gogocdn.net/cover/megumi-no-daigo-kyuukoku-no-orange-1695095703.png",
+    "id": "megumi-no-daigo-kyuukoku-no-orange",
+    "epId": "megumi-no-daigo-kyuukoku-no-orange-episode-23",
+    "title": "Megumi no Daigo: Kyuukoku no Orange",
+    "img": "https://gogocdn.net/cover/megumi-no-daigo-kyuukoku-no-orange-1695095703.png",
     "episode": "Episode 23"
   },
   {
-    "animeId": "pon-no-michi",
-    "animeTitle": "Pon no Michi",
-    "animeImg": "https://gogocdn.net/cover/pon-no-michi-1708915930.png",
+    "id": "pon-no-michi",
+    "epId": "pon-no-michi-episode-12",
+    "title": "Pon no Michi",
+    "img": "https://gogocdn.net/cover/pon-no-michi-1708915930.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "undead-unluck",
-    "animeTitle": "Undead Unluck",
-    "animeImg": "https://gogocdn.net/cover/undead-unluck-1708403714.png",
+    "id": "undead-unluck",
+    "epId": "undead-unluck-episode-24",
+    "title": "Undead Unluck",
+    "img": "https://gogocdn.net/cover/undead-unluck-1708403714.png",
     "episode": "Episode 24"
   },
   {
-    "animeId": "momochi-san-chi-no-ayakashi-ouji",
-    "animeTitle": "Momochi-san Chi no Ayakashi Ouji",
-    "animeImg": "https://gogocdn.net/cover/momochi-san-chi-no-ayakashi-ouji-1709528725.png",
+    "id": "momochi-san-chi-no-ayakashi-ouji",
+    "epId": "momochi-san-chi-no-ayakashi-ouji-episode-12",
+    "title": "Momochi-san Chi no Ayakashi Ouji",
+    "img": "https://gogocdn.net/cover/momochi-san-chi-no-ayakashi-ouji-1709528725.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "sousou-no-frieren",
-    "animeTitle": "Sousou no Frieren",
-    "animeImg": "https://gogocdn.net/cover/sousou-no-frieren-1696000134.png",
+    "id": "sousou-no-frieren",
+    "epId": "sousou-no-frieren-episode-28",
+    "title": "Sousou no Frieren",
+    "img": "https://gogocdn.net/cover/sousou-no-frieren-1696000134.png",
     "episode": "Episode 28"
   },
   {
-    "animeId": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi",
-    "animeTitle": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
-    "animeImg": "https://gogocdn.net/cover/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi.png",
+    "id": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi",
+    "epId": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi-episode-1",
+    "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
+    "img": "https://gogocdn.net/cover/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "nozomanu-fushi-no-boukensha",
-    "animeTitle": "Nozomanu Fushi no Boukensha",
-    "animeImg": "https://gogocdn.net/cover/nozomanu-fushi-no-boukensha-1704189673.png",
+    "id": "nozomanu-fushi-no-boukensha",
+    "epId": "nozomanu-fushi-no-boukensha-episode-12",
+    "title": "Nozomanu Fushi no Boukensha",
+    "img": "https://gogocdn.net/cover/nozomanu-fushi-no-boukensha-1704189673.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "tobe-kujira-no-peek",
-    "animeTitle": "Tobe! Kujira no Peek",
-    "animeImg": "https://gogocdn.net/cover/tobe-kujira-no-peek.png",
+    "id": "tobe-kujira-no-peek",
+    "epId": "tobe-kujira-no-peek-episode-1",
+    "title": "Tobe! Kujira no Peek",
+    "img": "https://gogocdn.net/cover/tobe-kujira-no-peek.png",
     "episode": "Episode 1"
   },
   {
-    "animeId": "sasaki-to-pii-chan",
-    "animeTitle": "Sasaki to Pii-chan",
-    "animeImg": "https://gogocdn.net/cover/sasaki-to-pii-chan-1704248854.png",
+    "id": "sasaki-to-pii-chan",
+    "epId": "sasaki-to-pii-chan-episode-12",
+    "title": "Sasaki to Pii-chan",
+    "img": "https://gogocdn.net/cover/sasaki-to-pii-chan-1704248854.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
-    "animeTitle": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-    "animeImg": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-1704250425.png",
+    "id": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
+    "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-episode-12",
+    "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+    "img": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-1704250425.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "mato-seihei-no-slave",
-    "animeTitle": "Mato Seihei no Slave",
-    "animeImg": "https://gogocdn.net/cover/mato-seihei-no-slave-1704187347.png",
+    "id": "mato-seihei-no-slave",
+    "epId": "mato-seihei-no-slave-episode-12",
+    "title": "Mato Seihei no Slave",
+    "img": "https://gogocdn.net/cover/mato-seihei-no-slave-1704187347.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "toushinden",
-    "animeTitle": "Toushinden",
-    "animeImg": "https://gogocdn.net/cover/toushinden.png",
+    "id": "toushinden",
+    "epId": "toushinden-episode-2",
+    "title": "Toushinden",
+    "img": "https://gogocdn.net/cover/toushinden.png",
     "episode": "Episode 2"
   },
   {
-    "animeId": "lady-georgie",
-    "animeTitle": "Lady Georgie",
-    "animeImg": "https://gogocdn.net/cover/lady-georgie.png",
+    "id": "lady-georgie",
+    "epId": "lady-georgie-episode-45",
+    "title": "Lady Georgie",
+    "img": "https://gogocdn.net/cover/lady-georgie.png",
     "episode": "Episode 45"
   },
   {
-    "animeId": "kousoku-denjin-albegus",
-    "animeTitle": "Kousoku Denjin Albegus",
-    "animeImg": "https://gogocdn.net/cover/kousoku-denjin-albegus.png",
+    "id": "kousoku-denjin-albegus",
+    "epId": "kousoku-denjin-albegus-episode-3",
+    "title": "Kousoku Denjin Albegus",
+    "img": "https://gogocdn.net/cover/kousoku-denjin-albegus.png",
     "episode": "Episode 3"
   },
   {
-    "animeId": "futari-gurashi",
-    "animeTitle": "Futari Gurashi",
-    "animeImg": "https://gogocdn.net/cover/futari-gurashi.png",
+    "id": "futari-gurashi",
+    "epId": "futari-gurashi-episode-8",
+    "title": "Futari Gurashi",
+    "img": "https://gogocdn.net/cover/futari-gurashi.png",
     "episode": "Episode 8"
   },
   {
-    "animeId": "ishura",
-    "animeTitle": "Ishura",
-    "animeImg": "https://gogocdn.net/cover/ishura-1708570686.png",
+    "id": "ishura",
+    "epId": "ishura-episode-12",
+    "title": "Ishura",
+    "img": "https://gogocdn.net/cover/ishura-1708570686.png",
     "episode": "Episode 12"
   },
   {
-    "animeId": "dog-signal",
-    "animeTitle": "Dog Signal",
-    "animeImg": "https://gogocdn.net/cover/dog-signal-1690447425.png",
+    "id": "dog-signal",
+    "epId": "dog-signal-episode-20",
+    "title": "Dog Signal",
+    "img": "https://gogocdn.net/cover/dog-signal-1690447425.png",
     "episode": "Episode 20"
   },
   {
-    "animeId": "ohayou-spank",
-    "animeTitle": "Ohayou! Spank",
-    "animeImg": "https://gogocdn.net/cover/ohayou-spank.png",
+    "id": "ohayou-spank",
+    "epId": "ohayou-spank-episode-14",
+    "title": "Ohayou! Spank",
+    "img": "https://gogocdn.net/cover/ohayou-spank.png",
     "episode": "Episode 14"
   }
 ]
