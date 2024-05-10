@@ -28,9 +28,10 @@ def scrape_recent_sub_anime():
             for el in soup.select('div.last_episodes.loaddub > ul > li'):
                 ids = el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0]
                 anime_list.append({
-                    'animeId': el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0],
-                    'animeTitle': el.select_one('p.name > a')['title'],
-                    'animeImg': el.select_one('div > a > img')['src'],
+                    'id': el.select_one('p.name > a')['href'].split('/')[1].split('-episode-')[0],
+                    'epId': el.select_one('p.name > a')['href'].split('/')[1],
+                    'title': el.select_one('p.name > a')['title'],
+                    'img': el.select_one('div > a > img')['src'],
                     'episode': el.select_one('p.episode').text.strip()
                     #'animeUrl': BASE_URL + el.select_one('p.name > a')['href']
                 })
