@@ -1,5 +1,17 @@
 [
   {
+    "animeId": "ninjala",
+    "animeTitle": "Ninjala",
+    "animeImg": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 116"
+  },
+  {
+    "animeId": "tondemo-senshi-muteking",
+    "animeTitle": "Tondemo Senshi Muteking",
+    "animeImg": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
+    "episode": "Episode 2"
+  },
+  {
     "animeId": "chiikawa",
     "animeTitle": "Chiikawa",
     "animeImg": "https://gogocdn.net/cover/chiikawa.png",
@@ -472,12 +484,6 @@
     "animeTitle": "Eternity Memories",
     "animeImg": "https://gogocdn.net/cover/eternity-memories.png",
     "episode": "Episode 1"
-  },
-  {
-    "animeId": "ninjala",
-    "animeTitle": "Ninjala",
-    "animeImg": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 115"
   },
   {
     "animeId": "t-p-bon",
@@ -1192,11 +1198,5 @@
     "animeTitle": "Ohayou! Spank",
     "animeImg": "https://gogocdn.net/cover/ohayou-spank.png",
     "episode": "Episode 14"
-  },
-  {
-    "animeId": "choujin-sentai-baratack",
-    "animeTitle": "Choujin Sentai Baratack",
-    "animeImg": "https://gogocdn.net/cover/choujin-sentai-baratack.png",
-    "episode": "Episode 16"
   }
 ]
