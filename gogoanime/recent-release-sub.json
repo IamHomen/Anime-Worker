@@ -140,6 +140,13 @@
     "episode": "Episode 3"
   },
   {
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-5",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "bartender-kami-no-glass",
     "epId": "bartender-kami-no-glass-episode-6",
     "title": "Bartender: Kami no Glass",
@@ -271,13 +278,6 @@
     "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
     "img": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
     "episode": "Episode 18"
-  },
-  {
-    "id": "remonster",
-    "epId": "remonster-episode-6",
-    "title": "Re:Monster",
-    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
-    "episode": "Episode 6"
   },
   {
     "id": "remonster",
@@ -420,6 +420,13 @@
     "episode": "Episode 13"
   },
   {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-3",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-29",
     "title": "Beyblade X",
@@ -543,13 +550,6 @@
     "epId": "ooi-tonbo-episode-5",
     "title": "Ooi! Tonbo",
     "img": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "highspeed-etoile",
-    "epId": "highspeed-etoile-episode-5",
-    "title": "Highspeed Etoile",
-    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
     "episode": "Episode 5"
   },
   {
