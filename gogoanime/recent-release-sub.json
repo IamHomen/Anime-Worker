@@ -1,5 +1,12 @@
 [
   {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-49",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 49"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-5",
     "title": "Shadowverse Flame: Arc-hen",
@@ -131,13 +138,6 @@
     "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
     "img": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "yuru-camp-season-3",
-    "epId": "yuru-camp-season-3-episode-6",
-    "title": "Yuru Camp\u25b3 Season 3",
-    "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 6"
   },
   {
     "id": "yuru-camp-season-3",
@@ -280,6 +280,13 @@
     "episode": "Episode 5"
   },
   {
+    "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+    "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-6",
+    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+    "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "tadaima-okaeri",
     "epId": "tadaima-okaeri-episode-5",
     "title": "Tadaima, Okaeri",
@@ -411,13 +418,6 @@
     "title": "Captain Tsubasa Season 2: Junior Youth-hen",
     "img": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
     "episode": "Episode 31"
-  },
-  {
-    "id": "masou-gakuen-hxh-uncensored",
-    "epId": "masou-gakuen-hxh-uncensored-episode-12",
-    "title": "Masou Gakuen HxH (Uncensored)",
-    "img": "https://gogocdn.net/cover/masou-gakuen-hxh-uncensored.png",
-    "episode": "Episode 12"
   },
   {
     "id": "masou-gakuen-hxh-uncensored",
