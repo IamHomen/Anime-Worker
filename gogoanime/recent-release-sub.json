@@ -420,6 +420,13 @@
     "episode": "Episode 3"
   },
   {
+    "id": "shin-hokuto-no-ken",
+    "epId": "shin-hokuto-no-ken-episode-3",
+    "title": "Shin Hokuto no Ken",
+    "img": "https://gogocdn.net/cover/shin-hokuto-no-ken.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "haai-step-jun",
     "epId": "haai-step-jun-episode-19",
     "title": "Haai Step Jun",
@@ -537,13 +544,6 @@
     "title": "Wonderful Precure!",
     "img": "https://gogocdn.net/cover/wonderful-precure.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "tonari-no-youkai-san",
-    "epId": "tonari-no-youkai-san-episode-5",
-    "title": "Tonari no Youkai-san",
-    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 5"
   },
   {
     "id": "chouriki-robo-galatt",
