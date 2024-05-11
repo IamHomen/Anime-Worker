@@ -20,7 +20,7 @@
 </p>
   <h2 align="center">Homen Anime Worker</h3>
 <br>
-<b>UPDATE DATA EVERY 15 MINUTES</b>
+<b>UPDATE DATA EVERY 3 Hours</b>
 
 <strong>SUPPORTED SITES</strong>
 
