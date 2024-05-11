@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-30",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 30"
+  },
+  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-49",
     "title": "Pokemon (Shinsaku Anime)",
@@ -446,13 +453,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-29",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 29"
   },
   {
     "id": "one-piece",
