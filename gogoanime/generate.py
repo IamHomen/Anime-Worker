@@ -58,7 +58,7 @@ def scrape_popular_anime():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
-        while True:
+        while page_number <= 10:  # Stop scraping at page 10
             popular_page = requests.get(POPULAR_URL + f"?page={page_number}", headers=headers)
             soup = BeautifulSoup(popular_page.content, 'html.parser')
 
@@ -88,7 +88,6 @@ def scrape_popular_anime():
     except Exception as e:
         print(e)
         return {'error': str(e)}
-
 
 popular_ongoing_url = 'https://ajax.gogocdn.net/ajax/page-recent-release-ongoing.html?page=1'
 
