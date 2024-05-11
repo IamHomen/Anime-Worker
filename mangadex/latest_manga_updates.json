@@ -1,5 +1,70 @@
 [
   {
+    "mangaId": "70030054-2499-44c1-92d1-c5d41f0df5a1",
+    "title": {
+      "en": "Ballpark de Tsukamaete!"
+    },
+    "updatedAt": "2024-04-18T00:31:25+00:00",
+    "coverArt": "https://mangadex.org/covers/70030054-2499-44c1-92d1-c5d41f0df5a1/f0635214-7a0b-46b6-bd23-15c0bdb5a40b.jpg",
+    "altTitles": [
+      {
+        "en": "The Catcher in the Ballpark!"
+      },
+      {
+        "ja": "\u30dc\u30fc\u30eb\u30d1\u30fc\u30af\u3067\u3064\u304b\u307e\u3048\u3066\uff01"
+      },
+      {
+        "ko": "\ubcfc\ud30c\ud06c\uc5d0\uc11c \ubd99\uc7a1\uc544\uc918!"
+      }
+    ],
+    "description": {
+      "en": "An office drone finds relief from his job by attending the ballpark close to his daily commute. He asks a vendor girl for a beer, but for some reason, after the transaction she sticks around him\u2026"
+    },
+    "status": "ongoing",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "d3221e7b-e580-4979-952b-e42db85fb03c",
+    "title": {
+      "en": "Ore no Koto ga Daikirai na Imouto ga Kowai"
+    },
+    "updatedAt": "2024-01-30T19:06:31+00:00",
+    "coverArt": "https://mangadex.org/covers/d3221e7b-e580-4979-952b-e42db85fb03c/8d58822e-841d-4137-9c26-919d6bad14a6.jpg",
+    "altTitles": [
+      {
+        "ja": "\u4ffa\u306e\u3053\u3068\u304c\u5927\u5acc\u3044\u306a\u59b9\u304c\u6016\u3044"
+      },
+      {
+        "ja-ro": "Ore no Koto ga Daikirai na Imouto ga Kowai"
+      },
+      {
+        "en": "My Sister Who Cannot Stand Me Is Scary"
+      },
+      {
+        "uk": "\u041c\u043e\u044f \u0441\u0435\u0441\u0442\u0440\u0430, \u044f\u043a\u0430 \u043d\u0435 \u043c\u043e\u0436\u0435 \u043c\u0435\u043d\u0435 \u0442\u0435\u0440\u043f\u0456\u0442\u0438 - \u043b\u044f\u043a\u0430\u0454"
+      },
+      {
+        "ru": "\u041d\u0435\u043d\u0430\u0432\u0438\u0434\u044f\u0449\u0430\u044f \u043c\u0435\u043d\u044f \u0441\u0435\u0441\u0442\u0440\u0451\u043d\u043a\u0430 \u043f\u0443\u0433\u0430\u0435\u0442"
+      },
+      {
+        "id": "Adik Perempuanku yang Membenciku Menyeramkan"
+      }
+    ],
+    "description": {
+      "en": "My little sister hates me, but after our parents made a revelation about the two of us, she suddenly starts liking me... But, in a scary way!?",
+      "ru": "\u041f\u043b\u043e\u0445\u043e, \u043a\u043e\u0433\u0434\u0430 \u0441\u0435\u0441\u0442\u0440\u0430 \u0442\u0435\u0431\u044f \u043d\u0435\u043d\u0430\u0432\u0438\u0434\u0438\u0442. \u0415\u0449\u0451 \u0445\u0443\u0436\u0435, \u043a\u043e\u0433\u0434\u0430 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u0432\u0430\u043c, \u0447\u0442\u043e \u0432\u044b \u043d\u0435 \u0440\u043e\u0434\u043d\u044b\u0435. \u0418 \u0435\u0449\u0451 \u0445\u0443\u0436\u0435, \u043a\u043e\u0433\u0434\u0430 \u043f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u043e\u043d\u0430 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0441\u0442\u0440\u0430\u043d\u043d\u043e \u0441\u0435\u0431\u044f \u0432\u0435\u0441\u0442\u0438...",
+      "pt-br": "Minha irm\u00e3zinha me odeia, mas depois que nossos pais fizeram uma revela\u00e7\u00e3o sobre n\u00f3s dois, de repente, ela come\u00e7ou a gostar de mim... Mas, de uma forma assustadora!?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "cf1c93cc-4bb5-4311-b926-0f02ad123ad2",
     "title": {
       "en": "Imasara desu ga, Osananajimi wo Suki ni Natte Shimaimashita"
@@ -1571,64 +1636,5 @@
     "contentRating": "safe",
     "lastVolume": "18",
     "lastChapter": "157"
-  },
-  {
-    "mangaId": "fe17c1f0-798d-48b2-bb8f-70f475cda79d",
-    "title": {
-      "en": "Sora wo Matotte"
-    },
-    "updatedAt": "2024-05-11T06:24:20+00:00",
-    "coverArt": "https://mangadex.org/covers/fe17c1f0-798d-48b2-bb8f-70f475cda79d/48951dc2-395c-47f1-87aa-8b25bb3dc3b2.jpg",
-    "altTitles": [
-      {
-        "ja": "\u7a7a\u3092\u307e\u3068\u3063\u3066"
-      },
-      {
-        "ja-ro": "Sora o Matotte"
-      },
-      {
-        "en": "Wear the Sky"
-      }
-    ],
-    "description": {
-      "en": "A high school student, Haro Ogawa, is a self-taught oil painter who is trying to paint the ultimate nude. \nAfter an unexpected encounter with a \"witch\", he sets his sights on applying to art school... \nThe mystery that resides in the human body, the ultimate \"beauty\" is painted on canvas! \nA skin-colored coming-of-age drama!",
-      "ja": "\u300c\u4ffa\u3082\u3044\u3064\u304b\u3053\u3093\u306a\u30cc\u30fc\u30c9\u3092\u63cf\u304d\u305f\u3044\u2015\u2015\u300d\u3000\u5e7c\u5c11\u6642\u306b\u898b\u305f\u7d75\u753b\u3001\u300c\u9b54\u5973\u306e\u30cc\u30fc\u30c9\u300d\u306b\u9b45\u5165\u3089\u308c\u305f\u9ad8\u6821\u751f\u30fb\u5c0f\u5ddd\u6ce2\u8def\uff08\u304a\u304c\u308f\u306f\u308d\uff09\u3002\u65e5\u3005\u3001\u72ec\u5b66\u3067\u30cc\u30fc\u30c9\u3092\u63cf\u304f\u5f7c\u306e\u524d\u306b\u73fe\u308c\u305f\u306e\u306f\u3001\u300c\u9b54\u5973\u306e\u30cc\u30fc\u30c9\u300d\u306b\u63cf\u304b\u308c\u305f\u5973\u6027\u306b\u74dc\u4e8c\u3064\u306e\u7f8e\u5973\u3001\u795e\u751f\u4f36\u3060\u3063\u305f\u3002\u30cf\u30ed\u306f\u601d\u308f\u305a\u3001\u4f36\u306b\u30cc\u30fc\u30c9\u30e2\u30c7\u30eb\u306b\u306a\u3063\u3066\u307b\u3057\u3044\u3068\u983c\u307f\u3053\u3080\u304c\u2026!?\u3000\u76ee\u6307\u3059\u306f\u30cc\u30fc\u30c9\u3067\u85dd\u5927\u5408\u683c!!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "936f0ba5-ca65-4de4-99b1-528c02a4454d",
-    "title": {
-      "en": "HUNTER x HUNTER - DIGITAL COLORED COMICS"
-    },
-    "updatedAt": "2023-08-05T20:06:31+00:00",
-    "coverArt": "https://mangadex.org/covers/936f0ba5-ca65-4de4-99b1-528c02a4454d/829e3ac9-1290-4ca9-9cc9-32fe99658868.jpg",
-    "altTitles": [
-      {
-        "en": "Hunter x Hunter"
-      },
-      {
-        "en": "Hunter x Hunter - Digital Colored Comics"
-      },
-      {
-        "en": "Hunter x Hunter (Official Colored)"
-      },
-      {
-        "ja": "\u30cf\u30f3\u30bf\u30fc\u00d7\u30cf\u30f3\u30bf\u30fc"
-      }
-    ],
-    "description": {
-      "en": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other men. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
-      "pt-br": "Vers\u00e3o totalmente colorida do famoso mang\u00e1 \"Hunter x Hunter\". Hunters s\u00e3o uma ra\u00e7a especial, dedicada a rastrear tesouros, animais m\u00e1gicos, e at\u00e9 mesmo outros homens. Mas tais atividades requerem uma licen\u00e7a, e menos de um em cem mil pode passar no exame de qualifica\u00e7\u00e3o esgotante. Aqueles que n\u00e3o passam tem acesso a \u00e1reas restritas, lojas de incr\u00edveis informa\u00e7\u00f5es, bem como o direito de chamar-se de Hunters."
-    },
-    "status": "ongoing",
-    "releaseDate": 2013,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
