@@ -1,5 +1,45 @@
 [
   {
+    "mangaId": "b98c4daf-be1a-46c8-ad83-21d532995240",
+    "title": {
+      "en": "My Food Looks Very Cute"
+    },
+    "updatedAt": "2024-03-06T02:42:26+00:00",
+    "coverArt": "https://mangadex.org/covers/b98c4daf-be1a-46c8-ad83-21d532995240/5a720839-f246-4856-865a-68d53563cc73.png",
+    "altTitles": [
+      {
+        "zh": "\u6211\u7684\u98df\u7269\u770b\u8d77\u6765\u5f88\u53ef\u7231"
+      },
+      {
+        "en": "My Food Seems to Be Very Cute"
+      },
+      {
+        "zh-ro": "W\u01d2 de sh\u00edw\u00f9 k\u00e0n q\u01d0l\u00e1i h\u011bn k\u011b'\u00e0i"
+      },
+      {
+        "zh-hk": "\u6211\u7684\u98df\u7269\u770b\u8d77\u4f86\u5f88\u53ef\u611b"
+      },
+      {
+        "es-la": "Mi comida se ve adorable"
+      },
+      {
+        "id": "Makananku yang Cantik"
+      },
+      {
+        "pl": "Moje jedzonko wygl\u0105da uroczo"
+      }
+    ],
+    "description": {
+      "en": "A vampire who has been sleeping for nearly two hundred years, Maria is awakened by a passing werewolf girl by a chance, and the moment the coffin is opened, the curse falls on the werewolf girl. The two girls set foot on the journey to the city",
+      "es-la": "Maria, una vampiro que hab\u00eda estado durmiendo por casi doscientos a\u00f1os, es despertada por Xing Lan, una chica lobo que pasaba por ah\u00ed. Cuando el ata\u00fad se abre, una maldici\u00f3n cae sobre Xing Lan. Sin embargo, en lugar de asustarse, la inocente Xing Lan cree haber encontrado una excelente compa\u00f1era, y ambas embarcan juntas un viaje a la ciudad. As\u00ed comienza su historia."
+    },
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "e05dd982-6d09-4f3d-8e8e-6c9ae65b5857",
     "title": {
       "en": "Usuzumi no Hate"
@@ -1522,33 +1562,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
-    "title": {
-      "en": "Kimi to Warui Koto ga Shitai"
-    },
-    "updatedAt": "2024-04-17T22:43:45+00:00",
-    "coverArt": "https://mangadex.org/covers/2de8ffd3-25b7-42cd-80e8-32148478c40c/ce3d3bf5-0568-4123-ad38-c26343c48436.jpg",
-    "altTitles": [
-      {
-        "en": "I Wanna Do Bad Things with You"
-      },
-      {
-        "ja": "\u541b\u3068\u60aa\u3044\u3053\u3068\u304c\u3057\u305f\u3044"
-      },
-      {
-        "zh-hk": "\u60f3\u548c\u4f60\u4e00\u8d77\u505a\u58de\u4e8b"
-      }
-    ],
-    "description": {
-      "en": "Mamori Wataya is a tall but dark, plain, and shady high school girl. One day she meets Kanashi Fuji, who has a small, thin body and an evil-looking smile. A supporting character that no one can find and a villain that no one likes. This encounter turns their gray days blue.",
-      "ja": "\u80cc\u306f\u9ad8\u3044\u3051\u3069\u5730\u5473\u3067\u6697\u3044\u8107\u5f79\u5973\u5b50\u30fb\u307e\u3082\u308a\u3002\u5acc\u3044\u3060\u304b\u3089\u3068\u30d7\u30fc\u30eb\u306e\u6c34\u3092\u629c\u304f\u3001\u5b66\u6821\u4e00\u306e\u5acc\u308f\u308c\u8005\u306e\u60aa\u5f79\u7537\u5b50\u30fb\u85e4\u3002\u60aa\u3044\u30e4\u30c4\u306e\u3001\u4e0d\u601d\u8b70\u306a\u5f37\u3055\u306b\u60f9\u304b\u308c\u3066\u3044\u3063\u305f\u305d\u306e\u5148\u306b\u3042\u3063\u305f\u306e\u306f\u3001\u900f\u304d\u901a\u308b\u3088\u3046\u306a\u9752\u3044\u65e5\u3005\u3002"
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "7",
-    "lastChapter": "67"
   }
 ]
