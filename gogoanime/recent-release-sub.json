@@ -1,5 +1,12 @@
 [
   {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-1",
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-6",
     "title": "Shinkalion: Change the World",
@@ -1391,12 +1398,5 @@
     "title": "Dog Signal",
     "img": "https://gogocdn.net/cover/dog-signal-1690447425.png",
     "episode": "Episode 20"
-  },
-  {
-    "id": "ohayou-spank",
-    "epId": "ohayou-spank-episode-14",
-    "title": "Ohayou! Spank",
-    "img": "https://gogocdn.net/cover/ohayou-spank.png",
-    "episode": "Episode 14"
   }
 ]

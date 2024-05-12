@@ -114,6 +114,19 @@
     ]
   },
   {
+    "animeId": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "animeTitle": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "animeImg": "'https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/kimetsu-no-yaiba-hashira-geiko-hen",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Historical",
+      "Shounen"
+    ]
+  },
+  {
     "animeId": "kaijuu-8-gou",
     "animeTitle": "Kaijuu 8-gou",
     "animeImg": "'https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png'",
@@ -125,21 +138,6 @@
       "Military",
       "Sci-Fi",
       "Shounen"
-    ]
-  },
-  {
-    "animeId": "date-a-live-v",
-    "animeTitle": "Date A Live V",
-    "animeImg": "'https://gogocdn.net/cover/date-a-live-v.png'",
-    "latestEp": "Episode 5",
-    "animeUrl": "https://anitaku.so/category/date-a-live-v",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Harem",
-      "Romance",
-      "School",
-      "Sci-Fi"
     ]
   }
 ]
