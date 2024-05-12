@@ -1,5 +1,41 @@
 [
   {
+    "mangaId": "33af412e-8d17-4ce5-90a5-a0857b8cb0ed",
+    "title": {
+      "en": "Yoru no Kurage wa Oyogenai"
+    },
+    "updatedAt": "2024-05-11T17:46:06+00:00",
+    "coverArt": "https://mangadex.org/covers/33af412e-8d17-4ce5-90a5-a0857b8cb0ed/f4db82dd-32a1-442c-93ee-faef9d867a41.jpg",
+    "altTitles": [
+      {
+        "vi": "S\u1ee9a kh\u00f4ng th\u1ec3 b\u01a1i trong \u0111\u00eam"
+      },
+      {
+        "en": "Jellyfish Can't Swim in the Night"
+      },
+      {
+        "ja": "\u591c\u306e\u30af\u30e9\u30b2\u306f\u6cf3\u3052\u306a\u3044"
+      },
+      {
+        "ja-ro": "Yoru no Kurage wa Oyogenai"
+      },
+      {
+        "vi": "\ud867\ude32\u7a7a\u4f53\udb86\udf17\u51b2\ud84c\udf80 (Nom Script)"
+      },
+      {
+        "ja-ro": "YoruKura"
+      }
+    ],
+    "description": {
+      "en": "Four girls, an illustrator, a former idol, a VTuber, and a composer, form an anonymous artist group called \"JELEE\", each pursuing their artistic dreams while supporting one another."
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "639e1bd7-a9a4-46ff-9713-63268497ce43",
     "title": {
       "en": "Haru Matsu Bokura"
@@ -1746,41 +1782,5 @@
     "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "1515d3bb-f8d3-4154-9423-e15f9e3088be",
-    "title": {
-      "en": "Fami-res Iko."
-    },
-    "updatedAt": "2024-05-12T02:45:49+00:00",
-    "coverArt": "https://mangadex.org/covers/1515d3bb-f8d3-4154-9423-e15f9e3088be/0bb81a1d-da06-4553-8e6e-b03f542a3967.png",
-    "altTitles": [
-      {
-        "ja-ro": "Family Restaurant\u200b Iko."
-      },
-      {
-        "en": "Let's go to the FamiRes."
-      },
-      {
-        "en": "Let's go to family restaurant."
-      },
-      {
-        "ja": "\u30d5\u30a1\u30df\u30ec\u30b9\u884c\u3053\u3002"
-      },
-      {
-        "zh": "\u53bb\u6070\u996d\u5427\u3002"
-      },
-      {
-        "zh-hk": "\u53bb\u6070\u98ef\u5427\u3002"
-      }
-    ],
-    "description": {
-      "en": "Satomi Oka moved to Tokyo from Osaka when he entered university. On his way home from a new year's party, he stops by a family restaurant and starts a part-time job...\r\n\r\n---\r\n- The MC is Satomi Oka, from author's previous work, [Let's Go Karaoke!](https://mangadex.org/title/212e9236-c0e3-4e85-ae92-087495820251)"
-    },
-    "status": "ongoing",
-    "releaseDate": 2020,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": null
   }
 ]
