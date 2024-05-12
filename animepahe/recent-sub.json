@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 62693,
+      "anime_id": 4,
+      "anime_title": "One Piece",
+      "anime_session": "a1bf65e0-f5b5-3dfc-a21d-1759ac4adee2",
+      "episode": 1104,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/04a09f3e452aa6f2bd2ba8fb7552dd479ed28ce8b8b4c7ed8acbe8c71a7587a4.jpg",
+      "disc": "",
+      "session": "15495c0dd188389085cafdd04da7443231980a5894787b6bd34c3058de2bb7ab",
+      "filler": 0,
+      "created_at": "2024-05-12 02:05:12",
+      "completed": 0
+    },
+    {
+      "id": 62692,
+      "anime_id": 5495,
+      "anime_title": "Wonderful Precure!",
+      "anime_session": "e4c8c1d8-7323-b09d-cd28-5eda0a6efde4",
+      "episode": 15,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/bf62c39c4e5357aaa583de154db3090c56e24e581fc7022e7af3e91720ab8b27.jpg",
+      "disc": "",
+      "session": "a1672caf50312e0f54734d48d4d0676e1ddb8da05178d80275cf3946a0fee63b",
+      "filler": 0,
+      "created_at": "2024-05-12 01:35:41",
+      "completed": 0
+    },
+    {
       "id": 62691,
       "anime_id": 5554,
       "anime_title": "Tonari no Youkai-san",
@@ -166,38 +198,6 @@
       "session": "70c26bce9d98bbfeccad89099e33e874db0bbacaf12bf1aa2731026af36d5bb2",
       "filler": 0,
       "created_at": "2024-05-11 11:37:52",
-      "completed": 0
-    },
-    {
-      "id": 62681,
-      "anime_id": 5509,
-      "anime_title": "Boku no Hero Academia 7th Season",
-      "anime_session": "c1365d3a-275e-dcb3-ffe6-7aec3b2ba972",
-      "episode": 140,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/5cb93aeff613e264f0e752cc2744ea3c261d34356269fe7dfaa78b7a84ea774d.jpg",
-      "disc": "",
-      "session": "8eed201d0de58150e489abe262fb13e474ee70d6196b19e955ccb82117e467b0",
-      "filler": 0,
-      "created_at": "2024-05-11 09:35:29",
-      "completed": 0
-    },
-    {
-      "id": 62680,
-      "anime_id": 5481,
-      "anime_title": "Beyblade X",
-      "anime_session": "54a615f5-16ca-0659-29db-e0ff143a5b19",
-      "episode": 30,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "HnY",
-      "snapshot": "https://i.animepahe.ru/snapshots/54e95719bdb1480836156d853218f74b5001e07bda34c2f0f3354d6fc4bc33fa.jpg",
-      "disc": "",
-      "session": "b36b76e4566a512614885af7059b1f25cdf92f9446bf989813e99769f5841182",
-      "filler": 0,
-      "created_at": "2024-05-11 06:58:57",
       "completed": 0
     }
   ]
