@@ -1,5 +1,19 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1104",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1104"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-15",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 15"
+  },
+  {
     "id": "tonari-no-youkai-san",
     "epId": "tonari-no-youkai-san-episode-6",
     "title": "Tonari no Youkai-san",
@@ -530,20 +544,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1103",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1103"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-14",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 14"
   },
   {
     "id": "chouriki-robo-galatt",
