@@ -1,5 +1,12 @@
 [
   {
+    "id": "remonster",
+    "epId": "remonster-episode-7",
+    "title": "Re:Monster",
+    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
     "epId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-19",
     "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
@@ -516,13 +523,6 @@
     "title": "Tadaima, Okaeri",
     "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "remonster",
-    "epId": "remonster-episode-6",
-    "title": "Re:Monster",
-    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
-    "episode": "Episode 6"
   },
   {
     "id": "shin-hokuto-no-ken",
