@@ -1,5 +1,19 @@
 [
   {
+    "id": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
+    "epId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-8",
+    "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
+    "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "captain-bal",
+    "epId": "captain-bal-episode-1",
+    "title": "Captain Bal",
+    "img": "https://gogocdn.net/cover/captain-bal.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-1",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
@@ -509,13 +523,6 @@
     "title": "Kami wa Game ni Ueteiru.",
     "img": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
-    "epId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-7",
-    "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
-    "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
-    "episode": "Episode 7"
   },
   {
     "id": "shin-hokuto-no-ken",
@@ -1391,12 +1398,5 @@
     "title": "Ishura",
     "img": "https://gogocdn.net/cover/ishura-1708570686.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "dog-signal",
-    "epId": "dog-signal-episode-20",
-    "title": "Dog Signal",
-    "img": "https://gogocdn.net/cover/dog-signal-1690447425.png",
-    "episode": "Episode 20"
   }
 ]
