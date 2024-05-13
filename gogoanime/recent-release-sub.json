@@ -280,6 +280,13 @@
     "episode": "Episode 5"
   },
   {
+    "id": "ooi-tonbo",
+    "epId": "ooi-tonbo-episode-6",
+    "title": "Ooi! Tonbo",
+    "img": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "highspeed-etoile",
     "epId": "highspeed-etoile-episode-6",
     "title": "Highspeed Etoile",
@@ -411,13 +418,6 @@
     "title": "Dungeon Meshi",
     "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
     "episode": "Episode 19"
-  },
-  {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-3",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 3"
   },
   {
     "id": "jantama-kan",
