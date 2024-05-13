@@ -1,5 +1,19 @@
 [
   {
+    "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+    "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-7",
+    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+    "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "tadaima-okaeri",
+    "epId": "tadaima-okaeri-episode-6",
+    "title": "Tadaima, Okaeri",
+    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "remonster",
     "epId": "remonster-episode-7",
     "title": "Re:Monster",
@@ -266,6 +280,13 @@
     "episode": "Episode 6"
   },
   {
+    "id": "highspeed-etoile",
+    "epId": "highspeed-etoile-episode-6",
+    "title": "Highspeed Etoile",
+    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "the-idolmster-shiny-colors",
     "epId": "the-idolmster-shiny-colors-episode-6",
     "title": "The iDOLM@STER Shiny Colors",
@@ -399,13 +420,6 @@
     "episode": "Episode 3"
   },
   {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-5",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "bartender-kami-no-glass",
     "epId": "bartender-kami-no-glass-episode-6",
     "title": "Bartender: Kami no Glass",
@@ -509,20 +523,6 @@
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
     "img": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
-    "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-6",
-    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-    "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "tadaima-okaeri",
-    "epId": "tadaima-okaeri-episode-5",
-    "title": "Tadaima, Okaeri",
-    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
-    "episode": "Episode 5"
   },
   {
     "id": "shin-hokuto-no-ken",
