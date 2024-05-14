@@ -1,5 +1,12 @@
 [
   {
+    "id": "boukyaku-battery-tv",
+    "epId": "boukyaku-battery-tv-episode-6",
+    "title": "Boukyaku Battery (TV)",
+    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "touken-ranbu-kai-kyoden-moyuru-honnouji",
     "epId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-7",
     "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
@@ -523,13 +530,6 @@
     "title": "Girls & Panzer: Saishuushou Part 4 Specials",
     "img": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-specials.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "boukyaku-battery-tv",
-    "epId": "boukyaku-battery-tv-episode-5",
-    "title": "Boukyaku Battery (TV)",
-    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 5"
   },
   {
     "id": "rinkai",
