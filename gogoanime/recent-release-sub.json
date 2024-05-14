@@ -1,5 +1,12 @@
 [
   {
+    "id": "rinkai",
+    "epId": "rinkai-episode-6",
+    "title": "Rinkai!",
+    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "boukyaku-battery-tv",
     "epId": "boukyaku-battery-tv-episode-6",
     "title": "Boukyaku Battery (TV)",
@@ -131,13 +138,6 @@
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
     "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "shinkalion-change-the-world",
-    "epId": "shinkalion-change-the-world-episode-6",
-    "title": "Shinkalion: Change the World",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 6"
   },
   {
     "id": "blue-archive-the-animation",
@@ -280,6 +280,13 @@
     "episode": "Episode 5"
   },
   {
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-5",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "kaijuu-8-gou",
     "epId": "kaijuu-8-gou-episode-5",
     "title": "Kaijuu 8-gou",
@@ -411,13 +418,6 @@
     "title": "Tondemo Senshi Muteking",
     "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-91",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 91"
   },
   {
     "id": "urusei-yatsura-2022-2nd-season",
