@@ -140,6 +140,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "shinkalion-change-the-world",
+    "epId": "shinkalion-change-the-world-episode-6",
+    "title": "Shinkalion: Change the World",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "blue-archive-the-animation",
     "epId": "blue-archive-the-animation-episode-6",
     "title": "Blue Archive the Animation",
@@ -271,13 +278,6 @@
     "title": "Yoru no Kurage wa Oyogenai",
     "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-5",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 5"
   },
   {
     "id": "kuroshitsuji-kishuku-gakkou-hen",
@@ -420,6 +420,13 @@
     "episode": "Episode 2"
   },
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-91",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 91"
+  },
+  {
     "id": "urusei-yatsura-2022-2nd-season",
     "epId": "urusei-yatsura-2022-2nd-season-episode-17",
     "title": "Urusei Yatsura (2022) 2nd Season",
@@ -530,13 +537,6 @@
     "title": "Girls & Panzer: Saishuushou Part 4 Specials",
     "img": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-specials.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "rinkai",
-    "epId": "rinkai-episode-5",
-    "title": "Rinkai!",
-    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 5"
   },
   {
     "id": "kinnikuman",
