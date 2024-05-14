@@ -1,5 +1,12 @@
 [
   {
+    "id": "anime-tenchou-movie",
+    "epId": "anime-tenchou-movie-episode-1",
+    "title": "Anime Tenchou Movie",
+    "img": "https://gogocdn.net/cover/anime-tenchou-movie.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "shin-hakkenden",
     "epId": "shin-hakkenden-episode-26",
     "title": "Shin Hakkenden",
@@ -1391,12 +1398,5 @@
     "title": "Lady Georgie",
     "img": "https://gogocdn.net/cover/lady-georgie.png",
     "episode": "Episode 45"
-  },
-  {
-    "id": "kousoku-denjin-albegus",
-    "epId": "kousoku-denjin-albegus-episode-3",
-    "title": "Kousoku Denjin Albegus",
-    "img": "https://gogocdn.net/cover/kousoku-denjin-albegus.png",
-    "episode": "Episode 3"
   }
 ]
