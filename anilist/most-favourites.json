@@ -368,20 +368,20 @@
     "format": "TV"
   },
   {
-    "id": 20605,
-    "title": "Tokyo Ghoul",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
-    "seasonYear": 2014,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 120377,
     "title": "Cyberpunk: Edgerunners",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
     "seasonYear": 2022,
     "totalEpisode": 10,
     "format": "ONA"
+  },
+  {
+    "id": 20605,
+    "title": "Tokyo Ghoul",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
+    "seasonYear": 2014,
+    "totalEpisode": 12,
+    "format": "TV"
   },
   {
     "id": 19,
