@@ -1,5 +1,12 @@
 [
   {
+    "id": "virtua-fighter",
+    "epId": "virtua-fighter-episode-35",
+    "title": "Virtua Fighter",
+    "img": "https://gogocdn.net/cover/virtua-fighter.png",
+    "episode": "Episode 35"
+  },
+  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-4",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -1391,12 +1398,5 @@
     "title": "Futari Gurashi",
     "img": "https://gogocdn.net/cover/futari-gurashi.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "ishura",
-    "epId": "ishura-episode-12",
-    "title": "Ishura",
-    "img": "https://gogocdn.net/cover/ishura-1708570686.png",
-    "episode": "Episode 12"
   }
 ]
