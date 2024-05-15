@@ -1,5 +1,33 @@
 [
   {
+    "id": "chibi-godzilla-no-gyakushuu",
+    "epId": "chibi-godzilla-no-gyakushuu-episode-13",
+    "title": "Chibi Godzilla no Gyakushuu",
+    "img": "https://gogocdn.net/cover/chibi-godzilla-no-gyakushuu.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-6",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "harinezumi-no-luchika",
+    "epId": "harinezumi-no-luchika-episode-1",
+    "title": "Harinezumi no Luchika",
+    "img": "https://gogocdn.net/cover/harinezumi-no-luchika.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bartender-kami-no-glass",
+    "epId": "bartender-kami-no-glass-episode-7",
+    "title": "Bartender: Kami no Glass",
+    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
     "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-6",
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
@@ -516,20 +544,6 @@
     "title": "Jantama Kan!!",
     "img": "https://gogocdn.net/cover/jantama-kan.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-5",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "bartender-kami-no-glass",
-    "epId": "bartender-kami-no-glass-episode-6",
-    "title": "Bartender: Kami no Glass",
-    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
-    "episode": "Episode 6"
   },
   {
     "id": "girls-panzer-saishuushou-part-4-specials",
@@ -1384,19 +1398,5 @@
     "title": "Mato Seihei no Slave",
     "img": "https://gogocdn.net/cover/mato-seihei-no-slave-1704187347.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "toushinden",
-    "epId": "toushinden-episode-2",
-    "title": "Toushinden",
-    "img": "https://gogocdn.net/cover/toushinden.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "lady-georgie",
-    "epId": "lady-georgie-episode-45",
-    "title": "Lady Georgie",
-    "img": "https://gogocdn.net/cover/lady-georgie.png",
-    "episode": "Episode 45"
   }
 ]
