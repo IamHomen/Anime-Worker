@@ -1,5 +1,83 @@
 [
   {
+    "mangaId": "32f6b67e-6aa6-4834-aa79-24137046b679",
+    "title": {
+      "en": "Perfect Appearance"
+    },
+    "updatedAt": "2022-02-09T00:57:02+00:00",
+    "coverArt": "https://mangadex.org/covers/32f6b67e-6aa6-4834-aa79-24137046b679/8c47a1a5-2787-48f7-b847-acd861860ee4.png",
+    "altTitles": [
+      {
+        "en": "Perfect Looks"
+      },
+      {
+        "en": "\u5b8c\u7f8e\u957f\u76f8"
+      }
+    ],
+    "description": {
+      "en": "A prince found a mysterious potion that is thought to make one more beautiful, so he gave it to his knight. However\u2026"
+    },
+    "status": "completed",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "6"
+  },
+  {
+    "mangaId": "65f1f473-c7fa-4de2-adf5-00167af31740",
+    "title": {
+      "en": "Higurashi no Naku Koro ni Rei - Irotoutoshi-hen"
+    },
+    "updatedAt": "2024-01-10T16:48:30+00:00",
+    "coverArt": "https://mangadex.org/covers/65f1f473-c7fa-4de2-adf5-00167af31740/b504286f-92ac-4481-9c0b-a28d7a38c5d2.jpg",
+    "altTitles": [
+      {
+        "ja": "\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b\u4ee4 \u8272\u5c0a\u3057\u7de8"
+      }
+    ],
+    "description": {
+      "en": "Sequel to Higurashi no Naku Koro Ni Hoshiwatashi-hen and Higurashi no Naku Koro Ni Oniokoshi-hen."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "d0f9e331-e022-4b49-8399-e14091d8b703",
+    "title": {
+      "en": "Listening to the Stars"
+    },
+    "updatedAt": "2023-11-02T18:59:00+00:00",
+    "coverArt": "https://mangadex.org/covers/d0f9e331-e022-4b49-8399-e14091d8b703/c4c39f29-bf9a-4cc6-808c-07dd70385f2e.png",
+    "altTitles": [
+      {
+        "zh": "\u542c\u661f"
+      },
+      {
+        "zh-hk": "\u807d\u661f"
+      },
+      {
+        "ru": "\u0421\u043b\u0443\u0448\u0430\u044f \u0437\u0432\u0451\u0437\u0434\u044b"
+      },
+      {
+        "zh-ro": "T\u012bng X\u012bng"
+      },
+      {
+        "pl": "Ws\u0142uchana w gwiazdy"
+      }
+    ],
+    "description": {
+      "en": "Having suffered several setbacks in her attempt to be a voice actor, Chi Yu no longer dares to bring up her hobby of dubbing in front of others. Instead, she covertly tunes in to voice drama broadcasts on Lily Radio. One day, during a public lecture at her university, she discovers that Yu Chen from the neighboring college shares a strikingly similar voice to the host of Lily Radio."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "a93959d7-4a4a-4f80-88f7-921af3ca9ade",
     "title": {
       "en": "Oneesan ga Shinryakuchuu!?"
@@ -42,37 +120,28 @@
     "lastChapter": ""
   },
   {
-    "mangaId": "d0f9e331-e022-4b49-8399-e14091d8b703",
+    "mangaId": "8c1fae54-f7d1-47ea-99d7-162a1365e09b",
     "title": {
-      "en": "Listening to the Stars"
+      "en": "Kannagi no Yomeiri"
     },
-    "updatedAt": "2023-11-02T18:59:00+00:00",
-    "coverArt": "https://mangadex.org/covers/d0f9e331-e022-4b49-8399-e14091d8b703/c4c39f29-bf9a-4cc6-808c-07dd70385f2e.png",
+    "updatedAt": "2024-04-11T02:43:09+00:00",
+    "coverArt": "https://mangadex.org/covers/8c1fae54-f7d1-47ea-99d7-162a1365e09b/5740af1c-8c37-46c1-9de8-c5aad09dcee8.jpg",
     "altTitles": [
       {
-        "zh": "\u542c\u661f"
+        "ja": "\u5deb\u306e\u5ac1\u5165\u308a"
       },
       {
-        "zh-hk": "\u807d\u661f"
-      },
-      {
-        "ru": "\u0421\u043b\u0443\u0448\u0430\u044f \u0437\u0432\u0451\u0437\u0434\u044b"
-      },
-      {
-        "zh-ro": "T\u012bng X\u012bng"
-      },
-      {
-        "pl": "Ws\u0142uchana w gwiazdy"
+        "en": "The Marriage of a Miko"
       }
     ],
     "description": {
-      "en": "Having suffered several setbacks in her attempt to be a voice actor, Chi Yu no longer dares to bring up her hobby of dubbing in front of others. Instead, she covertly tunes in to voice drama broadcasts on Lily Radio. One day, during a public lecture at her university, she discovers that Yu Chen from the neighboring college shares a strikingly similar voice to the host of Lily Radio."
+      "en": "Can they become a real couple?\n\nYoshioki, the eldest son of the village head family, takes Chitose, the descendant of the shrine maiden family, as his wife according to the village customs.\nYoshioki is furious when it is discovered that the bride is actually a \"man\"\nMoreover, Chitose is beautiful, but he\nis taciturn and unfriendly.\n\nTheir married life, which began as a temporary couple, was full of things that didn't go well, but after a certain incident, he came to know Chitose's true nature!?"
     },
-    "status": "ongoing",
-    "releaseDate": 2023,
+    "status": "completed",
+    "releaseDate": 2022,
     "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
+    "lastVolume": "1",
+    "lastChapter": "5.5"
   },
   {
     "mangaId": "8f0c74f4-5068-4f22-b4d9-af184632b65d",
@@ -1911,82 +1980,5 @@
     "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "0f7126c6-2131-4588-8080-348afe960969",
-    "title": {
-      "en": "Cardfight!! Vanguard SkyRide"
-    },
-    "updatedAt": "2024-02-12T21:00:29+00:00",
-    "coverArt": "https://mangadex.org/covers/0f7126c6-2131-4588-8080-348afe960969/ee6bf054-55e6-4048-9e0d-708c5a0668b4.png",
-    "altTitles": [
-      {
-        "en": "Vanguard SkyRide"
-      }
-    ],
-    "description": {
-      "en": "A single encounter with a card will take you to the skies!\nThe Card Game that Soars through the Skies, this is Vanguard's New series, 'SkyRide'!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "a79e2584-c08e-4bc8-9293-8a441b6802d6",
-    "title": {
-      "en": "Otagai Dondon Hamatteiku Kyouikugakari to Shinnyuushain"
-    },
-    "updatedAt": "2024-02-02T18:01:33+00:00",
-    "coverArt": "https://mangadex.org/covers/a79e2584-c08e-4bc8-9293-8a441b6802d6/7c61bd15-3fc0-4c01-ae56-e925d577b101.jpg",
-    "altTitles": [
-      {
-        "ja": "\u304a\u4e92\u3044\u3069\u3093\u3069\u3093\u30cf\u30de\u3063\u3066\u3044\u304f\u6559\u80b2\u4fc2\u3068\u65b0\u5165\u793e\u54e1"
-      },
-      {
-        "ja-ro": "Otagai Dondon Hamatteiku Kyouikugakari to Shinnyuushain"
-      },
-      {
-        "en": "The Mentor and the New Employee Who are Getting More and More Into Each Other"
-      }
-    ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "55"
-  },
-  {
-    "mangaId": "c4dc73a4-8b82-4ebe-b427-ce14362a5e06",
-    "title": {
-      "en": "Touhou - Koishi the Loving Gourmet (Doujinshi)"
-    },
-    "updatedAt": "2023-06-03T03:37:47+00:00",
-    "coverArt": "https://mangadex.org/covers/c4dc73a4-8b82-4ebe-b427-ce14362a5e06/170d5ed5-ea00-48b7-af55-7828ffd9fab1.jpg",
-    "altTitles": [
-      {
-        "en": "Koishi the Loving Gourmet"
-      },
-      {
-        "ja-ro": "Koishi no Gurume"
-      },
-      {
-        "ja": "\u604b\u601d\u306e\u30b0\u30eb\u30e1"
-      },
-      {
-        "vi": "Koishi s\u00e0nh \u0103n"
-      }
-    ],
-    "description": {
-      "en": "Koishi wanders around Gensokyo, tasting different foods from different places (not bothering with asking for it first). But why is she in such a journey in the first place?",
-      "vi": "M\u1ed9t Komeiji Koishi r\u1ea5t canon, \u0111i lang thang kh\u1eafp Gensokyo v\u00e0 \u0103n k\u00e9 \u0111\u1ed3 \u0103n c\u1ee7a ng\u01b0\u1eddi kh\u00e1c. Parody c\u1ee7a Kodoku no Gourmet."
-    },
-    "status": "ongoing",
-    "releaseDate": 2008,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": null
   }
 ]
