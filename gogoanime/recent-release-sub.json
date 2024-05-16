@@ -1,5 +1,12 @@
 [
   {
+    "id": "detective-conan-remastered",
+    "epId": "detective-conan-remastered-episode-420",
+    "title": "Detective Conan Remastered",
+    "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
+    "episode": "Episode 420"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-92",
     "title": "Chiikawa",
@@ -1390,13 +1397,6 @@
     "epId": "sasaki-to-pii-chan-episode-12",
     "title": "Sasaki to Pii-chan",
     "img": "https://gogocdn.net/cover/sasaki-to-pii-chan-1704248854.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
-    "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-episode-12",
-    "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-    "img": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-1704250425.png",
     "episode": "Episode 12"
   }
 ]
