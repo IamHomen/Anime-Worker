@@ -1,5 +1,26 @@
 [
   {
+    "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai",
+    "epId": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1",
+    "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
+    "img": "https://gogocdn.net/cover/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "dungeon-meshi",
+    "epId": "dungeon-meshi-episode-20",
+    "title": "Dungeon Meshi",
+    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "episode": "Episode 20"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-31",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 31"
+  },
+  {
     "id": "chibi-godzilla-no-gyakushuu",
     "epId": "chibi-godzilla-no-gyakushuu-episode-13",
     "title": "Chibi Godzilla no Gyakushuu",
@@ -378,13 +399,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-30",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 30"
-  },
-  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-49",
     "title": "Pokemon (Shinsaku Anime)",
@@ -530,13 +544,6 @@
     "title": "Yuru Camp\u25b3 Season 3",
     "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "dungeon-meshi",
-    "epId": "dungeon-meshi-episode-19",
-    "title": "Dungeon Meshi",
-    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 19"
   },
   {
     "id": "jantama-kan",
@@ -1390,13 +1397,6 @@
     "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-episode-12",
     "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
     "img": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-1704250425.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "mato-seihei-no-slave",
-    "epId": "mato-seihei-no-slave-episode-12",
-    "title": "Mato Seihei no Slave",
-    "img": "https://gogocdn.net/cover/mato-seihei-no-slave-1704187347.png",
     "episode": "Episode 12"
   }
 ]

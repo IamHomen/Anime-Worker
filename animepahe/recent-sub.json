@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62726,
+      "anime_id": 5516,
+      "anime_title": "Yuru Camp\u25b3 Season 3",
+      "anime_session": "6a6d8225-45f9-79be-6caa-9c4108b40995",
+      "episode": 7,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/416a5f5cc1ac33f6a0e482033b63004fb8df18b9d8cff73d41415e03eafe2142.jpg",
+      "disc": "",
+      "session": "c876fc04299c47bfec4d6cd3d3155de022d55ff7131e5f16b4f0003a6b72b195",
+      "filler": 0,
+      "created_at": "2024-05-16 15:06:16",
+      "completed": 0
+    },
+    {
       "id": 62725,
       "anime_id": 5481,
       "anime_title": "Beyblade X",
@@ -182,22 +198,6 @@
       "session": "eafdffddfa32f182e95a1354d74498519e3481b72b05e439271689e287814b4f",
       "filler": 0,
       "created_at": "2024-05-14 04:25:48",
-      "completed": 0
-    },
-    {
-      "id": 62714,
-      "anime_id": 5540,
-      "anime_title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-      "anime_session": "eb06c627-762f-735b-9a14-c066709bd116",
-      "episode": 8,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/ad48acf6d664d53ec81a640cef7196cc6aa1d330628513d694369c1c76dd542a.jpg",
-      "disc": "",
-      "session": "ef9d439216c9eb1e421023e8646d3d108de229c377d87bf3e918b7e2ea1da77d",
-      "filler": 0,
-      "created_at": "2024-05-13 18:34:33",
       "completed": 0
     }
   ]
