@@ -1,5 +1,40 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-92",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 92"
+  },
+  {
+    "id": "urusei-yatsura-2022-2nd-season",
+    "epId": "urusei-yatsura-2022-2nd-season-episode-18",
+    "title": "Urusei Yatsura (2022) 2nd Season",
+    "img": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
+    "episode": "Episode 18"
+  },
+  {
+    "id": "wind-breaker",
+    "epId": "wind-breaker-episode-7",
+    "title": "Wind Breaker",
+    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "henjin-no-salad-bowl",
+    "epId": "henjin-no-salad-bowl-episode-7",
+    "title": "Henjin no Salad Bowl",
+    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "hananoi-kun-to-koi-no-yamai",
+    "epId": "hananoi-kun-to-koi-no-yamai-episode-7",
+    "title": "Hananoi-kun to Koi no Yamai",
+    "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
     "epId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-8",
     "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
@@ -138,6 +173,13 @@
     "title": "Shin Hakkenden",
     "img": "https://gogocdn.net/cover/shin-hakkenden.png",
     "episode": "Episode 26"
+  },
+  {
+    "id": "virtua-fighter",
+    "epId": "virtua-fighter-episode-35",
+    "title": "Virtua Fighter",
+    "img": "https://gogocdn.net/cover/virtua-fighter.png",
+    "episode": "Episode 35"
   },
   {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
@@ -420,13 +462,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "shadowverse-flame-arc-hen",
-    "epId": "shadowverse-flame-arc-hen-episode-5",
-    "title": "Shadowverse Flame: Arc-hen",
-    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "ooi-tonbo",
     "epId": "ooi-tonbo-episode-6",
     "title": "Ooi! Tonbo",
@@ -509,41 +544,6 @@
     "title": "Tondemo Senshi Muteking",
     "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-91",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 91"
-  },
-  {
-    "id": "urusei-yatsura-2022-2nd-season",
-    "epId": "urusei-yatsura-2022-2nd-season-episode-17",
-    "title": "Urusei Yatsura (2022) 2nd Season",
-    "img": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
-    "episode": "Episode 17"
-  },
-  {
-    "id": "henjin-no-salad-bowl",
-    "epId": "henjin-no-salad-bowl-episode-6",
-    "title": "Henjin no Salad Bowl",
-    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "wind-breaker",
-    "epId": "wind-breaker-episode-6",
-    "title": "Wind Breaker",
-    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "hananoi-kun-to-koi-no-yamai",
-    "epId": "hananoi-kun-to-koi-no-yamai-episode-6",
-    "title": "Hananoi-kun to Koi no Yamai",
-    "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
-    "episode": "Episode 6"
   },
   {
     "id": "jantama-kan",
