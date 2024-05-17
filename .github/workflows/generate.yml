@@ -24,6 +24,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
+        pip install firebase-admin
 
     - name: Generate (GogoAnime)
       run: |
@@ -48,6 +49,12 @@ jobs:
     - name: Generate (AsuraScans)
       run: |
         python ./asurascans/generate.py
+
+    - name: Upload JSON to Firebase
+      env:
+        FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      run: |
+        python upload_to_firebase.py
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
