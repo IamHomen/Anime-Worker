@@ -1,5 +1,26 @@
 [
   {
+    "id": "the-idolmster-shiny-colors",
+    "epId": "the-idolmster-shiny-colors-episode-7",
+    "title": "The iDOLM@STER Shiny Colors",
+    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
+    "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-6",
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+    "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "girls-band-cry",
+    "epId": "girls-band-cry-episode-7",
+    "title": "Girls Band Cry",
+    "img": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "mahouka-koukou-no-rettousei-3rd-season",
     "epId": "mahouka-koukou-no-rettousei-3rd-season-episode-7",
     "title": "Mahouka Koukou no Rettousei 3rd Season",
@@ -280,6 +301,13 @@
     "episode": "Episode 7"
   },
   {
+    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
+    "epId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-19",
+    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+    "img": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
+    "episode": "Episode 19"
+  },
+  {
     "id": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
     "epId": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-episode-6",
     "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
@@ -420,13 +448,6 @@
     "episode": "Episode 15"
   },
   {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-15",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 15"
-  },
-  {
     "id": "tonari-no-youkai-san",
     "epId": "tonari-no-youkai-san-episode-6",
     "title": "Tonari no Youkai-san",
@@ -532,32 +553,11 @@
     "episode": "Episode 6"
   },
   {
-    "id": "the-idolmster-shiny-colors",
-    "epId": "the-idolmster-shiny-colors-episode-6",
-    "title": "The iDOLM@STER Shiny Colors",
-    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "odekake-kozame",
     "epId": "odekake-kozame-episode-60",
     "title": "Odekake Kozame",
     "img": "https://gogocdn.net/cover/odekake-kozame.png",
     "episode": "Episode 60"
-  },
-  {
-    "id": "girls-band-cry",
-    "epId": "girls-band-cry-episode-6",
-    "title": "Girls Band Cry",
-    "img": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
-    "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-5",
-    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
-    "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
-    "episode": "Episode 5"
   },
   {
     "id": "tondemo-senshi-muteking",
