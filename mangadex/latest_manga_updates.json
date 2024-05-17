@@ -1,5 +1,48 @@
 [
   {
+    "mangaId": "dfffa880-4154-40d1-abd2-0dff94248908",
+    "title": {
+      "en": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria"
+    },
+    "updatedAt": "2024-05-05T21:07:12+00:00",
+    "coverArt": "https://mangadex.org/covers/dfffa880-4154-40d1-abd2-0dff94248908/c87184ca-b94d-4a5b-bdb7-79f0425fbdb2.jpg",
+    "altTitles": [
+      {
+        "fr": "DanMachi - Sword Oratoria : l'\u00e9pop\u00e9e d'une \u00e9p\u00e9iste"
+      },
+      {
+        "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Sword Oratoria"
+      },
+      {
+        "ja-ro": "Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria"
+      },
+      {
+        "ja-ro": "DanMachi: Sword Oratoria"
+      },
+      {
+        "ru": "\u041c\u043e\u0436\u0435\u0442, \u044f \u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0442\u0435\u0431\u044f \u0432 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435 - \u041e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041c\u0435\u0447\u0430"
+      },
+      {
+        "ja": "\u30c0\u30f3\u30b8\u30e7\u30f3\u306b\u51fa\u4f1a\u3044\u3092\u6c42\u3081\u308b\u306e\u306f\u9593\u9055\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u304b \u5916\u4f1d \u30bd\u30fc\u30c9\u30fb\u30aa\u30e9\u30c8\u30ea\u30a2"
+      },
+      {
+        "ko": "\ub358\uc804\uc5d0 \ub9cc\ub098\uae30\ub97c \uc6d0\ud558\ub294 \uac83\uc740 \uc798\ubabb \uc77c\uae4c \uc678\uc804 \uc18c\ub4dc \uc624\ub77c\ud1a0\ub9ac\uc544 \uc18c\ub4dc \uc624\ub77c\ud1a0\ub9ac\uc544"
+      },
+      {
+        "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"
+      }
+    ],
+    "description": {
+      "en": "After having descended upon this world, the gods have created guilds where adventurers can test their mettle. These guilds, known as \"familia,\" grant adventurers the chance to explore, gather, hunt, or simply enjoy themselves.  \nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria begins in Orario, the lively city of adventurers. The Sword Princess, Ais Wallenstein, and the novice mage, Lefiya Viridis, are members of the Loki Familia, who are experts at monster hunting. With the rest of their group, they journey to the tower of Babel in hopes of exploring the dungeon underneath. Home to powerful monsters, the dungeon will fulfill Ais's desire to master her sword skills, while bringing Lefiya closer to her dream of succeeding Riveria Ljos Alf, vice-captain of the Loki Familia, as the most powerful mage in the land.\n\n---\n\n**Links:**\n[Yen Press](https://yenpress.com/series/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-sword-oratoria-manga)",
+      "ru": "\u0421\u043f\u0438\u043d-\u043e\u0444\u0444 \u0440\u0430\u043d\u043e\u0431\u044d \"\u041c\u043e\u0436\u0435\u0442, \u044f \u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0442\u0435\u0431\u044f \u0432 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435\", \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0441\u0438\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0445 \u0430\u0432\u0430\u043d\u0442\u044e\u0440\u0438\u0441\u0442\u043e\u043a \u043f\u043e \u0438\u043c\u0435\u043d\u0438 \u0410\u0438\u0437 \u0412\u0430\u043b\u043b\u0435\u043d\u0448\u0442\u0430\u0439\u043d, \u0442\u0430\u043a\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439, \u043a\u0430\u043a \"\u041f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430 \u041c\u0435\u0447\u0430\"."
+    },
+    "status": "ongoing",
+    "releaseDate": 2014,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "d42aea2e-0447-4c0f-9276-f3dbaa9db2e3",
     "title": {
       "en": "The Strongest Lv1 Support in the World"
@@ -1598,26 +1641,5 @@
     "contentRating": "safe",
     "lastVolume": "2",
     "lastChapter": "10"
-  },
-  {
-    "mangaId": "753bc8b4-039e-4058-bcab-978e3be362e9",
-    "title": {
-      "en": "I Became the Childhood Friend of the Middle Boss"
-    },
-    "updatedAt": "2024-05-16T18:29:13+00:00",
-    "coverArt": "https://mangadex.org/covers/753bc8b4-039e-4058-bcab-978e3be362e9/a381035f-29f8-40de-9d28-d1595130a9ce.jpg",
-    "altTitles": [
-      {
-        "ko": "\uc911\uac04 \ubcf4\uc2a4\uc758 \uc18c\uafc9\uce5c\uad6c\uac00 \ub418\uc5c8\ub2e4"
-      }
-    ],
-    "description": {
-      "en": "Do Kyunwoo is the black sheep of his renowned swordsman family. He cannot even catch a rabbit on his own. On his first day of fifth grade, he meets a tranfer student and recalls his past life.\n\nHe had reincarnated into the world of a game he used to play called [Brave Hearts]. He was already frustrated that he had reincarnated as a loser, but on top of that, the transfer student is an intermediate/mid-tier boss who will destroy the world!\n\n\u201cWhy are you being so nice to me?\u201d\n\n\u201cBecause I want to be friends with you.\u201d\n\nDo Kyunwoo\u2019s plan is to become friends with the transfer student in order to prevent the end of the world!\n\nIn order to survive in this new world and to reach an ending he desires. He becomes best friends with the mid level boss."
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
