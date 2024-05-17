@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62732,
+      "anime_id": 4756,
+      "anime_title": "Yu\u2606Gi\u2606Oh! Go Rush!!",
+      "anime_session": "2b31fbe0-776a-c13a-6301-ed50d3910663",
+      "episode": 108,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "entameSubs",
+      "snapshot": "https://i.animepahe.ru/snapshots/3e6e8740b45f0eb513eb8f9f9855cb2a995b0ff26e1a53858cf3a018fec482a6.jpg",
+      "disc": "",
+      "session": "a55cf487f2a235f4eea7e23c496832e8283e22c50e72378fd38adb59425415c6",
+      "filler": 0,
+      "created_at": "2024-05-17 07:20:19",
+      "completed": 0
+    },
+    {
       "id": 62731,
       "anime_id": 5546,
       "anime_title": "Henjin no Salad Bowl",
@@ -182,22 +198,6 @@
       "session": "ad2d87151ba129381f1c544b5805cea6c294a1151a1d0ff644b8e222d0bff1a0",
       "filler": 0,
       "created_at": "2024-05-15 14:34:49",
-      "completed": 0
-    },
-    {
-      "id": 62720,
-      "anime_id": 5535,
-      "anime_title": "Kaii to Otome to Kamikakushi",
-      "anime_session": "2b65ca1a-ffe3-9e31-80a1-39c898399387",
-      "episode": 6,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/61f6f58533f39dd46ff112f54c8a6e08ac239ca680072408631f1a3afba26ec0.jpg",
-      "disc": "",
-      "session": "21c3c1d537702681305a870f8bd1843457d65cd74f7d1551c8ee2f2b4c1e1f74",
-      "filler": 0,
-      "created_at": "2024-05-15 14:04:24",
       "completed": 0
     }
   ]
