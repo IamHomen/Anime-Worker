@@ -1,5 +1,26 @@
 [
   {
+    "id": "honoo-no-labyrinth",
+    "epId": "honoo-no-labyrinth-episode-2",
+    "title": "Honoo no Labyrinth",
+    "img": "https://gogocdn.net/cover/honoo-no-labyrinth.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "astro-note",
+    "epId": "astro-note-episode-7",
+    "title": "Astro Note",
+    "img": "https://gogocdn.net/cover/astro-note.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "nijiyon-animation-2",
+    "epId": "nijiyon-animation-2-episode-7",
+    "title": "Nijiyon Animation 2",
+    "img": "https://gogocdn.net/cover/nijiyon-animation-2.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-108",
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
@@ -536,20 +557,6 @@
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-6",
     "title": "Tensei shitara Slime Datta Ken 3rd Season",
     "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "astro-note",
-    "epId": "astro-note-episode-6",
-    "title": "Astro Note",
-    "img": "https://gogocdn.net/cover/astro-note.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "nijiyon-animation-2",
-    "epId": "nijiyon-animation-2-episode-6",
-    "title": "Nijiyon Animation 2",
-    "img": "https://gogocdn.net/cover/nijiyon-animation-2.png",
     "episode": "Episode 6"
   },
   {
@@ -1391,12 +1398,5 @@
     "title": "Tobe! Kujira no Peek",
     "img": "https://gogocdn.net/cover/tobe-kujira-no-peek.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "sasaki-to-pii-chan",
-    "epId": "sasaki-to-pii-chan-episode-12",
-    "title": "Sasaki to Pii-chan",
-    "img": "https://gogocdn.net/cover/sasaki-to-pii-chan-1704248854.png",
-    "episode": "Episode 12"
   }
 ]
