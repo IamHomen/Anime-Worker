@@ -1,5 +1,12 @@
 [
   {
+    "id": "ninjala",
+    "epId": "ninjala-episode-117",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 117"
+  },
+  {
     "id": "detective-conan-remastered",
     "epId": "detective-conan-remastered-episode-424",
     "title": "Detective Conan Remastered",
@@ -537,13 +544,6 @@
     "title": "Nijiyon Animation 2",
     "img": "https://gogocdn.net/cover/nijiyon-animation-2.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-116",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 116"
   },
   {
     "id": "tondemo-senshi-muteking",
