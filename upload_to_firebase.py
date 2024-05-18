@@ -13,7 +13,7 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://mrcain-12665-default-rtdb.firebaseio.com'
 })
 
-# Load the JSON data from a file
+# Load the JSON data from a file (Recent)
 with open('./gogoanime/recent-release-sub.json', 'r') as f:
     data = json.load(f)
 
@@ -22,3 +22,13 @@ ref = db.reference('/anime-list/anime/latest-update')
 
 # Upload the data
 ref.set(data)
+
+# Load the JSON data from a file (Popular)
+with open('./gogoanime/popular.json', 'r') as f:
+    data2 = json.load(f)
+
+# Specify the reference where you want to upload the data
+ref2 = db.reference('/anime-list/anime/anime-list')
+
+# Upload the data
+ref2.set(data2)
