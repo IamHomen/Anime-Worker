@@ -32,3 +32,33 @@ ref2 = db.reference('/anime-list/anime/anime-list')
 
 # Upload the data
 ref2.set(data2)
+
+# Load the JSON data from a file (Popular Day)
+with open('./gogoanime/top_1.json', 'r') as f:
+    data3 = json.load(f)
+
+# Specify the reference where you want to upload the data
+ref3 = db.reference('/anime-list/anime/popular/day')
+
+# Upload the data
+ref3.set(data3)
+
+# Load the JSON data from a file (Popular Week)
+with open('./gogoanime/top_2.json', 'r') as f:
+    data4 = json.load(f)
+
+# Specify the reference where you want to upload the data
+ref4 = db.reference('/anime-list/anime/popular/week')
+
+# Upload the data
+ref4.set(data4)
+
+# Load the JSON data from a file (Popular Month)
+with open('./gogoanime/top_3.json', 'r') as f:
+    data5 = json.load(f)
+
+# Specify the reference where you want to upload the data
+ref5 = db.reference('/anime-list/anime/popular/month')
+
+# Upload the data
+ref5.set(data5)
