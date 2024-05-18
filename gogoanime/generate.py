@@ -122,7 +122,7 @@ def scrape_trending_anime():
 
 def scrape_top_anime(page):
     anime_list = []
-   top_url = f'https://ajax.gogocdn.net/anclytic-ajax.html?id={page}&link_web=https://anitaku.so/'
+    top_url = f'https://ajax.gogocdn.net/anclytic-ajax.html?id={page}&link_web=https://anitaku.so/'
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         popular_page = requests.get(top_url, headers=headers)
