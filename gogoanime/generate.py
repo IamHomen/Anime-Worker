@@ -70,7 +70,7 @@ def scrape_popular_anime():
                 ids = el.select_one('p.name > a')['href'].split('/')[2]
                 anime_list.append({
                     'id': el.select_one('p.name > a')['href'].split('/')[2],
-                    'title': el.select_one('p.name > a')['title'],
+                    'title': el.select_one('p.name > a').text,
                     'img': el.select_one('div > a > img')['src'],
                     'date': el.select_one('p.released').text.replace('Released: ', '').strip()
                 })
