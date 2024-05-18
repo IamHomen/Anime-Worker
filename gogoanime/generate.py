@@ -58,7 +58,7 @@ def scrape_popular_anime():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
-        while page_number <= 10:  # Stop scraping at page 10
+        while page_number <= 665:  # Stop scraping at page 10
             popular_page = requests.get(POPULAR_URL + f"?page={page_number}", headers=headers)
             soup = BeautifulSoup(popular_page.content, 'html.parser')
 
@@ -69,10 +69,10 @@ def scrape_popular_anime():
             for el in soup.select('div.last_episodes > ul > li'):
                 ids = el.select_one('p.name > a')['href'].split('/')[2]
                 anime_list.append({
-                    'animeId': el.select_one('p.name > a')['href'].split('/')[2],
-                    'animeTitle': el.select_one('p.name > a')['title'],
-                    'animeImg': el.select_one('div > a > img')['src'],
-                    'releasedDate': el.select_one('p.released').text.replace('Released: ', '').strip()
+                    'id': el.select_one('p.name > a')['href'].split('/')[2],
+                    'title': el.select_one('p.name > a')['title'],
+                    'img': el.select_one('div > a > img')['src'],
+                    'date': el.select_one('p.released').text.replace('Released: ', '').strip()
                 })
                 #scrape_anime_info(ids)
 
