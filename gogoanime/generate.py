@@ -120,6 +120,30 @@ def scrape_trending_anime():
         print(e)
         return {'error': str(e)}
 
+def scrape_top_anime(page):
+    anime_list = []
+   top_url = f'https://ajax.gogocdn.net/anclytic-ajax.html?id={page}&link_web=https://anitaku.so/'
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        popular_page = requests.get(top_url, headers=headers)
+        soup = BeautifulSoup(popular_page.content, 'html.parser')
+
+        for el in soup.select('ul > li'):
+            anime_list.append({
+                'id': el.select_one('a')['href'].split('/')[2],
+                'title': el.select_one('a')['title'],
+                'episode': el.select_one('a > p.reaslead').text.strip()
+            })
+            #scrape_anime_info(ids)
+
+        with open(f'./gogoanime/top_{page}.json', 'w') as f:
+            json.dump(anime_list, f, indent=2)
+        print(f'Data saved to gogoanime/top_{page}.json')
+        return anime_list
+    except Exception as e:
+        print(e)
+        return {'error': str(e)}
+
 def scrape_anime_info(ids):
     try:
         genres = []
@@ -198,7 +222,9 @@ def scrape_anime_info(ids):
        # writer.writerows(data)
 
    # print('JSON data converted to CSV successfully.')
-
+scrape_top_anime(1)
+scrape_top_anime(2)
+scrape_top_anime(3)
 scrape_recent_sub_anime()
 scrape_trending_anime()
 scrape_popular_anime()
