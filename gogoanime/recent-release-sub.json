@@ -1,5 +1,26 @@
 [
   {
+    "id": "the-fable",
+    "epId": "the-fable-episode-7",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-6",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-6",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "kaijuu-8-gou",
     "epId": "kaijuu-8-gou-episode-6",
     "title": "Kaijuu 8-gou",
@@ -518,20 +539,6 @@
     "episode": "Episode 6"
   },
   {
-    "id": "the-new-gate",
-    "epId": "the-new-gate-episode-5",
-    "title": "The New Gate",
-    "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-6",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "sasayaku-you-ni-koi-wo-utau",
     "epId": "sasayaku-you-ni-koi-wo-utau-episode-5",
     "title": "Sasayaku You ni Koi wo Utau",
@@ -544,13 +551,6 @@
     "title": "Yoru no Kurage wa Oyogenai",
     "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-5",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 5"
   },
   {
     "id": "odekake-kozame",
