@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62743,
+      "anime_id": 5509,
+      "anime_title": "Boku no Hero Academia 7th Season",
+      "anime_session": "72d4fc84-2016-a154-e2e4-48756bd31dd9",
+      "episode": 141,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/61d39c789729f7d8be6dba098ebb86c51e04fb4a320f162c2707ca1531d679c8.jpg",
+      "disc": "",
+      "session": "7cef48c138452be38a02e7730f32e57a70b08c7cc8c8c29235153a76f43e4a3b",
+      "filler": 0,
+      "created_at": "2024-05-18 09:35:46",
+      "completed": 0
+    },
+    {
       "id": 62742,
       "anime_id": 5255,
       "anime_title": "Pokemon (2023)",
@@ -182,22 +198,6 @@
       "session": "a55cf487f2a235f4eea7e23c496832e8283e22c50e72378fd38adb59425415c6",
       "filler": 0,
       "created_at": "2024-05-17 07:20:19",
-      "completed": 0
-    },
-    {
-      "id": 62731,
-      "anime_id": 5546,
-      "anime_title": "Henjin no Salad Bowl",
-      "anime_session": "e304924a-73d2-bc47-c9f6-5539a9967c21",
-      "episode": 7,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/832984d42423e9db1827c564df15dca4480c114514c1297ddb6b6a603db1fd84.jpg",
-      "disc": "",
-      "session": "5d4400f487a536a1e5a0d56407b2e2cce95b3e72b4cc8a5c18b2b5d975e6ea11",
-      "filler": 0,
-      "created_at": "2024-05-16 18:49:28",
       "completed": 0
     }
   ]
