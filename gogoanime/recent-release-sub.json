@@ -1,5 +1,12 @@
 [
   {
+    "id": "jantama-kan",
+    "epId": "jantama-kan-episode-4",
+    "title": "Jantama Kan!!",
+    "img": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "tensei-kizoku-kantei-skill-de-nariagaru",
     "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-7",
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -565,13 +572,6 @@
     "title": "Tondemo Senshi Muteking",
     "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-3",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 3"
   },
   {
     "id": "girls-panzer-saishuushou-part-4-specials",
