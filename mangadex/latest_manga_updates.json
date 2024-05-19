@@ -1,5 +1,68 @@
 [
   {
+    "mangaId": "bb865fee-cf21-4c4e-b931-334033553b22",
+    "title": {
+      "en": "ASTROID"
+    },
+    "updatedAt": "2022-03-16T14:57:04+00:00",
+    "coverArt": "https://mangadex.org/covers/bb865fee-cf21-4c4e-b931-334033553b22/300387d7-479f-418b-ba84-f9ef321e54e2.png",
+    "altTitles": [
+      {
+        "ja": "\u30a2\u30b9\u30c8\u30ed\u30a4\u30c9"
+      }
+    ],
+    "description": {
+      "en": "Take me to the end of the world\u2026 said Blaise Cendrars.  \nCome on, I'll take you, says Keiichi Koike.  \nHe takes you on a trip through time and space to the end of the world that is also but the beginning of it all\u2026"
+    },
+    "status": "completed",
+    "releaseDate": 1989,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "19"
+  },
+  {
+    "mangaId": "f1b1e0af-ef74-4013-bc0f-1746bb5820df",
+    "title": {
+      "en": "Moonquake"
+    },
+    "updatedAt": "2024-05-19T09:14:12+00:00",
+    "coverArt": "https://mangadex.org/covers/f1b1e0af-ef74-4013-bc0f-1746bb5820df/bfe12fa2-42d9-40a9-92b2-c97d0122192f.png",
+    "altTitles": [
+      {
+        "ko": "\ubb38\ud018\uc774\ud06c"
+      }
+    ],
+    "description": {
+      "fr": "Apr\u00e8s la chute de la troisi\u00e8me lune au centre de la ville, des personnes dot\u00e9es de superpouvoirs sont apparues, que l'on a commenc\u00e9 \u00e0 appeler des \"ph\u00e9nom\u00e8nes\". C'est l'histoire d'une arm\u00e9e de r\u00e9sistance qui vit sur la lune et utilise ouvertement ses capacit\u00e9s, et des ph\u00e9nom\u00e8nes du gouvernement qui prot\u00e8gent le bien des habitants de la ville en emp\u00eachant les attaques depuis la lune."
+    },
+    "status": "completed",
+    "releaseDate": 2021,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": "36"
+  },
+  {
+    "mangaId": "adc92bc9-32e4-4dcb-98b4-4b66890987b9",
+    "title": {
+      "en": "Mightiest Melee Magician"
+    },
+    "updatedAt": "2024-03-22T12:59:37+00:00",
+    "coverArt": "https://mangadex.org/covers/adc92bc9-32e4-4dcb-98b4-4b66890987b9/b431799f-0bb4-437b-b832-c635033979db.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc62c \ud798 \ub9c8\ubc95\uc0ac"
+      }
+    ],
+    "description": {
+      "en": "The academy holds a chilling legend. \n\n\"Neglect practice, become like \u2018Luin Ardell.\"\n\nLuin, the academy\u2019s outcast, cursed with Mana Discharge Disability. But -\n\n\"You\u2019re the chosen one, Draka\u2019s harbinger of destruction.\"\n\nAfter enduring ridicule for six years, finally, a new opportunity arises."
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": null,
+    "lastChapter": null
+  },
+  {
     "mangaId": "051ce60f-bf16-432a-89a5-a8d52bd16de6",
     "title": {
       "en": "Kou iu no ga ii"
@@ -83,31 +146,6 @@
     "contentRating": "erotica",
     "lastVolume": "16",
     "lastChapter": "358.5"
-  },
-  {
-    "mangaId": "d2e28840-b3a6-4dd7-9c40-1b251a293fe0",
-    "title": {
-      "en": "Negai no Astro"
-    },
-    "updatedAt": "2024-04-21T15:15:56+00:00",
-    "coverArt": "https://mangadex.org/covers/d2e28840-b3a6-4dd7-9c40-1b251a293fe0/84f6d77a-889c-4efe-8dfa-2d819743d8af.jpg",
-    "altTitles": [
-      {
-        "ja": "\u9858\u3044\u306e\u30a2\u30b9\u30c8\u30ed"
-      },
-      {
-        "en": "Astro Royale"
-      }
-    ],
-    "description": {
-      "en": "The new series from Ken Wakui, the creator of Shinjuku Swan and Tokyo Revengers!\n\nAs the battle to decide the next leader of the Yotsurugi gang that runs Asakusa is heating up, a meteorite strike suddenly awakens superpowers in the people of Japan. How will Hibaru Yotsurugi, the son of the previous gang leader, come out of this?!",
-      "fr": "Le nouveau manga de Ken Wakui, le cr\u00e9ateur de Shinjuku Swan et Tokyo Revengers ! Alors que la bataille pour d\u00e9signer le prochain chef du clan Yotsurugi qui dirige Asakusa s'intensifie, la chute d'une m\u00e9t\u00e9orite r\u00e9veille soudainement des super-pouvoirs chez les Japonais. Comment Hibaru Yotsurugi, le fils du pr\u00e9c\u00e9dent boss du clan va-t-il s'en sortir ?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   },
   {
     "mangaId": "5c06fd2d-a1ec-4405-8970-31db47b7ea52",
@@ -206,27 +244,6 @@
     "lastChapter": "162"
   },
   {
-    "mangaId": "bb865fee-cf21-4c4e-b931-334033553b22",
-    "title": {
-      "en": "ASTROID"
-    },
-    "updatedAt": "2022-03-16T14:57:04+00:00",
-    "coverArt": "https://mangadex.org/covers/bb865fee-cf21-4c4e-b931-334033553b22/300387d7-479f-418b-ba84-f9ef321e54e2.png",
-    "altTitles": [
-      {
-        "ja": "\u30a2\u30b9\u30c8\u30ed\u30a4\u30c9"
-      }
-    ],
-    "description": {
-      "en": "Take me to the end of the world\u2026 said Blaise Cendrars.  \nCome on, I'll take you, says Keiichi Koike.  \nHe takes you on a trip through time and space to the end of the world that is also but the beginning of it all\u2026"
-    },
-    "status": "completed",
-    "releaseDate": 1989,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "19"
-  },
-  {
     "mangaId": "a636ca5b-018c-42eb-afd3-2e7037afac86",
     "title": {
       "en": "Gannibal"
@@ -259,6 +276,31 @@
     "contentRating": "suggestive",
     "lastVolume": "13",
     "lastChapter": "120"
+  },
+  {
+    "mangaId": "d2e28840-b3a6-4dd7-9c40-1b251a293fe0",
+    "title": {
+      "en": "Negai no Astro"
+    },
+    "updatedAt": "2024-04-21T15:15:56+00:00",
+    "coverArt": "https://mangadex.org/covers/d2e28840-b3a6-4dd7-9c40-1b251a293fe0/84f6d77a-889c-4efe-8dfa-2d819743d8af.jpg",
+    "altTitles": [
+      {
+        "ja": "\u9858\u3044\u306e\u30a2\u30b9\u30c8\u30ed"
+      },
+      {
+        "en": "Astro Royale"
+      }
+    ],
+    "description": {
+      "en": "The new series from Ken Wakui, the creator of Shinjuku Swan and Tokyo Revengers!\n\nAs the battle to decide the next leader of the Yotsurugi gang that runs Asakusa is heating up, a meteorite strike suddenly awakens superpowers in the people of Japan. How will Hibaru Yotsurugi, the son of the previous gang leader, come out of this?!",
+      "fr": "Le nouveau manga de Ken Wakui, le cr\u00e9ateur de Shinjuku Swan et Tokyo Revengers ! Alors que la bataille pour d\u00e9signer le prochain chef du clan Yotsurugi qui dirige Asakusa s'intensifie, la chute d'une m\u00e9t\u00e9orite r\u00e9veille soudainement des super-pouvoirs chez les Japonais. Comment Hibaru Yotsurugi, le fils du pr\u00e9c\u00e9dent boss du clan va-t-il s'en sortir ?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
   },
   {
     "mangaId": "22ce8c07-4986-4634-bec8-8222a4b9595b",
@@ -1617,92 +1659,6 @@
     "status": "hiatus",
     "releaseDate": 2009,
     "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "9d9c3006-915b-4f7e-8636-9eea6da12ec3",
-    "title": {
-      "en": "Drug Store Tenin Sacchan no Nichijou"
-    },
-    "updatedAt": "2024-05-16T18:11:55+00:00",
-    "coverArt": "https://mangadex.org/covers/9d9c3006-915b-4f7e-8636-9eea6da12ec3/281d37c0-04c8-4ca4-8db3-ba5bb3076e78.png",
-    "altTitles": [
-      {
-        "ja-ro": "Drugstore tenin sa-chan no nichijo"
-      },
-      {
-        "ja-ro": "Doraggusutoa ten'in satchan no nichij\u014d"
-      },
-      {
-        "ja": "\u30c9\u30e9\u30c3\u30b0\u30b9\u30c8\u30a2\u5e97\u54e1\u3055\u3063\u3061\u3083\u3093\u306e\u65e5\u5e38"
-      },
-      {
-        "vi": "Chuy\u1ec7n n\u00e0ng Sa \u1edf ti\u1ec7m thu\u1ed1c"
-      },
-      {
-        "en": "Daily Life of Sa-chan, a Drugstore Clerk"
-      },
-      {
-        "fr": "Le quotidien de Sa-Chan, une vendeuse comme une autre"
-      }
-    ],
-    "description": {
-      "en": "A series between the expressionless drugstore clerk, Sa-chan, and her boisterous childhood friend who's head over heels over Sa-chan but hesitant in confessing his love for her. Join them in their romcom-packed everyday life working at a drugstore.",
-      "id": "Seri antara petugas toko obat tanpa ekspresi, Sa-chan, dan teman masa kecilnya yang riuh yang jungkir balik terhadap Sa-chan tetapi ragu-ragu dalam mengakui cintanya padanya. Bergabunglah dengan mereka dalam kehidupan sehari-hari mereka yang penuh romansa bekerja di toko obat.",
-      "ja": "\u30c9\u30e9\u30c3\u30b0\u30b9\u30c8\u30a2\u3067\u50cd\u304f\u3055\u3063\u3061\u3083\u3093\u3068\u305d\u306e\u5e7c\u306a\u3058\u307f\u304c\u4e21\u601d\u3044\u306a\u3093\u3060\u3051\u3069\u3001\u304a\u4e92\u3044\u6c17\u3065\u304b\u306a\u304f\u3066\u6bce\u65e5\u3084\u304d\u3082\u304d\u3059\u308b\u8a71\u3067\u3059\u3002",
-      "pt-br": "Uma s\u00e9rie entre a inexpressiva balconista da drogaria, Sa-chan, e seu turbulento amigo de inf\u00e2ncia que est\u00e1 de ponta-cabe\u00e7a por Sa-chan, mas hesita em confessar seu amor por ela. Junte-se a eles em sua vida cotidiana repleta de com\u00e9dia rom\u00e2ntica trabalhando em uma farm\u00e1cia."
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "e2331661-2a88-40d4-ac1a-e61ad776ed48",
-    "title": {
-      "en": "For My Derelict Favorite"
-    },
-    "updatedAt": "2024-04-11T11:51:32+00:00",
-    "coverArt": "https://mangadex.org/covers/e2331661-2a88-40d4-ac1a-e61ad776ed48/43e8eeec-38dc-4862-b367-2e6f4ea2445a.jpg",
-    "altTitles": [
-      {
-        "ko": "\ubc84\ub824\uc9c4 \ub098\uc758 \ucd5c\uc560\ub97c \uc704\ud558\uc5ec"
-      },
-      {
-        "ko-ro": "Beoryeojin Na-eui Choeaereul Wihayeo"
-      },
-      {
-        "en": "For My Forsaken Beloved"
-      },
-      {
-        "en": "For My Abandoned Love"
-      },
-      {
-        "es": "Para mi amor abandonado"
-      },
-      {
-        "en": "For My Derelict Beloved"
-      },
-      {
-        "es": "Por mi favorito abandonado"
-      },
-      {
-        "zh": "\u4e3a\u4e86\u6211\u88ab\u9057\u5f03\u7684\u7231"
-      },
-      {
-        "mn": "\u0425\u0430\u044f\u0433\u0434\u0441\u0430\u043d \u0445\u0430\u0439\u0440\u0442\u044b\u043d\u0445\u0430\u0430 \u0442\u04e9\u043b\u04e9\u04e9"
-      }
-    ],
-    "description": {
-      "en": "I entered my favorite romantic fantasy novel! I may be a commoner, but I'm rich beyond belief. I quietly watched the romance of the main characters in the original novel, assuming I would go back to reality after reaching the novel's ending... However, even after the ending, I am still stuck in this world! As a result, I learned the behind-the-scenes stories that I didn't want to know. My favorite second male lead, Kaelus, died. Living in poverty without him, I eventually became ill and died as well. I thought I would return to reality, but I went back in time instead. This is definitely... This means I have to save my beloved, right?\n\n---\n**Notes:**\n* The novel of this series was originally released as R15, 7 months after being completed the book/ebook was later re-released as R19. The webtoon will follow how the novel was originally released which is R15.\n* *For My Derelict Favorite* is the official English name on the Korean novel.\n\n---\n**Original Webtoon:** [Naver Series](https://series.naver.com/comic/detail.series?productNo=8423030), [Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=794155)",
-      "hu": "Hestia, a f\u0151h\u0151sn\u0151nk a kedvenc reg\u00e9ny\u00e9nek egy gazdag mell\u00e9kszerepl\u0151jek\u00e9nt \u00e9bred egy nap. Rajong\u00f3k\u00e9nt legels\u0151 dolga, hogy nemesi c\u00edmet v\u00e1s\u00e1roljon mag\u00e1nak annak \u00e9rdek\u00e9ben, hogy az im\u00e1dott dr\u00e1gas\u00e1g\u00e1t, a reg\u00e9ny second male lead-j\u00e9t, Caelust l\u00e1thassa az arisztokrata b\u00e1lokon. Hestia \u00fagy d\u00f6nt, csak k\u00fcls\u0151 szeml\u00e9l\u0151 lesz, nem avatkozik bele a cselekm\u00e9nysz\u00e1lba. A reg\u00e9ny eredeti befejez\u00e9s\u00e9t k\u00f6vet\u0151 \u00e9vben azonban olyan v\u00e1ratlan dolog t\u00f6rt\u00e9nik Caelus-szal, ami Hesti\u00e1t m\u00e9gis cselekv\u00e9sre k\u00e9szteti, hogy a bias-a elker\u00fclhesse a tragikus befejez\u00e9st.1",
-      "ko": "\"\ub0b4 \ucd5c\uc560\ub97c \uc0b4\ub824\ub0b4!\"\nN\ud68c\ucc28 \uc815\uc8fc\ud589\ud560 \ub9cc\ud07c \uc560\uc815\ud558\ub358 \ub85c\ud310 \uc18c\uc124\uc5d0 \ube59\uc758\ud55c \ud5e4\uc2a4\ud2f0\uc544,\n\uc5d1\uc2a4\ud2b8\ub77c of \uc5d1\uc2a4\ud2b8\ub77c\uc5d0 \ube59\uc758\ud55c \ub355\uc5d0 \uc8fc\uc778\uacf5\ub4e4\uc744 \uc9c1\uad00\ud558\uace0 \ub4dc\ub514\uc5b4 \ub9de\uc774\ud55c \uc791\ud488\uc758 \uc5d4\ub529!\n\uc5d4\ub529 \ud6c4 \ud604\uc2e4\ub85c \ub3cc\uc544\uac00\uac8c \ub420 \uac70\ub780 \uc608\uc0c1\uc740 \uc0b0\uc0b0\uc870\uac01\uc774 \ub098\uace0,\n\uc18c\uc124\uc758 \uc5d4\ub529 \ud6c4 \ube44\ud558\uc778\ub4dc\uac00 \uac00\uc7a5 \uc560\uc815\ud558\ub294 \uce90\ub9ad\ud130\uc600\ub358 \uc11c\ube0c\ub0a8 \uce74\uc5d8\ub8e8\uc2a4\uc758 \uc8fd\uc74c\uc774\ub77c\ub294 \ucda9\uaca9\uc5d0\uc11c \ubc97\uc5b4\ub098\uae30\ub3c4 \uc804\uc5d0\n\uc18c\uc124\uc758 \uc5d4\ub529 \uc9c1\ud6c4\ub85c \ud68c\uadc0\ud558\ub294\ub370\u2026!\n\uadf8\ub807\ub2e4\uba74 \uc774\ubc88\uc5d4, \ub0b4 \ucd5c\uc560\ub97c \uc9c0\ucf1c\ub0b4\uaca0\uc5b4!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "suggestive",
     "lastVolume": "",
     "lastChapter": ""
   }
