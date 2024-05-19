@@ -1,5 +1,12 @@
 [
   {
+    "id": "blue-archive-the-animation",
+    "epId": "blue-archive-the-animation-episode-7",
+    "title": "Blue Archive the Animation",
+    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "jantama-kan",
     "epId": "jantama-kan-episode-4",
     "title": "Jantama Kan!!",
@@ -543,13 +550,6 @@
     "epId": "shinkalion-change-the-world-episode-6",
     "title": "Shinkalion: Change the World",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "blue-archive-the-animation",
-    "epId": "blue-archive-the-animation-episode-6",
-    "title": "Blue Archive the Animation",
-    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
     "episode": "Episode 6"
   },
   {
