@@ -1,5 +1,19 @@
 [
   {
+    "id": "futari-gurashi",
+    "epId": "futari-gurashi-episode-9",
+    "title": "Futari Gurashi",
+    "img": "https://gogocdn.net/cover/futari-gurashi.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "ohayou-spank",
+    "epId": "ohayou-spank-episode-16",
+    "title": "Ohayou! Spank",
+    "img": "https://gogocdn.net/cover/ohayou-spank.png",
+    "episode": "Episode 16"
+  },
+  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-2",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
@@ -1442,13 +1456,6 @@
     "episode": "Episode 3"
   },
   {
-    "id": "futari-gurashi",
-    "epId": "futari-gurashi-episode-8",
-    "title": "Futari Gurashi",
-    "img": "https://gogocdn.net/cover/futari-gurashi.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "ishura",
     "epId": "ishura-episode-12",
     "title": "Ishura",
@@ -1461,13 +1468,6 @@
     "title": "Dog Signal",
     "img": "https://gogocdn.net/cover/dog-signal-1690447425.png",
     "episode": "Episode 20"
-  },
-  {
-    "id": "ohayou-spank",
-    "epId": "ohayou-spank-episode-14",
-    "title": "Ohayou! Spank",
-    "img": "https://gogocdn.net/cover/ohayou-spank.png",
-    "episode": "Episode 14"
   },
   {
     "id": "choujin-sentai-baratack",
