@@ -1,5 +1,12 @@
 [
   {
+    "id": "ray-the-animation",
+    "epId": "ray-the-animation-episode-4",
+    "title": "Ray The Animation",
+    "img": "https://gogocdn.net/cover/ray-the-animation.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "futari-gurashi",
     "epId": "futari-gurashi-episode-9",
     "title": "Futari Gurashi",
@@ -833,13 +840,6 @@
     "episode": "Episode 6"
   },
   {
-    "id": "iwa-kakeru-sport-climbing-girls",
-    "epId": "iwa-kakeru-sport-climbing-girls-episode-2",
-    "title": "Iwa Kakeru!: Sport Climbing Girls",
-    "img": "https://gogocdn.net/cover/iwa-kakeru-sport-climbing-girls.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "atashinchi",
     "epId": "atashinchi-episode-368",
     "title": "Atashin'chi",
@@ -1250,6 +1250,13 @@
     "epId": "dosanko-gal-wa-namara-menkoi-episode-12",
     "title": "Dosanko Gal wa Namara Menkoi",
     "img": "https://gogocdn.net/cover/dosanko-gal-wa-namara-menkoi-1708569614.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "synduality-noir-part-2",
+    "epId": "synduality-noir-part-2-episode-12",
+    "title": "Synduality: Noir Part 2",
+    "img": "https://gogocdn.net/cover/synduality-noir-part-2-1708400288.png",
     "episode": "Episode 12"
   },
   {
@@ -2790,13 +2797,6 @@
     "epId": "boushoku-no-berserk-episode-12",
     "title": "Boushoku no Berserk",
     "img": "https://gogocdn.net/cover/boushoku-no-berserk-1698295260.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "seiken-gakuin-no-makentsukai",
-    "epId": "seiken-gakuin-no-makentsukai-episode-12",
-    "title": "Seiken Gakuin no Makentsukai",
-    "img": "https://gogocdn.net/cover/seiken-gakuin-no-makentsukai-1696012480.png",
     "episode": "Episode 12"
   }
 ]
