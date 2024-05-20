@@ -1,5 +1,12 @@
 [
   {
+    "id": "remonster",
+    "epId": "remonster-episode-8",
+    "title": "Re:Monster",
+    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
     "epId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-20",
     "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
@@ -551,13 +558,6 @@
     "title": "Tadaima, Okaeri",
     "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "remonster",
-    "epId": "remonster-episode-7",
-    "title": "Re:Monster",
-    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
-    "episode": "Episode 7"
   },
   {
     "id": "captain-bal",
