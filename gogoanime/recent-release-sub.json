@@ -1,5 +1,12 @@
 [
   {
+    "id": "tadaima-okaeri",
+    "epId": "tadaima-okaeri-episode-7",
+    "title": "Tadaima, Okaeri",
+    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "remonster",
     "epId": "remonster-episode-8",
     "title": "Re:Monster",
@@ -551,13 +558,6 @@
     "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
     "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "tadaima-okaeri",
-    "epId": "tadaima-okaeri-episode-6",
-    "title": "Tadaima, Okaeri",
-    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
-    "episode": "Episode 6"
   },
   {
     "id": "captain-bal",
