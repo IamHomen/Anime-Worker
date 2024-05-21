@@ -1,5 +1,26 @@
 [
   {
+    "id": "rinkai",
+    "epId": "rinkai-episode-7",
+    "title": "Rinkai!",
+    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "unnamed-memory",
+    "epId": "unnamed-memory-episode-7",
+    "title": "Unnamed Memory",
+    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "touken-ranbu-kai-kyoden-moyuru-honnouji",
+    "epId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-8",
+    "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+    "img": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "gekai-elise-housou-ato-mini-drama",
     "epId": "gekai-elise-housou-ato-mini-drama-episode-12",
     "title": "Gekai Elise Housou Ato Mini Drama",
@@ -280,13 +301,6 @@
     "episode": "Episode 3"
   },
   {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-3",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-50",
     "title": "Pokemon (Shinsaku Anime)",
@@ -420,6 +434,13 @@
     "episode": "Episode 7"
   },
   {
+    "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+    "epId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-8",
+    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "img": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "yuru-camp-season-3",
     "epId": "yuru-camp-season-3-episode-7",
     "title": "Yuru Camp\u25b3 Season 3",
@@ -511,31 +532,10 @@
     "episode": "Episode 6"
   },
   {
-    "id": "rinkai",
-    "epId": "rinkai-episode-6",
-    "title": "Rinkai!",
-    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "boukyaku-battery-tv",
     "epId": "boukyaku-battery-tv-episode-6",
     "title": "Boukyaku Battery (TV)",
     "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "touken-ranbu-kai-kyoden-moyuru-honnouji",
-    "epId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-7",
-    "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-    "img": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "unnamed-memory",
-    "epId": "unnamed-memory-episode-6",
-    "title": "Unnamed Memory",
-    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
     "episode": "Episode 6"
   },
   {
