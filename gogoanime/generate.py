@@ -170,7 +170,7 @@ def scrape_anime_info(ids):
         movie_id = soup.select_one('#movie_id')['value']
         alias = soup.select_one('#alias_anime')['value']
 
-        html = requests.get(f"{LOAD_LIST_EPISODE}?ep_start={ep_start}&ep_end={ep_end}&id={movie_id}&default_ep=0&alias={alias}")
+        html = requests.get(f'{LOAD_LIST_EPISODE}?ep_start={ep_start}&ep_end={ep_end}&id={movie_id}&default_ep=0&alias={alias}')
         html.raise_for_status()
 
         episode_soup = BeautifulSoup(html.content, 'html.parser')
@@ -178,8 +178,8 @@ def scrape_anime_info(ids):
         for el in episode_soup('#episode_related > li'):
             epList.append({
                 'episodeId': el.select_one('a')['href'].split('/')[1],
-                'episodeNum': el.select_one('a > .name').text.replace('EP ', 'Episode ').strip(),
-                'episodeUrl': BASE_URL + el.select_one('a')['href'].strip()
+                'episodeNum': el.select_one('a > .name').text.replace('EP ', 'Episode ').strip()
+                #'episodeUrl': BASE_URL + el.select_one('a')['href'].strip()
             })
 
         anime_data = {
