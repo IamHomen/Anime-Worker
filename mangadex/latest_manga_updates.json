@@ -1,5 +1,29 @@
 [
   {
+    "mangaId": "750d3c4f-86cc-46e5-bcbf-1498c6a18b88",
+    "title": {
+      "en": "The Wicked Ladies in Waiting"
+    },
+    "updatedAt": "2024-05-05T17:19:46+00:00",
+    "coverArt": "https://mangadex.org/covers/750d3c4f-86cc-46e5-bcbf-1498c6a18b88/bcda2e61-5037-456d-8884-d9e2f30cda2a.jpg",
+    "altTitles": [
+      {
+        "en": "Bad Maids"
+      },
+      {
+        "ko": "\ub098\uc05c \uc2dc\ub140\ub4e4"
+      }
+    ],
+    "description": {
+      "en": "Julia, who was born an orphan, was killed in exchange for falling in love with the Young Master of the Marjoram Family. But when she opened her eyes, at the same location as any other day, she was rescued by the Commander of the Imperial Army, \u2018Carus\u2019... She was hit by a curse of being unable to die, and this is now her eighth life. After realizing that she would be stuck in the loop forever if she didn't take down the Marquis, she became a servant within the Palace to utilize the Royal Family\u2019s power to demolish the Marjoram Family in her eighth life. \u201cIsn\u2019t this how we\u2019re supposed to plot revenge?\u201d"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "7f30dfc3-0b80-4dcc-a3b9-0cd746fac005",
     "title": {
       "en": "Detective Conan"
@@ -1344,7 +1368,7 @@
     "title": {
       "en": "Brandal"
     },
-    "updatedAt": "2024-03-19T03:12:35+00:00",
+    "updatedAt": "2024-05-21T03:29:54+00:00",
     "coverArt": "https://mangadex.org/covers/214a2f14-7a60-4748-ace4-47c04f1c2a19/0f0b5b33-7d01-4bd6-8c6b-3858f249a990.jpg",
     "altTitles": [
       {
@@ -1579,33 +1603,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": "9"
-  },
-  {
-    "mangaId": "570b0441-2e1a-429f-a6e6-157e55d26104",
-    "title": {
-      "en": "My Classmate Became My Maid"
-    },
-    "updatedAt": "2024-05-20T23:56:07+00:00",
-    "coverArt": "https://mangadex.org/covers/570b0441-2e1a-429f-a6e6-157e55d26104/29da4684-e031-4bab-8fbd-05122d361fe5.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Doukyuusei ga Maid ni Naru Hanashi"
-      },
-      {
-        "ja": "\u540c\u7d1a\u751f\u304c\u30e1\u30a4\u30c9\u306b\u306a\u308b\u8a71"
-      },
-      {
-        "es-la": "Mi compa\u00f1era de clase se volvi\u00f3 mi sirvienta"
-      }
-    ],
-    "description": {
-      "en": "Suishoku-kun really likes his classmate, Aoba-san, but she's very cold to him for some reason. But one day he comes home to his new maid: none other than Aoba herself!",
-      "es-la": "A Suishoku-kun le gusta mucho su compa\u00f1era, Aoba-san, pero ella es muy fr\u00eda con \u00e9l por alguna raz\u00f3n.\u00a1Pero un d\u00eda el vuelve a casa y su nueva sirvienta es nada mas y nada menos que la misma Aoba!"
-    },
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
