@@ -1,5 +1,12 @@
 [
   {
+    "id": "boukyaku-battery-tv",
+    "epId": "boukyaku-battery-tv-episode-7",
+    "title": "Boukyaku Battery (TV)",
+    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "rinkai",
     "epId": "rinkai-episode-7",
     "title": "Rinkai!",
@@ -529,13 +536,6 @@
     "epId": "himitsu-no-aipri-episode-6",
     "title": "Himitsu no AiPri",
     "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "boukyaku-battery-tv",
-    "epId": "boukyaku-battery-tv-episode-6",
-    "title": "Boukyaku Battery (TV)",
-    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
     "episode": "Episode 6"
   },
   {
