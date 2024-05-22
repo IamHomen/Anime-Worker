@@ -48,20 +48,20 @@
     "format": "TV"
   },
   {
-    "id": 9253,
-    "title": "Steins;Gate",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
-    "seasonYear": 2011,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 20954,
     "title": "Koe no Katachi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-UMb6Kl7ZL8Ke.jpg",
     "seasonYear": 2016,
     "totalEpisode": 1,
     "format": "MOVIE"
+  },
+  {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 24,
+    "format": "TV"
   },
   {
     "id": 1535,
@@ -320,19 +320,19 @@
     "format": "TV"
   },
   {
-    "id": 21202,
-    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-TfzXuWQf2oLQ.png",
-    "seasonYear": 2016,
-    "totalEpisode": 10,
-    "format": "TV"
-  },
-  {
     "id": 145064,
     "title": "Jujutsu Kaisen 2nd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-FwX2pzE4mS8Q.jpg",
     "seasonYear": 2023,
     "totalEpisode": 23,
+    "format": "TV"
+  },
+  {
+    "id": 21202,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-TfzXuWQf2oLQ.png",
+    "seasonYear": 2016,
+    "totalEpisode": 10,
     "format": "TV"
   },
   {
