@@ -42,13 +42,6 @@
     "episode": "Episode 8"
   },
   {
-    "id": "gekai-elise-housou-ato-mini-drama",
-    "epId": "gekai-elise-housou-ato-mini-drama-episode-12",
-    "title": "Gekai Elise Housou Ato Mini Drama",
-    "img": "https://gogocdn.net/cover/gekai-elise-housou-ato-mini-drama.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-8",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
@@ -2797,6 +2790,13 @@
     "epId": "overtake-episode-12",
     "title": "Overtake!",
     "img": "https://gogocdn.net/cover/overtake-1696011029.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "boushoku-no-berserk",
+    "epId": "boushoku-no-berserk-episode-12",
+    "title": "Boushoku no Berserk",
+    "img": "https://gogocdn.net/cover/boushoku-no-berserk-1698295260.png",
     "episode": "Episode 12"
   }
 ]
