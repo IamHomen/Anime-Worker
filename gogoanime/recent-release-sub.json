@@ -1,5 +1,26 @@
 [
   {
+    "id": "yuru-camp-season-3",
+    "epId": "yuru-camp-season-3-episode-8",
+    "title": "Yuru Camp\u25b3 Season 3",
+    "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "garouden-the-way-of-the-lone-wolf",
+    "epId": "garouden-the-way-of-the-lone-wolf-episode-8",
+    "title": "Garouden: The Way of the Lone Wolf",
+    "img": "https://gogocdn.net/cover/garouden-the-way-of-the-lone-wolf.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "jantama-kan",
+    "epId": "jantama-kan-episode-5",
+    "title": "Jantama Kan!!",
+    "img": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "kenka-dokugaku",
     "epId": "kenka-dokugaku-episode-7",
     "title": "Kenka Dokugaku",
@@ -196,13 +217,6 @@
     "episode": "Episode 7"
   },
   {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-4",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "tensei-kizoku-kantei-skill-de-nariagaru",
     "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-7",
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -264,13 +278,6 @@
     "title": "Yozakura-san Chi no Daisakusen",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1105",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1105"
   },
   {
     "id": "wonderful-precure",
@@ -2790,13 +2797,6 @@
     "epId": "overtake-episode-12",
     "title": "Overtake!",
     "img": "https://gogocdn.net/cover/overtake-1696011029.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "boushoku-no-berserk",
-    "epId": "boushoku-no-berserk-episode-12",
-    "title": "Boushoku no Berserk",
-    "img": "https://gogocdn.net/cover/boushoku-no-berserk-1698295260.png",
     "episode": "Episode 12"
   }
 ]
