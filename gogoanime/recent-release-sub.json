@@ -1,5 +1,12 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-93",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 93"
+  },
+  {
     "id": "urusei-yatsura-2022-2nd-season",
     "epId": "urusei-yatsura-2022-2nd-season-episode-19",
     "title": "Urusei Yatsura (2022) 2nd Season",
@@ -516,13 +523,6 @@
     "title": "Detective Conan Remastered",
     "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
     "episode": "Episode 424"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-92",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 92"
   },
   {
     "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai",
