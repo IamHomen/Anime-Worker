@@ -1,5 +1,12 @@
 [
   {
+    "id": "dungeon-meshi",
+    "epId": "dungeon-meshi-episode-21",
+    "title": "Dungeon Meshi",
+    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "episode": "Episode 21"
+  },
+  {
     "id": "yuru-camp-season-3",
     "epId": "yuru-camp-season-3-episode-8",
     "title": "Yuru Camp\u25b3 Season 3",
@@ -280,6 +287,13 @@
     "episode": "Episode 7"
   },
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1105",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1105"
+  },
+  {
     "id": "wonderful-precure",
     "epId": "wonderful-precure-episode-16",
     "title": "Wonderful Precure!",
@@ -504,25 +518,11 @@
     "episode": "Episode 8"
   },
   {
-    "id": "yuru-camp-season-3",
-    "epId": "yuru-camp-season-3-episode-7",
-    "title": "Yuru Camp\u25b3 Season 3",
-    "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai",
     "epId": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1",
     "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
     "img": "https://gogocdn.net/cover/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "dungeon-meshi",
-    "epId": "dungeon-meshi-episode-20",
-    "title": "Dungeon Meshi",
-    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 20"
   },
   {
     "id": "beyblade-x",
