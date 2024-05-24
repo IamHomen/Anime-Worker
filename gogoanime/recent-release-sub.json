@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-32",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 32"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-93",
     "title": "Chiikawa",
@@ -530,13 +537,6 @@
     "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
     "img": "https://gogocdn.net/cover/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-31",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 31"
   },
   {
     "id": "chibi-godzilla-no-gyakushuu",
