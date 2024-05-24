@@ -560,6 +560,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "anime-tenchou-movie",
+    "epId": "anime-tenchou-movie-episode-1",
+    "title": "Anime Tenchou Movie",
+    "img": "https://gogocdn.net/cover/anime-tenchou-movie.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "shin-hakkenden",
     "epId": "shin-hakkenden-episode-26",
     "title": "Shin Hakkenden",
@@ -691,13 +698,6 @@
     "title": "Enter the Garden",
     "img": "https://gogocdn.net/cover/enter-the-garden.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "dr-slump-arale-chan",
-    "epId": "dr-slump-arale-chan-episode-158",
-    "title": "Dr. Slump: Arale-chan",
-    "img": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
-    "episode": "Episode 158"
   },
   {
     "id": "dr-slump-arale-chan",
@@ -1260,6 +1260,13 @@
     "episode": "Episode 27"
   },
   {
+    "id": "nanako-sos",
+    "epId": "nanako-sos-episode-5",
+    "title": "Nanako SOS",
+    "img": "https://gogocdn.net/cover/nanako-sos.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "oroka-na-tenshi-wa-akuma-to-odoru",
     "epId": "oroka-na-tenshi-wa-akuma-to-odoru-episode-12",
     "title": "Oroka na Tenshi wa Akuma to Odoru",
@@ -1391,13 +1398,6 @@
     "title": "Undead Unluck",
     "img": "https://gogocdn.net/cover/undead-unluck-1708403714.png",
     "episode": "Episode 24"
-  },
-  {
-    "id": "momochi-san-chi-no-ayakashi-ouji",
-    "epId": "momochi-san-chi-no-ayakashi-ouji-episode-12",
-    "title": "Momochi-san Chi no Ayakashi Ouji",
-    "img": "https://gogocdn.net/cover/momochi-san-chi-no-ayakashi-ouji-1709528725.png",
-    "episode": "Episode 12"
   },
   {
     "id": "momochi-san-chi-no-ayakashi-ouji",
