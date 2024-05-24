@@ -1,5 +1,26 @@
 [
   {
+    "id": "suki-demo-kirai-na-amanojaku",
+    "epId": "suki-demo-kirai-na-amanojaku-episode-1",
+    "title": "Suki demo Kirai na Amanojaku",
+    "img": "https://gogocdn.net/cover/suki-demo-kirai-na-amanojaku.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bear-bear-bear-kuma-punch-daiundoukai-hen",
+    "epId": "bear-bear-bear-kuma-punch-daiundoukai-hen-episode-3",
+    "title": "Bear Bear Bear Kuma Punch!! Daiundoukai-hen",
+    "img": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch-daiundoukai-hen.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "bear-bear-bear-kuma-punch",
+    "epId": "bear-bear-bear-kuma-punch-episode-5",
+    "title": "Bear Bear Bear Kuma Punch!",
+    "img": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "ninjala",
     "epId": "ninjala-episode-118",
     "title": "Ninjala",
@@ -840,13 +861,6 @@
     "episode": "Episode 50"
   },
   {
-    "id": "magicaltaruruuto-kun",
-    "epId": "magicaltaruruuto-kun-episode-50",
-    "title": "Magical\u2605Taruruuto-kun",
-    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
-    "episode": "Episode 50"
-  },
-  {
     "id": "cardfight-vanguard-divinez",
     "epId": "cardfight-vanguard-divinez-episode-13",
     "title": "Cardfight!! Vanguard: Divinez",
@@ -980,6 +994,13 @@
     "episode": "Episode 13"
   },
   {
+    "id": "shadowverse-flame-special",
+    "epId": "shadowverse-flame-special-episode-3",
+    "title": "Shadowverse Flame Special",
+    "img": "https://gogocdn.net/cover/shadowverse-flame-special.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "bucchigiri",
     "epId": "bucchigiri-episode-12",
     "title": "Bucchigiri?!",
@@ -1111,13 +1132,6 @@
     "title": "Meitantei Conan vs. Kaitou Kid",
     "img": "https://gogocdn.net/cover/meitantei-conan-vs-kaitou-kid.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "seigi-wo-aisuru-mono-gekkou-kamen",
-    "epId": "seigi-wo-aisuru-mono-gekkou-kamen-episode-3",
-    "title": "Seigi wo Aisuru Mono Gekkou Kamen",
-    "img": "https://gogocdn.net/cover/seigi-wo-aisuru-mono-gekkou-kamen.png",
-    "episode": "Episode 3"
   },
   {
     "id": "seigi-wo-aisuru-mono-gekkou-kamen",
@@ -2783,20 +2797,6 @@
     "epId": "watashi-no-oshi-wa-akuyaku-reijou-episode-12",
     "title": "Watashi no Oshi wa Akuyaku Reijou.",
     "img": "https://gogocdn.net/cover/watashi-no-oshi-wa-akuyaku-reijou-1696013523.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "shy",
-    "epId": "shy-episode-12",
-    "title": "Shy",
-    "img": "https://gogocdn.net/cover/shy-1696012610.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "toaru-ossan-no-vrmmo-katsudouki",
-    "epId": "toaru-ossan-no-vrmmo-katsudouki-episode-12",
-    "title": "Toaru Ossan no VRMMO Katsudouki",
-    "img": "https://gogocdn.net/cover/toaru-ossan-no-vrmmo-katsudouki-1696013064.png",
     "episode": "Episode 12"
   }
 ]
