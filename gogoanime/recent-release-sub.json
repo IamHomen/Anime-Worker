@@ -1,5 +1,12 @@
 [
   {
+    "id": "ninjala",
+    "epId": "ninjala-episode-118",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 118"
+  },
+  {
     "id": "dead-dead-demons-dededede-destruction",
     "epId": "dead-dead-demons-dededede-destruction",
     "title": "Dead Dead Demons Dededede Destruction",
@@ -523,13 +530,6 @@
     "title": "Nijiyon Animation 2",
     "img": "https://gogocdn.net/cover/nijiyon-animation-2.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-117",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 117"
   },
   {
     "id": "detective-conan-remastered",
