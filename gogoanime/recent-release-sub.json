@@ -840,6 +840,13 @@
     "episode": "Episode 50"
   },
   {
+    "id": "magicaltaruruuto-kun",
+    "epId": "magicaltaruruuto-kun-episode-50",
+    "title": "Magical\u2605Taruruuto-kun",
+    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
+    "episode": "Episode 50"
+  },
+  {
     "id": "cardfight-vanguard-divinez",
     "epId": "cardfight-vanguard-divinez-episode-13",
     "title": "Cardfight!! Vanguard: Divinez",
@@ -973,13 +980,6 @@
     "episode": "Episode 13"
   },
   {
-    "id": "shadowverse-flame-special",
-    "epId": "shadowverse-flame-special-episode-3",
-    "title": "Shadowverse Flame Special",
-    "img": "https://gogocdn.net/cover/shadowverse-flame-special.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "bucchigiri",
     "epId": "bucchigiri-episode-12",
     "title": "Bucchigiri?!",
@@ -1111,6 +1111,13 @@
     "title": "Meitantei Conan vs. Kaitou Kid",
     "img": "https://gogocdn.net/cover/meitantei-conan-vs-kaitou-kid.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "seigi-wo-aisuru-mono-gekkou-kamen",
+    "epId": "seigi-wo-aisuru-mono-gekkou-kamen-episode-3",
+    "title": "Seigi wo Aisuru Mono Gekkou Kamen",
+    "img": "https://gogocdn.net/cover/seigi-wo-aisuru-mono-gekkou-kamen.png",
+    "episode": "Episode 3"
   },
   {
     "id": "seigi-wo-aisuru-mono-gekkou-kamen",
@@ -2790,13 +2797,6 @@
     "epId": "toaru-ossan-no-vrmmo-katsudouki-episode-12",
     "title": "Toaru Ossan no VRMMO Katsudouki",
     "img": "https://gogocdn.net/cover/toaru-ossan-no-vrmmo-katsudouki-1696013064.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "mf-ghost",
-    "epId": "mf-ghost-episode-12",
-    "title": "MF Ghost",
-    "img": "https://gogocdn.net/cover/mf-ghost-1696010758.png",
     "episode": "Episode 12"
   }
 ]
