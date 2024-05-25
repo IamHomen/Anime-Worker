@@ -64,6 +64,28 @@
     "lastChapter": null
   },
   {
+    "mangaId": "e90f0484-f65c-4892-903a-42a180692392",
+    "title": {
+      "en": "My Sister\u2019s Private Life"
+    },
+    "updatedAt": "2024-04-01T20:28:19+00:00",
+    "coverArt": "https://mangadex.org/covers/e90f0484-f65c-4892-903a-42a180692392/1f934158-78db-42c1-9f46-f58e2d4f7ee6.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc790\ub9e4\uc758 \uc0ac\uc0dd\ud65c"
+      },
+      {
+        "uk": "\u041f\u0440\u0438\u0432\u0430\u0442\u043d\u0435 \u0436\u0438\u0442\u0442\u044f \u043c\u043e\u0454\u0457 \u0441\u0435\u0441\u0442\u0440\u0438"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "d0e0681e-8452-428d-91db-99ee9085f54c",
     "title": {
       "en": "Igyou Atama-san to Ningen-chan (Pre-Serialization)"
@@ -1572,35 +1594,5 @@
     "contentRating": "suggestive",
     "lastVolume": "19",
     "lastChapter": "348"
-  },
-  {
-    "mangaId": "06eff9bc-02ae-4119-aa71-712ed5738ecf",
-    "title": {
-      "en": "Captain Tsubasa - Road to 2002"
-    },
-    "updatedAt": "2023-03-09T20:07:29+00:00",
-    "coverArt": "https://mangadex.org/covers/06eff9bc-02ae-4119-aa71-712ed5738ecf/1e803ba4-5eca-457d-92f6-40deacc167ee.jpg",
-    "altTitles": [
-      {
-        "en": "Captain Tsubasa: Road to 2002 - Go for 2006"
-      },
-      {
-        "en": "GO FOR 2006"
-      },
-      {
-        "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u7ffc\u3000ROAD\u3000TO\u30002002"
-      },
-      {
-        "zh": "\u8db3\u7403\u5c0f\u5c06 Road to 2002"
-      }
-    ],
-    "description": {
-      "en": "After the World Youth, Japanese players are looking for pro careers in Japan and around the world.  \n  \nIn order to fulfill their dream of World Cup 2002 in Korea and Japan, they must get stronger playing in various club competitions, home and abroad."
-    },
-    "status": "completed",
-    "releaseDate": 2001,
-    "contentRating": "safe",
-    "lastVolume": "15",
-    "lastChapter": "144"
   }
 ]
