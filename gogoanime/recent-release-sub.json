@@ -1,5 +1,47 @@
 [
   {
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-7",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "sasayaku-you-ni-koi-wo-utau",
+    "epId": "sasayaku-you-ni-koi-wo-utau-episode-7",
+    "title": "Sasayaku You ni Koi wo Utau",
+    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "yoru-no-kurage-wa-oyogenai",
+    "epId": "yoru-no-kurage-wa-oyogenai-episode-8",
+    "title": "Yoru no Kurage wa Oyogenai",
+    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "the-fable",
+    "epId": "the-fable-episode-8",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "attacker-you",
+    "epId": "attacker-you-episode-51",
+    "title": "Attacker You!",
+    "img": "https://gogocdn.net/images/upload/55755.jpg",
+    "episode": "Episode 51"
+  },
+  {
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-7",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "kaijuu-8-gou",
     "epId": "kaijuu-8-gou-episode-7",
     "title": "Kaijuu 8-gou",
@@ -504,46 +546,11 @@
     "episode": "Episode 7"
   },
   {
-    "id": "sasayaku-you-ni-koi-wo-utau",
-    "epId": "sasayaku-you-ni-koi-wo-utau-episode-6",
-    "title": "Sasayaku You ni Koi wo Utau",
-    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "yoru-no-kurage-wa-oyogenai",
-    "epId": "yoru-no-kurage-wa-oyogenai-episode-7",
-    "title": "Yoru no Kurage wa Oyogenai",
-    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "epId": "karasu-wa-aruji-wo-erabanai-episode-7",
     "title": "Karasu wa Aruji wo Erabanai",
     "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-7",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "the-new-gate",
-    "epId": "the-new-gate-episode-6",
-    "title": "The New Gate",
-    "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-6",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 6"
   },
   {
     "id": "detective-conan",
@@ -1867,13 +1874,6 @@
     "title": "I.Cinnamoroll Animation",
     "img": "https://gogocdn.net/cover/i-cinnamoroll-animation.png",
     "episode": "Episode 20"
-  },
-  {
-    "id": "attacker-you",
-    "epId": "attacker-you-episode-50",
-    "title": "Attacker You!",
-    "img": "https://gogocdn.net/images/upload/55755.jpg",
-    "episode": "Episode 50"
   },
   {
     "id": "vanquished-queens-specials",
