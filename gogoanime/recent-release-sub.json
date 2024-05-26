@@ -1,5 +1,12 @@
 [
   {
+    "id": "jiisan-baasan-wakagaeru",
+    "epId": "jiisan-baasan-wakagaeru-episode-8",
+    "title": "Jiisan Baasan Wakagaeru",
+    "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "vampire-dormitory",
     "epId": "vampire-dormitory-episode-8",
     "title": "Vampire Dormitory",
@@ -280,13 +287,6 @@
     "episode": "Episode 93"
   },
   {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-93",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 93"
-  },
-  {
     "id": "urusei-yatsura-2022-2nd-season",
     "epId": "urusei-yatsura-2022-2nd-season-episode-19",
     "title": "Urusei Yatsura (2022) 2nd Season",
@@ -420,6 +420,13 @@
     "episode": "Episode 7"
   },
   {
+    "id": "rinkai",
+    "epId": "rinkai-episode-7",
+    "title": "Rinkai!",
+    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "unnamed-memory",
     "epId": "unnamed-memory-episode-7",
     "title": "Unnamed Memory",
@@ -550,13 +557,6 @@
     "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-7",
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
     "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "jiisan-baasan-wakagaeru",
-    "epId": "jiisan-baasan-wakagaeru-episode-7",
-    "title": "Jiisan Baasan Wakagaeru",
-    "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
     "episode": "Episode 7"
   },
   {
