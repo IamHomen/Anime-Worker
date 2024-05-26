@@ -1,5 +1,19 @@
 [
   {
+    "id": "vampire-dormitory",
+    "epId": "vampire-dormitory-episode-8",
+    "title": "Vampire Dormitory",
+    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "shinigami-bocchan-to-kuro-maid-3rd-season",
+    "epId": "shinigami-bocchan-to-kuro-maid-3rd-season-episode-8",
+    "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
+    "img": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "chibi-maruko-chan",
     "epId": "chibi-maruko-chan-episode-1432",
     "title": "Chibi Maruko-chan",
@@ -266,6 +280,13 @@
     "episode": "Episode 93"
   },
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-93",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 93"
+  },
+  {
     "id": "urusei-yatsura-2022-2nd-season",
     "epId": "urusei-yatsura-2022-2nd-season-episode-19",
     "title": "Urusei Yatsura (2022) 2nd Season",
@@ -396,13 +417,6 @@
     "epId": "boukyaku-battery-tv-episode-7",
     "title": "Boukyaku Battery (TV)",
     "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "rinkai",
-    "epId": "rinkai-episode-7",
-    "title": "Rinkai!",
-    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
     "episode": "Episode 7"
   },
   {
@@ -539,24 +553,10 @@
     "episode": "Episode 7"
   },
   {
-    "id": "vampire-dormitory",
-    "epId": "vampire-dormitory-episode-7",
-    "title": "Vampire Dormitory",
-    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "jiisan-baasan-wakagaeru",
     "epId": "jiisan-baasan-wakagaeru-episode-7",
     "title": "Jiisan Baasan Wakagaeru",
     "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "shinigami-bocchan-to-kuro-maid-3rd-season",
-    "epId": "shinigami-bocchan-to-kuro-maid-3rd-season-episode-7",
-    "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
-    "img": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
     "episode": "Episode 7"
   },
   {
