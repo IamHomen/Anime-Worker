@@ -1,5 +1,26 @@
 [
   {
+    "id": "blue-archive-the-animation",
+    "epId": "blue-archive-the-animation-episode-8",
+    "title": "Blue Archive the Animation",
+    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-3",
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-7",
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "tensei-kizoku-kantei-skill-de-nariagaru",
     "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-8",
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -546,20 +567,6 @@
     "episode": "Episode 16"
   },
   {
-    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
-    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-2",
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "blue-archive-the-animation",
-    "epId": "blue-archive-the-animation-episode-7",
-    "title": "Blue Archive the Animation",
-    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "detective-conan",
     "epId": "detective-conan-episode-1124",
     "title": "Detective Conan",
@@ -635,13 +642,6 @@
     "title": "Captain Bal",
     "img": "https://gogocdn.net/cover/captain-bal.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-6",
-    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
-    "episode": "Episode 6"
   },
   {
     "id": "odekake-kozame",
