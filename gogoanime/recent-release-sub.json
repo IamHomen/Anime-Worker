@@ -1,5 +1,12 @@
 [
   {
+    "id": "tadaima-okaeri",
+    "epId": "tadaima-okaeri-episode-8",
+    "title": "Tadaima, Okaeri",
+    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "remonster",
     "epId": "remonster-episode-9",
     "title": "Re:Monster",
@@ -296,7 +303,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-55",
-    "title": "Magical\u014c\u015b\u0123Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 55"
   },
@@ -408,7 +415,7 @@
   {
     "id": "yuru-camp-season-3",
     "epId": "yuru-camp-season-3-episode-8",
-    "title": "Yuru Camp\u014c\u00a2\u2502 Season 3",
+    "title": "Yuru Camp\u25b3 Season 3",
     "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 8"
   },
@@ -537,13 +544,6 @@
     "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
     "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "tadaima-okaeri",
-    "epId": "tadaima-okaeri-episode-7",
-    "title": "Tadaima, Okaeri",
-    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
-    "episode": "Episode 7"
   },
   {
     "id": "ray-the-animation",
