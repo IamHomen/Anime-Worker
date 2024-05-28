@@ -1,5 +1,47 @@
 [
   {
+    "mangaId": "9493c6e4-32c8-438a-9d37-0f3fd5ceb4e9",
+    "title": {
+      "en": "Koi ni suruniha ayafuya sugiru"
+    },
+    "updatedAt": "2024-05-28T09:51:48+00:00",
+    "coverArt": "https://mangadex.org/covers/9493c6e4-32c8-438a-9d37-0f3fd5ceb4e9/70b5a0ee-6174-4520-9e13-af97119814a6.jpg",
+    "altTitles": [
+      {
+        "ja": "\u604b\u306b\u3059\u308b\u306b\u306f\u3042\u3084\u3075\u3084\u3059\u304e\u308b"
+      }
+    ],
+    "description": {
+      "en": "\u201cGive me just one memory.\u201d\n\nSince elementary school, Minami has had feelings for Yudai, his childhood friend. Even after becoming a university student, this remained an important thing that he carried with him without telling anyone. However, Minami finds out that Yudai, who he met for the first time in a while, has a girlfriend and that they are living together. He ends up drinking alcohol out of sadness. At the end of his drunken state, he dreams that Yudai appears in front of him, cries, clings to him, and holds him in his arms.\n\nThe next morning, when he woke up, there was a handsome stranger next to him...!?"
+    },
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "1",
+    "lastChapter": "5.5"
+  },
+  {
+    "mangaId": "e15af31c-d413-414c-a7a5-5fb09c86a16a",
+    "title": {
+      "en": "The Secrets of the Lovely Duchess"
+    },
+    "updatedAt": "2024-05-25T20:25:28+00:00",
+    "coverArt": "https://mangadex.org/covers/e15af31c-d413-414c-a7a5-5fb09c86a16a/40865dcd-4e81-4752-8f49-54cd5324898c.png",
+    "altTitles": [
+      {
+        "ko": "\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uacf5\uc791 \ubd80\uc778\uc758 \ube44\ubc00"
+      }
+    ],
+    "description": {
+      "en": "Luclia is a girl who was trapped in the demon archduke's dungeon for seven years and saw ghosts. One day the prison wall collapsed and a man came.\n\n\"Wow! are you a prince?\"\n\"Sorry, I'm just a duke.\"\n\nDavier, Duke of the House of Montenfeltro. Sure enough, with his temperamental and violent personality, he would take Luclia, an unknown girl, as his princess?!\n\n\"Duke, I wonder why you brought her here...\"\n\nLuclia, who has just entered the word with the mysterious Duke Davier. Can two people understand each other and still be happy?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "cd32f281-8e4f-4c83-8d5a-0af816087683",
     "title": {
       "en": "The Ghost and the Exhausted Office Worker"
@@ -1509,54 +1551,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "72d1f1a6-09ef-44ed-886b-fdef8250c518",
-    "title": {
-      "en": "Becoming a Legendary Ace Employee"
-    },
-    "updatedAt": "2024-05-12T23:34:03+00:00",
-    "coverArt": "https://mangadex.org/covers/72d1f1a6-09ef-44ed-886b-fdef8250c518/97b0fbf8-12f0-4a22-8262-5d672b14129a.jpg",
-    "altTitles": [
-      {
-        "en": "Become a Legend as an All-Rounder"
-      },
-      {
-        "ko": "\ub9cc\ub2a5\uc0ac\uc6d0 \uc804\uc124\uc774 \ub418\ub2e4"
-      }
-    ],
-    "description": {
-      "en": "Kim Tae-seok, who worked on a construction site, receives a notice of passing the document screening for the major company El Sung. At the same time, a message pops up in front of him: 'You have entered the path to becoming a regular employee tutorial. Would you like to proceed?' Follow Kim Tae-seok's struggle to become the legendary all-around employee in this corporate adventure!"
-    },
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "a79e2584-c08e-4bc8-9293-8a441b6802d6",
-    "title": {
-      "en": "Otagai Dondon Hamatteiku Kyouikugakari to Shinnyuushain"
-    },
-    "updatedAt": "2024-02-02T18:01:33+00:00",
-    "coverArt": "https://mangadex.org/covers/a79e2584-c08e-4bc8-9293-8a441b6802d6/7c61bd15-3fc0-4c01-ae56-e925d577b101.jpg",
-    "altTitles": [
-      {
-        "ja": "\u304a\u4e92\u3044\u3069\u3093\u3069\u3093\u30cf\u30de\u3063\u3066\u3044\u304f\u6559\u80b2\u4fc2\u3068\u65b0\u5165\u793e\u54e1"
-      },
-      {
-        "ja-ro": "Otagai Dondon Hamatteiku Kyouikugakari to Shinnyuushain"
-      },
-      {
-        "en": "The Mentor and the New Employee Who are Getting More and More Into Each Other"
-      }
-    ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "55"
   }
 ]
