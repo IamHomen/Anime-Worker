@@ -62,3 +62,13 @@ ref5 = db.reference('/anime-list/anime/popular/month')
 
 # Upload the data
 ref5.set(data5)
+
+# Load the JSON data from a file (Popular Month)
+with open('./gogoanime/new-season.json', 'r') as f:
+    data6 = json.load(f)
+
+# Specify the reference where you want to upload the data
+ref6 = db.reference('/anime-list/anime/new-season')
+
+# Upload the data
+ref6.set(data6)
