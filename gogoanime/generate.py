@@ -152,7 +152,7 @@ def scrape_newseason_anime():
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
         while page_number <= 10:  # Stop scraping at page 10
-            popular_page = requests.get(POPULAR_URL + f"?page={page_number}", headers=headers)
+            popular_page = requests.get(NEW_SEASON_URL + f"?page={page_number}", headers=headers)
             soup = BeautifulSoup(popular_page.content, 'html.parser')
 
             # Check if the page contains anime entries
