@@ -1,5 +1,12 @@
 [
   {
+    "id": "fatal-fury-the-motion-picture",
+    "epId": "fatal-fury-the-motion-picture-episode-1",
+    "title": "Fatal Fury: The Motion Picture",
+    "img": "https://gogocdn.net/cover/fatal-fury-the-motion-picture.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "fatal-fury-2-the-new-battle",
     "epId": "fatal-fury-2-the-new-battle-episode-1",
     "title": "Fatal Fury 2: The New Battle",
@@ -2791,12 +2798,5 @@
     "title": "Temple Specials",
     "img": "https://gogocdn.net/cover/temple-specials.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "helck",
-    "epId": "helck-episode-24",
-    "title": "Helck",
-    "img": "https://gogocdn.net/cover/helck-1688154157.png",
-    "episode": "Episode 24"
   }
 ]
