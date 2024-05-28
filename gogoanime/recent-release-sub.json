@@ -1,5 +1,19 @@
 [
   {
+    "id": "fatal-fury-2-the-new-battle",
+    "epId": "fatal-fury-2-the-new-battle-episode-1",
+    "title": "Fatal Fury 2: The New Battle",
+    "img": "https://gogocdn.net/cover/fatal-fury-2-the-new-battle.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "fatal-fury-legend-of-the-hungry-wolf",
+    "epId": "fatal-fury-legend-of-the-hungry-wolf-episode-1",
+    "title": "Fatal Fury: Legend of the Hungry Wolf",
+    "img": "https://gogocdn.net/cover/fatal-fury-legend-of-the-hungry-wolf.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "bakugan-battle-brawlers",
     "epId": "bakugan-battle-brawlers-episode-14",
     "title": "Bakugan Battle Brawlers\t",
@@ -2784,19 +2798,5 @@
     "title": "Helck",
     "img": "https://gogocdn.net/cover/helck-1688154157.png",
     "episode": "Episode 24"
-  },
-  {
-    "id": "seijo-no-maryoku-wa-bannou-desu-2nd-season",
-    "epId": "seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-12",
-    "title": "Seijo no Maryoku wa Bannou Desu 2nd Season",
-    "img": "https://gogocdn.net/cover/seijo-no-maryoku-wa-bannou-desu-2nd-season-1696012310.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "b-project-netsuretsulove-call",
-    "epId": "b-project-netsuretsulove-call-episode-12",
-    "title": "B-Project: Netsuretsu*Love Call",
-    "img": "https://gogocdn.net/cover/b-project-netsuretsulove-call.png",
-    "episode": "Episode 12"
   }
 ]
