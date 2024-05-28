@@ -1,5 +1,19 @@
 [
   {
+    "id": "bakugan-battle-brawlers",
+    "epId": "bakugan-battle-brawlers-episode-9",
+    "title": "Bakugan Battle Brawlers\t",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-6",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-8",
     "title": "Shinkalion: Change the World",
@@ -324,7 +338,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-55",
-    "title": "Magical\u014c\u015b\u0123Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 55"
   },
@@ -495,13 +509,6 @@
     "title": "Seiyuu Radio no Uraomote",
     "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-5",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 5"
   },
   {
     "id": "himitsu-no-aipri",
@@ -2790,13 +2797,6 @@
     "epId": "b-project-netsuretsulove-call-episode-12",
     "title": "B-Project: Netsuretsu*Love Call",
     "img": "https://gogocdn.net/cover/b-project-netsuretsulove-call.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "watashi-no-oshi-wa-akuyaku-reijou",
-    "epId": "watashi-no-oshi-wa-akuyaku-reijou-episode-12",
-    "title": "Watashi no Oshi wa Akuyaku Reijou.",
-    "img": "https://gogocdn.net/cover/watashi-no-oshi-wa-akuyaku-reijou-1696013523.png",
     "episode": "Episode 12"
   }
 ]
