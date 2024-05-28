@@ -1,26 +1,62 @@
 [
   {
+    "mangaId": "951034a6-f967-49d0-bbbe-72e2344214f0",
+    "title": {
+      "en": "Ryu's Road"
+    },
+    "updatedAt": "2023-02-13T02:12:00+00:00",
+    "coverArt": "https://mangadex.org/covers/951034a6-f967-49d0-bbbe-72e2344214f0/2bd5164d-ad88-4f63-b1e9-268c438cc958.png",
+    "altTitles": [
+      {
+        "fr": "Le voyage de Ryu"
+      },
+      {
+        "pt": "O Caminho do Drag\u00e3o"
+      },
+      {
+        "en": "The Road of Ryu"
+      },
+      {
+        "en": "The Way of Ryu"
+      },
+      {
+        "ja": "\u30ea\u30e5\u30a6\u306e\u9053"
+      },
+      {
+        "ja-ro": "Ryuu no Michi"
+      }
+    ],
+    "description": {
+      "en": "Ryu stows away on a space vessel, only to be found by the crew when it's far to late to return to earth. So they stick him in a spare sleep capsule instead. Things take a turn for the unexpected, however, when Ryu wakes up to find himself the sole survivor of the expedition, the spaceship having crash landed on a grossly mutated and wholly unfamiliar Earth. Joining forces with fellow survivors from a different crash, Ryu and his comrades fight to survive on this new and deadly Earth as they search for any humans that might've made it through the mysterious apocalypse.\n\nThe Second part of the Ryu Trilogy"
+    },
+    "status": "completed",
+    "releaseDate": 1969,
+    "contentRating": "safe",
+    "lastVolume": "8",
+    "lastChapter": "28.2"
+  },
+  {
     "mangaId": "124d23eb-d8b7-4ca4-b316-99c6620c862b",
     "title": {
       "en": "Hitoribocchi wa Samishikute"
     },
-    "updatedAt": "2023-11-14T13:20:25+00:00",
-    "coverArt": "https://mangadex.org/covers/124d23eb-d8b7-4ca4-b316-99c6620c862b/de1653e2-2f42-478a-8045-118da94b6051.jpg",
+    "updatedAt": "2024-05-28T22:09:31+00:00",
+    "coverArt": "https://mangadex.org/covers/124d23eb-d8b7-4ca4-b316-99c6620c862b/a572fdd2-a5c0-4a81-a538-dcf94043c0ef.jpg",
     "altTitles": [
       {
-        "en": "Hitori Bocchi wa Samishikute"
+        "ja-ro": "Hitori Bocchi wa Samishikute"
       },
       {
-        "en": "ich k\u00f6nnte fliegen..."
+        "de": "ich k\u00f6nnte fliegen..."
       },
       {
-        "en": "Ich w\u00fcnschte"
+        "de": "Ich w\u00fcnschte"
       },
       {
         "en": "Lonely Without You"
       },
       {
-        "en": "\u3072\u3068\u308a\u307c\u3063\u3061\u306f\u3055\u307f\u3057\u304f\u3066"
+        "ja": "\u3072\u3068\u308a\u307c\u3063\u3061\u306f\u3055\u307f\u3057\u304f\u3066"
       }
     ],
     "description": {
@@ -279,7 +315,7 @@
       "en": "Tou no Kanri o Shite Miyou"
     },
     "updatedAt": "2024-03-18T16:13:29+00:00",
-    "coverArt": "https://mangadex.org/covers/23a84f79-368c-44ca-8a8f-57103b9a5628/7ad63587-3f2a-4def-bde5-6d80276e2c8f.jpg",
+    "coverArt": "https://mangadex.org/covers/23a84f79-368c-44ca-8a8f-57103b9a5628/f8e295e7-cbc5-46a9-8460-4b5d9928e3ed.jpg",
     "altTitles": [
       {
         "en": "Let's manage the tower"
@@ -1776,28 +1812,6 @@
     },
     "status": "ongoing",
     "releaseDate": 2020,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "93028e4b-1977-40d3-ac5b-99b97ab7c7c4",
-    "title": {
-      "en": "Yu-Gi-Oh! VRAINS - Seed of Joy (Doujinshi)"
-    },
-    "updatedAt": "2024-05-28T19:04:20+00:00",
-    "coverArt": "https://mangadex.org/covers/93028e4b-1977-40d3-ac5b-99b97ab7c7c4/81d160f4-ce98-4e67-b6ad-1359f149978c.jpg",
-    "altTitles": [
-      {
-        "ja": "\u6b53\u3073\u306e\u7a2e"
-      },
-      {
-        "ja-ro": "Yorokobi no Tane"
-      }
-    ],
-    "description": {},
-    "status": "completed",
-    "releaseDate": null,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
