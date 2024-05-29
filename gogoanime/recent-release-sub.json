@@ -1,5 +1,26 @@
 [
   {
+    "id": "date-a-live-v",
+    "epId": "date-a-live-v-episode-8",
+    "title": "Date A Live V",
+    "img": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "kaii-to-otome-to-kamikakushi",
+    "epId": "kaii-to-otome-to-kamikakushi-episode-8",
+    "title": "Kaii to Otome to Kamikakushi",
+    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "seiyuu-radio-no-uraomote",
+    "epId": "seiyuu-radio-no-uraomote-episode-8",
+    "title": "Seiyuu Radio no Uraomote",
+    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "samurai-spirits-haten-gouma-no-shou",
     "epId": "samurai-spirits-haten-gouma-no-shou-episode-1",
     "title": "Samurai Spirits: Haten Gouma no Shou",
@@ -543,27 +564,6 @@
     "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-7",
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
     "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "date-a-live-v",
-    "epId": "date-a-live-v-episode-7",
-    "title": "Date A Live V",
-    "img": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "kaii-to-otome-to-kamikakushi",
-    "epId": "kaii-to-otome-to-kamikakushi-episode-7",
-    "title": "Kaii to Otome to Kamikakushi",
-    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "seiyuu-radio-no-uraomote",
-    "epId": "seiyuu-radio-no-uraomote-episode-7",
-    "title": "Seiyuu Radio no Uraomote",
-    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
     "episode": "Episode 7"
   },
   {
@@ -2380,13 +2380,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "rail-romanesque-2",
-    "epId": "rail-romanesque-2-episode-3",
-    "title": "Rail Romanesque 2",
-    "img": "https://gogocdn.net/cover/rail-romanesque-2-1696011415.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "my-daemon",
     "epId": "my-daemon-episode-13",
     "title": "My Daemon",
@@ -2518,6 +2511,13 @@
     "title": "Migi to Dali",
     "img": "https://gogocdn.net/cover/migi-to-dali-1696010832.png",
     "episode": "Episode 13"
+  },
+  {
+    "id": "hoshikuzu-telepath",
+    "epId": "hoshikuzu-telepath-episode-12",
+    "title": "Hoshikuzu Telepath",
+    "img": "https://gogocdn.net/cover/hoshikuzu-telepath-1696007809.png",
+    "episode": "Episode 12"
   },
   {
     "id": "hoshikuzu-telepath",
