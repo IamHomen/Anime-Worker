@@ -1,5 +1,19 @@
 [
   {
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-8",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "bartender-kami-no-glass",
+    "epId": "bartender-kami-no-glass-episode-9",
+    "title": "Bartender: Kami no Glass",
+    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
     "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-8",
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
@@ -551,20 +565,6 @@
     "title": "Jantama Kan!!",
     "img": "https://gogocdn.net/cover/jantama-kan.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-7",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "bartender-kami-no-glass",
-    "epId": "bartender-kami-no-glass-episode-8",
-    "title": "Bartender: Kami no Glass",
-    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
-    "episode": "Episode 8"
   },
   {
     "id": "boukyaku-battery-tv",
