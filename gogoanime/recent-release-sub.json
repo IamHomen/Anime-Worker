@@ -1,5 +1,12 @@
 [
   {
+    "id": "samurai-spirits-haten-gouma-no-shou",
+    "epId": "samurai-spirits-haten-gouma-no-shou-episode-1",
+    "title": "Samurai Spirits: Haten Gouma no Shou",
+    "img": "https://gogocdn.net/cover/samurai-spirits-haten-gouma-no-shou.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ani-x-para-anata-no-hero-wa-dare-desu-ka",
     "epId": "ani-x-para-anata-no-hero-wa-dare-desu-ka-episode-17",
     "title": "Ani x Para: Anata no Hero wa Dare desu ka",
@@ -2791,12 +2798,5 @@
     "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
     "img": "https://gogocdn.net/cover/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-1696009482.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "uchuu-neko-mardock-no-bouken",
-    "epId": "uchuu-neko-mardock-no-bouken-episode-4",
-    "title": "Uchuu Neko: Mardock no Bouken",
-    "img": "https://gogocdn.net/cover/uchuu-neko-mardock-no-bouken.png",
-    "episode": "Episode 4"
   }
 ]
