@@ -1,5 +1,12 @@
 [
   {
+    "id": "akuma-kun",
+    "epId": "akuma-kun-episode-11",
+    "title": "Akuma-kun",
+    "img": "https://gogocdn.net/cover/akuma-kun.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "kenka-dokugaku",
     "epId": "kenka-dokugaku-episode-8",
     "title": "Kenka Dokugaku",
@@ -789,13 +796,6 @@
     "title": "Sand Land: The Series",
     "img": "https://gogocdn.net/cover/sand-land-the-series.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "akuma-kun",
-    "epId": "akuma-kun-episode-10",
-    "title": "Akuma-kun",
-    "img": "https://gogocdn.net/cover/akuma-kun.png",
-    "episode": "Episode 10"
   },
   {
     "id": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
