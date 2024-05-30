@@ -59,6 +59,10 @@
 
  `trending.json`
 
+ `new-season.json`
+
+ `movie.json`
+
  # animepahe |  
  `recent-sub.json`
 
@@ -90,7 +94,7 @@
  
 
 ```js
-fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/anilist/trending.json")
+fetch("https://raw.githubusercontent.com/mrcainv1-3128/Homen-Anime-Worker/main/gogoanime/json/popular.json")
   .then((response) => response.json())
   .then((animelist) => console.log(animelist));
 ```
