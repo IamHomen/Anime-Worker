@@ -1,5 +1,12 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-94",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 94"
+  },
+  {
     "id": "urusei-yatsura-2022-2nd-season",
     "epId": "urusei-yatsura-2022-2nd-season-episode-20",
     "title": "Urusei Yatsura (2022) 2nd Season",
@@ -551,13 +558,6 @@
     "title": "Beyblade X",
     "img": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 32"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-93",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 93"
   },
   {
     "id": "araiguma-rascal",
