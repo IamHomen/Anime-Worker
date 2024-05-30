@@ -1,5 +1,19 @@
 [
   {
+    "id": "dungeon-meshi",
+    "epId": "dungeon-meshi-episode-22",
+    "title": "Dungeon Meshi",
+    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "episode": "Episode 22"
+  },
+  {
+    "id": "jantama-kan",
+    "epId": "jantama-kan-episode-6",
+    "title": "Jantama Kan!!",
+    "img": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "akuma-kun",
     "epId": "akuma-kun-episode-11",
     "title": "Akuma-kun",
@@ -546,13 +560,6 @@
     "episode": "Episode 9"
   },
   {
-    "id": "dungeon-meshi",
-    "epId": "dungeon-meshi-episode-21",
-    "title": "Dungeon Meshi",
-    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 21"
-  },
-  {
     "id": "yuru-camp-season-3",
     "epId": "yuru-camp-season-3-episode-8",
     "title": "Yuru Camp\u25b3 Season 3",
@@ -565,13 +572,6 @@
     "title": "Garouden: The Way of the Lone Wolf",
     "img": "https://gogocdn.net/cover/garouden-the-way-of-the-lone-wolf.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-5",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 5"
   },
   {
     "id": "boukyaku-battery-tv",
