@@ -10,6 +10,7 @@ BASE_URL = 'https://anitaku.so'
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html'
 LOAD_LIST_EPISODE = 'https://ajax.gogocdn.net/ajax/load-list-episode'
 NEW_SEASON_URL = 'https://anitaku.so/new-season.html'
+MOVIE_URL = 'https://anitaku.so/anime-movies.html'
 load_dotenv()
 
 def scrape_recent_sub_anime():
@@ -42,9 +43,9 @@ def scrape_recent_sub_anime():
             
         #updateTable('recent-release-sub')
 
-        with open('./gogoanime/recent-release-sub.json', 'w') as f:
+        with open('./gogoanime/json/recent-release-sub.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('Data saved to gogoanime/recent-release-sub.json')
+        print('Data saved to gogoanime/json/recent-release-sub.json')
 
         return anime_list
     except Exception as e:
@@ -81,9 +82,9 @@ def scrape_popular_anime():
 
         #updateTable('popular')
         
-        with open('./gogoanime/popular.json', 'w') as f:
+        with open('./gogoanime/json/popular.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('Data saved to gogoanime/popular.json')
+        print('Data saved to gogoanime/json/popular.json')
 
         return anime_list
     except Exception as e:
@@ -113,9 +114,9 @@ def scrape_trending_anime():
             })
             #scrape_anime_info(ids)
 
-        with open('./gogoanime/trending.json', 'w') as f:
+        with open('./gogoanime/json/trending.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('Data saved to gogoanime/trending.json')
+        print('Data saved to gogoanime/json/trending.json')
         return anime_list
     except Exception as e:
         print(e)
@@ -137,9 +138,9 @@ def scrape_top_anime(page):
             })
             #scrape_anime_info(ids)
 
-        with open(f'./gogoanime/top_{page}.json', 'w') as f:
+        with open(f'./gogoanime/json/top_{page}.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print(f'Data saved to gogoanime/top_{page}.json')
+        print(f'Data saved to gogoanime/json/top_{page}.json')
         return anime_list
     except Exception as e:
         print(e)
@@ -172,9 +173,45 @@ def scrape_newseason_anime():
 
         #updateTable('popular')
         
-        with open('./gogoanime/new-season.json', 'w') as f:
+        with open('./gogoanime/json/new-season.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('Data saved to gogoanime/new-season.json')
+        print('Data saved to gogoanime/json/new-season.json')
+
+        return anime_list
+    except Exception as e:
+        print(e)
+        return {'error': str(e)}
+
+def scrape_movie_anime():
+    anime_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
+        page_number = 1
+        while page_number <= 112:  # Stop scraping at page 112
+            popular_page = requests.get(MOVIE_URL + f"?page={page_number}", headers=headers)
+            soup = BeautifulSoup(popular_page.content, 'html.parser')
+
+            # Check if the page contains anime entries
+            if not soup.select('div.last_episodes > ul > li'):
+                break  # No more pages to scrape
+
+            for el in soup.select('div.last_episodes > ul > li'):
+                anime_list.append({
+                    'id': el.select_one('p.name > a')['href'].split('/')[2],
+                    'title': el.select_one('p.name > a').text,
+                    'img': el.select_one('div > a > img')['src'],
+                    'date': el.select_one('p.released').text.replace('Released: ', '').strip()
+                })
+                #scrape_anime_info(ids)
+
+            page_number += 1
+
+        #updateTable('popular')
+        
+        with open('./gogoanime/json/movie.json', 'w') as f:
+            json.dump(anime_list, f, indent=2)
+        print('Data saved to gogoanime/json/movie.json')
 
         return anime_list
     except Exception as e:
@@ -267,3 +304,4 @@ scrape_trending_anime()
 scrape_popular_anime()
 scrape_anime_info('tsuki-ga-michibiku-isekai-douchuu-2nd-season')
 scrape_newseason_anime()
+scrape_movie_anime()
