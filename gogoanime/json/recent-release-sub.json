@@ -1,5 +1,26 @@
 [
   {
+    "id": "blazblue-central-fiction",
+    "epId": "blazblue-central-fiction-episode-1",
+    "title": "Blazblue Central Fiction",
+    "img": "https://gogocdn.net/cover/blazblue-central-fiction.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "blazblue-continuum-shift",
+    "epId": "blazblue-continuum-shift-episode-1",
+    "title": "BlazBlue Continuum Shift",
+    "img": "https://gogocdn.net/cover/blazblue-continuum-shift.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "blazblue-calamity-trigger",
+    "epId": "blazblue-calamity-trigger-episode-1",
+    "title": "BlazBlue Calamity Trigger",
+    "img": "https://gogocdn.net/cover/blazblue-calamity-trigger.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ninjala",
     "epId": "ninjala-episode-119",
     "title": "Ninjala",
@@ -2776,27 +2797,6 @@
     "epId": "kizuna-no-allele-season-2-episode-12",
     "title": "Kizuna no Allele Season 2",
     "img": "https://gogocdn.net/cover/kizuna-no-allele-season-2-1696009280.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kagejitsu-second",
-    "epId": "kagejitsu-second-episode-12",
-    "title": "Kagejitsu! Second",
-    "img": "https://gogocdn.net/cover/kagejitsu-second.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kage-no-jitsuryokusha-ni-naritakute-2nd-season",
-    "epId": "kage-no-jitsuryokusha-ni-naritakute-2nd-season-episode-12",
-    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
-    "img": "https://gogocdn.net/cover/kage-no-jitsuryokusha-ni-naritakute-2nd-season-1698286773.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "bullbuster",
-    "epId": "bullbuster-episode-12",
-    "title": "Bullbuster",
-    "img": "https://gogocdn.net/cover/bullbuster.png",
     "episode": "Episode 12"
   }
 ]
