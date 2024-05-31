@@ -1,5 +1,12 @@
 [
   {
+    "id": "ninjala",
+    "epId": "ninjala-episode-119",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 119"
+  },
+  {
     "id": "dead-dead-demons-dededede-destruction",
     "epId": "dead-dead-demons-dededede-destruction-episode-1",
     "title": "Dead Dead Demons Dededede Destruction",
@@ -551,13 +558,6 @@
     "title": "Bear Bear Bear Kuma Punch!",
     "img": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-118",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 118"
   },
   {
     "id": "beyblade-x",

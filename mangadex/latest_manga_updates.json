@@ -1,5 +1,750 @@
 [
   {
+    "mangaId": "1e998205-8c48-4e27-b82b-a01b2d3b1f52",
+    "title": {
+      "en": "The Worn and Torn Newbie"
+    },
+    "updatedAt": "2024-03-09T14:22:33+00:00",
+    "coverArt": "https://mangadex.org/covers/1e998205-8c48-4e27-b82b-a01b2d3b1f52/16b5f667-80c8-4dda-9302-7e13bfbb495a.jpg",
+    "altTitles": [
+      {
+        "ko": "\ub2f3\uace0 \ub2f3\uc740 \ub274\ube44"
+      },
+      {
+        "ja": "\u5143\u30ac\u30c1\u52e2\u3001\u521d\u5fc3\u8005\u306b\u751f\u307e\u308c\u5909\u308f\u308b"
+      },
+      {
+        "ru": "\u0418\u0437\u0440\u044f\u0434\u043d\u043e \u043f\u043e\u043d\u043e\u0448\u0435\u043d\u043d\u044b\u0439 \u043d\u0443\u0431"
+      },
+      {
+        "zh": "\u5168\u88f8\u83dc\u9e1f\u5728\u5f02\u4e16\u754c\u88ab\u6469\u64e6"
+      },
+      {
+        "ko-ro": "Dalko Dareun Newbie"
+      }
+    ],
+    "description": {
+      "en": "After learning 15 miserable years of his life as a failed gamer was one long nightmare, Lee Eojin is glad to be a newbie again! Vowing not to repeat the same mistakes, Eojin starts anew as the hotshot, Stagnant Water. \n\nHe\u2019s conquering monsters, getting sweet gear, and making enough dough to set himself up for life!\n\n Loved by fans and hated by foes, both old and new, will Eojin break the game and triumph, or will the game break him once again?",
+      "ja": "\u4eba\u6c17\u7d76\u9802\u3092\u8a87\u3063\u305f\u30b2\u30fc\u30e0\u3067\u3082\u305d\u306e\u5bff\u547d\u306f\u9650\u3089\u308c\u3066\u3044\u308b\u3002\u5b9f\u306b15\u5e74\u3082\u306e\u6b73\u6708\u3092\u4e00\u3064\u306e\u30b2\u30fc\u30e0\u306b\u3076\u3061\u8fbc\u3093\u3060\u30ac\u30c1\u52e2\u30fb\u300c\u6dc0\u6c34\u30a2\u30e0\u30ed\u300d\u306f\u3001\u30b2\u30fc\u30e0\u5185\u3067\u4eba\u751f\u3092\u8ced\u3051\u305f\u4e00\u4e16\u4e00\u4ee3\u306e\u5927\u535a\u6253\u306b\u6311\u6226\u3059\u308b\u304c\u3042\u3048\u306a\u304f\u5931\u6557\u3002\u5168\u3066\u3092\u5931\u3044\u6c17\u3092\u5931\u3063\u305f\u30a2\u30e0\u30ed\u304c\u76ee\u899a\u3081\u305f\u6240\u306f\u3001\u30ea\u30ea\u30fc\u30b9\u521d\u671f\u306e15\u5e74\u524d\u3060\u3063\u305f\u3002\u56de\u5e30\u524d\u3068\u540c\u3058\u8f4d\u306f\u8e0f\u307e\u306a\u3044\u3068\u8a93\u3046\u30a2\u30e0\u30ed\u3002\u5168\u3066\u3092\u77e5\u308a\u5c3d\u304f\u3057\u305f\u30bd\u30b7\u30e3\u30b2\u5ec3\u4eba\u306f\u3001\u6700\u5f37\u306e\u30cb\u30e5\u30fc\u30d3\u30fc\u3068\u3057\u3066\u8607\u308b\uff01\n\n---\n- [Webtoon Trailer](https://www.youtube.com/watch?v=01Gu-5Hahfw)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%EB%8B%B3%EA%B3%A0%EB%8B%B3%EC%9D%80-%EB%89%B4%EB%B9%84/2446)\n---\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc29630)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/62754)",
+      "ko": "\uc11c\ube44\uc2a4 \uc885\ub8cc\uae4c\uc9c0 \uc55e\uc73c\ub85c 15\ub144.\n\uc624\uc9c1 \ub098\ub9cc\uc774 \uc5d4\ub529\uc744 \uc54c\uace0 \uc788\ub2e4.\n\n'\ub098\ub294 \uace0\uc778\ubb3c\uc774\ub2e4'\n\n---\n- [Webtoon Trailer](https://www.youtube.com/watch?v=01Gu-5Hahfw)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%EB%8B%B3%EA%B3%A0%EB%8B%B3%EC%9D%80-%EB%89%B4%EB%B9%84/2446)\n---\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc29630)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/62754)",
+      "ru": "\u0414\u043e \u043a\u043e\u043d\u0446\u0430 \u0438\u0433\u0440\u044b 15 \u043b\u0435\u0442. \u0418 \u0442\u043e\u043b\u044c\u043a\u043e \u043c\u043d\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u043a\u0430\u043a \u0432\u0441\u0451 \u043f\u0440\u043e\u0438\u0437\u043e\u0439\u0434\u0435\u0442. \u2013 \u042f \u043c\u0435\u0440\u0442\u0432\u0430\u044f \u0432\u043e\u0434\u0430!\n\n---\n- [Webtoon Trailer](https://www.youtube.com/watch?v=01Gu-5Hahfw)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%EB%8B%B3%EA%B3%A0%EB%8B%B3%EC%9D%80-%EB%89%B4%EB%B9%84/2446)\n---\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc29630)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/62754)",
+      "zh": "\u6c89\u6d78\u5728\u865a\u62df\u6e38\u620f\u4e2d\u768435\u5c81\u5b85\u7537\u674e\u715c\u9633\u4e0d\u4ec5\u4f17\u53db\u4eb2\u79bb\u3001\u501f\u8d37\u8d1f\u503a\uff0c\u8fd8\u5728\u6e38\u620f\u4e2d\u8d4c\u8f93\u4e86\u552f\u4e00\u80fd\u8fd8\u503a\u7684\u673a\u4f1a\uff0c\u5728\u4ed6\u7edd\u671b\u4e4b\u9645\u7adf\u7136\u9634\u5dee\u9633\u9519\u7a7f\u8d8a\u56de\u4e8615\u5e74\u524d\uff0c\u6b64\u65f6\u6e38\u620f\u8fd8\u53ea\u662f\u6d4b\u8bd5\u7248\uff0c\u4e00\u5207\u624d\u521a\u521a\u5f00\u59cb\uff0c\u501f\u6b64\u673a\u4f1a\u674e\u715c\u9633\u60f3\u8981\u6539\u53d8\u4eba\u751f\uff0c\u54b8\u9c7c\u7ffb\u8eab\uff0c\u8e0f\u4e0a\u81f4\u5bcc\u4e4b\u8def\u2026\u2026\u51ed\u501f\u7740\u5341\u51e0\u5e74\u7684\u7ecf\u9a8c\u4e0e\u8bb0\u5fc6\uff0c\u4ed6\u8131\u4e0b\u76d4\u7532\u548c\u5185\u88e4\uff0c\u51b3\u5fc3\u7ad9\u5728\u6e38\u620f\u4e4b\u5dc5\uff0c\u5355\u7eaf\u5730\u4eab\u53d7\u8fd9\u4e00\u5207\uff01\u7136\u800c\u8fd9\u4e00\u6b21\uff0c\u4ed6\u4f1a\u8d70\u5411\u600e\u6837\u7684\u672a\u6765\u5462\uff1f\n\n---\n- [Webtoon Trailer](https://www.youtube.com/watch?v=01Gu-5Hahfw)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%EB%8B%B3%EA%B3%A0%EB%8B%B3%EC%9D%80-%EB%89%B4%EB%B9%84/2446)\n---\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc29630)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/62754)"
+    },
+    "status": "ongoing",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "29ab6984-7c1d-4d45-b925-25aa082b492e",
+    "title": {
+      "en": "Shangri-La Frontier"
+    },
+    "updatedAt": "2024-05-09T23:10:47+00:00",
+    "coverArt": "https://mangadex.org/covers/29ab6984-7c1d-4d45-b925-25aa082b492e/1f7fced7-69e9-4f63-b34e-853885341167.jpg",
+    "altTitles": [
+      {
+        "en": "Shangri-La Frontier ~From Trash Game Hunter to God-Tier Gamer!~"
+      },
+      {
+        "ru": "\u0420\u0443\u0431\u0435\u0436 \u0428\u0430\u043d\u0433\u0440\u0438-\u041b\u0430: \u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c \u0438\u0433\u0440\u043e\u0448\u043b\u0430\u043a\u0430 \u0431\u0440\u043e\u0441\u0430\u0435\u0442 \u0432\u044b\u0437\u043e\u0432 \u0442\u043e\u043f \u0438\u0433\u0440\u0435"
+      },
+      {
+        "ja": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9\u30fb\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u3000\uff5e\u30af\u30bd\u30b2\u30fc\u30cf\u30f3\u30bf\u30fc\u3001\u795e\u30b2\u30fc\u306b\u6311\u307e\u3093\u3068\u3059\uff5e"
+      },
+      {
+        "zh-hk": "\u9999\u683c\u91cc\u62c9\u30fb\u958b\u62d3\u7570\u5883\uff5e\u7cde\u4f5c\u7375\u624b\u6311\u6230\u795e\u4f5c\uff5e"
+      },
+      {
+        "ja-ro": "Shangri-La Frontier ~Kusoge Hunter, Kamige ni Idoman to su~"
+      }
+    ],
+    "description": {
+      "en": "Second-year high school student Rakuro Hizutome loves nothing more than finding so-called \u201ctrash games\u201d and beating the crap out of them. When he decides to change things up by playing a new, \u201cgod-tier\u201d VR game known as Shangri-La Frontier (aka. SLF), he does what he does best: min-maxes, skips the prologue, and jumps straight into action! Rakuro may be a seasoned gamer, but a meeting with an old rival will change the fate of every SLF player forever.\n\nClad in nothing but shorts and a bird mask, Rakuro (player name: Sunraku) launches into the world of SLF. Things are going well at first as he takes down a goblin, a bunny, and even a python. But then Sunraku comes up against a huge, hard-hitting wolf known as Lycagon the Nightslayer. Will Sunraku\u2019s years of \u201ctrash game\u201d experience be enough, or is he about to suffer a rude awakening just a few hours into his SLF adventure?",
+      "pt": "A adapta\u00e7\u00e3o c\u00f4mica do romance superpopular de Syosetu Ni Narou.  \n  \nHizutome Rakurou adora jogos de merda. Seu pr\u00f3ximo desafio \u00e9 Shangri-la Frontier, o jogo divino com uma base de jogadores total de 30.000.000. Reunindo companheiros (ral\u00e9) em um mundo expansivo e encontrando velhos inimigos pelo caminho, ele mudar\u00e1 o destino de cada jogador.",
+      "ru": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0433\u0435\u0440\u043e\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u2014 \u043b\u0438\u0434\u0435\u0440 \u0442\u0430\u0431\u043b\u0438\u0446 \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0430 \u0432 \u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043c\u0430\u043b\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 VR-\u0438\u0433\u0440\u0430\u0445 (\u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0439 \u00ab\u0438\u0433\u0440\u043e\u0448\u043b\u0430\u043a\u00bb) \u043a\u043e\u0442\u043e\u0440\u044b\u0435, \u0442\u0435\u043c \u043d\u0435 \u043c\u0435\u043d\u0435\u0435, \u043f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0435\u0433\u043e \u0443\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u044e\u0442. \u041d\u043e \u043e\u0434\u043d\u0430\u0436\u0434\u044b \u043e\u043d \u0440\u0435\u0448\u0430\u0435\u0442\u0441\u044f \u0431\u0440\u043e\u0441\u0438\u0442\u044c \u0432\u044b\u0437\u043e\u0432 \u0441\u0432\u0435\u0440\u0445\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u0438\u0433\u0440\u0435 \u0441 30 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0430\u043c\u0438 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c \u00abShangri-La Frontier\u00bb. \u0410\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u044f \u0441\u0443\u043f\u0435\u0440\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0433\u043e \u0440\u043e\u043c\u0430\u043d\u0430 \u0438\u0437 \"Shousetsuka ni Narou\"."
+    },
+    "status": "ongoing",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "8cfc8b79-2c1b-4e33-beda-a0d70a7674ca",
+    "title": {
+      "en": "I Will Become the Villain's Poison Taster"
+    },
+    "updatedAt": "2024-02-12T01:57:26+00:00",
+    "coverArt": "https://mangadex.org/covers/8cfc8b79-2c1b-4e33-beda-a0d70a7674ca/86f878ce-e1b5-458f-84be-d0c4f8b7afcf.jpg",
+    "altTitles": [
+      {
+        "ko": "\ud751\ub9c9\uc758 \ub3c5 \uac10\ubcc4\uc0ac\uac00 \ub418\uaca0\uc2b5\ub2c8\ub2e4"
+      },
+      {
+        "ko-ro": "Heungmagui Dok Gambyeolsaga Doegetseumnida"
+      },
+      {
+        "en": "I Will Become the Villain's Poison Detector"
+      },
+      {
+        "en": "I Will Become a Poison Detector in the Dark World"
+      },
+      {
+        "en": "I Will Become a Poison Detector of Darkness"
+      },
+      {
+        "zh": "\u5b8c\u86cb\uff01\u6210\u4e86\u53cd\u6d3e\u7684\u8bd5\u6bd2\u5c0f\u8ddf\u73ed"
+      },
+      {
+        "zh": "\u6210\u4e3a\u53cd\u6d3e\u7684\u9274\u6bd2\u5e08"
+      },
+      {
+        "zh-hk": "\u6210\u7232\u53cd\u6d3e\u7684\u9451\u6bd2\u5e2b"
+      }
+    ],
+    "description": {
+      "en": "I, an innocent office worker, possessed a character in the devastating novel *The Poisoned Apple*. On top of that, I'm Giselle Lloydsvin, a villainess who gets poisoned to death before being hanged! But the poison brought by the assassins doesn't work? It even tastes like fruit!\n\n\"You'll be okay since it's only a little bit, so hurry and drink it.\"\n\n\u2026Even though I possessed someone, it seems my destiny is to be tormented by a crazy assassin. \n\nHowever, \"Leniel\", who I thought was just a crazy assassin, turns out to be the frontman for the final villain, \"Wayne Ayore\"?!\n\nIn order to hold onto this lifeline, I clung to the villain in *The Poisoned Apple*. \n\n\"I can distinguish the taste of poison.\"\n\n\u201cPoison?\u201d\n\n\u201cYes.\u201d\n\n\u201cWhat use is that?\u201d\n\n\u201cYour boss is going to be poisoned, so I can be his poison taster.\u201d\n\nAnd so, I thought I could survive well as a general store employee of the villain\u2019s frontman(?)... \n\n\u201cMy boss is so strong to the point that there\u2019s something suspicious about him!\u201d\n\n\u2026Why does it feel like I\u2019m doomed in this life too?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "f37377e8-8a35-4581-8cb3-228812b247c4",
+    "title": {
+      "en": "Strawberry Parfait OneeLoli Yuri Anthology"
+    },
+    "updatedAt": "2024-02-16T21:49:46+00:00",
+    "coverArt": "https://mangadex.org/covers/f37377e8-8a35-4581-8cb3-228812b247c4/ae8a9056-58e1-4678-8223-d6e86cf0d161.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30b9\u30c8\u30ed\u30d9\u30ea\u30fc\u30d1\u30eb\u30d5\u30a7 \u304a\u306d\u30ed\u30ea\u767e\u5408\u30a2\u30f3\u30bd\u30ed\u30b8\u30fc"
+      },
+      {
+        "ja-ro": "Strawberry Parfait OneLoli Yuri Anthology"
+      }
+    ],
+    "description": {
+      "en": "Cover: Hanekoto  \nIllustration: Yuama"
+    },
+    "status": "completed",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "1",
+    "lastChapter": "10"
+  },
+  {
+    "mangaId": "911f2f01-9718-4a42-8e2a-1b684b695cba",
+    "title": {
+      "en": "303-Goushitsu no Kami-sama"
+    },
+    "updatedAt": "2024-05-26T04:57:53+00:00",
+    "coverArt": "https://mangadex.org/covers/911f2f01-9718-4a42-8e2a-1b684b695cba/9a9d4de0-a761-4c38-be77-e96db736db4c.jpg",
+    "altTitles": [
+      {
+        "ja": "303\u53f7\u5ba4\u306e\u795e\u3055\u307e"
+      },
+      {
+        "ja": "\u795e\u69d8\u3067\u3059\u3002\u30b5\u30fc\u30d3\u30b9\u3059\u308b\u3088"
+      },
+      {
+        "ja": "\u795e\u69d8\u3068\u9670\u6c17\u306a\u5c11\u5e74"
+      },
+      {
+        "ja-ro": "Kami-sama desu. Service suru yo."
+      },
+      {
+        "ja-ro": "Kami-sama to Inki na Shounen"
+      },
+      {
+        "en": "The God of Room 303"
+      },
+      {
+        "en": "I'm a God. I'll serve you."
+      },
+      {
+        "en": "God and the Gloomy Boy"
+      },
+      {
+        "vi": "V\u1ecb th\u1ea7n \u1edf ph\u00f2ng 303"
+      },
+      {
+        "vi": "T\u00f4i l\u00e0 m\u1ed9t v\u1ecb th\u1ea7n. T\u00f4i s\u1ebd gi\u00fap b\u1ea1n"
+      },
+      {
+        "vi": "Th\u1ea7n v\u00e0 c\u1eadu b\u00e9 u \u00e1m"
+      },
+      {
+        "es-la": "La Diosa de la habitaci\u00f3n 303"
+      },
+      {
+        "ru": "\u0411\u043e\u0433\u0438\u043d\u044f \u043a\u043e\u043c\u043d\u0430\u0442\u044b 303"
+      },
+      {
+        "id": "Dewa di Ruangan 303"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "94bee890-3893-4f8f-a7bf-860d733da39c",
+    "title": {
+      "en": "Philia Rose - The Prophecy of the Crown of Thorns"
+    },
+    "updatedAt": "2023-12-29T16:39:45+00:00",
+    "coverArt": "https://mangadex.org/covers/94bee890-3893-4f8f-a7bf-860d733da39c/45b591c5-494d-46fd-b3f1-4b91c1881c32.jpg",
+    "altTitles": [
+      {
+        "ko": "\ud544\ub9ac\uc544\ub85c\uc81c - \uac00\uc2dc\uc655\uad00\uc758 \uc608\uc5b8"
+      }
+    ],
+    "description": {
+      "en": "Stop the rebellion of the Priest and Prince Paeryun!\nPhilia, a priestess who has the ability to read the other person's mind, is tasked by the High Priest to 'stop Leo Elion's rebellion.'\n\nHe was once a promising prince of the kingdom of Elion.\nLeo, who has become a prince who dreams of rebellion, proves that the prophecy announcing the ruin is true.\n\nYou have to persuade him to stop the war so that the kingdom can be safe. This was the mission of salvation given to the young priestess one day\nWill Philia be able to tame this wild beast of a  prince?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "f9791093-547e-41dd-a875-9d35bf125ecc",
+    "title": {
+      "en": "Diamond Bancho"
+    },
+    "updatedAt": "2023-12-26T03:27:49+00:00",
+    "coverArt": "https://mangadex.org/covers/f9791093-547e-41dd-a875-9d35bf125ecc/06ccab32-6fe9-4bcb-87ca-a631d55df002.jpg",
+    "altTitles": [
+      {
+        "en": "Diamond Delinquent"
+      },
+      {
+        "ja": "\u91d1\u525b\u756a\u9577"
+      },
+      {
+        "ja-ro": "Kongoh Bancho"
+      },
+      {
+        "tr": "Elmas Su\u00e7lu"
+      }
+    ],
+    "description": {
+      "en": "Kongoh Akira is looking to take down the \"23 District Project\", in which delinquents from the 23 special districts of Tokyo fight for the right to control Japan. Without meaning to, he becomes a participant with the alias \"Diamond Delinquent\" and must take down other delinquents while searching for the leaders of the project.",
+      "pt-br": "Kongoh Akira est\u00e1 procurando destruir o \"Projeto dos 23 Distritos\" que envolve os delinquentes dos 23 Special Districts of T\u00f3quio que lutam pelo direito de controlar o Jap\u00e3o. Sem querer, ele se torna um participante com o apelido Diamond Delinquent e deve derrubar outros delinquentes enquanto procura os l\u00edderes do projeto."
+    },
+    "status": "completed",
+    "releaseDate": 2007,
+    "contentRating": "safe",
+    "lastVolume": "12",
+    "lastChapter": "114"
+  },
+  {
+    "mangaId": "d2befbc2-3e34-4716-a25d-e072c0ff3d02",
+    "title": {
+      "en": "Kaifukushoku no Akuyaku Reijou"
+    },
+    "updatedAt": "2024-05-22T22:07:50+00:00",
+    "coverArt": "https://mangadex.org/covers/d2befbc2-3e34-4716-a25d-e072c0ff3d02/2f91eef8-3c7b-4d60-a475-8f348cc86c1b.jpg",
+    "altTitles": [
+      {
+        "ja": "\u56de\u5fa9\u8077\u306e\u60aa\u5f79\u4ee4\u5b22"
+      },
+      {
+        "en": "Villainess Healer"
+      }
+    ],
+    "description": {
+      "en": "Charlotte discovered that she was in the game world she played in her previous life when her engagement was broken off. With her cheat knowledge, she escapes from the scenario and changes her job to a <healer> in the enemy country, and enjoys a free adventurous life!",
+      "id": "Ketika pertunangannya diputus, Charlotte menyadari bahwa dia berada di dunia game yang dia mainkan di kehidupan sebelumnya. Dengan pengetahuan cheatnya, dia melarikan diri dari skenario cerita dan mengubah pekerjaannya menjadi <Penyembuh> di negara musuh, dan menikmati kehidupan petualangan yang bebas!",
+      "ja": "\u5a5a\u7d04\u7834\u68c4\u3055\u308c\u305f\u3053\u3068\u3092\u304d\u3063\u304b\u3051\u306b\u3001\u3053\u3053\u304c\u524d\u4e16\u3067\u30d7\u30ec\u30a4\u3057\u3066\u3044\u305f\u30b2\u30fc\u30e0\u4e16\u754c\u3060\u3068\u6c17\u3065\u3044\u305f\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u3002\u30c1\u30fc\u30c8\u77e5\u8b58\u3067\u30b7\u30ca\u30ea\u30aa\u8131\u51fa\uff06\u6575\u56fd\u3067\uff1c\u7652\u3057\u624b\uff1e\u306b\u30b8\u30e7\u30d6\u30c1\u30a7\u30f3\u30b8\u3057\u3066\u3001\u81ea\u7531\u306a\u5192\u967a\u30e9\u30a4\u30d5\u3092\u582a\u80fd\u3057\u307e\u3059\uff01"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "a79e2584-c08e-4bc8-9293-8a441b6802d6",
+    "title": {
+      "en": "Otagai Dondon Hamatteiku Kyouikugakari to Shinnyuushain"
+    },
+    "updatedAt": "2024-02-02T18:01:33+00:00",
+    "coverArt": "https://mangadex.org/covers/a79e2584-c08e-4bc8-9293-8a441b6802d6/7c61bd15-3fc0-4c01-ae56-e925d577b101.jpg",
+    "altTitles": [
+      {
+        "ja": "\u304a\u4e92\u3044\u3069\u3093\u3069\u3093\u30cf\u30de\u3063\u3066\u3044\u304f\u6559\u80b2\u4fc2\u3068\u65b0\u5165\u793e\u54e1"
+      },
+      {
+        "ja-ro": "Otagai Dondon Hamatteiku Kyouikugakari to Shinnyuushain"
+      },
+      {
+        "en": "The Mentor and the New Employee Who are Getting More and More Into Each Other"
+      }
+    ],
+    "description": {},
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "55"
+  },
+  {
+    "mangaId": "e78a489b-6632-4d61-b00b-5206f5b8b22b",
+    "title": {
+      "en": "Tensei Shitara Slime Datta Ken"
+    },
+    "updatedAt": "2024-05-29T00:40:32+00:00",
+    "coverArt": "https://mangadex.org/covers/e78a489b-6632-4d61-b00b-5206f5b8b22b/322e1d4e-5d1f-4e38-b456-327a4b51d0b8.jpg",
+    "altTitles": [
+      {
+        "en": "That Time I Got Reincarnated as a Slime"
+      },
+      {
+        "fr": "Moi, quand je me r\u00e9incarne en Slime"
+      },
+      {
+        "pl": "Odrodzony jako galareta"
+      },
+      {
+        "en": "Regarding Reincarnated to Slime"
+      },
+      {
+        "ja-ro": "Tensei Slime"
+      },
+      {
+        "ja-ro": "TenSli"
+      },
+      {
+        "ja-ro": "TenSura"
+      },
+      {
+        "en": "In Regards to My Reincarnation as a Slime"
+      },
+      {
+        "it": "Vita da Slime"
+      },
+      {
+        "ru": "\u041e \u043c\u043e\u0451\u043c \u043f\u0435\u0440\u0435\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u0432 \u0441\u043b\u0438\u0437\u044c"
+      },
+      {
+        "th": "\u0e40\u0e01\u0e34\u0e14\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e31\u0e49\u0e07\u0e17\u0e35\u0e01\u0e47\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e44\u0e25\u0e21\u0e4c\u0e44\u0e1b\u0e0b\u0e30\u0e41\u0e25\u0e49\u0e27"
+      },
+      {
+        "zh-hk": "\u5173\u4e8e\u6211\u8f6c\u751f\u540e\u6210\u4e3a\u53f2\u83b1\u59c6\u7684\u90a3\u4ef6\u4e8b"
+      },
+      {
+        "ja": "\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6"
+      },
+      {
+        "ko": "\uc804\uc0dd\ud588\ub354\ub2c8 \uc2ac\ub77c\uc784\uc774\uc5c8\ub358\uac74\uc5d0 \ub300\ud558\uc5ec"
+      },
+      {
+        "es-la": "Aquella vez que me convert\u00ed en Slime"
+      },
+      {
+        "ar": "\u0630\u0644\u0643 \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0630\u064a \u062a\u062c\u0633\u062f\u062a \u0641\u064a\u0647 \u0643\u0633\u0644\u0627\u064a\u0645"
+      },
+      {
+        "fi": "Kun j\u00e4lleensynnyin hirvi\u00f6n\u00e4"
+      },
+      {
+        "tr": "O zaman bir bal\u00e7\u0131k olarak reenkarne oldum"
+      },
+      {
+        "tr": "O zaman bir slime olarak reenkarne oldum"
+      },
+      {
+        "de": "Meine Wiedergeburt als Schleim in einer anderen Welt"
+      }
+    ],
+    "description": {
+      "en": "The ordinary Mikami Satoru found himself dying after being stabbed by a slasher. It should have been the end of his meager 37 years, but he found himself deaf and blind after hearing a mysterious voice.  \nHe had been reincarnated into a slime!  \n  \nWhile complaining about becoming the weak but famous slime and enjoying the life of a slime at the same time, Mikami Satoru met with the Catastrophe-level monster \u201cStorm Dragon Veldora\u201d, and his fate began to move.\n\n---\n**Links:**\n- Alternative Official English - [K MANGA](https://kmanga.kodansha.com/title/10044/episode/317350) (U.S. Only), [INKR](https://comics.inkr.com/title/233-that-time-i-got-reincarnated-as-a-slime), [Azuki](https://www.azuki.co/series/that-time-i-got-reincarnated-as-a-slime), [Coolmic](https://coolmic.me/titles/587), [Manga Planet](https://mangaplanet.com/comic/618e32db10673)",
+      "ru": "37-\u043b\u0435\u0442\u043d\u0438\u0439 \u044f\u043f\u043e\u043d\u0435\u0446-\u0445\u043e\u043b\u043e\u0441\u0442\u044f\u043a \u0431\u044b\u043b \u0437\u0430\u0440\u0435\u0437\u0430\u043d \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u043a\u0430\u043a\u0438\u043c-\u0442\u043e \u043c\u0435\u0440\u0437\u0430\u0432\u0446\u0435\u043c-\u0433\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u0435\u043c. \u0422\u0443\u0442 \u0431\u044b \u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u043d\u0435\u0446, \u0434\u0430 \u0432\u0441\u0451 \u043e\u0431\u0435\u0440\u043d\u0443\u043b\u043e\u0441\u044c \u0438\u043d\u0430\u0447\u0435, \u043d\u0435\u043e\u0436\u0438\u0434\u0430\u043d\u043d\u043e \u043e\u043d \u043f\u0435\u0440\u0435\u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0441\u043b\u0438\u0437\u044c\u044e \u0432 \u0444\u044d\u043d\u0442\u0435\u0437\u0438\u0439\u043d\u043e\u043c \u043c\u0438\u0440\u0435. \u041d\u043e \u0447\u0442\u043e \u043c\u043e\u0436\u0435\u0442 \u0441\u0434\u0435\u043b\u0430\u0442\u044c, \u043f\u0443\u0441\u043a\u0430\u0439 \u0438 \u0440\u0430\u0437\u0443\u043c\u043d\u0430\u044f, \u043d\u043e \u0441\u043b\u0438\u0437\u044c?  \r\n\r\n\r\n---\r\n\r\n**Links:**  \r\n- [Anime Season 1 on ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20736)",
+      "es-la": "Un hombre, que al tratar de salvar a su compa\u00f1ero de trabajo y su novia, fue apu\u00f1alado por un ladr\u00f3n que escapaba. Mientras mor\u00eda desangrado escuch\u00f3 una voz extra\u00f1a. Esta voz escuch\u00f3 su lamento de haber muerto virgen y a causa de eso le dio la Habilidad \u00danica \"Gran Sabio\" \u00bfFue esto una burla? Ahora \u00e9l ha reencarnado como un Slime en otro mundo, \u00bfSer\u00e1 este el inicio de una emocionante aventura?",
+      "pt-br": "Depois de ser morto por um ladr\u00e3o que fugia, um rapaz normal de 37 anos de idade se encontra reencarnado em um outro mundo como um slime cego com habilidades \u00fanicas. Com um novo nome \"Rimuru Tempest\" ele chegou depois de conhecer seu novo amigo, o \"n\u00edvel cat\u00e1strofe\", Drag\u00e3o da Tempestade Verudora, ele come\u00e7a sua vida de slime em outro mundo com seu crescente n\u00famero de seguidores."
+    },
+    "status": "ongoing",
+    "releaseDate": 2015,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "9dbd08c3-a4ed-4fa3-82e2-18a400f80627",
+    "title": {
+      "en": "Nimotsu Mochi no Nousuji Musou"
+    },
+    "updatedAt": "2024-02-27T16:23:26+00:00",
+    "coverArt": "https://mangadex.org/covers/9dbd08c3-a4ed-4fa3-82e2-18a400f80627/8a69494d-4213-434f-841e-ce3aecc7f04d.jpg",
+    "altTitles": [
+      {
+        "ja": "\u8377\u7269\u6301\u3061\u306e\u8133\u7b4b\u7121\u53cc"
+      }
+    ],
+    "description": {
+      "en": "The more he carries, the stronger he becomes! An unmatched fantasy by the weakest adventurer duo!\n\nRyuk, a boy with a unique skill \u201cPorter,\u201d which allows him to carry a massive amount of items, was being exploited as a chore boy for the S-rank party \u201cBlack Lion of Foresight.\u201d One day, the party managed to acquire a storage item more convenient than Ryuk\u2019s skill, thus no longer needed, Ryuk is banished inside a dangerous dungeon. Despairing in this hopeless situation, suddenly he meets a shrine maiden girl, Mio \u2014 and then?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "56ca3a60-e8f5-42b7-a328-549063fccf96",
+    "title": {
+      "en": "At Each Other's Throats"
+    },
+    "updatedAt": "2021-05-25T15:42:33+00:00",
+    "coverArt": "https://mangadex.org/covers/56ca3a60-e8f5-42b7-a328-549063fccf96/0bdd0610-d8ef-488a-97c1-c7cc9e7a5599.jpg",
+    "altTitles": [
+      {
+        "en": "AEOT"
+      },
+      {
+        "en": "Mot Jabameogeo Andal"
+      },
+      {
+        "en": "\u041f\u0435\u0440\u0435\u0433\u0440\u044b\u0437\u0430\u0442\u044c \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0443 \u0433\u043b\u043e\u0442\u043a\u0438"
+      },
+      {
+        "en": "\u53cc\u80de\u80ceTwins"
+      },
+      {
+        "en": "\ubabb \uc7a1\uc544\uba39\uc5b4 \uc548\ub2ec"
+      }
+    ],
+    "description": {
+      "en": "The not-so-normal daily life of twin siblings."
+    },
+    "status": "completed",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": null,
+    "lastChapter": "176"
+  },
+  {
+    "mangaId": "636933aa-976e-4455-8082-36751a554be0",
+    "title": {
+      "en": "Unnamed Memory"
+    },
+    "updatedAt": "2024-04-29T05:09:12+00:00",
+    "coverArt": "https://mangadex.org/covers/636933aa-976e-4455-8082-36751a554be0/5fc98218-b2ae-44c1-9235-8a6f4e0d5ca9.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30a2\u30f3\u30cd\u30fc\u30e0\u30c9\u30e1\u30e2\u30ea\u30fc"
+      },
+      {
+        "vi": "H\u1ed3i \u1ee9c kh\u00f4ng t\u00ean"
+      },
+      {
+        "ru": "\u0411\u0435\u0437\u044b\u043c\u044f\u043d\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c"
+      },
+      {
+        "es": "Memoria sin nombre"
+      }
+    ],
+    "description": {
+      "en": "\u201cAs long as you\u2019re the master of that sword and I\u2019m a witch, someday you\u2019ll have to kill me for real.\u201d  \n  \nAs a child, Oscar, Crown Prince of Farsas, had been cursed to be childless. At the age of 20, he paid a visit to Tinassha, the strongest witch in the continent, to break the curse. He came back bringing Tinassha along as his protector, and in the one year until his contract with her expired, he got embroiled into her past, and an even greater destiny.",
+      "es": "\"Mientras seas el due\u00f1o de esa espada y yo una bruja, alg\u00fan d\u00eda tendr\u00e1s que matarme de verdad\".    De ni\u00f1o, \u00d3scar, pr\u00edncipe heredero de Farsas, hab\u00eda sido maldecido a no tener hijos. A los 20 a\u00f1os, visit\u00f3 a Tinassha, la bruja m\u00e1s fuerte del continente, para romper la maldici\u00f3n. Volvi\u00f3 con Tinassha como protectora, y en el a\u00f1o que le quedaba hasta que expirara su contrato con ella, se vio envuelto en su pasado y en un destino a\u00fan mayor."
+    },
+    "status": "ongoing",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "bb8761fd-8777-4470-a97b-07bbc462016d",
+    "title": {
+      "en": "Pet the Little Princess"
+    },
+    "updatedAt": "2023-06-18T09:05:50+00:00",
+    "coverArt": "https://mangadex.org/covers/bb8761fd-8777-4470-a97b-07bbc462016d/4dc3e6a5-ec95-4fa1-96e5-82dd4061ac77.jpg",
+    "altTitles": [
+      {
+        "en": "\u7206\u5ba0\u5c0f\u840c\u5983"
+      }
+    ],
+    "description": {
+      "en": "This is a story about: a female lead who transforms into a child after losing her virginity, her identity switches between an adult and a kid. With the crown prince who has a dual personality too, there's equal parts love and bite."
+    },
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": null,
+    "lastChapter": null
+  },
+  {
+    "mangaId": "05bd710c-d94a-45eb-be99-2109d58f1006",
+    "title": {
+      "en": "Hajirau Kimi ga Mitainda"
+    },
+    "updatedAt": "2024-04-15T01:01:36+00:00",
+    "coverArt": "https://mangadex.org/covers/05bd710c-d94a-45eb-be99-2109d58f1006/bc22bc4a-5d83-40f8-85bd-45b7ecb08d83.jpg",
+    "altTitles": [
+      {
+        "en": "I Want to See You Embarrassed"
+      },
+      {
+        "ja": "\u6065\u3058\u3089\u3046\u541b\u304c\u898b\u305f\u3044\u3093\u3060"
+      },
+      {
+        "ko": "\ubd80\ub044\ub7ec\uc6cc\ud558\ub294 \ub110 \ubcf4\uace0 \uc2f6\uc5b4"
+      },
+      {
+        "zh-hk": "\u60f3\u8981\u770b\u5230\u7f9e\u6065\u7684\u4f60"
+      },
+      {
+        "th": "\u0e40\u0e17\u0e04\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1c\u0e21\u0e16\u0e48\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e2d\u0e32\u0e22\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e04\u0e31\u0e17"
+      },
+      {
+        "en": "I Want To See You Blush"
+      },
+      {
+        "zh-hk": "\u60f3\u770b\u59b3\u9732\u51fa\u7f9e\u6065\u7684\u6a21\u6a23"
+      },
+      {
+        "zh": "\u9732\u51fa\u5bfc\u6f14"
+      },
+      {
+        "es-la": "Quiero verte avergonzada"
+      }
+    ],
+    "description": {
+      "en": "Akito Shirasawa, a high school boy whose father is a film director, sees something in the library preparation room. It was the \"masturbation scene\" of his classmate, Kaho Honjou. Akito is puzzled, but ends up filming it with his smartphone. Kaho notices Akito, and in the men's restroom, makes a \"proposal\" to Akito! Exposed high school girl and movie boy. The \"exposed love\" of twisted adolescence, begins!",
+      "es-la": "Akito Shirasawa, un chico de secundaria cuyo padre es director de cine, ve algo en la sala de preparaci\u00f3n de la biblioteca. Era la \"escena de la masturbaci\u00f3n\" de su compa\u00f1era de clase, Natsuho Honjo. Akito est\u00e1 desconcertado, pero termina film\u00e1ndolo con su tel\u00e9fono inteligente. Natsuho nota a Akito, y en el ba\u00f1o de hombres, \u00a1le hace una \"propuesta\" a Akito! Chica de secundaria expuesta y chico de pel\u00edcula. \u00a1Comienza el \"amor expuesto\" de la retorcida adolescencia!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "778b8438-af3a-4534-841c-adf923b55ee1",
+    "title": {
+      "en": "Uma Musume Pretty Derby: Star Blossom"
+    },
+    "updatedAt": "2024-03-31T18:10:29+00:00",
+    "coverArt": "https://mangadex.org/covers/778b8438-af3a-4534-841c-adf923b55ee1/3124d911-022c-419e-a2f9-4fc855aff651.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc \u30b9\u30bf\u30fc\u30d6\u30ed\u30c3\u30b5\u30e0"
+      },
+      {
+        "ja-ro": "Uma Musume Puritiudaubiu Sutauburossamu"
+      },
+      {
+        "ru": "\u0414\u0435\u0432\u0443\u0448\u043a\u0438-\u043f\u043e\u043d\u0438 \u0421\u043b\u0430\u0432\u043d\u043e\u0435 \u0414\u0435\u0440\u0431\u0438: \u0417\u0432\u0451\u0437\u0434\u043d\u044b\u0439 \u0446\u0432\u0435\u0442\u043e\u043a"
+      }
+    ],
+    "description": {
+      "en": "The popular cross-media content \"Uma Musume Pretty Derby\" features \"Uma Musume\" who have inherited the names and souls of numerous racehorses! A new legend begins with the indomitable horse girl \"Sakura Laurel\" as the main character.\n\n---\n\n- [Alternative Raw](https://shonenjumpplus.com/episode/4856001361118480104)",
+      "ja": "\u300c\u6311\u6226\u306a\u304f\u3057\u3066\u3001\u5f97\u3089\u308c\u308b\u3082\u306e\u306a\u3069\u4f55\u3082\u306a\u3044\u300d\u3000\u898b\u7fd2\u3044\u30c8\u30ec\u30fc\u30ca\u30fc\u30fb\u693f\u304c\u51fa\u4f1a\u3063\u305f\u306e\u306f\u3001\u30ac\u30e9\u30b9\u306e\u811a\u3092\u62b1\u3048\u305f\u30c7\u30d3\u30e5\u30fc\u524d\u306e\u30a6\u30de\u5a18\u30fb\u30b5\u30af\u30e9\u30ed\u30fc\u30ec\u30eb\u3002\u534a\u4eba\u524d\u306e2\u4eba\u304c\u898b\u305f\u9802\u70b9\u3078\u306e\u5922\u306f\u3001\u7121\u8b00\u306a\u306e\u304b\u2015\u2015\u3002"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "c4067750-a7e1-4faa-9054-2d8fddf5bf01",
+    "title": {
+      "en": "My Sister's Best Friend, My Lover."
+    },
+    "updatedAt": "2024-05-30T14:37:27+00:00",
+    "coverArt": "https://mangadex.org/covers/c4067750-a7e1-4faa-9054-2d8fddf5bf01/dcc4868a-f23f-45be-bee1-42e559c66003.jpg",
+    "altTitles": [
+      {
+        "ja": "\u59c9\u306e\u89aa\u53cb\u3001\u79c1\u306e\u604b\u4eba\u3002"
+      },
+      {
+        "ja": "Ane no Shinyuu, Watashi no Koibito."
+      }
+    ],
+    "description": {
+      "en": "Sena is a novelist who has been dealing with romantic feelings for her sister, Yuuna. Upon learning that Yuuna is to be married, Yuuna's best friend and former lover Kiku asks Sena to be her lover..."
+    },
+    "status": "completed",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "4",
+    "lastChapter": "21"
+  },
+  {
+    "mangaId": "a15dc49f-2512-46f2-bc1e-201be8234ee5",
+    "title": {
+      "en": "TELOMERE"
+    },
+    "updatedAt": "2024-05-06T22:52:03+00:00",
+    "coverArt": "https://mangadex.org/covers/a15dc49f-2512-46f2-bc1e-201be8234ee5/c20365e1-285a-4e93-b701-9fd03ff4ae19.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30c6\u30ed\u30e1\u30a2"
+      }
+    ],
+    "description": {
+      "en": "Two siblings are roaming a post-apocalyptic world destroyed by a zombie epidemic 10 years ago. For some reason these two kids aren't getting attacked by the zombies.\n\n\n(Source: Manga Mogura RE)"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78",
+    "title": {
+      "en": "In Another World With My Smartphone"
+    },
+    "updatedAt": "2024-05-23T15:53:23+00:00",
+    "coverArt": "https://mangadex.org/covers/8bc61f6d-5b33-4c6b-bfdc-589daa4a4d78/e6404fb0-5be8-4fb5-ac52-8b0ef0cbf36e.jpg",
+    "altTitles": [
+      {
+        "fr": "Dans un nouveau monde avec mon Smartphone"
+      },
+      {
+        "ru": "\u0412 \u0434\u0440\u0443\u0433\u043e\u043c \u043c\u0438\u0440\u0435 \u0441\u043e \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u043c"
+      },
+      {
+        "th": "\u0e44\u0e1b\u0e15\u0e48\u0e32\u0e07\u0e42\u0e25\u0e01! \u0e01\u0e47\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e2a\u0e21\u0e32\u0e23\u0e4c\u0e17\u0e42\u0e1f\u0e19\u0e2a\u0e34!!!"
+      },
+      {
+        "zh": "\u5e26\u8457\u667a\u6167\u578b\u624b\u673a\u95ef\u8361\u5f02\u4e16\u754c"
+      },
+      {
+        "zh": "\u5f02\u4e16\u754c\u548c\u667a\u80fd\u624b\u673a\u5728\u4e00\u8d77"
+      },
+      {
+        "ja-ro": "Isekai wa Smartphone to Tomo ni"
+      },
+      {
+        "ja": "\u7570\u4e16\u754c\u306f\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3068\u3068\u3082\u306b\u3002"
+      },
+      {
+        "ko": "\uc774\uc138\uacc4\ub294 \uc2a4\ub9c8\ud2b8\ud3f0\uacfc \ud568\uaed8"
+      },
+      {
+        "vi": "Xuy\u00ean Kh\u00f4ng C\u00f9ng V\u1edbi Chi\u1ebfc Smartphone"
+      },
+      {
+        "vi": "Sang Th\u1ebf Gi\u1edbi Kh\u00e1c C\u00f9ng V\u1edbi Chi\u1ebfc Smartphone"
+      },
+      {
+        "pt-br": "Em Um Mundo Diferente Com Um Smartphone"
+      },
+      {
+        "id": "Ke Dunia Lain Bawa Smartphone Ku"
+      },
+      {
+        "es": "En otro mundo con mi Smartphone."
+      },
+      {
+        "it": "In un mondo parallelo con uno smartphone."
+      },
+      {
+        "fr": "Un autre monde avec un Smartphone."
+      },
+      {
+        "vi": "\u0110\u1ebfn th\u1ebf gi\u1edbi m\u1edbi v\u1edbi smartphone!"
+      },
+      {
+        "ru": "\u0418\u0441\u044d\u043a\u0430\u0439 \u0432\u0430 \u0441\u0443\u043c\u0430:\u0442\u043e\u0444\u043e\u043d \u0442\u043e \u0442\u043e\u043c\u043e \u043d\u0438"
+      },
+      {
+        "fa": "\u062f\u0631 \u062c\u0647\u0627\u0646\u06cc \u062f\u06cc\u06af\u0631 \u0628\u0627 \u06af\u0648\u0634\u06cc \u0647\u0648\u0634\u0645\u0646\u062f"
+      },
+      {
+        "ar": "\u0641\u064a \u0639\u0627\u0644\u0645 \u0623\u062e\u0631 \u0645\u0639 \u0647\u0627\u062a\u0641\u064a \u0627\u0644\u0630\u0643\u064a"
+      },
+      {
+        "fa": "\u0644\u06d5 \u062c\u06cc\u06be\u0627\u0646\u06ce\u06a9\u06cc \u062a\u0631 \u0644\u06d5\u06af\u06d5\u06b5 \u0645\u06c6\u0628\u0627\u06cc\u0644\u06d5 \u0632\u06cc\u0631\u06d5\u06a9\u06d5\u06a9\u06d5\u0645 (Central Kurdish)"
+      },
+      {
+        "zh-hk": "\u5e36\u8457\u667a\u6167\u578b\u624b\u6a5f\u95d6\u8569\u7570\u4e16\u754c\u3002"
+      },
+      {
+        "zh-hk": "\u651c\u624b\u6a5f\u6f02\u7570\u4e16 (Classical Chinese)"
+      },
+      {
+        "hi": "\u092e\u0947\u0930\u0947 \u0938\u094d\u092e\u093e\u0930\u094d\u091f\u092b\u094b\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0926\u0942\u0938\u0930\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902"
+      },
+      {
+        "ka": "\u10e1\u10ee\u10d5\u10d0 \u10e1\u10d0\u10db\u10e7\u10d0\u10e0\u10dd\u10e8\u10d8 \u10e2\u10d4\u10da\u10d4\u10e4\u10dd\u10dc\u10d8\u10d7"
+      }
+    ],
+    "description": {
+      "en": "After a freak accident involving some lightning winds up zapping him dead, 15-year-old Mochizuki Touya wakes up to find himself face-to-face with God. \"I am afraid to say that I have made a bit of a blunder\" laments the old coot. But all is not lost! God says that he can reincarnate Touya into a world of fantasy, and as a bonus, he gets to bring his smartphone along with! So begins Touya's adventure in a new, anachronistic pseudo-medieval world. Friends! Laughs! Tears! Inexplicable Deus ex Machina! He sets off on a journey full of wonder as he absentmindedly travels from place to place, following whatever goal catches his fancy. The curtains lift on an epic tale of swords, sorcery, and smartphone apps!",
+      "vi": "Mochizuki Touya, 15 tu\u1ed5i l\u00e0 main gi\u1ed1ng nh\u01b0 bao anh main kh\u00e1c khi \u0111ang tr\u00ean \u0111\u01b0\u1eddng v\u1ec1 nh\u00e0 l\u1ea1i b\u1ecb\u2026 s\u00e9t \u0111\u00e1nh l\u0103n \u0111\u00f9ng ra ch\u1ebft :v.\u0110i\u1ec1u \u0111\u00e1ng n\u00f3i \u1edf \u0111\u00e2y l\u00e0 sau khi ch\u1ebft anh main l\u1ea1i b\u1ecb tri\u1ec7u t\u1eadp \u0111\u1ebfn tr\u01b0\u1edbc m\u1eb7t Th\u01b0\u1ee3ng \u0111\u1ebf v\u1edbi l\u00fd do: \u1ed4ng v\u00f4 t\u00ecnh\u2026 h\u1ea1i ch\u1ebft anh main m\u00e0 kh\u00f4ng hay bi\u1ebft. V\u00e0 \u0111\u1ec3 \u0111\u1ec1n b\u00f9 th\u00ec \u1ea3nh \u0111\u00e3 \u0111\u01b0\u1ee3c h\u1ed3i sinh sang m\u1ed9t th\u1ebf gi\u1edbi song song kh\u00e1c v\u1edbi 1 c\u00e1i S\u00ec m\u00e1t ph\u00f4n (Smartphone :v).\r\nTh\u1eeba h\u01b0\u1edfng trong m\u00ecnh m\u1ed9t di s\u1ea3n to l\u1edbn v\u1ec1 nh\u1eefng n\u1ec1n v\u0103n minh c\u1ed5 \u0111\u1ea1i, anh thong dong \u0111i tr\u00ean con \u0111\u01b0\u1eddng \u0111\u01a1n \u0111\u1ed9c t\u1ea1i m\u1ed9t th\u1ebf gi\u1edbi kh\u00e1c trong khi s\u1edf h\u1eefu m\u1ed9t ngu\u1ed3n s\u1ee9c m\u1ea1nh th\u1eadm ch\u00ed c\u00f3 th\u1ec3 gi\u00fap anh l\u00e0m b\u00e1 ch\u1ee7 c\u1ee7a c\u1ea3 th\u1ebf gi\u1edbi th\u1eddi b\u1ea5y gi\u1edd.\r\nC\u00e0ng \u0111i anh c\u00e0ng t\u1ea1o th\u00eam cho m\u00ecnh nhi\u1ec1u \u0111\u1ed3ng ch\u00ed quan tr\u1ecdng v\u00e0 tr\u01b0\u1edbc khi k\u1ecbp nh\u1eadn ra\u2026 anh \u0111\u00e3 ng\u00e0y c\u00e0ng l\u00fan s\u00e2u v\u00e0o nh\u1eefng b\u00ed m\u1eadt \u0111\u01b0\u1ee3c c\u1ea5t gi\u1ea5u t\u1ea1i th\u1ebf gi\u1edbi \u0111\u00f3\u2026",
+      "pt-br": "Touya Mochizuki foi acidentalmente morto e, como uma desculpa, Deus lhe permite renascer em um mundo de fantasia e lhe conceder\u00e1 qualquer coisa que ele desejar. E assim, Touya escolhe manter seu smartphone no pr\u00f3ximo mundo. Em sua segunda chance na vida, ele faz amizade com muitas figuras importantes e se depara com o segredo do mundo. Ele herda o legado de uma civiliza\u00e7\u00e3o antiga e viaja despreocupadamente enquanto possui poderes que rivalizam com os reis daquele mundo."
+    },
+    "status": "ongoing",
+    "releaseDate": 2016,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "793e84d1-bf6a-4d99-aabf-c5f16a39d64f",
+    "title": {
+      "en": "Happiness Meal"
+    },
+    "updatedAt": "2024-01-05T05:48:03+00:00",
+    "coverArt": "https://mangadex.org/covers/793e84d1-bf6a-4d99-aabf-c5f16a39d64f/24d23e48-bdd5-4f24-9fd4-8e18dd07cf82.png",
+    "altTitles": [
+      {
+        "ja": "\u3057\u3042\u308f\u305b\u30b4\u30cf\u30f3"
+      },
+      {
+        "ja-ro": "Shiawase Gohan"
+      }
+    ],
+    "description": {
+      "en": "A man relaxing with a can of beer when a winter storm hits. A man, burdened with personal strife, finds solace in a bowl of ramen. \n\nA Silent Manga, each chapter is a self-contained glimpse into the life of an ordinary person, and how the meals they eat lift their spirits."
+    },
+    "status": "completed",
+    "releaseDate": 2014,
+    "contentRating": "safe",
+    "lastVolume": "4",
+    "lastChapter": "68"
+  },
+  {
+    "mangaId": "b82b27ba-3072-4f5b-9f47-44947af099ff",
+    "title": {
+      "en": "Buddy Go!"
+    },
+    "updatedAt": "2023-11-29T23:03:29+00:00",
+    "coverArt": "https://mangadex.org/covers/b82b27ba-3072-4f5b-9f47-44947af099ff/061ee894-a56a-4e9a-badb-22145864726c.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30d0\u30c7\u30a3\u30b4\uff01"
+      },
+      {
+        "en": "Buddy Go!"
+      }
+    ],
+    "description": {
+      "en": "Shizuku Ishiai, a 2nd year middle school student, loves dancing, but is bad at expressing herself, so she crossdresses and posts videos of her dances on the popular website \"Smile Douga,\" under the alias \"Ai.\" And she had declared the \"dancing prince,\" Hayate, her rival. But, after a few unexpected events, and her attempts to best him, she's somehow thrown into an idol unit with him; furthermore, a MALE one?!"
+    },
+    "status": "completed",
+    "releaseDate": 2014,
+    "contentRating": "safe",
+    "lastVolume": "12",
+    "lastChapter": null
+  },
+  {
     "mangaId": "8d2e9520-4127-4bf2-94a3-b2571029562d",
     "title": {
       "en": "Make the Exorcist Fall in Love"
@@ -790,30 +1535,6 @@
     "lastChapter": ""
   },
   {
-    "mangaId": "793e84d1-bf6a-4d99-aabf-c5f16a39d64f",
-    "title": {
-      "en": "Happiness Meal"
-    },
-    "updatedAt": "2024-01-05T05:48:03+00:00",
-    "coverArt": "https://mangadex.org/covers/793e84d1-bf6a-4d99-aabf-c5f16a39d64f/24d23e48-bdd5-4f24-9fd4-8e18dd07cf82.png",
-    "altTitles": [
-      {
-        "ja": "\u3057\u3042\u308f\u305b\u30b4\u30cf\u30f3"
-      },
-      {
-        "ja-ro": "Shiawase Gohan"
-      }
-    ],
-    "description": {
-      "en": "A man relaxing with a can of beer when a winter storm hits. A man, burdened with personal strife, finds solace in a bowl of ramen. \n\nA Silent Manga, each chapter is a self-contained glimpse into the life of an ordinary person, and how the meals they eat lift their spirits."
-    },
-    "status": "completed",
-    "releaseDate": 2014,
-    "contentRating": "safe",
-    "lastVolume": "4",
-    "lastChapter": "68"
-  },
-  {
     "mangaId": "ad9ac663-2d34-48cf-a458-a03f5370bf47",
     "title": {
       "en": "The Secret of the Partner Next to You"
@@ -1065,682 +1786,6 @@
     "status": "ongoing",
     "releaseDate": 1997,
     "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "a1db428c-685c-4d11-927b-bf71eb4b254b",
-    "title": {
-      "en": "Juuou to Yakusou"
-    },
-    "updatedAt": "2024-04-29T18:11:09+00:00",
-    "coverArt": "https://mangadex.org/covers/a1db428c-685c-4d11-927b-bf71eb4b254b/e0eaa711-7cec-4825-bf8e-1c11d5496745.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Juuou to Yakusou"
-      },
-      {
-        "ru": "\u041a\u043e\u0440\u043e\u043b\u044c \u0437\u0432\u0435\u0440\u0435\u0439 \u0438 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0442\u0440\u0430\u0432\u044b."
-      },
-      {
-        "ja": "\u7363\u738b\u3068\u85ac\u8349"
-      },
-      {
-        "ja-ro": "Kemono wo to Kusuri"
-      },
-      {
-        "en": "Beast King & Medicinal Herb"
-      }
-    ],
-    "description": {
-      "en": "Dungeons are the stuff of dreams\u2014defeat the monsters, take their loot, and then venture into uncharted territory to discover hidden riches! Tina, an upstart adventurer with just such a dream, ends up mortally wounded while exploring a dungeon. Suddenly, the great demon known as the Beast King Garon, who was supposed to have been slain by a hero in the distant past, appears before her!  Dungeon fantasy meets medical drama!",
-      "ru": "\u041f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f - \u044d\u0442\u043e \u0432\u043e\u043f\u043b\u043e\u0449\u0435\u043d\u0438\u0435 \u043c\u0435\u0447\u0442\u044b\u2026\n\u0421\u043e\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0441 \u043f\u043e\u0432\u0435\u0440\u0436\u0435\u043d\u043d\u044b\u0445 \u043c\u043e\u043d\u0441\u0442\u0440\u043e\u0432,\n\u0434\u043e\u0431\u0438\u0440\u0430\u0439\u0442\u0435\u0441\u044c \u0434\u043e \u043d\u0435\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u0438 \u0437\u0430\u0432\u043b\u0430\u0434\u0435\u0432\u0430\u0439\u0442\u0435 \u0441\u043e\u043a\u0440\u043e\u0432\u0438\u0449\u0430\u043c\u0438!\n\u0422\u0438\u043d\u0430, \u0430\u0432\u0430\u043d\u0442\u044e\u0440\u0438\u0441\u0442\u043a\u0430, \u043c\u0435\u0447\u0442\u0430\u0435\u0442 \u043e \u0442\u0430\u043a\u043e\u043c \u0443\u0441\u043f\u0435\u0445\u0435,\n\u0418\u0441\u0441\u043b\u0435\u0434\u0443\u044f \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435, \u043e\u043d\u0430 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0442\u044f\u0436\u0435\u043b\u043e\u0435 \u0440\u0430\u043d\u0435\u043d\u0438\u0435.\n\u041f\u0435\u0440\u0435\u0434 \u043d\u0435\u0439 \u043f\u043e\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u0438\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0439 \u0434\u0435\u043c\u043e\u043d \u00ab\u041a\u043e\u0440\u043e\u043b\u044c \u0437\u0432\u0435\u0440\u0435\u0439 \u0413\u0430\u0440\u043e\u043d\u00bb, \u043a\u043e\u0433\u0434\u0430-\u0442\u043e \u0432 \u043f\u0440\u043e\u0448\u043b\u043e\u043c \u043e\u043d \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u043b \u0431\u044b\u0442\u044c \u0443\u0431\u0438\u0442 \u0433\u0435\u0440\u043e\u0435\u043c?..\n\n\u0424\u044d\u043d\u0442\u0435\u0437\u0438 \u0438 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u0434\u0440\u0430\u043c\u0430 \u043f\u043e \u043c\u043e\u0442\u0438\u0432\u0430\u043c \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f \u043e\u0442 Konda Tatsukazu, \u0430\u0432\u0442\u043e\u0440\u0430 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u00abGinrou Bloodborne/\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u044b\u0439 \u0432\u043e\u043b\u043a, \u0440\u043e\u0436\u0434\u0435\u043d\u043d\u044b\u0439 \u0432 \u043a\u0440\u043e\u0432\u0438\u00bb, \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "5cac8e6c-db09-4271-b5d8-7398b5f609ad",
-    "title": {
-      "en": "I Don't Want to Be a Lady"
-    },
-    "updatedAt": "2024-04-20T20:50:31+00:00",
-    "coverArt": "https://mangadex.org/covers/5cac8e6c-db09-4271-b5d8-7398b5f609ad/576af780-92b0-40f0-8a18-3d193eebc590.jpg",
-    "altTitles": [
-      {
-        "ko": "\ub808\uc774\ub514\ub294 \uc2eb\uc2b5\ub2c8\ub2e4"
-      }
-    ],
-    "description": {
-      "en": "Before being sold as the Crown Prince\u2019s concubine, I proposed a contract marriage to the Duke.\n\n\u201cWill your father allow you to marry me?\u201d\n\u201cOf course not. So there is only one way.\u201d\n\n\u201cWe have to make an accident.\u201d\n\nIt will taste better when I break that mol*ster\u2019s head.\nI could shoot a gun at the alley gangster. Even the prince of the neighboring empire was also knocked out by me.\n\nThe man snorted.\n\n\u201cYou\u2019re so arrogant as the captive subject. I never knew that Count Bornes would be a jerk to his dog.\u201d\n\nI said with a smile, \u201cOur mansion didn\u2019t have a dog. Because the owner of the mansion is already a dog.\u201d\n\nThis is the story of Arianne Bornes, who seemed to be a villainess but not a villainess.",
-      "ko": "\ub9dd\ub098\ub2c8 \ud669\ud0dc\uc790\uc758 \uc815\ubd80\ub85c \ud314\ub824\uac00\uae30 \uc804, \uacf5\uc791\uc5d0\uac8c \uacc4\uc57d \uacb0\ud63c\uc744 \uc81c\uc548\ud588\ub2e4.\n\n\u201c\ub2f9\uc2e0\uc758 \ubd80\uce5c\uaed8\uc11c \uc800\uc640\uc758 \ud63c\uc778\uc744 \ud5c8\ub77d\ud574 \uc8fc\uc2e4\uae4c\uc694?\u201d\n\u201c\uc544\ub2c8\uc8e0. \uadf8\ub7ec\ub2c8 \ubc29\ubc95\uc740 \ud558\ub098\ubfd0\uc774\uc5d0\uc694.\u201d\n\n\u201c\uc0ac\uace0\ub97c \uccd0\uc57c\uc8e0.\u201d\n\n\uce58\ud55c\uc740 \uba38\ub9ac\ub97c \uae68\uc918\uc57c \ub9db.\n\uace8\ubaa9 \uac74\ub2ec\uc5d0\uac8c\ub294 \ucd1d\uc54c\uc744 \ubc15\uc544\uc8fc\uace0\n\uc774\uc6c3 \ub098\ub77c \ud669\uc790\ub3c4 \ub54c\ub824\ub215\ud614\ub2e4.\n\n\n\ub0a8\uc790\uac00 \ucf54\uc6c3\uc74c \ucce4\ub2e4.\n\n\u201c\ud3ec\ub85c\ub85c \uc7a1\ud78c \uc8fc\uc81c\uc5d0 \uac74\ubc29\uc9c0\uae30\ub294. \ubcf4\ub974\ub124\uc2a4\ub77c\uba74 \uadf8 \uc9d1 \uac1c\uc0c8\ub07c\uae4c\uc9c0 \uc2f8\uac00\uc9c0 \uc5c6\uc744 \uac83 \uac19\ub2e8 \ub9d0\uc774\uc9c0.\u201d\n\n\uc544\ub9ac\uc548\ub290\uac00 \uc2f1\uae0b \uc6c3\uc73c\uba70 \ub9d0\ud588\ub2e4.\n\n\u201c\uc6b0\ub9ac \uc9d1\uc5d4 \uac1c \uc548 \ud0a4\uc6cc. \uc774\ubbf8 \uc8fc\uc778\uc774 \uac1c\uc0c8\ub07c\uc796\uc544.\u201d\n\n\uc545\ub140\uc778 \ub4ef \uc545\ub140 \uc544\ub2cc \uc545\ub140 \uac19\uc740 \uadf8\ub140, \uc544\ub9ac\uc548\ub290 \ubcf4\ub974\ub124\uc2a4\uc758 \ud30c\ub780\ub9cc\uc7a5 \uc2a4\ud1a0\ub9ac."
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "2f9ccb4f-9421-44c7-b9e4-89a62c6d10ea",
-    "title": {
-      "en": "Isekai Cheat Survival Meshi"
-    },
-    "updatedAt": "2024-05-11T17:24:09+00:00",
-    "coverArt": "https://mangadex.org/covers/2f9ccb4f-9421-44c7-b9e4-89a62c6d10ea/e662da2e-4f43-4e73-96c3-e7f55d2fb688.jpg",
-    "altTitles": [
-      {
-        "en": "Isekai Cheat Survival Food"
-      },
-      {
-        "ja": "\u7570\u4e16\u754c\u30c1\u30fc\u30c8\u30b5\u30d0\u30a4\u30d0\u30eb\u98ef"
-      },
-      {
-        "ko": "\uc774\uc138\uacc4 \uce58\ud2b8 \uc11c\ubc14\uc774\ubc8c\ubc25 (Unofficial/\ube44\uacf5\uc2dd)"
-      }
-    ],
-    "description": {
-      "en": "Kazusa Yuu, a Japanese high school student interested in food and camping, dies in a traffic accident and ends up reincarnated in the wilderness in another world. He must learn to survive in an unfamiliar environment, learn the powers he was granted and the magic of the world that is based on eating other creatures, and rescue fair maidens in distress to feed them and build up his harem.",
-      "pt": "Kazusa Yuu, \u00e9 um estudante japon\u00eas do ensino m\u00e9dio interessado em comida e camping, ele morre em um acidente de tr\u00e2nsito e acaba reencarnando no deserto em outro mundo. Ele deve aprender a sobreviver em um ambiente desconhecido, aprender os poderes que ele recebeu e a magia do mundo que se baseia em comer outras criaturas e resgatar donzelas em perigo para aliment\u00e1-las e construir seu har\u00e9m.",
-      "pt-br": "Kazusa Yuu, um estudante japon\u00eas do ensino m\u00e9dio interessado em culin\u00e1ria e campismo, morre num acidente de tr\u00e2nsito e acaba reencarnado na selva de outro mundo. Ele deve aprender a sobreviver num ambiente desconhecido, aprender sobre os poderes que ganhou e a magia do mundo que se baseia em comer outras creaturas e resgatar donzelas em perigo para as alimentar e construir o seu har\u00e9m"
-    },
-    "status": "ongoing",
-    "releaseDate": 2018,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "3cbc4293-3623-470a-9405-f46b328c83d4",
-    "title": {
-      "en": "The Lecture You Would Never Want Your Parents To Give You"
-    },
-    "updatedAt": "2024-03-08T13:29:11+00:00",
-    "coverArt": "https://mangadex.org/covers/3cbc4293-3623-470a-9405-f46b328c83d4/ca5ea16d-a180-4adc-ad12-19dc7c1eb45c.jpg",
-    "altTitles": [
-      {
-        "ja": "\u89aa\u306b\u7d76\u5bfe\u3055\u308c\u305f\u304f\u306a\u3044\u8aac\u6559"
-      },
-      {
-        "ja-ro": "Oya ni Zettai sa Retakunai Sekkyou"
-      },
-      {
-        "fr": "Le sermon que vous ne voudriez jamais recevoir de vos parents"
-      },
-      {
-        "ru": "\u041b\u0435\u043a\u0446\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0432\u044b \u0431\u044b \u043d\u0435 \u0445\u043e\u0442\u0435\u043b\u0438 \u0443\u0441\u043b\u044b\u0448\u0430\u0442\u044c \u043e\u0442 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439"
-      },
-      {
-        "vi": "B\u00e0i Thuy\u1ebft Gi\u00e1o m\u00e0 ta Kh\u00f4ng bao gi\u1edd Mu\u1ed1n nghe t\u1eeb ph\u1ee5 Huynh"
-      },
-      {
-        "vi": "Nghe ba m\u1eb9 Thuy\u1ebft Gi\u1ea3ng"
-      }
-    ],
-    "description": {},
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "a2911710-50ea-42ba-b416-5a628728caaa",
-    "title": {
-      "en": "The Vigilant Lionmaru"
-    },
-    "updatedAt": "2024-05-29T17:56:08+00:00",
-    "coverArt": "https://mangadex.org/covers/a2911710-50ea-42ba-b416-5a628728caaa/c4ee716f-ea4d-4857-a866-2a7a962b0a74.jpg",
-    "altTitles": [
-      {
-        "en": "The Vigilant Lion Knight"
-      },
-      {
-        "ja": "\u5feb\u5091\u30e9\u30a4\u30aa\u30f3\u4e38"
-      },
-      {
-        "ja-ro": "Kaiketsu Lionmaru"
-      }
-    ],
-    "description": {
-      "en": "During the Warring States period, the demon king Gosun, who has been hiding in the Himalayas for a hundred years and has mastered evil sorcery, is aiming to conquer Japan. Shishimaru fights as the invincible ninja Kaikitsu Lionmaru with the sword given to him by Koji Kashin, Japan's greatest ninja!"
-    },
-    "status": "completed",
-    "releaseDate": 1972,
-    "contentRating": "safe",
-    "lastVolume": "2",
-    "lastChapter": "18"
-  },
-  {
-    "mangaId": "81efb7a4-6f66-4072-a5a9-f95e614367b3",
-    "title": {
-      "en": "The Genius Medicinal Mage"
-    },
-    "updatedAt": "2024-05-28T16:04:05+00:00",
-    "coverArt": "https://mangadex.org/covers/81efb7a4-6f66-4072-a5a9-f95e614367b3/b80ccecc-d0fc-4064-9bf3-7278ccffa9a1.png",
-    "altTitles": [
-      {
-        "en": "Drug-Eating Genius Mage"
-      },
-      {
-        "ko": "\uc57d\uba39\ub294 \ucc9c\uc7ac \ub9c8\ubc95\uc0ac"
-      },
-      {
-        "ko-ro": "Yakmeokneun Cheonjaemabeopsa"
-      },
-      {
-        "es-la": "El mago prodigio devorador de medicina"
-      }
-    ],
-    "description": {
-      "en": "Renoc was supposed to be a video game character, so giving him a dying body in exchange for extreme magical prowess felt reasonable. However, when his creator wakes up inside Renoc's body, it doesn't feel like a game anymore!\n\nHis life in the game is unbearable until he discovers the mysterious drug Vyper, which gives him the strength to wield his magic to its full potential.\n\nAs Renoc walks a fine line with the drug that could save or destroy him, can he find a way to survive in this new world?",
-      "pt-br": "\"World\", um jogo que esbanja extrema liberdade.\r\n\r\nNa \"vers\u00e3o 3.0\", eu decidi colocar tudo o que tinha para aumentar o talento de magia!\r\n\r\nTodos os atributos que possuo s\u00e3o sobre magia!\r\n\r\nAumentar o talento de magia do personagem fez com que ele tivesse diversas caracter\u00edsticas negativas. Mas isso n\u00e3o importa. Vou criar o mago mais poderoso, mesmo que o personagem pare\u00e7a um cad\u00e1ver.\r\n\r\nMas... o que \u00e9 isso? Eu me tornei o personagem -\r\n\r\n um personagem com talento incr\u00edvel, mas que n\u00e3o pode passar um dia sem seus rem\u00e9dios."
-    },
-    "status": "hiatus",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": null
-  },
-  {
-    "mangaId": "c49df081-b955-4c04-936d-72106ff909cc",
-    "title": {
-      "en": "Full Metal Panic!"
-    },
-    "updatedAt": "2022-04-21T23:43:25+00:00",
-    "coverArt": "https://mangadex.org/covers/c49df081-b955-4c04-936d-72106ff909cc/a286fe01-288d-487a-b4dd-74b6e829857c.jpg",
-    "altTitles": [
-      {
-        "en": "FMP"
-      },
-      {
-        "ja": "\u30d5\u30eb\u30e1\u30bf\u30eb\u30fb\u30d1\u30cb\u30c3\u30af!"
-      },
-      {
-        "zh-hk": "\u9a5a\u7206\u5371\u6a5f!"
-      }
-    ],
-    "description": {
-      "en": "Trouble always seems to follow the beautiful and sassy, Kaname Chidori. Though she is only a high-school student, Kaname is constantly the target of terrorism. Lucky for her though, the dreamy Sosuke, an undercover agent from Mithril, is one step behind her, ready to protect her at any cost. But will he be able to save her from harm every time she is in trouble?"
-    },
-    "status": "completed",
-    "releaseDate": 2000,
-    "contentRating": "suggestive",
-    "lastVolume": "9",
-    "lastChapter": "58"
-  },
-  {
-    "mangaId": "9a30143c-5269-466d-8180-904dd7a371cd",
-    "title": {
-      "en": "World Map Room"
-    },
-    "updatedAt": "2024-05-31T01:30:05+00:00",
-    "coverArt": "https://mangadex.org/covers/9a30143c-5269-466d-8180-904dd7a371cd/8189e524-7cca-48fd-a4b8-fa0906dcbc08.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Sekai Chizu no Ma"
-      },
-      {
-        "ja": "\u4e16\u754c\u5730\u56f3\u306e\u9593"
-      }
-    ],
-    "description": {
-      "en": "Guys visit a city. They watch airplanes departing and arriving at an airport. They go on board a ship and across a river. Finally they arrive at a building as their destination. A man guides them to the\"world map room.\" It seems they have an appointment there, although there is no description about the appointment. They see books on the shelves and have some desultory conversation. Then they go to the courtyard and carry on the conversation. They reach a pond with a sunken ship. The guide starts to explain the ship's history. The book ends."
-    },
-    "status": "completed",
-    "releaseDate": 2013,
-    "contentRating": "safe",
-    "lastVolume": "1",
-    "lastChapter": "1"
-  },
-  {
-    "mangaId": "830b4cdd-df77-4a48-975a-aa2bc0684738",
-    "title": {
-      "en": "Mezase Gouka Kyakusen!! ~Sen Shokan Skill De Isekai Rich Life Wo Te Ni Irero~"
-    },
-    "updatedAt": "2024-04-22T22:26:45+00:00",
-    "coverArt": "https://mangadex.org/covers/830b4cdd-df77-4a48-975a-aa2bc0684738/a1f81cd9-a983-4628-a103-74ec0d7f82e5.jpg",
-    "altTitles": [
-      {
-        "ja": "\u3081\u3056\u305b\u8c6a\u83ef\u5ba2\u8239!!\u3000\uff5e\u8239\u53ec\u559a\u30b9\u30ad\u30eb\u3067\u7570\u4e16\u754c\u30ea\u30c3\u30c1\u30e9\u30a4\u30d5\u3092\u624b\u306b\u5165\u308c\u308d\uff5e"
-      },
-      {
-        "ko": "\ub178\ub824\ub77c \ud638\ud654\uac1d\uc120!! \ubc30 \uc18c\ud658 \uc2a4\ud0ac\ub85c \uc774\uc138\uacc4 \ubd80\uc790 \ub77c\uc774\ud504\ub97c \uc190\uc5d0 \ub123\uc5b4\ub77c"
-      },
-      {
-        "en": "Striving for the Luxury Liner!! Get that Rich Isekai Life with a Ship Summoning Skill"
-      }
-    ],
-    "description": {
-      "en": "After falling into the ocean, Wataru Toyoumi, finds himself reincarnated in another world! Armed with a skill to allow him to summon boats, he plans to get rich and live a happy life aboard his very own luxury liner."
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "7f952b22-812d-4252-88e1-a99818f13acd",
-    "title": {
-      "en": "The Duke of Death and His Maid"
-    },
-    "updatedAt": "2024-05-31T03:59:38+00:00",
-    "coverArt": "https://mangadex.org/covers/7f952b22-812d-4252-88e1-a99818f13acd/e7e125d5-01d0-405d-a88e-7d8ef36875a8.jpg",
-    "altTitles": [
-      {
-        "fr": "Le duc de la Mort et sa gouvernante obscure"
-      },
-      {
-        "ja-ro": "Shinigami Bocchan to Kuro Maid"
-      },
-      {
-        "ru": "\u0421\u043c\u0435\u0440\u0442\u043e\u043d\u043e\u0441\u043d\u044b\u0439 \u0433\u0435\u0440\u0446\u043e\u0433 \u0438 \u0435\u0433\u043e \u0447\u0435\u0440\u043d\u0430\u044f \u0433\u043e\u0440\u043d\u0438\u0447\u043d\u0430\u044f"
-      },
-      {
-        "ar": "\u0627\u0644\u0646\u0628\u064a\u0644 \u0627\u0644\u0634\u0627\u0628 \u062d\u0627\u0635\u062f \u0627\u0644\u0623\u0631\u0648\u0627\u062d \u0648 \u062e\u0627\u062f\u0645\u062a\u0647 \u0627\u0644\u0633\u0648\u062f\u0627\u0621"
-      },
-      {
-        "ja": "\u6b7b\u795e\u574a\u3061\u3083\u3093\u3068\u9ed2\u30e1\u30a4\u30c9"
-      },
-      {
-        "en": "The Duke of Death and His Black Maid"
-      },
-      {
-        "pt-br": "O duque da morte e sua empregada"
-      }
-    ],
-    "description": {
-      "en": "In a large mansion lives a boy, an aristocrat who was cursed by the witch to \"let everything he touches die.\" With him is his maid Alice, who besides serving him, likes to tease him. The boy who is interested in her doesn't mind the teasing, but not being able to touch her is painful!  \r\n  \r\nIf they are unable to hold hands, how will their love ever bloom?",
-      "tr": "Hik\u00e2ye b\u00fcy\u00fck bir malikanede ya\u015fayan kaderi bir cad\u0131 taraf\u0131ndan m\u00fch\u00fcrlenen bir \u00e7ocuk ve onunla beraber ya\u015fayan hizmet\u00e7i Alice hakk\u0131nda; \u00e7ocuk dokundu\u011fu her \u015feyi \u00f6l\u00fcme s\u00fcr\u00fcklerken; Alice ile hi\u00e7 el ele tutu\u015famayacak olmalar\u0131na ra\u011fmen ya\u015fanan ini\u015fli \u00e7\u0131k\u0131\u015fl\u0131 bir a\u015fk."
-    },
-    "status": "completed",
-    "releaseDate": 2017,
-    "contentRating": "suggestive",
-    "lastVolume": null,
-    "lastChapter": "223"
-  },
-  {
-    "mangaId": "4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc",
-    "title": {
-      "en": "The Infinite Mage"
-    },
-    "updatedAt": "2024-05-28T15:59:31+00:00",
-    "coverArt": "https://mangadex.org/covers/4d97b35d-2d9f-4369-964f-3b0ce2c7fbbc/80590dee-2e33-4918-8ca9-fbdd24a744a0.jpg",
-    "altTitles": [
-      {
-        "ko": "\ubb34\ud55c\uc758 \ub9c8\ubc95\uc0ac"
-      },
-      {
-        "en": "Infinite Wizard"
-      },
-      {
-        "es-la": "El Mago infinito"
-      }
-    ],
-    "description": {
-      "en": "This is the tale of a boy dreaming about infinity as a human!\n\nFound abandoned in a stable, Shirone is the son of a hunter\u2014and a peasant through and through.\nDespite hardships, he's a genius that manages to learn to read by himself and becomes obsessed with it.\n\nBrimming with genius talent, he goes to the city with his father, where he learns about magic\u2014\nbeginning his journey as an explosive rising star!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "8892dc05-867f-4fff-823b-47210a6746bb",
-    "title": {
-      "en": "I Am the Fated Villain"
-    },
-    "updatedAt": "2024-01-03T18:30:55+00:00",
-    "coverArt": "https://mangadex.org/covers/8892dc05-867f-4fff-823b-47210a6746bb/171f103f-edce-4804-b5fa-817c364a11df.jpg",
-    "altTitles": [
-      {
-        "en": "Villain Is Here"
-      },
-      {
-        "zh-hk": "\u6211\uff01\u5929\u547d\u5927\u53cd\u6d3e"
-      },
-      {
-        "en": "Me, the Heavenly Destined Villain"
-      },
-      {
-        "zh-ro": "W\u01d2! Ti\u0101nm\u00ecng D\u00e0 F\u01cenp\u00e0i"
-      },
-      {
-        "zh-ro": "Wo! Tian M\u00ecng Da Fanpai"
-      },
-      {
-        "en": "The Villain Of Destiny"
-      },
-      {
-        "en": "My Fate As a Villain"
-      },
-      {
-        "ru": "\u041c\u043e\u044f \u0441\u0443\u0434\u044c\u0431\u0430 \u0437\u043b\u043e\u0434\u0435\u044f"
-      }
-    ],
-    "description": {
-      "en": "Immediately after Gu Changge realized he had transgressed into a fantasy world, the world's protagonist, and fortune's chosen, vowed to take revenge on him. Envied by all, not only is the female lead head over heels for him, but he's also treated as a distinguished guest wherever he goes. Fortunately, Gu Changge's prestige and power are superior to everyone else's, so shouldn't it be easy to trample on a mere fortune's chosen?\n\nHold on\u2026 There\u2019s a system dedicated to milking and harvesting the protagonist? Gu Changge smirked. \u201cSeems like even fate wants me to fulfill my destiny as the villain of this world!\u201d",
-      "fr": "D\u00e8s que Gu Changge s\u2019est rendu compte qu\u2019il avait transgress\u00e9 un monde imaginaire, le protagoniste de ce monde, l\u2019\u00e9lu de la fortune, a jur\u00e9 de se venger de lui. Envi\u00e9 par tous, non seulement la femme principale est folle de lui, mais il est \u00e9galement trait\u00e9 comme un invit\u00e9 de marque partout o\u00f9 il va. Heureusement, le prestige et le pouvoir de Gu Changge sont sup\u00e9rieurs \u00e0 ceux de tous les autres, alors il ne devrait pas \u00eatre facile de pi\u00e9tiner un simple \u00e9lu de la fortune ?",
-      "id": "Begitu Gu Changge menyadari dia telah masuk ke sebuah dunia fantasi, protagonis dunia itu yang dengan beruntungnya terpilih, bersumpah untuk melakukan balas dendam terhadapnya. Semua orang sangat iri pada Protagonis itu, karena bukan hanya karakter utama wanita tergila-gila padanya, tapi dia juga selalu diperlakukan sebagai tamu kehormatan kemanapun dia pergi. Untungnya, martabat dan kekuatan Gu Changge jauh melebihi milik orang lain, sehingga dia tidak dengan mudah jatuh di tangan orang yang hanya terpilih karena keberuntungannya?\n\n \n\nTunggu dulu\u2026 ada sistem yang didedikasikan untuk meraup dan mengambil dari apa yang dimiliki protagonis? Gu Changge tersenyum. \u201cSepertinya takdir pun ingin aku memenuhi takdirku sebagai orang jahat di dunia ini!\u201d",
-      "pl": "Gu Changge zostaje przeniesiony do \u015bwiata wuxia, gdzie z miejsca staje si\u0119 obiektem nienawi\u015bci protagonisty, b\u0119d\u0105cego Wybra\u0144cem Losu, gdy\u017c nie do\u015b\u0107, \u017ce g\u0142\u00f3wna bohaterka rzuca mu si\u0119 w ramiona, to jeszcze jest przez wszystkich traktowany niczym znamienity go\u015b\u0107. Na szcz\u0119\u015bcie jego posta\u0107 cechuje znacz\u0105ca si\u0142a, wi\u0119c powinien bez trudu zmia\u017cd\u017cy\u0107 jakiego\u015b w czepku urodzonego dzieciaka, prawda? \u201cChwila\u2026 Otrzyma\u0142em wyspecjalizowany system, kt\u00f3ry pozwala mi okrada\u0107 g\u0142\u00f3wnego bohatera ze szcz\u0119\u015bcia?\u201d Gu Changge u\u015bmiechn\u0105\u0142 si\u0119 znacz\u0105co. \u201cZdaje si\u0119, \u017ce moim przeznaczeniem jest pod\u0105\u017canie \u015bcie\u017ck\u0105 prowadz\u0105c\u0105 do stania si\u0119 najwi\u0119kszym czarnym charakterem w tym \u015bwiecie!\u201d",
-      "ru": "\u0413\u0443 \u0427\u0430\u043d\u0433\u044d \u043f\u043e\u043f\u0430\u0434\u0430\u0435\u0442 \u0432 \u0444\u044d\u043d\u0442\u0435\u0437\u0438-\u043c\u0438\u0440, \u0433\u0434\u0435, \u043f\u043e-\u043a\u043b\u0430\u0441\u0441\u0438\u043a\u0435, \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0448\u043a\u0443\u0440\u0435 \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u0437\u043b\u0430 \u043e\u0442\u043f\u0443\u0449\u0435\u043d\u0438\u044f.\n\u0423\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e, \u0447\u0442\u043e \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0433\u0435\u0440\u043e\u0439 \u0441\u0440\u0430\u0437\u0443 \u0436\u0435 \u0441\u043d\u0438\u0437\u044b\u0441\u043a\u0430\u043b \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0443 \u0438\u043c\u043f\u0435\u0440\u0430\u0442\u0440\u0438\u0446\u044b, \u0447\u0435\u043c \u0432\u044b\u0437\u0432\u0430\u043b \u0431\u0443\u0440\u044e \u043d\u0435\u043d\u0430\u0432\u0438\u0441\u0442\u0438 \u0432 \u0441\u0432\u043e\u0439 \u0430\u0434\u0440\u0435\u0441. \u041a \u0441\u0447\u0430\u0441\u0442\u044c\u044e, \u0427\u0430\u043d\u0433\u044d - \u0443\u0432\u0430\u0436\u0430\u0435\u043c\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435, \u0447\u0442\u043e \u0435\u0433\u043e \u0441\u043f\u0430\u0441\u0430\u0435\u0442 \u043e\u0442 \u043a\u0430\u0440\u044b \u0432 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u044d\u0442\u043e \u0432\u044b\u0441\u043e\u043a\u0438\u0439 \u0441\u0442\u0430\u0442\u0443\u0441 \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435. \u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435-\u043a\u0430... \u0430 \u0432\u044b \u0443\u0436\u0435 \u0437\u043d\u0430\u0435\u0442\u0435, \u0447\u0442\u043e \u0437\u0434\u0435\u0441\u044c \u0435\u0441\u0442\u044c \u043d\u0435\u043e\u0431\u044b\u0447\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0440\u0430\u043d\u0433\u043e\u0432, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u044f\u0440\u043a\u0438\u0435 \u0433\u0435\u0440\u043e\u0438 \u0432\u0441\u0435\u0445 \u043c\u0430\u0441\u0442\u0435\u0439? \u041f\u0440\u043e\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0432 \u0441\u043e\u0431\u044b\u0442\u0438\u044f, \u0433\u0435\u0440\u043e\u0439 \u043f\u043e\u043d\u0438\u043c\u0430\u0435\u0442, \u0447\u0442\u043e \u0432\u044b\u0433\u043e\u0434\u043d\u0435\u0435 \u0432\u0441\u0435\u0433\u043e \u0432\u0436\u0438\u0442\u044c\u0441\u044f \u0432 \u0441\u0432\u043e\u044e \u043d\u043e\u0432\u0443\u044e \u0440\u043e\u043b\u044c \u0438 \u043f\u043e\u0439\u0442\u0438 \u043f\u043e \u043f\u0443\u0442\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430-\u0437\u043b\u043e\u0434\u0435\u044f!",
-      "pt-br": "Imediatamente ap\u00f3s Gu Changge perceber que havia transmigrado para um mundo de fantasia, o protagonista do mundo, e o escolhido da fortuna, jurou se vingar dele. Invejado por todos, ele n\u00e3o s\u00f3 tem a lideran\u00e7a feminina de ponta-cabe\u00e7a por ele, mas tamb\u00e9m \u00e9 tratado como um distinto convidado onde quer que v\u00e1. Felizmente, o prest\u00edgio e o poder de Gu Changge s\u00e3o superiores aos de todos os outros, ent\u00e3o n\u00e3o deveria ser f\u00e1cil pisar em uma mera escolha da fortuna? Espere \u2026 Existe um sistema dedicado \u00e0 ordenha e colheita do protagonista? Gu Changge sorriu. \u201cParece que at\u00e9 o destino quer que eu cumpra meu destino como o vil\u00e3o deste mundo!\u201d"
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "2223242b-41dc-4225-ba47-c68fe10e1e02",
-    "title": {
-      "en": "Game Shoshinsha no Mari-nee ga Iku VRMMO Nonbiri? Taikenki: Mebius World Online"
-    },
-    "updatedAt": "2024-01-03T16:31:40+00:00",
-    "coverArt": "https://mangadex.org/covers/2223242b-41dc-4225-ba47-c68fe10e1e02/517b3d11-dd79-41ce-baad-2abb6fd8de68.png",
-    "altTitles": [
-      {
-        "ja": "\u30b2\u30fc\u30e0\u521d\u5fc3\u8005\u306e\u771f\u91cc\u59c9\u304c\u884c\u304fVRMMO\u306e\u3093\u3073\u308a\uff1f\u4f53\u9a13\u8a18\uff5eMebius World Online\uff5e"
-      },
-      {
-        "ja-ro": "Geemu shoshinsha no Mari-nee ga iku VRMMO nonbiri? taikenki"
-      },
-      {
-        "en": "First time gamer Mari-nee's leisurely? VRMMO Journal"
-      }
-    ],
-    "description": {
-      "en": "At the recommendation of her younger brother who lives with her, Mari Akizuki decides to play the massively popular VRMMORPG \"Mebius World Online\". Being a beginner, she had only wanted to enjoy the game at a leisurely pace... But before she knows it, she ends up battling a boss monster, earning a rare skill, and becoming the center of attention?! And so begins the kind-hearted Mari-nee's VRMMO life, as she bonds with both players and NPCs alike!"
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "3",
-    "lastChapter": "15"
-  },
-  {
-    "mangaId": "7b727ae2-2842-4c46-af8b-9162b7806659",
-    "title": {
-      "en": "Girl meets Rock!"
-    },
-    "updatedAt": "2024-05-21T14:33:20+00:00",
-    "coverArt": "https://mangadex.org/covers/7b727ae2-2842-4c46-af8b-9162b7806659/53e362d7-ebc3-46a6-93b2-150745100f91.jpg",
-    "altTitles": [
-      {
-        "ja": "\u3075\u3064\u3046\u306e\u8efd\u97f3\u90e8"
-      },
-      {
-        "ja-ro": "Futsu no Keionbu"
-      },
-      {
-        "fr": "La fille qui d\u00e9couvre le rock !"
-      },
-      {
-        "nl": "Het meisje dat rock ontdekte!"
-      },
-      {
-        "ru": "\u0414\u0435\u0432\u0443\u0448\u043a\u0430 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442 \u0420\u043e\u043a"
-      },
-      {
-        "pt-br": "Garota conhece o rock!"
-      }
-    ],
-    "description": {
-      "en": "With a passion for richly textured Japanese rock, first-year high school student Chihiro Hatono steps into the world of the light music club, new guitar in tow. But what awaits her behind those doors...? A drama of unfiltered youth and musical ambition takes the stage!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "7be5032d-1059-4381-bb07-48115eba3073",
-    "title": {
-      "en": "Genshiken Nidaime - The Society for the Study of Modern Visual Culture II"
-    },
-    "updatedAt": "2024-05-05T00:22:32+00:00",
-    "coverArt": "https://mangadex.org/covers/7be5032d-1059-4381-bb07-48115eba3073/2a326e97-2808-4663-90ed-0d8bcacdfc56.jpg",
-    "altTitles": [
-      {
-        "en": "Genshiken: Second Season"
-      },
-      {
-        "ru": "\u0413\u044d\u043d\u0441\u0438\u043a\u044d\u043d: \u0432\u0442\u043e\u0440\u043e\u0435 \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435"
-      },
-      {
-        "ja": "\u3052\u3093\u3057\u3051\u3093 \u4e8c\u4ee3\u76ee"
-      },
-      {
-        "zh": "\u73b0\u89c6\u7814\u4e8c\u4ee3\u76ee"
-      }
-    ],
-    "description": {
-      "en": "Genshiken follows the lives of a group of college students drawn together by their shared hobbies, and the trials and adventures associated with being otaku.  \n  \nGenshiken Nidaime (\"Second Generation\") is a continuation of the previous series, with chapter numbering starting at 56."
-    },
-    "status": "completed",
-    "releaseDate": 2010,
-    "contentRating": "safe",
-    "lastVolume": "21",
-    "lastChapter": "127"
-  },
-  {
-    "mangaId": "a5caf00b-2c15-400d-a5e4-b35410172255",
-    "title": {
-      "en": "The Extra Is Too Powerful"
-    },
-    "updatedAt": "2024-05-29T00:09:51+00:00",
-    "coverArt": "https://mangadex.org/covers/a5caf00b-2c15-400d-a5e4-b35410172255/383369fc-b02d-4a93-a677-decd0697f2db.jpg",
-    "altTitles": [
-      {
-        "ko": "\uc5d1\uc2a4\ud2b8\ub77c\uac00 \ub108\ubb34 \uac15\ud568"
-      },
-      {
-        "ko-ro": "Ekseuteura-ga Neomu Gangham"
-      },
-      {
-        "en": "The Extra Is Too Strong"
-      },
-      {
-        "es-la": "El Extra es Demasiado Fuerte"
-      }
-    ],
-    "description": {
-      "en": "I received the same question every day, but the answer never changed. The only things I had left were sympathetic gazes and the monthly insurance payments. \n\nAnd the cruel reality of being half-paralyzed. \n\nThey say that God only gives you trials you can endure, but I would rather have died. That was when I woke up\u2014 \n\n[This is the world of the \u201cMagician Who Dominates the World.\u201d] \n\n[From now on, you must live as the character \u201cMord Vernars.\u201d] \n\nI became an extra in the novel I was reading overnight.",
-      "ko": "\ubc18\uc2e0\ubd88\uad6c\uc758 \ub0a8\uc790, \uc5c4\ud0dc\uc131.\n\uadf8\uc758 \ucde8\ubbf8\ub294 \uc624\ub85c\uc9c0 \uc18c\uc124\uc744 \uc77d\ub294 \uac83\ubfd0\uc774\uc5c8\ub2e4.\n\n\uadf8\ub7ec\ub358 \uc5b4\ub290 \ub0a0, \uc790\uc2e0\uc774 \ubc24\uc0c8 \uc77d\uc740 \uc18c\uc124 \uc18d\uc5d0 \ub4e4\uc5b4\uc640 \ubc84\ub838\ub2e4?!\n\uac8c\ub2e4\uac00 \uc774\uc57c\uae30 \uc18d\uc5d0\uc11c \uadf8\uac00 \ub9e1\uc740 \uc5ed\ud560\uc740\u2026\u2026.\n\u2018\uc5d1\uc2a4\ud2b8\ub77c\uc796\uc544?\u2019\n\n\uadf8\ub7f0\ub370 \uc774 \uc5d1\uc2a4\ud2b8\ub77c\uc758 \uc124\uc815\uc740 \ubb34\uc2dc\ud560 \uc218 \uc5c6\ub2e4,\n\ucd5c\uac15\uc758 \ud608\ud1b5, \uad34\ubb3c \uac19\uc740 \uc7ac\ub2a5!\n\n\uadf8\ub9ac\uace0 \uadf8\uc5d0\uac8c \uc8fc\uc5b4\uc9c4 \ud558\ub098\uc758 \uc6b4\uba85!\n\n[\ud30c\uba78\uc758 \uc6b4\uba85\uc744 \uae68\ubd80\uc234\ub77c. \uadf8\ub7ec\uba74 \uc18c\uc6d0\uc744 \uc774\ub8f0 \uac83\uc774\ub2e4.]\n\n\uc138\uacc4\uc758 \ud30c\uba78\uc744 \ub9c9\uae30 \uc704\ud55c \uba3c\uce58\ud0a8 \uc5d1\uc2a4\ud2b8\ub77c\uc758 \ub300\ubc18\ub780\uc774 \uc2dc\uc791\ub41c\ub2e4!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2020,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "49496e76-08b8-4d47-aced-a13f2f8d90a4",
-    "title": {
-      "en": "Kiraware Majo Reijou to Dansou Ouji no Kon'yaku"
-    },
-    "updatedAt": "2024-03-20T00:38:49+00:00",
-    "coverArt": "https://mangadex.org/covers/49496e76-08b8-4d47-aced-a13f2f8d90a4/ef52bd73-8061-4cc8-9d1a-c4c29165d742.jpg",
-    "altTitles": [
-      {
-        "ja": "\u5acc\u308f\u308c\u9b54\u5973\u4ee4\u5b22\u3068\u7537\u88c5\u7687\u5b50\u306e\u5a5a\u7d04"
-      },
-      {
-        "en": "The Engagement of the Disgraced Witch and the Cross-Dressing Princess"
-      },
-      {
-        "vi": "H\u00f4n \u01af\u1edbc C\u1ee7a Ph\u00f9 Th\u1ee7y B\u1ecb Ru\u1ed3ng B\u1ecf V\u00e0 C\u00f4ng Ch\u00faa Cross-dressing"
-      },
-      {
-        "es": "El compromiso de la bruja deshonrada y la princesa travestida"
-      },
-      {
-        "vi": "Cu\u1ed9c \u0111\u00ednh h\u00f4n gi\u1eefa N\u00e0ng ph\u00f9 th\u1ee7y b\u1ecb gh\u00e9t b\u1ecf v\u00e0 C\u00f4 c\u00f4ng ch\u00faa gi\u1ea3 nam"
-      },
-      {
-        "th": "\u0e01\u0e32\u0e23\u0e2b\u0e21\u0e31\u0e49\u0e19\u0e2b\u0e21\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e22\u0e31\u0e22\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07\u0e41\u0e15\u0e48\u0e07\u0e0a\u0e32\u0e22\u0e01\u0e31\u0e1a\u0e04\u0e38\u0e13\u0e2b\u0e19\u0e39\u0e41\u0e21\u0e48\u0e21\u0e14\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e0a\u0e34\u0e07\u0e0a\u0e31\u0e07"
-      },
-      {
-        "zh": "\u4e07\u4eba\u538c\u7684\u9b54\u5973\u5927\u5c0f\u59d0\u4e0e\u7537\u88c5\u7687\u5b50\u7684\u5a5a\u7ea6"
-      },
-      {
-        "zh-hk": "\u842c\u4eba\u53ad\u7684\u9b54\u5973\u5927\u5c0f\u59d0\u8207\u7537\u88dd\u7687\u5b50\u7684\u5a5a\u7d04"
-      },
-      {
-        "zh-ro": "W\u00e0n r\u00e9n y\u00e0n de m\u00f3n\u01da d\u00e0-xi\u01ceoji\u011b y\u01d4 n\u00e1nzhu\u0101ng hu\u00e1ngz\u01d0 de h\u016bnyu\u0113"
-      },
-      {
-        "ru": "\u041f\u043e\u043c\u043e\u043b\u0432\u043a\u0430 \u043f\u0440\u0435\u0437\u0438\u0440\u0430\u0435\u043c\u043e\u0439 \u0432\u0435\u0434\u044c\u043c\u044b \u0438 \u043f\u0435\u0440\u0435\u043e\u0434\u0435\u0442\u043e\u0439 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u044b"
-      },
-      {
-        "ko": "\ubbf8\uc6c0\ubc1b\ub294 \ub9c8\ub140 \uc601\uc560\uc640 \ub0a8\uc7a5 \ud669\uc790\uc758 \uc57d\ud63c"
-      }
-    ],
-    "description": {
-      "en": "Vilified by others as a \"witch\", Evris, the youngest daughter of the House of Bradley, is engaged to Mark, the fifth prince of the Kingdom of Klengel. When he abruptly announces that their engagement is broken off, Evris is plunged into despair. However, someone reaches out to her instead... The cross-dressing crown prince (\u2640) of a neighboring country!?\n\nThis is the story of a red-haired witch who manipulates shadows and a cross-dressing crown prince (\u2640) who is serving as a body double for her missing older brother. \n\nThe curtain rises on a fantasy romantic comedy of a girl being teased by a princess!\n\nSerialization began in the July 2023 issue of *Yuri Hime*.",
-      "ja": "\u300c\u9b54\u5973\u300d\u3068\u7f75\u3089\u308c\u308b\u30d6\u30e9\u30c3\u30c9\u30ea\u30fc\u5bb6\u306e\u672b\u5a18\u30fb\u30a4\u30f4\u30ea\u30b9\u306f\u3001\u5a5a\u7d04\u76f8\u624b\u3067\u3042\u308b\u30af\u30ec\u30f3\u30b2\u30eb\u738b\u56fd\u7b2c5\u738b\u5b50\u30fb\u30de\u30eb\u30af\u306b\u7a81\u7136\u306e\u5a5a\u7d04\u7834\u68c4\u3092\u5ba3\u8a00\u3055\u308c\u3066\u3044\u305f\u3002\u7d76\u671b\u306e\u3069\u3093\u5e95\u306b\u843d\u3068\u3055\u308c\u308b\u30a4\u30f4\u30ea\u30b9\u3002\u3057\u304b\u3057\u3001\u305d\u3093\u306a\u5f7c\u5973\u306b\u624b\u3092\u5dee\u3057\u4f38\u3079\u308b\u306e\u306f\u2026\u96a3\u56fd\u306e\u7537\u88c5\u7687\u592a\u5b50!?\n\u5f71\u3092\u64cd\u308b\u8d64\u9aea\u306e\u9b54\u5973\u4ee4\u5b22\u3068\u5931\u8e2a\u3057\u305f\u5144\u306e\u5f71\u6b66\u8005\u3068\u306a\u308b\u7537\u88c5\u7687\u5b50\u3002\n\u738b\u5b50\u69d8\u7cfb\u5973\u5b50\u306b\u7ffb\u5f04\u3055\u308c\u308b\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u30e9\u30d6\u30b3\u30e1\u958b\u5e55\uff01",
-      "ru": "\u042d\u0439\u0432\u0435\u0440\u0438, \u043c\u043b\u0430\u0434\u0448\u0430\u044f \u0434\u043e\u0447\u044c \u0434\u043e\u043c\u0430 \u0411\u0440\u044d\u0434\u043b\u0438, \u043f\u0440\u043e\u043a\u043b\u0438\u043d\u0430\u0435\u043c\u0430\u044f \u043e\u043a\u0440\u0443\u0436\u0430\u044e\u0449\u0438\u043c\u0438 \u043a\u0430\u043a \"\u0432\u0435\u0434\u044c\u043c\u0430\", \u043f\u043e\u043c\u043e\u043b\u0432\u043b\u0435\u043d\u0430 \u0441 \u041c\u0430\u0440\u043a\u043e\u043c, \u043f\u044f\u0442\u044b\u043c \u043f\u0440\u0438\u043d\u0446\u0435\u043c \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430 \u041a\u043b\u0435\u043d\u0433\u0435\u043b\u044c. \u041a\u043e\u0433\u0434\u0430 \u043e\u043d \u043d\u0435\u043e\u0436\u0438\u0434\u0430\u043d\u043d\u043e \u043e\u0431\u044a\u044f\u0432\u043b\u044f\u0435\u0442, \u0447\u0442\u043e \u0438\u0445 \u043f\u043e\u043c\u043e\u043b\u0432\u043a\u0430 \u0440\u0430\u0441\u0442\u043e\u0440\u0433\u043d\u0443\u0442\u0430, \u042d\u0439\u0432\u0435\u0440\u0438 \u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0432 \u043e\u0442\u0447\u0430\u044f\u043d\u0438\u0435. \u041e\u0434\u043d\u0430\u043a\u043e \u043a\u0442\u043e-\u0442\u043e \u043f\u0440\u043e\u0442\u044f\u0433\u0438\u0432\u0430\u0435\u0442 \u0435\u0439 \u0440\u0443\u043a\u0443 \u043f\u043e\u043c\u043e\u0449\u0438... \u041d\u0430\u0441\u043b\u0435\u0434\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446 (\u2640) \u0441\u043e\u0441\u0435\u0434\u043d\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u044b?!\n\n\u042d\u0442\u043e \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043e \u0432\u0435\u0434\u044c\u043c\u0435, \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0439 \u0442\u0435\u043d\u044f\u043c\u0438, \u0438 \u043e \u043f\u0435\u0440\u0435\u043e\u0434\u0435\u0442\u043e\u043c \u043d\u0430\u0441\u043b\u0435\u0434\u043d\u043e\u043c \u043f\u0440\u0438\u043d\u0446\u0435 (\u2640), \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0432\u043e\u0439\u043d\u0438\u043a\u043e\u043c \u043f\u0440\u043e\u043f\u0430\u0432\u0448\u0435\u0433\u043e \u0441\u0442\u0430\u0440\u0448\u0435\u0433\u043e \u0431\u0440\u0430\u0442\u0430.\n\n\u0417\u0430\u043d\u0430\u0432\u0435\u0441 \u043f\u0440\u0438\u043f\u043e\u0434\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0434 \u0444\u044d\u043d\u0442\u0435\u0437\u0438\u0439\u043d\u043e\u0439 \u0440\u043e\u043c\u0430\u043d\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u043c\u0435\u0434\u0438\u0435\u0439 \u043e \u0434\u0435\u0432\u0443\u0448\u043a\u0435, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0434\u0440\u0430\u0437\u043d\u0438\u0442 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430!",
-      "tr": "Bu, g\u00f6lgeleri manip\u00fcle eden k\u0131z\u0131l sa\u00e7l\u0131 bir cad\u0131 ile kay\u0131p a\u011fabeyinin dubl\u00f6r\u00fc olarak rol yapan melez veliaht prensin hik\u00e2yesidir.\n\nDi\u011ferleri taraf\u0131ndan \u201ccad\u0131\u201d olarak lanetlenen Bradley Hanesi\u2019nin en k\u00fc\u00e7\u00fck k\u0131z\u0131 Evris, Klengel Krall\u0131\u011f\u0131\u2019n\u0131n be\u015finci prensi Mark ile ni\u015fanl\u0131d\u0131r. Mark aniden ni\u015fan\u0131 bozdu\u011funu a\u00e7\u0131klay\u0131nca Evris umutsuzlu\u011fa kap\u0131l\u0131r. Ancak biri ona yard\u0131m elini uzatacakt\u0131r\u2026 Kom\u015fu \u00fclkelerden birinin kar\u015f\u0131 cinsin k\u0131yafetlerini giymeyi seven veliaht prensi!? Bir prenses taraf\u0131ndan dalga ge\u00e7ilen bir k\u0131z\u0131n fantastik romantik komedisinde perde a\u00e7\u0131l\u0131yor!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "615123b3-b813-4d7d-8c72-eb5c4146d76e",
-    "title": {
-      "en": "Sugar Meets Girl!"
-    },
-    "updatedAt": "2024-04-19T02:39:40+00:00",
-    "coverArt": "https://mangadex.org/covers/615123b3-b813-4d7d-8c72-eb5c4146d76e/4e13c821-aabe-4b16-9967-e45dfc65bc18.jpg",
-    "altTitles": [
-      {
-        "ko": "\uc288\uac00 \ubbf8\uce20 \uac78!"
-      },
-      {
-        "ja": "\u3057\u3085\u304c\u30fc\u30fb\u307f\u30fc\u3064\u30fb\u304c\u30fc\u308b\uff01"
-      },
-      {
-        "en": "Sugar Meats Girl!"
-      }
-    ],
-    "description": {
-      "en": "A Sweet and Juicy Girls' Comedy~\n\nFeaturing:\n\nSato Kanna, daughter of a yakuza boss, she's known for being loyal to her friends and her slightly delinquent appearance.\n\nAnd Mochizuki Mito, class president and the school's most envied upon young lady.\n\nJust what unexpected secrets did these two girls found out about each other!?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "abe0bb3b-a05e-4602-aa4f-578e0b962cf9",
-    "title": {
-      "en": "The Stellar Swordmaster"
-    },
-    "updatedAt": "2024-05-29T00:15:55+00:00",
-    "coverArt": "https://mangadex.org/covers/abe0bb3b-a05e-4602-aa4f-578e0b962cf9/79b55c2b-0fb4-4569-8c48-aa1e1ff97eb7.jpg",
-    "altTitles": [
-      {
-        "ko": "\ubcc4\uc744 \ud488\uc740 \uc18c\ub4dc\ub9c8\uc2a4\ud130"
-      },
-      {
-        "ko-ro": "Byeoreul Pumeun Swordmaster"
-      },
-      {
-        "en": "Star-Embracing Swordmaster"
-      },
-      {
-        "en": "Star-Fostered Swordmaster"
-      },
-      {
-        "ja": "\u661f\u5263\u306e\u30bd\u30fc\u30c9\u30de\u30b9\u30bf\u30fc"
-      },
-      {
-        "zh": "\u661f\u5251\u5927\u5e08"
-      },
-      {
-        "zh-hk": "\u661f\u8000\u528d\u58eb"
-      },
-      {
-        "th": "\u0e22\u0e2d\u0e14\u0e19\u0e31\u0e01\u0e14\u0e32\u0e1a\u0e1c\u0e39\u0e49\u0e42\u0e2d\u0e1a\u0e2d\u0e38\u0e49\u0e21\u0e14\u0e32\u0e23\u0e32"
-      },
-      {
-        "es-la": "El maestro de la espada cogedor de estrellas"
-      }
-    ],
-    "description": {
-      "en": "The so-called \u201cLighthouse of the North,\u201d the prosperous trading town of Schoarra, hides a dark underbelly: seedy slums ruled by five ruthless crime bosses.\n\nWhen streetwise orphan Vlad finds the brothel he works for decimated by a disgraced knight, he turns to the path of the blade, pledging himself to the pursuit of power by sword. \n\nBlessed with the ability to seek wisdom from his sentient sword, Vlad embarks upon a journey of growth and peril as swordsman in service to the powerful House Vayezid.",
-      "fr": "Vlad est un jeune vagabond du bidonville de Shoara qui admire les chevaliers depuis toujours. Sa vie bascule le jour o\u00f9 une voix commence \u00e0 r\u00e9sonner dans sa t\u00eate apr\u00e8s avoir \u00e9t\u00e9 frapp\u00e9 par un \u00e9clair noir, et o\u00f9 le chevalier de la lune bleue appara\u00eet soudainement devant lui.",
-      "id": "Vlad, seorang gelandangan dari daerah kumuh yang ingin menjadi seorang ksatria. Hinggai suatu hari dia tersambar petir hitam... Dan semenjak itu dia dapat mendengar suara seseorang di kepalanya setiap kali ia memegang sesuatu yang berupa pedang!",
-      "th": "'\u0e27\u0e25\u0e32\u0e14' \u0e40\u0e14\u0e47\u0e01\u0e2b\u0e19\u0e38\u0e48\u0e21\u0e1c\u0e39\u0e49\u0e22\u0e32\u0e01\u0e08\u0e19\u0e02\u0e49\u0e19\u0e41\u0e04\u0e49\u0e19\u0e41\u0e25\u0e30\u0e44\u0e23\u0e49\u0e2d\u0e20\u0e34\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e0b\u0e36\u0e48\u0e07\u0e43\u0e14 \u0e46 \u0e40\u0e02\u0e32\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e0a\u0e37\u0e48\u0e19\u0e0a\u0e21\u0e43\u0e19\u0e15\u0e31\u0e27\u0e02\u0e2d\u0e07\u0e2d\u0e31\u0e28\u0e27\u0e34\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e21\u0e32\u0e01 \u0e41\u0e25\u0e30\u0e43\u0e19\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e02\u0e49\u0e32\u0e07\u0e16\u0e19\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e02\u0e32\u0e01\u0e33\u0e25\u0e31\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e02\u0e32\u0e40\u0e23\u0e34\u0e48\u0e21\u0e44\u0e14\u0e49\u0e22\u0e34\u0e19\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e02\u0e2d\u0e07\u0e43\u0e04\u0e23\u0e1a\u0e32\u0e07\u0e04\u0e19\u0e41\u0e25\u0e30\u0e2d\u0e31\u0e28\u0e27\u0e34\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e13\u0e34\u0e01\u0e32\u0e44\u0e14\u0e49\u0e17\u0e33\u0e25\u0e32\u0e22\u0e42\u0e25\u0e01\u0e02\u0e2d\u0e07\u0e40\u0e02\u0e32\u0e08\u0e19\u0e2b\u0e21\u0e14\u0e2a\u0e34\u0e49\u0e19\u2026 \"\u0e41\u0e21\u0e49\u0e08\u0e30\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e17\u0e49\u0e2d\u0e07\u0e1f\u0e49\u0e32\u0e22\u0e32\u0e21\u0e04\u0e48\u0e33\u0e04\u0e37\u0e19\u0e41\u0e25\u0e30\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e01\u0e25\u0e40\u0e01\u0e34\u0e19\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23\u0e08\u0e30\u0e21\u0e2d\u0e07\u0e40\u0e2b\u0e47\u0e19 \u0e02\u0e2d\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e04\u0e48\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e17\u0e35\u0e48\u0e08\u0e30\u0e2a\u0e48\u0e2d\u0e07\u0e41\u0e2a\u0e07 \u0e22\u0e31\u0e07\u0e44\u0e07\u0e01\u0e47\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e14\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e14\u0e27\u0e07\u0e14\u0e32\u0e23\u0e32\"",
-      "zh": "\u5fc3\u6000\u661f\u68a6\u7684\u6d41\u6d6a\u6c49\n\u9006\u88ad\u6210\u4e3a\u5251\u672f\u5927\u5e08\n\u68a6\u60f3\u6210\u4e3a\u9a91\u58eb\u7684\u8d2b\u6c11\u7a9f\u5c0f\u6d41\u6d6a\u6c49\u5e03\u62c9\u5fb7\uff0c\u906d\u9047\u9ed1\u8272\u7684\u6674\u5929\u9739\u96f3\u540e\uff0c\u4fbf\u5f00\u59cb\u80fd\u542c\u5230\u67d0\u4e2a\u58f0\u97f3\uff0c\u8fd9\u4e2a\u58f0\u97f3\u548c\u4ece\u5929\u800c\u964d\u7684\u795e\u79d8\u9a91\u58eb\u5f7b\u5e95\u98a0\u8986\u4e86\u4ed6\u7684\u751f\u6d3b\u2026\u4ed6\u80fd\u5982\u613f\u8d70\u51fa\u540e\u5df7\uff0c\u6210\u4e3a\u68a6\u60f3\u4e2d\u7684\u9a91\u58eb\u5417\uff1f",
-      "zh-hk": "\u90a3\u628a\u50cf\u661f\u661f\u7684\u528d\uff0c\u5c0d\u751f\u65bc\u8ca7\u6c11\u5340\u7684\u5f17\u62c9\u5fb7\u800c\u8a00\uff0c\u66fe\u7d93\u5341\u5206\u9059\u9060\u3002\u7136\u800c\u50c5\u50c5\u4e00\u591c\uff0c\u90a3\u9053\u85cd\u6708\u822c\u7684\u528d\u5f71\u5c31\u5c07\u5f17\u62c9\u5fb7\u7684\u751f\u6d3b\u7834\u58de\u6b86\u76e1\u3002 \u300c\u65e2\u7136\u5982\u6b64\uff0c\u90a3\u6211\u4fbf\u6388\u4e88\u4f60\uff0c\u6211\u7684\u528d\u6280\u3002\u300d\u5f17\u62c9\u5fb7\u9ad4\u5167\u6709\u500b\u8072\u97f3\u5c0d\u4ed6\u8aaa\u3002\u70ba\u4e86\u5fa9\u4ec7\uff0c\u5982\u4eca\u5c11\u5e74\u7dca\u63e1\u8457\u624b\u4e2d\u7684\u661f\uff0c\u6b63\u5f0f\u6b65\u4e0a\u6210\u70ba\u528d\u58eb\u4e4b\u8def\u3002"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "3fc308c9-4b00-4dc3-943e-1f39242bc708",
-    "title": {
-      "en": "Overgeared"
-    },
-    "updatedAt": "2023-10-30T21:10:27+00:00",
-    "coverArt": "https://mangadex.org/covers/3fc308c9-4b00-4dc3-943e-1f39242bc708/2af0c6f7-cd3d-4c59-afee-a8ff471e0561.jpg",
-    "altTitles": [
-      {
-        "ko": "\ud15c\ube68"
-      },
-      {
-        "ru": "\u0412\u043e \u0432\u0441\u0435\u043e\u0440\u0443\u0436\u0438\u0438 (\u043f\u0435\u0440\u0435\u0437\u0430\u043f\u0443\u0441\u043a)"
-      },
-      {
-        "fa": "\u062a\u0627 \u062f\u0646\u062f\u0627\u0646 \u0645\u0633\u0644\u062d"
-      },
-      {
-        "en": "Overgeared (Team Argo)"
-      },
-      {
-        "ja": "\u30c6\u30e0\u30d1\u30eb\u301c\u30a2\u30a4\u30c6\u30e0\u306e\u529b\u301c"
-      },
-      {
-        "id": "Kekuatan Item"
-      },
-      {
-        "zh-hk": "\u88dd\u5099\u4ed4"
-      },
-      {
-        "zh": "\u88c5\u5907\u6211\u6700\u5f3a"
-      }
-    ],
-    "description": {
-      "de": "Shin Youngwoo spielt mit seinem Avatar \"Grid\" das zurzeit beliebteste Virtual-Reality-Spiel der Welt: Satisfy.  \n  \nOb in der Realit\u00e4t oder in-game, Shin scheint vom Ungl\u00fcck verfolgt zu werden. Doch als er nach der Suche nach einem Questgegenstand seine Belohnung erh\u00e4lt, kann er zu einer legend\u00e4ren Klasse wechseln. Einer Klasse, die au\u00dfer ihm niemand der \u00fcber 2 Milliarden Spielern besitzt.\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "en": "Shin Youngwoo (aka Grid), an unlucky man in life and a low-level player in the popular VR game Satisfy, finds a powerful item that earns him a rare legendary class title: Pagma\u2019s Successor. Now a skilled blacksmith, he can forge unique weapons and equip the game\u2019s most powerful gear!\n\nGrid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for\u2026.\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "fa": "\u2067\u2067\u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0628\u0627\u0632\u06cc \u0648\u0627\u0642\u0639\u06cc\u062a \u0645\u062c\u0627\u0632\u06cc \u062c\u0647\u0627\u0646 \u00ab\u0633\u062a\u06cc\u0633\u0641\u0627\u06cc\u00bb.  \n\u2067\u0686\u0647 \u062a\u0648 \u0648\u0627\u0642\u0639\u06cc\u062a \u0648 \u0686\u0647 \u062f\u0631 \u062f\u0646\u06cc\u0627\u06cc \u0645\u062c\u0627\u0632\u06cc \u0634\u06cc\u0646\u06af \u0648\u0648 \u06a9\u0633\u06cc \u0628\u0648\u062f \u06a9\u0647 \u0647\u0645\u0647\u200c\u06cc \u0628\u062f\u0628\u062e\u062a\u06cc\u200c\u0647\u0627 \u0633\u0631\u0634 \u0645\u06cc\u200c\u0627\u0648\u0645\u062f.  \n\u2067\u0627\u0645\u0627 \u062a\u0648 \u0645\u06cc\u0648\u0646 \u0627\u06cc\u0646\u200c\u0647\u0645\u0647 \u0628\u062f\u0628\u062e\u062a\u06cc\u200c\u060c \u06cc\u0647\u200c\u0628\u0627\u0631 \u0634\u0627\u0646\u0633 \u0628\u0647\u0634 \u0631\u0648 \u0645\u06cc\u200c\u06a9\u0646\u0647 \u0648 \u062a\u0648 \u06cc\u0647 \u0645\u0623\u0645\u0648\u0631\u06cc\u062a \u063a\u06cc\u0631\u0645\u0645\u06a9\u0646 \u06a9\u062a\u0627\u0628 \u067e\u0627\u06af\u0645\u0627 \u0631\u0648 \u067e\u06cc\u062f\u0627 \u0645\u06cc\u200c\u06a9\u0646\u0647\u060c \u06a9\u062a\u0627\u0628\u06cc \u0627\u0641\u0633\u0627\u0646\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0632\u0646\u062f\u06af\u06cc \u0627\u0648\u0646 \u0631\u0648 \u0627\u0632 \u0627\u06cc\u0646 \u0631\u0648 \u0628\u0647 \u0627\u0648\u0646 \u0631\u0648 \u0645\u06cc\u200c\u06a9\u0646\u0647.\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "fr": "Quand un joueur rat\u00e9 de VMMORPG tombe, lors d\u2019une qu\u00eate, sur un livre l\u00e9gendaire permettant de changer de classe, il en profite imm\u00e9diatement. Attention joueurs, le plus grand de tous les forgerons est n\u00e9 ! Et il n\u2018a pas pr\u00e9vu de passer inaper\u00e7u !\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "id": "Shin Youngwoo punya kehidupan yang bernasib sial. Ia terpaksa bekerja kasar di sebuah tempat kontruksi untuk membayar biaya sekolah dan uang game yang ia gunakan. Bahkan ia juga kerja kasar di VR Game yang bernama Satisfy. Namun, hidupnya mulai berubah ketika karakternya sebagai 'Grid' di game menemukan 'Pagma's Rare Book' hingga menjadi legendary class player.\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "ja": "\u4e16\u754c\u6700\u9ad8\u306e\u30d0\u30fc\u30c1\u30e3\u30eb\u30ea\u30a2\u30ea\u30c6\u30a3\u30b2\u30fc\u30e0<SATISFY>\u3002 \u5168\u4e16\u754c\u30e6\u30fc\u30b6\u30fc\u6570\uff12\uff10\u5104\u4eba\u3001\u3082\u3046\u4e00\u3064\u306e\u5730\u7403\u3068\u547c\u3070\u308c\u308b\u307b\u3069\u306e\u58ee\u5927\u306a\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u30b2\u30fc\u30e0\u3002 \u3057\u304c\u306a\u3044\u7121\u8077\u306e\u30b2\u30fc\u30e0\u4e2d\u6bd2\u8005\u3067\u3042\u308b\u300c\u9577\u5dba\u5de7\u300d\u306f\u30b2\u30fc\u30e0\u8ab2\u91d1\u306e\u501f\u91d1\u3092\u8fd4\u3059\u305f\u3081\u306b\u65e5\u96c7\u3044\u52b4\u50cd\u3092\u3059\u308b\u4ee5\u5916\u306e\u307b\u3068\u3093\u3069\u306e\u6642\u9593\u306f\u30b2\u30fc\u30e0\u306b\u8cbb\u3084\u3057\u3066\u3044\u305f\u3002 \u3042\u308b\u65e5\u3001\u30af\u30a8\u30b9\u30c8\u4e2d\u306b\u30ec\u30b8\u30a7\u30f3\u30c0\u30ea\u30fc\u8ee2\u8077\u66f8\uff1c\u30d5\u30a1\u30b0\u30de\u306e\u5947\u66f8\uff1e\u3092\u624b\u306b\u5165\u308c\u305f\u300c\u5de7\u300d\u3002 \uff1c\u30d5\u30a1\u30b0\u30de\u306e\u5947\u66f8\uff1e\u58f2\u3063\u3066\u5927\u5132\u3051\u3067\u304d\u308b\u3068\u601d\u3063\u305f\u305d\u306e\u77ac\u9593\u2026\uff01\u65b0\u305f\u306a\u30af\u30a8\u30b9\u30c8\u304c\u767a\u52d5\u3055\u308c\u6bba\u3055\u308c\u308b\u5bf8\u524d\u306b\u306a\u308b\u304c\u2026 \u3053\u306e\u307e\u307e\u3060\u3068\u6bba\u3055\u308c\u3001\u30ec\u30b8\u30a7\u30f3\u30c0\u30ea\u30fc\u8ee2\u8077\u66f8\uff1c\u30d5\u30a1\u30b0\u30de\u306e\u5947\u66f8\uff1e\u3082\u306a\u304f\u3057\u3066\u3057\u307e\u3046\u3068\u601d\u3063\u305f\u300c\u5de7\u300d\u306f\uff1c\u30d5\u30a1\u30b0\u30de\u306e\u5947\u66f8\uff1e\u3092\u958b\u304d\u3001\u4f1d\u8aac\u306e\u8077\u4eba\uff1c\u30d5\u30a1\u30b0\u30de\u306e\u672b\u88d4\uff1e\u3078\u3068\u30b8\u30e7\u30d6\u30c1\u30a7\u30f3\u30b8\u3059\u308b\u304c\u2026 \u501f\u91d1\u307e\u307f\u308c\u306e\u5e95\u8fba\u4eba\u751f\u304b\u3089\uff12\uff10\u5104\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u9802\u70b9\u306b\u7acb\u3064\u30ec\u30b8\u30a7\u30f3\u30c0\u30ea\u30fc\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u306a\u308c\u308b\u306e\u304b\uff01\uff1f\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "ko": "[\uc2e0\uc601\uc6b0 (\uc720\uc800 \ub124\uc784: \uadf8\ub9ac\ub4dc)]\n\uc138\uacc4 \ucd5c\uace0\uc758 \uac00\uc0c1 \ud604\uc2e4 \uac8c\uc784 <SATISFY>.\n\n\ud604\uc2e4\uc5d0\uc11c\ub098, \uac8c\uc784 \uc18d\uc5d0\uc11c\ub098, \ubd88\uc6b4\uc740 \ud56d\uc0c1 \uadf8\uc758 \uacc1\uc744 \ub9f4\ub3c4\ub294\ub370....\n\ud018\uc2a4\ud2b8 \uc218\ud589 \uc911 \uc6b0\uc5f0\ud788 \ubc1c\uacac\ud55c \uac8c\uc784 \uc18d \ub85c\ub610, '\ud30c\uadf8\ub9c8\uc758 \uae30\uc11c'. \n20\uc5b5 \uba85\uc774 \ub118\ub294 \uc720\uc800 \uc911 \uc720\uc77c\ud55c \ucd5c\uac15\uc758 \ub808\uc804\ub4dc\ub9ac \uc9c1\uc5c5\uc73c\ub85c \uc804\uc9c1.\n\n\"\uc5b4\ub5bb\uac8c \uc544\uc9c1 \uc0b4\uc544\uc788\ub294 \uac70\uc9c0...?!\"\n\n\"\ubb50, \ud2b9\ubcc4\ud55c \uac74 \uc5c6\uace0...\"\n\n\n\"\ud15c\ube68\uc774\uc8e0.\"\n\n\uc9c0\uae0b\uc9c0\uae0b\ud55c \ubd88\uc6b4\uacfc \uc545\ubabd \uac19\uc740 \ube5a\uc7c1\uc774 \uc778\uc0dd\uc5d0\uc11c \ubc97\uc5b4\ub09c\n\ucd5c\uac15 \ud50c\ub808\uc774\uc5b4 \"\uadf8\ub9ac\ub4dc\".\n\uace0\uc778\ubb3c\ub3c4 \uc6b8\uace0 \uac08 \ub05d\ud310\uc655\uc774 \ucc3e\uc544\uc628\ub2e4!\n\n[<SATISFY>\uc5d0 \uc811\uc18d\ud569\ub2c8\ub2e4.]\n\n\uc6f9\ud230 <\ud15c\ube68>\uc740 \ub9e4\uc8fc \ud1a0\uc694\uc77c \uc5f0\uc7ac\ub429\ub2c8\ub2e4.\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "ru": "\u0412 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u0432 \u0438\u0433\u0440\u0430\u0445, \u0433\u0434\u0435 \u0431\u044b \u043e\u043d \u043d\u0438 \u0431\u044b\u043b, \u0435\u043c\u0443 \u0441\u043e\u043f\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442 \u043d\u0435\u0443\u0434\u0430\u0447\u0438... \u041d\u043e \u0432 \u043e\u0434\u0438\u043d \u043c\u043e\u043c\u0435\u043d\u0442 \u0432\u0441\u0451 \u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f. \u0412 \u0438\u0433\u0440\u0435 \u043a\u043e\u043d\u0446\u0435 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u043f\u0435\u0449\u0435\u0440\u044b \u043e\u043d \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u0442 \u043a\u0432\u0435\u0441\u0442, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043d\u0430\u0439\u0434\u0451\u0442 \"\u0420\u0435\u0434\u043a\u0443\u044e \u043a\u043d\u0438\u0433\u0443 \u041f\u0430\u0433\u043c\u044b\"... \u0415\u043c\u0443 \u0443\u0434\u0430\u0441\u0442\u0441\u044f \u0442\u043e, \u0447\u0442\u043e \u043d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u0441\u043e\u0442\u043d\u044f\u043c \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439. - \u041a\u0430\u043a \u0442\u044b \u0432\u044b\u0436\u0438\u043b? - \u041d\u0438\u0447\u0435\u0433\u043e \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0433\u043e.\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "th": "\u0e0a\u0e34\u0e19\u0e22\u0e2d\u0e07\u0e2d\u0e39 ID \u0e01\u0e23\u0e34\u0e14 \u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e08\u0e30\u0e43\u0e19\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e08\u0e23\u0e34\u0e07\u0e2b\u0e23\u0e37\u0e2d\u0e43\u0e19\u0e43\u0e19\u0e42\u0e25\u0e01\u0e40\u0e01\u0e21\u0e40\u0e2a\u0e21\u0e37\u0e2d\u0e19\u0e08\u0e23\u0e34\u0e07 SATISFY \u0e40\u0e02\u0e32\u0e01\u0e47\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e41\u0e17\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e2d\u0e31\u0e1a\u0e42\u0e0a\u0e04\u0e44\u0e21\u0e48\u0e15\u0e48\u0e32\u0e07\u0e01\u0e31\u0e19...\n\u0e41\u0e15\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e21\u0e32\u0e27\u0e31\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 \u0e01\u0e23\u0e34\u0e14 \u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e15\u0e33\u0e23\u0e32\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e2d\u0e32\u0e0a\u0e35\u0e1e\u0e17\u0e35\u0e48\u0e19\u0e33\u0e40\u0e02\u0e32\u0e44\u0e1b\u0e2a\u0e39\u0e48\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e32\u0e0a\u0e35\u0e1e\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e15\u0e33\u0e19\u0e32\u0e19 '\u0e17\u0e32\u0e22\u0e32\u0e17\u0e02\u0e2d\u0e07\u0e41\u0e1e\u0e47\u0e01\u0e21\u0e48\u0e32'\n\u0e2d\u0e32\u0e0a\u0e35\u0e1e\u0e0a\u0e48\u0e32\u0e07\u0e15\u0e35\u0e40\u0e2b\u0e25\u0e47\u0e01\u0e43\u0e19\u0e15\u0e33\u0e19\u0e32\u0e19\u0e17\u0e35\u0e48\u0e08\u0e30\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e02\u0e32\u0e2b\u0e25\u0e38\u0e14\u0e1e\u0e49\u0e19\u0e08\u0e32\u0e01\u0e2b\u0e19\u0e35\u0e49\u0e2a\u0e34\u0e19 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e1a\u0e44\u0e14\u0e49\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a '\u0e1e\u0e25\u0e31\u0e07\u0e41\u0e2b\u0e48\u0e07\u0e44\u0e2d\u0e40\u0e17\u0e21' \u0e41\u0e25\u0e30\u0e01\u0e49\u0e32\u0e27\u0e2a\u0e39\u0e48\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e17\u0e35\u0e48\u0e41\u0e02\u0e47\u0e07\u0e41\u0e01\u0e23\u0e48\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14!\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "zh": "\u65e0\u8bba\u662f\u73b0\u5b9e\u4e16\u754c\u8fd8\u662f\u6e38\u620f\u4e16\u754c\u4e2d\uff0c\u4ed6\u90fd\u662f\u6700\u5e95\u5c42\u7684\u5b58\u5728\uff01\u7136\u800c\u54b8\u9c7c\u7ffb\u8eab\u7684\u673a\u4f1a\u7ec8\u4e8e\u6765\u4e86\uff01\u53ea\u8981\u80fd\u591f\u627e\u5230\u6e38\u620f\u4e2d\u7684\u6700\u5f3a\u88c5\u5907\uff0c\u5c31\u80fd\u83b7\u5f97\u8d8520\u4ebf\u73a9\u5bb6\u4e2d\u552f\u4e00\u4e00\u4e2a\u6210\u4e3a\u4f20\u8bf4\u4e2d\u6700\u5f3a\u804c\u4e1a\u7535\u7ade\u9009\u624b\u7684\u673a\u4f1a\uff01\u4ed6\u80fd\u5426\u5728\u5047\u60f3\u73b0\u5b9e\u6e38\u620f\u4e16\u754c\u4e2d\u521b\u9020\u65b0\u7684\u4f20\u5947\uff0c\u6210\u529f\u8131\u79bb\u5982\u540c\u5669\u68a6\u822c\u7684\u60b2\u60e8\u4eba\u751f\u5462\uff1f\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)",
-      "zh-hk": "[\u7533\u82f1\u5b87(\u4f7f\u7528\u8005\u540d\u7a31\uff1a\u683c\u91cc\u5fb7)]\n\u7a31\u9738\u5168\u7403\u7684\u865b\u64ec\u5be6\u5883\u904a\u6232\u300aSATISFY\u300b\n\n\u7121\u8ad6\u73fe\u5be6\u9084\u662f\u904a\u6232\u4e2d\uff0c\u4ed6\u90fd\u662f\u500b\u300c\u4e0d\u5e78\u300d\u7684\u8c61\u5fb5...\n\u5728\u89e3\u4efb\u52d9\u6642\u5076\u7136\u767c\u73fe\n\u904a\u6232\u4e2d\u7684\u6a02\u900f\u2014\u2014\u300c\u5e15\u683c\u746a\u7684\u5947\u66f8\u300d\uff0c\n\u4e26\u8f49\u8077\u621020\u5104\u73a9\u5bb6\u4e2d\uff0c\u50c5\u53ea\u4e00\u540d\u7684\u6700\u5f37\u50b3\u5947\u7d1a\u8077\u696d\u3002\n\n\u300c\u4f60\u600e\u9ebc\u9084\u6d3b\u8457...?!\u300d\n\n\u300c\u55ef...\u4e5f\u6c92\u4ec0\u9ebc\u5566...\u300d\n\n\u300c\u9760\u88dd\u5099\u56c9\u3002\u300d\n\n\u812b\u96e2\u4e0d\u5e78\u8207\u60e1\u5922\u822c\u7684\u50b5\u52d9\uff0c\n\u91cd\u751f\u70ba\u6700\u5f37\u73a9\u5bb6\u7684\u300c\u683c\u91cc\u5fb7\u300d!\n\u7d93\u5178\u540d\u8457\u901a\u901a\u6efe\u958b\uff0c\u771f\u6b63\u7684\u738b\u8005\u99d5\u5230\u4e86!\n\n[\u5df2\u6210\u529f\u767b\u5165\u300aSATISFY\u300b\u3002]\n\n---\n- Webtoon [Trailer](https://www.youtube.com/watch?v=wwfZ6BQbIcM) | [PV](https://www.youtube.com/watch?v=q6wspjpiYnQ)\n\n- [Original Webtoon <Webtoon kakao>](https://webtoon.kakao.com/content/%ED%85%9C%EB%B9%A8/2379)\n---\n- [Official Traditional Chinese Translation](https://tw.kakaowebtoon.com/content/%E8%A3%9D%E5%82%99%E4%BB%94/47)\n\n- [Official Simplified Chinese Translation](https://manga.bilibili.com/detail/mc28630)\n\n- [Official Indonesian Translation](https://kakaopage.co.id/content/Kekuatan-Item/3406)\n\n- [Official Japanese Translation](https://piccoma.com/web/product/43170)\n\n- [Official French Translation](https://www.delitoon.com/webtoon/overgeared)\n\n- [Official Thai Translation](https://th.kakaowebtoon.com/content/Overgeared/43)"
-    },
-    "status": "ongoing",
-    "releaseDate": 2020,
-    "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
   }
