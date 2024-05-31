@@ -140,6 +140,13 @@
     "episode": "Episode 8"
   },
   {
+    "id": "rinkai",
+    "epId": "rinkai-episode-8",
+    "title": "Rinkai!",
+    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "unnamed-memory",
     "epId": "unnamed-memory-episode-8",
     "title": "Unnamed Memory",
@@ -271,13 +278,6 @@
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
     "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-7",
-    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
-    "episode": "Episode 7"
   },
   {
     "id": "tensei-kizoku-kantei-skill-de-nariagaru",
@@ -420,6 +420,13 @@
     "episode": "Episode 7"
   },
   {
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-7",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "kaijuu-8-gou",
     "epId": "kaijuu-8-gou-episode-7",
     "title": "Kaijuu 8-gou",
@@ -551,13 +558,6 @@
     "title": "Dead Dead Demons Dededede Destruction",
     "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
     "episode": "Episode 0"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-32",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 32"
   },
   {
     "id": "araiguma-rascal",
@@ -700,6 +700,13 @@
     "episode": "Episode 60"
   },
   {
+    "id": "odekake-kozame",
+    "epId": "odekake-kozame-episode-60",
+    "title": "Odekake Kozame",
+    "img": "https://gogocdn.net/cover/odekake-kozame.png",
+    "episode": "Episode 60"
+  },
+  {
     "id": "tondemo-senshi-muteking",
     "epId": "tondemo-senshi-muteking-episode-2",
     "title": "Tondemo Senshi Muteking",
@@ -833,13 +840,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "mahou-no-princess-minky-momo",
-    "epId": "mahou-no-princess-minky-momo-episode-63",
-    "title": "Mahou no Princess Minky Momo",
-    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo.png",
-    "episode": "Episode 63"
-  },
-  {
     "id": "paripi-koumei-road-to-summer-sonia",
     "epId": "paripi-koumei-road-to-summer-sonia-episode-1",
     "title": "Paripi Koumei: Road to Summer Sonia",
@@ -971,6 +971,13 @@
     "title": "One Piece: Log of Rivalry! The Straw Hats and Cipher Pol",
     "img": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "super-dragon-ball-heroes-meteor-mission",
+    "epId": "super-dragon-ball-heroes-meteor-mission-episode-4",
+    "title": "Super Dragon Ball Heroes Meteor Mission",
+    "img": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
+    "episode": "Episode 4"
   },
   {
     "id": "super-dragon-ball-heroes-meteor-mission",
@@ -2790,13 +2797,6 @@
     "epId": "bullbuster-episode-12",
     "title": "Bullbuster",
     "img": "https://gogocdn.net/cover/bullbuster.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu",
-    "epId": "konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-episode-12",
-    "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
-    "img": "https://gogocdn.net/cover/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-1696009482.png",
     "episode": "Episode 12"
   }
 ]
