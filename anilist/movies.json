@@ -328,18 +328,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 99457,
-    "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99457-yLAalBQ2Srkh.png",
-    "seasonYear": 2018,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 16870,
     "title": "THE LAST: NARUTO THE MOVIE",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg",
     "seasonYear": 2014,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 99457,
+    "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99457-yLAalBQ2Srkh.png",
+    "seasonYear": 2018,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
