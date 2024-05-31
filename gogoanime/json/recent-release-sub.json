@@ -1,5 +1,19 @@
 [
   {
+    "id": "astro-note",
+    "epId": "astro-note-episode-9",
+    "title": "Astro Note",
+    "img": "https://gogocdn.net/cover/astro-note.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "nijiyon-animation-2",
+    "epId": "nijiyon-animation-2-episode-9",
+    "title": "Nijiyon Animation 2",
+    "img": "https://gogocdn.net/cover/nijiyon-animation-2.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "blazblue-central-fiction",
     "epId": "blazblue-central-fiction-episode-1",
     "title": "Blazblue Central Fiction",
@@ -539,25 +553,11 @@
     "episode": "Episode 8"
   },
   {
-    "id": "astro-note",
-    "epId": "astro-note-episode-8",
-    "title": "Astro Note",
-    "img": "https://gogocdn.net/cover/astro-note.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-55",
     "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 55"
-  },
-  {
-    "id": "nijiyon-animation-2",
-    "epId": "nijiyon-animation-2-episode-8",
-    "title": "Nijiyon Animation 2",
-    "img": "https://gogocdn.net/cover/nijiyon-animation-2.png",
-    "episode": "Episode 8"
   },
   {
     "id": "suki-demo-kirai-na-amanojaku",
