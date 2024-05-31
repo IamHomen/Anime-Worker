@@ -1,5 +1,12 @@
 [
   {
+    "id": "blazblue-chronophantasma",
+    "epId": "blazblue-chronophantasma-episode-1",
+    "title": "BlazBlue Chronophantasma",
+    "img": "https://gogocdn.net/cover/blazblue-chronophantasma.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-94",
     "title": "Chiikawa",
@@ -130,13 +137,6 @@
     "epId": "himitsu-no-aipri-episode-8",
     "title": "Himitsu no AiPri",
     "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "rinkai",
-    "epId": "rinkai-episode-8",
-    "title": "Rinkai!",
-    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
     "episode": "Episode 8"
   },
   {
@@ -280,6 +280,13 @@
     "episode": "Episode 3"
   },
   {
+    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-7",
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "tensei-kizoku-kantei-skill-de-nariagaru",
     "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-8",
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -411,13 +418,6 @@
     "title": "Attacker You!",
     "img": "https://gogocdn.net/images/upload/55755.jpg",
     "episode": "Episode 51"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-7",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 7"
   },
   {
     "id": "kuroshitsuji-kishuku-gakkou-hen",
@@ -560,6 +560,13 @@
     "episode": "Episode 0"
   },
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-32",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 32"
+  },
+  {
     "id": "araiguma-rascal",
     "epId": "araiguma-rascal-episode-50",
     "title": "Araiguma Rascal",
@@ -691,13 +698,6 @@
     "title": "Captain Bal",
     "img": "https://gogocdn.net/cover/captain-bal.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "odekake-kozame",
-    "epId": "odekake-kozame-episode-60",
-    "title": "Odekake Kozame",
-    "img": "https://gogocdn.net/cover/odekake-kozame.png",
-    "episode": "Episode 60"
   },
   {
     "id": "odekake-kozame",
@@ -840,6 +840,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "mahou-no-princess-minky-momo",
+    "epId": "mahou-no-princess-minky-momo-episode-63",
+    "title": "Mahou no Princess Minky Momo",
+    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo.png",
+    "episode": "Episode 63"
+  },
+  {
     "id": "paripi-koumei-road-to-summer-sonia",
     "epId": "paripi-koumei-road-to-summer-sonia-episode-1",
     "title": "Paripi Koumei: Road to Summer Sonia",
@@ -971,13 +978,6 @@
     "title": "One Piece: Log of Rivalry! The Straw Hats and Cipher Pol",
     "img": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "super-dragon-ball-heroes-meteor-mission",
-    "epId": "super-dragon-ball-heroes-meteor-mission-episode-4",
-    "title": "Super Dragon Ball Heroes Meteor Mission",
-    "img": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
-    "episode": "Episode 4"
   },
   {
     "id": "super-dragon-ball-heroes-meteor-mission",
