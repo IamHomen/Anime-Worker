@@ -1,5 +1,12 @@
 [
   {
+    "id": "highspeed-etoile",
+    "epId": "highspeed-etoile-episode-9",
+    "title": "Highspeed Etoile",
+    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "the-idolmster-shiny-colors",
     "epId": "the-idolmster-shiny-colors-episode-9",
     "title": "The iDOLM@STER Shiny Colors",
@@ -558,13 +565,6 @@
     "title": "Pokemon (Shinsaku Anime)",
     "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
     "episode": "Episode 51"
-  },
-  {
-    "id": "highspeed-etoile",
-    "epId": "highspeed-etoile-episode-8",
-    "title": "Highspeed Etoile",
-    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
-    "episode": "Episode 8"
   },
   {
     "id": "magicaltaruruuto-kun",
