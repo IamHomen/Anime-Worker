@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62862,
+      "anime_id": 5509,
+      "anime_title": "Boku no Hero Academia 7th Season",
+      "anime_session": "07da00fe-04cb-d1ee-1134-eed94cf17d64",
+      "episode": 143,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/606dfd27cbe13490b84eacfbcaaca1f0a29e955b7bfb3d73c3cf99664f05d3f8.jpg",
+      "disc": "",
+      "session": "481742f02af6666191b30ce8820e95833b1bd0b880cdc31d5e2586fc4bca07e6",
+      "filler": 0,
+      "created_at": "2024-06-01 09:35:36",
+      "completed": 0
+    },
+    {
       "id": 62861,
       "anime_id": 5481,
       "anime_title": "Beyblade X",
@@ -182,22 +198,6 @@
       "session": "3500611cde0997d94da558a9dca9032f37dbe2b6c918dd688e2a7a4efefc2799",
       "filler": 0,
       "created_at": "2024-05-30 18:49:17",
-      "completed": 0
-    },
-    {
-      "id": 62850,
-      "anime_id": 4889,
-      "anime_title": "Chiikawa",
-      "anime_session": "d12d3906-5a53-51b8-0f5e-15c428d3f992",
-      "episode": 94,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/9180b3a42e4d32c7df834cdb01b25f932022f5aeffd7a3f65a56b4e8598bc2b2.jpg",
-      "disc": "",
-      "session": "dfbd1d32ba5e7cb22a5a28760177a25bb6f36cb2c2a181b86aefda681bd4c0bc",
-      "filler": 0,
-      "created_at": "2024-05-30 17:58:40",
       "completed": 0
     }
   ]
