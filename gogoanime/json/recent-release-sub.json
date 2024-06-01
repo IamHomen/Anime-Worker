@@ -1,5 +1,19 @@
 [
   {
+    "id": "nyaaaanvy",
+    "epId": "nyaaaanvy-episode-1",
+    "title": "Nyaaaanvy",
+    "img": "https://gogocdn.net/cover/nyaaaanvy.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-5",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-33",
     "title": "Beyblade X",
@@ -565,13 +579,6 @@
     "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
     "img": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-4",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 4"
   },
   {
     "id": "magicaltaruruuto-kun",
@@ -2790,13 +2797,6 @@
     "epId": "kamierabi-episode-12",
     "title": "Kamierabi",
     "img": "https://gogocdn.net/cover/kamierabi-1696008523.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kizuna-no-allele-season-2",
-    "epId": "kizuna-no-allele-season-2-episode-12",
-    "title": "Kizuna no Allele Season 2",
-    "img": "https://gogocdn.net/cover/kizuna-no-allele-season-2-1696009280.png",
     "episode": "Episode 12"
   }
 ]
