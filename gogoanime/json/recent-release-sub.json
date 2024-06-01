@@ -1,5 +1,19 @@
 [
   {
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-110",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 110"
+  },
+  {
+    "id": "tonari-no-youkai-san",
+    "epId": "tonari-no-youkai-san-episode-9",
+    "title": "Tonari no Youkai-san",
+    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "epId": "karasu-wa-aruji-wo-erabanai-episode-9",
     "title": "Karasu wa Aruji wo Erabanai",
@@ -567,13 +581,6 @@
     "episode": "Episode 17"
   },
   {
-    "id": "tonari-no-youkai-san",
-    "epId": "tonari-no-youkai-san-episode-8",
-    "title": "Tonari no Youkai-san",
-    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "sasayaku-you-ni-koi-wo-utau",
     "epId": "sasayaku-you-ni-koi-wo-utau-episode-7",
     "title": "Sasayaku You ni Koi wo Utau",
@@ -642,13 +649,6 @@
     "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
     "img": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "yugioh-go-rush",
-    "epId": "yugioh-go-rush-episode-109",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 109"
   },
   {
     "id": "ray-the-animation",
