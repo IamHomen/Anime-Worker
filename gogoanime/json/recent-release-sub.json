@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-33",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 33"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-8",
     "title": "Shadowverse Flame: Arc-hen",
@@ -593,13 +600,6 @@
     "title": "Bear Bear Bear Kuma Punch!",
     "img": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-32",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 32"
   },
   {
     "id": "araiguma-rascal",
