@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 62863,
+      "anime_id": 3,
+      "anime_title": "Meitantei Conan",
+      "anime_session": "9d7575ea-a604-9200-99f2-a6ced1d7e95f",
+      "episode": 1125,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/cf35e9863c4ccce0bd7c5f2054785274849ac509af301901139863f28dfe2dbb.jpg",
+      "disc": "",
+      "session": "9b03e6021d70ab88e03b65c88d8cbf07d325b8f661cc8208f92cd03f751ab724",
+      "filler": 0,
+      "created_at": "2024-06-01 11:34:31",
+      "completed": 0
+    },
+    {
       "id": 62862,
       "anime_id": 5509,
       "anime_title": "Boku no Hero Academia 7th Season",
@@ -182,22 +198,6 @@
       "session": "671b5900fdef2d4a5329c1e6a75f35be72cead0b05da2760b3d8b3090e20f76e",
       "filler": 0,
       "created_at": "2024-05-31 13:16:50",
-      "completed": 0
-    },
-    {
-      "id": 62851,
-      "anime_id": 5546,
-      "anime_title": "Henjin no Salad Bowl",
-      "anime_session": "5915c40c-efa7-593f-f46f-caba13d9c176",
-      "episode": 9,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/36a3eb81df74c4d078351ed478984a31b59c5e6336d3a474cf71fc95a64ab136.jpg",
-      "disc": "",
-      "session": "3500611cde0997d94da558a9dca9032f37dbe2b6c918dd688e2a7a4efefc2799",
-      "filler": 0,
-      "created_at": "2024-05-30 18:49:17",
       "completed": 0
     }
   ]
