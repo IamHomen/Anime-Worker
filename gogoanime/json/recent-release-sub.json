@@ -1,5 +1,33 @@
 [
   {
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-8",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "the-fable",
+    "epId": "the-fable-episode-9",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "yoru-no-kurage-wa-oyogenai",
+    "epId": "yoru-no-kurage-wa-oyogenai-episode-9",
+    "title": "Yoru no Kurage wa Oyogenai",
+    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-8",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "kaijuu-8-gou",
     "epId": "kaijuu-8-gou-episode-8",
     "title": "Kaijuu 8-gou",
@@ -546,13 +574,6 @@
     "episode": "Episode 8"
   },
   {
-    "id": "the-new-gate",
-    "epId": "the-new-gate-episode-7",
-    "title": "The New Gate",
-    "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "sasayaku-you-ni-koi-wo-utau",
     "epId": "sasayaku-you-ni-koi-wo-utau-episode-7",
     "title": "Sasayaku You ni Koi wo Utau",
@@ -560,32 +581,11 @@
     "episode": "Episode 7"
   },
   {
-    "id": "yoru-no-kurage-wa-oyogenai",
-    "epId": "yoru-no-kurage-wa-oyogenai-episode-8",
-    "title": "Yoru no Kurage wa Oyogenai",
-    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-8",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "attacker-you",
     "epId": "attacker-you-episode-51",
     "title": "Attacker You!",
     "img": "https://gogocdn.net/images/upload/55755.jpg",
     "episode": "Episode 51"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-7",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 7"
   },
   {
     "id": "magicaltaruruuto-kun",
