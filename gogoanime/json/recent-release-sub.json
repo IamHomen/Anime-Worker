@@ -1,5 +1,19 @@
 [
   {
+    "id": "blue-archive-the-animation",
+    "epId": "blue-archive-the-animation-episode-9",
+    "title": "Blue Archive the Animation",
+    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-4",
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "tensei-kizoku-kantei-skill-de-nariagaru",
     "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-9",
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -117,6 +131,13 @@
     "title": "Karasu wa Aruji wo Erabanai",
     "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
     "episode": "Episode 9"
+  },
+  {
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-8",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 8"
   },
   {
     "id": "the-new-gate",
@@ -256,13 +277,6 @@
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-9",
     "title": "Tensei shitara Slime Datta Ken 3rd Season",
     "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "astro-note",
-    "epId": "astro-note-episode-9",
-    "title": "Astro Note",
-    "img": "https://gogocdn.net/cover/astro-note.png",
     "episode": "Episode 9"
   },
   {
@@ -572,20 +586,6 @@
     "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
     "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "blue-archive-the-animation",
-    "epId": "blue-archive-the-animation-episode-8",
-    "title": "Blue Archive the Animation",
-    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
-    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-3",
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
-    "episode": "Episode 3"
   },
   {
     "id": "dr-slump-arale-chan",
