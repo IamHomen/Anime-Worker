@@ -1,5 +1,12 @@
 [
   {
+    "id": "digimon-adventure-02-the-beginning",
+    "epId": "digimon-adventure-02-the-beginning-episode-1",
+    "title": "Digimon Adventure 02: The Beginning",
+    "img": "https://gogocdn.net/cover/02-1717289197.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-110",
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
@@ -2791,12 +2798,5 @@
     "title": "Dr. Stone: New World Part 2",
     "img": "https://gogocdn.net/cover/dr-stone-new-world-part-2-1696007370.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "kamierabi",
-    "epId": "kamierabi-episode-12",
-    "title": "Kamierabi",
-    "img": "https://gogocdn.net/cover/kamierabi-1696008523.png",
-    "episode": "Episode 12"
   }
 ]
