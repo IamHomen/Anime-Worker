@@ -1,5 +1,12 @@
 [
   {
+    "id": "bakugan-battle-brawlers",
+    "epId": "bakugan-battle-brawlers-episode-15",
+    "title": "Bakugan Battle Brawlers\t",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
+    "episode": "Episode 15"
+  },
+  {
     "id": "blue-archive-the-animation",
     "epId": "blue-archive-the-animation-episode-9",
     "title": "Blue Archive the Animation",
@@ -140,13 +147,6 @@
     "episode": "Episode 8"
   },
   {
-    "id": "the-new-gate",
-    "epId": "the-new-gate-episode-8",
-    "title": "The New Gate",
-    "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "the-fable",
     "epId": "the-fable-episode-9",
     "title": "The Fable",
@@ -277,6 +277,13 @@
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-9",
     "title": "Tensei shitara Slime Datta Ken 3rd Season",
     "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "astro-note",
+    "epId": "astro-note-episode-9",
+    "title": "Astro Note",
+    "img": "https://gogocdn.net/cover/astro-note.png",
     "episode": "Episode 9"
   },
   {
@@ -495,13 +502,6 @@
     "title": "Fatal Fury: Legend of the Hungry Wolf",
     "img": "https://gogocdn.net/cover/fatal-fury-legend-of-the-hungry-wolf.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "bakugan-battle-brawlers",
-    "epId": "bakugan-battle-brawlers-episode-14",
-    "title": "Bakugan Battle Brawlers\t",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
-    "episode": "Episode 14"
   },
   {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
