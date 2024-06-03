@@ -140,6 +140,13 @@
     "episode": "Episode 8"
   },
   {
+    "id": "vampire-dormitory",
+    "epId": "vampire-dormitory-episode-9",
+    "title": "Vampire Dormitory",
+    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "jiisan-baasan-wakagaeru",
     "epId": "jiisan-baasan-wakagaeru-episode-9",
     "title": "Jiisan Baasan Wakagaeru",
@@ -420,13 +427,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "dead-dead-demons-dededede-destruction",
-    "epId": "dead-dead-demons-dededede-destruction-episode-1",
-    "title": "Dead Dead Demons Dededede Destruction",
-    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "blazblue-chronophantasma",
     "epId": "blazblue-chronophantasma-episode-1",
     "title": "BlazBlue Chronophantasma",
@@ -560,6 +560,13 @@
     "episode": "Episode 17"
   },
   {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-8",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "rinkai",
     "epId": "rinkai-episode-8",
     "title": "Rinkai!",
@@ -593,13 +600,6 @@
     "title": "Fatal Fury: Legend of the Hungry Wolf",
     "img": "https://gogocdn.net/cover/fatal-fury-legend-of-the-hungry-wolf.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "shinkalion-change-the-world",
-    "epId": "shinkalion-change-the-world-episode-8",
-    "title": "Shinkalion: Change the World",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 8"
   },
   {
     "id": "dr-slump-arale-chan",
