@@ -1,5 +1,12 @@
 [
   {
+    "id": "juan-siliang-2nd-season",
+    "epId": "juan-siliang-2nd-season-episode-1",
+    "title": "Juan Siliang 2nd Season",
+    "img": "https://gogocdn.net/cover/juan-siliang-2nd-season.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-111",
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
@@ -413,13 +420,6 @@
     "episode": "Episode 6"
   },
   {
-    "id": "akuma-kun",
-    "epId": "akuma-kun-episode-11",
-    "title": "Akuma-kun",
-    "img": "https://gogocdn.net/cover/akuma-kun.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "kenka-dokugaku",
     "epId": "kenka-dokugaku-episode-8",
     "title": "Kenka Dokugaku",
@@ -551,6 +551,13 @@
     "title": "Tadaima, Okaeri",
     "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
     "episode": "Episode 8"
+  },
+  {
+    "id": "remonster",
+    "epId": "remonster-episode-9",
+    "title": "Re:Monster",
+    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
+    "episode": "Episode 9"
   },
   {
     "id": "remonster",
@@ -693,13 +700,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "detective-conan-remastered",
-    "epId": "detective-conan-remastered-episode-424",
-    "title": "Detective Conan Remastered",
-    "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
-    "episode": "Episode 424"
-  },
-  {
     "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai",
     "epId": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1",
     "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
@@ -831,6 +831,13 @@
     "title": "T.P BON",
     "img": "https://gogocdn.net/cover/t-p-bon.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "enter-the-garden",
+    "epId": "enter-the-garden-episode-1",
+    "title": "Enter the Garden",
+    "img": "https://gogocdn.net/cover/enter-the-garden.png",
+    "episode": "Episode 1"
   },
   {
     "id": "enter-the-garden",
@@ -2791,12 +2798,5 @@
     "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
     "img": "https://gogocdn.net/cover/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-1695916127.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "dr-stone-new-world-part-2",
-    "epId": "dr-stone-new-world-part-2-episode-11",
-    "title": "Dr. Stone: New World Part 2",
-    "img": "https://gogocdn.net/cover/dr-stone-new-world-part-2-1696007370.png",
-    "episode": "Episode 11"
   }
 ]
