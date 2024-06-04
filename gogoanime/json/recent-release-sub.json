@@ -1,5 +1,26 @@
 [
   {
+    "id": "boukyaku-battery-tv",
+    "epId": "boukyaku-battery-tv-episode-8",
+    "title": "Boukyaku Battery (TV)",
+    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "rinkai",
+    "epId": "rinkai-episode-9",
+    "title": "Rinkai!",
+    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "unnamed-memory",
+    "epId": "unnamed-memory-episode-9",
+    "title": "Unnamed Memory",
+    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "meitantei-conan-vs-wooo",
     "epId": "meitantei-conan-vs-wooo-episode-2",
     "title": "Meitantei Conan vs. Wooo",
@@ -567,20 +588,6 @@
     "episode": "Episode 8"
   },
   {
-    "id": "rinkai",
-    "epId": "rinkai-episode-8",
-    "title": "Rinkai!",
-    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "unnamed-memory",
-    "epId": "unnamed-memory-episode-8",
-    "title": "Unnamed Memory",
-    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "fatal-fury-the-motion-picture",
     "epId": "fatal-fury-the-motion-picture-episode-1",
     "title": "Fatal Fury: The Motion Picture",
@@ -656,13 +663,6 @@
     "title": "Garouden: The Way of the Lone Wolf",
     "img": "https://gogocdn.net/cover/garouden-the-way-of-the-lone-wolf.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "boukyaku-battery-tv",
-    "epId": "boukyaku-battery-tv-episode-7",
-    "title": "Boukyaku Battery (TV)",
-    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 7"
   },
   {
     "id": "touken-ranbu-kai-kyoden-moyuru-honnouji",
