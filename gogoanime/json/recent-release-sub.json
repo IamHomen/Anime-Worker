@@ -1,5 +1,12 @@
 [
   {
+    "id": "meitantei-conan-vs-wooo",
+    "epId": "meitantei-conan-vs-wooo-episode-2",
+    "title": "Meitantei Conan vs. Wooo",
+    "img": "https://gogocdn.net/cover/meitantei-conan-vs-wooo.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-9",
     "title": "Shinkalion: Change the World",
@@ -2791,12 +2798,5 @@
     "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
     "img": "https://gogocdn.net/cover/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-1695916127.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "dr-stone-new-world-part-2",
-    "epId": "dr-stone-new-world-part-2-episode-11",
-    "title": "Dr. Stone: New World Part 2",
-    "img": "https://gogocdn.net/cover/dr-stone-new-world-part-2-1696007370.png",
-    "episode": "Episode 11"
   }
 ]
