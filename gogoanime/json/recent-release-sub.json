@@ -70,13 +70,6 @@
     "episode": "Episode 10"
   },
   {
-    "id": "juan-siliang-2nd-season",
-    "epId": "juan-siliang-2nd-season-episode-2",
-    "title": "Juan Siliang 2nd Season",
-    "img": "https://gogocdn.net/cover/juan-siliang-2nd-season.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
     "epId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-11",
     "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
@@ -2798,5 +2791,12 @@
     "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
     "img": "https://gogocdn.net/cover/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-1695916127.png",
     "episode": "Episode 13"
+  },
+  {
+    "id": "dr-stone-new-world-part-2",
+    "epId": "dr-stone-new-world-part-2-episode-11",
+    "title": "Dr. Stone: New World Part 2",
+    "img": "https://gogocdn.net/cover/dr-stone-new-world-part-2-1696007370.png",
+    "episode": "Episode 11"
   }
 ]
