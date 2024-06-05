@@ -1,5 +1,12 @@
 [
   {
+    "id": "kagaku-ninja-tai-gatchaman-movie",
+    "epId": "kagaku-ninja-tai-gatchaman-movie-episode-1",
+    "title": "Kagaku Ninja-tai Gatchaman (Movie)",
+    "img": "https://gogocdn.net/cover/kagaku-ninja-tai-gatchaman-movie.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kenka-dokugaku",
     "epId": "kenka-dokugaku-episode-9",
     "title": "Kenka Dokugaku",
@@ -2791,12 +2798,5 @@
     "title": "Under Ninja",
     "img": "https://gogocdn.net/cover/under-ninja-1696013427.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "ojou-to-banken-kun",
-    "epId": "ojou-to-banken-kun-episode-13",
-    "title": "Ojou to Banken-kun",
-    "img": "https://gogocdn.net/cover/ojou-to-banken-kun-1695918776.png",
-    "episode": "Episode 13"
   }
 ]
