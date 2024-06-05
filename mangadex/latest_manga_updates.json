@@ -1,5 +1,29 @@
 [
   {
+    "mangaId": "0416aa86-2f9a-461b-8376-b3765bfa1519",
+    "title": {
+      "en": "The Blond Yankee and The Punishment Game"
+    },
+    "updatedAt": "2024-04-18T10:45:20+00:00",
+    "coverArt": "https://mangadex.org/covers/0416aa86-2f9a-461b-8376-b3765bfa1519/7aa915ce-6279-422f-88b7-757d0f9e3a13.jpg",
+    "altTitles": [
+      {
+        "ja": "\u91d1\u9aea\u30e4\u30f3\u30ad\u30fc\u3068\u7f70\u30b2\u30fc\u30e0"
+      },
+      {
+        "ja-ro": "Kinpatsu yankee to batsu game"
+      }
+    ],
+    "description": {
+      "en": "As part of her punishment game, the transfer student, Shindou Eruko, must talk to the coolest delinquent in the school, which turns out to be Hoshi Natsuki, the blonde delinquent in the class next door. However, she soon found out that Hoshi-kun might not be as scary as he looks...\n\nThis manga is Konogi Yoshiru's fantasy take on  [Shingeki no Eroko-san](https://mangadex.org/title/bdfc7777-f1ee-4131-82cb-2fb5861d32e1/shingeki-no-eroko-san-hen-na-oneesan-wa-danshikousei-to-nakayoku-naritai), depicting a setting with Eruko being in the same age as Hoshi-kun. It was later adapted in the main title as Eruko's dream sequence."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
     "title": {
       "en": "Blue Lock"
@@ -250,14 +274,11 @@
     "title": {
       "en": "Marine Corps Yumi"
     },
-    "updatedAt": "2024-01-02T08:03:06+00:00",
+    "updatedAt": "2024-06-05T07:09:49+00:00",
     "coverArt": "https://mangadex.org/covers/24fc654b-15ce-4b04-bd46-893d20bb3b58/3fff8e88-835c-48b8-aace-7eed8478479b.jpg",
     "altTitles": [
       {
         "ja-ro": "Marinko Yumi"
-      },
-      {
-        "en": "MC YUMI"
       },
       {
         "ja": "\u307e\u308a\u3093\u3053\u3086\u307f"
@@ -1752,29 +1773,5 @@
     "contentRating": "erotica",
     "lastVolume": "20",
     "lastChapter": "178.5"
-  },
-  {
-    "mangaId": "40a34636-3c4f-4150-9e30-a2dc43ae861a",
-    "title": {
-      "en": "Blast Girls"
-    },
-    "updatedAt": "2024-06-05T02:13:16+00:00",
-    "coverArt": "https://mangadex.org/covers/40a34636-3c4f-4150-9e30-a2dc43ae861a/619dbf75-cd01-49bf-8fae-7b70d8b40068.jpg",
-    "altTitles": [
-      {
-        "ja": "\u7206\u767a\u5c0f\u5a18"
-      },
-      {
-        "ja-ro": "Bakuhatsu Komusume"
-      }
-    ],
-    "description": {
-      "en": "A short 4koma published in Game Player Comics Vol. 2, featuring 4 girls and their misadventure in the Battle Game of Bomberman!"
-    },
-    "status": "completed",
-    "releaseDate": 1991,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
