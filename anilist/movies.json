@@ -136,18 +136,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 437,
-    "title": "PERFECT BLUE",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-moJoeSWPuAIS.jpg",
-    "seasonYear": 1998,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 47,
     "title": "AKIRA",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx47-Sjkc8RDBjqwT.jpg",
     "seasonYear": 1988,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 437,
+    "title": "PERFECT BLUE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-moJoeSWPuAIS.jpg",
+    "seasonYear": 1998,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
