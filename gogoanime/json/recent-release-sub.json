@@ -1,5 +1,40 @@
 [
   {
+    "id": "shiyakusho",
+    "epId": "shiyakusho-episode-1",
+    "title": "Shiyakusho",
+    "img": "https://gogocdn.net/cover/shiyakusho.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "date-a-live-v",
+    "epId": "date-a-live-v-episode-9",
+    "title": "Date A Live V",
+    "img": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "kaii-to-otome-to-kamikakushi",
+    "epId": "kaii-to-otome-to-kamikakushi-episode-9",
+    "title": "Kaii to Otome to Kamikakushi",
+    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "atashinchi-next",
+    "epId": "atashinchi-next-episode-1",
+    "title": "Atashin'chi NEXT",
+    "img": "https://gogocdn.net/cover/atashinchi-next.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "seiyuu-radio-no-uraomote",
+    "epId": "seiyuu-radio-no-uraomote-episode-9",
+    "title": "Seiyuu Radio no Uraomote",
+    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "himitsu-no-aipri",
     "epId": "himitsu-no-aipri-episode-9",
     "title": "Himitsu no AiPri",
@@ -103,13 +138,6 @@
     "title": "Kami wa Game ni Ueteiru.",
     "img": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
-    "epId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-11",
-    "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
-    "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
-    "episode": "Episode 11"
   },
   {
     "id": "yugioh-go-rush",
@@ -252,6 +280,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "digimon-adventure-02-the-beginning",
+    "epId": "digimon-adventure-02-the-beginning-episode-1",
+    "title": "Digimon Adventure 02: The Beginning",
+    "img": "https://gogocdn.net/cover/02-1717289197.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tonari-no-youkai-san",
     "epId": "tonari-no-youkai-san-episode-9",
     "title": "Tonari no Youkai-san",
@@ -383,13 +418,6 @@
     "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
     "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "sabaku-no-kaizoku-captain-kuppa",
-    "epId": "sabaku-no-kaizoku-captain-kuppa-episode-3",
-    "title": "Sabaku no Kaizoku! Captain Kuppa",
-    "img": "https://gogocdn.net/cover/sabaku-no-kaizoku-captain-kuppa.png",
-    "episode": "Episode 3"
   },
   {
     "id": "mahouka-koukou-no-rettousei-3rd-season",
@@ -532,6 +560,13 @@
     "episode": "Episode 11"
   },
   {
+    "id": "akuma-kun",
+    "epId": "akuma-kun-episode-11",
+    "title": "Akuma-kun",
+    "img": "https://gogocdn.net/cover/akuma-kun.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "kenka-dokugaku",
     "epId": "kenka-dokugaku-episode-8",
     "title": "Kenka Dokugaku",
@@ -550,27 +585,6 @@
     "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-8",
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
     "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "date-a-live-v",
-    "epId": "date-a-live-v-episode-8",
-    "title": "Date A Live V",
-    "img": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "kaii-to-otome-to-kamikakushi",
-    "epId": "kaii-to-otome-to-kamikakushi-episode-8",
-    "title": "Kaii to Otome to Kamikakushi",
-    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "seiyuu-radio-no-uraomote",
-    "epId": "seiyuu-radio-no-uraomote-episode-8",
-    "title": "Seiyuu Radio no Uraomote",
-    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
     "episode": "Episode 8"
   },
   {
@@ -684,13 +698,6 @@
     "title": "Futari Gurashi",
     "img": "https://gogocdn.net/cover/futari-gurashi.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "ohayou-spank",
-    "epId": "ohayou-spank-episode-16",
-    "title": "Ohayou! Spank",
-    "img": "https://gogocdn.net/cover/ohayou-spank.png",
-    "episode": "Episode 16"
   },
   {
     "id": "honoo-no-labyrinth",
@@ -823,6 +830,13 @@
     "epId": "boku-no-oldies-wa-all-color-episode-1",
     "title": "Boku no Oldies wa All Color",
     "img": "https://gogocdn.net/cover/boku-no-oldies-wa-all-color.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "eternity-memories",
+    "epId": "eternity-memories-episode-1",
+    "title": "Eternity Memories",
+    "img": "https://gogocdn.net/cover/eternity-memories.png",
     "episode": "Episode 1"
   },
   {
@@ -2784,19 +2798,5 @@
     "title": "Yuzuki-san Chi no Yonkyoudai.",
     "img": "https://gogocdn.net/cover/yuzuki-san-chi-no-yonkyoudai-1696013593.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "mahoutsukai-no-yome-season-2-part-2",
-    "epId": "mahoutsukai-no-yome-season-2-part-2-episode-12",
-    "title": "Mahoutsukai no Yome Season 2 Part 2",
-    "img": "https://gogocdn.net/cover/mahoutsukai-no-yome-season-2-part-2-1696010140.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
-    "epId": "boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-episode-13",
-    "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-    "img": "https://gogocdn.net/cover/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-1695916127.png",
-    "episode": "Episode 13"
   }
 ]

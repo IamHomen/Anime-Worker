@@ -53820,6 +53820,12 @@
     "date": "1995"
   },
   {
+    "id": "atashinchi-next",
+    "title": "Atashin'chi NEXT",
+    "img": "https://gogocdn.net/cover/atashinchi-next.png",
+    "date": "2024"
+  },
+  {
     "id": "orange",
     "title": "Orange",
     "img": "https://gogocdn.net/cover/orange.jpg",
@@ -54034,6 +54040,12 @@
     "title": "Ao no Exorcist: Shimane Illuminati-hen (Dub)",
     "img": "https://gogocdn.net/cover/ao-no-exorcist-shimane-illuminati-hen-dub.png",
     "date": "2024"
+  },
+  {
+    "id": "shiyakusho",
+    "title": "Shiyakusho",
+    "img": "https://gogocdn.net/cover/shiyakusho.png",
+    "date": "2022"
   },
   {
     "id": "aquarion-logos",
@@ -79786,17 +79798,5 @@
     "title": "Fox Spirit Matchmaker",
     "img": "https://gogocdn.net/cover/fox-spirit-matchmaker.png",
     "date": "2015"
-  },
-  {
-    "id": "sakigake-otokojuku-movie",
-    "title": "Sakigake!! Otokojuku Movie",
-    "img": "https://gogocdn.net/cover/sakigake-otokojuku-movie.png",
-    "date": "1988"
-  },
-  {
-    "id": "kyougoku-natsuhiko-kousetsu-hyaku-monogatari",
-    "title": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
-    "img": "https://gogocdn.net/cover/kyougoku-natsuhiko-kousetsu-hyaku-monogatari.png",
-    "date": "2003"
   }
 ]
