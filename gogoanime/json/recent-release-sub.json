@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-9",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "short-peace",
+    "epId": "short-peace-episode-1",
+    "title": "Short Peace",
+    "img": "https://gogocdn.net/cover/short-peace.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bartender-kami-no-glass",
+    "epId": "bartender-kami-no-glass-episode-10",
+    "title": "Bartender: Kami no Glass",
+    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
     "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-9",
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
@@ -572,20 +593,6 @@
     "title": "Akuma-kun",
     "img": "https://gogocdn.net/cover/akuma-kun.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-8",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "bartender-kami-no-glass",
-    "epId": "bartender-kami-no-glass-episode-9",
-    "title": "Bartender: Kami no Glass",
-    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
-    "episode": "Episode 9"
   },
   {
     "id": "samurai-spirits-haten-gouma-no-shou",
@@ -2791,12 +2798,5 @@
     "title": "Ojou to Banken-kun",
     "img": "https://gogocdn.net/cover/ojou-to-banken-kun-1695918776.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "yuzuki-san-chi-no-yonkyoudai",
-    "epId": "yuzuki-san-chi-no-yonkyoudai-episode-12",
-    "title": "Yuzuki-san Chi no Yonkyoudai.",
-    "img": "https://gogocdn.net/cover/yuzuki-san-chi-no-yonkyoudai-1696013593.png",
-    "episode": "Episode 12"
   }
 ]
