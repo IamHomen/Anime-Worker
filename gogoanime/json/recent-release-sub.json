@@ -1,5 +1,12 @@
 [
   {
+    "id": "hyakushou-kizoku",
+    "epId": "hyakushou-kizoku-episode-14",
+    "title": "Hyakushou Kizoku",
+    "img": "https://gogocdn.net/cover/hyakushou-kizoku-1688154650.png",
+    "episode": "Episode 14"
+  },
+  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-34",
     "title": "Beyblade X",
@@ -2790,13 +2797,6 @@
     "epId": "tate-no-yuusha-no-nariagari-season-3-episode-12",
     "title": "Tate no Yuusha no Nariagari Season 3",
     "img": "https://gogocdn.net/cover/tate-no-yuusha-no-nariagari-season-3-1698302959.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "under-ninja",
-    "epId": "under-ninja-episode-12",
-    "title": "Under Ninja",
-    "img": "https://gogocdn.net/cover/under-ninja-1696013427.png",
     "episode": "Episode 12"
   }
 ]
