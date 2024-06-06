@@ -1,5 +1,19 @@
 [
   {
+    "id": "dungeon-meshi",
+    "epId": "dungeon-meshi-episode-23",
+    "title": "Dungeon Meshi",
+    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
+    "episode": "Episode 23"
+  },
+  {
+    "id": "jantama-kan",
+    "epId": "jantama-kan-episode-7",
+    "title": "Jantama Kan!!",
+    "img": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "hanma-baki-vs-kengan-ashura",
     "epId": "hanma-baki-vs-kengan-ashura-episode-1",
     "title": "Hanma Baki vs. Kengan Ashura",
@@ -593,20 +607,6 @@
     "title": "Yuru Camp\u014c\u00a2\u2502 Season 3",
     "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "dungeon-meshi",
-    "epId": "dungeon-meshi-episode-22",
-    "title": "Dungeon Meshi",
-    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 22"
-  },
-  {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-6",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 6"
   },
   {
     "id": "akuma-kun",
