@@ -1,5 +1,12 @@
 [
   {
+    "id": "henjin-no-salad-bowl",
+    "epId": "henjin-no-salad-bowl-episode-10",
+    "title": "Henjin no Salad Bowl",
+    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "muu-no-hakugei",
     "epId": "muu-no-hakugei-episode-2",
     "title": "Muu no Hakugei",
@@ -607,13 +614,6 @@
     "title": "BlazBlue Chronophantasma",
     "img": "https://gogocdn.net/cover/blazblue-chronophantasma.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "henjin-no-salad-bowl",
-    "epId": "henjin-no-salad-bowl-episode-9",
-    "title": "Henjin no Salad Bowl",
-    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 9"
   },
   {
     "id": "akuma-kun",
