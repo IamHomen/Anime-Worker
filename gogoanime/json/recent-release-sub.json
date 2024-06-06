@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-34",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 34"
+  },
+  {
     "id": "kagaku-ninja-tai-gatchaman-movie",
     "epId": "kagaku-ninja-tai-gatchaman-movie-episode-1",
     "title": "Kagaku Ninja-tai Gatchaman (Movie)",
@@ -397,13 +404,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-33",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 33"
   },
   {
     "id": "shadowverse-flame-arc-hen",
