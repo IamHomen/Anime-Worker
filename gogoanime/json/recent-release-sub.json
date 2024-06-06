@@ -1,5 +1,12 @@
 [
   {
+    "id": "muu-no-hakugei",
+    "epId": "muu-no-hakugei-episode-2",
+    "title": "Muu no Hakugei",
+    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-95",
     "title": "Chiikawa",
@@ -970,13 +977,6 @@
     "epId": "rakudai-majo-fuuka-to-yami-no-majo-episode-1",
     "title": "Rakudai Majo: Fuuka to Yami no Majo",
     "img": "https://gogocdn.net/cover/rakudai-majo-fuuka-to-yami-no-majo-1713846138.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "muu-no-hakugei",
-    "epId": "muu-no-hakugei-episode-1",
-    "title": "Muu no Hakugei",
-    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 1"
   },
   {
