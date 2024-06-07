@@ -140,6 +140,13 @@
     "episode": "Episode 9"
   },
   {
+    "id": "short-peace",
+    "epId": "short-peace-episode-1",
+    "title": "Short Peace",
+    "img": "https://gogocdn.net/cover/short-peace.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "bartender-kami-no-glass",
     "epId": "bartender-kami-no-glass-episode-10",
     "title": "Bartender: Kami no Glass",
@@ -411,13 +418,6 @@
     "title": "Yozakura-san Chi no Daisakusen",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "sasayaku-you-ni-koi-wo-utau",
-    "epId": "sasayaku-you-ni-koi-wo-utau-episode-8",
-    "title": "Sasayaku You ni Koi wo Utau",
-    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
-    "episode": "Episode 8"
   },
   {
     "id": "sasayaku-you-ni-koi-wo-utau",
