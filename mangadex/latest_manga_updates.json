@@ -1,5 +1,27 @@
 [
   {
+    "mangaId": "8854c205-70c9-4f81-ad96-5d066bf81880",
+    "title": {
+      "en": "Kazari drip"
+    },
+    "updatedAt": "2024-06-07T09:24:12+00:00",
+    "coverArt": "https://mangadex.org/covers/8854c205-70c9-4f81-ad96-5d066bf81880/d68e7191-b56b-4c80-8d1b-e000decfd7f9.png",
+    "altTitles": [
+      {
+        "ja": "\u30ab\u30b6\u30ea\u30c9\u30ea\u30c3\u30d7"
+      },
+      {
+        "ko": "\uce74\uc790\ub9ac \ub4dc\ub9bd"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "5c3f6203-ab26-4514-9600-1ef443e3fba6",
     "title": {
       "en": "Ojou to Banken-kun"
@@ -1642,33 +1664,5 @@
     "contentRating": "suggestive",
     "lastVolume": "1",
     "lastChapter": "5"
-  },
-  {
-    "mangaId": "ea4d294d-f026-4bf2-a999-a559084bad1b",
-    "title": {
-      "en": "Isso Anata ga Todome wo Sashite"
-    },
-    "updatedAt": "2024-05-26T16:07:53+00:00",
-    "coverArt": "https://mangadex.org/covers/ea4d294d-f026-4bf2-a999-a559084bad1b/ea2ecc90-7b32-44c1-93c6-ecf6277ad5a8.jpg",
-    "altTitles": [
-      {
-        "ja": "\u3044\u3063\u305d\u3042\u306a\u305f\u304c\u30c8\u30c9\u30e1\u3092\u523a\u3057\u3066"
-      },
-      {
-        "ja-ro": "Isso Anata ga Todome o Sashite"
-      },
-      {
-        "en": "Better You Give Me The Final Blow"
-      }
-    ],
-    "description": {
-      "en": "Ichika is a female college student who wants to have a normal relationship, but is often judged by her appearance. One night at a drinking party she attended, hoping to have a wonderful encounter, she met Kousei who was kind to her. She is attracted to him because they got the same interest, enjoys talking with him and he likes her just the way she is \u2014 but she didn't know he had a secret no one knows about. \n\n(Source: heartbuzz2d)",
-      "pt-br": "Ichika \u00e9 uma estudante universit\u00e1ria do sexo feminino que deseja ter um relacionamento normal, mas muitas vezes \u00e9 julgada pela sua apar\u00eancia. Uma noite, numa festa em que ela participou, esperando ter um encontro maravilhoso, ela conheceu Kousei, que foi gentil com ela. Ela se sente atra\u00edda por ele porque eles t\u00eam os mesmos interesses, gosta de conversar com ele e ele gosta dela do jeito que ela \u00e9 \u2014 mas ela n\u00e3o sabia que ele tinha um segredo que ningu\u00e9m conhece."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
