@@ -1,5 +1,12 @@
 [
   {
+    "id": "highspeed-etoile",
+    "epId": "highspeed-etoile-episode-10",
+    "title": "Highspeed Etoile",
+    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "the-idolmster-shiny-colors",
     "epId": "the-idolmster-shiny-colors-episode-10",
     "title": "The iDOLM@STER Shiny Colors",
@@ -564,13 +571,6 @@
     "epId": "ooi-tonbo-episode-9",
     "title": "Ooi! Tonbo",
     "img": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "highspeed-etoile",
-    "epId": "highspeed-etoile-episode-9",
-    "title": "Highspeed Etoile",
-    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
     "episode": "Episode 9"
   },
   {
