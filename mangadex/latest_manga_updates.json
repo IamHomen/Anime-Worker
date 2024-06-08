@@ -1,5 +1,33 @@
 [
   {
+    "mangaId": "66b0511a-528c-43de-b572-a7ff7a30ebd9",
+    "title": {
+      "en": "Cool na Doukyuusei no \u25ef\u25ef Nengo\u2026"
+    },
+    "updatedAt": "2024-04-06T08:50:53+00:00",
+    "coverArt": "https://mangadex.org/covers/66b0511a-528c-43de-b572-a7ff7a30ebd9/4f5ebead-fa60-449d-9c6c-e0034e5b1df7.png",
+    "altTitles": [
+      {
+        "ja-ro": "Cool na Doukyuusei no \u25ef\u25ef Nengo\u2026"
+      },
+      {
+        "ja": "\u30af\u30fc\u30eb\u306a\u540c\u7d1a\u751f\u306e\u25ef\u25ef\u5e74\u5f8c..."
+      },
+      {
+        "en": "The Cool Classmate XX Years Later..."
+      },
+      {
+        "en": "The Cool Classmate \u25ef\u25ef Years Later..."
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "c9bb51b3-0e97-43ff-a64a-1c16d0de5d50",
     "title": {
       "en": "Slow Start"
@@ -1563,29 +1591,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "d38ffe07-4733-4a23-a76a-a1a6ff985abe",
-    "title": {
-      "en": "Fist of the North Star: BBQ Flavor"
-    },
-    "updatedAt": "2024-06-08T01:26:23+00:00",
-    "coverArt": "https://mangadex.org/covers/d38ffe07-4733-4a23-a76a-a1a6ff985abe/680774e5-98fb-4d3d-8fc1-220ede02fa65.jpg",
-    "altTitles": [
-      {
-        "ja": "\u5317\u6597\u306e\u62f3 BBQ\u5473"
-      },
-      {
-        "ja-ro": "Hokuto no Ken: BBQ Aji"
-      }
-    ],
-    "description": {
-      "en": "Yushi Kawata, with his middle school-level English, has taken on translating *Fist of the North Star* himself! Revisit famous points from the first 15 volumes with Kawata's translation, supplemented by artwork from the Yukito sisters and artwork sampled from the original manga. You'll certainly have one crazy time around America!"
-    },
-    "status": "completed",
-    "releaseDate": 2018,
-    "contentRating": "safe",
-    "lastVolume": "1",
-    "lastChapter": "8"
   }
 ]
