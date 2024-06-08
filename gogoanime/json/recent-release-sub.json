@@ -1,5 +1,19 @@
 [
   {
+    "id": "mai-hime-kuro-no-maisaigo-no-bansan",
+    "epId": "mai-hime-kuro-no-maisaigo-no-bansan-episode-1",
+    "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
+    "img": "https://gogocdn.net/cover/mai-hime-kuro-no-maisaigo-no-bansan.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tonari-no-youkai-san",
+    "epId": "tonari-no-youkai-san-episode-10",
+    "title": "Tonari no Youkai-san",
+    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "epId": "karasu-wa-aruji-wo-erabanai-episode-10",
     "title": "Karasu wa Aruji wo Erabanai",
@@ -565,13 +579,6 @@
     "title": "Digimon Adventure 02: The Beginning",
     "img": "https://gogocdn.net/cover/02-1717289197.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tonari-no-youkai-san",
-    "epId": "tonari-no-youkai-san-episode-9",
-    "title": "Tonari no Youkai-san",
-    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 9"
   },
   {
     "id": "sabaku-no-kaizoku-captain-kuppa",
@@ -2790,13 +2797,6 @@
     "epId": "golgo-13-the-professional-episode-1",
     "title": "Golgo 13: The Professional",
     "img": "https://gogocdn.net/cover/golgo-13-the-professional.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "princess-principal-crown-handler-movie-3-cost-for-custom-cars",
-    "epId": "princess-principal-crown-handler-movie-3-cost-for-custom-cars-episode-1",
-    "title": "Princess Principal: Crown Handler Movie 3 - Cost for Custom Cars",
-    "img": "https://gogocdn.net/cover/princess-principal-crown-handler-movie-3-cost-for-custom-cars.png",
     "episode": "Episode 1"
   }
 ]
