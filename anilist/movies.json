@@ -40,18 +40,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 106286,
-    "title": "Tenki no Ko",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
-    "seasonYear": 2019,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 431,
     "title": "Howl no Ugoku Shiro",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx431-dDgk19xDZjVX.jpg",
     "seasonYear": 2004,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 106286,
+    "title": "Tenki no Ko",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
+    "seasonYear": 2019,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
