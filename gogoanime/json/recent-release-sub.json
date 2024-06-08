@@ -1,5 +1,12 @@
 [
   {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1126",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1126"
+  },
+  {
     "id": "boku-no-hero-academia-7th-season",
     "epId": "boku-no-hero-academia-7th-season-episode-6",
     "title": "Boku no Hero Academia 7th Season",
@@ -565,13 +572,6 @@
     "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
     "img": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1125",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1125"
   },
   {
     "id": "sabaku-no-kaizoku-captain-kuppa",
