@@ -1,5 +1,26 @@
 [
   {
+    "id": "shadowverse-flame-arc-hen",
+    "epId": "shadowverse-flame-arc-hen-episode-9",
+    "title": "Shadowverse Flame: Arc-hen",
+    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-53",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 53"
+  },
+  {
+    "id": "ooi-tonbo-dub",
+    "epId": "ooi-tonbo-dub-episode-10",
+    "title": "Ooi! Tonbo (Dub)",
+    "img": "https://gogocdn.net/cover/ooi-tonbo-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "highspeed-etoile",
     "epId": "highspeed-etoile-episode-10",
     "title": "Highspeed Etoile",
@@ -551,20 +572,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "shadowverse-flame-arc-hen",
-    "epId": "shadowverse-flame-arc-hen-episode-8",
-    "title": "Shadowverse Flame: Arc-hen",
-    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-52",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 52"
   },
   {
     "id": "ooi-tonbo",
@@ -2790,13 +2797,6 @@
     "epId": "golgo-13-the-professional-episode-1",
     "title": "Golgo 13: The Professional",
     "img": "https://gogocdn.net/cover/golgo-13-the-professional.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "princess-principal-crown-handler-movie-3-cost-for-custom-cars",
-    "epId": "princess-principal-crown-handler-movie-3-cost-for-custom-cars-episode-1",
-    "title": "Princess Principal: Crown Handler Movie 3 - Cost for Custom Cars",
-    "img": "https://gogocdn.net/cover/princess-principal-crown-handler-movie-3-cost-for-custom-cars.png",
     "episode": "Episode 1"
   }
 ]
