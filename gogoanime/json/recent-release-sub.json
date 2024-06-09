@@ -1,5 +1,12 @@
 [
   {
+    "id": "ninjala",
+    "epId": "ninjala-episode-120",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 120"
+  },
+  {
     "id": "one-piece",
     "epId": "one-piece-episode-1108",
     "title": "One Piece",
@@ -607,13 +614,6 @@
     "title": "BlazBlue Calamity Trigger",
     "img": "https://gogocdn.net/cover/blazblue-calamity-trigger.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-119",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 119"
   },
   {
     "id": "blazblue-chronophantasma",
