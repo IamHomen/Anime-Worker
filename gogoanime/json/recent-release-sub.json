@@ -1,5 +1,19 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1108",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1108"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-19",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 19"
+  },
+  {
     "id": "mai-hime-kuro-no-maisaigo-no-bansan",
     "epId": "mai-hime-kuro-no-maisaigo-no-bansan-episode-1",
     "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
@@ -558,20 +572,6 @@
     "title": "Sasayaku You ni Koi wo Utau",
     "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1107",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1107"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-18",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 18"
   },
   {
     "id": "digimon-adventure-02-the-beginning",
