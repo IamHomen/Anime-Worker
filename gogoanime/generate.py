@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import csv
 import os
 import psycopg2
 from dotenv import load_dotenv
@@ -271,7 +270,7 @@ def scrape_anime_info(ids):
             'synopsis': str(desc),
             'animeImg': str(animeImage),
             'totalEpisodes': ep_end,
-            'episodesList': epList,
+            #'episodesList': epList,
         }
 
         # Load Firebase service account key from environment variable
