@@ -16,15 +16,6 @@ NEW_SEASON_URL = 'https://anitaku.so/new-season.html'
 MOVIE_URL = 'https://anitaku.so/anime-movies.html'
 load_dotenv()
 
-# Load Firebase service account key from environment variable
-service_account_info = json.loads(os.getenv('FIREBASE_SERVICE_ACCOUNT'))
-
-# Initialize the Firebase app
-cred = credentials.Certificate(service_account_info)
-firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://mrcain-12665-default-rtdb.firebaseio.com'
-})
-
 def scrape_recent_sub_anime():
     anime_list = []
     try:
@@ -282,6 +273,15 @@ def scrape_anime_info(ids):
             'totalEpisodes': ep_end,
             'episodesList': epList,
         }
+
+        # Load Firebase service account key from environment variable
+        service_account_info = json.loads(os.getenv('FIREBASE_SERVICE_ACCOUNT'))
+
+        # Initialize the Firebase app
+        cred = credentials.Certificate(service_account_info)
+        firebase_admin.initialize_app(cred, {
+            'databaseURL': 'https://mrcain-12665-default-rtdb.firebaseio.com'
+        })
 
         # Specify the reference where you want to upload the data
         ref = db.reference(f'/anime-list/anime/info/{ids}')
