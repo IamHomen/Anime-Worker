@@ -283,11 +283,11 @@ def scrape_anime_info(ids):
             'episodesList': epList,
         }
 
-        # Specify the reference where you want to upload the data
-          ref = db.reference(f'/anime-list/anime/info/{ids}')
+           # Specify the reference where you want to upload the data
+            ref = db.reference(f'/anime-list/anime/info/{ids}')
 
-        # Upload the data
-          ref.set(anime_data)
+           # Upload the data
+            ref.set(anime_data)
         
        # with open(f'./gogoanime/anime-info/{ids}.json', 'w') as json_file:
          #  json.dump(anime_data, json_file, indent=2)
