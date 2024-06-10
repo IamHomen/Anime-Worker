@@ -208,7 +208,7 @@ def scrape_movie_anime():
                     'img': el.select_one('div > a > img')['src'],
                     'date': el.select_one('p.released').text.replace('Released: ', '').strip()
                 })
-               scrape_anime_info(ids)
+                scrape_anime_info(ids)
 
             page_number += 1
 
