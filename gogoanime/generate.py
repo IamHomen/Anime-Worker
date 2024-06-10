@@ -5,6 +5,9 @@ import csv
 import os
 import psycopg2
 from dotenv import load_dotenv
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import db
 
 BASE_URL = 'https://anitaku.so'
 RECENT_SUB_URL = 'https://ajax.gogocdn.net/ajax/page-recent-release.html'
@@ -76,7 +79,7 @@ def scrape_popular_anime():
                     'img': el.select_one('div > a > img')['src'],
                     'date': el.select_one('p.released').text.replace('Released: ', '').strip()
                 })
-                #scrape_anime_info(ids)
+                scrape_anime_info(ids)
 
             page_number += 1
 
@@ -161,13 +164,14 @@ def scrape_newseason_anime():
                 break  # No more pages to scrape
 
             for el in soup.select('div.last_episodes > ul > li'):
+                ids = el.select_one('p.name > a')['href'].split('/')[2]
                 anime_list.append({
                     'id': el.select_one('p.name > a')['href'].split('/')[2],
                     'title': el.select_one('p.name > a').text,
                     'img': el.select_one('div > a > img')['src'],
                     'date': el.select_one('p.released').text.replace('Released: ', '').strip()
                 })
-                #scrape_anime_info(ids)
+                scrape_anime_info(ids)
 
             page_number += 1
 
@@ -197,13 +201,14 @@ def scrape_movie_anime():
                 break  # No more pages to scrape
 
             for el in soup.select('div.last_episodes > ul > li'):
+                ids = el.select_one('p.name > a')['href'].split('/')[2]
                 anime_list.append({
                     'id': el.select_one('p.name > a')['href'].split('/')[2],
                     'title': el.select_one('p.name > a').text,
                     'img': el.select_one('div > a > img')['src'],
                     'date': el.select_one('p.released').text.replace('Released: ', '').strip()
                 })
-                #scrape_anime_info(ids)
+               scrape_anime_info(ids)
 
             page_number += 1
 
@@ -217,6 +222,15 @@ def scrape_movie_anime():
     except Exception as e:
         print(e)
         return {'error': str(e)}
+        
+# Load Firebase service account key from environment variable
+service_account_info = json.loads(os.getenv('FIREBASE_SERVICE_ACCOUNT'))
+
+# Initialize the Firebase app
+cred = credentials.Certificate(service_account_info)
+firebase_admin.initialize_app(cred, {
+    'databaseURL': 'https://mrcain-12665-default-rtdb.firebaseio.com'
+})
 
 def scrape_anime_info(ids):
     try:
@@ -269,39 +283,26 @@ def scrape_anime_info(ids):
             'episodesList': epList,
         }
 
-        with open(f'./gogoanime/anime-info/{ids}.json', 'w') as json_file:
-            json.dump(anime_data, json_file, indent=2)
+        # Specify the reference where you want to upload the data
+          ref = db.reference(f'/anime-list/anime/info/{ids}')
+
+        # Upload the data
+          ref.set(anime_data)
+        
+       # with open(f'./gogoanime/anime-info/{ids}.json', 'w') as json_file:
+         #  json.dump(anime_data, json_file, indent=2)
 
         return anime_data
     except Exception as err:
         print(err)
         return {'error': str(err)}
 
-#def updateTable(val):
-
-    # Load JSON data from a file
-   # with open(f"./gogoanime/{val}.json", 'r') as json_file:
-        #data = json.load(json_file)
-
-    # Specify the CSV file path
-  #  csv_file_path = f"./gogoanime/csv/{val}.csv"
-
-    # Extract the keys from the first element to use as headers
-  #  keys = data[0].keys()
-
-    # Write the data to a CSV file
-#  with open(csv_file_path, 'w', newline='') as csv_file:
-        #writer = csv.DictWriter(csv_file, fieldnames=keys)
-       # writer.writeheader()
-       # writer.writerows(data)
-
-   # print('JSON data converted to CSV successfully.')
 scrape_top_anime(1)
 scrape_top_anime(2)
 scrape_top_anime(3)
 scrape_recent_sub_anime()
 scrape_trending_anime()
 scrape_popular_anime()
-scrape_anime_info('tsuki-ga-michibiku-isekai-douchuu-2nd-season')
+#scrape_anime_info('tsuki-ga-michibiku-isekai-douchuu-2nd-season')
 scrape_newseason_anime()
 scrape_movie_anime()
