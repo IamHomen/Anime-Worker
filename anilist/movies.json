@@ -272,18 +272,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 21400,
-    "title": "Kizumonogatari III: Reiketsu-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21400-1OpNcuEs7osA.png",
-    "seasonYear": 2017,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 142770,
     "title": "Suzume no Tojimari",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
     "seasonYear": 2022,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 21400,
+    "title": "Kizumonogatari III: Reiketsu-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21400-1OpNcuEs7osA.png",
+    "seasonYear": 2017,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
