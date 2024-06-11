@@ -1,5 +1,33 @@
 [
   {
+    "id": "jishu-seisaku-movie-binchou-tan",
+    "epId": "jishu-seisaku-movie-binchou-tan-episode-1",
+    "title": "Jishu Seisaku Movie Binchou-tan",
+    "img": "https://gogocdn.net/cover/jishu-seisaku-movie-binchou-tan.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "binchou-tan",
+    "epId": "binchou-tan-episode-11-12",
+    "title": "Binchou-tan",
+    "img": "https://gogocdn.net/cover/binchou-tan.png",
+    "episode": "Episode 11.12"
+  },
+  {
+    "id": "kidou-senshi-gundam-seed-freedom",
+    "epId": "kidou-senshi-gundam-seed-freedom-episode-1",
+    "title": "Kidou Senshi Gundam SEED Freedom",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-seed-freedom-1718073134.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
+    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-10",
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-10",
     "title": "Shinkalion: Change the World",
@@ -572,13 +600,6 @@
     "title": "Bakugan Battle Brawlers\t",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
     "episode": "Episode 15"
-  },
-  {
-    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
-    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-9",
-    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
-    "episode": "Episode 9"
   },
   {
     "id": "sasayaku-you-ni-koi-wo-utau",
@@ -2777,26 +2798,5 @@
     "title": "Kouryaku Wanted!: Isekai Sukuimasu!?",
     "img": "https://gogocdn.net/cover/kouryaku-wanted-isekai-sukuimasu.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi",
-    "epId": "keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi-episode-12",
-    "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
-    "img": "https://gogocdn.net/cover/keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi-1696008922.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "goblin-slayer-ii",
-    "epId": "goblin-slayer-ii-episode-12",
-    "title": "Goblin Slayer II",
-    "img": "https://gogocdn.net/cover/goblin-slayer-ii-1698295372.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "golgo-13-the-professional",
-    "epId": "golgo-13-the-professional-episode-1",
-    "title": "Golgo 13: The Professional",
-    "img": "https://gogocdn.net/cover/golgo-13-the-professional.png",
-    "episode": "Episode 1"
   }
 ]
