@@ -1,5 +1,19 @@
 [
   {
+    "id": "boukyaku-battery-tv",
+    "epId": "boukyaku-battery-tv-episode-9",
+    "title": "Boukyaku Battery (TV)",
+    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "unnamed-memory",
+    "epId": "unnamed-memory-episode-10",
+    "title": "Unnamed Memory",
+    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "yaneura-no-rudger",
     "epId": "yaneura-no-rudger-episode-1",
     "title": "Yaneura no Rudger",
@@ -560,24 +574,10 @@
     "episode": "Episode 9"
   },
   {
-    "id": "boukyaku-battery-tv",
-    "epId": "boukyaku-battery-tv-episode-8",
-    "title": "Boukyaku Battery (TV)",
-    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "rinkai",
     "epId": "rinkai-episode-9",
     "title": "Rinkai!",
     "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "unnamed-memory",
-    "epId": "unnamed-memory-episode-9",
-    "title": "Unnamed Memory",
-    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
     "episode": "Episode 9"
   },
   {
