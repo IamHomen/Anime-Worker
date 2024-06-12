@@ -1,5 +1,26 @@
 [
   {
+    "id": "toku-touken-ranbu-hanamaru-setsugetsuka",
+    "epId": "toku-touken-ranbu-hanamaru-setsugetsuka-episode-3",
+    "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
+    "img": "https://gogocdn.net/cover/toku-touken-ranbu-hanamaru-setsugetsuka.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "soukyuu-no-fafner-behind-the-line",
+    "epId": "soukyuu-no-fafner-behind-the-line-episode-1",
+    "title": "Soukyuu no Fafner: Behind the Line",
+    "img": "https://gogocdn.net/cover/soukyuu-no-fafner-behind-the-line-1718163126.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "saint-luminous-jogakuin",
+    "epId": "saint-luminous-jogakuin-episode-13",
+    "title": "Saint Luminous Jogakuin",
+    "img": "https://gogocdn.net/cover/saint-luminous-jogakuin.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "rinkai",
     "epId": "rinkai-episode-10",
     "title": "Rinkai!",
@@ -2776,27 +2797,6 @@
     "epId": "kibou-no-chikara-otona-precure-23-episode-12",
     "title": "Kibou no Chikara: Otona Precure '23",
     "img": "https://gogocdn.net/cover/kibou-no-chikara-otona-precure-23-1696009008.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "shadowverse-flame-seven-shadows-hen",
-    "epId": "shadowverse-flame-seven-shadows-hen-episode-25",
-    "title": "Shadowverse Flame: Seven Shadows-hen",
-    "img": "https://gogocdn.net/cover/shadowverse-flame-seven-shadows-hen.png",
-    "episode": "Episode 25"
-  },
-  {
-    "id": "hametsu-no-oukoku",
-    "epId": "hametsu-no-oukoku-episode-12",
-    "title": "Hametsu no Oukoku",
-    "img": "https://gogocdn.net/cover/hametsu-no-oukoku-1698300577.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kanojo-mo-kanojo-season-2",
-    "epId": "kanojo-mo-kanojo-season-2-episode-12",
-    "title": "Kanojo mo Kanojo Season 2",
-    "img": "https://gogocdn.net/cover/kanojo-mo-kanojo-season-2-1696008774.png",
     "episode": "Episode 12"
   }
 ]
