@@ -1,5 +1,26 @@
 [
   {
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-10",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "bartender-kami-no-glass",
+    "epId": "bartender-kami-no-glass-episode-11",
+    "title": "Bartender: Kami no Glass",
+    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-10",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "date-a-live-v",
     "epId": "date-a-live-v-episode-10",
     "title": "Date A Live V",
@@ -553,32 +574,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-9",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 9"
-  },
-  {
     "id": "short-peace",
     "epId": "short-peace-episode-1",
     "title": "Short Peace",
     "img": "https://gogocdn.net/cover/short-peace.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "bartender-kami-no-glass",
-    "epId": "bartender-kami-no-glass-episode-10",
-    "title": "Bartender: Kami no Glass",
-    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
-    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-9",
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
-    "episode": "Episode 9"
   },
   {
     "id": "shiyakusho",
