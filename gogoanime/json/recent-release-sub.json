@@ -1,5 +1,26 @@
 [
   {
+    "id": "date-a-live-v",
+    "epId": "date-a-live-v-episode-10",
+    "title": "Date A Live V",
+    "img": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "kaii-to-otome-to-kamikakushi",
+    "epId": "kaii-to-otome-to-kamikakushi-episode-10",
+    "title": "Kaii to Otome to Kamikakushi",
+    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "seiyuu-radio-no-uraomote",
+    "epId": "seiyuu-radio-no-uraomote-episode-10",
+    "title": "Seiyuu Radio no Uraomote",
+    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "toku-touken-ranbu-hanamaru-setsugetsuka",
     "epId": "toku-touken-ranbu-hanamaru-setsugetsuka-episode-3",
     "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
@@ -567,32 +588,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "date-a-live-v",
-    "epId": "date-a-live-v-episode-9",
-    "title": "Date A Live V",
-    "img": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "kaii-to-otome-to-kamikakushi",
-    "epId": "kaii-to-otome-to-kamikakushi-episode-9",
-    "title": "Kaii to Otome to Kamikakushi",
-    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 9"
-  },
-  {
     "id": "atashinchi-next",
     "epId": "atashinchi-next-episode-1",
     "title": "Atashin'chi NEXT",
     "img": "https://gogocdn.net/cover/atashinchi-next.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "seiyuu-radio-no-uraomote",
-    "epId": "seiyuu-radio-no-uraomote-episode-9",
-    "title": "Seiyuu Radio no Uraomote",
-    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
-    "episode": "Episode 9"
   },
   {
     "id": "himitsu-no-aipri",
