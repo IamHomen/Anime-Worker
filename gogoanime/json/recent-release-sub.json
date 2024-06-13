@@ -1,5 +1,19 @@
 [
   {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-10",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-112",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 112"
+  },
+  {
     "id": "kenka-dokugaku",
     "epId": "kenka-dokugaku-episode-10",
     "title": "Kenka Dokugaku",
@@ -595,25 +609,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-9",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 9"
-  },
-  {
     "id": "meitantei-conan-vs-wooo",
     "epId": "meitantei-conan-vs-wooo-episode-2",
     "title": "Meitantei Conan vs. Wooo",
     "img": "https://gogocdn.net/cover/meitantei-conan-vs-wooo.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "yugioh-go-rush",
-    "epId": "yugioh-go-rush-episode-111",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 111"
   },
   {
     "id": "haai-step-jun",
