@@ -1,5 +1,957 @@
 [
   {
+    "mangaId": "d00bd104-d9b2-4ee9-a088-b5065d1c406a",
+    "title": {
+      "en": "To Aru Kagaku no Railgun"
+    },
+    "updatedAt": "2024-04-01T15:54:51+00:00",
+    "coverArt": "https://mangadex.org/covers/d00bd104-d9b2-4ee9-a088-b5065d1c406a/d9267aac-84e3-411a-bf06-a7a4d763e456.jpg",
+    "altTitles": [
+      {
+        "en": "A Certain Scientific Railgun"
+      },
+      {
+        "id": "Seorang Railgun Ilmiah"
+      },
+      {
+        "ja-ro": "To Aru Kagaku no Choudenjibou"
+      },
+      {
+        "ja-ro": "Toaru Kagaku no Choudenjihou"
+      },
+      {
+        "ja-ro": "Toaru Kagaku no Railgun"
+      },
+      {
+        "ja-ro": "Toaru Majutsu no Index Gaiden: Toaru Kagaku no Railgun"
+      },
+      {
+        "es": "Un cierto ca\u00f1\u00f3n de riel cient\u00edfico"
+      },
+      {
+        "ru": "\u041d\u0435\u043a\u0438\u0439 \u043d\u0430\u0443\u0447\u043d\u044b\u0439 \u0420\u0435\u0439\u043b\u0433\u0430\u043d"
+      },
+      {
+        "th": "\u0e40\u0e23\u0e25\u0e01\u0e31\u0e19 \u0e41\u0e1f\u0e49\u0e21\u0e25\u0e31\u0e1a\u0e04\u0e14\u0e35\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"
+      },
+      {
+        "ja": "\u3068\u3042\u308b\u79d1\u5b66\u306e\u8d85\u96fb\u78c1\u7832"
+      },
+      {
+        "ja": "\u3068\u3042\u308b\u9b54\u8853\u306e\u7981\u66f8\u76ee\u9332\u5916\u4f1d \u3068\u3042\u308b\u79d1\u5b66\u306e\u8d85\u96fb\u78c1\u7832"
+      },
+      {
+        "zh": "\u67d0\u79d1\u5b66\u7684\u8d85\u7535\u78c1\u70ae"
+      },
+      {
+        "ko": "\uc5b4\ub5a4 \uacfc\ud559\uc758 \ucd08\uc804\uc790\ud3ec"
+      },
+      {
+        "zh-hk": "\u67d0\u79d1\u5b78\u7684\u8d85\u96fb\u78c1\u70ae"
+      },
+      {
+        "zh-hk": "\u79d1\u5b78\u8d85\u96fb\u78c1\u7832"
+      },
+      {
+        "zh": "\u79d1\u5b66\u8d85\u7535\u78c1\u70ae"
+      },
+      {
+        "zh-hk": "\u79d1\u5b78\u8d85\u96fb\u78c1\u7832 (Classical Chinese)"
+      },
+      {
+        "uk": "\u041f\u0435\u0432\u043d\u0438\u0439 \u043d\u0430\u0443\u043a\u043e\u0432\u0438\u0439 \u0420\u0435\u0439\u043b\u0433\u0430\u043d"
+      },
+      {
+        "de": "Eine gewisse wissenschaftliche Railgun"
+      },
+      {
+        "it": "Una certa scientifica railgun"
+      },
+      {
+        "tr": "Belli Bir Bilimsel Elektromanyetik Silah"
+      }
+    ],
+    "description": {
+      "en": "Welcome to a world where mysticism and science collide, and supernatural powers are derived from either science or religion. At the heart of this world is Academy City, an advanced metropolis whose population is comprised mostly of students The majority of students are enrolled in the city's \"Power Curriculum Program,\" where they must learn to master their latent psychic powers. Out of several million students, only seven are deemed powerful enough to have Level 5 status.\r\n\r\nMeet Mikoto Misaka, the third most powerful Level 5 ESPer in Academy City. Together with her best friends Kuroko Shirai and the other members of Judgment, a student-run law enforcement agency, Mikoto delves deep into the dark heart of the scientific sprawl she calls home, and uncovers secrets she wishes she hadn't!",
+      "ru": "\u0413\u0434\u0435-\u0442\u043e \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0430\u0445 \u042e\u0436\u043d\u043e\u0439 \u042f\u043f\u043e\u043d\u0438\u0438 \u0440\u0430\u0441\u043a\u0438\u043d\u0443\u043b\u0441\u044f \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u044f \u0421\u0438\u0442\u0438 - \u0433\u043e\u0440\u043e\u0434, \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0443\u0447\u0430\u0442\u0441\u044f \u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0432 \u0448\u043a\u043e\u043b\u0430\u0445 \u044e\u043d\u044b\u0445 \u044d\u0441\u043f\u0435\u0440\u043e\u0432. \u041e\u0431\u043b\u0430\u0434\u0430\u0442\u0435\u043b\u0438 \u043f\u0430\u0440\u0430\u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0435\u0439 \u0432 \u043f\u043e\u0442\u0435 \u043b\u0438\u0446\u0430 \u0442\u0440\u0443\u0434\u044f\u0442\u0441\u044f, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0437\u043d\u0430\u0442\u044c \u0441\u0432\u043e\u0439 \u0434\u0430\u0440 \u0438 \u043f\u043e\u0434\u043d\u044f\u0442\u044c \u0432\u043b\u0430\u0434\u0435\u043d\u0438\u0435 \u0438\u043c \u043d\u0430 \u043d\u043e\u0432\u0443\u044e \u0432\u044b\u0441\u043e\u0442\u0443. \u0413\u043e\u0440\u0434\u043e\u0441\u0442\u044c \u0448\u043a\u043e\u043b\u044b \u0422\u043e\u043a\u0438\u0432\u0430\u0434\u0430\u0439 \u0438 \u0432\u0441\u0435\u0433\u043e \u0433\u043e\u0440\u043e\u0434\u0430? \u041c\u0438\u0441\u0430\u043a\u0430 \u041c\u0438\u043a\u043e\u0442\u043e \u2013 \u0442\u0440\u0435\u0442\u044c\u044f \u043f\u043e \u0441\u0438\u043b\u0435 \u0441\u0440\u0435\u0434\u0438 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u043c\u0438\u0440\u0443 \u044d\u0441\u043f\u0435\u0440\u043e\u0432 \u0432\u044b\u0441\u0448\u0435\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f. \u0423 \u00ab\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u044b\u00bb \u043c\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0445 \u0443\u043c\u0435\u043d\u0438\u0439, \u043e\u0434\u043d\u043e \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u2013 \u0440\u0443\u0447\u043d\u043e\u0439 \u0440\u0435\u0439\u043b\u0433\u0430\u043d, \u0442\u043e \u0435\u0441\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0441\u0432\u043e\u0438\u043c\u0438 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u043c\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0440\u0430\u0437\u043e\u0433\u043d\u0430\u0442\u044c \u043c\u043e\u043d\u0435\u0442\u043a\u0443 \u0433\u0434\u0435-\u0442\u043e \u0434\u043e \u0442\u0440\u0435\u0445 \u041c\u0430\u0445\u043e\u0432 (\u043d\u0430 \u0434\u0440\u0443\u0433\u043e\u043c \u043a\u043e\u043d\u0446\u0435 \u0442\u0440\u0430\u0435\u043a\u0442\u043e\u0440\u0438\u0438 \u0441\u0442\u043e\u044f\u0442\u044c \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f). \u041d\u043e \u0432\u0441\u0435\u0445 \u0443\u0441\u0438\u043b\u0438\u0439 \u041c\u0438\u043a\u043e\u0442\u043e \u043f\u043e\u043a\u0430 \u043d\u0435 \u0445\u0432\u0430\u0442\u0430\u0435\u0442 \u0434\u043b\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0434\u0432\u0443\u0445 \u043d\u0430\u0441\u0443\u0449\u043d\u044b\u0445 \u0437\u0430\u0434\u0430\u0447: \u043e\u0442\u0431\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u044e\u0440\u0438\u0439\u043d\u044b\u0445 \u0434\u043e\u043c\u043e\u0433\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432 \u0441\u0432\u043e\u0435\u0439 \u043f\u043e\u0434\u0440\u0443\u0433\u0438 \u0421\u0438\u0440\u0430\u0439 \u041a\u0443\u0440\u043e\u043a\u043e \u0438 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0441 \u043d\u0430\u0433\u043b\u044b\u043c \u043f\u0430\u0440\u043d\u0435\u043c \u043f\u043e \u0438\u043c\u0435\u043d\u0438 \u041a\u0430\u043c\u0438\u0434\u0437\u0451 \u0422\u043e\u043c\u0430!\r\n\r\n\r\n---"
+    },
+    "status": "ongoing",
+    "releaseDate": 2007,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "bbc06354-a4ab-4f44-bb0a-db2e3a58d57c",
+    "title": {
+      "en": "Tsukushitagari na Uchi no Yome ni Tsuite Derete mo Ii ka"
+    },
+    "updatedAt": "2024-02-24T20:13:39+00:00",
+    "coverArt": "https://mangadex.org/covers/bbc06354-a4ab-4f44-bb0a-db2e3a58d57c/68a02bc5-51c3-409b-895f-e0b5f23ef65a.jpg",
+    "altTitles": [
+      {
+        "ja": "\u5c3d\u304f\u3057\u305f\u304c\u308a\u306a\u3046\u3061\u306e\u5ac1\u306b\u3064\u3044\u3066\u30c7\u30ec\u3066\u3082\u3044\u3044\u304b\uff1f"
+      },
+      {
+        "en": "Can I Brag About My Very Devoted Wife To You?"
+      },
+      {
+        "zh-hk": "\u6211\u53ef\u4ee5\u5c0d\u7121\u6bd4\u8ce2\u60e0\u7684\u59bb\u5b50\u6492\u5b0c\u55ce\uff1f"
+      },
+      {
+        "en": "Can I Be Loving Towards My Wife Who Wants To Do All Kinds Of Things?"
+      },
+      {
+        "pt-br": "Posso amar minha esposa que quer fazer todo tipo de coisa?"
+      },
+      {
+        "en": "We Started A So Sweet Newlywed Life"
+      }
+    ],
+    "description": {
+      "en": "There's the flower of Takamine High, Hanae Riko, whom every boy admires. Then, there's the plain boy, Niiyama Minato, who got proposed to by that most beautiful girl in school. Without knowing what's happening, the curtain on their newlywed life rises! For some reason, my bride, who's too cute and happily follows me around everywhere, refuses to leave my side...",
+      "ja": "\u300c\u308f\u3001\u79c1\u3092\u2026\u2026\u3063\u3001\u3042\u306a\u305f\u306e\u304a\u5ac1\u3055\u3093\u306b\u3057\u3066\u304f\u308c\u307e\u305b\u3093\u304b\u2026\u2026\uff1f\u300d\u3000\u5b66\u5712\u4e00\u306e\u7f8e\u5c11\u5973\u30fb\u82b1\u6c5f\u308a\u3053\u306b\u9006\u30d7\u30ed\u30dd\u30fc\u30ba\u3055\u308c\u3001\u308f\u3051\u306e\u308f\u304b\u3089\u306a\u3044\u3046\u3061\u306b\u3001\u308a\u3053\u3068\u306e\u5171\u540c\u751f\u6d3b\u3092\u59cb\u3081\u305f\u4ffa\u3002\u3060\u3051\u3069\u3001\u3046\u306c\u307c\u308c\u3066\u306f\u3044\u3051\u306a\u3044\u3002\u3053\u308c\u306f\u5951\u7d04\u7d50\u5a5a\u3002\u2015\u2015\u305d\u306e\u306f\u305a\u306a\u306e\u306b\u3001\u300c\u306a\u3093\u3067\u305d\u3093\u306a\u5c3d\u304f\u3057\u3066\u304f\u308c\u308b\u3093\u3060\uff1f\u300d\u3068\u5c0b\u306d\u305f\u3089\u3001\u5f7c\u5973\u306f\u3080\u3046\u3063\u3068\u982c\u3092\u81a8\u3089\u307e\u305b\u3066\u300c\u6e4a\u4eba\u304f\u3093\u3001\u30cb\u30d6\u3059\u304e\u3060\u3088\u2026\u2026\u300d\u3068\u8a00\u3063\u3066\u304d\u305f\u3002\u3048\u2026\u2026\u4ffa\u305f\u3061\u304c\u3057\u305f\u306e\u3063\u3066\u5951\u7d04\u7d50\u5a5a\u3067\u3044\u3044\u3093\u3060\u3088\u306a\u2026\u2026\uff1f\u3000\u4ea4\u969b\u30bc\u30ed\u65e5\u5a5a\u304b\u3089\u306f\u3058\u307e\u308b\u3001\u3072\u305f\u3059\u3089\u5e78\u305b\u306a\u3060\u3051\u306e\u4e21\u7247\u60f3\u3044\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc\u2606\n\n\"Wa, watashi o\u2026\u2026 ~tsu, anata no o yomesan ni shite kuremasen ka\u2026\u2026?\" Gakuen ichi no bish\u014djo Hanae Riko ni gyaku purop\u014dzu sa re, wake no wakaranai uchi ni, Riko to no ky\u014dd\u014d seikatsu o hajimeta ore. Dakedo, unuborete wa ikenai. Kore wa keiyaku kekkon.\u2015\u2015 Sono hazunanoni, \"nande son'na tsukushite kureru nda?\" To tazunetara, kanojo wa m\u016b tto hoho o fukurama sete \"Minato hito-kun, Nibu-sugida yo\u2026\u2026\" to itte kita. E\u2026\u2026 oretachi ga shita no tte keiyaku kekkonde \u012b nda yo na\u2026\u2026? K\u014dsai zero-nichi kon kara hajimaru, hitasura shiawasena dake no ry\u014d kataomoi rabusut\u014dr\u012b \u2606",
+      "pt-br": "Hanae Riko, a garota mais bonita da Takamine High, que todo garoto admira. Niiyama Minato, um garoto simples, que foi proposto em casamento por essa mesma garota. Sem saber o que est\u00e1 acontecendo, as cortinas de sua vida de rec\u00e9m-casados \u200b\u200bsobem! Por alguma raz\u00e3o, minha noiva, que \u00e9 muito fofa e me segue alegremente por toda parte, se recusa a sair do meu lado..."
+    },
+    "status": "completed",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "3",
+    "lastChapter": "33"
+  },
+  {
+    "mangaId": "911f2f01-9718-4a42-8e2a-1b684b695cba",
+    "title": {
+      "en": "303-Goushitsu no Kami-sama"
+    },
+    "updatedAt": "2024-05-26T04:57:53+00:00",
+    "coverArt": "https://mangadex.org/covers/911f2f01-9718-4a42-8e2a-1b684b695cba/9a9d4de0-a761-4c38-be77-e96db736db4c.jpg",
+    "altTitles": [
+      {
+        "ja": "303\u53f7\u5ba4\u306e\u795e\u3055\u307e"
+      },
+      {
+        "ja": "\u795e\u69d8\u3067\u3059\u3002\u30b5\u30fc\u30d3\u30b9\u3059\u308b\u3088"
+      },
+      {
+        "ja": "\u795e\u69d8\u3068\u9670\u6c17\u306a\u5c11\u5e74"
+      },
+      {
+        "ja-ro": "Kami-sama desu. Service suru yo."
+      },
+      {
+        "ja-ro": "Kami-sama to Inki na Shounen"
+      },
+      {
+        "en": "The God of Room 303"
+      },
+      {
+        "en": "I'm a God. I'll serve you."
+      },
+      {
+        "en": "God and the Gloomy Boy"
+      },
+      {
+        "vi": "V\u1ecb th\u1ea7n \u1edf ph\u00f2ng 303"
+      },
+      {
+        "vi": "T\u00f4i l\u00e0 m\u1ed9t v\u1ecb th\u1ea7n. T\u00f4i s\u1ebd gi\u00fap b\u1ea1n"
+      },
+      {
+        "vi": "Th\u1ea7n v\u00e0 c\u1eadu b\u00e9 u \u00e1m"
+      },
+      {
+        "es-la": "La Diosa de la habitaci\u00f3n 303"
+      },
+      {
+        "ru": "\u0411\u043e\u0433\u0438\u043d\u044f \u043a\u043e\u043c\u043d\u0430\u0442\u044b 303"
+      },
+      {
+        "id": "Dewa di Ruangan 303"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "ad59c8bb-e645-41d2-bc16-65b1b94cafd6",
+    "title": {
+      "en": "Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life"
+    },
+    "updatedAt": "2024-03-25T15:07:19+00:00",
+    "coverArt": "https://mangadex.org/covers/ad59c8bb-e645-41d2-bc16-65b1b94cafd6/8d662c31-8ae2-45c3-824c-dd7ec62f11cc.jpg",
+    "altTitles": [
+      {
+        "en": "Country Building Story in Another World with the Pioneering Village in His Palm: Easy Life on the Uninhabited Island with His Ever Increasing Wives"
+      },
+      {
+        "en": "Foundation of a State in Another World With a Hand-Built Colony Village: Carefree Life on an Uninhabitated Island With an Increasing Number of Brides"
+      },
+      {
+        "ja": "Tenohira Kaitakumura de Isekai Kenkouki: Fueteku Yome-tachi to Nonbiri Mujintou Raifu"
+      },
+      {
+        "en": "With Single Palm Founding a Pioneering Village a in Another World: Live With The Married Girls in Uninhabited Island Life"
+      },
+      {
+        "ja": "\u3066\u306e\u3072\u3089\u958b\u62d3\u6751\u3067\u7570\u4e16\u754c\u5efa\u56fd\u8a18\u301c\u5897\u3048\u3066\u304f\u5ac1\u305f\u3061\u3068\u306e\u3093\u3073\u308a\u7121\u4eba\u5cf6\u30e9\u30a4\u30d5\u301c"
+      },
+      {
+        "en": "Tenohira Pioneer Village"
+      },
+      {
+        "zh": "\u5728\u638c\u4e2d\u5f00\u62d3\u6751\u7684\u5f02\u4e16\u754c\u5efa\u56fd\u8bb0"
+      },
+      {
+        "ja-ro": "Tenohira Kaitaku Mura de Isekai Kenkoku-ki: Fuete ku Yome-tachi to Nonbiri Mujint\u014d Life"
+      },
+      {
+        "zh-hk": "\u5728\u638c\u4e2d\u958b\u62d3\u6751\u7684\u7570\u4e16\u754c\u5efa\u570b\u8a18"
+      }
+    ],
+    "description": {
+      "en": "Kai, a sickly kid, wished for a lively normal life on his deathbed when he was suddenly reincarnated into another world. Not only the boy\u2019s wishes were fulfilled, he was also gifted an ability to be a god of his own little world at the back of his palm. Yet such bliss did not last long\u2026  \n  \nKai was abruptly separated from his loving adopted family and banished into an uninhabited island teeming with dangerous creatures. Using his ingenious wit and a help from a mysterious horned girl, Kai managed to survive and establish a small foothold with his army of cute stubby helpers.  \n  \nWatch as Kai tries to further tame this wilderness, building up his sanctuary and harem. Easy living!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2018,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "ba63a244-df02-4661-8acc-878243d26d53",
+    "title": {
+      "en": "Boy-Friend's Rule"
+    },
+    "updatedAt": "2024-04-06T23:50:18+00:00",
+    "coverArt": "https://mangadex.org/covers/ba63a244-df02-4661-8acc-878243d26d53/50e0bee7-0ccd-45b5-b38c-fe734f1faa57.jpg",
+    "altTitles": [
+      {
+        "ko": "\ub0a8\uc0ac\uce5c\uc758 \ubc95\uce59"
+      },
+      {
+        "zh": "\u7537\u95fa\u871c\u51c6\u5219"
+      },
+      {
+        "zh-hk": "\u7d14\u53cb\u8abc\u6cd5\u5247"
+      },
+      {
+        "en": "The Law Of Being Friends With A Male"
+      },
+      {
+        "en": "Boyfriend's Rule"
+      },
+      {
+        "ko-ro": "Namsachin-ui Beobchig"
+      },
+      {
+        "ja": "\u7537\u53cb\u9054\u3063\u3066\u5f7c\u6c0f\u306b\u306a\u308c\u308b?"
+      },
+      {
+        "ko-ro": "Namsachin-ui Beopchik"
+      },
+      {
+        "en": "Boy-Friend's Rule"
+      }
+    ],
+    "description": {
+      "en": "Jay is a guy that wanted to talk with his friend about their secret crushes, When Jay was about to confess who he has a crush on, his friend Jiwoon, who\u2019s crush is actually towards Jay, was hopefull that Jay was going to confess his feelings towards her. But she felt shocked when she learned that actually Jay\u2019s crush was someone else, after that, Jay asked her about her crush, Jiwoon tried to avoid the question and gave him a vague description which caused a misunderstanding that his crush was actually towards Jay\u2019s friend Seohyun. She and Jay are just good friends without anything romantic going on between them, The way Jay interacts with her is just in a friendly manner and tries to help her to get her \u201ccrush\u201d\u2026.Let the romantic drama begin at school!",
+      "fr": "La premi\u00e8re romance de Jiun s'est termin\u00e9e lorsque son b\u00e9guin, Jae-i, lui avoue qu'il aime quelqu'un d'autre. Pour aggraver les choses, Jae-i croit \u00e0 tort que le b\u00e9guin de Jiun est son effrayant meilleur ami, Seohyeon, et il tente de l'aider \u00e0 gagner le c\u0153ur de celui-ci. Maintenant, Jiun doit faire face \u00e0 un plus gros probl\u00e8me qu'un amour \u00e0 sens unique, le petit-copain qu'elle n'a jamais imagin\u00e9 se rapprocher.",
+      "ko": "\ub0a8\ubab0\ub798 '\uc7ac\uc774'\ub97c \uc9dd\uc0ac\ub791\ud574\uc628 '\uc9c0\uc6b4'.  \uc7ac\uc774\uac00 \uc790\uc2e0\uc5d0\uac8c \uace0\ubc31\ud560 \uc904 \uc54c\uc558\ub358 \uc9c0\uc6b4\uc740, \uc7ac\uc774\uc758 \uc9dd\uc0ac\ub791 \uc0c1\ub300\uac00 \ub2e4\ub978 \uc0ac\ub78c\uc774\ub77c\ub294 \uc0ac\uc2e4\uc744 \uc54c\uace0\ub294 \uc815\uc2e0\uc774 \uc544\ub4dd\ud574\uc9c4\ub2e4. \n\uc9dd\uc0ac\ub791\uc774 \ud5c8\ubb34\ud558\uac8c \ub05d\ub0ac\ub2e4\uace0 \uc0dd\uac01\ud568\uacfc \ub3d9\uc2dc\uc5d0, \uc7ac\uc774\uac00 \uc790\uc2e0\uc758 \uc9dd\uc0ac\ub791 \uc0c1\ub300\ub97c '\uc11c\ud604'\uc774\ub77c\uace0 \ucc29\uac01\ud558\uace0 \uc788\ub2e4\ub294 \uac78 \uc54c\uac8c \ub41c\ub2e4. \n\uadf8\uc800 \uc7ac\uc774\uc758 \ud0a4 \ud06c\uace0 \ub369\uce58 \ud070 \uce5c\uad6c \uc911 \ud558\ub098\uc77c \ubfd0\uc778, \ub9d0 \uadf8\ub300\ub85c \ub0a8\uc790\uc778 \uc0ac\ub78c \uce5c\uad6c\uc77c \ubfd0\uc778 \uc11c\ud604\uacfc \uc790\uc2e0\uc744 \uc774\uc5b4\uc8fc\ub824\ub294 \uc7ac\uc774\uc758 \ud589\ub3d9\uc5d0 \ud574\ud0c8\ud558\uace0 \ub9c8\ub294\ub370..."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "66b0511a-528c-43de-b572-a7ff7a30ebd9",
+    "title": {
+      "en": "Cool na Doukyuusei no \u25ef\u25ef Nengo\u2026"
+    },
+    "updatedAt": "2024-04-06T08:50:53+00:00",
+    "coverArt": "https://mangadex.org/covers/66b0511a-528c-43de-b572-a7ff7a30ebd9/4f5ebead-fa60-449d-9c6c-e0034e5b1df7.png",
+    "altTitles": [
+      {
+        "ja-ro": "Cool na Doukyuusei no \u25ef\u25ef Nengo\u2026"
+      },
+      {
+        "ja": "\u30af\u30fc\u30eb\u306a\u540c\u7d1a\u751f\u306e\u25ef\u25ef\u5e74\u5f8c..."
+      },
+      {
+        "en": "The Cool Classmate XX Years Later..."
+      },
+      {
+        "en": "The Cool Classmate \u25ef\u25ef Years Later..."
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "a8a0d3f9-eeb1-466d-925d-e89249e4ec8e",
+    "title": {
+      "en": "Douse Suterareru no nara, Saigo ni Suki ni Sasete Itadakimasu"
+    },
+    "updatedAt": "2024-04-28T04:37:48+00:00",
+    "coverArt": "https://mangadex.org/covers/a8a0d3f9-eeb1-466d-925d-e89249e4ec8e/d0253fb7-4cf5-4864-a3f1-afd1682d361f.jpg",
+    "altTitles": [
+      {
+        "ja": "\u3069\u3046\u305b\u6368\u3066\u3089\u308c\u308b\u306e\u306a\u3089\u3001\u6700\u5f8c\u306b\u597d\u304d\u306b\u3055\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059"
+      },
+      {
+        "en": "With a Strong-Willed Marchioness, Prince Yandere's Love Offensive"
+      },
+      {
+        "en": "Before You Discard Me, I Shall Have My Way With You"
+      },
+      {
+        "es-la": "Si de todos modos vas a dejarme, har\u00e9 que me ames hasta el final"
+      }
+    ],
+    "description": {
+      "en": "Agne\u0300s has been engaged in an arranged, political engagement with Lucile since childhood and fell in love with him upon meeting him. Lucile however does not return these feelings and sees the marriage as purely political. Now adults, Lucile wishes to break off engagements and marry the one he truly loves, Agne\u0300s however will not go down so easily.",
+      "ja": "\u4faf\u7235\u4ee4\u5b22\u30a2\u30cb\u30a8\u30b9\u306f\u3001\u9577\u5e74\u306e\u7247\u604b\u306e\u76f8\u624b\u3067\u3042\u308a\u5a5a\u7d04\u8005\u3067\u3042\u308b\u738b\u592a\u5b50\u30fb\u30ea\u30e5\u30b7\u30ea\u30e5\u30fc\u30eb\u306b\u5a5a\u7d04\u7834\u68c4\u3092\u544a\u3052\u3089\u308c\u308b\u3002\u5f7c\u306e\u96a3\u306b\u306f\u604b\u6575\u306e\u59ff\u304c\u3002\u3069\u3046\u305b\u611b\u3055\u308c\u308b\u3053\u3068\u306f\u306a\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u6368\u3066\u3089\u308c\u8650\u3052\u3089\u308c\u308b\u3053\u3068\u3057\u304b\u306a\u3044\u306e\u3067\u3042\u308c\u3070\u3001\u3060\u3063\u305f\u3089\u6700\u5f8c\u306b\u2026\u2026\u3002\u5bb6\u3092\u3001\u305d\u3057\u3066\u81ea\u3089\u306e\u81ea\u7531\u3068\u77dc\u6301\u3092\u5b88\u308b\u305f\u3081\u306b\u53d6\u3063\u305f\u3042\u308b\u3068\u3093\u3067\u3082\u306a\u3044\u884c\u52d5\u3067\u3001\u3057\u304b\u3057\u4f55\u6545\u304b\u30a2\u30cb\u30a8\u30b9\u306f\u30ea\u30e5\u30b7\u30ea\u30e5\u30fc\u30eb\u306b\u57f7\u7740\u3055\u308c\u3066\u3057\u307e\u3046\u3002\u610f\u5730\u3063\u5f35\u308a\u3067\u7d20\u76f4\u306b\u306a\u308c\u306a\u3044\u4e8c\u4eba\u306e\u3001\u7e3a\u308c\u306b\u7e3a\u308c\u305f\u604b\u306e\u884c\u65b9\u306f\u2026\u2026\u2015\u2015\uff1f\u6c17\u304c\u5f37\u3044\u4faf\u7235\u4ee4\u5b22\u00d7\u62d7\u3089\u305b\u30e4\u30f3\u30c7\u30ec\u738b\u592a\u5b50\u3001\u610f\u5730\u3063\u5f35\u308a\u306a\u4e8c\u4eba\u306e\u3059\u308c\u9055\u3044\u30e9\u30d6\u30ed\u30de\u30f3\u30b9\u3002"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "9308cb58-bff6-49fd-bd4f-84f51053c2ae",
+    "title": {
+      "en": "Masochist Gal Himekawa-san"
+    },
+    "updatedAt": "2024-01-22T01:16:30+00:00",
+    "coverArt": "https://mangadex.org/covers/9308cb58-bff6-49fd-bd4f-84f51053c2ae/e8727388-c5d3-4efd-9d4a-530648580b1d.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30c9M\u30ae\u30e3\u30eb\u306e\u59eb\u5ddd\u3055\u3093\u2661"
+      },
+      {
+        "ja-ro": "Do M Gyaru no Himekawa-san\u2661"
+      },
+      {
+        "ja": "\u59eb\u5ddd\u3055\u3093\u306f\u5148\u8f29\u3057\u3085\u304d\u3057\u3085\u304d\u30c9\u041c\u30ae\u30e3\u30eb"
+      },
+      {
+        "ja-ro": "Himekawa-san wa Senpai shi Kishuki do Gyaru"
+      }
+    ],
+    "description": {
+      "en": "**Links:**\n- Alternative Official Raw - [Pixiv](https://www.pixiv.net/user/18815611/series/196159) ([Chapter 23](https://www.pixiv.net/artworks/113234053) isn't in the Pixiv series, but was still uploaded to Pixiv.)"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "b346e693-afb9-499f-bbc7-c8d8750b25a0",
+    "title": {
+      "en": "Digimon World Re:Digitize Encode"
+    },
+    "updatedAt": "2024-03-07T17:49:21+00:00",
+    "coverArt": "https://mangadex.org/covers/b346e693-afb9-499f-bbc7-c8d8750b25a0/a2743b2a-8f96-43bd-8bd9-81fa5b0e1b2b.jpg",
+    "altTitles": [
+      {
+        "ar": "\u0639\u0627\u0644\u0645 \u0627\u0644\u062f\u064a\u062c\u064a\u0645\u0648\u0646: \u0627\u0644\u0627\u0639\u0627\u062f\u0629 \u0627\u0644\u0631\u0642\u0645\u064a\u0629 :\u0627\u064a\u0646\u0643\u0648\u062f"
+      },
+      {
+        "ja": "\u30c7\u30b8\u30e2\u30f3\u30ef\u30fc\u30eb\u30c9 Re:Digitize Encode"
+      },
+      {
+        "ja": "\u30c7\u30b8\u30e2\u30f3\u30ef\u30fc\u30eb\u30c9 \u30ea:\u30c7\u30b8\u30bf\u30a4\u30ba\u30a8\u30f3\u30b3\u30fc\u30c9"
+      }
+    ],
+    "description": {},
+    "status": "hiatus",
+    "releaseDate": 2013,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "a4d7fa70-fbf8-4ff6-92a2-db382fd180e5",
+    "title": {
+      "en": "THE Runway"
+    },
+    "updatedAt": "2023-11-30T17:49:03+00:00",
+    "coverArt": "https://mangadex.org/covers/a4d7fa70-fbf8-4ff6-92a2-db382fd180e5/a3c3a81d-d39b-439e-a8a9-c92ca2bce201.png",
+    "altTitles": [
+      {
+        "ko": "THE \ub7f0\uc6e8\uc774"
+      }
+    ],
+    "description": {
+      "en": "I had a one-night stand with my boss?!\nJian Yoo is an editor at a fashion magazine. She frantically ran to Paris after hearing that her boyfriend is two-timing.\nNot knowing better, she made a rash decision to sleep with a stranger she had just met there\u2026\nThree months later, the editor-in-chief of Jian\u2019s company flew in from their headquarters in France. However, that man\u2026. turned out to be the one Jian spent the night with!!",
+      "ko": "\ud558\ub8fb\ubc24\uc744 \uac19\uc774 \ubcf4\ub0b8 \uadf8 \ub0a8\uc790\uac00 \ub0b4 \uc0c1\uc0ac\ub77c\uace0?!\n\ud328\uc158\uc9c0 \uc758 \uc5d0\ub514\ud130 \uc720\uc9c0\uc548. \uadf8\ub140\ub294 \uc57d\ud63c\uc790\uc758 \uc591\ub2e4\ub9ac \uc18c\uc2dd\uc5d0 \ubb34\uc791\uc815 \ud30c\ub9ac\ub85c \ub5a0\ub09c\ub2e4.\n\uadf8\uacf3\uc5d0\uc11c \uc6b0\uc5f0\ud788 \ub9cc\ub09c \ub0a8\uc790\uc640 \ucda9\ub3d9\uc801\uc73c\ub85c \ud558\ub8fb\ubc24\uc744 \ubcf4\ub0b4 \ubc84\ub9ac\uace0\u2026\n3\uac1c\uc6d4\uc758 \uc2dc\uac04\uc774 \ud750\ub978 \ud6c4, \uc9c0\uc548\uc758 \ud68c\uc0ac\uc5d0 \ub9cc\ub819\uc758 \ud3b8\uc9d1\uc7a5\uc774 \ud504\ub791\uc2a4\uc5d0\uc11c \uc624\uac8c \ub41c\ub2e4. \uadf8\ub7f0\ub370 \uadf8 \ub0a8\uc790\u2026 \ubc14\ub85c \uc9c0\uc548\uacfc \ud558\ub8fb\ubc24\uc744 \ubcf4\ub0b8 \ud504\ub791\uc2a4\uc5d0\uc11c\uc758 \uadf8 \ub0a8\uc790\ub2e4!!",
+      "vi": "T\u00f4i \u0111\u00e3 c\u00f3 t\u00ecnh m\u1ed9t \u0111\u00eam v\u1edbi s\u1ebfp c\u1ee7a m\u00ecnh ?! Jian Yoo l\u00e0 bi\u00ean t\u1eadp vi\u00ean c\u1ee7a m\u1ed9t t\u1ea1p ch\u00ed th\u1eddi trang. C\u00f4 r\u1ea5t hay ch\u1ea1y \u0111\u1ebfn Paris sau khi nghe tin b\u1ea1n trai c\u1ee7a m\u00ecnh ngo\u1ea1i t\u00ecnh. Kh\u00f4ng bi\u1ebft l\u00e0m g\u00ec h\u01a1n, c\u00f4 \u1ea5y \u0111\u00e3 quy\u1ebft \u0111\u1ecbnh ng\u1ee7 v\u1edbi m\u1ed9t ng\u01b0\u1eddi l\u1ea1 m\u00e0 c\u00f4 \u1ea5y m\u1edbi g\u1eb7p \u1edf \u0111\u00f3\u2026Ba th\u00e1ng sau, t\u1ed5ng bi\u00ean t\u1eadp c\u1ee7a c\u00f4ng ty m\u00e0 Jian l\u00e0m vi\u1ec7c bay \u0111\u1ebfn t\u1eeb tr\u1ee5 s\u1edf ch\u00ednh c\u1ee7a h\u1ecd \u1edf Ph\u00e1p. Tuy nhi\u00ean, ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u00f3\u2026. h\u00f3a ra l\u00e0 ng\u01b0\u1eddi m\u00e0 Jian \u0111\u00e3 qua \u0111\u00eam c\u00f9ng!!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "cd32f281-8e4f-4c83-8d5a-0af816087683",
+    "title": {
+      "en": "The Ghost and the Exhausted Office Worker"
+    },
+    "updatedAt": "2024-05-25T01:52:42+00:00",
+    "coverArt": "https://mangadex.org/covers/cd32f281-8e4f-4c83-8d5a-0af816087683/aa7c8cdf-f75e-43ec-80b7-e83ccf25316d.jpg",
+    "altTitles": [
+      {
+        "ja": "\u5e7d\u970a\u3068\u75b2\u308c\u305f\u4f1a\u793e\u54e1"
+      },
+      {
+        "ja-ro": "Yuurei to Tsukareta Kaishain"
+      }
+    ],
+    "description": {
+      "en": "A story about a ghost and the exhausted office worker he watches over as he gradually learns to find meaning in his life.\n\nOriginal by [@yukiyuki_nkym](https://twitter.com/yukiyuki_nkym) on Twitter."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "6498ec2a-bb90-4693-974e-c7835a3a0ffe",
+    "title": {
+      "en": "When You Put on Loafers"
+    },
+    "updatedAt": "2024-05-22T23:16:22+00:00",
+    "coverArt": "https://mangadex.org/covers/6498ec2a-bb90-4693-974e-c7835a3a0ffe/4fed3d8a-cff9-4384-8aa2-9cf062cc0dfd.jpg",
+    "altTitles": [
+      {
+        "ja": "\u304d\u307f\u304c\u30ed\u30fc\u30d5\u30a1\u30fc\u3092\u306f\u3044\u305f\u3089"
+      },
+      {
+        "ja-ro": "Kimi ga R\u014df\u0101 o Haitara"
+      },
+      {
+        "ja-ro": "Kimi ga Roufaa o Haitara"
+      },
+      {
+        "ja-ro": "Kimi ga Loafers o Haitara"
+      }
+    ],
+    "description": {
+      "en": "Rinne Miki is a normal first year's high school girl who loves fashion and is close with her friends.\nBut, she has a caring personality too, so though she has opposite-sex friends, that never became romantic, and she lived her life without romance.\nBut, on the day of the school festival, she meets Toma, a boy with a slightly mysterious atmosphere to him... though she's bewildered by how aggressively the younger boy approaches here, gradually, she starts to see him as...?",
+      "ja": "\u9ad8\u68211\u5e74\u751f\u306e\u4e09\u6728\u51dc\u97f3\u306f\u30aa\u30b7\u30e3\u30ec\u304c\u5927\u597d\u304d\u3067\u53cb\u9054\u60f3\u3044\u306a\u666e\u901a\u306e\u5973\u306e\u5b50\u3002\n\u3067\u3082\u4e16\u8a71\u597d\u304d\u306e\u6027\u683c\u3082\u3042\u3063\u3066\u3001\u7570\u6027\u3068\u306f\u53cb\u9054\u306b\u306f\u306a\u3063\u3066\u3082\u604b\u611b\u306b\u81f3\u308b\u3053\u3068\u306f\u306a\u304f\u3001\u604b\u5fc3\u3068\u306f\u7121\u7e01\u306b\u751f\u304d\u3066\u304d\u305f\u3002\n\u305d\u3093\u306a\u5f7c\u5973\u3060\u304c\u3001\u6587\u5316\u796d\u306e\u65e5\u306b\u3061\u3087\u3063\u3068\u4e0d\u601d\u8b70\u306a\u96f0\u56f2\u6c17\u306e\u5c11\u5e74\u30fb\u51ac\u99ac\u3068\u51fa\u4f1a\u3063\u3066\u2026\u3002\n\u30b0\u30a4\u30b0\u30a4\u304f\u308b\u5e74\u4e0b\u7537\u5b50\u306b\u6238\u60d1\u3044\u306a\u304c\u3089\u3082\u3001\u3060\u3093\u3060\u3093\u3068\u51dc\u97f3\u3082\u51ac\u99ac\u306e\u3053\u3068\u304c\u2026\uff1f"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "ace1b3c4-41a7-44d2-a9ad-ae798932479e",
+    "title": {
+      "en": "FPS de Shoshinsha Bokotte Real Fight ni Hattenshita Kekka w"
+    },
+    "updatedAt": "2024-06-04T16:25:54+00:00",
+    "coverArt": "https://mangadex.org/covers/ace1b3c4-41a7-44d2-a9ad-ae798932479e/93a92d8f-d94e-46f3-9537-8aa288cb2bdf.jpg",
+    "altTitles": [
+      {
+        "ja": "FPS\u3067\u521d\u5fc3\u8005\u30dc\u30b3\u3063\u3066\u30ea\u30a2\u30eb\u30d5\u30a1\u30a4\u30c8\u306b\u767a\u5c55\u3057\u305f\u7d50\u679cw"
+      },
+      {
+        "en": "After Beating a Noob in an FPS, He Wanted to Fight Me in Real Life LOL"
+      },
+      {
+        "vi": "Sau Khi B\u1ecb T\u00f4i B\u00f3n H\u00e0nh Trong Game, C\u00f3 \u0110\u1ee9a H\u1eb9n K\u00e8o \u0110\u00e1nh T\u00f4i!"
+      },
+      {
+        "id": "Hasil dari Mengalahkan seorang Pemula di FPS yang Berkembang Menjadi Pertarungan di RL haha"
+      },
+      {
+        "en": "Fighting With an FPS Beginner"
+      },
+      {
+        "ro": "Lupt\u00e2nd Cu Un \u00cencep\u0103tor La Jocurile FPS"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "f97979cc-c0dd-42e2-a32b-c56f8047f7ba",
+    "title": {
+      "en": "Ore dake Fuguu Skill no Isekai Shoukan Hangyakuki ~Saijaku Skill \"Kyuushuu\" ga Subete o Nomikomu made~"
+    },
+    "updatedAt": "2024-05-12T11:12:35+00:00",
+    "coverArt": "https://mangadex.org/covers/f97979cc-c0dd-42e2-a32b-c56f8047f7ba/e2811655-d465-4544-a34a-45c51330ae93.jpg",
+    "altTitles": [
+      {
+        "ja": "\u4ffa\u3060\u3051\u4e0d\u9047\u30b9\u30ad\u30eb\u306e\u7570\u4e16\u754c\u53ec\u559a\u53db\u9006\u8a18\uff5e\u6700\u5f31\u30b9\u30ad\u30eb\u3010\u5438\u53ce\u3011\u304c\u5168\u3066\u3092\u98f2\u307f\u8fbc\u3080\u307e\u3067\uff5e"
+      },
+      {
+        "en": "I'm the Only One with a Failure of a Skill in Another World's Summoning Rebellion: Until the Weakest Skill [Absorption] Swallows Everything"
+      }
+    ],
+    "description": {
+      "en": "The student Nakatani Yuto was supposed to be having a regular life, however his whole class was transferred to another world. All the students gained powerful skills and were worshipped as heroes, but for Yuto who got the unfavorable skill [Absorption]...! ?",
+      "ja": "\u9ad8\u6821\u751f\u306e\u4e2d\u8c37\u5915\u6597\u306f\u7a81\u7136\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u3068\u5171\u306b\u7570\u4e16\u754c\u3078\u300c\u52c7\u8005\u300d\u3068\u3057\u3066\u53ec\u559a\u3055\u308c\u3066\u3057\u307e\u3046\u3002\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u9054\u304c\u5f37\u529b\u306a\u6280\u80fd\uff08\u30b9\u30ad\u30eb\uff09\u3092\u6388\u304b\u308b\u306a\u304b\u3001\u30e6\u30a6\u30c8\u304c\u6388\u304b\u3063\u305f\u306e\u306f\u4e0d\u9047\u30b9\u30ad\u30eb\u3010\u5438\u3011\u3067\u3042\u3063\u305f\u3002 \u4f7f\u3044\u7269\u306b\u306a\u3089\u306a\u3044\u30e6\u30a6\u30c8\u306f\u9b54\u7269\u3068\u306e\u6226\u95d8\u3067\u81f4\u547d\u50b7\u3092\u8ca0\u3046\u304c\u3001\u30af\u30e9\u30b9\u30e1\u30a4\u30c8\u306f\u5f7c\u3092\u898b\u6bba\u3057\u306b\u2026\u3002\u305d\u306e\u77ac\u9593\u3001\u30e6\u30a6\u30c8\u306b\u306f\u3069\u3053\u304b\u3089\u3068\u3082\u306a\u304f\u201c\u58f0\u201d\u304c\u805e\u3053\u3048\u3066\u2015\u2015\u2026!?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2022,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "82757478-87b2-4064-a99e-5e628c700956",
+    "title": {
+      "en": "Kimi wa Yakamashi Tojite yo Kuchi o!"
+    },
+    "updatedAt": "2024-04-24T19:13:21+00:00",
+    "coverArt": "https://mangadex.org/covers/82757478-87b2-4064-a99e-5e628c700956/76b927aa-2860-4940-b77a-f6075f7fc99b.jpg",
+    "altTitles": [
+      {
+        "ja": "\u541b\u306f\u55a7\u3057\u9589\u3058\u3066\u3088\u53e3\u3092\uff01"
+      },
+      {
+        "ja-ro": "Kimi ha Yakamashi Tojite yo Kuchi wo!"
+      },
+      {
+        "en": "You're Too Noisy, So Just Shut It Already!"
+      },
+      {
+        "en": "You Talk Too Much, So Just Shut It Already!"
+      },
+      {
+        "zh": "\u5435\u95f9\u7684\u4f60\u4e0d\u80af\u4f4f\u53e3"
+      },
+      {
+        "vi": "C\u1eadu \u1ed2n \u00c0o Qu\u00e1, Im l\u1eb7ng Gi\u00f9m T\u1edb \u0110i!"
+      },
+      {
+        "ru": "\u0417\u0430\u043a\u0440\u043e\u0439 \u0441\u0432\u043e\u0439 \u0440\u043e\u0442!"
+      },
+      {
+        "ru": "\u0422\u044b \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448\u044c, \u0442\u0430\u043a \u0447\u0442\u043e \u0437\u0430\u0442\u043a\u043d\u0438\u0441\u044c \u0443\u0436\u0435!"
+      },
+      {
+        "tl": "Ang Ingay Mo Kaya Manahimik Ka Na Lang!"
+      }
+    ],
+    "description": {
+      "en": "H\u012bragi Tsukino was born deaf. When she transfers to a new school, she meets a talkative boy named Enomoto Taiy\u014d. Tsukino is slightly taken aback by Taiy\u014d, who talks to her without regard to the fact that she can't hear.",
+      "ja": "\u67ca\u6708\u4e43\u306f\u751f\u307e\u308c\u3064\u304d\u8033\u304c\u805e\u3053\u3048\u306a\u3044\u3002\u305d\u3093\u306a\u5f7c\u5973\u304c\u8ee2\u6821\u5148\u3067\u51fa\u4f1a\u3063\u305f\u306e\u306f\u3001\u304a\u3057\u3083\u3079\u308a\u306a\u7537\u5b50\u30fb\u698e\u672c\u592a\u967d\u3002\u805e\u3053\u3048\u306a\u3044\u3053\u3068\u306a\u3093\u304b\u304a\u69cb\u3044\u306a\u3057\u306b\u3057\u3083\u3079\u308a\u304b\u3051\u3066\u304f\u308b\u592a\u967d\u306b\u82e5\u5e72\u5f15\u304d\u6c17\u5473\u306a\u6708\u4e43\u3002",
+      "ru": "\u0425\u0438\u0438\u0440\u0430\u0433\u0438 \u0426\u0443\u043a\u0438\u043d\u043e \u0440\u043e\u0434\u0438\u043b\u0430\u0441\u044c \u0433\u043b\u0443\u0445\u043e\u0439. \u041a\u043e\u0433\u0434\u0430 \u043e\u043d\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043d\u043e\u0432\u0443\u044e \u0448\u043a\u043e\u043b\u0443, \u043e\u043d\u0430 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442 \u0433\u043e\u0432\u043e\u0440\u043b\u0438\u0432\u043e\u0433\u043e \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u0430 \u043f\u043e \u0438\u043c\u0435\u043d\u0438 \u042d\u043d\u043e\u043c\u043e\u0442\u043e \u0422\u0430\u0439\u043e. \u0426\u0443\u043a\u0438\u043d\u043e \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043a\u0443\u0440\u0430\u0436\u0435\u043d\u0430 \u0442\u0435\u043c, \u0447\u0442\u043e \u0422\u0430\u0439\u043e \u0440\u0430\u0437\u0433\u043e\u0432\u0430\u0440\u0438\u0432\u0430\u0435\u0442 \u0441 \u043d\u0435\u0439, \u043d\u0435 \u0437\u0430\u0431\u043e\u0442\u044f\u0441\u044c \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u043e\u043d\u0430 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0435\u0433\u043e \u0441\u043b\u044b\u0448\u0430\u0442\u044c...",
+      "vi": "Hiiragi Tsukino l\u00e0 m\u1ed9t c\u00f4 b\u1ea1n b\u1ecb khi\u1ebfm th\u00ednh b\u1ea9m sinh. Khi c\u1eadu \u1ea5y chuy\u1ec3n \u0111\u1ebfn tr\u01b0\u1eddng m\u1edbi, c\u1eadu \u1ea5y g\u1eb7p \u0111\u01b0\u1ee3c m\u1ed9t c\u1eadu b\u1ea1n l\u1eafm m\u1ed3m t\u00ean Enomoto Taiyo. T\u1ea1i \u0111\u00e2y, Tsukino lu\u00f4n b\u1ecb xoay tr\u00f2n b\u1edfi nh\u1eefng c\u00e2u chuy\u1ec7n x\u00e0m x\u00ed c\u1ee7a Taiyo b\u1ea5t ch\u1ea5p vi\u1ec7c c\u00f4 kh\u00f4ng th\u1ec3 nghe \u0111\u01b0\u1ee3c c\u1eadu ta n\u00f3i g\u00ec."
+    },
+    "status": "completed",
+    "releaseDate": 2022,
+    "contentRating": "safe",
+    "lastVolume": "4",
+    "lastChapter": "48"
+  },
+  {
+    "mangaId": "af67e19a-0070-4100-a81e-3a3489f5824c",
+    "title": {
+      "en": "Wan Mu"
+    },
+    "updatedAt": "2023-03-11T01:03:06+00:00",
+    "coverArt": "https://mangadex.org/covers/af67e19a-0070-4100-a81e-3a3489f5824c/ceab5431-960c-4064-a3bf-96b20d804b35.jpg",
+    "altTitles": [
+      {
+        "zh": "\u665a\u6728"
+      }
+    ],
+    "description": {
+      "en": "The girl who was adopted by two mothers met her soulmate- another girl, when she was 16 years old. After dating for ten years, she decided to give herself to a man at the age of 28 \u2026 because she did not want to live this \"abnormal life\". Only after leaving her, did she finally understand the true meaning of love during those countless days and nights. However, can they still go back to the way things were?"
+    },
+    "status": "completed",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": null,
+    "lastChapter": "43"
+  },
+  {
+    "mangaId": "3cbc4293-3623-470a-9405-f46b328c83d4",
+    "title": {
+      "en": "The Lecture You Would Never Want Your Parents To Give You"
+    },
+    "updatedAt": "2024-03-08T13:29:11+00:00",
+    "coverArt": "https://mangadex.org/covers/3cbc4293-3623-470a-9405-f46b328c83d4/ca5ea16d-a180-4adc-ad12-19dc7c1eb45c.jpg",
+    "altTitles": [
+      {
+        "ja": "\u89aa\u306b\u7d76\u5bfe\u3055\u308c\u305f\u304f\u306a\u3044\u8aac\u6559"
+      },
+      {
+        "ja-ro": "Oya ni Zettai sa Retakunai Sekkyou"
+      },
+      {
+        "fr": "Le sermon que vous ne voudriez jamais recevoir de vos parents"
+      },
+      {
+        "ru": "\u041b\u0435\u043a\u0446\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0432\u044b \u0431\u044b \u043d\u0435 \u0445\u043e\u0442\u0435\u043b\u0438 \u0443\u0441\u043b\u044b\u0448\u0430\u0442\u044c \u043e\u0442 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439"
+      },
+      {
+        "vi": "B\u00e0i Thuy\u1ebft Gi\u00e1o m\u00e0 ta Kh\u00f4ng bao gi\u1edd Mu\u1ed1n nghe t\u1eeb ph\u1ee5 Huynh"
+      },
+      {
+        "vi": "Nghe ba m\u1eb9 Thuy\u1ebft Gi\u1ea3ng"
+      }
+    ],
+    "description": {},
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "5e16acfe-896a-4f20-8223-482f862107e3",
+    "title": {
+      "en": "One Day, Suddenly, Seoul Is"
+    },
+    "updatedAt": "2024-03-30T15:29:43+00:00",
+    "coverArt": "https://mangadex.org/covers/5e16acfe-896a-4f20-8223-482f862107e3/51bd0c64-91d6-4652-b8eb-41c1eb732b95.jpg",
+    "altTitles": [
+      {
+        "ko": "\uc5b4\ub290\ub0a0 \uac11\uc790\uae30 \uc11c\uc6b8\uc740"
+      },
+      {
+        "ko-ro": "Eoneunal Gapjagi Seoul-eun"
+      }
+    ],
+    "description": {
+      "en": "A terrible virus has appeared in Seoul! On the same day Lee Yeongwoo and his classmates are traveling there. They are trapped in the tense atmosphere of Seoul, with the virus in the form of bubbles like frog eggs!",
+      "pt-br": "Yeon Woo est\u00e1 apaixonado. Ele n\u00e3o tem olhos pra mais nada al\u00e9m da So Yeon. Na escola ele n\u00e3o conseguiu falar com ela, mas agora que eles est\u00e3o indo pra uma excurs\u00e3o escolar em Seoul, ele tem esperan\u00e7a de conseguir pelo menos come\u00e7ar a conversar com ela, mesmo apesar de ser muito introvertido. Por\u00e9m, tem coisas estranhas acontecendo em Seoul\u2026 Algo terr\u00edvel est\u00e1 prestes a dominar a cidade\u2026 Nesse dia, Seoul de repente \u00e9\u2026?"
+    },
+    "status": "ongoing",
+    "releaseDate": 2021,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "a08d63ba-c412-4a7b-94b8-ef65bf2e2a30",
+    "title": {
+      "en": "Daredemo Dakeru Kimi ga Suki"
+    },
+    "updatedAt": "2024-06-05T12:36:59+00:00",
+    "coverArt": "https://mangadex.org/covers/a08d63ba-c412-4a7b-94b8-ef65bf2e2a30/14474fd9-5b22-4686-83e0-ce1ee6ad54a4.jpg",
+    "altTitles": [
+      {
+        "ja": "\u3060\u308c\u3067\u3082\u62b1\u3051\u308b\u30ad\u30df\u304c\u597d\u304d"
+      },
+      {
+        "vi": "Crush C\u1ee7a T\u00f4i L\u00e0 M\u1ed9t \u0110\u1ee9a L\u1eb3ng L\u01a1"
+      },
+      {
+        "en": "I Like You Who Can Have Sex With Anyone."
+      },
+      {
+        "en": "I like you who can have sex anyone."
+      },
+      {
+        "es-la": "Me Gustas t\u00fa, que Puedes tener Sexo con Cualquiera"
+      },
+      {
+        "zh": "\u559c\u6b22\u6765\u8005\u4e0d\u62d2\u7684\u4f60"
+      },
+      {
+        "pt-br": "Eu goste de voc\u00ea, que pode fazer sexo com qualquer um"
+      }
+    ],
+    "description": {
+      "en": "Gotou, a virgin high school boy, has a crush on his affectionate gal classmate, Agawa. But one day after school, he catches Agawa having sex with Takayama in an empty classroom. Gotou is devastated, but he soon learns that not only did she have sex with Takayama, Agawa is a slut who'll have sex with anyone who asks. Even\u2026\u203d\n___\n**Links:**\n- Alternative Official Raw - [Comic Days](https://comic-days.com/episode/4856001361135826437), [Magazine Pocket](https://pocket.shonenmagazine.com/episode/4856001361243117705)",
+      "ja": "\u7ae5\u8c9e\u9ad8\u6821\u751f\u306e\u30b4\u30c8\u30a6\u304c\u597d\u304d\u306b\u306a\u3063\u305f\u306e\u306f\u30bb\u30c3\u30af\u30b9\u5927\u597d\u304d\u306a\u30ae\u30e3\u30eb\u30fb\u30a2\u30ac\u30ef\u3055\u3093\u3002\u3042\u308b\u65e5\u306e\u653e\u8ab2\u5f8c\u3001\u5f7c\u5973\u304c\u540c\u7d1a\u751f\u3068\u30bb\u30c3\u30af\u30b9\u3057\u3066\u3044\u308b\u3068\u3053\u308d\u3092\u898b\u3066\u3057\u307e\u3063\u3066\u2500\u2500\u3002",
+      "vi": "Con \u0111\u0169y t\u00ecnh y\u00eau \u0111\u00e3 d\u1eabn nam ch\u00ednh c\u1ee7a ta \u0111i th\u00edch m\u1ed9t gyaru l\u1eb3ng l\u01a1 s\u1eb5n s\u00e0ng l\u00e0m nh\u00e1y v\u1edbi b\u1ea5t c\u1ee9 ai. R\u1ed3i anh main s\u1ebd l\u00e0m g\u00ec tr\u01b0\u1edbc c\u00e1i t\u00ecnh hu\u1ed1ng NTR nh\u01b0ng kh\u00f4ng h\u1eb3n n\u00e0y? Khuy\u1ebfn c\u00e1o ko d\u00e0nh cho tr\u1ebb d\u01b0\u1edbi 18 v\u00e0 c\u00e1c thanh ni\u00ean kh\u00f4ng th\u00edch NTR. \u0110\u1ecdc truy\u1ec7n n\u00e0y \u0111\u1eebng l\u1eafp \u0111\u1ea7u tr\u00ean v\u00e0o l\u00e0m g\u00ec (l\u1eafp \u0111\u1ea7u d\u01b0\u1edbi th\u00ec OK).",
+      "es-la": "Un virgen estudiante de secundaria, por casualidad descubre a la gal de la que se estaba empezando a enamorar teniendo sexo con otro estudiante.",
+      "pt-br": "Uma Gal safada que deixa todo mundo transar com ela e um garoto virgem do ensino m\u00e9dio apaixonado por ela, mesmo depois de v\u00ea-la transar com seu colega de classe."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "erotica",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "c7087516-2b89-462f-8634-2e60baf6174c",
+    "title": {
+      "en": "I Really Don't Want to Learn Forbidden Spells"
+    },
+    "updatedAt": "2024-04-27T13:10:10+00:00",
+    "coverArt": "https://mangadex.org/covers/c7087516-2b89-462f-8634-2e60baf6174c/8c0d38cc-dbd6-4c34-ae62-8a8bfdca6d9c.jpg",
+    "altTitles": [
+      {
+        "zh-ro": "W\u01d2 Zh\u0113n B\u00f9 Xi\u01ceng Xu\u00e9 J\u00ecn Zh\u00f2u"
+      },
+      {
+        "zh": "\u6211\u771f\u4e0d\u60f3\u5b66\u7981\u5492"
+      },
+      {
+        "zh-ro": "Wo Zhen Bu Xiang Xue Jin Zhou"
+      }
+    ],
+    "description": {
+      "en": "For Ning Feng, an infamous underachiever, this will be his third time taking the awakening exam.  When he awakens as a one-star -- the lowest possible rating -- everyone laughs.  He can't understand why his new skills talk about \"forbidden spells\" and \"dark power.\"  \nHe isn't an evil dark lord, but wow!  Who knew forbidden spells could be so powerful!  These skills are so cool, but they emit tons of dark power. \nThere's a new source of dark power in the city and Ning Feng must get stronger before anyone realizes that its him."
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "5a8d497d-291b-4956-a3ed-2b3d303ed85b",
+    "title": {
+      "en": "Flash Mac + Patrol X"
+    },
+    "updatedAt": "2024-06-13T02:35:10+00:00",
+    "coverArt": "https://mangadex.org/covers/5a8d497d-291b-4956-a3ed-2b3d303ed85b/632d7e9b-05dc-4cc1-856b-3cebd292a4d3.jpg",
+    "altTitles": [
+      {
+        "ja": "\u9583\u5149\u30de\u30c3\u30af+\u30d1\u30c8\u30ed\u30fc\u30ebX"
+      },
+      {
+        "ja-ro": "Senkou Mac + Patrol X"
+      }
+    ],
+    "description": {
+      "en": "After 40 years, two heroes have arrived in the present day!!\nIlmine Daiji, the all-powerful sci-fi hero \"Senkou Mac\" and\n'Patrol X' is now in book form for the first time!!"
+    },
+    "status": "completed",
+    "releaseDate": 1967,
+    "contentRating": "safe",
+    "lastVolume": "1",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "97026626-5d24-4c2f-9328-8e902fe00cd7",
+    "title": {
+      "en": "Youkoso Isekai e, dewa Shinde Kudasai"
+    },
+    "updatedAt": "2024-04-27T22:29:19+00:00",
+    "coverArt": "https://mangadex.org/covers/97026626-5d24-4c2f-9328-8e902fe00cd7/04498944-dd51-4f17-ad0c-26a4d592a6c9.jpg",
+    "altTitles": [
+      {
+        "ja": "\u3088\u3046\u3053\u305d\u7570\u4e16\u754c\u3078\u3001\u3067\u306f\u6b7b\u3093\u3067\u304f\u3060\u3055\u3044"
+      },
+      {
+        "en": "Welcome to Another World, Now then, Please Die"
+      }
+    ],
+    "description": {
+      "en": "\"You all will not be heroes. You'll be Living Sacrifices, will you not?\"\n\nAtsuto thought that by going to another world his unremarkable life would change and he would be granted all sorts of powers. However, in that other world he found nothing but despair.\n\nAtsuto is an ordinary and unpopular high school student with no remarkable talents or romantic success. One day, his school is enveloped in light, and he is suddenly transported to another world called Tilunog.\n\nSome students who believe they can become heroes with cheat skills are excited about the transfer to the otherworld. However, a beautiful woman from Tilunog named Philia cruelly informs them that they were summoned to be sacrificed, and that they are destined to be killed.\n\nThus begins a storm of massacre and humiliation by demons, called the \"Chaos Banquet\" begins! Can Atsuto and his friends survive in this world of despair?"
+    },
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "erotica",
+    "lastVolume": "2",
+    "lastChapter": "12"
+  },
+  {
+    "mangaId": "472d3750-89c7-4527-9302-af28398f46fe",
+    "title": {
+      "en": "Nonbiri VRMMO-ki"
+    },
+    "updatedAt": "2023-12-07T05:16:52+00:00",
+    "coverArt": "https://mangadex.org/covers/472d3750-89c7-4527-9302-af28398f46fe/81c45782-4309-47c2-b059-3a54f6b5c4a4.jpg",
+    "altTitles": [
+      {
+        "ja-ro": "Nonbiri VRMMOki"
+      },
+      {
+        "ja": "\u306e\u3093\u3073\u308aVRMMO\u8a18"
+      },
+      {
+        "ko": "\ud55c\uac00\ub85c\uc6b4 VRMMO \uc774\uc57c\uae30"
+      },
+      {
+        "ko": "\ub290\uae0b\ud55c VRMMO\uae30"
+      },
+      {
+        "en": "A Diary of Our Leisurely VRMMO Playthrough"
+      },
+      {
+        "en": "Leisure VRMMO Record"
+      },
+      {
+        "en": "Relaxed VRMMO Log"
+      },
+      {
+        "ru": "\u0411\u0435\u0437\u0437\u0430\u0431\u043e\u0442\u043d\u044b\u0435 VRMMO\u0448\u043d\u0438\u043a\u0438"
+      }
+    ],
+    "description": {
+      "en": "Here in the year 2\u00d7\u00d7\u00d7, technology advanced by leaps and bounds in VR exceed beyond imagine.While at first it was a little strange soon became a commonplace thing in Japan. By the recommendation of my twin sisters Hibari and Hitaki, I found myself playing the VRMMO [REAL & MAKE]. While being taught playing this new game by these two people\u2026 I discovered a game that does not require to be played like others. Single-mindlessly playing or hunting, taming with full of charm, producing realistic feats with dexterity, or cooking realistic cuisine with house-husband force.It is the story of being watched by players and AI inhabitants of the bulletin board."
+    },
+    "status": "ongoing",
+    "releaseDate": 2017,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "df361a38-eef6-4674-bec6-86d08aa1d1aa",
+    "title": {
+      "en": "Ogami Tsumiki to Kinichijou."
+    },
+    "updatedAt": "2024-06-12T13:31:18+00:00",
+    "coverArt": "https://mangadex.org/covers/df361a38-eef6-4674-bec6-86d08aa1d1aa/07522afb-a584-4045-8480-99d3acd2e555.jpg",
+    "altTitles": [
+      {
+        "ja": "\u5c3e\u5b88\u3064\u307f\u304d\u3068\u5947\u65e5\u5e38\u3002"
+      },
+      {
+        "en": "Tsumiki Ogami & the Strange Everyday Life."
+      },
+      {
+        "es": "Tsumiki Omori y la extra\u00f1a vida cotidiana."
+      },
+      {
+        "es-la": "Tsumiki Omori y la extra\u00f1a vida cotidiana."
+      },
+      {
+        "pt-br": "Tsumiki Ogami e seu estranho coditiano."
+      },
+      {
+        "pl": "Tsumiki Ogami & jej Niecodzienne \u017bycie."
+      },
+      {
+        "vi": "Tsumiki Ogami V\u00e0 Cu\u1ed9c S\u1ed1ng DI\u1ec7u K\u1ef3"
+      },
+      {
+        "ru": "\u0426\u0443\u043c\u0438\u043a\u0438 \u041e\u0433\u0430\u043c\u0438 \u0438 \u0441\u0442\u0440\u0430\u043d\u043d\u0430\u044f \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c"
+      },
+      {
+        "fr": "Ogami Tsumiki et l'\u00e9trange vie du quotidien"
+      },
+      {
+        "vi": "Tsumiki Ogami v\u00e0 Cu\u1ed9c s\u1ed1ng di\u1ec7u k\u00ec!"
+      }
+    ],
+    "description": {
+      "en": "Today, we live in an age of diversity. The phrase \"non-humans\" is a thing of the past. \"Genjin\" live their lives interacting with human beings.\n\nOne human boy, Yutaka Shinsou, is troubled. He is so used to being in tune with his surroundings that he no longer understands his own feelings. At Keiki High School, where many \"Genjin\" attend, he meets Tsumiki Ogami, a werewolf. She is cute, powerful, a little out of the ordinary, and kind.\n\nWhen he spends time with her, Yutaka's heart is somehow noisier than usual. Spinning an \"unusual\" everyday life with Tsumiki the werewolf.\n\nThe new normal graph of youth is about to begin.",
+      "es": "Hoy vivimos en la era de la diversidad. La expresi\u00f3n \"no humanos\" es cosa del pasado. Los \"genjin\" viven sus vidas interactuando con los seres humanos. Un chico humano, Yutaka Shinsou, tiene problemas. Est\u00e1 tan acostumbrado a estar en sinton\u00eda con su entorno que ya no comprende sus propios sentimientos. En el instituto Keiki, al que acuden muchos \"genjin\", conoce a Tsumiki Ogami, una mujer lobo. Es guapa, poderosa, un poco fuera de lo com\u00fan y amable... Cuando pasa tiempo con ella, el coraz\u00f3n de Yutaka hace m\u00e1s ruido de lo normal. Hilando una \"inusual\" vida cotidiana con Tsumiki, la mujer lobo. El nuevo gr\u00e1fico normal de la juventud est\u00e1 a punto de comenzar.",
+      "fr": "Aujourd'hui, nous vivons \u00e0 l'\u00e8re de la diversit\u00e9. L'expression \u00ab non-humains \u00bb appartient au pass\u00e9. Les \u00ab Genjin \u00bb vivent leur vie en interaction avec les \u00eatres humains.\n\nUn gar\u00e7on humain, Yutaka Shinsou, est troubl\u00e9. Il est tellement habitu\u00e9 \u00e0 \u00eatre en phase avec son environnement qu'il ne comprend plus ses propres sentiments. Au lyc\u00e9e Keiki, que fr\u00e9quentent de nombreux \u00ab Genjin \u00bb, il rencontre Tsumiki Ogami, un loup-garou. Elle est mignonne, puissante, un peu hors du commun et gentille.\n\nLorsqu'il passe du temps avec elle, le c\u0153ur de Yutaka est plus bruyant que d'habitude. Une vie quotidienne \u00ab inhabituelle \u00bb avec Tsumiki le loup-garou.\n\nLe nouveau parcours normal de la jeunesse est sur le point de commencer.",
+      "ja": "\u30a6\u30a7\u30a2\u30a6\u30eb\u30d5\u306e\u5c3e\u5b88\u3064\u307f\u304d\u3055\u3093\u3068\u7d21\u3050\u3001\u300c\u666e\u901a\u300d\u3058\u3083\u306a\u3044\u65e5\u5e38\u2015\u2015\n\n\u591a\u69d8\u6027\u306e\u6642\u4ee3\u3068\u3055\u308c\u308b\u73fe\u4ee3\u3002\u3064\u3044\u3053\u306e\u9593\u307e\u3067\u300c\u4eba\u306a\u3089\u3056\u308b\u5b58\u5728\u300d\u3060\u3063\u305f\u300c\u5e7b\u4eba\u300d\u306f\u4eca\u306f\u4eba\u9593\u3068\u95a2\u308f\u308a\u5408\u3063\u3066\u751f\u6d3b\u3057\u3066\u3044\u307e\u3059\u3002\n\n\u821e\u53f0\u306f\u3001\u5e7b\u4eba\u304c\u591a\u304f\u901a\u3046\u666f\u5e0c\u9ad8\u6821\u3002\u305d\u3053\u306b\u3044\u305f\u306e\u306f\u3001\u30a6\u30a7\u30a2\u30a6\u30eb\u30d5\u306e\u5c3e\u5b88\u3064\u307f\u304d\uff08\u304a\u304c\u307f\u3064\u307f\u304d\uff09\u3055\u3093\u3002\u30e2\u30d5\u30e2\u30d5\u306e\u8033\u3068\u5c3b\u5c3e\u304c\u63fa\u308c\u308b\u3001\u5929\u771f\u721b\u6f2b\u306a\u7f8e\u5c11\u5973\u3002\n\n\u771f\u5c64\u53cb\u5b5d\uff08\u3057\u3093\u305d\u3046\u3086\u305f\u304b\uff09\u304f\u3093\u306f\u3001\u60a9\u3081\u308b\u4eba\u9593\u306e\u5c11\u5e74\u3002\u4eba\u9593\u95a2\u4fc2\u304c\u539f\u56e0\u3067\u3001\u81ea\u5206\u306e\u3053\u3068\u304c\u5206\u304b\u3089\u306a\u304f\u306a\u308a\u307e\u3057\u305f\u3002\u53cb\u5b5d\u304f\u3093\u306f\u3064\u307f\u304d\u3055\u3093\u3068\u51fa\u4f1a\u3044\u3001\u81ea\u5206\u306e\u300c\u6c17\u6301\u3061\u300d\u3092\u898b\u3064\u3051\u3066\u3044\u304d\u307e\u3059\u3002\n\n\u300c\u2026\u4eba\u9593\u3063\u3066\u5927\u5909\u3060\u3041\uff5e\u300d\n\u65e5\u5e38\u304c\u5909\u308f\u3063\u3066\u3044\u304f\u3001\u3064\u307f\u304d\u3055\u3093\u3068\u4e00\u7dd2\u306a\u3089\u3002\n\n\u307e\u3060\u8ab0\u3082\u77e5\u3089\u306a\u3044\u3001\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\u306a\u9752\u6625\u304c\u3053\u3053\u306b\u3002",
+      "pl": "Obecnie \u017cyjemy w erze r\u00f3\u017cnorodno\u015bci. Wyra\u017cenie \u201enie-ludzie\u201d nale\u017cy ju\u017c do przesz\u0142o\u015bci. \u201eGenjin\u201d \u017cyj\u0105 w interakcji z lud\u017ami.\n\nPewien ludzki ch\u0142opiec, Yutaka Shinsou, jest zaniepokojony. Jest tak przyzwyczajony do bycia w zgodzie z otoczeniem, \u017ce nie rozumie ju\u017c w\u0142asnych uczu\u0107. W Liceum Keiki, gdzie ucz\u0119szcza wielu \u201eGenjin\u201d, spotyka Tsumiki Ogami, wilko\u0142aka. Jest urocza, pot\u0119\u017cna, troch\u0119 nietypowa i mi\u0142a.\n\nKiedy sp\u0119dza z ni\u0105 czas, serce Yutaki staje si\u0119 g\u0142o\u015bniejsze ni\u017c zwykle. Niezwyk\u0142e niecodzienne \u017cycie z wilko\u0142akiem Tsumiki.",
+      "ru": "\u0421\u0435\u0433\u043e\u0434\u043d\u044f \u043c\u044b \u0436\u0438\u0432\u0451\u043c \u0432 \u044d\u043f\u043e\u0445\u0443 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0438\u044f. \"\u041d\u0435\u043b\u044e\u0434\u0438\" \u043f\u043e\u0441\u0442\u0435\u043f\u0435\u043d\u043d\u043e \u0443\u0448\u043b\u0438 \u0438\u0437 \u0441\u043b\u043e\u0432\u0435\u0441\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u043e\u0442\u0430. \"\u0413\u0435\u043d\u0434\u0437\u0438\u043d\u044b\" \u0436\u0438\u0432\u0443\u0442 \u0441\u0432\u043e\u0435\u0439 \u0436\u0438\u0437\u043d\u044c\u044e, \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044f \u0441 \u043b\u044e\u0434\u044c\u043c\u0438. \u041e\u0434\u0438\u043d \u0438\u0437 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0430\u043b\u044c\u0447\u0438\u043a\u043e\u0432, \u042e\u0442\u0430\u043a\u0430 \u0428\u0438\u043d\u0441\u043e, \u043a\u043e\u0435-\u0447\u0435\u043c \u043e\u0431\u0435\u0441\u043f\u043e\u043a\u043e\u0435\u043d. \u041e\u043d \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0438\u0432\u044b\u043a \u0431\u044b\u0442\u044c \u0432 \u0433\u0430\u0440\u043c\u043e\u043d\u0438\u0438 \u0441\u043e \u0441\u0432\u043e\u0438\u043c \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435\u043c, \u0447\u0442\u043e \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c \u0441\u0432\u043e\u0438 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0447\u0443\u0432\u0441\u0442\u0432\u0430. \u0412 \u0441\u0440\u0435\u0434\u043d\u0435\u0439 \u0448\u043a\u043e\u043b\u0435 \u041a\u044d\u0439\u043a\u0438, \u0433\u0434\u0435 \u0443\u0447\u0430\u0442\u0441\u044f \u043c\u043d\u043e\u0433\u0438\u0435 \"\u0433\u0435\u043d\u0434\u0437\u0438\u043d\u044b\", \u043e\u043d \u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u0441\u044f \u0441 \u043e\u0431\u043e\u0440\u043e\u0442\u043d\u0435\u043c \u0426\u0443\u043c\u0438\u043a\u0438 \u041e\u0433\u0430\u043c\u0438. \u041e\u043d\u0430 \u043c\u0438\u043b\u0430\u044f, \u0441\u0438\u043b\u044c\u043d\u0430\u044f, \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u0441\u0442\u0440\u0430\u043d\u043d\u0430\u044f \u0438 \u0434\u043e\u0431\u0440\u0430\u044f... \u041a\u043e\u0433\u0434\u0430 \u042e\u0442\u0430\u043a\u0430 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442 \u0441 \u043d\u0435\u0439 \u0432\u0440\u0435\u043c\u044f, \u0435\u0433\u043e \u0441\u0435\u0440\u0434\u0446\u0435 \u043f\u043e\u0447\u0435\u043c\u0443-\u0442\u043e \u0431\u044c\u0435\u0442\u0441\u044f \u0447\u0430\u0449\u0435 \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e.",
+      "es-la": "Hoy vivimos en la era de la diversidad. La expresi\u00f3n \"no humanos\" es cosa del pasado. Los \"genjin\" viven sus vidas interactuando con los seres humanos. Un chico humano, Yutaka Shinsou, tiene problemas. Est\u00e1 tan acostumbrado a estar en sinton\u00eda con su entorno que ya no comprende sus propios sentimientos. En el instituto Keiki, al que acuden muchos \"genjin\", conoce a Tsumiki Ogami, una mujer lobo. Es guapa, poderosa, un poco fuera de lo com\u00fan y amable... Cuando pasa tiempo con ella, el coraz\u00f3n de Yutaka hace m\u00e1s ruido de lo normal. Hilando una \"inusual\" vida cotidiana con Tsumiki, la mujer lobo. El nuevo gr\u00e1fico normal de la juventud est\u00e1 a punto de comenzar."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "9d3d594f-c68d-43ff-b392-398cbe62541d",
+    "title": {
+      "en": "Yasei no Last Boss ga Arawareta!"
+    },
+    "updatedAt": "2024-02-03T01:22:39+00:00",
+    "coverArt": "https://mangadex.org/covers/9d3d594f-c68d-43ff-b392-398cbe62541d/327b761a-9c24-4378-aeec-39e35a850b57.jpg",
+    "altTitles": [
+      {
+        "en": "A Wild Last Boss Appeared!"
+      },
+      {
+        "ja-ro": "Yasei no Rasu Bosu ga Arawareta!"
+      },
+      {
+        "ru": "\u0428\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0431\u043e\u0441\u0441 \u043f\u043e\u044f\u0432\u0438\u043b\u0441\u044f!"
+      },
+      {
+        "ja": "\u91ce\u751f\u306e\u30e9\u30b9\u30dc\u30b9\u304c\u73fe\u308c\u305f\uff01"
+      },
+      {
+        "ko": "\uc57c\uc0dd\uc758 \ub77c\uc2a4\ud2b8\ubcf4\uc2a4\uac00 \ub098\ud0c0\ub0ac\ub2e4!"
+      },
+      {
+        "en": "Yasei no Last Boss ga Arawareta!: Kokuyoku no Haou"
+      }
+    ],
+    "description": {
+      "en": "It was in the year 2800 of the Midgard calendar. Back then, there was a Overlord who once reigned supreme and had reached the very brink of subduing the world. Her name was Lufasu Mafaalu, a great woman dreaded as the Black-Winged Overlord. She was too strong, too fast, and too beautiful. However, she was defeated by Heroes who opposed her ferocity, and her ambition was brought to an end.  \r\n  \r\nOr so went the story of our protagonist\u2019s in-game character, whose body he now possesses for some reason in a world 200 years after Lufasu\u2019s downfall. Follow our protagonist as he becomes unnecessarily feared by his surroundings and unnecessarily worshiped by his former subordinates as he\u2015or now she\u2015cheerfully travels around this fantasy world.",
+      "ja": "\u6642\u306f\u30df\u30ba\u30ac\u30eb\u30ba\u66a62800\u5e74\u3002\u304b\u3064\u3066\u8987\u3092\u5531\u3048\u3001\u4e16\u754c\u3092\u5f81\u670d\u3059\u308b\u5bf8\u524d\u307e\u3067\u81f3\u3063\u305f\u8987\u738b\u304c\u3044\u305f\u3002\u540d\u3092\u30eb\u30d5\u30a1\u30b9\u30fb\u30de\u30d5\u30a1\u30fc\u30eb\u3002\u201c\u9ed2\u7ffc\u306e\u8987\u738b\u201d\u3068\u6050\u308c\u3089\u308c\u308b\u5973\u5091\u3067\u3042\u308b\u3002\u5f7c\u5973\u306f\u3042\u307e\u308a\u306b\u5f37\u304f\u3001\u3042\u307e\u308a\u306b\u901f\u304f\u3001\u305d\u3057\u3066\u3042\u307e\u308a\u306b\u7f8e\u3057\u304f\u2026\u2026\u3002\u3057\u304b\u3057\u30eb\u30d5\u30a1\u30b9\u306f\u3001\u305d\u306e\u731b\u5a01\u306b\u7acb\u3061\u5411\u304b\u3063\u305f\u52c7\u8005\u9054\u306b\u8a0e\u305f\u308c\u3001\u305d\u306e\u91ce\u671b\u306b\u7d42\u6b62\u7b26\u304c\u6253\u305f\u308c\u305f\u3002 \u2015\u2015\u3068\u3044\u3046\u8a2d\u5b9a\u306e\u30b2\u30fc\u30e0\u306e\u30de\u30a4\u30ad\u30e3\u30e9\uff08\u2640\uff09\u306b\u3001\u4f55\u6545\u304b\u6191\u4f9d\u3057\u3066\u3057\u307e\u3063\u305f\u4ffa\uff08\u2642\uff09\u3002\u3053\u308c\u306f\u5468\u56f2\u306b\u5fc5\u8981\u4ee5\u4e0a\u306b\u602f\u3048\u3089\u308c\u305f\u308a\u3001\u5143\u90e8\u4e0b\u306b\u5fc5\u8981\u4ee5\u4e0a\u306b\u5d07\u62dd\u3055\u308c\u305f\u308a\u3057\u306a\u304c\u3089\u3001\u30eb\u30d5\u30a1\u30b9\uff08\u4e2d\u8eab\u306f\u4ffa\u2642\uff09\u304c\u7570\u4e16\u754c\u3092\u65c5\u3059\u308b\u304a\u8a71\u3067\u3042\u308b\u3002",
+      "ru": "\u0411\u044b\u043b 2800 \u0433\u043e\u0434 \u043f\u043e \u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044e \u041c\u0438\u0434\u0433\u0430\u0440\u0434\u0430. \u0412 \u0442\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0430 \u0436\u0438\u043b\u0430 \u043e\u0434\u043d\u0430 \u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0446\u0430\u0440\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0430 \u043d\u0430\u0434 \u0432\u0441\u0435\u043c \u043c\u0438\u0440\u043e\u043c, \u043f\u043e\u043a\u043e\u0440\u0438\u0432 \u0435\u0433\u043e \u0434\u043e \u0441\u0430\u043c\u044b\u0445 \u0433\u0440\u0430\u043d\u0438\u0446. \u0418\u043c\u044f \u0435\u0439 \u0431\u044b\u043b\u043e \u041b\u044e\u0444\u0430\u0441 \u041c\u0430\u0444\u0430\u0430\u043b, \u0432\u0435\u043b\u0438\u043a\u0430\u044f \u0436\u0435\u043d\u0449\u0438\u043d\u0430, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0431\u043e\u044f\u043b\u0438\u0441\u044c \u043a\u0430\u043a \u0422\u0451\u043c\u043d\u043e\u043a\u0440\u044b\u043b\u0443\u044e \u0412\u043b\u0430\u0434\u044b\u0447\u0438\u0446\u0443. \u041e\u043d\u0430 \u0431\u044b\u043b\u0430 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0441\u0438\u043b\u044c\u043d\u0430, \u0431\u044b\u0441\u0442\u0440\u0430 \u0438 \u043d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e \u043a\u0440\u0430\u0441\u0438\u0432\u0430\u2026 \u041e\u0434\u043d\u0430\u043a\u043e, \u0435\u0451 \u043f\u043e\u0431\u0435\u0434\u0438\u043b\u0438 \u0413\u0435\u0440\u043e\u0438, \u0432\u043e\u0441\u0441\u0442\u0430\u0432\u0448\u0438\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 \u0435\u0451 \u0436\u0435\u0441\u0442\u043e\u043a\u043e\u0441\u0442\u0438, \u0438 \u0435\u0451 \u0430\u043c\u0431\u0438\u0446\u0438\u044f\u043c \u043f\u0440\u0438\u0448\u0435\u043b \u043a\u043e\u043d\u0435\u0446\u2026 \u0412\u0435\u0440\u043d\u0435\u0435 \u0442\u0430\u043a\u043e\u0439 \u0431\u044b\u043b\u0430 \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0447\u044c\u0451 \u0442\u0435\u043b\u043e \u043d\u0430\u0448 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0433\u0435\u0440\u043e\u0439 \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u043f\u043e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u043c \u043f\u0440\u0438\u0447\u0438\u043d\u0430\u043c \u0432 \u043c\u0438\u0440\u0435 \u0441\u043f\u0443\u0441\u0442\u044f 200 \u043b\u0435\u0442 \u043f\u043e\u0441\u043b\u0435 \u0441\u0432\u0435\u0440\u0436\u0435\u043d\u0438\u044f \u041b\u044e\u0444\u0430\u0441. \u0418 \u0441 \u044d\u0442\u043e\u0433\u043e \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u0443\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u044f \u043f\u043e \u0444\u044d\u043d\u0442\u0435\u0437\u0438\u0439\u043d\u043e\u043c\u0443 \u043c\u0438\u0440\u0443 \u043d\u0430\u0448\u0435\u0433\u043e \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0433\u0435\u0440\u043e\u044f, \u0438\u043b\u0438 \u0432\u0435\u0440\u043d\u0435\u0435 \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u0433\u0435\u0440\u043e\u0438\u043d\u0438."
+    },
+    "status": "ongoing",
+    "releaseDate": 2017,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "2968b6ee-0b4f-4f7b-b5e7-dcdb462cffdf",
+    "title": {
+      "en": "Mobile Suit Gundam SEED Astray"
+    },
+    "updatedAt": "2024-05-14T07:20:04+00:00",
+    "coverArt": "https://mangadex.org/covers/2968b6ee-0b4f-4f7b-b5e7-dcdb462cffdf/0a6e521b-b9ed-4b9a-964c-31c926d11712.jpg",
+    "altTitles": [
+      {
+        "ja": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0SEED ASTRAY"
+      },
+      {
+        "ja-ro": "Kidou Senshi Gundam SEED ASTRAY"
+      },
+      {
+        "en": "Mobile Suit Gundam SEED Astray"
+      }
+    ],
+    "description": {
+      "en": "A side story manga set in the Cosmic Era timeline that takes place concurrently with *Mobile Suit Gundam SEED*. \nIt is one part of the first wave of the *SEED Astray* multimedia project. \nWhereas the main story of *Gundam SEED* focuses on the struggles between the Earth Alliance, ZAFT, and Orb Union, the Astray series is focused on the three MBF-P mobile suit prototypes and their respective pilots and organizations, who mainly exist on the outskirts of the main SEED storyline. \n\nThe MBF-P02 Gundam Astray Red Frame is piloted by Lowe Guele of the Junk Guild, and the MBF-P03 Gundam Astray Blue Frame is piloted by Murakumo Gai of the mercenary group Serpent Tail. \nThe third Astray, MBF-P01 Gundam Astray Gold Frame, is piloted by the primary antagonist of the Astray story, Orb nobleman Rondo Gina Sahaku, and later by his twin sister Rondo Mina Sahaku. \n[Via Gundam Wiki] \n\n**Notes:**\n- The Re:Master edition includes ASTRAY and X ASTRAY with the extra chapters moved to different spots."
+    },
+    "status": "completed",
+    "releaseDate": 2002,
+    "contentRating": "suggestive",
+    "lastVolume": "6",
+    "lastChapter": "27"
+  },
+  {
+    "mangaId": "8c21fe3b-4fe6-4f11-b51b-ced00d8aec60",
+    "title": {
+      "en": "Aekanaru"
+    },
+    "updatedAt": "2023-07-24T05:47:34+00:00",
+    "coverArt": "https://mangadex.org/covers/8c21fe3b-4fe6-4f11-b51b-ced00d8aec60/a6ff5471-1f9d-4fc2-a94a-0b86a0a9a7fe.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30a2\u30a8\u30ab\u30ca\u30eb"
+      },
+      {
+        "zh-hk": "\u4e9e\u60e0\u4f73\u5948\u7460"
+      }
+    ],
+    "description": {
+      "en": "Sadai, looking for a place to die, headed deep into the mountains. There he encountered a mysterious and gentle girl who had lived alone in an abandoned village for 150 years, continuing to serve an intangible god. A man that had failed to die and a widow with a graceful aura \u2014 from the remains of their wasted lives, the two of them begin a new chapter of their story."
+    },
+    "status": "completed",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "4",
+    "lastChapter": "41"
+  },
+  {
     "mangaId": "486441e9-e0d8-4ece-ae5a-a35c813620b2",
     "title": {
       "en": "Yuru Camp \u25b3 Anthology Comic"
@@ -719,970 +1671,5 @@
     "contentRating": "safe",
     "lastVolume": "2",
     "lastChapter": "60"
-  },
-  {
-    "mangaId": "64ac1d0a-3170-4dbb-b24d-645a2f16ba8c",
-    "title": {
-      "en": "Vigilante - My Hero Academia: Illegals"
-    },
-    "updatedAt": "2022-07-27T04:05:28+00:00",
-    "coverArt": "https://mangadex.org/covers/64ac1d0a-3170-4dbb-b24d-645a2f16ba8c/429da290-2a2f-4355-8b88-cea98c9b3a36.jpg",
-    "altTitles": [
-      {
-        "en": "My Hero Academia: Vigilantes"
-      },
-      {
-        "ru": "\u041c\u043e\u044f \u0433\u0435\u0440\u043e\u0439\u0441\u043a\u0430\u044f \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044f: \u0412\u043d\u0435 \u0437\u0430\u043a\u043e\u043d\u0430"
-      },
-      {
-        "ja": "\u30f4\u30a3\u30b8\u30e9\u30f3\u30c6-\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2ILLEGALS-"
-      },
-      {
-        "ko": "\ube44\uc9c0\ub780\ud14c - \ub098\uc758 \uc601\uc6c5 \ud559\uacc4 ILLEGALS-"
-      },
-      {
-        "ja-ro": "Vigilante: Boku no Hero Academia Illegals"
-      }
-    ],
-    "description": {
-      "en": "In the world of Kouhei Horikoshi's Boku no Hero Academia, nearly everyone in the world has powers known as \"Quirks\". Normally, the law enforces the rule that citizens cannot use their Quirks out in the open, and that privilege is reserved only for registered superheroes. However, a select few have chosen to reject this rule. They are known as vigilantes - people with the hearts of heroes, but the reputation of villains.   \n  \nThis is their story.",
-      "pt": "||Spin off de Boku no Hero Academia que tem como protagonistas os Vigilantes!||",
-      "ru": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0441\u043f\u0438\u043d-\u043e\u0444\u0444 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0433\u043e \u0441\u0451\u043d\u0435\u043d\u0430 \u00ab\u041c\u043e\u044f \u0433\u0435\u0440\u043e\u0439\u0441\u043a\u0430\u044f \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u044f\u00bb, \u043f\u043e\u0432\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u043e \u00ab\u0433\u0435\u0440\u043e\u044f\u0445-\u043d\u0435\u043b\u0435\u0433\u0430\u043b\u0430\u0445\u00bb, \u0432\u0435\u0440\u0448\u0430\u0449\u0438\u0445 \u043f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435 \u0431\u0435\u0437 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u0438 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0433\u0435\u0440\u043e\u044f.",
-      "pt-br": "Vivendo em uma sociedade super-humana, \u00e9 dif\u00edcil se sentir especial. Mais ainda quando os holofotes s\u00e3o reservados aos her\u00f3is profissionais, aqueles legalmente autorizados a usar seus poderes especiais conhecidos como \"Individualidades\" em p\u00fablico e para o bem maior.\n\nKoichi Haimawari cresceu aspirando a vida de her\u00f3i, mas com uma habilidade med\u00edocre como \"deslizar\" que o prende ao ch\u00e3o, ele logo percebeu que s\u00f3 poderia os admirar de baixo. Ainda assim, Koichi se contenta em utilizar seus poderes para fazer boas a\u00e7\u00f5es no dia a dia, como devolver itens perdidos e ajudar idosas a atravessar a rua.\n\nContudo, a vida pacata de Koichi iria mudar abruptamente quando ele \u00e9 resgatado de uma briga em um beco por um \"vigilante\", ou her\u00f3i ilegal, Knuckleduster. Vendo potencial heroico em Koichi, Knuckleduster requisita a sua ajuda em buscar a fonte de uma perigosa droga conhecida como \"Trigger\" que intensifica as Individualidades do usu\u00e1rio ao custo de sua racionalidade.\n\nSe passando em um tempo antes da historia original, My Hero Academia: Vigilantes segue Koichi quando ele decide aceitar a reputa\u00e7\u00e3o de vil\u00e3o e se tornar um vigilante, trabalhando nas sombras da lei para impedir que o crime tome conta da superf\u00edcie.\n(My Anime List)"
-    },
-    "status": "completed",
-    "releaseDate": 2016,
-    "contentRating": "safe",
-    "lastVolume": "15",
-    "lastChapter": "126"
-  },
-  {
-    "mangaId": "2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe",
-    "title": {
-      "en": "Major 2nd"
-    },
-    "updatedAt": "2024-05-15T19:55:58+00:00",
-    "coverArt": "https://mangadex.org/covers/2bbb5a19-b25f-46fa-b5d3-0ead0f8572fe/577e6fbf-133a-45aa-8fb8-5d64c6cc218e.jpg",
-    "altTitles": [
-      {
-        "ru": "\u0412\u0442\u043e\u0440\u043e\u0439 \u041c\u044d\u0439\u0434\u0436\u043e\u0440"
-      },
-      {
-        "ja": "\u30e1\u30b8\u30e3\u30fc\u30bb\u30ab\u30f3\u30c9"
-      },
-      {
-        "en": "Major 2nd"
-      },
-      {
-        "ja-ro": "Major 2nd"
-      }
-    ],
-    "description": {
-      "en": "A sequel to the successful baseball manga MAJOR by the same author. The series follows Gorou's son Daigo."
-    },
-    "status": "ongoing",
-    "releaseDate": 2015,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "40dfdb77-7501-49ee-8f25-8f6a23ed893a",
-    "title": {
-      "en": "Utsukushii Bakemono"
-    },
-    "updatedAt": "2024-06-12T18:28:48+00:00",
-    "coverArt": "https://mangadex.org/covers/40dfdb77-7501-49ee-8f25-8f6a23ed893a/952472b2-25fe-4ece-af7d-cc566e6e9e47.jpg",
-    "altTitles": [
-      {
-        "ja": "\u7f8e\u3057\u3044\u3070\u3051\u3082\u306e"
-      },
-      {
-        "en": "The Beautiful Deity"
-      }
-    ],
-    "description": {
-      "en": "The \u201cGreat God\u201d is a god who takes the form of a beast and is said to bestow \u201cblessings\u201d on the land he visits.\n\nA village in the mountains, where the tradition still exists, was suffering from heavy snowfall that never stops throughout the year. The residents believe that this is due to a lack of offerings to the \u201cGreat God,\u201d so they make a decision.\n\nThey decided to offer a \u201cslave boy\u201d to the \u201cGreat God\u201d as a \u201chuman sacrifice\u201d....\n\nA story of \u201cboy\u201d and \u201cbeast,\u201d \u201cblessing\u201d and \u201ccurse.",
-      "ja": "\u7363\u306e\u59ff\u3092\u3057\u3066\u3001\u8a2a\u308c\u305f\u571f\u5730\u306b\u201c\u795d\u798f\u201d\u3092\u6388\u3051\u308b\u3068\u3055\u308c\u308b\u795e\u3001\u201c\u5927\u795e\u69d8\u201d\u3002\n\n\u305d\u306e\u4f1d\u627f\u304c\u6b8b\u308b\u5c71\u9593\u306e\u96c6\u843d\u306f\u3001\u4e00\u5e74\u4e2d\u964d\u308a\u3084\u3080\u3053\u3068\u306e\u306a\u3044\u8c6a\u96ea\u306b\u82e6\u3057\u3081\u3089\u308c\u3066\u3044\u305f\u3002\u201c\u5927\u795e\u69d8\u201d\u3078\u306e\u4f9b\u7269\u304c\u8db3\u308a\u306a\u3044\u305f\u3081\u3060\u3068\u8003\u3048\u305f\u4f4f\u6c11\u306f\u3068\u3042\u308b\u6c7a\u65ad\u3092\u4e0b\u3059\u3002\n\n\u305d\u308c\u306f\u201c\u5974\u96b7\u306e\u5c11\u5e74\u201d\u3092\u201c\u4eba\u8eab\u5fa1\u4f9b\u201d\u3068\u3057\u3066\u3001\u201c\u5927\u795e\u69d8\u201d\u3078\u5dee\u3057\u51fa\u3059\u3053\u3068\u3060\u3063\u305f\u2026\u3002\n\n\u201c\u5c11\u5e74\u201d\u3068\u201c\u7363\u201d\u3001\u305d\u3057\u3066\u201c\u795d\u798f\u201d\u3068\u201c\u546a\u3044\u201d\u306e\u7269\u8a9e\u3002"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "3d06a27c-90a1-4e00-a60c-30afb3746c08",
-    "title": {
-      "en": "Meguro-san wa Hajimete ja Nai"
-    },
-    "updatedAt": "2024-05-12T10:25:25+00:00",
-    "coverArt": "https://mangadex.org/covers/3d06a27c-90a1-4e00-a60c-30afb3746c08/adb400d3-c908-4865-85d8-dfb239e93f1b.jpg",
-    "altTitles": [
-      {
-        "id": "Bukan Kali Pertamanya Mbak Meguro"
-      },
-      {
-        "ja-ro": "Meguro-san wa Hajimete ja Nai"
-      },
-      {
-        "ru": "\u041d\u0435 \u0434\u0435\u0432\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u0446\u0430 \u041c\u044d\u0433\u0443\u0440\u043e-\u0441\u0430\u043d"
-      },
-      {
-        "ja": "\u76ee\u9ed2\u3055\u3093\u306f\u521d\u3081\u3066\u3058\u3083\u306a\u3044"
-      },
-      {
-        "zh-hk": "\u76ee\u9ed1\u540c\u5b78\u4e26\u975e\u7b2c\u4e00\u6b21"
-      },
-      {
-        "vi": "\u0110\u00e2y kh\u00f4ng ph\u1ea3i l\u1ea7n \u0111\u1ea7u c\u1ee7a Meguro-san"
-      },
-      {
-        "en": "It's Not Meguro-san's First Time"
-      },
-      {
-        "zh-ro": "M\u00f9 h\u0113i t\u00f3ngxu\u00e9 b\u00ecngf\u0113i d\u00ec y\u012b c\u00ec"
-      }
-    ],
-    "description": {
-      "en": "Third-year high school student Makoto Koga decides to confess to his crush, the school's most beautiful girl, second-year Saki Meguro. To his surprise, she agrees to date him. But what surprises him even more is her following words: \"I'm not a virgin.\"\n\nUnbeknownst to Koga, the surprisingly passive Meguro has the reputation of being the lascivious \"easy girl\" at school, not rejecting any boy that approaches her and having gone through multiple boyfriends.\n\nWill Koga persevere? Will he fare any differently than the rest?\nHow will Meguro react to Koga, a boy who, for once, actually approached her before he knew of her reputation?\n\n*Note: Was originally on Palcy (Kodansha platform for shojo manga), but also is on Magazine Pocket (Kodansha platform for shonen manga.)*\n\n[Alternate official raw](https://palcy.kodansha.co.jp/c/1.html)",
-      "es-la": "Koga decide confessar a garota mais bonita da escola, Meguro. Para sua surpresa, ela concorda em sair com ele. Mas o que o surpreende ainda mais s\u00e3o suas seguintes palavras: \"Eu n\u00e3o sou virgem\"."
-    },
-    "status": "ongoing",
-    "releaseDate": 2018,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "d7037b2a-874a-4360-8a7b-07f2899152fd",
-    "title": {
-      "en": "Mairimashita! Iruma-kun"
-    },
-    "updatedAt": "2024-06-11T20:17:05+00:00",
-    "coverArt": "https://mangadex.org/covers/d7037b2a-874a-4360-8a7b-07f2899152fd/727507d5-949c-4586-b976-1ec0997e5200.jpg",
-    "altTitles": [
-      {
-        "fr": "Iruma \u00e0 l\u2019\u00e9cole des d\u00e9mons"
-      },
-      {
-        "pl": "Iruma w szkole demon\u00f3w"
-      },
-      {
-        "tr": "\u0130\u015fte \u015eeytan Geliyor! Iruma-kun"
-      },
-      {
-        "tr": "\u015eeytan Okuluna Ho\u015f Geldin, Iruma-kun"
-      },
-      {
-        "en": "Welcome to Demon School! Iruma-kun"
-      },
-      {
-        "ru": "\u041f\u0440\u0438\u0434\u0438 \u0436\u0435 \u0432 \u041c\u0438\u0440 \u0414\u0435\u043c\u043e\u043d\u043e\u0432, \u0418\u0440\u0443\u043c\u0430-\u043a\u0443\u043d!"
-      },
-      {
-        "th": "\u0e2d\u0e34\u0e23\u0e38\u0e21\u0e30\u0e04\u0e38\u0e07\u0e01\u0e31\u0e1a\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e1b\u0e34\u0e28\u0e32\u0e08"
-      },
-      {
-        "zh": "\u5165\u95f4\u540c\u5b66\u5165\u9b54\u4e86"
-      },
-      {
-        "ja": "\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093"
-      },
-      {
-        "ko": "\ub9c8\uc5d0 \ub4e4\uc5b4\uac14\uc2b5\ub2c8\ub2e4! \uc774\ub8e8\ub9c8 \uad70"
-      },
-      {
-        "vi": "Iruma Gi\u00e1 \u0110\u00e1o"
-      },
-      {
-        "id": "Selamat datang di sekolah iblis! Iruma-kun"
-      },
-      {
-        "es": "Iruma-kun en el instituto demon\u00edaco"
-      }
-    ],
-    "description": {
-      "en": "Iruma Suzuki, fourteen years old, can\u2019t say no to any request. His irresponsible parents make him work dangerous job after dangerous job to support them, and then one day they sell him to a demon! But, much to his surprise, the demon wants to adopt Iruma as his grandson? Unable to refuse his request, Iruma becomes the grandson of the great demon Sullivan. His new doting demon grandfather enrolls him in Demon School Babyls \u2013 where Sullivan is coincidentally the principal. Thus begins Iruma-kun's extraordinary school life among the otherworldly, meeting many colorful demons, taking on daunting challenges, and facing his true self as he rises to become someone great. \n\nCozy magical slice of life with occasional urban terrorism.",
-      "es": "Con una vida bastante desgraciada y unos padres vagos y avaros, Iruma es arrastrado al infierno contra su voluntad despu\u00e9s de que estos lo vendan a un demonio. Pero para su sorpresa, la vida que le depara el inframundo es mucho mejor que la que ten\u00eda con su familia.\n\nBajo la tutela de su nuevo due\u00f1o, un poderoso, pero solitario demonio que s\u00f3lo quer\u00eda cumplir su anhelo de tener un nieto, empieza a asistir a un instituto del que este es director despu\u00e9s de firmar cierto contrato con \u00e9l.\n\nAhora, Iruma tiene que intentar adaptarse al mundo de los demonios mientras esconde su naturaleza humana y se enfrenta a los distintos desaf\u00edos que lo esperan en su nuevo instituto. \u00a1Su nueva vida demon\u00edaca acaba de empezar!",
-      "ru": "\u0427\u0435\u0442\u044b\u0440\u043d\u0430\u0434\u0446\u0430\u0442\u0438\u043b\u0435\u0442\u043d\u0438\u0439 \u0421\u0443\u0434\u0437\u0443\u043a\u0438 \u0418\u0440\u0443\u043c\u0430 \u0442\u043e\u043b\u044c\u043a\u043e \u0447\u0442\u043e \u0431\u044b\u043b \u0431\u0440\u043e\u0448\u0435\u043d \u0438 \u043f\u0440\u043e\u0434\u0430\u043d \u0434\u0435\u043c\u043e\u043d\u0443 \u0435\u0433\u043e \u0431\u0435\u0437\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044f\u043c\u0438! \u0422\u0435\u043c \u043d\u0435 \u043c\u0435\u043d\u0435\u0435, \u043a \u0441\u0432\u043e\u0435\u043c\u0443 \u0443\u0434\u0438\u0432\u043b\u0435\u043d\u0438\u044e, \u043e\u043d \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0442\u0435\u043f\u0435\u0440\u044c \u0436\u0438\u0432\u0435\u0442 \u0441 \u0434\u0435\u043c\u043e\u043d\u043e\u043c, \u043a\u0430\u043a \u0435\u0433\u043e \u043f\u0440\u0438\u0451\u043c\u043d\u044b\u0439 \u0432\u043d\u0443\u043a. \u0417\u0430\u0442\u0435\u043c \u043e\u043d \u043f\u043e\u0441\u0442\u0443\u043f\u0438\u043b \u0432 \u0448\u043a\u043e\u043b\u0443, \u0433\u0434\u0435 \u0435\u0433\u043e \u0434\u0435\u0434 \u2014 \u0421\u0430\u043b\u043b\u0438\u0432\u0430\u043d, \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430. \u0422\u0430\u043a \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u043d\u0435\u043e\u0431\u044b\u0447\u0430\u0439\u043d\u0430\u044f \u0448\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u0436\u0438\u0437\u043d\u044c \u0418\u0440\u0443\u043c\u044b-\u043a\u0443\u043d\u0430 \u0441\u0440\u0435\u0434\u0438 \u043f\u043e\u0442\u0443\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0445, \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u044f \u043c\u043d\u043e\u0433\u043e \u043a\u0440\u0430\u0441\u043e\u0447\u043d\u044b\u0445 \u043b\u0438\u0446, \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044f \u043d\u0430 \u0441\u0435\u0431\u044f \u0441\u043b\u043e\u0436\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u0438, \u0438 \u0441\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u044f\u0441\u044c \u0441\u043e \u0441\u0432\u043e\u0438\u043c \u0438\u0441\u0442\u0438\u043d\u043d\u044b\u043c \u2014 \u044f, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e\u0431\u044b \u0441\u0442\u0430\u0442\u044c \u043a\u0435\u043c-\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0438\u043c. \u0423\u044e\u0442\u043d\u0430\u044f \u0432\u043e\u043b\u0448\u0435\u0431\u043d\u0430\u044f \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0441\u0442\u044c \u0441 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u043c \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u043c \u0442\u0435\u0440\u0440\u043e\u0440\u0438\u0437\u043c\u043e\u043c.",
-      "tr": "On d\u00f6rt ya\u015f\u0131ndaki Iruma Suzuki hi\u00e7bir iste\u011fe hay\u0131r diyemez. Sorumsuz ailesi, onlar\u0131 ge\u00e7inmek i\u00e7in onu tehlikeli i\u015flerden tehlikeli i\u015flere ko\u015fturtur ve sonra bir g\u00fcn onu bir iblise satarlar! Ancak iblis, Iruma'y\u0131 torunu olarak evlat edinmek isteyince \u00e7ok \u015fa\u015f\u0131r\u0131r. Bu iste\u011fi reddedemeyen Iruma, b\u00fcy\u00fck iblis Sullivan'\u0131n torunu olur. Yeni sevecen iblis dedesi onu, Sullivan'\u0131n tesad\u00fcfen m\u00fcd\u00fcr\u00fc oldu\u011fu \u0130blis Okulu Babyls'e kaydettirir. B\u00f6ylece Iruma-kun'un di\u011fer d\u00fcnyadakiler aras\u0131ndaki s\u0131ra d\u0131\u015f\u0131 okul hayat\u0131 ba\u015flar; bir\u00e7ok renkli iblisle tan\u0131\u015f\u0131r, zorlu m\u00fccadelelere at\u0131l\u0131r ve b\u00fcy\u00fck biri olmak i\u00e7in y\u00fckselirken ger\u00e7ek benli\u011fiyle y\u00fczle\u015fir.",
-      "vi": "Mairimashita! Iruma-kun l\u00e0 c\u00e2u chuy\u1ec7n k\u1ec3 v\u1ec1 c\u1eadu b\u00e9 Suzuki Iruma, ng\u01b0\u1eddi \u0111\u00e3 b\u1ecb b\u1ed1 m\u1eb9 m\u00ecnh k\u00ed kh\u1ebf \u01b0\u1edbc b\u00e1n cho \u00e1c ma \u0111\u1ec3 \u0111\u1ed5i l\u1ea5y ti\u1ec1n t\u00e0i v\u00e0 b\u00ecnh an. C\u1eadu b\u00e9 Iruma \u0111\u00e1ng th\u01b0\u01a1ng t\u1eeb l\u00fac m\u1edbi bi\u1ebft \u0111i (1 tu\u1ed5i) \u0111\u00e3 ph\u1ea3i \"ra x\u00e3 h\u1ed9i\" l\u0103n l\u1ed9n, bu\u00f4n ba kh\u1eafp n\u01a1i v\u1edbi hai v\u1ecb ph\u1ee5 huynh \"t\u01b0ng t\u1eedng\" cho \u0111\u1ebfn ng\u00e0y m\u1ed9t \u00c1c Ma \u0111\u1ebfn r\u01b0\u1edbc c\u1eadu \u0111\u1ebfn Ma gi\u1edbi theo kh\u1ebf \u01b0\u1edbc. T\u01b0\u1edfng ch\u1eebng nh\u01b0 s\u1eafp v\u00e0o b\u1ee5ng qu\u1ef7 th\u00ec v\u1ecb \u00c1c Ma gi\u00e0 nua n\u00e0y \u0111\u00e3 kh\u00f3c l\u00f3c y\u00eau c\u1ea7u c\u1eadu l\u00e0m ch\u00e1u trai \u00f4ng ta, v\u1edbi b\u1ea3n t\u00ednh l\u01b0\u01a1ng thi\u1ec7n v\u00e0 t\u1ed1t b\u1ee5ng \u0111\u1ebfn c\u1ea3 b\u1ea3n th\u00e2n m\u00ecnh c\u0169ng ph\u1ea3i kinh ng\u1ea1c, c\u1eadu b\u1ea5t \u0111\u1eafc d\u0129 \u0111\u00e3 \u0111\u1ed3ng \u00fd l\u1eddi \u0111\u1ec1 ngh\u1ecb \u0111\u00f3 v\u00e0 nh\u1eadp h\u1ecdc tr\u01b0\u1eddng \u00c1c Ma theo \u00fd \u00f4ng ta. Chuy\u1ec7n g\u00ec s\u1ebd x\u1ea3y ra ti\u1ebfp theo, m\u1eddi c\u00e1c b\u1ea1n theo d\u00f5i cu\u1ed9c s\u1ed1ng h\u1ecdc \u0111\u01b0\u1eddng \u0111\u1ea7y b\u1ea5t th\u01b0\u1eddng c\u1ee7a Iruma-kun.",
-      "pt-br": "Iruma Suzuki, de quatorze anos, n\u00e3o pode dizer n\u00e3o a nenhum pedido. Seus pais irrespons\u00e1veis \u200b\u200bo fazem trabalhar em empregos perigosos para sustent\u00e1-los, e ent\u00e3o um dia eles o vendem para um dem\u00f4nio! Mas, para sua surpresa, o dem\u00f4nio quer adotar Iruma como seu neto?  \n\nIncapaz de recusar seu pedido, Iruma torna-se neto do grande dem\u00f4nio Sullivan. Seu novo av\u00f4 dem\u00f4nio amoroso o matricula na Demon School Babyls - onde Sullivan \u00e9 coincidentemente o diretor. Assim come\u00e7a a extraordin\u00e1ria vida escolar de Iruma-kun entre o outro mundo, encontrando muitos dem\u00f4nios coloridos, enfrentando desafios assustadores e enfrentando seu verdadeiro eu enquanto ele se torna algu\u00e9m grande.\n\n[ 1\u00b0 TEMP. DO ANIME ADAPTOU AT\u00c9: Vol. 7, Cap 44. ]\n[ 2\u00b0 TEMP. DO ANIME ADAPTOU AT\u00c9: Vol. 11, Cap 94. ]\n[ 3\u00b0 TEMP. DO ANIME ADAPTOU AT\u00c9: Vol. 17, metade do Cap 147.]"
-    },
-    "status": "ongoing",
-    "releaseDate": 2017,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "c5d731f9-c1cf-4a69-a797-cd9c2a58316b",
-    "title": {
-      "en": "Anemone is in Heat"
-    },
-    "updatedAt": "2024-05-24T14:24:46+00:00",
-    "coverArt": "https://mangadex.org/covers/c5d731f9-c1cf-4a69-a797-cd9c2a58316b/b578f0b2-e9df-4321-aef3-b2d315002c57.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Anemone wa Netsu o Obiru"
-      },
-      {
-        "ru": "\u0426\u0432\u0435\u0442\u0443\u0449\u0438\u0439 \u0410\u043d\u0435\u043c\u043e\u043d"
-      },
-      {
-        "zh": "\u6e29\u70ed\u7684\u94f6\u83b2\u82b1"
-      },
-      {
-        "ja": "\u30a2\u30cd\u30e2\u30cd\u306f\u71b1\u3092\u5e2f\u3073\u308b"
-      },
-      {
-        "fr": "An\u00e9mone flamboyante (Meian)"
-      },
-      {
-        "pt": "An\u00e9momas ficam mais quentes"
-      },
-      {
-        "pt-br": "An\u00eamonas ficam mais quentes"
-      }
-    ],
-    "description": {
-      "en": "Nagisa Ootsuki shed her former self out of shame from failing her highschool entrance exams. On her first day in her new highschool, who does she meet but the girl who made her fail the exam! How does Nagisa deal with these complicated emotions?",
-      "id": "Nagisa Ootsuki melepaskan dirinya yang dulu karena malu karena gagal dalam ujian masuk sekolah menengahnya. Pada hari pertamanya di sekolah menengah barunya, siapa yang dia temui selain gadis yang membuatnya gagal dalam ujian! Bagaimana Nagisa menghadapi emosi yang rumit ini?",
-      "pt": "Nagisa Ootsuki abandonou o seu antigo eu por vergonha de chumbar nos exames de admiss\u00e3o ao liceu. No seu primeiro dia na nova escola secund\u00e1ria, quem \u00e9 que ela encontra sen\u00e3o a rapariga que a fez chumbar no exame! Como \u00e9 que Nagisa lida com estas complicadas emo\u00e7\u00f5es?",
-      "pt-br": "Nagisa Ootsuki abandonou o seu antigo eu por vergonha de reprovar no exame de admiss\u00e3o ao Ensino M\u00e9dio. No seu primeiro dia na nova escola secund\u00e1ria, quem \u00e9 que ela encontra sen\u00e3o a menina que a fez falhar na prova! Como Nagisa lidar\u00e1 com estas emo\u00e7\u00f5es complicadas?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2020,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "568e2624-cf7b-4c94-a6a3-803838a1836e",
-    "title": {
-      "en": "Inkya de Wotaku de Binbou Dakedo Bijin Ojou-sama ni Osaretemasu"
-    },
-    "updatedAt": "2024-06-12T03:01:45+00:00",
-    "coverArt": "https://mangadex.org/covers/568e2624-cf7b-4c94-a6a3-803838a1836e/4e3168a3-0cea-49e1-9a62-a260284c2974.jpg",
-    "altTitles": [
-      {
-        "ja": "\u9670\u30ad\u30e3\u3067\u30f2\u30bf\u30af\u3067\u8ca7\u4e4f\u3060\u3051\u3069\u7f8e\u4eba\u304a\u5b22\u69d8\u306b\u63a8\u3055\u308c\u3066\u307e\u3059"
-      },
-      {
-        "ja-ro": "Inkya de Wotaku de Binbou Dakedo Bijin Ojou-sama ni Osaretemasu"
-      },
-      {
-        "pt-br": "Eu sou um otaku t\u00edmido e pobre, mas essa jovem linda e rica est\u00e1 obcecada por mim"
-      },
-      {
-        "ru": "\u042f \u0437\u0430\u0441\u0442\u0435\u043d\u0447\u0438\u0432\u044b\u0439 \u0438 \u0431\u0435\u0434\u043d\u044b\u0439 \u043e\u0442\u0430\u043a\u0443, \u043d\u043e \u044d\u0442\u0430 \u043a\u0440\u0430\u0441\u0438\u0432\u0430\u044f \u0431\u043e\u0433\u0430\u0442\u0430\u044f \u044e\u043d\u0430\u044f \u043b\u0435\u0434\u0438 \u043e\u0434\u0435\u0440\u0436\u0438\u043c\u0430 \u043c\u043d\u043e\u0439."
-      },
-      {
-        "en": "I'm a Shy and Poor Otaku, but This Beautiful Rich Young Lady Is Obsessed With Me"
-      }
-    ],
-    "description": {
-      "en": "Eiji is a high school student who lives with his father, an unsuccessful novelist. He is a shy, otaku, and poor boy, but he is an honest boy who never forgets the compassion for others that his late mother taught him. Even he yearns for Aoi, the daughter of the president of a large company. However, Eiji is unable to look Aoi in the eye because of the huge disparity between her and himself. One day after school, Aoi greets Eiji when he comes home. Aoi says one surprising thing to the surprised Eiji...",
-      "ja": "YouTube\u52d5\u753b\u3067550\u4e07\u518d\u751f\uff01\u3000\u904b\u547d\u306b\u5c0e\u304b\u308c\u305f\u30d9\u30bf\u7518\u30e9\u30d6\u30b3\u30e1\uff01\n\u30a8\u30a4\u30b8\u306f\u9670\u30ad\u30e3\u3067\u30f2\u30bf\u30af\u3067\u8ca7\u4e4f\u3060\u3051\u3069\u4ed6\u4eba\u306b\u5bfe\u3059\u308b\u601d\u3044\u3084\u308a\u306e\u6c17\u6301\u3061\u3092\u5fd8\u308c\u306a\u3044\u7d20\u76f4\u306a\u5c11\u5e74\u3002\u305d\u3093\u306a\u30a8\u30a4\u30b8\u3082\u61a7\u308c\u308b\u793e\u9577\u4ee4\u5b22\u30a2\u30aa\u30a4\u3055\u3093\u304c\u3042\u308b\u65e5\u3001\u30a8\u30a4\u30b8\u306e\u81ea\u5b85\u3092\u8a2a\u308c\u3001\u7a81\u5982\u3068\u3057\u3066\u30a8\u30a4\u30b8\u3068\u306e\u5a5a\u7d04\u3092\u544a\u3052\u308b\u304c\u2026\u3002\n\nY\u016bch\u016bbu d\u014dga de 550 man saisei! Unmei ni michibika reta beta ama rabu kome! Eiji wa in kya de wotaku de binb\u014ddakedo tanin ni taisuru omoiyari no kimochi o wasurenai sunaona sh\u014dnen. Son'na eiji mo akogareru shach\u014d reij\u014d aoi-san ga aru hi, eiji no jitaku o otozure, totsujotoshite eiji to no kon'yaku o tsugeruga\u2026.",
-      "ru": "\u042d\u0439\u0434\u0437\u0438 \u2014 \u0441\u0442\u0430\u0440\u0448\u0435\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a, \u0436\u0438\u0432\u0443\u0449\u0438\u0439 \u0441\u043e \u0441\u0432\u043e\u0438\u043c \u043e\u0442\u0446\u043e\u043c, \u043d\u0435\u0443\u0434\u0430\u0447\u043b\u0438\u0432\u044b\u043c \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u0435\u043c. \u041e\u043d \u0437\u0430\u0441\u0442\u0435\u043d\u0447\u0438\u0432\u044b\u0439, \u043e\u0442\u0430\u043a\u0443, \u0431\u0435\u0434\u043d\u044b\u0439, \u043d\u043e \u0447\u0435\u0441\u0442\u043d\u044b\u0439 \u043c\u0430\u043b\u044c\u0447\u0438\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0437\u0430\u0431\u044b\u0432\u0430\u0435\u0442 \u043e \u0441\u043e\u0441\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u0438 \u043a \u0434\u0440\u0443\u0433\u0438\u043c, \u043a\u0430\u043a \u0435\u0433\u043e \u043d\u0430\u0443\u0447\u0438\u043b\u0430 \u043f\u043e\u043a\u043e\u0439\u043d\u0430\u044f \u043c\u0430\u0442\u044c. \u041e\u043d \u0442\u043e\u0441\u043a\u0443\u0435\u0442 \u043f\u043e \u0410\u043e\u0439, \u0434\u043e\u0447\u0435\u0440\u0438 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u043a\u0440\u0443\u043f\u043d\u043e\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438. \u041e\u0434\u043d\u0430\u043a\u043e, \u042d\u0439\u0434\u0437\u0438 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0410\u043e\u0439 \u0432 \u0433\u043b\u0430\u0437\u0430 \u0438\u0437-\u0437\u0430 \u043e\u0433\u0440\u043e\u043c\u043d\u043e\u0433\u043e \u043d\u0435\u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u043d\u0435\u0439 \u0438 \u0438\u043c \u0441\u0430\u043c\u0438\u043c. \u041e\u0434\u043d\u0430\u0436\u0434\u044b \u043f\u043e\u0441\u043b\u0435 \u0448\u043a\u043e\u043b\u044b \u0410\u043e\u0439 \u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u042d\u0439\u0434\u0437\u0438, \u043a\u043e\u0433\u0434\u0430 \u0442\u043e\u0442 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442 \u0434\u043e\u043c\u043e\u0439. \u0410\u043e\u0439 \u0433\u043e\u0432\u043e\u0440\u0438\u0442 \u0443\u0434\u0438\u0432\u043b\u0435\u043d\u043d\u043e\u043c\u0443 \u042d\u0439\u0434\u0437\u0438 \u043e\u0434\u043d\u0443 \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u0432\u0435\u0449\u044c...",
-      "pt-br": "Eiji \u00e9 um estudante do ensino m\u00e9dio que vive com seu pai, um romancista malsucedido. Ele \u00e9 um baita nerd, e mesmo sendo pobre \u00e9 um menino obediente que n\u00e3o esquece a compaix\u00e3o alheia que sua falecida m\u00e3e lhe ensinou. Aoi, filha do presidente de uma grande empresa, admira essa idade. No entanto, Eiji n\u00e3o conseguia nem olhar para a enorme disparidade consigo mesmo. Depois da escola um dia, Aoi cumprimenta Eiji quando ela chega em casa. Eiji fica surpreso quando Aoi lhe diz uma palavra de surpresa..."
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "3",
-    "lastChapter": "16.2"
-  },
-  {
-    "mangaId": "829fc3a7-d4f4-42e9-9032-0917083f9e0d",
-    "title": {
-      "en": "Nan Hao & Shang Feng"
-    },
-    "updatedAt": "2023-01-15T14:18:13+00:00",
-    "coverArt": "https://mangadex.org/covers/829fc3a7-d4f4-42e9-9032-0917083f9e0d/844b6737-d0d6-472b-be7a-3ade50038b19.jpg",
-    "altTitles": [
-      {
-        "zh": "\u5357\u53f7\u5c1a\u98ce"
-      },
-      {
-        "en": "Nan Hao & Shang Feng the Odd Couple"
-      },
-      {
-        "ru": "\u041d\u0430\u043d\u044c \u0425\u0430\u043e \u0438 \u0428\u0430\u043d \u0424\u044d\u043d"
-      },
-      {
-        "kk": "\u041d\u0430\u043d \u0425\u0430\u043e \u043c\u0435\u043d \u0428\u0430\u043d \u0424\u0435\u043d"
-      },
-      {
-        "fr": "Nan Hao & Shang Feng, le Duo Singulier"
-      },
-      {
-        "vi": "Nam H\u00e0o Th\u01b0\u1ee3ng Phong"
-      }
-    ],
-    "description": {
-      "en": "A comedy about two ordinary high school boys.\n\n---\n\n- [Original Manhua <AC.QQ>](https://ac.qq.com/Comic/ComicInfo/id/646279)\n\n- [Original Book <Taobao>](https://item.taobao.com/item.htm?ft=t&id=643452057226)",
-      "id": "Kisah komedi tentang dua cowok SMA biasa.",
-      "it": "Una commedia su due liceali qualunque.",
-      "ru": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u043e \u0431\u0443\u0434\u043d\u044f\u0445 \u0434\u0432\u0443\u0445 \u0448\u043a\u043e\u043b\u044c\u043d\u044b\u0445 \u0434\u0440\u0443\u0437\u0435\u0439. \u0418\u043d\u043e\u0433\u0434\u0430 \u0432\u0435\u0441\u0451\u043b\u0430\u044f, \u0438\u043d\u043e\u0433\u0434\u0430 \u0433\u0440\u0443\u0441\u0442\u043d\u0430\u044f, \u0438\u043d\u043e\u0433\u0434\u0430 \u0434\u0440\u0430\u043c\u0430\u0442\u0438\u0447\u043d\u0430\u044f, \u043d\u043e \u0432\u0441\u0435\u0433\u0434\u0430 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430\u044f!",
-      "tr": "\u0130ki s\u0131radan liseli \u00e7ocuk hakk\u0131nda bir komedi.",
-      "zh": "\u201c\u9752\u6625\u662f\u4ec0\u4e48\uff1f\u7f9e\u803b+\u77eb\u60c5+\u81ea\u4ee5\u4e3a\u662f+\u81ea\u6211\u610f\u8bc6\u8fc7\u5269+\u2026\u2026\u201d \u9ad8\u6821\u7537\u751f\u5357\u53f7\u3001\u5c1a\u98ce\u662f\u4ece\u5c0f\u73a9\u5230\u5927\u7684\u6b7b\u515a\u3002\u8fd9\u662f\u5173\u4e8e\u4ed6\u4eec\u6700\u7eaf\u7cb9\u7684\u53cb\u8c0a\uff0c\u6700\u70ed\u95f9\u3001\u65e0\u5398\u5934\u7684\u6821\u56ed\u9752\u6625\u6545\u4e8b\uff01\n\n---\n\n- [Original Manhua <AC.QQ>](https://ac.qq.com/Comic/ComicInfo/id/646279)\n\n- [Original Book <Taobao>](https://item.taobao.com/item.htm?ft=t&id=643452057226)",
-      "pt-br": "Uma com\u00e9dia sobre dois garotos comuns do ensino m\u00e9dio."
-    },
-    "status": "ongoing",
-    "releaseDate": 2019,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "dbc54fff-e34a-4965-8944-fed9d0eab402",
-    "title": {
-      "en": "Mayonaka Lolita"
-    },
-    "updatedAt": "2021-05-25T15:48:27+00:00",
-    "coverArt": "https://mangadex.org/covers/dbc54fff-e34a-4965-8944-fed9d0eab402/63bfc874-233c-4f29-a080-adcdedebadd3.jpg",
-    "altTitles": [
-      {
-        "en": "Midnight Lolita"
-      },
-      {
-        "en": "\u6df1\u591c\u7684\u841d\u8389\u5854"
-      },
-      {
-        "en": "\u6df1\u591c\u7684\u863f\u8389\u5854"
-      },
-      {
-        "en": "\u771f\u591c\u4e2d\u3000\u30ed\u30ea\u30fc\u30bf"
-      }
-    ],
-    "description": {
-      "en": "After she took some medicine, Michiryuu suddenly became a little girl. People used to say that she was really perfect. That's why she wants to go back to normal quickly. But the condition if she wants that happen is to find \"a person she'll love\". But that's completely impossible for her! So what will happen to Michiryuu\u2026?"
-    },
-    "status": "completed",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": null
-  },
-  {
-    "mangaId": "3ba413e9-52bc-4ca9-b5f0-f55335e2f880",
-    "title": {
-      "en": "Captain Tsubasa Memories"
-    },
-    "updatedAt": "2024-06-04T15:33:07+00:00",
-    "coverArt": "https://mangadex.org/covers/3ba413e9-52bc-4ca9-b5f0-f55335e2f880/0c635774-d94f-4381-9073-e682ecdad4d7.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Captain Tsubasa Memories ~Kore wa Nankatsu Sh\u014d vs Sh\u016btetsu Sh\u014d Taik\u014dsen T\u014djitsu ni Okotta Hanashi~"
-      },
-      {
-        "ja": "\u30ad\u30e3\u30d7\u30c6\u30f3\u7ffc MEMORIES"
-      },
-      {
-        "en": "Oozora's family moving out"
-      },
-      {
-        "en": "I'm Wakabayashi Genzo, birth of the SGGK"
-      },
-      {
-        "en": "The legend of the strongest Meiwa FC"
-      }
-    ],
-    "description": {
-      "en": "A collection of the \"Captain Tsubasa Memories\" one-shot series."
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "6c1eb4e1-95c5-466e-b4e6-ea545585d19a",
-    "title": {
-      "en": "Tsubaki-chou Lonely Planet"
-    },
-    "updatedAt": "2024-06-13T03:47:26+00:00",
-    "coverArt": "https://mangadex.org/covers/6c1eb4e1-95c5-466e-b4e6-ea545585d19a/1921bf9e-701c-4034-b50e-3a370f191f09.jpg",
-    "altTitles": [
-      {
-        "ja": "\u693f\u753a\u30ed\u30f3\u30ea\u30fc\u30d7\u30e9\u30cd\u30c3\u30c8"
-      },
-      {
-        "ja-ro": "Tsubakichou Ronrii Puranetto"
-      },
-      {
-        "en": "This Lonely Planet"
-      },
-      {
-        "ar": "\u0643\u0648\u0643\u0628 \u062a\u0633\u0648\u0628\u0627\u0643\u064a \u062a\u0634\u0648 \u0627\u0644\u0648\u062d\u064a\u062f"
-      },
-      {
-        "ar": "\u0643\u0648\u0643\u0628 \u062d\u064a \u062a\u0633\u0648\u0628\u0627\u0643\u064a \u0627\u0644\u0648\u062d\u064a\u062f"
-      },
-      {
-        "th": "\u0e02\u0e22\u0e31\u0e1a\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e02\u0e49\u0e32\u0e43\u0e01\u0e25\u0e49\u0e19\u0e32\u0e22\u0e21\u0e32\u0e14\u0e40\u0e02\u0e49\u0e21"
-      },
-      {
-        "ko": "\uce20\ubc14\ud0a4 \ucd78 \ub860\ub9ac \ud50c\ub798\ub2db"
-      },
-      {
-        "zh": "\u693f\u753a\u91cc\u7684\u5bc2\u5bde\u661f\u7403"
-      }
-    ],
-    "description": {
-      "en": "Ohno Fumi is a poor 2nd year high school student. Because of her father's debts, she's kicked out of her own home and has to rely on her own connections to survive. Thus begins her life as a live-in housekeeper for a reclusive writer."
-    },
-    "status": "completed",
-    "releaseDate": 2015,
-    "contentRating": "safe",
-    "lastVolume": "14",
-    "lastChapter": "77.4"
-  },
-  {
-    "mangaId": "8ef11280-30bc-434b-bf61-c61e092905ac",
-    "title": {
-      "en": "Class de 2 Banme ni Kawaii Onna no Ko to Tomodachi ni Natta"
-    },
-    "updatedAt": "2024-05-25T13:16:33+00:00",
-    "coverArt": "https://mangadex.org/covers/8ef11280-30bc-434b-bf61-c61e092905ac/b00bfc79-80d8-4828-9330-cd0e5b86da97.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30af\u30e9\u30b9\u3067\uff12\u756a\u76ee\u306b\u53ef\u611b\u3044\u5973\u306e\u5b50\u3068\u53cb\u3060\u3061\u306b\u306a\u3063\u305f"
-      },
-      {
-        "en": "I Became Friends with the Second Cutest Girl in My Class"
-      },
-      {
-        "ja-ro": "Class de 2 Banme ni Kawaii Onna no Ko to Tomodachi ni Natta"
-      },
-      {
-        "id": "Aku Berteman dengan Gadis Paling Cantik Kedua di Kelas ku"
-      },
-      {
-        "it": "Sono diventato amico con la seconda ragazza pi\u00f9 carina nella mia classe"
-      }
-    ],
-    "description": {
-      "en": "I, Maehara Maki, someone who couldn\u2019t make any acquaintances or friends in high school, finally had someone I can hang out with outside of school. A girl.\n\nHer name was Asanagi-san. The boys in my class called her \u2018The class\u2019 second cutest girl\u2019 behind her back.\n\nOn Fridays, she would refuse her best friend, Amami, \u2018the cutest girl in class\u2019 invitation just to hang out in my house with me.\n\nTogether, we played games, watched some movies, read some manga while eating junk foods like pizza and hamburgers, and chugging cola without a care in the world. To others, we may seem sloppy, but it was a precious, secret time together for Asanagi-san and myself.",
-      "id": "Aku, Maehara Maki, seseorang yang tidak memiliki kenalan atau teman di SMA, akhirnya memiliki seseorang yang bisa aku ajak bergaul di luar sekolah. Seorang gadis.\n\nNamanya Asanagi-san. Anak-anak laki-laki di kelas saya memanggilnya 'Gadis paling imut kedua di kelas' di belakangnya.\n\nPada hari Jumat, dia akan menolak ajakan sahabatnya, Amami, 'gadis paling manis di kelas' hanya untuk berkumpul di rumah ku dengan ku.\n\nBersama-sama, kami bermain game, menonton film, membaca manga sambil makan junk food seperti pizza dan hamburger, dan menenggak cola tanpa peduli dengan dunia. Bagi orang lain, kami mungkin terlihat ceroboh, tetapi itu adalah waktu yang berharga, waktu rahasia bersama untuk Asanagi-san dan ku sendiri.",
-      "es-la": "Yo, Maehara Maki, alguien que no pod\u00eda conocer ni hacer amigos en la escuela secundaria, finalmente ten\u00eda a alguien con quien pod\u00eda pasar el rato fuera de la escuela. Una mujer. Su nombre era Asanagi-san. Los chicos de mi clase la llamaban \"La segunda chica m\u00e1s linda de la clase'\" a sus espaldas. Los viernes, rechazaba la invitaci\u00f3n de su mejor amiga, Amami, \"la chica m\u00e1s linda de la clase\" solo para pasar el rato en mi casa conmigo. Juntos, jugamos, vimos algunas pel\u00edculas, le\u00edmos manga mientras com\u00edamos comida chatarra como pizza y hamburguesas, y tom\u00e1bamos refrescos de cola sin preocuparnos por nada. Para otros, podemos parecer descuidados, pero fue un tiempo secreto y precioso para Asanagi-san y para m\u00ed.",
-      "pt-br": "Eu, Maehara Maki, algu\u00e9m que n\u00e3o conseguia conhecer ou fazer amigos no ensino m\u00e9dio, finalmente consegui algu\u00e9m com quem eu pudesse sair fora da escola. Uma garota.\n\nO nome dela era Asanagi-san. Os meninos da minha turma a chamavam de 'a segunda garota mais fofa da turma' pelas costas.\n\n\u00c0s sextas-feiras, ela recusava o convite de sua melhor amiga, Amami, 'a garota mais fofa da classe' s\u00f3 para ficar na minha casa comigo.\n\nJuntos, jogamos, assistimos a alguns filmes, lemos alguns mang\u00e1s enquanto com\u00edamos junk food como pizza e hamb\u00fargueres e beb\u00edamos refrigerantes sem nenhuma preocupa\u00e7\u00e3o no mundo. Para outros, podemos parecer desleixados, mas foi um tempo precioso e secreto juntos para Asanagi-san e eu."
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "d07f1832-6d9a-4fb1-8cff-b5f2dda73c27",
-    "title": {
-      "en": "Kuzu Rouninsei, Jinsei ga Tsurai no de Yoru no Onee-san wo Yondemita"
-    },
-    "updatedAt": "2024-05-03T03:37:20+00:00",
-    "coverArt": "https://mangadex.org/covers/d07f1832-6d9a-4fb1-8cff-b5f2dda73c27/bbed95ac-0eb9-461c-afc1-8aa3dcc9c779.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30af\u30ba\u6d6a\u4eba\u751f\u3001\u4eba\u751f\u304c\u8f9b\u3044\u306e\u3067\u591c\u306e\u304a\u59c9\u3055\u3093\u3092\u547c\u3093\u3067\u307f\u305f"
-      },
-      {
-        "en": "A Scummy Gap Student With a Hard Life Calls Upon a Lady of the Night"
-      },
-      {
-        "en": "Failed University Exams, I am Trash and Life is Hard, so I Tried Calling an Onee-san at Night"
-      }
-    ],
-    "description": {
-      "en": "Makino failed her college entrance exam. Her only comfort is in her 2D game characters... until she found an ad for a call-girl who looked exactly like her favorite in-game waifu! The yuri love comedy between a gullible young woman and a street-wise call-girl begins now!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "f4a5bb4f-440d-485a-94c3-8f5882e65a62",
-    "title": {
-      "en": "Otome Holic"
-    },
-    "updatedAt": "2024-06-13T03:38:45+00:00",
-    "coverArt": "https://mangadex.org/covers/f4a5bb4f-440d-485a-94c3-8f5882e65a62/55ac18ff-e881-40b9-971f-c40bd387b55e.png",
-    "altTitles": [
-      {
-        "en": "Maiden Holic"
-      },
-      {
-        "en": "Virgin Holic"
-      },
-      {
-        "ar": "\u0639\u0630\u0631\u0627\u0621 \u0647\u0648\u0644\u064a\u0643"
-      },
-      {
-        "ja": "\u4e59\u5973Holic"
-      }
-    ],
-    "description": {
-      "en": "Riko started a wonderful high school life with literary and military arts. But she has the feeling she'll get in troubles. The low grade Kurose Yui is a pervert and an uncool boy. He's detestable! And then he stole the chair of the school principal's son who's the best student. He will even find out what Riko dream about\u2026."
-    },
-    "status": "completed",
-    "releaseDate": 2012,
-    "contentRating": "safe",
-    "lastVolume": "3",
-    "lastChapter": "21"
-  },
-  {
-    "mangaId": "c353cd64-d95c-4b98-b5f4-4aae9368f50a",
-    "title": {
-      "en": "Keep an Eye on You"
-    },
-    "updatedAt": "2024-06-05T22:16:23+00:00",
-    "coverArt": "https://mangadex.org/covers/c353cd64-d95c-4b98-b5f4-4aae9368f50a/e4cb8772-eb19-4776-839b-31469c08001b.png",
-    "altTitles": [
-      {
-        "zh": "\u56da\u4f60\u4e8e\u638c\u4e2d"
-      },
-      {
-        "zh-ro": "Qiu Ni Yu Zhang Zhong"
-      },
-      {
-        "en": "confine you in my palm"
-      }
-    ],
-    "description": {
-      "en": "A mystery murder case shatters Lan Zhiqing's serene and blissful life into pieces. The past she has long forgotten returns in the form of a nightmarish case, encroaching ever the closer... Shocked, Lan Zhiqing discovers that the most dangerous existence may just be the person she shares a bed with."
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": "60"
-  },
-  {
-    "mangaId": "4640778f-9f2b-45eb-b7fd-348137ac90e7",
-    "title": {
-      "en": "Kappa Shounen Benisuke"
-    },
-    "updatedAt": "2023-11-23T14:00:31+00:00",
-    "coverArt": "https://mangadex.org/covers/4640778f-9f2b-45eb-b7fd-348137ac90e7/043dc712-e3f7-4cff-8a98-82210605fe95.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30ab\u30c3\u30d1\u5c11\u5e74\u7d05\u4ecb\u301c\u662d\u548c\u5996\u602a\u604b\u7269\u8a9e"
-      },
-      {
-        "zh": "\u6cb3\u7ae5\u5c11\u5e74\u7ea2\u4ecb~\u662d\u548c\u5996\u602a\u604b\u7269\u8bed~"
-      }
-    ],
-    "description": {},
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "7be5032d-1059-4381-bb07-48115eba3073",
-    "title": {
-      "en": "Genshiken Nidaime - The Society for the Study of Modern Visual Culture II"
-    },
-    "updatedAt": "2024-05-05T00:22:32+00:00",
-    "coverArt": "https://mangadex.org/covers/7be5032d-1059-4381-bb07-48115eba3073/2a326e97-2808-4663-90ed-0d8bcacdfc56.jpg",
-    "altTitles": [
-      {
-        "en": "Genshiken: Second Season"
-      },
-      {
-        "ru": "\u0413\u044d\u043d\u0441\u0438\u043a\u044d\u043d: \u0432\u0442\u043e\u0440\u043e\u0435 \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435"
-      },
-      {
-        "ja": "\u3052\u3093\u3057\u3051\u3093 \u4e8c\u4ee3\u76ee"
-      },
-      {
-        "zh": "\u73b0\u89c6\u7814\u4e8c\u4ee3\u76ee"
-      }
-    ],
-    "description": {
-      "en": "Genshiken follows the lives of a group of college students drawn together by their shared hobbies, and the trials and adventures associated with being otaku.  \n  \nGenshiken Nidaime (\"Second Generation\") is a continuation of the previous series, with chapter numbering starting at 56."
-    },
-    "status": "completed",
-    "releaseDate": 2010,
-    "contentRating": "safe",
-    "lastVolume": "21",
-    "lastChapter": "127"
-  },
-  {
-    "mangaId": "a0b49136-9f4d-46d4-b5dd-d5393e015009",
-    "title": {
-      "en": "One Piece Party"
-    },
-    "updatedAt": "2023-05-27T19:05:43+00:00",
-    "coverArt": "https://mangadex.org/covers/a0b49136-9f4d-46d4-b5dd-d5393e015009/cd133b2a-c268-44b5-a238-799645ddd51c.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30ef\u30f3\u30d4\u30fc\u30b9\u30d1\u30fc\u30c6\u30a3\u30fc"
-      }
-    ],
-    "description": {
-      "en": "Spin-off of One Piece, which takes place post-timeskip, showing the cast in SD/chibi form and features their hilarious antics around various islands while out in the sea."
-    },
-    "status": "completed",
-    "releaseDate": 2014,
-    "contentRating": "safe",
-    "lastVolume": "7",
-    "lastChapter": "34"
-  },
-  {
-    "mangaId": "cb00a252-8c71-4f90-a280-d8e71d71231a",
-    "title": {
-      "en": "Touhou - Komachi & Eiki 4 Lovey-Dovey Manga (Doujinshi)"
-    },
-    "updatedAt": "2024-06-08T15:54:47+00:00",
-    "coverArt": "https://mangadex.org/covers/cb00a252-8c71-4f90-a280-d8e71d71231a/fc3d08e3-a4cd-4328-90fb-0e25cbd9fd61.png",
-    "altTitles": [
-      {
-        "en": "Komachi & Eiki 4 Lovey-Dovey Manga"
-      },
-      {
-        "ja": "\u3053\u307e\u3048\u30fc\u304d\u30a4\u30c1\u30e3\u30a4\u30c1\u30e3\u6f2b\u753b"
-      }
-    ],
-    "description": {},
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "ad9ac663-2d34-48cf-a458-a03f5370bf47",
-    "title": {
-      "en": "The Secret of the Partner Next to You"
-    },
-    "updatedAt": "2024-01-22T00:26:12+00:00",
-    "coverArt": "https://mangadex.org/covers/ad9ac663-2d34-48cf-a458-a03f5370bf47/8579469a-ee38-4fe6-a062-59a6cf75b1ca.jpg",
-    "altTitles": [
-      {
-        "en": "Jae-Kyung's Secret"
-      },
-      {
-        "en": "The Secret of Jae-Kyung"
-      },
-      {
-        "es-la": "El secreto de Jae-Kyung"
-      },
-      {
-        "ko": "\uc606\uc790\ub9ac \uc9dd\uafcd\uc758 \ube44\ubc00"
-      },
-      {
-        "pt-br": "O Segredo de Jae-Kyung"
-      },
-      {
-        "ko-ro": "Yeopjali jjagkkung-ui bimil"
-      },
-      {
-        "id": "Rahasia Mitra Di Samping Anda"
-      }
-    ],
-    "description": {
-      "en": "Yang Kiryong is an ordinary high school boy who has a classmate named Yoo Jae-Kyung, who is somewhat clumsy and clueless. Both have a very good friendship, but without any kind of love attraction. Until one day, by chance, Kiryong discovered the deepest secret of his friend and because of this his heart began to beat, will it be beats of fear or love?",
-      "ko": "\ud3c9\ubc94\ud55c \ub0a8\uc790 \uace0\ub4f1\ud559\uc0dd \uc591\uae30\ub8e1.\n\uadf8\ub9ac\uace0 \uc5b8\uc81c\ub098 \ud5e4\uc2e4\ud5e4\uc2e4\ud558\uace0 \uac00\ub054 \ub098\uc0ac\ube60\uc9c4 \ud589\ub3d9\uc744 \ud558\ub294\n\uadf8\uc758 \uc9dd\uafcd \uc720\uc7ac\uacbd.\n\uadf8\ub7ed\uc800\ub7ed \uadc0\uc5fd\ub2e4\uace0 \uc0dd\uac01\ub418\ub294 \ubc18 \uce5c\uad6c\uc600\uc744 \ubfd0\uc778\ub370..\n\uc5b4\ub290 \ub0a0 \uc6b0\uc5f0\ud788 \uadf8\ub140\uc758 \uc704\ud5d8\ud55c \ube44\ubc00\uc744 \uc54c\uac8c \ub41c\ub2e4.\n\uc774 \uc2ec\uc7a5\uc758 \ub450\uadfc\uac70\ub9bc\uc740 \ub450\ub824\uc6c0\uc778\uc9c0, \uc124\ub818\uc778\uc9c0..?",
-      "es-la": "Yang Kiryong es un chico de preparatoria com\u00fan y corriente, que tiene una compa\u00f1era de clase llamada Yoo Jae-Kyung, la cual es algo torpe y despistada. Ambos tienen una muy buena amistad, pero sin ning\u00fan tipo de atracci\u00f3n amorosa. Hasta que un d\u00eda, por casualidad, Kiryong descubri\u00f3 el secreto m\u00e1s profundo de su amiga y debido a esto su coraz\u00f3n empez\u00f3 a latir, \u00bfser\u00e1n latidos de miedo o amor?",
-      "pt-br": "Yang Kiryong \u00e9 um garoto comum do ensino m\u00e9dio que tem uma colega de classe chamada Yoo Jae-Kyung, que \u00e9 um pouco desajeitada e sem no\u00e7\u00e3o. Ambos t\u00eam uma amizade muito boa, mas sem nenhum tipo de atra\u00e7\u00e3o amorosa. At\u00e9 que um dia, por acaso, Kiryong descobriu o segredo mais profundo de sua amiga. Por causa disso seu cora\u00e7\u00e3o come\u00e7ou a bater, ser\u00e1 de medo ou de amor?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "53d632ed-4a2f-4fb7-a7b0-8c6e9cd0ae6e",
-    "title": {
-      "en": "Hidden Love: Can't Be Concealed"
-    },
-    "updatedAt": "2023-12-27T17:57:05+00:00",
-    "coverArt": "https://mangadex.org/covers/53d632ed-4a2f-4fb7-a7b0-8c6e9cd0ae6e/8bcfc927-9424-48e4-8a3c-a50a13371e2f.jpg",
-    "altTitles": [
-      {
-        "en": "Secretly, Secretly; But Unable to Hide It"
-      },
-      {
-        "en": "Hidden Love"
-      },
-      {
-        "zh": "\u5077\u5077\u85cf\u4e0d\u4f4f"
-      },
-      {
-        "en": "My Secret Crush"
-      }
-    ],
-    "description": {
-      "en": "That year, someone secretly wormed their way into Sang Zhi's heart and she fell in love with her brother's friend Duan Jiaxu. That older brother has beautiful peachy eyes and casually calls her a \"kid\". That spark of surprise when they first met made Sang Zhi want to slowly get closer to him, but the 7-year age difference felt like an insurmountable gap that she couldn't cross over. Not knowing when it started, the crush buried at the bottom of her heart sprouted, and slowly, it spread into his heart too...",
-      "zh": "\u90a3\u5e74\uff0c\u6851\u7a1a\u7684\u5fc3\u91cc\u5077\u5077\u5730\u4f4f\u8fdb\u4e86\u4e00\u4e2a\u4eba\uff0c\u559c\u6b22\u4e0a\u54e5\u54e5\u7684\u670b\u53cb\u6bb5\u5609\u8bb8\uff0c\u8fd9\u4e2a\u5927\u54e5\u54e5\u6709\u7740\u597d\u770b\u7684\u6843\u82b1\u773c\uff0c\u6f2b\u4e0d\u7ecf\u5fc3\u7684\u558a\u5979\u201c\u5c0f\u5b69\u201d\uff0c\u521d\u89c1\u7684\u60ca\u8273\u603b\u662f\u8ba9\u6851\u7a1a\u5fcd\u4e0d\u4f4f\u60f3\u8981\u9760\u8fd1\uff0c\u4f46\u662f7\u5c81\u7684\u5e74\u9f84\u5dee\u4eff\u4f5b\u53c8\u662f\u4ed6\u4eec\u65e0\u6cd5\u903e\u8d8a\u7684\u9e3f\u6c9f\uff0c\u4e0d\u77e5\u4ece\u4f55\u65f6\u8d77\uff0c\u57cb\u85cf\u5728\u5fc3\u5e95\u7684\u9752\u6da9\u6697\u604b\u9010\u6e10\u53d1\u82bd\uff0c\u6162\u6162\u5730\uff0c\u4e5f\u8513\u5ef6\u8fdb\u4e86\u4ed6\u7684\u5fc3\u91cc...\u3010"
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "ad59c8bb-e645-41d2-bc16-65b1b94cafd6",
-    "title": {
-      "en": "Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life"
-    },
-    "updatedAt": "2024-03-25T15:07:19+00:00",
-    "coverArt": "https://mangadex.org/covers/ad59c8bb-e645-41d2-bc16-65b1b94cafd6/8d662c31-8ae2-45c3-824c-dd7ec62f11cc.jpg",
-    "altTitles": [
-      {
-        "en": "Country Building Story in Another World with the Pioneering Village in His Palm: Easy Life on the Uninhabited Island with His Ever Increasing Wives"
-      },
-      {
-        "en": "Foundation of a State in Another World With a Hand-Built Colony Village: Carefree Life on an Uninhabitated Island With an Increasing Number of Brides"
-      },
-      {
-        "ja": "Tenohira Kaitakumura de Isekai Kenkouki: Fueteku Yome-tachi to Nonbiri Mujintou Raifu"
-      },
-      {
-        "en": "With Single Palm Founding a Pioneering Village a in Another World: Live With The Married Girls in Uninhabited Island Life"
-      },
-      {
-        "ja": "\u3066\u306e\u3072\u3089\u958b\u62d3\u6751\u3067\u7570\u4e16\u754c\u5efa\u56fd\u8a18\u301c\u5897\u3048\u3066\u304f\u5ac1\u305f\u3061\u3068\u306e\u3093\u3073\u308a\u7121\u4eba\u5cf6\u30e9\u30a4\u30d5\u301c"
-      },
-      {
-        "en": "Tenohira Pioneer Village"
-      },
-      {
-        "zh": "\u5728\u638c\u4e2d\u5f00\u62d3\u6751\u7684\u5f02\u4e16\u754c\u5efa\u56fd\u8bb0"
-      },
-      {
-        "ja-ro": "Tenohira Kaitaku Mura de Isekai Kenkoku-ki: Fuete ku Yome-tachi to Nonbiri Mujint\u014d Life"
-      },
-      {
-        "zh-hk": "\u5728\u638c\u4e2d\u958b\u62d3\u6751\u7684\u7570\u4e16\u754c\u5efa\u570b\u8a18"
-      }
-    ],
-    "description": {
-      "en": "Kai, a sickly kid, wished for a lively normal life on his deathbed when he was suddenly reincarnated into another world. Not only the boy\u2019s wishes were fulfilled, he was also gifted an ability to be a god of his own little world at the back of his palm. Yet such bliss did not last long\u2026  \n  \nKai was abruptly separated from his loving adopted family and banished into an uninhabited island teeming with dangerous creatures. Using his ingenious wit and a help from a mysterious horned girl, Kai managed to survive and establish a small foothold with his army of cute stubby helpers.  \n  \nWatch as Kai tries to further tame this wilderness, building up his sanctuary and harem. Easy living!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2018,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "6c62d637-4004-426f-ba7f-be45e18941b6",
-    "title": {
-      "en": "Yankee JK KuzuHana-chan"
-    },
-    "updatedAt": "2024-05-30T05:42:52+00:00",
-    "coverArt": "https://mangadex.org/covers/6c62d637-4004-426f-ba7f-be45e18941b6/c731bd3e-4629-461c-9d4f-a3c34ffd0f7e.jpg",
-    "altTitles": [
-      {
-        "es": "Colegiala Delincuente/Yankee KuzuHana-chan"
-      },
-      {
-        "en": "Delinquent high school girl KuzuHana-chan"
-      },
-      {
-        "en": "Yankee high school girl KuzuHana-chan"
-      },
-      {
-        "ja": "\u30e4\u30f3\u30ad\u30fcJK\u30af\u30b9\u3099\u30cf\u30ca\u3061\u3083\u3093"
-      },
-      {
-        "zh-hk": "\u4e0d\u826fJK\u83ef\u5b50\u91ac"
-      },
-      {
-        "pt-br": "Garota Delinquente Do Ensino M\u00e9dio KuzuHana-chan"
-      }
-    ],
-    "description": {
-      "en": "At the beginning of the academic year, Saotome Hodaka enrolls into Moteshiro Prefectural High School, a former all-girls school that had recently integrated, but discovers it has a male to female ratio of 1:359! \n\nWhile most might think of this as a paradise, the majority of the students are delinquents and Saotome immediately finds himself being extorted by some of the more aggressive girls. However, he is inadvertently saved by Hanako Kuzuryu, a beautiful delinquent who just wants to be left alone.\n\nIs this the start of a new friendship? And how will Saotome's life unfold in a school full of troublesome women?",
-      "fr": "Au d\u00e9but de l'ann\u00e9e scolaire, Saotome Hodaka int\u00e8gre le lyc\u00e9e pr\u00e9fectoral de Moteshiro, ancien \u00e9tablissement r\u00e9serv\u00e9 aux filles et r\u00e9cemment devenu mixte. Il d\u00e9couvre rapidement que le ratio gar\u00e7ons/filles est de 1:359 !\n\nBien que cela puisse sembler \u00eatre un paradis pour certains, la majorit\u00e9 des \u00e9l\u00e8ves sont des d\u00e9linquantes, et Saotome se retrouve aussit\u00f4t extorqu\u00e9 par certaines des filles les plus agressives. Par chance, il est sauv\u00e9 malgr\u00e9 lui par Hanako Kuzuryu, une belle d\u00e9linquante qui aspire seulement \u00e0 \u00eatre laiss\u00e9e en paix.\n\nEst-ce le d\u00e9but d'une nouvelle amiti\u00e9 ? Comment la vie de Saotome \u00e9voluera-t-elle dans une \u00e9cole pleine de filles turbulentes ?",
-      "ja": "\u7537\u5973\u6bd4\u73871\u5bfe359!!\u3000359\u4eba\u306e\u5973\u5b50\u9ad8\u751f\u306b\u3044\u3058\u3089\u308c\u307e\u304f\u308a!!\u3000\u3064\u3089\u305f\u3093\u30cf\u30fc\u30ec\u30e0\u5b66\u5712\u30e9\u30d6\u30b3\u30e1!!\u3000\u30b3\u30ef\u304b\u308f\u6700\u5f37\u30d2\u30ed\u30a4\u30f3\u7206\u8a95!!\n\u56db\u65b9\u516b\u65b9\u30ae\u30e3\u30eb\u3060\u3089\u3051\u306a\u770c\u7acb\u8302\u624b\u57ce\u9ad8\u6821\u306b\u5165\u5b66\u3057\u305f\u9ed2\u4e00\u70b9\u30fb\u65e9\u4e59\u5973\u7a42\u9ad8\u306f\u3001\u30e4\u30f3\u30ad\u30fcJK\u30fb\u4e5d\u982d\u7adc\u83ef\u5b50\u306b\u30d4\u30f3\u30c1\u3092\u6551\u308f\u308c\u3066\u2026!?",
-      "pt-br": "Uma propor\u00e7\u00e3o de homem para mulher de 1:359?!\n\nSaotome-kun \u00e9 admitido em uma escola cheia de gyarus e conhece uma garota delinq\u00fcente chamada Hanako Kuzuryu."
-    },
-    "status": "ongoing",
-    "releaseDate": 2020,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
-    "title": {
-      "en": "Jujutsu Kaisen"
-    },
-    "updatedAt": "2024-05-05T20:35:59+00:00",
-    "coverArt": "https://mangadex.org/covers/c52b2ce3-7f95-469c-96b0-479524fb7a1a/a112e575-4f11-48b2-83d8-28057ceecc4c.jpg",
-    "altTitles": [
-      {
-        "es": "Batalla de hechiceros"
-      },
-      {
-        "en": "Magic Martial Arts"
-      },
-      {
-        "ru": "\u0416\u04af\u0436\u04af\u0446\u04af \u041a\u0430\u0439\u0441\u044d\u043d"
-      },
-      {
-        "ru": "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0431\u0438\u0442\u0432\u0430"
-      },
-      {
-        "ja": "\u546a\u8853\u5efb\u6226"
-      },
-      {
-        "zh": "\u5492\u672f\u56de\u6218"
-      },
-      {
-        "zh-hk": "\u5492\u8853\u56de\u6230"
-      },
-      {
-        "ko": "\uc8fc\uc220\ud68c\uc804"
-      },
-      {
-        "uk": "\u041c\u0430\u0433\u0456\u0447\u043d\u0430 \u0411\u0438\u0442\u0432\u0430"
-      },
-      {
-        "en": "Magic Jujutsu"
-      },
-      {
-        "kk": "\u0421\u0438\u049b\u044b\u0440\u043b\u044b \u0448\u0430\u0439\u049b\u0430\u0441"
-      },
-      {
-        "kk": "\u0410\u043b\u0430\u0441 \u0442\u0430\u043b\u0430\u0441"
-      },
-      {
-        "tr": "B\u00fcy\u00fcl\u00fc D\u00f6v\u00fc\u015f Sanatlar\u0131"
-      },
-      {
-        "fr": "Jujutsu Kaisen"
-      },
-      {
-        "pt-br": "Jujutsu Kaisen - Batalha de Feiticeiros"
-      },
-      {
-        "en": "Revolving Sorcery Fight"
-      }
-    ],
-    "description": {
-      "en": "For some strange reason, Yuji Itadori, despite his insane athleticism would rather just hang out with the Occult Club. However, her soon finds out that the occult is as real as it gets when his fellow club members are attacked!\n\nMeanwhile, the mysterious Megumi Fushiguro is tracking down a special-grade cursed object, and his search leads him to Itadori...",
-      "fr": "Yuuji est un jeune \u00e9tudiant qui excelle dans le sport, notamment dans l'athl\u00e9tisme, mais qui a un immense poil dans la main. Du coup, au lieu de parfaire ses capacit\u00e9s physiques qui pourraient lui permettre de devenir le meilleur de l'\u00e9tablissement, il s'est inscrit au club de recherches occultes du lyc\u00e9e. Son petit train-train va changer du tout au tout lorsqu'un v\u00e9ritable esprit malfaiteur vient menacer son \u00e9cole\u2026\n\n---\n\nMaison d'\u00e9dition FR : **Ki-oon**",
-      "ru": "\u042e\u0434\u0437\u0438 \u0433\u0435\u043d\u0438\u0439 \u043d\u0430 \u043f\u043e\u043b\u0435! \u0412\u043e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0448\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0435\u0433\u043e \u043c\u0430\u043b\u043e \u0447\u0435\u043c \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0435\u0442. \u0421\u0442\u0430\u0432 \u0447\u0430\u0441\u0442\u044c\u044e \u043a\u043b\u0443\u0431\u0430 \u043e\u043a\u043a\u0443\u043b\u044c\u0442\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u043e\u043d \u0440\u0435\u0448\u0430\u0435\u0442 \u0437\u0430\u0436\u0438\u0442\u044c \u0442\u0438\u0445\u043e\u0439 \u0436\u0438\u0437\u043d\u044c\u044e, \u043d\u043e \u0432\u0441\u0435 \u043c\u0435\u043d\u044f\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u0432 \u0448\u043a\u043e\u043b\u0435 \u043e\u0431\u044a\u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0434\u0443\u0445\u0438.",
-      "tr": "Yuuji bir atletizm dehas\u0131d\u0131r ama ko\u015fuya hi\u00e7 ilgisi yoktur. Bilinmezleri Ara\u015ft\u0131rma Kul\u00fcb\u00fcnde \u00e7ok mutludur. Her ne kadar kul\u00fcpte e\u011flencesine bulunsa bile, okulda ger\u00e7ek bir ruh ortaya \u00e7\u0131k\u0131nca i\u015fler ciddiye biner! Hayat, Sugisawa \u015eehrindeki 3 Numaral\u0131 Lisedeki \u00e7ocuklar i\u00e7in tuhafla\u015fmaya ba\u015flamak \u00fczere!",
-      "uk": "\u0406\u0442\u0430\u0434\u043e\u0440\u0456 \u042e\u0443\u0434\u0436\u0456 - \u043d\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e \u0442\u0430\u043b\u0430\u043d\u043e\u0432\u0438\u0442\u0438\u0439 \u0441\u0442\u0430\u0440\u0448\u043e\u043a\u043b\u0430\u0441\u043d\u0438\u043a \u0456\u0437 \u0421\u0435\u043d\u0434\u0430\u044e. \u0423\u0442\u0456\u043c, \u0445\u043e\u0447 \u0432\u0456\u043d \u0456 \u0432\u043f\u0440\u0430\u0432\u043d\u0438\u0439 \u0441\u043f\u043e\u0440\u0442\u0441\u043c\u0435\u043d, \u0439\u043e\u0433\u043e \u043d\u0435 \u0446\u0456\u043a\u0430\u0432\u043b\u044f\u0442\u044c \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u0456 \u043a\u043b\u0443\u0431\u0438: \u0432\u0456\u043d \u043f\u0456\u043a\u043b\u0443\u0454\u0442\u044c\u0441\u044f \u043f\u0440\u043e \u0441\u0432\u043e\u0433\u043e \u0434\u0456\u0434\u0443\u0441\u044f, \u0449\u043e \u043b\u0435\u0436\u0438\u0442\u044c \u0443 \u043c\u0456\u0441\u0446\u0435\u0432\u0456\u0439 \u043b\u0456\u043a\u0430\u0440\u043d\u0456. \u0412\u0441\u0435 \u0437\u043c\u0456\u043d\u044e\u0454\u0442\u044c\u0441\u044f, \u043a\u043e\u043b\u0438 \u0447\u0435\u0440\u0435\u0437 \u0436\u0430\u0440\u0442\u0456\u0432\u043b\u0438\u0432\u0438\u0439 \u0441\u043f\u0456\u0440\u0438\u0442\u0438\u0447\u043d\u0438\u0439 \u0441\u0435\u0430\u043d\u0441 \u043d\u0430 \u042e\u0443\u0434\u0436\u0456 \u0442\u0430 \u0439\u043e\u0433\u043e \u0434\u0440\u0443\u0437\u0456\u0432 \u0440\u0430\u043f\u0442\u043e\u0432\u043e \u043d\u0430\u043f\u0430\u0434\u0430\u044e\u0442\u044c \u043c\u043e\u0442\u043e\u0440\u043e\u0448\u043d\u0456 \u0447\u0443\u0434\u043e\u0432\u0438\u0441\u044c\u043a\u0430, \u044f\u043a\u0438\u0445 \u0434\u0438\u0432\u0430\u043a\u0443\u0432\u0430\u0442\u0438\u0439 \u043d\u0435\u0437\u043d\u0430\u0439\u043e\u043c\u0435\u0446\u044c, \u0424\u0443\u0448\u0456\u0491\u0443\u0440\u043e \u041c\u0435\u0491\u0443\u043c\u0456, \u0447\u043e\u043c\u0443\u0441\u044c \u043d\u0430\u0437\u0438\u0432\u0430\u0454 \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u0442\u044f\u043c\u0438. \u0410\u0431\u0438 \u0432\u0440\u044f\u0442\u0443\u0432\u0430\u0442\u0438 \u0441\u0435\u0431\u0435 \u0442\u0430 \u0434\u0440\u0443\u0437\u0456\u0432, \u042e\u0443\u0434\u0436\u0456 \u0437\u043c\u0443\u0448\u0435\u043d\u0438\u0439 \u0440\u0438\u0437\u0438\u043a\u043d\u0443\u0442\u0438 - \u0456 \u0442\u0430\u043a \u0432\u0438\u043f\u0430\u0434\u043a\u043e\u0432\u043e \u0441\u0442\u0430\u0442\u0438 \u0432\u043c\u0456\u0441\u0442\u0438\u043b\u0438\u0449\u0435\u043c \u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u043e\u0433\u043e, \u043d\u0430\u0439\u043c\u043e\u0433\u0443\u0442\u043d\u0456\u0448\u043e\u0433\u043e \u043a\u043e\u0440\u043e\u043b\u044f \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u044c. \u0410 \u043f\u043e\u0442\u0456\u043c \u043d\u0430 \u0442\u043e\u0431\u0456 - \u0432\u0438\u0440\u043e\u043a: \"\u0442\u0435\u0431\u0435 \u043c\u0430\u044e\u0442\u044c \u0441\u0442\u0440\u0430\u0442\u0438\u0442\u0438\". \u041d\u0443 \u0456 \u0449\u043e \u0440\u043e\u0431\u0438\u0442\u0438? \u0422\u044f\u0436\u043a\u0438\u0439 \u0432\u0438\u0431\u0456\u0440, \u043c\u0430\u0433\u0456\u0447\u043d\u0430 \u0448\u043a\u043e\u043b\u0430, \u043d\u043e\u0432\u0456 \u0434\u0440\u0443\u0437\u0456 \u0439 \u043d\u043e\u0432\u0456 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 - \u0442\u0430\u043a \u043f\u043e\u0447\u0438\u043d\u0430\u0454\u0442\u044c\u0441\u044f \u0439\u043e\u0433\u043e \u0448\u043b\u044f\u0445...",
-      "pt-br": "Itadori Yuuji, um estudante do colegial com uma capacidade f\u00edsica \u00fanica, tem como rotina visitar seu av\u00f4 que est\u00e1 hospitalizado. Por\u00e9m, um dia, o selo de um \"objeto amaldi\u00e7oado\" escondido em sua escola \u00e9 rompido, fazendo surgir criaturas assustadoras. Para salvar seus colegas ele parte em dire\u00e7\u00e3o ao col\u00e9gio, quando algo inesperado acontece...!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2018,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "6ee25b6a-a0f3-438e-b686-a3a309cc117b",
-    "title": {
-      "en": "Emperor's Sword"
-    },
-    "updatedAt": "2023-12-09T07:48:40+00:00",
-    "coverArt": "https://mangadex.org/covers/6ee25b6a-a0f3-438e-b686-a3a309cc117b/bf3e22c9-d209-4eeb-ab7b-bef6733aa3a6.jpg",
-    "altTitles": [
-      {
-        "ko": "\ud669\uc81c\uc758 \uac80 (\ub958\uc2e0)"
-      }
-    ],
-    "description": {
-      "en": "Zhu Yunwen, who barely survived the Jingnan campaign, received the souls of two of the world's strongest martial artists, the First Heavenly Demon of the Demonic Cult and Huineng, the Sixth Patriarch of the Shaolin Temple, in his body, and was reborn as Heaven Destroyer.\n\nThis is the story of the Heaven Destroyer's journey to become an absolute existence!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "e9dc373b-314c-44ff-9428-ae63319ae86b",
-    "title": {
-      "en": "Toradora!"
-    },
-    "updatedAt": "2024-05-14T05:55:53+00:00",
-    "coverArt": "https://mangadex.org/covers/e9dc373b-314c-44ff-9428-ae63319ae86b/572234ba-9eb6-48f4-b1a1-8acfe04d7d89.jpg",
-    "altTitles": [
-      {
-        "en": "Tiger x Dragon! Tora Dora"
-      },
-      {
-        "ja": "\u3068\u3089\u30c9\u30e9\uff01"
-      },
-      {
-        "zh": "\u9f99\u864e\u6597"
-      },
-      {
-        "ja-ro": "Toradora!"
-      },
-      {
-        "zh-hk": "\u9f8d\u864e\u6200\u4eba"
-      },
-      {
-        "en": "\u054f\u0578\u0580\u0561\u0564\u0578\u0580\u0561\u055c [HY]"
-      },
-      {
-        "zh-ro": "L\u00f3ngh\u01d4 li\u00e0nr\u00e9n"
-      },
-      {
-        "zh-ro": "\u9f99\u864e\u6597"
-      },
-      {
-        "th": "ToraDora! \u0e22\u0e31\u0e22\u0e15\u0e31\u0e27\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e1a\u0e19\u0e32\u0e22\u0e2b\u0e19\u0e49\u0e32\u0e42\u0e2b\u0e14"
-      },
-      {
-        "ru": "\u0422\u043e\u0440\u0430\u0414\u043e\u0440\u0430! \u0422\u0438\u0433\u0440 \u0438 \u0414\u0440\u0430\u043a\u043e\u043d"
-      }
-    ],
-    "description": {
-      "en": "Takasu Ryuuji has learned the hard way that appearances can be deceiving. For despite his inwardly sweet personality, his unintentionally sharp gaze and aggressive features give him the air of a delinquent thug, putting his chances at making new friends, let alone a girlfriend, next to zero.  \r\n  \r\nIt's Ryuuji's first day of his second year of high school and it seems as if things are looking up. He gets to sit in between his only friend, Yuusaku, and more importantly, the girl he's secretly crushing on, Kushieda Minori. But just when he thinks the stars are aligned in his favor, he unwittingly crosses the most feared girl in school, Aisaka Taiga, making her into his arch enemy. To top it off, Taiga has moved in right next door to Ryuuji and happens to be Minori's best friend! Can this school year possibly get any worse?!",
-      "pt-br": "Takasu Ryuuji aprendeu da maneira mais dif\u00edcil que as apar\u00eancias podem enganar. Pois, apesar de sua personalidade doce por dentro, seu olhar involuntariamente assustador e caracter\u00edsticas agressivas lhe d\u00e3o um ar de um delinquente, colocando suas chances de fazer novos amigos e muito menos uma namorada pr\u00f3ximas a zero. \r\n\r\n\u00c9 o primeiro dia do segundo ano do ensino m\u00e9dio de Ryuuji e parece que as coisas est\u00e3o melhorando. Ele come\u00e7a a sentar entre o seu \u00fanico amigo, Yuusaku, e mais importante, a menina que ele est\u00e1 secretamente apaixonado, Kushieda Minori. Mas s\u00f3 quando ele acha que as estrelas est\u00e3o alinhadas em seu favor, ele involuntariamente arruma encrenca com menina mais temida na escola, Aisaka Taiga, fazendo-a seu arqui-inimigo. Mas confus\u00f5es acabam juntando os dois j\u00e1 que Taiga mora ao lado do Ryuuji com interesses parecidos os dois se juntam para tentar conquistar seus objetivos! Este ano letivo pode ficar ainda pior!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2007,
-    "contentRating": "safe",
-    "lastVolume": null,
-    "lastChapter": null
-  },
-  {
-    "mangaId": "0e43f352-04ac-431b-a5af-450e9cb4b680",
-    "title": {
-      "en": "Bremen"
-    },
-    "updatedAt": "2024-06-13T02:16:19+00:00",
-    "coverArt": "https://mangadex.org/covers/0e43f352-04ac-431b-a5af-450e9cb4b680/80b1971a-7058-4ca4-bada-b11d241a50fa.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Buraidan Bureemen"
-      },
-      {
-        "en": "The uninvited guys of Bremen"
-      },
-      {
-        "zh": "\u65e0\u8d56\u7537"
-      },
-      {
-        "ja": "\u7121\u983c\u7537\uff0d\u30d6\u30ec\u30fc\u30e1\u30f3\uff0d"
-      }
-    ],
-    "description": {
-      "en": "Reiji and Kasuga head out to Tokyo to become the \"Gods of Rock,\" but they seem to always attract trouble. On their way, Hayama Ryo and Fujii Ran join them in their quest. Despite its rockstar type look, this manga really is about action.",
-      "pt-br": "Reiji e Kasuga v\u00e3o para Tokyo para se tornarem os \u201cDeuses do Rock\u201d, mas parece que eles s\u00f3 conseguem atrair problema. No caminho, Hayama Ryo e Fuji Ran se juntam em seu objetivo."
-    },
-    "status": "completed",
-    "releaseDate": 2000,
-    "contentRating": "safe",
-    "lastVolume": "9",
-    "lastChapter": "82"
   }
 ]
