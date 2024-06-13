@@ -1,5 +1,26 @@
 [
   {
+    "id": "rec-yurusarezarumono",
+    "epId": "rec-yurusarezarumono-episode-1",
+    "title": "Rec: Yurusarezarumono",
+    "img": "https://gogocdn.net/cover/rec-yurusarezarumono.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tokimeki-memorial-only-love-specials",
+    "epId": "tokimeki-memorial-only-love-specials-episode-2",
+    "title": "Tokimeki Memorial: Only Love Specials",
+    "img": "https://gogocdn.net/cover/tokimeki-memorial-only-love-specials.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "henjin-no-salad-bowl",
+    "epId": "henjin-no-salad-bowl-episode-11",
+    "title": "Henjin no Salad Bowl",
+    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-96",
     "title": "Chiikawa",
@@ -544,13 +565,6 @@
     "title": "Dead Dead Demons Dededede Destruction",
     "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "henjin-no-salad-bowl",
-    "epId": "henjin-no-salad-bowl-episode-10",
-    "title": "Henjin no Salad Bowl",
-    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 10"
   },
   {
     "id": "muu-no-hakugei",
@@ -2783,20 +2797,6 @@
     "epId": "tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story-episode-12",
     "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
     "img": "https://gogocdn.net/cover/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story-1696012905.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "saihate-no-paladin-tetsusabi-no-yama-no-ou",
-    "epId": "saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-12",
-    "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
-    "img": "https://gogocdn.net/cover/saihate-no-paladin-tetsusabi-no-yama-no-ou-1696011503.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kibou-no-chikara-otona-precure-23",
-    "epId": "kibou-no-chikara-otona-precure-23-episode-12",
-    "title": "Kibou no Chikara: Otona Precure '23",
-    "img": "https://gogocdn.net/cover/kibou-no-chikara-otona-precure-23-1696009008.png",
     "episode": "Episode 12"
   }
 ]
