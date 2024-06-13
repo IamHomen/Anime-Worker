@@ -1,5 +1,40 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-96",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 96"
+  },
+  {
+    "id": "urusei-yatsura-2022-2nd-season",
+    "epId": "urusei-yatsura-2022-2nd-season-episode-22",
+    "title": "Urusei Yatsura (2022) 2nd Season",
+    "img": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
+    "episode": "Episode 22"
+  },
+  {
+    "id": "hananoi-kun-to-koi-no-yamai",
+    "epId": "hananoi-kun-to-koi-no-yamai-episode-11",
+    "title": "Hananoi-kun to Koi no Yamai",
+    "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "wind-breaker",
+    "epId": "wind-breaker-episode-11",
+    "title": "Wind Breaker",
+    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
+    "epId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-12",
+    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+    "img": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "yuru-camp-season-3",
     "epId": "yuru-camp-season-3-episode-11",
     "title": "Yuru Camp\u25b3 Season 3",
@@ -138,6 +173,13 @@
     "title": "Binchou-tan",
     "img": "https://gogocdn.net/cover/binchou-tan.png",
     "episode": "Episode 11.12"
+  },
+  {
+    "id": "kidou-senshi-gundam-seed-freedom",
+    "epId": "kidou-senshi-gundam-seed-freedom-episode-1",
+    "title": "Kidou Senshi Gundam SEED Freedom",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-seed-freedom-1718073134.png",
+    "episode": "Episode 1"
   },
   {
     "id": "tensei-kizoku-kantei-skill-de-nariagaru",
@@ -516,48 +558,6 @@
     "title": "Muu no Hakugei",
     "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-95",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 95"
-  },
-  {
-    "id": "urusei-yatsura-2022-2nd-season",
-    "epId": "urusei-yatsura-2022-2nd-season-episode-21",
-    "title": "Urusei Yatsura (2022) 2nd Season",
-    "img": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
-    "episode": "Episode 21"
-  },
-  {
-    "id": "wind-breaker",
-    "epId": "wind-breaker-episode-10",
-    "title": "Wind Breaker",
-    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "hananoi-kun-to-koi-no-yamai",
-    "epId": "hananoi-kun-to-koi-no-yamai-episode-10",
-    "title": "Hananoi-kun to Koi no Yamai",
-    "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-    "epId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-11",
-    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "img": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "yuru-camp-season-3",
-    "epId": "yuru-camp-season-3-episode-10",
-    "title": "Yuru Camp\u25b3 Season 3",
-    "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 10"
   },
   {
     "id": "hanma-baki-vs-kengan-ashura",
