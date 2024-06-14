@@ -1,5 +1,12 @@
 [
   {
+    "id": "ninjala",
+    "epId": "ninjala-episode-121",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 121"
+  },
+  {
     "id": "dead-dead-demons-dededede-destruction",
     "epId": "dead-dead-demons-dededede-destruction-episode-3",
     "title": "Dead Dead Demons Dededede Destruction",
@@ -383,13 +390,6 @@
     "title": "Yozakura-san Chi no Daisakusen",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-120",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 120"
   },
   {
     "id": "one-piece",
