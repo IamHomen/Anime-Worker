@@ -1,5 +1,12 @@
 [
   {
+    "id": "ultraman-rising",
+    "epId": "ultraman-rising-episode-1",
+    "title": "Ultraman: Rising",
+    "img": "https://gogocdn.net/cover/ultraman-rising.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ninjala",
     "epId": "ninjala-episode-121",
     "title": "Ninjala",
@@ -72,7 +79,7 @@
   {
     "id": "yuru-camp-season-3",
     "epId": "yuru-camp-season-3-episode-11",
-    "title": "Yuru Camp\u25b3 Season 3",
+    "title": "Yuru Camp\u201a\u0116\u2265 Season 3",
     "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 11"
   },
@@ -100,7 +107,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-112",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "title": "Yu\u201a\u0117\u00dcGi\u201a\u0117\u00dcOh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 112"
   },
@@ -2790,13 +2797,6 @@
     "epId": "spy-x-family-season-2-episode-12",
     "title": "Spy x Family Season 2",
     "img": "https://gogocdn.net/cover/spy-x-family-season-2-1696012743.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story",
-    "epId": "tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story-episode-12",
-    "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
-    "img": "https://gogocdn.net/cover/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story-1696012905.png",
     "episode": "Episode 12"
   }
 ]
