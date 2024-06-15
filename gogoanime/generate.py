@@ -24,14 +24,14 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://mrcain-12665-default-rtdb.firebaseio.com'
 })
 
-def scrape_recent_sub_anime():
+def scrape_recent_anime(type):
     anime_list = []
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
         while page_number <= 20:  # Stop when page_number reaches 20
-            response = requests.get(RECENT_SUB_URL + f"?page={page_number}&type=1", headers=headers)
+            response = requests.get(RECENT_SUB_URL + f"?page={page_number}&type={type}", headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
 
             # Check if the page contains anime entries
@@ -51,12 +51,10 @@ def scrape_recent_sub_anime():
                # scrape_anime_info(ids)
 
             page_number += 1
-            
-        #updateTable('recent-release-sub')
 
-        with open('./gogoanime/json/recent-release-sub.json', 'w') as f:
+        with open(f'./gogoanime/json/recent-release-{type}.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('Data saved to gogoanime/json/recent-release-sub.json')
+        print(f'Data saved to gogoanime/json/recent-release-{type}.json')
 
         return anime_list
     except Exception as e:
@@ -231,6 +229,10 @@ def scrape_movie_anime():
         print(e)
         return {'error': str(e)}
 
+import requests
+from bs4 import BeautifulSoup
+import json
+
 def scrape_anime_info(ids):
     try:
         genres = []
@@ -282,22 +284,24 @@ def scrape_anime_info(ids):
             #'episodesList': epList,
         }
         
-         with open(f'./gogoanime/anime-info/{ids}.json', 'w') as json_file:
-             json.dump(anime_data, json_file, indent=2)
-             
+        # Write anime_data to a JSON file
+        with open(f'./gogoanime/anime-info/{ids}.json', 'w') as json_file:
+            json.dump(anime_data, json_file, indent=2)
 
         return anime_data
+    
     except Exception as err:
         print(err)
         return {'error': str(err)}
 
 
+
 scrape_top_anime(1)
 scrape_top_anime(2)
 scrape_top_anime(3)
-scrape_recent_sub_anime()
+scrape_recent_anime(1)
+scrape_recent_anime(2)
 scrape_trending_anime()
 scrape_popular_anime()
-#scrape_anime_info('tsuki-ga-michibiku-isekai-douchuu-2nd-season')
 scrape_newseason_anime()
 scrape_movie_anime()
