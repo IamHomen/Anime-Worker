@@ -2,7 +2,7 @@ name: Generate Anime List
 on:
   push:
   schedule:
-    - cron: "* 0/3 * * *"
+    - cron: "* */3 * * *"
 
 jobs:
   build:
@@ -50,11 +50,18 @@ jobs:
       run: |
         python ./asurascans/generate.py
 
-    - name: Upload JSON to Firebase
+    - name: Upload JSON to Firebase 
       env:
         FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
       run: |
         python upload_to_firebase.py
+
+    - name: Upload JSON files to Firebase (Anime Info)
+      run: python gogoanime_info.py
+      env:
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
+          JSON_FILES_PATH: './gogoanime/anime-info/'
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
