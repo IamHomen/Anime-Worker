@@ -24,5 +24,5 @@ for filename in os.listdir(json_files_path):
         # Assuming each JSON file contains data for a specific node in Firebase
         # Adjust the reference path as per your Firebase structure
         node_name = os.path.splitext(filename)[0]  # Use filename as node name
-        ref = db.reference(f'/anime-list/anime/info/{node_name})
+        ref = db.reference(f'/anime-list/anime/info/{node_name}')
         ref.set(data)
