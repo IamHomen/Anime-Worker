@@ -283,17 +283,8 @@ def scrape_anime_info(ids):
         }
         
          with open(f'./gogoanime/anime-info/{ids}.json', 'w') as json_file:
-            json.dump(anime_data, json_file, indent=2)
+             json.dump(anime_data, json_file, indent=2)
              
-         # Load the JSON data from a file
-         with open(f'./gogoanime/anime-info/{ids}.json', 'r') as f:
-             data = json.load(f)
-         # Specify the reference where you want to upload the data
-         ref = db.reference(f'/anime-list/anime/info/{ids}')
-         # Upload the data
-         ref.set(data)
-        
-         os.remove(f'./gogoanime/anime-info/{ids}.json')
 
         return anime_data
     except Exception as err:
