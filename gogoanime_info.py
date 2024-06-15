@@ -1,14 +1,16 @@
-import firebase_admin
-from firebase_admin import credentials, db
-import json
 import os
+import json
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import db
 
 # Firebase credentials setup
 # Load Firebase service account key from environment variable
 service_account_info = json.loads(os.getenv('FIREBASE_SERVICE_ACCOUNT'))
+
 cred = credentials.Certificate(service_account_info)
 firebase_admin.initialize_app(cred, {
-    'databaseURL': os.environ.get('FIREBASE_DATABASE_URL')
+    'databaseURL': os.getenv('FIREBASE_DATABASE_URL')
 })
 
 # Directory containing JSON files
