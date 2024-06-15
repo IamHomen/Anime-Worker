@@ -59,6 +59,7 @@ jobs:
     - name: Upload JSON files to Firebase (Anime Info)
       run: python gogoanime_info.py
       env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
           FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
           JSON_FILES_PATH: './gogoanime/anime-info/'
