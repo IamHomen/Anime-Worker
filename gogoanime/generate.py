@@ -152,7 +152,7 @@ def scrape_newseason_anime():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
-        while page_number <= 10:  # Stop scraping at page 10
+        while page_number <= 4:  # Stop scraping at page 4
             popular_page = requests.get(NEW_SEASON_URL + f"?page={page_number}", headers=headers)
             soup = BeautifulSoup(popular_page.content, 'html.parser')
 
@@ -171,8 +171,6 @@ def scrape_newseason_anime():
                 scrape_anime_info(ids)
 
             page_number += 1
-
-        #updateTable('popular')
         
         with open('./gogoanime/json/new-season.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -208,8 +206,6 @@ def scrape_movie_anime():
                 scrape_anime_info(ids)
 
             page_number += 1
-
-        #updateTable('popular')
         
         with open('./gogoanime/json/movie.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
@@ -219,10 +215,6 @@ def scrape_movie_anime():
     except Exception as e:
         print(e)
         return {'error': str(e)}
-
-import requests
-from bs4 import BeautifulSoup
-import json
 
 def scrape_anime_info(ids):
     try:
