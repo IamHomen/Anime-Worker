@@ -1,5 +1,96 @@
 [
   {
+    "id": "tonari-no-youkai-san",
+    "epId": "tonari-no-youkai-san-episode-11",
+    "title": "Tonari no Youkai-san",
+    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "karasu-wa-aruji-wo-erabanai",
+    "epId": "karasu-wa-aruji-wo-erabanai-episode-11",
+    "title": "Karasu wa Aruji wo Erabanai",
+    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-10",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "araiguma-rascal",
+    "epId": "araiguma-rascal-episode-51",
+    "title": "Araiguma Rascal",
+    "img": "https://gogocdn.net/cover/araiguma-rascal.png",
+    "episode": "Episode 51"
+  },
+  {
+    "id": "the-fable",
+    "epId": "the-fable-episode-11",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "yoru-no-kurage-wa-oyogenai",
+    "epId": "yoru-no-kurage-wa-oyogenai-episode-11",
+    "title": "Yoru no Kurage wa Oyogenai",
+    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-10",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "kaijuu-8-gou",
+    "epId": "kaijuu-8-gou-episode-10",
+    "title": "Kaijuu 8-gou",
+    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "one-room-hiatari-futsuu-tenshi-tsuki",
+    "epId": "one-room-hiatari-futsuu-tenshi-tsuki-episode-12",
+    "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+    "img": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1127",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1127"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-7",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-35",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 35"
+  },
+  {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-54",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 54"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-10",
     "title": "Shadowverse Flame: Arc-hen",
@@ -511,83 +602,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "tonari-no-youkai-san",
-    "epId": "tonari-no-youkai-san-episode-10",
-    "title": "Tonari no Youkai-san",
-    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "karasu-wa-aruji-wo-erabanai",
-    "epId": "karasu-wa-aruji-wo-erabanai-episode-10",
-    "title": "Karasu wa Aruji wo Erabanai",
-    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "the-new-gate",
-    "epId": "the-new-gate-episode-9",
-    "title": "The New Gate",
-    "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "yoru-no-kurage-wa-oyogenai",
-    "epId": "yoru-no-kurage-wa-oyogenai-episode-10",
-    "title": "Yoru no Kurage wa Oyogenai",
-    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-10",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-9",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "kaijuu-8-gou",
-    "epId": "kaijuu-8-gou-episode-9",
-    "title": "Kaijuu 8-gou",
-    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "one-room-hiatari-futsuu-tenshi-tsuki",
-    "epId": "one-room-hiatari-futsuu-tenshi-tsuki-episode-11",
-    "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
-    "img": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1126",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1126"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-6",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-53",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 53"
-  },
-  {
     "id": "muu-no-hakugei",
     "epId": "muu-no-hakugei-episode-2",
     "title": "Muu no Hakugei",
@@ -607,13 +621,6 @@
     "title": "Hyakushou Kizoku",
     "img": "https://gogocdn.net/cover/hyakushou-kizoku-1688154650.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-34",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 34"
   },
   {
     "id": "kagaku-ninja-tai-gatchaman-movie",
@@ -796,13 +803,6 @@
     "title": "Bear Bear Bear Kuma Punch!",
     "img": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "araiguma-rascal",
-    "epId": "araiguma-rascal-episode-50",
-    "title": "Araiguma Rascal",
-    "img": "https://gogocdn.net/cover/araiguma-rascal.png",
-    "episode": "Episode 50"
   },
   {
     "id": "garouden-the-way-of-the-lone-wolf",
