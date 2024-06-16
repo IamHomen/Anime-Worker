@@ -1,5 +1,47 @@
 [
   {
+    "id": "to-heart-2-ad",
+    "epId": "to-heart-2-ad-episode-2",
+    "title": "To Heart 2 AD",
+    "img": "https://gogocdn.net/cover/to-heart-2-ad.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "to-heart-2-ova",
+    "epId": "to-heart-2-ova-episode-3",
+    "title": "To Heart 2 OVA",
+    "img": "https://gogocdn.net/cover/to-heart-2-ova.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "to-heart-2-special",
+    "epId": "to-heart-2-special-episode-1",
+    "title": "To Heart 2 Special",
+    "img": "https://gogocdn.net/cover/to-heart-2-special.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "captain-tsubasa-season-2-junior-youth-hen",
+    "epId": "captain-tsubasa-season-2-junior-youth-hen-episode-37",
+    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+    "img": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
+    "episode": "Episode 37"
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen",
+    "epId": "yozakura-san-chi-no-daisakusen-episode-11",
+    "title": "Yozakura-san Chi no Daisakusen",
+    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "sentai-daishikkaku",
+    "epId": "sentai-daishikkaku-episode-10",
+    "title": "Sentai Daishikkaku",
+    "img": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "one-piece-making-history-the-turbulent-old-and-new-four-emperors",
     "epId": "one-piece-making-history-the-turbulent-old-and-new-four-emperors-episode-1",
     "title": "One Piece: Making History! The Turbulent Old and New Four Emperors!",
@@ -571,27 +613,6 @@
     "epId": "hibike-euphonium-3-episode-10",
     "title": "Hibike! Euphonium 3",
     "img": "https://gogocdn.net/cover/hibike-euphonium-3.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "captain-tsubasa-season-2-junior-youth-hen",
-    "epId": "captain-tsubasa-season-2-junior-youth-hen-episode-36",
-    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-    "img": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
-    "episode": "Episode 36"
-  },
-  {
-    "id": "sentai-daishikkaku",
-    "epId": "sentai-daishikkaku-episode-9",
-    "title": "Sentai Daishikkaku",
-    "img": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "yozakura-san-chi-no-daisakusen",
-    "epId": "yozakura-san-chi-no-daisakusen-episode-10",
-    "title": "Yozakura-san Chi no Daisakusen",
-    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 10"
   },
   {
@@ -2777,26 +2798,5 @@
     "title": "Go! Go! Vehicle Zoo",
     "img": "https://gogocdn.net/cover/go-go-vehicle-zoo-1681007903.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "bokura-no-ameiro-protocol",
-    "epId": "bokura-no-ameiro-protocol-episode-12",
-    "title": "Bokura no Ameiro Protocol",
-    "img": "https://gogocdn.net/cover/bokura-no-ameiro-protocol-1696006703.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "potion-danomi-de-ikinobimasu",
-    "epId": "potion-danomi-de-ikinobimasu-episode-12",
-    "title": "Potion-danomi de Ikinobimasu!",
-    "img": "https://gogocdn.net/cover/potion-danomi-de-ikinobimasu-1696011218.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "atarashii-joushi-wa-do-tennen",
-    "epId": "atarashii-joushi-wa-do-tennen-episode-12",
-    "title": "Atarashii Joushi wa Do Tennen",
-    "img": "https://gogocdn.net/cover/atarashii-joushi-wa-do-tennen-1696006459.png",
-    "episode": "Episode 12"
   }
 ]
