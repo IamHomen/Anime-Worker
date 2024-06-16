@@ -14,14 +14,24 @@ firebase_admin.initialize_app(cred, {
 })
 
 # Load the JSON data from a file (Recent)
-with open('./gogoanime/json/recent-release-sub.json', 'r') as f:
+with open('./gogoanime/json/recent-release-1.json', 'r') as f:
     data = json.load(f)
 
 # Specify the reference where you want to upload the data
-ref = db.reference('/anime-list/anime/latest-update')
+ref = db.reference('/anime-list/anime/sub/latest-update')
 
 # Upload the data
 ref.set(data)
+
+# Load the JSON data from a file (Recent Dub)
+with open('./gogoanime/json/recent-release-2.json', 'r') as f:
+    data8 = json.load(f)
+
+# Specify the reference where you want to upload the data
+ref8 = db.reference('/anime-list/anime/dub/latest-update')
+
+# Upload the data
+ref8.set(data8)
 
 # Load the JSON data from a file (Popular)
 with open('./gogoanime/json/popular.json', 'r') as f:
