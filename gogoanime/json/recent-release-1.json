@@ -1,5 +1,40 @@
 [
   {
+    "id": "blue-archive-the-animation",
+    "epId": "blue-archive-the-animation-episode-11",
+    "title": "Blue Archive the Animation",
+    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-6",
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-10",
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
+    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-11",
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "vampire-dormitory",
+    "epId": "vampire-dormitory-episode-11",
+    "title": "Vampire Dormitory",
+    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "jiisan-baasan-wakagaeru",
     "epId": "jiisan-baasan-wakagaeru-episode-11",
     "title": "Jiisan Baasan Wakagaeru",
@@ -420,13 +455,6 @@
     "episode": "Episode 10"
   },
   {
-    "id": "seiyuu-radio-no-uraomote",
-    "epId": "seiyuu-radio-no-uraomote-episode-10",
-    "title": "Seiyuu Radio no Uraomote",
-    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "toku-touken-ranbu-hanamaru-setsugetsuka",
     "epId": "toku-touken-ranbu-hanamaru-setsugetsuka-episode-3",
     "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
@@ -495,13 +523,6 @@
     "title": "Kidou Senshi Gundam SEED Freedom",
     "img": "https://gogocdn.net/cover/kidou-senshi-gundam-seed-freedom-1718073134.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
-    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-10",
-    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
-    "episode": "Episode 10"
   },
   {
     "id": "shinkalion-change-the-world",
@@ -593,27 +614,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "blue-archive-the-animation",
-    "epId": "blue-archive-the-animation-episode-10",
-    "title": "Blue Archive the Animation",
-    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
-    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-5",
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-9",
-    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
-    "episode": "Episode 9"
   },
   {
     "id": "one-piece",
