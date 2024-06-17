@@ -1,5 +1,19 @@
 [
   {
+    "id": "city-hunter-ryou-no-propose",
+    "epId": "city-hunter-ryou-no-propose-episode-1",
+    "title": "City Hunter: Ryou no Propose",
+    "img": "https://gogocdn.net/cover/city-hunter-ryou-no-propose.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-9",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "blue-archive-the-animation",
     "epId": "blue-archive-the-animation-episode-11",
     "title": "Blue Archive the Animation",
@@ -607,13 +621,6 @@
     "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
     "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-8",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 8"
   },
   {
     "id": "one-piece",
@@ -2791,12 +2798,5 @@
     "title": "One Piece: Dai Tokushuu! Momonosuke no Mei Shogun e no Michi",
     "img": "https://gogocdn.net/cover/one-piece-dai-tokushuu-momonosuke-no-mei-shogun-e-no-michi.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "go-go-vehicle-zoo",
-    "epId": "go-go-vehicle-zoo-episode-26",
-    "title": "Go! Go! Vehicle Zoo",
-    "img": "https://gogocdn.net/cover/go-go-vehicle-zoo-1681007903.png",
-    "episode": "Episode 26"
   }
 ]
