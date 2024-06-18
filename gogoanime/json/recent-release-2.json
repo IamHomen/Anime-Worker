@@ -1,5 +1,26 @@
 [
   {
+    "id": "boku-no-kokoro-no-yabai-yatsu-twi-yaba-dub",
+    "epId": "boku-no-kokoro-no-yabai-yatsu-twi-yaba-dub-episode-1",
+    "title": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-twi-yaba-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen-dub",
+    "epId": "yozakura-san-chi-no-daisakusen-dub-episode-1",
+    "title": "Yozakura-san Chi no Daisakusen (Dub)",
+    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hikikomari-kyuuketsuki-no-monmon-dub",
+    "epId": "hikikomari-kyuuketsuki-no-monmon-dub-episode-10",
+    "title": "Hikikomari Kyuuketsuki no Monmon (Dub)",
+    "img": "https://gogocdn.net/cover/hikikomari-kyuuketsuki-no-monmon-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-dub",
     "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-dub-episode-10",
     "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu (Dub)",
@@ -229,13 +250,6 @@
     "title": "Digimon Adventure 02: The Beginning (Dub)",
     "img": "https://gogocdn.net/cover/digimon-adventure-02-the-beginning-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "hikikomari-kyuuketsuki-no-monmon-dub",
-    "epId": "hikikomari-kyuuketsuki-no-monmon-dub-episode-9",
-    "title": "Hikikomari Kyuuketsuki no Monmon (Dub)",
-    "img": "https://gogocdn.net/cover/hikikomari-kyuuketsuki-no-monmon-dub.png",
-    "episode": "Episode 9"
   },
   {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
@@ -842,7 +856,7 @@
   {
     "id": "lovelycomplex-dub",
     "epId": "lovelycomplex-dub-episode-24",
-    "title": "Lovely\u2605Complex (Dub)",
+    "title": "Lovely\u923d\u5314omplex (Dub)",
     "img": "https://gogocdn.net/cover/lovelycomplex-dub.png",
     "episode": "Episode 24"
   },
@@ -877,7 +891,7 @@
   {
     "id": "weiss-kreuz-gluhen-dub",
     "epId": "weiss-kreuz-gluhen-dub-episode-13",
-    "title": "Wei\u00df Kreuz Gl\u00fchen (Dub)",
+    "title": "Wei\u813d Kreuz Gl\u7709hen (Dub)",
     "img": "https://gogocdn.net/cover/weiss-kreuz-gluhen-dub.png",
     "episode": "Episode 13"
   },
@@ -898,7 +912,7 @@
   {
     "id": "kami-kuzuidol-dub",
     "epId": "kami-kuzuidol-dub-episode-10",
-    "title": "Kami Kuzu\u2606Idol (Dub)",
+    "title": "Kami Kuzu\u923d\u54badol (Dub)",
     "img": "https://gogocdn.net/cover/kami-kuzuidol-dub.png",
     "episode": "Episode 10"
   },
@@ -2784,19 +2798,5 @@
     "title": "DearS (Dub)",
     "img": "https://gogocdn.net/cover/dears-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "new-initial-d-movie-legend-3-mugen-dub",
-    "epId": "new-initial-d-movie-legend-3-mugen-dub-episode-1",
-    "title": "New Initial D Movie: Legend 3 - Mugen (Dub)",
-    "img": "https://gogocdn.net/cover/new-initial-d-movie-legend-3-mugen-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-dub",
-    "epId": "arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-dub-episode-2",
-    "title": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou (Dub)",
-    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou-dub.png",
-    "episode": "Episode 2"
   }
 ]
