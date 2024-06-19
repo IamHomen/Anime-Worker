@@ -1,5 +1,33 @@
 [
   {
+    "id": "kenka-dokugaku-dub",
+    "epId": "kenka-dokugaku-dub-episode-9",
+    "title": "Kenka Dokugaku (Dub)",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "date-a-live-v-dub",
+    "epId": "date-a-live-v-dub-episode-9",
+    "title": "Date A Live V (Dub)",
+    "img": "https://gogocdn.net/cover/date-a-live-v-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub",
+    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub-episode-9",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 (Dub)",
+    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "ranma-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou-dub",
+    "epId": "ranma-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou-dub-episode-1",
+    "title": "Ranma \u00bd: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou (Dub)",
+    "img": "https://gogocdn.net/cover/ranma-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-dub",
     "epId": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-dub-episode-11",
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. (Dub)",
@@ -229,27 +257,6 @@
     "title": "Natsume Yuujinchou Go (Dub)",
     "img": "https://gogocdn.net/cover/natsume-yuujinchou-go-dub.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "date-a-live-v-dub",
-    "epId": "date-a-live-v-dub-episode-8",
-    "title": "Date A Live V (Dub)",
-    "img": "https://gogocdn.net/cover/date-a-live-v-dub.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "kenka-dokugaku-dub",
-    "epId": "kenka-dokugaku-dub-episode-8",
-    "title": "Kenka Dokugaku (Dub)",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku-dub.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub",
-    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub-episode-8",
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 (Dub)",
-    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-dub.png",
-    "episode": "Episode 8"
   },
   {
     "id": "short-peace-dub",
@@ -2791,12 +2798,5 @@
     "title": "Goodbye, Don Glees! (Dub)",
     "img": "https://gogocdn.net/cover/goodbye-don-glees-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "dears-dub",
-    "epId": "dears-dub-episode-13",
-    "title": "DearS (Dub)",
-    "img": "https://gogocdn.net/cover/dears-dub.png",
-    "episode": "Episode 13"
   }
 ]
