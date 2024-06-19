@@ -1,5 +1,47 @@
 [
   {
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-11",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "bartender-kami-no-glass",
+    "epId": "bartender-kami-no-glass-episode-12",
+    "title": "Bartender: Kami no Glass",
+    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-11",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "date-a-live-v",
+    "epId": "date-a-live-v-episode-11",
+    "title": "Date A Live V",
+    "img": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "kaii-to-otome-to-kamikakushi",
+    "epId": "kaii-to-otome-to-kamikakushi-episode-11",
+    "title": "Kaii to Otome to Kamikakushi",
+    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "seiyuu-radio-no-uraomote",
+    "epId": "seiyuu-radio-no-uraomote-episode-11",
+    "title": "Seiyuu Radio no Uraomote",
+    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "himitsu-no-aipri",
     "epId": "himitsu-no-aipri-episode-11",
     "title": "Himitsu no AiPri",
@@ -516,48 +558,6 @@
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 112"
-  },
-  {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-10",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "bartender-kami-no-glass",
-    "epId": "bartender-kami-no-glass-episode-11",
-    "title": "Bartender: Kami no Glass",
-    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
-    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-10",
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "date-a-live-v",
-    "epId": "date-a-live-v-episode-10",
-    "title": "Date A Live V",
-    "img": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "kaii-to-otome-to-kamikakushi",
-    "epId": "kaii-to-otome-to-kamikakushi-episode-10",
-    "title": "Kaii to Otome to Kamikakushi",
-    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "seiyuu-radio-no-uraomote",
-    "epId": "seiyuu-radio-no-uraomote-episode-10",
-    "title": "Seiyuu Radio no Uraomote",
-    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
-    "episode": "Episode 10"
   },
   {
     "id": "toku-touken-ranbu-hanamaru-setsugetsuka",
