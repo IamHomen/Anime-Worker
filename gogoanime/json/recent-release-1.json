@@ -1,5 +1,12 @@
 [
   {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-11",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "rinkai",
     "epId": "rinkai-episode-11",
     "title": "Rinkai!",
@@ -502,13 +509,6 @@
     "title": "Jantama Kan!!",
     "img": "https://gogocdn.net/cover/jantama-kan.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-10",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 10"
   },
   {
     "id": "yugioh-go-rush",
