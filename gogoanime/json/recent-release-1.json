@@ -1,5 +1,47 @@
 [
   {
+    "id": "urusei-yatsura-2022-2nd-season",
+    "epId": "urusei-yatsura-2022-2nd-season-episode-23",
+    "title": "Urusei Yatsura (2022) 2nd Season",
+    "img": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
+    "episode": "Episode 23"
+  },
+  {
+    "id": "hananoi-kun-to-koi-no-yamai",
+    "epId": "hananoi-kun-to-koi-no-yamai-episode-12",
+    "title": "Hananoi-kun to Koi no Yamai",
+    "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "henjin-no-salad-bowl",
+    "epId": "henjin-no-salad-bowl-episode-12",
+    "title": "Henjin no Salad Bowl",
+    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "wind-breaker",
+    "epId": "wind-breaker-episode-12",
+    "title": "Wind Breaker",
+    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "yuru-camp-season-3",
+    "epId": "yuru-camp-season-3-episode-12",
+    "title": "Yuru Camp\u25b3 Season 3",
+    "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "jantama-kan",
+    "epId": "jantama-kan-episode-9",
+    "title": "Jantama Kan!!",
+    "img": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "time-bokan-series-gyakuten-ippatsuman",
     "epId": "time-bokan-series-gyakuten-ippatsuman-episode-30",
     "title": "Time Bokan Series: Gyakuten Ippatsuman",
@@ -96,13 +138,6 @@
     "title": "Tadaima, Okaeri",
     "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "remonster",
-    "epId": "remonster-episode-12",
-    "title": "Re:Monster",
-    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
-    "episode": "Episode 12"
   },
   {
     "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
@@ -497,13 +532,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "henjin-no-salad-bowl",
-    "epId": "henjin-no-salad-bowl-episode-11",
-    "title": "Henjin no Salad Bowl",
-    "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-96",
     "title": "Chiikawa",
@@ -518,20 +546,6 @@
     "episode": "Episode 22"
   },
   {
-    "id": "hananoi-kun-to-koi-no-yamai",
-    "epId": "hananoi-kun-to-koi-no-yamai-episode-11",
-    "title": "Hananoi-kun to Koi no Yamai",
-    "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "wind-breaker",
-    "epId": "wind-breaker-episode-11",
-    "title": "Wind Breaker",
-    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
     "epId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-12",
     "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
@@ -539,25 +553,11 @@
     "episode": "Episode 12"
   },
   {
-    "id": "yuru-camp-season-3",
-    "epId": "yuru-camp-season-3-episode-11",
-    "title": "Yuru Camp\u25b3 Season 3",
-    "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "dungeon-meshi",
     "epId": "dungeon-meshi-episode-24",
     "title": "Dungeon Meshi",
     "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
     "episode": "Episode 24"
-  },
-  {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-8",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 8"
   },
   {
     "id": "yugioh-go-rush",

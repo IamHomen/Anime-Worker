@@ -1,5 +1,19 @@
 [
   {
+    "id": "one-piece-dub",
+    "epId": "one-piece-dub-episode-1085",
+    "title": "One Piece (Dub)",
+    "img": "https://gogocdn.net/cover/one-piece-dub.png",
+    "episode": "Episode 1085"
+  },
+  {
+    "id": "one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-dub",
+    "epId": "one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-dub-episode-4",
+    "title": "One Piece: Luffy Senpai Ouen Kikaku! Barto no Himitsu no Heya! (Dub)",
+    "img": "https://gogocdn.net/cover/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-dub.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "natsume-yuujinchou-go-dub",
     "epId": "natsume-yuujinchou-go-dub-episode-7",
     "title": "Natsume Yuujinchou Go (Dub)",
@@ -40,20 +54,6 @@
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. (Dub)",
     "img": "https://gogocdn.net/cover/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-dub.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "one-piece-dub",
-    "epId": "one-piece-dub-episode-1078",
-    "title": "One Piece (Dub)",
-    "img": "https://gogocdn.net/cover/one-piece-dub.png",
-    "episode": "Episode 1078"
-  },
-  {
-    "id": "one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-dub",
-    "epId": "one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-dub-episode-3",
-    "title": "One Piece: Luffy Senpai Ouen Kikaku! Barto no Himitsu no Heya! (Dub)",
-    "img": "https://gogocdn.net/cover/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-dub.png",
-    "episode": "Episode 3"
   },
   {
     "id": "helck-dub",
