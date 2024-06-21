@@ -1,5 +1,12 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-97",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 97"
+  },
+  {
     "id": "urusei-yatsura-2022-2nd-season",
     "epId": "urusei-yatsura-2022-2nd-season-episode-23",
     "title": "Urusei Yatsura (2022) 2nd Season",
@@ -138,6 +145,13 @@
     "title": "Tadaima, Okaeri",
     "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
     "episode": "Episode 11"
+  },
+  {
+    "id": "remonster",
+    "epId": "remonster-episode-12",
+    "title": "Re:Monster",
+    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
+    "episode": "Episode 12"
   },
   {
     "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
@@ -530,20 +544,6 @@
     "title": "Tokimeki Memorial: Only Love Specials",
     "img": "https://gogocdn.net/cover/tokimeki-memorial-only-love-specials.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-96",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 96"
-  },
-  {
-    "id": "urusei-yatsura-2022-2nd-season",
-    "epId": "urusei-yatsura-2022-2nd-season-episode-22",
-    "title": "Urusei Yatsura (2022) 2nd Season",
-    "img": "https://gogocdn.net/cover/urusei-yatsura-2022-2nd-season.png",
-    "episode": "Episode 22"
   },
   {
     "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
