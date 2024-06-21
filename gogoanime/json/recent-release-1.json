@@ -1,5 +1,33 @@
 [
   {
+    "id": "highspeed-etoile",
+    "epId": "highspeed-etoile-episode-12",
+    "title": "Highspeed Etoile",
+    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "the-idolmster-shiny-colors",
+    "epId": "the-idolmster-shiny-colors-episode-12",
+    "title": "The iDOLM@STER Shiny Colors",
+    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "girls-band-cry",
+    "epId": "girls-band-cry-episode-12",
+    "title": "Girls Band Cry",
+    "img": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "mahouka-koukou-no-rettousei-3rd-season",
+    "epId": "mahouka-koukou-no-rettousei-3rd-season-episode-12",
+    "title": "Mahouka Koukou no Rettousei 3rd Season",
+    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-3rd-season",
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-12",
     "title": "Tensei shitara Slime Datta Ken 3rd Season",
@@ -490,27 +518,6 @@
     "episode": "Episode 11"
   },
   {
-    "id": "highspeed-etoile",
-    "epId": "highspeed-etoile-episode-11",
-    "title": "Highspeed Etoile",
-    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "the-idolmster-shiny-colors",
-    "epId": "the-idolmster-shiny-colors-episode-11",
-    "title": "The iDOLM@STER Shiny Colors",
-    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-1711739439.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "girls-band-cry",
-    "epId": "girls-band-cry-episode-11",
-    "title": "Girls Band Cry",
-    "img": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
     "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-9",
     "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
@@ -523,13 +530,6 @@
     "title": "Oishinbo",
     "img": "https://gogocdn.net/cover/oishinbo.png",
     "episode": "Episode 50"
-  },
-  {
-    "id": "mahouka-koukou-no-rettousei-3rd-season",
-    "epId": "mahouka-koukou-no-rettousei-3rd-season-episode-11",
-    "title": "Mahouka Koukou no Rettousei 3rd Season",
-    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
-    "episode": "Episode 11"
   },
   {
     "id": "ultraman-rising",
