@@ -1,5 +1,47 @@
 [
   {
+    "id": "sasayaku-you-ni-koi-wo-utau",
+    "epId": "sasayaku-you-ni-koi-wo-utau-episode-9",
+    "title": "Sasayaku You ni Koi wo Utau",
+    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-11",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "yoru-no-kurage-wa-oyogenai",
+    "epId": "yoru-no-kurage-wa-oyogenai-episode-12",
+    "title": "Yoru no Kurage wa Oyogenai",
+    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "the-fable",
+    "epId": "the-fable-episode-12",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "kuroshitsuji-kishuku-gakkou-hen",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-11",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "kaijuu-8-gou",
+    "epId": "kaijuu-8-gou-episode-11",
+    "title": "Kaijuu 8-gou",
+    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "detective-conan",
     "epId": "detective-conan-episode-1128",
     "title": "Detective Conan",
@@ -469,46 +511,11 @@
     "episode": "Episode 11"
   },
   {
-    "id": "the-new-gate",
-    "epId": "the-new-gate-episode-10",
-    "title": "The New Gate",
-    "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "araiguma-rascal",
     "epId": "araiguma-rascal-episode-51",
     "title": "Araiguma Rascal",
     "img": "https://gogocdn.net/cover/araiguma-rascal.png",
     "episode": "Episode 51"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-11",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "yoru-no-kurage-wa-oyogenai",
-    "epId": "yoru-no-kurage-wa-oyogenai-episode-11",
-    "title": "Yoru no Kurage wa Oyogenai",
-    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-10",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "kaijuu-8-gou",
-    "epId": "kaijuu-8-gou-episode-10",
-    "title": "Kaijuu 8-gou",
-    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
-    "episode": "Episode 10"
   },
   {
     "id": "one-room-hiatari-futsuu-tenshi-tsuki",
@@ -733,13 +740,6 @@
     "title": "Bakugan Battle Brawlers\t",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
     "episode": "Episode 15"
-  },
-  {
-    "id": "sasayaku-you-ni-koi-wo-utau",
-    "epId": "sasayaku-you-ni-koi-wo-utau-episode-8",
-    "title": "Sasayaku You ni Koi wo Utau",
-    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
-    "episode": "Episode 8"
   },
   {
     "id": "digimon-adventure-02-the-beginning",
