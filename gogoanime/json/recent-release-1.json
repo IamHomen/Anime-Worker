@@ -1,10 +1,24 @@
 [
   {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1128",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1128"
+  },
+  {
     "id": "rising-impact",
-    "epId": "rising-impact-episode-1",
+    "epId": "rising-impact-episode-12",
     "title": "Rising Impact",
     "img": "https://gogocdn.net/cover/rising-impact.png",
-    "episode": "Episode 1"
+    "episode": "Episode 12"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-8",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 8"
   },
   {
     "id": "pokemon-shinsaku-anime",
@@ -502,20 +516,6 @@
     "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
     "img": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1127",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1127"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-7",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 7"
   },
   {
     "id": "ooi-tonbo-dub",

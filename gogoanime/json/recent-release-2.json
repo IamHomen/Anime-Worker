@@ -1,5 +1,19 @@
 [
   {
+    "id": "rising-impact-dub",
+    "epId": "rising-impact-dub-episode-12",
+    "title": "Rising Impact (Dub)",
+    "img": "https://gogocdn.net/cover/rising-impact-dub.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "rising-impact",
+    "epId": "rising-impact-episode-10",
+    "title": "Rising Impact",
+    "img": "https://gogocdn.net/cover/rising-impact.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "ooi-tonbo-dub",
     "epId": "ooi-tonbo-dub-episode-12",
     "title": "Ooi! Tonbo (Dub)",
@@ -2784,19 +2798,5 @@
     "title": "Yuukoku no Moriarty OVA (Dub)",
     "img": "https://gogocdn.net/cover/yuukoku-no-moriarty-ova-db.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "fireball-humorous-dub",
-    "epId": "fireball-humorous-dub-episode-3",
-    "title": "Fireball Humorous (Dub)",
-    "img": "https://gogocdn.net/cover/fireball-humorous-dub.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "fireball-dub",
-    "epId": "fireball-dub-episode-13",
-    "title": "Fireball (Dub)",
-    "img": "https://gogocdn.net/cover/fireball-dub.png",
-    "episode": "Episode 13"
   }
 ]
