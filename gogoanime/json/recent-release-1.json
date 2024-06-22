@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-36",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 36"
+  },
+  {
     "id": "highspeed-etoile",
     "epId": "highspeed-etoile-episode-12",
     "title": "Highspeed Etoile",
@@ -481,13 +488,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-35",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 35"
   },
   {
     "id": "pokemon-shinsaku-anime",
