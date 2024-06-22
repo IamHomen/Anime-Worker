@@ -1,5 +1,19 @@
 [
   {
+    "id": "rising-impact",
+    "epId": "rising-impact-episode-1",
+    "title": "Rising Impact",
+    "img": "https://gogocdn.net/cover/rising-impact.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-55",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 55"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-11",
     "title": "Shadowverse Flame: Arc-hen",
@@ -502,13 +516,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-54",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 54"
   },
   {
     "id": "ooi-tonbo-dub",
@@ -2791,12 +2798,5 @@
     "title": "Cyborg Kuro-chan",
     "img": "https://gogocdn.net/cover/cyborg-kuro-chan.png",
     "episode": "Episode 66"
-  },
-  {
-    "id": "the-idolmster-million-live",
-    "epId": "the-idolmster-million-live-episode-12",
-    "title": "The iDOLM@STER Million Live!",
-    "img": "https://gogocdn.net/cover/the-idolmster-million-live-1696012977.png",
-    "episode": "Episode 12"
   }
 ]
