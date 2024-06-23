@@ -1,5 +1,19 @@
 [
   {
+    "id": "tonari-no-youkai-san",
+    "epId": "tonari-no-youkai-san-episode-12",
+    "title": "Tonari no Youkai-san",
+    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "karasu-wa-aruji-wo-erabanai",
+    "epId": "karasu-wa-aruji-wo-erabanai-episode-12",
+    "title": "Karasu wa Aruji wo Erabanai",
+    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "sasayaku-you-ni-koi-wo-utau",
     "epId": "sasayaku-you-ni-koi-wo-utau-episode-9",
     "title": "Sasayaku You ni Koi wo Utau",
@@ -495,20 +509,6 @@
     "title": "Wonderful Precure!",
     "img": "https://gogocdn.net/cover/wonderful-precure.png",
     "episode": "Episode 20"
-  },
-  {
-    "id": "tonari-no-youkai-san",
-    "epId": "tonari-no-youkai-san-episode-11",
-    "title": "Tonari no Youkai-san",
-    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "karasu-wa-aruji-wo-erabanai",
-    "epId": "karasu-wa-aruji-wo-erabanai-episode-11",
-    "title": "Karasu wa Aruji wo Erabanai",
-    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
-    "episode": "Episode 11"
   },
   {
     "id": "araiguma-rascal",
