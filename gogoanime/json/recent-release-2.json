@@ -1,5 +1,12 @@
 [
   {
+    "id": "ishura-dub",
+    "epId": "ishura-dub-episode-8",
+    "title": "Ishura (Dub)",
+    "img": "https://gogocdn.net/cover/ishura-dub.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "kuroshitsuji-kishuku-gakkou-hen-dub",
     "epId": "kuroshitsuji-kishuku-gakkou-hen-dub-episode-9",
     "title": "Kuroshitsuji: Kishuku Gakkou-hen (Dub)",
@@ -26,13 +33,6 @@
     "title": "Rising Impact (Dub)",
     "img": "https://gogocdn.net/cover/rising-impact-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "rising-impact",
-    "epId": "rising-impact-episode-10",
-    "title": "Rising Impact",
-    "img": "https://gogocdn.net/cover/rising-impact.png",
-    "episode": "Episode 10"
   },
   {
     "id": "sentai-daishikkaku-dub",
@@ -82,13 +82,6 @@
     "title": "Ragna Crimson (Dub)",
     "img": "https://gogocdn.net/cover/ragna-crimson-dub-1708403258.png",
     "episode": "Episode 23"
-  },
-  {
-    "id": "ishura-dub",
-    "epId": "ishura-dub-episode-7",
-    "title": "Ishura (Dub)",
-    "img": "https://gogocdn.net/cover/ishura-dub.png",
-    "episode": "Episode 7"
   },
   {
     "id": "code-geass-dakkan-no-roze-dub",
@@ -2798,5 +2791,12 @@
     "title": "Geb\u00e4ude B\u00e4ude (Dub)",
     "img": "https://gogocdn.net/cover/gebaude-baude-dub.png",
     "episode": "Episode 10"
+  },
+  {
+    "id": "fireball-charming-dub",
+    "epId": "fireball-charming-dub-episode-13",
+    "title": "Fireball Charming (Dub)",
+    "img": "https://gogocdn.net/cover/fireball-charming-dub.png",
+    "episode": "Episode 13"
   }
 ]
