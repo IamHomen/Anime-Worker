@@ -1,5 +1,19 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1109",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1109"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-21",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 21"
+  },
+  {
     "id": "tonari-no-youkai-san",
     "epId": "tonari-no-youkai-san-episode-12",
     "title": "Tonari no Youkai-san",
@@ -504,13 +518,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-20",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 20"
-  },
-  {
     "id": "araiguma-rascal",
     "epId": "araiguma-rascal-episode-51",
     "title": "Araiguma Rascal",
@@ -656,13 +663,6 @@
     "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
     "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1108",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1108"
   },
   {
     "id": "mai-hime-kuro-no-maisaigo-no-bansan",

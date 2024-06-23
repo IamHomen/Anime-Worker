@@ -35,6 +35,13 @@
     "episode": "Episode 10"
   },
   {
+    "id": "sentai-daishikkaku-dub",
+    "epId": "sentai-daishikkaku-dub-episode-9",
+    "title": "Sentai Daishikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "ooi-tonbo-dub",
     "epId": "ooi-tonbo-dub-episode-12",
     "title": "Ooi! Tonbo (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Geb\u00e4ude B\u00e4ude (Dub)",
     "img": "https://gogocdn.net/cover/gebaude-baude-dub.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "fireball-charming-dub",
-    "epId": "fireball-charming-dub-episode-13",
-    "title": "Fireball Charming (Dub)",
-    "img": "https://gogocdn.net/cover/fireball-charming-dub.png",
-    "episode": "Episode 13"
   }
 ]
