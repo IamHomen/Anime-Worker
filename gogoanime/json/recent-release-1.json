@@ -1,5 +1,61 @@
 [
   {
+    "id": "linetown",
+    "epId": "linetown-episode-8",
+    "title": "Linetown",
+    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "blue-archive-the-animation",
+    "epId": "blue-archive-the-animation-episode-12",
+    "title": "Blue Archive the Animation",
+    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-7",
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-11",
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
+    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-12",
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "vampire-dormitory",
+    "epId": "vampire-dormitory-episode-12",
+    "title": "Vampire Dormitory",
+    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "shinigami-bocchan-to-kuro-maid-3rd-season",
+    "epId": "shinigami-bocchan-to-kuro-maid-3rd-season-episode-12",
+    "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
+    "img": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "hibike-euphonium-3",
+    "epId": "hibike-euphonium-3-episode-12",
+    "title": "Hibike! Euphonium 3",
+    "img": "https://gogocdn.net/cover/hibike-euphonium-3.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "captain-tsubasa-season-2-junior-youth-hen",
     "epId": "captain-tsubasa-season-2-junior-youth-hen-episode-38",
     "title": "Captain Tsubasa Season 2: Junior Youth-hen",
@@ -427,52 +483,10 @@
     "episode": "Episode 9"
   },
   {
-    "id": "blue-archive-the-animation",
-    "epId": "blue-archive-the-animation-episode-11",
-    "title": "Blue Archive the Animation",
-    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
-    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-6",
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-10",
-    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
-    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-11",
-    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "vampire-dormitory",
-    "epId": "vampire-dormitory-episode-11",
-    "title": "Vampire Dormitory",
-    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "jiisan-baasan-wakagaeru",
     "epId": "jiisan-baasan-wakagaeru-episode-11",
     "title": "Jiisan Baasan Wakagaeru",
     "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "shinigami-bocchan-to-kuro-maid-3rd-season",
-    "epId": "shinigami-bocchan-to-kuro-maid-3rd-season-episode-11",
-    "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
-    "img": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season.png",
     "episode": "Episode 11"
   },
   {
@@ -481,13 +495,6 @@
     "title": "Chibi Maruko-chan",
     "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
     "episode": "Episode 1435"
-  },
-  {
-    "id": "hibike-euphonium-3",
-    "epId": "hibike-euphonium-3-episode-11",
-    "title": "Hibike! Euphonium 3",
-    "img": "https://gogocdn.net/cover/hibike-euphonium-3.png",
-    "episode": "Episode 11"
   },
   {
     "id": "to-heart-2-ad",
@@ -2791,12 +2798,5 @@
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
     "img": "https://gogocdn.net/cover/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-1696009187.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "cyborg-kuro-chan",
-    "epId": "cyborg-kuro-chan-episode-66",
-    "title": "Cyborg Kuro-chan",
-    "img": "https://gogocdn.net/cover/cyborg-kuro-chan.png",
-    "episode": "Episode 66"
   }
 ]
