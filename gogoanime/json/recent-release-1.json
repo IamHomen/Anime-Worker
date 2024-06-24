@@ -1,5 +1,12 @@
 [
   {
+    "id": "tondemo-senshi-muteking",
+    "epId": "tondemo-senshi-muteking-episode-3",
+    "title": "Tondemo Senshi Muteking",
+    "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "chibi-maruko-chan",
     "epId": "chibi-maruko-chan-episode-1436",
     "title": "Chibi Maruko-chan",
@@ -971,13 +978,6 @@
     "title": "Odekake Kozame",
     "img": "https://gogocdn.net/cover/odekake-kozame.png",
     "episode": "Episode 60"
-  },
-  {
-    "id": "tondemo-senshi-muteking",
-    "epId": "tondemo-senshi-muteking-episode-2",
-    "title": "Tondemo Senshi Muteking",
-    "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
-    "episode": "Episode 2"
   },
   {
     "id": "girls-panzer-saishuushou-part-4-specials",
