@@ -1,5 +1,12 @@
 [
   {
+    "id": "chibi-maruko-chan",
+    "epId": "chibi-maruko-chan-episode-1436",
+    "title": "Chibi Maruko-chan",
+    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
+    "episode": "Episode 1436"
+  },
+  {
     "id": "linetown",
     "epId": "linetown-episode-8",
     "title": "Linetown",
@@ -488,13 +495,6 @@
     "title": "Jiisan Baasan Wakagaeru",
     "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "chibi-maruko-chan",
-    "epId": "chibi-maruko-chan-episode-1435",
-    "title": "Chibi Maruko-chan",
-    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
-    "episode": "Episode 1435"
   },
   {
     "id": "to-heart-2-ad",
