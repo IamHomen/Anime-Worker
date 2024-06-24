@@ -1,5 +1,12 @@
 [
   {
+    "id": "bosanimal",
+    "epId": "bosanimal-episode-91-96-episode-10",
+    "title": "Bosanimal Episode 91-96",
+    "img": "https://gogocdn.net/cover/bosanimal.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "tondemo-senshi-muteking",
     "epId": "tondemo-senshi-muteking-episode-3",
     "title": "Tondemo Senshi Muteking",
@@ -2790,13 +2797,6 @@
     "epId": "bikkurimen-episode-12",
     "title": "Bikkurimen",
     "img": "https://gogocdn.net/cover/bikkurimen-1696006619.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
-    "epId": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-12",
-    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-    "img": "https://gogocdn.net/cover/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-1696009187.png",
     "episode": "Episode 12"
   }
 ]
