@@ -1,19 +1,5 @@
 [
   {
-    "animeId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "animeTitle": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-    "animeImg": "'https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png'",
-    "latestEp": "Episode 25",
-    "animeUrl": "https://anitaku.so/category/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Isekai"
-    ]
-  },
-  {
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "'https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png'",
@@ -45,7 +31,7 @@
     "animeId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
     "animeImg": "'https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png'",
-    "latestEp": "Episode 12",
+    "latestEp": "Episode 13",
     "animeUrl": "https://anitaku.so/category/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "genres": [
       "Adult Cast",
@@ -138,6 +124,21 @@
       "Military",
       "Sci-Fi",
       "Shounen"
+    ]
+  },
+  {
+    "animeId": "date-a-live-v",
+    "animeTitle": "Date A Live V",
+    "animeImg": "'https://gogocdn.net/cover/date-a-live-v.png'",
+    "latestEp": "Episode 11",
+    "animeUrl": "https://anitaku.so/category/date-a-live-v",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Harem",
+      "Romance",
+      "School",
+      "Sci-Fi"
     ]
   }
 ]
