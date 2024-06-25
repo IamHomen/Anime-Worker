@@ -1,5 +1,26 @@
 [
   {
+    "id": "boukyaku-battery-tv",
+    "epId": "boukyaku-battery-tv-episode-11",
+    "title": "Boukyaku Battery (TV)",
+    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "rinkai",
+    "epId": "rinkai-episode-12",
+    "title": "Rinkai!",
+    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "unnamed-memory",
+    "epId": "unnamed-memory-episode-12",
+    "title": "Unnamed Memory",
+    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-114",
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
@@ -452,20 +473,6 @@
     "epId": "himitsu-no-aipri-episode-11",
     "title": "Himitsu no AiPri",
     "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "rinkai",
-    "epId": "rinkai-episode-11",
-    "title": "Rinkai!",
-    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "unnamed-memory",
-    "epId": "unnamed-memory-episode-11",
-    "title": "Unnamed Memory",
-    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
     "episode": "Episode 11"
   },
   {
@@ -2791,12 +2798,5 @@
     "title": "Jeremy no Ki",
     "img": "https://gogocdn.net/cover/jeremy-no-ki.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "dark-gathering",
-    "epId": "dark-gathering-episode-25",
-    "title": "Dark Gathering",
-    "img": "https://gogocdn.net/cover/dark-gathering-1688153412.png",
-    "episode": "Episode 25"
   }
 ]
