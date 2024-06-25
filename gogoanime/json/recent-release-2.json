@@ -1,5 +1,12 @@
 [
   {
+    "id": "kimitachi-wa-dou-ikiru-ka-dub",
+    "epId": "kimitachi-wa-dou-ikiru-ka-dub-episode-1",
+    "title": "Kimitachi wa Dou Ikiru ka (Dub)",
+    "img": "https://gogocdn.net/cover/kimitachi-wa-dou-ikiru-ka-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kami-wa-game-ni-ueteiru-dub",
     "epId": "kami-wa-game-ni-ueteiru-dub-episode-13",
     "title": "Kami wa Game ni Ueteiru. (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Fireball Charming (Dub)",
     "img": "https://gogocdn.net/cover/fireball-charming-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "yuukoku-no-moriarty-ova-dub",
-    "epId": "yuukoku-no-moriarty-ova-dub-episode-2",
-    "title": "Yuukoku no Moriarty OVA (Dub)",
-    "img": "https://gogocdn.net/cover/yuukoku-no-moriarty-ova-db.png",
-    "episode": "Episode 2"
   }
 ]
