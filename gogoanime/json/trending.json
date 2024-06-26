@@ -85,21 +85,6 @@
     ]
   },
   {
-    "animeId": "kono-subarashii-sekai-ni-shukufuku-wo-3",
-    "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "animeImg": "'https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png'",
-    "latestEp": "Episode 11",
-    "animeUrl": "https://anitaku.so/category/kono-subarashii-sekai-ni-shukufuku-wo-3",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Isekai",
-      "Parody",
-      "Supernatural"
-    ]
-  },
-  {
     "animeId": "kimetsu-no-yaiba-hashira-geiko-hen",
     "animeTitle": "Kimetsu no Yaiba: Hashira Geiko-hen",
     "animeImg": "'https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png'",
@@ -127,18 +112,31 @@
     ]
   },
   {
-    "animeId": "date-a-live-v",
-    "animeTitle": "Date A Live V",
-    "animeImg": "'https://gogocdn.net/cover/date-a-live-v.png'",
-    "latestEp": "Episode 11",
-    "animeUrl": "https://anitaku.so/category/date-a-live-v",
+    "animeId": "boku-no-hero-academia-7th-season",
+    "animeTitle": "Boku no Hero Academia 7th Season",
+    "animeImg": "'https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png'",
+    "latestEp": "Episode 8",
+    "animeUrl": "https://anitaku.so/category/boku-no-hero-academia-7th-season",
     "genres": [
       "Action",
-      "Fantasy",
-      "Harem",
-      "Romance",
       "School",
-      "Sci-Fi"
+      "Shounen",
+      "Super Power"
+    ]
+  },
+  {
+    "animeId": "one-piece",
+    "animeTitle": "One Piece",
+    "animeImg": "'https://gogocdn.net/cover/one-piece-1708412053.png'",
+    "latestEp": "Episode 1109",
+    "animeUrl": "https://anitaku.so/category/one-piece",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Shounen",
+      "Super Power"
     ]
   }
 ]

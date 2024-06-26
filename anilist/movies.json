@@ -312,18 +312,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 2759,
-    "title": "Evangelion Shin Movie: Jo",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2759-z07kq8Pnw5B1.jpg",
-    "seasonYear": 2007,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 11577,
     "title": "Steins;Gate: Fuka Ryouiki no D\u00e9j\u00e0 vu",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png",
     "seasonYear": 2013,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 2759,
+    "title": "Evangelion Shin Movie: Jo",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2759-z07kq8Pnw5B1.jpg",
+    "seasonYear": 2007,
     "totalEpisode": 1,
     "format": "MOVIE"
   },

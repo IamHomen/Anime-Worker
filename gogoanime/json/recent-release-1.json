@@ -1,5 +1,47 @@
 [
   {
+    "id": "kenka-dokugaku",
+    "epId": "kenka-dokugaku-episode-12",
+    "title": "Kenka Dokugaku",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "date-a-live-v",
+    "epId": "date-a-live-v-episode-12",
+    "title": "Date A Live V",
+    "img": "https://gogocdn.net/cover/date-a-live-v.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-1",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kaii-to-otome-to-kamikakushi",
+    "epId": "kaii-to-otome-to-kamikakushi-episode-12",
+    "title": "Kaii to Otome to Kamikakushi",
+    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "gunma-chan-season-2",
+    "epId": "gunma-chan-season-2-episode-13",
+    "title": "Gunma-chan Season 2",
+    "img": "https://gogocdn.net/cover/gunma-chan-season-2.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "seiyuu-radio-no-uraomote",
+    "epId": "seiyuu-radio-no-uraomote-episode-12",
+    "title": "Seiyuu Radio no Uraomote",
+    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-10",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -441,13 +483,6 @@
     "episode": "Episode 30"
   },
   {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-11",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "bartender-kami-no-glass",
     "epId": "bartender-kami-no-glass-episode-12",
     "title": "Bartender: Kami no Glass",
@@ -459,27 +494,6 @@
     "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-11",
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
     "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "date-a-live-v",
-    "epId": "date-a-live-v-episode-11",
-    "title": "Date A Live V",
-    "img": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "kaii-to-otome-to-kamikakushi",
-    "epId": "kaii-to-otome-to-kamikakushi-episode-11",
-    "title": "Kaii to Otome to Kamikakushi",
-    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "seiyuu-radio-no-uraomote",
-    "epId": "seiyuu-radio-no-uraomote-episode-11",
-    "title": "Seiyuu Radio no Uraomote",
-    "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
     "episode": "Episode 11"
   },
   {
@@ -1174,13 +1188,6 @@
     "title": "Mahou no Yousei Persia: Escape!",
     "img": "https://gogocdn.net/cover/mahou-no-yousei-persia-escape.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "gunma-chan-season-2",
-    "epId": "gunma-chan-season-2-episode-2",
-    "title": "Gunma-chan Season 2",
-    "img": "https://gogocdn.net/cover/gunma-chan-season-2.png",
-    "episode": "Episode 2"
   },
   {
     "id": "cardfight-vanguard-divinez",
@@ -2791,12 +2798,5 @@
     "title": "Ai to Yuuki no Pig Girl Tonde Buurin",
     "img": "https://gogocdn.net/images/anime/A/Ai-to-Yuuki-no-Pig-Girl-Tonde-Buurin.jpg",
     "episode": "Episode 19"
-  },
-  {
-    "id": "jeremy-no-ki",
-    "epId": "jeremy-no-ki-episode-1",
-    "title": "Jeremy no Ki",
-    "img": "https://gogocdn.net/cover/jeremy-no-ki.png",
-    "episode": "Episode 1"
   }
 ]
