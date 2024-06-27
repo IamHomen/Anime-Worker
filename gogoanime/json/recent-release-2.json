@@ -1,5 +1,33 @@
 [
   {
+    "id": "natsume-yuujinchou-go-dub",
+    "epId": "natsume-yuujinchou-go-dub-episode-8",
+    "title": "Natsume Yuujinchou Go (Dub)",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-go-dub.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "date-a-live-v-dub",
+    "epId": "date-a-live-v-dub-episode-10",
+    "title": "Date A Live V (Dub)",
+    "img": "https://gogocdn.net/cover/date-a-live-v-dub.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "kenka-dokugaku-dub",
+    "epId": "kenka-dokugaku-dub-episode-10",
+    "title": "Kenka Dokugaku (Dub)",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku-dub.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub",
+    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub-episode-10",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 (Dub)",
+    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-dub",
     "epId": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-dub-episode-12",
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. (Dub)",
@@ -201,34 +229,6 @@
     "title": "One Piece: Luffy Senpai Ouen Kikaku! Barto no Himitsu no Heya! (Dub)",
     "img": "https://gogocdn.net/cover/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-dub.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "natsume-yuujinchou-go-dub",
-    "epId": "natsume-yuujinchou-go-dub-episode-7",
-    "title": "Natsume Yuujinchou Go (Dub)",
-    "img": "https://gogocdn.net/cover/natsume-yuujinchou-go-dub.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "kenka-dokugaku-dub",
-    "epId": "kenka-dokugaku-dub-episode-9",
-    "title": "Kenka Dokugaku (Dub)",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku-dub.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "date-a-live-v-dub",
-    "epId": "date-a-live-v-dub-episode-9",
-    "title": "Date A Live V (Dub)",
-    "img": "https://gogocdn.net/cover/date-a-live-v-dub.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub",
-    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub-episode-9",
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 (Dub)",
-    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-dub.png",
-    "episode": "Episode 9"
   },
   {
     "id": "ranma-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou-dub",
