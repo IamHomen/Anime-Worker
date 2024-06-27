@@ -1,5 +1,12 @@
 [
   {
+    "id": "isekai-suicide-squad",
+    "epId": "isekai-suicide-squad-episode-3",
+    "title": "Isekai Suicide Squad",
+    "img": "https://gogocdn.net/cover/isekai-suicide-squad.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "himitsu-no-aipri",
     "epId": "himitsu-no-aipri-episode-12",
     "title": "Himitsu no AiPri",
@@ -2791,12 +2798,5 @@
     "title": "Shinzo",
     "img": "https://gogocdn.net/images/anime/S/shinzo.jpg",
     "episode": "Episode 17"
-  },
-  {
-    "id": "ai-to-yuuki-no-pig-girl-tonde-buurin",
-    "epId": "ai-to-yuuki-no-pig-girl-tonde-buurin-episode-19",
-    "title": "Ai to Yuuki no Pig Girl Tonde Buurin",
-    "img": "https://gogocdn.net/images/anime/A/Ai-to-Yuuki-no-Pig-Girl-Tonde-Buurin.jpg",
-    "episode": "Episode 19"
   }
 ]
