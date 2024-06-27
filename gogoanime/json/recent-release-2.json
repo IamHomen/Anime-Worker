@@ -1,5 +1,12 @@
 [
   {
+    "id": "isekai-suicide-squad-dub",
+    "epId": "isekai-suicide-squad-dub-episode-3",
+    "title": "Isekai Suicide Squad (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-suicide-squad-dub.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "natsume-yuujinchou-go-dub",
     "epId": "natsume-yuujinchou-go-dub-episode-8",
     "title": "Natsume Yuujinchou Go (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Geb\u00e4ude B\u00e4ude (Dub)",
     "img": "https://gogocdn.net/cover/gebaude-baude-dub.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "fireball-charming-dub",
-    "epId": "fireball-charming-dub-episode-13",
-    "title": "Fireball Charming (Dub)",
-    "img": "https://gogocdn.net/cover/fireball-charming-dub.png",
-    "episode": "Episode 13"
   }
 ]
