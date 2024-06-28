@@ -1,5 +1,16 @@
 [
   {
+    "animeId": "isekai-suicide-squad",
+    "animeTitle": "Isekai Suicide Squad",
+    "animeImg": "'https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png'",
+    "latestEp": "Episode 3",
+    "animeUrl": "https://anitaku.so/category/isekai-suicide-squad",
+    "genres": [
+      "Action",
+      "Isekai"
+    ]
+  },
+  {
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "'https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png'",
@@ -120,21 +131,6 @@
     "genres": [
       "Action",
       "School",
-      "Shounen",
-      "Super Power"
-    ]
-  },
-  {
-    "animeId": "one-piece",
-    "animeTitle": "One Piece",
-    "animeImg": "'https://gogocdn.net/cover/one-piece-1708412053.png'",
-    "latestEp": "Episode 1109",
-    "animeUrl": "https://anitaku.so/category/one-piece",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
       "Shounen",
       "Super Power"
     ]

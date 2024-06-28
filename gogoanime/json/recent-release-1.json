@@ -1,5 +1,19 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-98",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 98"
+  },
+  {
+    "id": "wind-breaker",
+    "epId": "wind-breaker-episode-13",
+    "title": "Wind Breaker",
+    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-59",
     "title": "Magical\u2605Taruruuto-kun",
@@ -455,13 +469,6 @@
     "episode": "Episode 4"
   },
   {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-97",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 97"
-  },
-  {
     "id": "urusei-yatsura-2022-2nd-season",
     "epId": "urusei-yatsura-2022-2nd-season-episode-23",
     "title": "Urusei Yatsura (2022) 2nd Season",
@@ -480,13 +487,6 @@
     "epId": "henjin-no-salad-bowl-episode-12",
     "title": "Henjin no Salad Bowl",
     "img": "https://gogocdn.net/cover/henjin-no-salad-bowl-1711733808.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "wind-breaker",
-    "epId": "wind-breaker-episode-12",
-    "title": "Wind Breaker",
-    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
     "episode": "Episode 12"
   },
   {
