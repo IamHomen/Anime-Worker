@@ -12,12 +12,6 @@
     "date": "2024"
   },
   {
-    "id": "ore-dake-level-up-na-ken",
-    "title": "Ore dake Level Up na Ken",
-    "img": "https://gogocdn.net/cover/ore-dake-level-up-na-ken-1708917521.png",
-    "date": "2024"
-  },
-  {
     "id": "2-5-jigen-no-ririsa",
     "title": "2.5-jigen no Ririsa",
     "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
@@ -42,12 +36,6 @@
     "date": "2024"
   },
   {
-    "id": "kusuriya-no-hitorigoto",
-    "title": "Kusuriya no Hitorigoto",
-    "img": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
-    "date": "2023"
-  },
-  {
     "id": "one-piece",
     "title": "One Piece",
     "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
@@ -63,12 +51,6 @@
     "id": "oshi-no-ko-2nd-season",
     "title": "\"Oshi no Ko\" 2nd Season",
     "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "date": "2024"
-  },
-  {
-    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-    "img": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
     "date": "2024"
   },
   {
@@ -117,18 +99,6 @@
     "id": "kimetsu-no-yaiba-hashira-geiko-hen",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
     "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
-    "date": "2024"
-  },
-  {
-    "id": "mashle-2nd-season",
-    "title": "Mashle 2nd Season",
-    "img": "https://gogocdn.net/cover/mashle-2nd-season-1708568890.png",
-    "date": "2024"
-  },
-  {
-    "id": "boku-no-kokoro-no-yabai-yatsu-season-2",
-    "title": "Boku no Kokoro no Yabai Yatsu Season 2",
-    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-season-2-1704168450.png",
     "date": "2024"
   },
   {
@@ -460,6 +430,12 @@
     "title": "Vinland Saga",
     "img": "https://gogocdn.net/cover/vinland-saga.png",
     "date": "2019"
+  },
+  {
+    "id": "ore-dake-level-up-na-ken",
+    "title": "Ore dake Level Up na Ken",
+    "img": "https://gogocdn.net/cover/ore-dake-level-up-na-ken-1708917521.png",
+    "date": "2024"
   },
   {
     "id": "mashle",
@@ -1722,6 +1698,12 @@
     "date": "2014"
   },
   {
+    "id": "kusuriya-no-hitorigoto",
+    "title": "Kusuriya no Hitorigoto",
+    "img": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
+    "date": "2023"
+  },
+  {
     "id": "jujutsu-kaisen-tv",
     "title": "Jujutsu Kaisen (TV)",
     "img": "https://gogocdn.net/cover/jujutsu-kaisen-tv.png",
@@ -1984,6 +1966,12 @@
     "title": "Vanitas no Carte Part 2",
     "img": "https://gogocdn.net/cover/vanitas-no-carte-part-2.png",
     "date": "2022"
+  },
+  {
+    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
+    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+    "img": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
+    "date": "2024"
   },
   {
     "id": "musaigen-no-phantom-world",
@@ -2262,6 +2250,12 @@
     "date": "2023"
   },
   {
+    "id": "mashle-2nd-season",
+    "title": "Mashle 2nd Season",
+    "img": "https://gogocdn.net/cover/mashle-2nd-season-1708568890.png",
+    "date": "2024"
+  },
+  {
     "id": "pokemon-xy",
     "title": "Pokemon XY",
     "img": "https://gogocdn.net/images/anime/P/Pokemon-xy.jpg",
@@ -2284,6 +2278,12 @@
     "title": "SSSS.Gridman",
     "img": "https://gogocdn.net/cover/ssss-gridman.png",
     "date": "2018"
+  },
+  {
+    "id": "boku-no-kokoro-no-yabai-yatsu-season-2",
+    "title": "Boku no Kokoro no Yabai Yatsu Season 2",
+    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-season-2-1704168450.png",
+    "date": "2024"
   },
   {
     "id": "tensei-shitara-slime-datta-ken",

@@ -1,5 +1,19 @@
 [
   {
+    "id": "rail-romanesque-2",
+    "epId": "rail-romanesque-2-episode-4",
+    "title": "Rail Romanesque 2",
+    "img": "https://gogocdn.net/cover/rail-romanesque-2-1696011415.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-61",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 61"
+  },
+  {
     "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
     "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-10",
     "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
@@ -1307,13 +1321,6 @@
     "title": "SF Saiyuuki Starzinger",
     "img": "https://gogocdn.net/cover/sf-saiyuuki-starzinger.png",
     "episode": "Episode 72"
-  },
-  {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-50",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 50"
   },
   {
     "id": "yami-shibai-12",
@@ -2644,13 +2651,6 @@
     "title": "Burn the Witch #0.8",
     "img": "https://gogocdn.net/cover/burn-the-witch-0-8.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "rail-romanesque-2",
-    "epId": "rail-romanesque-2-episode-3",
-    "title": "Rail Romanesque 2",
-    "img": "https://gogocdn.net/cover/rail-romanesque-2-1696011415.png",
-    "episode": "Episode 3"
   },
   {
     "id": "my-daemon",
