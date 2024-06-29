@@ -1,5 +1,26 @@
 [
   {
+    "id": "kaijuu-8-gou",
+    "epId": "kaijuu-8-gou-episode-12",
+    "title": "Kaijuu 8-gou",
+    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1129",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1129"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-9",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-56",
     "title": "Pokemon (Shinsaku Anime)",
@@ -110,6 +131,13 @@
     "title": "Wind Breaker",
     "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
     "episode": "Episode 13"
+  },
+  {
+    "id": "magicaltaruruuto-kun",
+    "epId": "magicaltaruruuto-kun-episode-59",
+    "title": "Magical\u2605Taruruuto-kun",
+    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
+    "episode": "Episode 59"
   },
   {
     "id": "magicaltaruruuto-kun",
@@ -434,32 +462,11 @@
     "episode": "Episode 11"
   },
   {
-    "id": "kaijuu-8-gou",
-    "epId": "kaijuu-8-gou-episode-11",
-    "title": "Kaijuu 8-gou",
-    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1128",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1128"
-  },
-  {
     "id": "rising-impact",
     "epId": "rising-impact-episode-12",
     "title": "Rising Impact",
     "img": "https://gogocdn.net/cover/rising-impact.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-8",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 8"
   },
   {
     "id": "shadowverse-flame-arc-hen",
@@ -551,13 +558,6 @@
     "title": "Umeboshi Denka: Uchuu no Hate kara Panparopan!",
     "img": "https://gogocdn.net/cover/umeboshi-denka-uchuu-no-hate-kara-panparopan.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
-    "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-12",
-    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-    "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
-    "episode": "Episode 12"
   },
   {
     "id": "remonster",
@@ -700,6 +700,13 @@
     "episode": "Episode 13"
   },
   {
+    "id": "saint-luminous-jogakuin",
+    "epId": "saint-luminous-jogakuin-episode-13",
+    "title": "Saint Luminous Jogakuin",
+    "img": "https://gogocdn.net/cover/saint-luminous-jogakuin.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "yaneura-no-rudger",
     "epId": "yaneura-no-rudger-episode-1",
     "title": "Yaneura no Rudger",
@@ -831,13 +838,6 @@
     "title": "Digimon Adventure 02: The Beginning",
     "img": "https://gogocdn.net/cover/02-1717289197.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "sabaku-no-kaizoku-captain-kuppa",
-    "epId": "sabaku-no-kaizoku-captain-kuppa-episode-3",
-    "title": "Sabaku no Kaizoku! Captain Kuppa",
-    "img": "https://gogocdn.net/cover/sabaku-no-kaizoku-captain-kuppa.png",
-    "episode": "Episode 3"
   },
   {
     "id": "blazblue-central-fiction",
@@ -980,6 +980,13 @@
     "episode": "Episode 424"
   },
   {
+    "id": "detective-conan-remastered",
+    "epId": "detective-conan-remastered-episode-424",
+    "title": "Detective Conan Remastered",
+    "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
+    "episode": "Episode 424"
+  },
+  {
     "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai",
     "epId": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1",
     "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
@@ -1111,13 +1118,6 @@
     "title": "Enter the Garden",
     "img": "https://gogocdn.net/cover/enter-the-garden.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "sand-land-the-series",
-    "epId": "sand-land-the-series-episode-13",
-    "title": "Sand Land: The Series",
-    "img": "https://gogocdn.net/cover/sand-land-the-series.png",
-    "episode": "Episode 13"
   },
   {
     "id": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
@@ -1391,6 +1391,13 @@
     "title": "Kingdom 5th Season",
     "img": "https://gogocdn.net/cover/kingdom-5th-season-1704186249.png",
     "episode": "Episode 13"
+  },
+  {
+    "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+    "epId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-episode-25",
+    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+    "img": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-1698288586.png",
+    "episode": "Episode 25"
   },
   {
     "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
@@ -2791,12 +2798,5 @@
     "title": "Hoshikuzu Telepath",
     "img": "https://gogocdn.net/cover/hoshikuzu-telepath-1696007809.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "shinzo",
-    "epId": "shinzo-episode-17",
-    "title": "Shinzo",
-    "img": "https://gogocdn.net/images/anime/S/shinzo.jpg",
-    "episode": "Episode 17"
   }
 ]

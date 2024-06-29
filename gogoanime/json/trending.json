@@ -95,24 +95,10 @@
     ]
   },
   {
-    "animeId": "kaijuu-8-gou",
-    "animeTitle": "Kaijuu 8-gou",
-    "animeImg": "'https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png'",
-    "latestEp": "Episode 11",
-    "animeUrl": "https://anitaku.so/category/kaijuu-8-gou",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Military",
-      "Sci-Fi",
-      "Shounen"
-    ]
-  },
-  {
     "animeId": "boku-no-hero-academia-7th-season",
     "animeTitle": "Boku no Hero Academia 7th Season",
     "animeImg": "'https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png'",
-    "latestEp": "Episode 8",
+    "latestEp": "Episode 9",
     "animeUrl": "https://anitaku.so/category/boku-no-hero-academia-7th-season",
     "genres": [
       "Action",
@@ -134,6 +120,21 @@
       "Fantasy",
       "Shounen",
       "Super Power"
+    ]
+  },
+  {
+    "animeId": "detective-conan",
+    "animeTitle": "Detective Conan",
+    "animeImg": "'https://gogocdn.net/cover/detective-conan.png'",
+    "latestEp": "Episode 1129",
+    "animeUrl": "https://anitaku.so/category/detective-conan",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Police",
+      "Psychological",
+      "Shounen"
     ]
   }
 ]
