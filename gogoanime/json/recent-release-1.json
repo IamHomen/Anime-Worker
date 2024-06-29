@@ -1,5 +1,19 @@
 [
   {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-56",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 56"
+  },
+  {
+    "id": "ooi-tonbo",
+    "epId": "ooi-tonbo-episode-13",
+    "title": "Ooi! Tonbo",
+    "img": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "rail-romanesque-2",
     "epId": "rail-romanesque-2-episode-4",
     "title": "Rail Romanesque 2",
@@ -448,25 +462,11 @@
     "episode": "Episode 8"
   },
   {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-55",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 55"
-  },
-  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-11",
     "title": "Shadowverse Flame: Arc-hen",
     "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "ooi-tonbo",
-    "epId": "ooi-tonbo-episode-12",
-    "title": "Ooi! Tonbo",
-    "img": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
-    "episode": "Episode 12"
   },
   {
     "id": "highspeed-etoile",
