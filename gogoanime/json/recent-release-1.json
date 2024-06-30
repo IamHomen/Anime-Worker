@@ -1,5 +1,40 @@
 [
   {
+    "id": "tonari-no-youkai-san",
+    "epId": "tonari-no-youkai-san-episode-13",
+    "title": "Tonari no Youkai-san",
+    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "karasu-wa-aruji-wo-erabanai",
+    "epId": "karasu-wa-aruji-wo-erabanai-episode-13",
+    "title": "Karasu wa Aruji wo Erabanai",
+    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "the-new-gate",
+    "epId": "the-new-gate-episode-12",
+    "title": "The New Gate",
+    "img": "https://gogocdn.net/cover/the-new-gate.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "the-fable",
+    "epId": "the-fable-episode-13",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "boku-no-tsuma-wa-kanjou-ga-nai",
+    "epId": "boku-no-tsuma-wa-kanjou-ga-nai-episode-1",
+    "title": "Boku no Tsuma wa Kanjou ga Nai",
+    "img": "https://gogocdn.net/cover/boku-no-tsuma-wa-kanjou-ga-nai.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kaijuu-8-gou",
     "epId": "kaijuu-8-gou-episode-12",
     "title": "Kaijuu 8-gou",
@@ -131,13 +166,6 @@
     "title": "Wind Breaker",
     "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "magicaltaruruuto-kun",
-    "epId": "magicaltaruruuto-kun-episode-59",
-    "title": "Magical\u2605Taruruuto-kun",
-    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
-    "episode": "Episode 59"
   },
   {
     "id": "magicaltaruruuto-kun",
@@ -413,20 +441,6 @@
     "episode": "Episode 21"
   },
   {
-    "id": "tonari-no-youkai-san",
-    "epId": "tonari-no-youkai-san-episode-12",
-    "title": "Tonari no Youkai-san",
-    "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "karasu-wa-aruji-wo-erabanai",
-    "epId": "karasu-wa-aruji-wo-erabanai-episode-12",
-    "title": "Karasu wa Aruji wo Erabanai",
-    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "sasayaku-you-ni-koi-wo-utau",
     "epId": "sasayaku-you-ni-koi-wo-utau-episode-9",
     "title": "Sasayaku You ni Koi wo Utau",
@@ -434,24 +448,10 @@
     "episode": "Episode 9"
   },
   {
-    "id": "the-new-gate",
-    "epId": "the-new-gate-episode-11",
-    "title": "The New Gate",
-    "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "yoru-no-kurage-wa-oyogenai",
     "epId": "yoru-no-kurage-wa-oyogenai-episode-12",
     "title": "Yoru no Kurage wa Oyogenai",
     "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-12",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
     "episode": "Episode 12"
   },
   {
@@ -558,6 +558,13 @@
     "title": "Umeboshi Denka: Uchuu no Hate kara Panparopan!",
     "img": "https://gogocdn.net/cover/umeboshi-denka-uchuu-no-hate-kara-panparopan.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
+    "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-12",
+    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+    "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
+    "episode": "Episode 12"
   },
   {
     "id": "remonster",
@@ -700,13 +707,6 @@
     "episode": "Episode 13"
   },
   {
-    "id": "saint-luminous-jogakuin",
-    "epId": "saint-luminous-jogakuin-episode-13",
-    "title": "Saint Luminous Jogakuin",
-    "img": "https://gogocdn.net/cover/saint-luminous-jogakuin.png",
-    "episode": "Episode 13"
-  },
-  {
     "id": "yaneura-no-rudger",
     "epId": "yaneura-no-rudger-episode-1",
     "title": "Yaneura no Rudger",
@@ -838,6 +838,13 @@
     "title": "Digimon Adventure 02: The Beginning",
     "img": "https://gogocdn.net/cover/02-1717289197.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "sabaku-no-kaizoku-captain-kuppa",
+    "epId": "sabaku-no-kaizoku-captain-kuppa-episode-3",
+    "title": "Sabaku no Kaizoku! Captain Kuppa",
+    "img": "https://gogocdn.net/cover/sabaku-no-kaizoku-captain-kuppa.png",
+    "episode": "Episode 3"
   },
   {
     "id": "blazblue-central-fiction",
@@ -980,13 +987,6 @@
     "episode": "Episode 424"
   },
   {
-    "id": "detective-conan-remastered",
-    "epId": "detective-conan-remastered-episode-424",
-    "title": "Detective Conan Remastered",
-    "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
-    "episode": "Episode 424"
-  },
-  {
     "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai",
     "epId": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1",
     "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
@@ -1118,6 +1118,13 @@
     "title": "Enter the Garden",
     "img": "https://gogocdn.net/cover/enter-the-garden.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "sand-land-the-series",
+    "epId": "sand-land-the-series-episode-13",
+    "title": "Sand Land: The Series",
+    "img": "https://gogocdn.net/cover/sand-land-the-series.png",
+    "episode": "Episode 13"
   },
   {
     "id": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
@@ -1391,13 +1398,6 @@
     "title": "Kingdom 5th Season",
     "img": "https://gogocdn.net/cover/kingdom-5th-season-1704186249.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-    "epId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-episode-25",
-    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-    "img": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-1698288586.png",
-    "episode": "Episode 25"
   },
   {
     "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
