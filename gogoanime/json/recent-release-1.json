@@ -1,5 +1,40 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1110",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1110"
+  },
+  {
+    "id": "sasayaku-you-ni-koi-wo-utau",
+    "epId": "sasayaku-you-ni-koi-wo-utau-episode-10",
+    "title": "Sasayaku You ni Koi wo Utau",
+    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-22",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 22"
+  },
+  {
+    "id": "attacker-you",
+    "epId": "attacker-you-episode-52",
+    "title": "Attacker You!",
+    "img": "https://gogocdn.net/images/upload/55755.jpg",
+    "episode": "Episode 52"
+  },
+  {
+    "id": "the-snack-world-tv",
+    "epId": "the-snack-world-tv-episode-29",
+    "title": "The Snack World (TV)",
+    "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
+    "episode": "Episode 29"
+  },
+  {
     "id": "tonari-no-youkai-san",
     "epId": "tonari-no-youkai-san-episode-13",
     "title": "Tonari no Youkai-san",
@@ -425,27 +460,6 @@
     "title": "Yozakura-san Chi no Daisakusen",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1109",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1109"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-21",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 21"
-  },
-  {
-    "id": "sasayaku-you-ni-koi-wo-utau",
-    "epId": "sasayaku-you-ni-koi-wo-utau-episode-9",
-    "title": "Sasayaku You ni Koi wo Utau",
-    "img": "https://gogocdn.net/cover/sasayaku-you-ni-koi-wo-utau-1711738463.png",
-    "episode": "Episode 9"
   },
   {
     "id": "yoru-no-kurage-wa-oyogenai",
@@ -908,13 +922,6 @@
     "title": "Fatal Fury: Legend of the Hungry Wolf",
     "img": "https://gogocdn.net/cover/fatal-fury-legend-of-the-hungry-wolf.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "attacker-you",
-    "epId": "attacker-you-episode-51",
-    "title": "Attacker You!",
-    "img": "https://gogocdn.net/images/upload/55755.jpg",
-    "episode": "Episode 51"
   },
   {
     "id": "suki-demo-kirai-na-amanojaku",
@@ -2791,12 +2798,5 @@
     "title": "Migi to Dali",
     "img": "https://gogocdn.net/cover/migi-to-dali-1696010832.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "hoshikuzu-telepath",
-    "epId": "hoshikuzu-telepath-episode-12",
-    "title": "Hoshikuzu Telepath",
-    "img": "https://gogocdn.net/cover/hoshikuzu-telepath-1696007809.png",
-    "episode": "Episode 12"
   }
 ]

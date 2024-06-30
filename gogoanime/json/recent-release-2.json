@@ -1,5 +1,26 @@
 [
   {
+    "id": "beyblade-x-dub",
+    "epId": "beyblade-x-dub-episode-1",
+    "title": "Beyblade X (Dub)",
+    "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season-dub",
+    "epId": "boku-no-hero-academia-7th-season-dub-episode-7",
+    "title": "Boku no Hero Academia 7th Season (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "kuroshitsuji-kishuku-gakkou-hen-dub",
+    "epId": "kuroshitsuji-kishuku-gakkou-hen-dub-episode-10",
+    "title": "Kuroshitsuji: Kishuku Gakkou-hen (Dub)",
+    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub",
     "epId": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub-episode-2",
     "title": "Boku no Kokoro no Yabai Yatsu 2nd Season (Dub)",
@@ -229,13 +250,6 @@
     "title": "Ishura (Dub)",
     "img": "https://gogocdn.net/cover/ishura-dub.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season-dub",
-    "epId": "boku-no-hero-academia-7th-season-dub-episode-6",
-    "title": "Boku no Hero Academia 7th Season (Dub)",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
-    "episode": "Episode 6"
   },
   {
     "id": "rising-impact-dub",
@@ -2784,19 +2798,5 @@
     "title": "Zoku Natsume Yuujinchou (Dub)",
     "img": "https://gogocdn.net/cover/zoku-natsume-yuujinchou-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "bem-movie-become-human-dub",
-    "epId": "bem-movie-become-human-dub-episode-1",
-    "title": "Bem Movie: Become Human (Dub)",
-    "img": "https://gogocdn.net/cover/bem-movie-become-human-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "gebaude-baude-dub",
-    "epId": "gebaude-baude-dub-episode-10",
-    "title": "Geb\u00e4ude B\u00e4ude (Dub)",
-    "img": "https://gogocdn.net/cover/gebaude-baude-dub.png",
-    "episode": "Episode 10"
   }
 ]
