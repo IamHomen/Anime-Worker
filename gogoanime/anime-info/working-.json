@@ -11,5 +11,62 @@
   "synopsis": "The third season of the Working!! series.",
   "animeImg": "https://gogocdn.net/images/upload/working_3.jpg",
   "totalEpisodes": "14",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "working--episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "working--episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "working--episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "working--episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "working--episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "working--episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "working--episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "working--episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "working--episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "working--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "working--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "working--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "working--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "working--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,18 @@
   "synopsis": "A collaborative anime between Hi no Tori and the Dougo Onsen hot spring bath house. The anime is part of a revitalization project for the Matsuyama, Ehime Prefecture bath house that began on January 15. The Dougo Onsen building is 125 years old and certain areas were due for a facelift.",
   "animeImg": "https://gogocdn.net/cover/hi-no-tori-dougo-onsen-hen.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hi-no-tori-dougo-onsen-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hi-no-tori-dougo-onsen-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hi-no-tori-dougo-onsen-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

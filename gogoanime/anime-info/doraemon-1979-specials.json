@@ -13,5 +13,50 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/doraemon-1979-specials.png",
   "totalEpisodes": "36",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doraemon-1979-specials-episode-36",
+      "episodeNum": "Episode 36"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-32",
+      "episodeNum": "Episode 32"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-29",
+      "episodeNum": "Episode 29"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-27",
+      "episodeNum": "Episode 27"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-25",
+      "episodeNum": "Episode 25"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "doraemon-1979-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "doraemon-1979-specials",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

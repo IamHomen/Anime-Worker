@@ -11,5 +11,18 @@
   "synopsis": "Maple Town Stories is about friendship, adventure and the troubles the children (Patty Rabbit, Bobby Bear and Fanny Fox) who are the main characters of the show, fall into. Wild Wolfe is a homeless thief who lives in the forest and usually steals from the town and does other mischief, but the kids are always there to stop him and set things right slowly making him understand the wrongs of his ways.",
   "animeImg": "https://gogocdn.net/cover/maple-town-monogatari.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "maple-town-monogatari-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "maple-town-monogatari-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "maple-town-monogatari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

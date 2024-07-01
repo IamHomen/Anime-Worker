@@ -14,5 +14,10 @@
   "synopsis": "Second Overlord recap film.",
   "animeImg": "https://gogocdn.net/cover/overlord-movie-2-shikkoku-no-eiyuu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "overlord-movie-2-shikkoku-no-eiyuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

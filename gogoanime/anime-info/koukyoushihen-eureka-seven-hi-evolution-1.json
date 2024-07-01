@@ -13,5 +13,10 @@
   "synopsis": "Eureka Seven: Hi-Evolution 1 is the first part of a three-part film trilogy that serves as a reboot of the original Eureka Seven television series.",
   "animeImg": "https://gogocdn.net/cover/koukyoushihen-eureka-seven-hi-evolution-1.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koukyoushihen-eureka-seven-hi-evolution-1-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

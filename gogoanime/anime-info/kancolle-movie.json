@@ -14,5 +14,10 @@
   "synopsis": "KanColle Movie",
   "animeImg": "https://gogocdn.net/cover/kancolle-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kancolle-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,58 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/wangzhe-bie-nao.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wangzhe-bie-nao-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wangzhe-bie-nao-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

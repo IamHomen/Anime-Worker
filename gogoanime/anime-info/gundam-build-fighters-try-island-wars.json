@@ -13,5 +13,10 @@
   "synopsis": "The official Twitter account for the Gundam Build Fighters and Gundam Build Fighters Try television anime reported on Wednesday that original video anime (OVA) projects are launching. According to the producer in charge of the account, director Kenji Nagasaki is planning one Gundam Build Fighters OVA, and director Shinya Watada is planning one Gundam Build Fighters Try OVA.",
   "animeImg": "https://gogocdn.net/cover/gundam-build-fighters-try-island-wars.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-build-fighters-try-island-wars-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

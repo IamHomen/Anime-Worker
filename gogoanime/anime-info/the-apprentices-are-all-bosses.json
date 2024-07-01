@@ -10,5 +10,34 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-apprentices-are-all-bosses.png",
   "totalEpisodes": "17",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-apprentices-are-all-bosses-episode-17",
+      "episodeNum": "Episode 17"
+    },
+    {
+      "episodeId": "the-apprentices-are-all-bosses-episode-16",
+      "episodeNum": "Episode 16"
+    },
+    {
+      "episodeId": "the-apprentices-are-all-bosses-episode-15",
+      "episodeNum": "Episode 15"
+    },
+    {
+      "episodeId": "the-apprentices-are-all-bosses-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "the-apprentices-are-all-bosses-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "the-apprentices-are-all-bosses-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "the-apprentices-are-all-bosses-episode-1-11-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

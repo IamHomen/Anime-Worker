@@ -13,5 +13,14 @@
   "synopsis": "Specials included with the original series.\r\n\r\nGoku no Koutsuuanzen (Goku's Traffic Safety)\r\nGoku is heading to West City to attend Bulma's birthday party, and on the way he ends up learning the rules for getting through traffic. The movie was for children to watch so it would teach them how to get across a pedestrian crossing.\r\n\r\nGoku no Shouboutai (Goku's Fire Brigade)\r\nAn episode for kids where Goku and the others work for the Fire brigade and explain how avoid problems with fire.",
   "animeImg": "https://gogocdn.net/cover/dragon-ball-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dragon-ball-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dragon-ball-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,54 @@
   "synopsis": "The story describes the everyday life of a shy girl named Konagai Tomoko and her three anthropomorphic cats: Maa, Roo and Shii.",
   "animeImg": "https://gogocdn.net/cover/nyanko-days.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nyanko-days-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "nyanko-days-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "nyanko-days-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "nyanko-days-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "nyanko-days-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "nyanko-days-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "nyanko-days-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "nyanko-days-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nyanko-days-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nyanko-days-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nyanko-days-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nyanko-days-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

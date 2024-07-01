@@ -11,5 +11,10 @@
   "synopsis": "Five kids pilot a giant robot to defeat evil space aliens and their devilish space mecha.",
   "animeImg": "https://gogocdn.net/cover/robot-king-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "robot-king-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

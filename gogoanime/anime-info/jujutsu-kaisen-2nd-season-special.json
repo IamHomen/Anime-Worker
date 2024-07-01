@@ -13,5 +13,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/jujutsu-kaisen-2nd-season-special.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jujutsu-kaisen-2nd-season-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jujutsu-kaisen-2nd-season-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

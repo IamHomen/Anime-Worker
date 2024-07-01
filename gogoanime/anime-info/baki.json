@@ -12,5 +12,10 @@
   "synopsis": "A 15-minute trailer bundled with the limited edition of 14th Baki-Dou manga volume. Despite being bundled with Baki-Dou, it will adapt part of the the \"Most Evil Death Row Convicts\" arc from Baki: New Grappler Baki. The arc features underground ring fighters in the no-rules combat environment of death row convicts.",
   "animeImg": "https://gogocdn.net/cover/baki.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "baki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

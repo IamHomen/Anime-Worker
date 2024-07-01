@@ -12,5 +12,10 @@
   "synopsis": "The official website for the Yamada-kun and the Seven Witches television anime series revealed on Sunday that the anime's first Blu-ray Disc and DVD box sets will include a Yankee-kun to Megane-chan collaborative manga and anime.",
   "animeImg": "https://gogocdn.net/cover/yankee-kun-na-yamada-kun-to-megane-chan-to-majo.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yankee-kun-na-yamada-kun-to-megane-chan-to-majo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

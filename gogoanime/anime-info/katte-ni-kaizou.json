@@ -14,5 +14,30 @@
   "synopsis": "Katsu Kaizou is a very gullible, 17-year-old high school student and a believer in science fiction, aliens, ghosts, UFOs, conspiracies, etc. He thinks that everything going on around him is the result of some sort of alien plot to take over the world. Each story is pretty much self-contained and is completely bizarre. Kaizou joins the school's science club, makes new friends, and ends up coming in contact with all sorts of strange things like log people, deadly sushi, pee-blades, scary infections, robot invasions, ghosts, living dolls, and more!",
   "animeImg": "https://gogocdn.net/cover/katte-ni-kaizou.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "katte-ni-kaizou-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "katte-ni-kaizou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "katte-ni-kaizou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "katte-ni-kaizou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "katte-ni-kaizou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "katte-ni-kaizou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

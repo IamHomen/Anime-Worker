@@ -11,5 +11,10 @@
   "synopsis": "The story of the anime revolves around Ichigo, who was just a normal middle school student until she suddenly got involved in the world of idols. The film will center on Aikatsu!'s greatest \"Super Live\" concert yet, the Dai Star Miya Ichigo Matsuri. Ichigo prepares for the concert with press conferences, last-minute lessons, and more.",
   "animeImg": "https://gogocdn.net/images/upload/unnamed.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aikatsu-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

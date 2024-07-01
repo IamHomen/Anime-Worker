@@ -13,5 +13,10 @@
   "synopsis": "Unaired OVA bundled with limited edition eighth volume of the manga.  The episode centers around the actions of Inari and Kon.",
   "animeImg": "https://gogocdn.net/images/000122.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inari-konkon-koi-iroha-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

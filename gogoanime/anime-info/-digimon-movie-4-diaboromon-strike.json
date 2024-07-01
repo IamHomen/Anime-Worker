@@ -15,5 +15,10 @@
   "synopsis": "A recap of the whole Digimon Savers TV series in one episode, with original commentary by Agumon, Gaomon, and Lalamon, included in the final volume of the DVD releases.",
   "animeImg": "https://gogocdn.net/images/anime/D/5.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "-digimon-movie-4-diaboromon-strike-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

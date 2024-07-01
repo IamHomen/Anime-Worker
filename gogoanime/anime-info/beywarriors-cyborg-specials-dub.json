@@ -11,5 +11,14 @@
   "synopsis": "The show takes place on the abandoned planet of Teslandia, where groups of teenage Beybattlers use the Beyraiderz to summon Cyborg Warriors. Now a war ensues for the Cyborg Warriors to collect tokens and restore Teslandia's beauty.",
   "animeImg": "https://gogocdn.net/cover/beywarriors-cyborg-special-dub-.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "beywarriors-cyborg-specials-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "beywarriors-cyborg-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,34 @@
   "synopsis": "Sequel of Yuuki Yuuna wa Yuusha de Aru.",
   "animeImg": "https://gogocdn.net/cover/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

@@ -12,5 +12,18 @@
   "synopsis": "Various characters from Go Nagai works including Devil Man, Mazinger, and Violence Jack, become trapped in a parody world where they all be come super deformed. They get trapped in this mishmash, fighting each other and are trying to figure a way back to their own world.",
   "animeImg": "https://gogocdn.net/cover/cb-chara-go-nagai-world.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cb-chara-go-nagai-world-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "cb-chara-go-nagai-world-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "cb-chara-go-nagai-world-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

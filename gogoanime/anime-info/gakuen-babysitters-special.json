@@ -10,5 +10,10 @@
   "synopsis": "Special episode bundled with the 7th Blu-ray volume.",
   "animeImg": "https://gogocdn.net/cover/gakuen-babysitters-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gakuen-babysitters-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

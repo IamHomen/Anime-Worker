@@ -13,5 +13,30 @@
   "synopsis": "Set after the events of Queen\u2019s Blade, Gainos and the entire Continent has fallen under a tyrannical rule led by Claudette, the Thundercloud Queen and victor of the last Queen\u2019s Blade tournament. Annelotte, a brave young knight and exiled princess, leads a band of rebels called the Rebel Army to overthrow Claudette and restore peace and order to the Continent.",
   "animeImg": "https://gogocdn.net/images/anime/Q/queens-blade-rebellion.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "queens-blade-rebellion-specials--episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "queens-blade-rebellion-specials--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "queens-blade-rebellion-specials--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "queens-blade-rebellion-specials--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "queens-blade-rebellion-specials--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "queens-blade-rebellion-specials--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

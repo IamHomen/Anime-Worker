@@ -13,5 +13,34 @@
   "synopsis": "The seven Blu-ray disc volumes of K-ON! have an extra short anime \"Ura-ON!\"",
   "animeImg": "https://gogocdn.net/images/anime/K/K-on.jpg",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "k-on-special-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "k-on-special-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "k-on-special-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "k-on-special-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "k-on-special-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "k-on-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "k-on-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

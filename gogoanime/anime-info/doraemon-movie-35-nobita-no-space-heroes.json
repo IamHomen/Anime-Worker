@@ -13,5 +13,10 @@
   "synopsis": "Doraemon 35th movie.",
   "animeImg": "https://gogocdn.net/cover/doraemon-movie-35-nobita-no-space-heroes.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doraemon-movie-35-nobita-no-space-heroes-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

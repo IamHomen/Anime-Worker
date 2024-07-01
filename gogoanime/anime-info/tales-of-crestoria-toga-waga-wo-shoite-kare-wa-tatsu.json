@@ -12,5 +12,10 @@
   "synopsis": "Short animated TV special depicting the prologue of the main story of TALES OF CRESTORIA, showing Kanata and Misella setting off on their journey.",
   "animeImg": "https://gogocdn.net/cover/tales-of-crestoria-toga-waga-wo-shoite-kare-wa-tatsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tales-of-crestoria-toga-waga-wo-shoite-kare-wa-tatsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

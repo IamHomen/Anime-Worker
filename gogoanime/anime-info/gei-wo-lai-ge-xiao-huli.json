@@ -12,5 +12,26 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/gei-wo-lai-ge-xiao-huli.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gei-wo-lai-ge-xiao-huli-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gei-wo-lai-ge-xiao-huli-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gei-wo-lai-ge-xiao-huli-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gei-wo-lai-ge-xiao-huli-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gei-wo-lai-ge-xiao-huli-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

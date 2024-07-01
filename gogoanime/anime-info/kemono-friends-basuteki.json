@@ -11,5 +11,14 @@
   "synopsis": "Episode 12.1 of Kemono Friends, streamed online.",
   "animeImg": "https://gogocdn.net/cover/kemono-friends-basuteki.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kemono-friends-basuteki-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kemono-friends-basuteki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

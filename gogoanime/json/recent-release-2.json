@@ -1,5 +1,19 @@
 [
   {
+    "id": "konjiki-no-gash-bell-dub",
+    "epId": "konjiki-no-gash-bell-dub-episode-104",
+    "title": "Konjiki no Gash Bell!! (Dub)",
+    "img": "https://gogocdn.net/cover/konjiki-no-gash-bell-dub.png",
+    "episode": "Episode 104"
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen-dub",
+    "epId": "yozakura-san-chi-no-daisakusen-dub-episode-3",
+    "title": "Yozakura-san Chi no Daisakusen (Dub)",
+    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-dub.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen-dub",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-dub-episode-1",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen (Dub)",
@@ -243,13 +257,6 @@
     "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life (Dub)",
     "img": "https://gogocdn.net/cover/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-dub.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "yozakura-san-chi-no-daisakusen-dub",
-    "epId": "yozakura-san-chi-no-daisakusen-dub-episode-2",
-    "title": "Yozakura-san Chi no Daisakusen (Dub)",
-    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "ishura-dub",
@@ -2791,12 +2798,5 @@
     "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen (Dub)",
     "img": "https://gogocdn.net/cover/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "comic-party-revolution-dub",
-    "epId": "comic-party-revolution-dub-episode-13",
-    "title": "Comic Party Revolution (Dub)",
-    "img": "https://gogocdn.net/cover/comic-party-revolution-dub.png",
-    "episode": "Episode 13"
   }
 ]

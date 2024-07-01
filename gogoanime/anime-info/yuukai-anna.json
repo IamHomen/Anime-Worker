@@ -13,5 +13,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/yuukai-anna.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuukai-anna-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

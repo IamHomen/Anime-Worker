@@ -13,5 +13,18 @@
   "synopsis": "Rally Vincent knows her weapons well, while her partner Minne May Hopkins loves to play with explosives. The pair run a gun-shop illegally and one day Bill Collins of the ATF, blackmails Rally and Minnie May into working for the ATF. Little do they know, that they are getting involved in a mission larger than they could imagine.",
   "animeImg": "https://gogocdn.net/images/anime/G/gunsmith-cats1.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gunsmith-cats-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gunsmith-cats-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gunsmith-cats-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

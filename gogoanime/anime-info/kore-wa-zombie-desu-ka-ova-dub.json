@@ -15,5 +15,10 @@
   "synopsis": "OVA released with the 8th and 10th volumes of the original novel. They fall chronologically between the first and second seasons.",
   "animeImg": "https://gogocdn.net/cover/kore-wa-zombie-desu-ka-ova-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kore-wa-zombie-desu-ka-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

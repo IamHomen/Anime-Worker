@@ -12,5 +12,14 @@
   "synopsis": "The limited edition of the 26th manga volume included an anime adaptation of the popular special flashback chapter\u00a0Uchi ga Kita Machi. (The original chapter was published in the manga's ninth volume.) The story reveals how Haruto, Akari, and Takashi first met during childhood, and serves as a prologue to the television anime.The 27th limited-edition manga volume included a special anime episode produced in full cooperation with\u00a0Seo Kouji.",
   "animeImg": "https://gogocdn.net/images/anime/K/kimi-no-iru-machi-2014.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimi-no-iru-machi-ova-2014-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kimi-no-iru-machi-ova-2014-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

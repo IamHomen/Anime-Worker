@@ -14,5 +14,30 @@
   "synopsis": "Yohko Mono is a regular girl making her way through high school--until she learns that she is the 108th successor to a line of warriors charged with defending the earth against demons. Eventually she must fight her ultimate battle against the demon who started it all.",
   "animeImg": "https://gogocdn.net/cover/devil-hunter-yohko-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "devil-hunter-yohko-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "devil-hunter-yohko-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "devil-hunter-yohko-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "devil-hunter-yohko-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "devil-hunter-yohko-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "devil-hunter-yohko-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

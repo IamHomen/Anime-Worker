@@ -11,5 +11,22 @@
   "synopsis": "DVD only specials.",
   "animeImg": "https://gogocdn.net/cover/hit-wo-nerae-specials.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hit-wo-nerae-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hit-wo-nerae-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hit-wo-nerae-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hit-wo-nerae-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

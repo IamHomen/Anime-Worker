@@ -14,5 +14,10 @@
   "synopsis": "An OVA bundled with the non-adult version of the OreTsuba PC game. The OVA has more fan service than the TV series (what they call, \"nakedness plus 90%\").",
   "animeImg": "https://gogocdn.net/cover/oretachi-ni-tsubasa-wa-nai-hadairo-ritsu-kyuuwari-zou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "oretachi-ni-tsubasa-wa-nai-hadairo-ritsu-kyuuwari-zou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

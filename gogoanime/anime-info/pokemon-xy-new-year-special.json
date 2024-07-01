@@ -14,5 +14,10 @@
   "synopsis": "Recap episode.",
   "animeImg": "https://gogocdn.net/images/Pokemon-XY-New-Year-Special.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-xy-new-year-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

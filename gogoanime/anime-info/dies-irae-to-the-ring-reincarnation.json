@@ -12,5 +12,30 @@
   "synopsis": "Episodes 12\u201317 of Dies Irae released exclusively on the web.",
   "animeImg": "https://gogocdn.net/cover/dies-irae-to-the-ring-reincarnation.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dies-irae-to-the-ring-reincarnation-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "dies-irae-to-the-ring-reincarnation-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "dies-irae-to-the-ring-reincarnation-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "dies-irae-to-the-ring-reincarnation-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "dies-irae-to-the-ring-reincarnation-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dies-irae-to-the-ring-reincarnation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

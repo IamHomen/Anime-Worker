@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/monster-strike-the-movie-lucifer-zetsubou-no-yoake.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "monster-strike-the-movie-lucifer-zetsubou-no-yoake-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

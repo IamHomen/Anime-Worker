@@ -13,5 +13,18 @@
   "synopsis": "Short specials included with the Blu-ray/DVD releases of the TV series.",
   "animeImg": "https://gogocdn.net/cover/fatekaleid-liner-prismaillya-2wei-specials-dub.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-2wei-specials-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-2wei-specials-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-2wei-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

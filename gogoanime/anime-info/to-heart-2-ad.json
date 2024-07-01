@@ -12,5 +12,14 @@
   "synopsis": "Based on the Visual Novel ToHeart 2 AD (Another Days), the sequel to ToHeart 2.",
   "animeImg": "https://gogocdn.net/cover/to-heart-2-ad.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "to-heart-2-ad-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "to-heart-2-ad-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

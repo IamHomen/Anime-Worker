@@ -12,5 +12,26 @@
   "synopsis": "Straw Hat Theater is made up of five shorts that aired alongside One Piece episodes 279 through 283 in October 2006. They are based on Oda Eiichiro's side comics that were drawn when he was given three sheets of blank paper by his editor and told to draw anything.\r\n\r\nThe first short is about Chopper Man infiltrating the lair of the evil Dr. Usodabada. The second short is a news report on what food was like for the Straw Hats before Sanji joined the crew. The third short investigates the hypothetical situation of \"if the Straw Hat Pirates were Obahan, who would be the strongest?\" The fourth short is about the bosses of the Luffione, Zorocia, and Sanjino families fighting for control. In the fifth short, all of the Straw Hats are carefree monsters.",
   "animeImg": "https://gogocdn.net/cover/one-piece-straw-hat-theater.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-straw-hat-theater-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "one-piece-straw-hat-theater-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "one-piece-straw-hat-theater-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "one-piece-straw-hat-theater-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "one-piece-straw-hat-theater-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

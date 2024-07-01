@@ -11,5 +11,14 @@
   "synopsis": "Comedy episodes focusing on the strange daily life of characters from Nanocore.",
   "animeImg": "https://gogocdn.net/cover/nanocore-ng-scenes-nanos-daily-life.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nanocore-ng-scenes-nanos-daily-life-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nanocore-ng-scenes-nanos-daily-life-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "A re-editing of the 11 television episodes of popular anime\u00a0Higashi no Eden\u00a0into a feature-length film.",
   "animeImg": "https://gogocdn.net/images/anime/H/Higashi-no-Eden-Air-Communication.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "higashi-no-eden-air-communication-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

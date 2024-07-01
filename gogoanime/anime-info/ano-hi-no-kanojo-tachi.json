@@ -10,5 +10,38 @@
   "synopsis": "Web shorts focusing on each of the 22/7 idols in normal everyday life.",
   "animeImg": "https://gogocdn.net/cover/ano-hi-no-kanojo-tachi.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ano-hi-no-kanojo-tachi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

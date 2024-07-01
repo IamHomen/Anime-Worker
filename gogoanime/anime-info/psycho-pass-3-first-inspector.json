@@ -13,5 +13,18 @@
   "synopsis": "The film will conclude the story of season 3 on the case of the \"Foxes\" being pursued by Unit 1, the Bifrost mystery, and Arata and Kei's battle.",
   "animeImg": "https://gogocdn.net/cover/psycho-pass-3-first-inspector.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "psycho-pass-3-first-inspector-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "psycho-pass-3-first-inspector-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "psycho-pass-3-first-inspector-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

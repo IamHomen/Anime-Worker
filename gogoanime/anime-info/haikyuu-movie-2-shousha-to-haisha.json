@@ -14,5 +14,10 @@
   "synopsis": "Second Haikyuu!! recap movie.",
   "animeImg": "https://gogocdn.net/cover/haikyuu-movie-2-shousha-to-haisha.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haikyuu-movie-2-shousha-to-haisha-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

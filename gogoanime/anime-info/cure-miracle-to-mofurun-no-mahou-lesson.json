@@ -15,5 +15,10 @@
   "synopsis": "Short screened alongside the Mahoutsukai Precure! Movie.",
   "animeImg": "https://gogocdn.net/cover/cure-miracle-to-mofurun-no-mahou-lesson.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cure-miracle-to-mofurun-no-mahou-lesson-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

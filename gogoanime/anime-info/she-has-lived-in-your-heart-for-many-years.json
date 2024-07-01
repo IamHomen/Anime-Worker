@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/she-has-lived-in-your-heart-for-many-years.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "she-has-lived-in-your-heart-for-many-years-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

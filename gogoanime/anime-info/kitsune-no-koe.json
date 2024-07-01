@@ -10,5 +10,54 @@
   "synopsis": "The series follows 16-year-old Hu Li, who dreams of becoming a popular singer. However, he has neither good looks nor the financial means to pursue his dream, so Hu uploads his singing online using a fox avatar.",
   "animeImg": "https://gogocdn.net/cover/kitsune-no-koe.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kitsune-no-koe-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kitsune-no-koe-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

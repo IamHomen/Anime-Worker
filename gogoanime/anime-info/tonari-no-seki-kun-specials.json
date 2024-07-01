@@ -12,5 +12,14 @@
   "synopsis": "Two unaired episodes included in the DVD Set release of Tonari no Seki-kun series. #1. Field Trip (Rinkan Gakkou) (first volume) #2. Snow Playing (Yuki Asobi) (second volume)",
   "animeImg": "https://gogocdn.net/images/Tonari no Seki-kun Specials.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tonari-no-seki-kun-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tonari-no-seki-kun-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

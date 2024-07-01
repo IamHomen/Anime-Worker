@@ -15,5 +15,18 @@
   "synopsis": "A three-volume OVA of Code:Breaker. Each volume will be bundled with volumes 22-24 of the manga, respectively.",
   "animeImg": "https://gogocdn.net/images/anime/C/code_breaker.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "codebreaker-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "codebreaker-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "codebreaker-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,30 @@
   "synopsis": "Specials of Maria-sama ga Miteru: Haru released on the DVDs only.",
   "animeImg": "https://gogocdn.net/cover/maria-sama-ga-miteru-haru-specials.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "maria-sama-ga-miteru-haru-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "maria-sama-ga-miteru-haru-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "maria-sama-ga-miteru-haru-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "maria-sama-ga-miteru-haru-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "maria-sama-ga-miteru-haru-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "maria-sama-ga-miteru-haru-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

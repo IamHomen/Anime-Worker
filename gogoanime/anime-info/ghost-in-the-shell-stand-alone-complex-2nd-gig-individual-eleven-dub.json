@@ -12,5 +12,10 @@
   "synopsis": "Compilation movie of the \"Individual Eleven\" story from Ghost in the Shell: SAC 2nd Gig series.",
   "animeImg": "https://gogocdn.net/cover/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

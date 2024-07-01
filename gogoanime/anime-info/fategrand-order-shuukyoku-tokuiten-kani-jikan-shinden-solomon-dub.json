@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

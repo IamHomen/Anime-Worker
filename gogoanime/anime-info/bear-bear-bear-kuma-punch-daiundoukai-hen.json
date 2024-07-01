@@ -13,5 +13,18 @@
   "synopsis": "Special episodes included on volumes 1-3 of the BD/DVD.",
   "animeImg": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch-daiundoukai-hen.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bear-bear-bear-kuma-punch-daiundoukai-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-punch-daiundoukai-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-punch-daiundoukai-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

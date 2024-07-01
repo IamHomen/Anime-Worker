@@ -10,5 +10,34 @@
   "synopsis": "Special omake episodes from the Blu-Ray releases, showing the heroines and foes in funny, uncommon situations.",
   "animeImg": "https://gogocdn.net/cover/black-lagoon-omake.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "black-lagoon-omake-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "black-lagoon-omake-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "black-lagoon-omake-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "black-lagoon-omake-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "black-lagoon-omake-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "black-lagoon-omake-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "black-lagoon-omake-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

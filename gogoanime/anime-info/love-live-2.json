@@ -12,5 +12,58 @@
   "synopsis": "The 2nd Season of the Love Live! School Idol Project TV anime.",
   "animeImg": "https://gogocdn.net/images/spring/Love Live 2.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "love-live-2-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "love-live-2-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "love-live-2-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "love-live-2-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "love-live-2-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "love-live-2-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "love-live-2-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "love-live-2-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "love-live-2-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "love-live-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "love-live-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "love-live-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "love-live-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

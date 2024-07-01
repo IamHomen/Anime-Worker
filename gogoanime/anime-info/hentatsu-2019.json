@@ -10,5 +10,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/hentatsu-2019.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hentatsu-2019-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hentatsu-2019-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

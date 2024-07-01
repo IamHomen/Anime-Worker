@@ -11,5 +11,30 @@
   "synopsis": "A short series depicting side stories about the brothers' daily life, released on dTV streaming service.\r\n\r\nIt received an advance screening together with the movie on March 7 in Tokyo.",
   "animeImg": "https://gogocdn.net/cover/osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "osomatsu-san-movie-gekijou-koukai-kinen-original-tanpen-gekijou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

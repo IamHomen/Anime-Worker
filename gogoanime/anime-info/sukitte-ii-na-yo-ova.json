@@ -12,5 +12,10 @@
   "synopsis": "Was bundled with the limited edition of the 11th manga volume.",
   "animeImg": "https://gogocdn.net/images/anime/S/Sukitte-Iinayo-OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sukitte-ii-na-yo-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

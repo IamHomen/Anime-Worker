@@ -12,5 +12,54 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/planet-with.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "planet-with-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "planet-with-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "planet-with-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "planet-with-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "planet-with-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "planet-with-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "planet-with-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "planet-with-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "planet-with-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "planet-with-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "planet-with-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "planet-with-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

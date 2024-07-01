@@ -12,5 +12,10 @@
   "synopsis": "The second movie in a trilogy.",
   "animeImg": "https://gogocdn.net/images/upload/72246.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "new-initial-d-movie-legend-2---tousou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

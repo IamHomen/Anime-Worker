@@ -11,5 +11,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/shin-shounan-bakusouzoku-arakure-knight.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shin-shounan-bakusouzoku-arakure-knight-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shin-shounan-bakusouzoku-arakure-knight-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

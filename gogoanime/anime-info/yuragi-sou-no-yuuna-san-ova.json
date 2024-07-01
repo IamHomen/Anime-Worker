@@ -15,5 +15,22 @@
   "synopsis": "Bundled with the 11th and 12th volumes of the Yuragi-sou no Yuuna-san manga. It will adapt the manga's 12th chapter.",
   "animeImg": "https://gogocdn.net/cover/yuragi-sou-no-yuuna-san-ova.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuragi-sou-no-yuuna-san-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yuragi-sou-no-yuuna-san-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yuragi-sou-no-yuuna-san-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yuragi-sou-no-yuuna-san-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

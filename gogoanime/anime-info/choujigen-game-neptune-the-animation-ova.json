@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode 13 of Choujigen Game Neptune: The Animation, included in the 7th BD/DVD volume.",
   "animeImg": "https://gogocdn.net/cover/choujigen-game-neptune-the-animation-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "choujigen-game-neptune-the-animation-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "The second film compiling the Gundam: G no Reconguista TV series.",
   "animeImg": "https://gogocdn.net/cover/gundam-g-no-reconguista-movie-ii-bellri-gekishin.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-g-no-reconguista-movie-ii-bellri-gekishin-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

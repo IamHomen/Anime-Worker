@@ -11,5 +11,18 @@
   "synopsis": "Commercials by Dunlop Tyres Japan for their Winter Maxx tire line.\r\n\r\nEpisode 1 (Kimi e to Tsuzuku Michi) (The Road That Goes on to You): The anime short's story is set in a certain snowy land and centers on the intermingling feelings of three groups of men and women: a couple, a parent and child, and coworkers.\r\n\r\nEpisode 2 (Hoshifuru Oka no Yakusoku) (Promise of the Starry Hill): College student Yui was suddenly invited by her mother to visit an observatory on her 20th birthday. Yui has to travel along snow-covered roads to reach the observatory. The visit makes Yui remember going to the same observatory with her late father on every birthday when she was a small child.\r\n\r\nEpisode 3 (Kioku ni Mau Konayuki) (The Snow that Dances in Memories): Tells a tragic teen love story about two childhood friends who fall in love only to part ways when the girl decides to study abroad in France.",
   "animeImg": "https://gogocdn.net/cover/road-to-you.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "road-to-you-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "road-to-you-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "road-to-you-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "A new story about Nozomi Kasaki and Mizore Yoroizuka.",
   "animeImg": "https://gogocdn.net/cover/liz-to-aoi-tori.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "liz-to-aoi-tori-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

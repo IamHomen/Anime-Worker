@@ -14,5 +14,38 @@
   "synopsis": "Bundled with the 12th limited-edition manga volume. The anime will be about an old journal found by Levi and Erwin when they conduct the surveillance operation outside the wall. The contents of \"Ilse's Journal\" result in some unexpected actions from Hange.\r\nLost Girls OVA episode 6 - 8.",
   "animeImg": "https://gogocdn.net/images/Shingeki no Kyojin Ilse no Techou.jpg",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

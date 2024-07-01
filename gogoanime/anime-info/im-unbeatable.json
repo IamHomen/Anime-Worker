@@ -13,5 +13,22 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/im-unbeatable.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "im-unbeatable-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "im-unbeatable-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "im-unbeatable-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "im-unbeatable-episode-1-3-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

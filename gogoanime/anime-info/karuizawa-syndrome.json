@@ -13,5 +13,10 @@
   "synopsis": "It is an action comedy about a young man's persistent sexual fantasies. It has 4 distinct art styles: a manga style, a SD style, a realistic style, and a art-graphic pencil style.",
   "animeImg": "https://gogocdn.net/cover/karuizawa-syndrome.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "karuizawa-syndrome-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

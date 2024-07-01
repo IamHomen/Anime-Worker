@@ -17,5 +17,10 @@
   "synopsis": "Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc.",
   "animeImg": "https://gogocdn.net/cover/sora-no-otoshimono-tokeijikake-no-angeloid-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sora-no-otoshimono-tokeijikake-no-angeloid-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

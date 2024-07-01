@@ -10,5 +10,42 @@
   "synopsis": "Piko-tarou will improvise the story of each three-minute episode using an illustration by the anime's director Takashi Taniguchi. He will tell each story in the style of a fairy tale and voice every character, including himself.",
   "animeImg": "https://gogocdn.net/cover/pikotarou-no-lullaby-lullaby.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

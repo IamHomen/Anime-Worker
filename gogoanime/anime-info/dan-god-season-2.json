@@ -12,5 +12,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/dan-god-season-2-1675397986.png",
   "totalEpisodes": "24",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dan-god-season-2-episode-24",
+      "episodeNum": "Episode 24"
+    },
+    {
+      "episodeId": "dan-god-season-2-episode-1-23-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

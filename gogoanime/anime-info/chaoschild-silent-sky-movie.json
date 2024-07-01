@@ -13,5 +13,10 @@
   "synopsis": "Ch\u00e4oS;Child the movie",
   "animeImg": "https://gogocdn.net/cover/chaoschild-silent-sky-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chaoschild-silent-sky-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

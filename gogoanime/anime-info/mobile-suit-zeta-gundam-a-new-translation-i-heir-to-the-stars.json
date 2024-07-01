@@ -13,5 +13,10 @@
   "synopsis": "Digitally remastered compilation movies for the Zeta Gundam TV series with some new footage. Part of Gundam's 25th Anniversary celebration.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-zeta-gundam-a-new-translation-i-heir-to-the-stars.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-zeta-gundam-a-new-translation-i-heir-to-the-stars-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,22 @@
   "synopsis": "The new OVA title marks the 10th anniversary of the\u00a0anime.",
   "animeImg": "https://gogocdn.net/images/anime/P/The-Prince-of-Tennis-OVA-2.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "prince-of-tennis-another-story-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "prince-of-tennis-another-story-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "prince-of-tennis-another-story-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "prince-of-tennis-another-story-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

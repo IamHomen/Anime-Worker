@@ -12,5 +12,10 @@
   "synopsis": "Bundled with 5bp's Yahari Game Demo Ore no Seishun Love Comedy wa Machigatteiru. Zoku game for the PlayStation Vita. It adapts a story focusing on Iroha Isshiki from volume 10.5 of the original light novel.",
   "animeImg": "https://gogocdn.net/cover/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,38 @@
   "synopsis": "Tie-in anime linked to the \"Idol Land PriPara\" smartphone game.",
   "animeImg": "https://gogocdn.net/cover/idol-land-pripara.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "idol-land-pripara-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "idol-land-pripara-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "idol-land-pripara-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "idol-land-pripara-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "idol-land-pripara-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "idol-land-pripara-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "idol-land-pripara-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "idol-land-pripara",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

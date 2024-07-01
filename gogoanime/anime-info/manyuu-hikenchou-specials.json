@@ -12,5 +12,38 @@
   "synopsis": "Short extra anime from the DVDs and Blu-rays.",
   "animeImg": "https://gogocdn.net/cover/manyuu-hikenchou-specials.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "manyuu-hikenchou-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

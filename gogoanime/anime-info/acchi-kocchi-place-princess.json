@@ -10,5 +10,10 @@
   "synopsis": "Bonus Episode 13 of Acchi Kocchi that was included on BRD/DVD volume 6.",
   "animeImg": "https://gogocdn.net/images/upload/Acchi Kocchi - Place=Princess.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "acchi-kocchi-place-princess-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

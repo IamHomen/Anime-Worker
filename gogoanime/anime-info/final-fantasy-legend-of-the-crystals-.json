@@ -13,5 +13,22 @@
   "synopsis": "A continuation of the events from Final Fantasy V. 200 years after Batz and his friends saved two worlds from the threat of ExDeath, a threat arises and seeks to take the Crystals for itself. Linaly, a descendant of Batz, and her friend/protector Pretz journey to the Temple Of Wind to seek the source of this new danger.",
   "animeImg": "https://gogocdn.net/images/anime/F/final-fantasy-legend-of-the-crystals.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "final-fantasy-legend-of-the-crystals--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "final-fantasy-legend-of-the-crystals--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "final-fantasy-legend-of-the-crystals--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "final-fantasy-legend-of-the-crystals--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

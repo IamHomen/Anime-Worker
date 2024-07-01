@@ -11,5 +11,14 @@
   "synopsis": "A summary of the Princess Sara TV series aired as TV Specials in 2001.",
   "animeImg": "https://gogocdn.net/cover/princess-sara-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "princess-sara-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "princess-sara-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

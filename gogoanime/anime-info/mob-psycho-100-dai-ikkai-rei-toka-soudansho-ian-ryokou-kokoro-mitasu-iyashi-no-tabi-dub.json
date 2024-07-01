@@ -13,5 +13,10 @@
   "synopsis": "OVA with original content.",
   "animeImg": "https://gogocdn.net/cover/mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

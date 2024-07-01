@@ -11,5 +11,10 @@
   "synopsis": "Ultra-Nyan's adventures continue. This time, he is tasked with finding the cause of the crows' sudden declaration of war upon the cats.",
   "animeImg": "https://gogocdn.net/cover/ultra-nyan-2-the-great-happy-operation.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ultra-nyan-2-the-great-happy-operation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

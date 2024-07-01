@@ -12,5 +12,22 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/uchuu-neko-mardock-no-bouken-1703075811.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-neko-mardock-no-bouken-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "uchuu-neko-mardock-no-bouken-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "uchuu-neko-mardock-no-bouken-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "uchuu-neko-mardock-no-bouken-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,30 @@
   "synopsis": "Donning a special mask, a young man defends the planet.",
   "animeImg": "https://gogocdn.net/cover/yuusei-kamen.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuusei-kamen-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "yuusei-kamen-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "yuusei-kamen-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "yuusei-kamen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yuusei-kamen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yuusei-kamen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

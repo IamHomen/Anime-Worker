@@ -13,5 +13,10 @@
   "synopsis": "Second part of the Nine TV movies.",
   "animeImg": "https://gogocdn.net/cover/nine-2-koibito-sengen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nine-2-koibito-sengen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

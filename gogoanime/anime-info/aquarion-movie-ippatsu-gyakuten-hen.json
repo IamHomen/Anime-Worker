@@ -12,5 +12,10 @@
   "synopsis": "This movie is an alternative version of the TV series; it is composed of the two 2007 OVAs, edited to improve the pacing of the plot, and an extra segment akin to a TV episode where the cast are given the task of studying flowers.\r\n\r\nThe plot has several differences to the TV series.",
   "animeImg": "https://gogocdn.net/cover/aquarion-movie-ippatsu-gyakuten-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aquarion-movie-ippatsu-gyakuten-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "The episode is set during a school festival where Shinobu is assigned to write a script and make outfits for her class play. Youko and Alice notice that Shinobu is sleepy every morning and are worried that she might be getting tired of all the work. Will Shinobu be able to successfully complete all her tasks in time?",
   "animeImg": "https://gogocdn.net/cover/kiniro-mosaic-pretty-days.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kiniro-mosaic-pretty-days-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

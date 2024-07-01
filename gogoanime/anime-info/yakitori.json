@@ -13,5 +13,30 @@
   "synopsis": "Set in a future where the solar system is dominated by trade federations who are in constant conflict. In order to escape his restrictive homeland of Japan, and under the recommendation of his military cook friend Pupkin, Akira enlists in a trade federation orbital drop infantry unit. Such infantry are notorious for their 70% casualty rate, and are nicknamed \"Yakitori\" for their expendability.",
   "animeImg": "https://gogocdn.net/cover/yakitori.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yakitori-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yakitori-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yakitori-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yakitori-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yakitori-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yakitori-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

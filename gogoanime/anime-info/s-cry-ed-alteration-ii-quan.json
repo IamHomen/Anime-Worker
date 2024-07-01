@@ -14,5 +14,10 @@
   "synopsis": "Second part of the s.CRY.ed recap.",
   "animeImg": "https://gogocdn.net/cover/s-cry-ed-alteration-ii-quan.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "s-cry-ed-alteration-ii-quan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode of Danchigai included on the Blu-ray/DVD volume.",
   "animeImg": "https://gogocdn.net/images/upload/Danchigai Special.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "danchigai-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

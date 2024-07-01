@@ -11,5 +11,54 @@
   "synopsis": "The second season of Shouwa Genroku Rakugo Shinjuu.",
   "animeImg": "https://gogocdn.net/cover/shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabi-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

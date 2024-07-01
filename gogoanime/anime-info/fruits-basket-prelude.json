@@ -12,5 +12,10 @@
   "synopsis": "The film will serve as an omnibus to the three-season anime series, including the Kyouko to Katsuya no Monogatari (The Story of Kyouko and Katsuya) prequel, as well as new scenes written by the original creator Natsuki Takaya taking place after the television anim",
   "animeImg": "https://gogocdn.net/cover/fruits-basket-prelude.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fruits-basket-prelude-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

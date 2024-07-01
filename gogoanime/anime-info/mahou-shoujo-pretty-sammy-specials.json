@@ -15,5 +15,46 @@
   "synopsis": "Special episodes.",
   "animeImg": "https://gogocdn.net/cover/mahou-shoujo-pretty-sammy-specials.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mahou-shoujo-pretty-sammy-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

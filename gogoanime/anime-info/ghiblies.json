@@ -10,5 +10,14 @@
   "synopsis": "Two Ghibli created shorts about the happenings in a fictional animation studio, presumably based to some extent on their own.",
   "animeImg": "https://gogocdn.net/cover/ghiblies.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ghiblies-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ghiblies-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

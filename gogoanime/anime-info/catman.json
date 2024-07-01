@@ -12,5 +12,34 @@
   "synopsis": "In a city filled with anthropomorphic cat-people, Catman lives free of rules and boundaries, doing everything he wants, which often collides with the other inhabitants of the city. Catman dares to be bold: it\u2019s made in Flash, which is rarely seen nowadays; there are no spoken dialogue but instead is subbed in Japanese and English and has a original soundtrack made in purpose for the series.",
   "animeImg": "https://gogocdn.net/cover/catman.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "catman-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "catman-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "catman-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "catman-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "catman-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "catman-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "catman-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

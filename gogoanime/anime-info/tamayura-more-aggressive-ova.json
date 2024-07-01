@@ -11,5 +11,10 @@
   "synopsis": "OVA (episode 8.5) of Tamayura: More Aggressive.",
   "animeImg": "https://gogocdn.net/images/Tamayura-More-Aggressive-OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamayura-more-aggressive-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

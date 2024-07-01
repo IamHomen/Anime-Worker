@@ -12,5 +12,10 @@
   "synopsis": "Initial D Battle Stage (special) will summarize all street races from the two TV series and movie and add one new race in the middle of it.\nRather than simply using clips from the TV series, the new special will entirely re-animate all of the original CG car and background footage with new state-of-the-art computer graphics rendering. The special will also feature entirely new Super Eurobeat music and guest commentary from legendary \"drift racer\"\u00a0Tsuchiya Keiichi.",
   "animeImg": "https://gogocdn.net/images/anime/I/Initial-D-Battle-Stage.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "initial-d-battle-stage-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,18 @@
   "synopsis": "Three unbroadcasted episodes of the Macross 7 series. In \"Fleet of the Strongest Women,\" the Macross 7 fleet encounters a rogue Meltrandi fleet led by an old rival of Millia. \"On Stage\" focuses on Ray's past as a fighter pilot, how he first met Basara, and how they formed Fire Bomber. In \"Which One Do You Love,\" when Millia falls ill, she feels her life expectancy is running short and attempts to have Mylene engaged to Basara.",
   "animeImg": "https://gogocdn.net/images/Macross-7-Encore.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "macross-7-encore-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "macross-7-encore-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "macross-7-encore-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

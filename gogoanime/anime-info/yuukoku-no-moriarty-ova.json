@@ -14,5 +14,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/yuukoku-no-moriarty-ova.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuukoku-no-moriarty-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yuukoku-no-moriarty-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

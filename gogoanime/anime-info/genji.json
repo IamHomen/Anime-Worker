@@ -12,5 +12,14 @@
   "synopsis": "Time-traveling lovers Katsumi and Sakura find themselves in the midst of Japan's medieval civil war between the Heike and Genji clans.",
   "animeImg": "https://gogocdn.net/cover/genji.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "genji-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "genji-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

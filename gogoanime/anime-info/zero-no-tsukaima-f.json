@@ -14,5 +14,54 @@
   "synopsis": "According to Media Factory, the fourth season of Zero no Tsukaima was announced. It will be the final of the TV series",
   "animeImg": "https://gogocdn.net/images/anime/zero-no-tsukaima-f.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "zero-no-tsukaima-f-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

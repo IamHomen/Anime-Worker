@@ -13,5 +13,22 @@
   "synopsis": "Short specials included in the BD release.",
   "animeImg": "https://gogocdn.net/images/Teekyuu-2-Specials.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "teekyuu-2-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "teekyuu-2-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "teekyuu-2-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "teekyuu-2-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

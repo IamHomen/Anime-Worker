@@ -12,5 +12,54 @@
   "synopsis": "This original story revolves around cute dolls who fight and power up with special cards.",
   "animeImg": "https://gogocdn.net/images/anime/Fantasista-Doll.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fantasista-doll-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fantasista-doll-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

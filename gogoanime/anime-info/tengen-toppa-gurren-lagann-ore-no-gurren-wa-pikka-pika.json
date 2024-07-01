@@ -14,5 +14,10 @@
   "synopsis": "A special episode bundled with the Nintendo DS game based on the series. Envious of seeing how Simon keeps his Lagann clean and neat, Kamina asks the mysterious Chitori to clean up his Gurren for him, unaware of her true intentions.",
   "animeImg": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

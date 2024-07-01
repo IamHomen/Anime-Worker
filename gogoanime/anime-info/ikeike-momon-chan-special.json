@@ -10,5 +10,18 @@
   "synopsis": "Ikeike! Momon-chan is a series of shorts created to promote the Omote Sando upscale shopping centre in Tokyo.Each episode typically focuses on the comedic interactions between Momon-chan, the peach girl and Tanu, the tanuki, as they discuss everything from horoscopes, to Christmas, to tools that reference Doraemon, to traditional Japanese New Year's games, and much much more.",
   "animeImg": "https://gogocdn.net/images/anime/I/Ikeike-Momon-chan.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ikeike-momon-chan-special-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ikeike-momon-chan-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ikeike-momon-chan-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

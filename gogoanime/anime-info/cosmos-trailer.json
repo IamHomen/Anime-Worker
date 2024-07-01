@@ -11,5 +11,10 @@
   "synopsis": "Animated trailer for Chronicle's song Cosmos.",
   "animeImg": "https://gogocdn.net/cover/cosmos-trailer.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cosmos-trailer-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

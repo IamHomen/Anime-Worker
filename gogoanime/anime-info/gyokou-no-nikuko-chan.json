@@ -10,5 +10,10 @@
   "synopsis": "The story centers on the growth and paths in life of Nikuko and Kikuko, a mother and daughter who lives on a boat.",
   "animeImg": "https://gogocdn.net/cover/gyokou-no-nikuko-chan.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gyokou-no-nikuko-chan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

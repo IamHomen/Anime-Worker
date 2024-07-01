@@ -11,5 +11,10 @@
   "synopsis": "Special Picture Drama episode included on the Anohana Fes. Memorial DVD/Blu-ray Box",
   "animeImg": "https://gogocdn.net/cover/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

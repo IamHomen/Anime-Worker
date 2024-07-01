@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/my-lovely-wife.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "my-lovely-wife-episode-1-20-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

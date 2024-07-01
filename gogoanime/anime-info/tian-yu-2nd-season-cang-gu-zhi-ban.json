@@ -14,5 +14,22 @@
   "synopsis": "Second season of Tian Yu.",
   "animeImg": "https://gogocdn.net/cover/tian-yu-2nd-season-cang-gu-zhi-ban.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tian-yu-2nd-season-cang-gu-zhi-ban-episode-10-13",
+      "episodeNum": "Episode 10.13"
+    },
+    {
+      "episodeId": "tian-yu-2nd-season-cang-gu-zhi-ban-episode-7-9",
+      "episodeNum": "Episode 7.9"
+    },
+    {
+      "episodeId": "tian-yu-2nd-season-cang-gu-zhi-ban-episode-4-6",
+      "episodeNum": "Episode 4.6"
+    },
+    {
+      "episodeId": "tian-yu-2nd-season-cang-gu-zhi-ban-episode-1-3",
+      "episodeNum": "Episode 1.3"
+    }
+  ]
 }

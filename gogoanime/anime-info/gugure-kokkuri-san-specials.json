@@ -13,5 +13,50 @@
   "synopsis": "Short episodes included with the Blu-ray/DVD volumes.",
   "animeImg": "https://gogocdn.net/cover/gugure-kokkuri-san-specials.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gugure-kokkuri-san-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "The struggles of an artist attempting to balance self-expression and the need for recognition.",
   "animeImg": "https://gogocdn.net/cover/mudai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mudai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

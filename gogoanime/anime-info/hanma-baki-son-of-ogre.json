@@ -12,5 +12,54 @@
   "synopsis": "Third part of the Baki series.",
   "animeImg": "https://gogocdn.net/cover/hanma-baki-son-of-ogre.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hanma-baki-son-of-ogre-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

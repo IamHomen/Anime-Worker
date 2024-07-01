@@ -11,5 +11,10 @@
   "synopsis": "Legends speak of a Dark Tower with a race of dragons that awaits the command to arise and wreak havoc. At least Kyle used to believe they were only legends until his lady, Alita, is stolen by the Black Dragon!\r\n\r\nNow Kyle must form an alliance with Blau, a blue dragon, in order to rescue her before she becomes the catalyst for the Dark Tower's final program: the complete destruction of the world!",
   "animeImg": "https://gogocdn.net/cover/panzer-dragoon-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "panzer-dragoon-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

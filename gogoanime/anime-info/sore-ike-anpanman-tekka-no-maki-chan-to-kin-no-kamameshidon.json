@@ -11,5 +11,10 @@
   "synopsis": "14th Anpanman short movie.",
   "animeImg": "https://gogocdn.net/cover/sore-ike-anpanman-tekka-no-maki-chan-to-kin-no-kamameshidon.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-ike-anpanman-tekka-no-maki-chan-to-kin-no-kamameshidon-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

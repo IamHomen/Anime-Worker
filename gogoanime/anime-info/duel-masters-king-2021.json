@@ -13,5 +13,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis",
   "animeImg": "https://gogocdn.net/cover/duel-masters-king-2021.png",
   "totalEpisodes": "24",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "duel-masters-king-2021-episode-24",
+      "episodeNum": "Episode 24"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode included with the special edition BD release.",
   "animeImg": "https://gogocdn.net/cover/minami-kamakura-koukou-joshi-jitensha-bu-kita-yo-taiwan.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "minami-kamakura-koukou-joshi-jitensha-bu-kita-yo-taiwan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

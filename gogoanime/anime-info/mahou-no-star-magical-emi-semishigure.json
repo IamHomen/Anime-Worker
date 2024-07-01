@@ -12,5 +12,10 @@
   "synopsis": "An OVA that both summarizes and continues the Mahou no Star Magical Emi TV series.",
   "animeImg": "https://gogocdn.net/cover/mahou-no-star-magical-emi-semishigure.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mahou-no-star-magical-emi-semishigure-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

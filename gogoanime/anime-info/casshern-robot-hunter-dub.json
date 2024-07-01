@@ -12,5 +12,22 @@
   "synopsis": "In the near future, robot technology has advanced to the point of self-awareness. Under the leadership of the \"Black King,\" machines have decimated the human population and conquered the world. Those who survived the early holocaust have been enslaved for life. But throughout the hardships, a lone hero appears as the savior of mankind. He is Casshan - a fusion of man and machine driven to combat Black King and his forces to the end.",
   "animeImg": "https://gogocdn.net/cover/casshern-robot-hunter-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "casshern-robot-hunter-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "casshern-robot-hunter-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "casshern-robot-hunter-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "casshern-robot-hunter-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

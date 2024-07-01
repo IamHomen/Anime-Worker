@@ -10,5 +10,10 @@
   "synopsis": "A little koala and his friends have adventures together and learn lessons about the world while having a lot of fun.",
   "animeImg": "https://gogocdn.net/cover/the-adventures-of-the-little-koala-and-friends-laura-and-the-mystery-egg-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-adventures-of-the-little-koala-and-friends-laura-and-the-mystery-egg-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

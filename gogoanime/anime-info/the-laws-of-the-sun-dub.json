@@ -11,5 +11,10 @@
   "synopsis": "The second title in the series of anime films by the Happy Science religion.",
   "animeImg": "https://gogocdn.net/cover/the-laws-of-the-sun-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-laws-of-the-sun-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

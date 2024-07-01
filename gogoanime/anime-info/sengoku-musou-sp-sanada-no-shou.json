@@ -12,5 +12,10 @@
   "synopsis": "According to the presentation, the anime will cover the Siege of Ueda Castle.",
   "animeImg": "https://gogocdn.net/images/Sengoku Musou.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sengoku-musou-sp-sanada-no-shou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

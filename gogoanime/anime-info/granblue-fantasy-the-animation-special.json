@@ -10,5 +10,10 @@
   "synopsis": "Unaired episode bundled with the seventh Blu-ray and DVD volume of Granblue Fantasy The Animation.",
   "animeImg": "https://gogocdn.net/cover/granblue-fantasy-the-animation-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "granblue-fantasy-the-animation-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/images/004.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "naruto-shippuden-movie-5-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

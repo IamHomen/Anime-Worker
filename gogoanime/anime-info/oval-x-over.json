@@ -10,5 +10,10 @@
   "synopsis": "A promotional video for the Indy Racing League Bridgestone Indy Japan 3000.\r\n\r\nA thrilling race. Three drivers with their own stories. A narrow line between victory and defeat. Who will be the champion?",
   "animeImg": "https://gogocdn.net/cover/oval-x-over.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "oval-x-over-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

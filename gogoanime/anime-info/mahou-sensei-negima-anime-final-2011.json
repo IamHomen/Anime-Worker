@@ -12,5 +12,14 @@
   "synopsis": "An animated feature film based on the Negima! Magister Negi Magi manga.",
   "animeImg": "https://gogocdn.net/cover/mahou-sensei-negima-anime-final-2011.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mahou-sensei-negima-anime-final-2011-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mahou-sensei-negima-anime-final-2011-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

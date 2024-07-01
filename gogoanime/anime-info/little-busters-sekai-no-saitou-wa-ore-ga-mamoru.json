@@ -15,5 +15,10 @@
   "synopsis": "A special unaired episode of Little Busters! sent to those who bought all 9 BD/DVD volumes of the anime. This episode includes the story about \"Mask the Saitou.\"",
   "animeImg": "https://gogocdn.net/images/Little Busters Sekai no Saitou wa Ore ga Mamoru.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "little-busters-sekai-no-saitou-wa-ore-ga-mamoru-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

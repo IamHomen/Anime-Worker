@@ -15,5 +15,18 @@
   "synopsis": "To celebrate their respective 40 and 45 year anniversaries, Mobile Suit Gundam and Hello Kitty are coming together for a highly unexpected cross-over.",
   "animeImg": "https://gogocdn.net/cover/gundam-vs-hello-kitty.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-vs-hello-kitty-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gundam-vs-hello-kitty-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gundam-vs-hello-kitty-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

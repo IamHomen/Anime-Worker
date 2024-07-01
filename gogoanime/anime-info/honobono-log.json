@@ -11,5 +11,46 @@
   "synopsis": "Based on an illustration book by Naka Fukamachi. The anime offers heartwarming peeks at the lives of close couples and families.",
   "animeImg": "https://gogocdn.net/cover/honobono-log.jpg",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "honobono-log-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "honobono-log-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "honobono-log-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "honobono-log-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "honobono-log-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "honobono-log-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "honobono-log-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "honobono-log-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "honobono-log-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "honobono-log-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

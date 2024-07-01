@@ -12,5 +12,30 @@
   "synopsis": "TV anime adaptation of Motomiya Hiroshi's manga \"Otoko Ippiki Gaki Daishou\" about young gang leader and all the trouble and fights his gang gets into, serialized in Weekly Shonen Jump.",
   "animeImg": "https://gogocdn.net/cover/otoko-ippiki-gaki-daishou.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "otoko-ippiki-gaki-daishou-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "otoko-ippiki-gaki-daishou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "otoko-ippiki-gaki-daishou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "otoko-ippiki-gaki-daishou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "otoko-ippiki-gaki-daishou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "otoko-ippiki-gaki-daishou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

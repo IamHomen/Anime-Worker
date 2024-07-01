@@ -12,5 +12,30 @@
   "synopsis": "In a city filled with anthropomorphic cat-people, Catman lives free of rules and boundaries, doing everything he wants, which often collides with the other iinhabitants of the city. Created entirely in flash, with no spoken dialog, Catman instead speaks in English and Japanese subtitles. The series is spread across three so-called 'seasons', with only the third having been aired.",
   "animeImg": "https://gogocdn.net/cover/catman-series-iii.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "catman-series-iii-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "catman-series-iii-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "catman-series-iii-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "catman-series-iii-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "catman-series-iii-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "catman-series-iii-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

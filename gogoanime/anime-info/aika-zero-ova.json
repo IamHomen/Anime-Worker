@@ -13,5 +13,18 @@
   "synopsis": "The new OVA, titled \u201cAIka Zero,\u201d will take place 3 years after Aika R-16 & 7 years before the original Agent Aika classic. That puts our heroine at 19 years old, & the character designs reflect as much. 19-year-old Aika seems like a cross-over between the cute & young 16-year-old Aika from R-16, & the sexy mature 26-year-old Aika from the original.",
   "animeImg": "https://gogocdn.net/images/anime/A/aika-zero.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aika-zero-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "aika-zero-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "aika-zero-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

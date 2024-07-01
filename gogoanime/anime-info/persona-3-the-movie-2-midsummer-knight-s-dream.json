@@ -13,5 +13,10 @@
   "synopsis": "Sequel to the Persona 3 Movie which covers the summer arc.",
   "animeImg": "https://gogocdn.net/images/upload/Persona 3 the Movie 2 - Midsummer Knight-s Dream.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "persona-3-the-movie-2-midsummer-knight-s-dream-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

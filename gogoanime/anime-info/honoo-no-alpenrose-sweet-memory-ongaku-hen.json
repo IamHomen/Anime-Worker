@@ -14,5 +14,10 @@
   "synopsis": "A music-video style recap OVA. This release covers episode 1-11. Some music used is full song versions with accompanied singing, other sections of the recap are entirely classical Austrian music.",
   "animeImg": "https://gogocdn.net/cover/honoo-no-alpenrose-sweet-memory-ongaku-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "honoo-no-alpenrose-sweet-memory-ongaku-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,22 @@
   "synopsis": "\"Housing Complex C\" centers around Kimi, who lives in a small, low-cost housing complex located in the seaside town of Kurosaki. Trouble seems to follow her wherever she goes, and horrific incidents begin to occur. Is an ancient evil stalking the residents of Housing Complex C?",
   "animeImg": "https://gogocdn.net/cover/c-danchi-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "c-danchi-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "c-danchi-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "c-danchi-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "c-danchi-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

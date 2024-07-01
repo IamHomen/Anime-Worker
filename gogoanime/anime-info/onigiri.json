@@ -10,5 +10,58 @@
   "synopsis": "Onigiri thrusts its players into mystical Japan, a land filled with mythical creatures of Japanese legend. Starting as a lone Oni, players fight against the malevolent influence of the Kamikui as their miasma spreads over the land. 8 NPCs, each with their own distinct personality and skills, ally themselves with the player to help build a legend, and quell the evil that has arisen. As you grow stronger together, so do the bonds binding you to each other",
   "animeImg": "https://gogocdn.net/cover/onigiri.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "onigiri-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "onigiri-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "onigiri-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "onigiri-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "onigiri-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "onigiri-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "onigiri-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "onigiri-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "onigiri-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "onigiri-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "onigiri-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "onigiri-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "onigiri-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,10 @@
   "synopsis": "The Digimon travel through the digital word and discover a Digimon eating away the Digital World, thus they resolve to save it.",
   "animeImg": "https://gogocdn.net/cover/digimon-savers-3d-digital-world-kiki-ippatsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-savers-3d-digital-world-kiki-ippatsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

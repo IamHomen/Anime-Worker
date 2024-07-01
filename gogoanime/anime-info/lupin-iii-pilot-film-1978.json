@@ -14,5 +14,10 @@
   "synopsis": "A remastered version of the Pilot film, realised in 1978, re-photographed in cinemascope and re-dubbed for being screened in cinema before of 1st movie [Mamoo's 1st copy]. In 1989, it was included on the Lupin III - Secret File OVA.",
   "animeImg": "https://gogocdn.net/cover/lupin-iii-pilot-film-1978.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lupin-iii-pilot-film-1978-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

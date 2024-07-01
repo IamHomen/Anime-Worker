@@ -13,5 +13,10 @@
   "synopsis": "An OVA that takes place during the manga's middle school storyline.",
   "animeImg": "https://gogocdn.net/cover/zettai-karen-children-ova-aitazousei-ubawareta-mirai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zettai-karen-children-ova-aitazousei-ubawareta-mirai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

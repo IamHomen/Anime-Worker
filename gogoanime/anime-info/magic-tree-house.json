@@ -11,5 +11,10 @@
   "synopsis": "When Jack and Annie find a Tree House full of books in the middle of the forest, they never imagined it would also transport them to any time and place on Earth. Now they're learning just how dangerous the past can be!",
   "animeImg": "https://gogocdn.net/images/anime/M/Magic-Tree-House.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "magic-tree-house-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

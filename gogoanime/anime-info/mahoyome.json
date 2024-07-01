@@ -10,5 +10,106 @@
   "synopsis": "As the television anime Mahoutsukai no Yome debuts a new episode every week, one new 30-second episode of the series of shorts will debut every week on the official Twitter every Tuesday. The previous week's episode will no longer be available when each new episode debuts.",
   "animeImg": "https://gogocdn.net/cover/mahoyome.png",
   "totalEpisodes": "24",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mahoyome-episode-24",
+      "episodeNum": "Episode 24"
+    },
+    {
+      "episodeId": "mahoyome-episode-23",
+      "episodeNum": "Episode 23"
+    },
+    {
+      "episodeId": "mahoyome-episode-22",
+      "episodeNum": "Episode 22"
+    },
+    {
+      "episodeId": "mahoyome-episode-21",
+      "episodeNum": "Episode 21"
+    },
+    {
+      "episodeId": "mahoyome-episode-20",
+      "episodeNum": "Episode 20"
+    },
+    {
+      "episodeId": "mahoyome-episode-19",
+      "episodeNum": "Episode 19"
+    },
+    {
+      "episodeId": "mahoyome-episode-18",
+      "episodeNum": "Episode 18"
+    },
+    {
+      "episodeId": "mahoyome-episode-17",
+      "episodeNum": "Episode 17"
+    },
+    {
+      "episodeId": "mahoyome-episode-16",
+      "episodeNum": "Episode 16"
+    },
+    {
+      "episodeId": "mahoyome-episode-15",
+      "episodeNum": "Episode 15"
+    },
+    {
+      "episodeId": "mahoyome-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "mahoyome-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "mahoyome-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "mahoyome-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "mahoyome-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "mahoyome-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mahoyome-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mahoyome-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mahoyome-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mahoyome-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mahoyome-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mahoyome-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mahoyome-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mahoyome-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "mahoyome",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

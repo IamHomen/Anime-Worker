@@ -10,5 +10,34 @@
   "synopsis": "Six Hearts Princess, often called 6HP for short, is a Japanese animated series created by Takashi Murakami. It was originally supposed to air beginning in December 2016, but production was not complete, and only half an episode with unfinished art was aired, along with an apology and documentary. The complete version of the first episode was released in September of 2017.",
   "animeImg": "https://gogocdn.net/cover/6hp-six-hearts-princess.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "6hp-six-hearts-princess-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "6hp-six-hearts-princess-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "6hp-six-hearts-princess-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "6hp-six-hearts-princess-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "6hp-six-hearts-princess-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "6hp-six-hearts-princess-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "6hp-six-hearts-princess-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

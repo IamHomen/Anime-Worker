@@ -12,5 +12,10 @@
   "synopsis": "The story of \"Ring of Gundam\" takes place in a new era long after the events of the first Mobile Suit Gundam series' One-Year War. In this world setting, a giant 600-kilometer-wide ring now floats in lunar orbit. An Earth Federation Forces member named Eiji discovers an object called \"Beauty Memory\" buried in a high-altitude, massive rockbed on Earth.",
   "animeImg": "https://gogocdn.net/cover/ring-of-gundam.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ring-of-gundam-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

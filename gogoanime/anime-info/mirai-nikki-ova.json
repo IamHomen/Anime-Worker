@@ -12,5 +12,10 @@
   "synopsis": "A short OVA that was bundled with the limited edition of the eleventh volume of the manga.",
   "animeImg": "https://gogocdn.net/cover/mirai-nikki-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mirai-nikki-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

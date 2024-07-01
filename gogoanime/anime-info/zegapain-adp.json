@@ -13,5 +13,10 @@
   "synopsis": "Animation studio Sunrise has announced at AnimeJapan 2016 that its 2006 mecha anime series Zegapain will be re-edited into a movie titled Zegapain ADP. The movie will also include new scenes not present in the TV anime.",
   "animeImg": "https://gogocdn.net/cover/zegapain-adp.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zegapain-adp-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

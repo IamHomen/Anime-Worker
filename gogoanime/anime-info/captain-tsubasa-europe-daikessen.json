@@ -11,5 +11,10 @@
   "synopsis": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before.",
   "animeImg": "https://gogocdn.net/cover/captain-tsubasa-europe-daikessen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "captain-tsubasa-europe-daikessen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

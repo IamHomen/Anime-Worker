@@ -11,5 +11,26 @@
   "synopsis": "Episode 1: \"Bloodline of the Shinobi\"\r\nVan is an energetic and athletically gifted youngster known for his incredible skills on the basketball court. One night, after waking from a nightmare, Van jumps on his bike and hurries across town to see his father\u2026 and arrives just in time to witness his dad being attacked by a ninja!\r\n\r\nEpisode 2: \"A Secret Eye\"\r\nLucy is a cheerful and considerate young girl who always looks after her friends. One day, while attempting to save a friend from some bullies, she inadvertently awakens her ninja powers. Alarmed and overwhelmed at her newly realized abilities, she attempts to hide them by avoiding people and shutting down emotionally.",
   "animeImg": "https://gogocdn.net/cover/ninjala-dub.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ninjala-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ninjala-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ninjala-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ninjala-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ninjala-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

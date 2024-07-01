@@ -15,5 +15,18 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/ikkitousen-western-wolves-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ikkitousen-western-wolves-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ikkitousen-western-wolves-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ikkitousen-western-wolves-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

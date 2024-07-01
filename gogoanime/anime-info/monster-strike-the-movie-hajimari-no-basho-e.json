@@ -12,5 +12,10 @@
   "synopsis": "The Monster Strike film will feature a character named Lucifer.",
   "animeImg": "https://gogocdn.net/cover/monster-strike-the-movie-hajimari-no-basho-e.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "monster-strike-the-movie-hajimari-no-basho-e-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

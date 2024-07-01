@@ -13,5 +13,10 @@
   "synopsis": "Pikachu meets the Pichu brothers and goes on an adventure through the city with them while trying to get back to the building where the rest of Ash's Pokemon are.",
   "animeImg": "https://gogocdn.net/images/upload/26369.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-pichu-to-pikachu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

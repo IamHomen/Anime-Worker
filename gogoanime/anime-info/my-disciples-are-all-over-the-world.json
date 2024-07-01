@@ -13,5 +13,26 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/my-disciples-are-all-over-the-world-1705028905.png",
   "totalEpisodes": "90",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "my-disciples-are-all-over-the-world-episode-90",
+      "episodeNum": "Episode 90"
+    },
+    {
+      "episodeId": "my-disciples-are-all-over-the-world-episode-89",
+      "episodeNum": "Episode 89"
+    },
+    {
+      "episodeId": "my-disciples-are-all-over-the-world-episode-88",
+      "episodeNum": "Episode 88"
+    },
+    {
+      "episodeId": "my-disciples-are-all-over-the-world-episode-87",
+      "episodeNum": "Episode 87"
+    },
+    {
+      "episodeId": "my-disciples-are-all-over-the-world-episode-1-86-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

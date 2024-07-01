@@ -17,5 +17,18 @@
   "synopsis": "A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help.",
   "animeImg": "https://gogocdn.net/cover/blue-seed-2-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "blue-seed-2-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "blue-seed-2-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "blue-seed-2-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/ling-yun-daima.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ling-yun-daima-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

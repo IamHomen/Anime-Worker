@@ -10,5 +10,58 @@
   "synopsis": "In the anime series, the members of Six Gravity and Procellarum are all living in the same dorm building. Hajime Mutsuki and Haru Yayoi, the oldest members of Six Gravity, are first year university students. Each episode of the series will feature a different main character.",
   "animeImg": "https://gogocdn.net/cover/tsukiuta-the-animation.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tsukiuta-the-animation-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tsukiuta-the-animation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

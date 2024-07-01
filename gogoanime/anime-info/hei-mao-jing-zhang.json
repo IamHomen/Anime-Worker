@@ -15,5 +15,26 @@
   "synopsis": "The series follows Officer Black Cat's adventures around the forest neighbourhood, apprehending criminals, dealing justice, and solving crimes.",
   "animeImg": "https://gogocdn.net/cover/hei-mao-jing-zhang.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hei-mao-jing-zhang-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hei-mao-jing-zhang-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hei-mao-jing-zhang-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hei-mao-jing-zhang-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hei-mao-jing-zhang-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

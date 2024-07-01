@@ -10,5 +10,54 @@
   "synopsis": "Anything could happen at Hot Hot Mart, one suburban convenience store known for its hand-made dishes",
   "animeImg": "https://gogocdn.net/cover/sore-dake-ga-neck.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-dake-ga-neck-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sore-dake-ga-neck-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

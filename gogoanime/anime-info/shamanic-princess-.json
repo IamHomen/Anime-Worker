@@ -12,5 +12,30 @@
   "synopsis": "From the Guardian World, home of mages, Tiara has been sent on a mission: recover the stolen Throne of Yord, the most powerful magic artifact of all. But Tiara finds herself in a dilemma \u2013 the Throne has been taken by her former lover, and there is more to the situation than meets the eye\u2026",
   "animeImg": "https://gogocdn.net/images/anime/S/shamanic-princess.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shamanic-princess--episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shamanic-princess--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shamanic-princess--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shamanic-princess--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shamanic-princess--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shamanic-princess--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

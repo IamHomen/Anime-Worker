@@ -13,5 +13,26 @@
   "synopsis": "Bundled with the special edition of the third compiled volume of the Magi spin-off manga\u00a0Magi: Sinbad no Bouken.",
   "animeImg": "https://gogocdn.net/images/upload/156439.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "magi-sinbad-no-bouken-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "magi-sinbad-no-bouken-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "magi-sinbad-no-bouken-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "magi-sinbad-no-bouken-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "magi-sinbad-no-bouken-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

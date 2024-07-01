@@ -11,5 +11,30 @@
   "synopsis": "Special introduction videos posted on the official website.",
   "animeImg": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-1689585146.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

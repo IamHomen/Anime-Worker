@@ -13,5 +13,54 @@
   "synopsis": "Kowata Makoto is an air head with a bad sense of direction that just moved into her relative's house... But is that all?",
   "animeImg": "https://gogocdn.net/cover/flying-witch.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "flying-witch-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "flying-witch-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "flying-witch-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "flying-witch-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "flying-witch-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "flying-witch-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "flying-witch-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "flying-witch-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "flying-witch-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "flying-witch-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "flying-witch-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "flying-witch-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

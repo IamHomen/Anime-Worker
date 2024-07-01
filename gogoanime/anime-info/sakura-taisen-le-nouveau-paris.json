@@ -13,5 +13,18 @@
   "synopsis": "After Ichiro Ogami's departure, the girls of the Paris Flower Defense Force are left debating who will be the next captain, while a centuries-old threat surfaces.",
   "animeImg": "https://gogocdn.net/cover/sakura-taisen-le-nouveau-paris.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sakura-taisen-le-nouveau-paris-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sakura-taisen-le-nouveau-paris-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sakura-taisen-le-nouveau-paris-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

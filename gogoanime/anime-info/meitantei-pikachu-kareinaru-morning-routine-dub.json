@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/meitantei-pikachu-kareinaru-morning-routine-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "meitantei-pikachu-kareinaru-morning-routine-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

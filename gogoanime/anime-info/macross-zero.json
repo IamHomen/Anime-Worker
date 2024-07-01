@@ -14,5 +14,26 @@
   "synopsis": "Taking place one year before the Zentraedi arrive on Earth, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions. After being shot down by the anti-U.N.\u2019s newest fighter plane, ace pilot Shin Kudo finds himself on the remote island of Mayan, where technology is almost non-existent. While Shin stays on the island to heal his wounds, the tranqulity of the island is shattered by a battle that involves the UN\u2019s newest fighter \u2013 the VF-0.",
   "animeImg": "https://gogocdn.net/images/anime/M/macross-zero.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "macross-zero-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "macross-zero-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "macross-zero-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "macross-zero-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "macross-zero-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

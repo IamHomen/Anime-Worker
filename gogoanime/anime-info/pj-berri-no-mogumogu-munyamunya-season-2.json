@@ -10,5 +10,30 @@
   "synopsis": "The second season of PJ Berri no Mogumogu Munyamunya. Its broadcast will be in the same timeslot as the re-airing of the original 2001 Parappa the Rapper anime on Fuji TV.",
   "animeImg": "https://gogocdn.net/cover/pj-berri-no-mogumogu-munyamunya-season-2.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pj-berri-no-mogumogu-munyamunya-season-2-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "pj-berri-no-mogumogu-munyamunya-season-2-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "pj-berri-no-mogumogu-munyamunya-season-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pj-berri-no-mogumogu-munyamunya-season-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pj-berri-no-mogumogu-munyamunya-season-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pj-berri-no-mogumogu-munyamunya-season-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

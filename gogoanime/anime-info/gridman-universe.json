@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/gridman-universe.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gridman-universe-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

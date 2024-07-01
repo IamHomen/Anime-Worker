@@ -13,5 +13,10 @@
   "synopsis": "Specials included in the BD/DVD release of Temple.",
   "animeImg": "https://gogocdn.net/cover/temple-specials-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "temple-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

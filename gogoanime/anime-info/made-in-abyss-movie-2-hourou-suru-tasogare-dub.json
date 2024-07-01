@@ -14,5 +14,10 @@
   "synopsis": "Second compilation movie of the TV series.",
   "animeImg": "https://gogocdn.net/cover/made-in-abyss-movie-2-hourou-suru-tasogare-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "made-in-abyss-movie-2-hourou-suru-tasogare-dub-episode-2",
+      "episodeNum": "Episode 2"
+    }
+  ]
 }

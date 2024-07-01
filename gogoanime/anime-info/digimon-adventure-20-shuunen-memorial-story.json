@@ -11,5 +11,26 @@
   "synopsis": "A crowdfunding campaign opened for the \"Digimon Adventure Memorial Story Project.\" It was for 5 shorts that included a prequel of the upcoming film and side stories about the daily lives of the Digimon characters and their partners, which are stories that did not make it into the film.",
   "animeImg": "https://gogocdn.net/cover/digimon-adventure-20-shuunen-memorial-story.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-adventure-20-shuunen-memorial-story-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "digimon-adventure-20-shuunen-memorial-story-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "digimon-adventure-20-shuunen-memorial-story-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "digimon-adventure-20-shuunen-memorial-story-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "digimon-adventure-20-shuunen-memorial-story-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

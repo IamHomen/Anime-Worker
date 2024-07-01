@@ -11,5 +11,10 @@
   "synopsis": "Bundled with the special edition of the 11th volume of the Minami-ke manga series.",
   "animeImg": "https://gogocdn.net/cover/minami-ke-natsuyasumi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "minami-ke-natsuyasumi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

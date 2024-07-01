@@ -16,5 +16,30 @@
   "synopsis": "10 years have passed since the end of the last war against the radam. A new team of Space Knights has been assembled under the lead of Aki and D-boy. The first mission of the new tekkaman is to defeat the radam but then, they have to fight against a remnent from the past.",
   "animeImg": "https://gogocdn.net/cover/tekkaman-blade-2-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tekkaman-blade-2-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tekkaman-blade-2-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tekkaman-blade-2-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tekkaman-blade-2-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tekkaman-blade-2-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tekkaman-blade-2-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

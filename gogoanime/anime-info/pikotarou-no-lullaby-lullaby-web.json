@@ -10,5 +10,18 @@
   "synopsis": "Pikotaro breaks new ground. Drawing inspiration from illustrations by director Taniguchi, he does the unthinkable: three-minute, scriptless fairy tale anime. Pikotaro is presented with classics loved around the world, including The Little Match Girl, Cinderella, and The Ugly Duckling. The mad genius who took the world by storm returns to bring you unique bedtime stories certain to rock you into absurd sleep.",
   "animeImg": "https://gogocdn.net/cover/pikotarou-no-lullaby-lullaby-web.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-web-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-web-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pikotarou-no-lullaby-lullaby-web-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

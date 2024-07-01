@@ -12,5 +12,14 @@
   "synopsis": "Mecha series based on Takara's videogames.",
   "animeImg": "https://gogocdn.net/cover/kikou-heidan-j-phoenix-pf-lips-shoutai.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kikou-heidan-j-phoenix-pf-lips-shoutai-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kikou-heidan-j-phoenix-pf-lips-shoutai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

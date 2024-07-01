@@ -11,5 +11,10 @@
   "synopsis": "The new OVA will feature the prequel short story \"Snow Globe,\" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game.",
   "animeImg": "https://gogocdn.net/cover/planetarian-snow-globe.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "planetarian-snow-globe-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

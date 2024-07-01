@@ -13,5 +13,46 @@
   "synopsis": "Season 4 of LaLaLaDemaCia.",
   "animeImg": "https://gogocdn.net/cover/lalalademacia-4nd-season.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "lalalademacia-4nd-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

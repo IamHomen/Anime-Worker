@@ -15,5 +15,10 @@
   "synopsis": "The Straw Hat Pirates are taking on Gild Tesoro, one of the richest men in the world.",
   "animeImg": "https://gogocdn.net/cover/one-piece-film-gold.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-film-gold-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

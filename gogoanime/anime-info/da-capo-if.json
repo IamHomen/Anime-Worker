@@ -13,5 +13,14 @@
   "synopsis": "This two episode OVA retelling of the first\u00a0Da Capo\u00a0series with the \"what if\"\u00a0Asakura Jun'ichi\u00a0were to return\u00a0Shirakawa Kotori's feelings.",
   "animeImg": "https://gogocdn.net/images/anime/D/da-capo-if.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "da-capo-if-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "da-capo-if-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

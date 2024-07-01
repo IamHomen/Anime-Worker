@@ -10,5 +10,10 @@
   "synopsis": "Minami is a high school girl and beginner at golf. Her two friends Haruka and Ayaka introduce her to the sport and they enjoy playing and learning together.",
   "animeImg": "https://gogocdn.net/cover/sorairo-utility-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sorairo-utility-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,14 @@
   "synopsis": "https://myanimelist.net/anime/12951/AWOL?q=AWOL%20-%20Absent%20WithOut%20Leave&cat=anime#:~:text=Cyress%20is%20a,not%20be%20stopped.",
   "animeImg": "https://gogocdn.net/cover/awol-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "awol-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "awol-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

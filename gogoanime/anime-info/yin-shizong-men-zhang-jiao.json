@@ -14,5 +14,42 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/yin-shizong-men-zhang-jiao.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yin-shizong-men-zhang-jiao-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,54 @@
   "synopsis": "Second season of Kuma Kuma Kuma Bear.",
   "animeImg": "https://gogocdn.net/cover/kuma-kuma-kuma-bear-2nd-season-1680123171.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kuma-kuma-kuma-bear-punch-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

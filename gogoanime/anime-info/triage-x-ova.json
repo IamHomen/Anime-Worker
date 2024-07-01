@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode 11 of the Triage X series bundled with the 12th manga volume.",
   "animeImg": "https://gogocdn.net/cover/triage-x-ova.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "triage-x-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

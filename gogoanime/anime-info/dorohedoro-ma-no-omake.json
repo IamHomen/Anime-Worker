@@ -14,5 +14,10 @@
   "synopsis": "OVA included with the special edition of volume two of the Blu-ray release.",
   "animeImg": "https://gogocdn.net/cover/dorohedoro-ma-no-omake.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dorohedoro-ma-no-omake-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

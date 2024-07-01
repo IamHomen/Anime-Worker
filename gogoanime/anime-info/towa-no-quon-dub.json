@@ -13,5 +13,30 @@
   "synopsis": "This story follows a boy named Quon and his friends, who are \"Attractors\". Attractors are human beings who have awakened and have supernatural powers. Quon is determined to save them all. But a secret organization is hunting them...",
   "animeImg": "https://gogocdn.net/cover/towa-no-quon-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "towa-no-quon-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "towa-no-quon-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "towa-no-quon-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "towa-no-quon-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "towa-no-quon-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "towa-no-quon-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

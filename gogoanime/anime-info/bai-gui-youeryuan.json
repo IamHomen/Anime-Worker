@@ -10,5 +10,46 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/bai-gui-youeryuan.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bai-gui-youeryuan-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bai-gui-youeryuan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

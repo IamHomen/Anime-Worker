@@ -11,5 +11,26 @@
   "synopsis": "Shippuu! Iron Leaguer OVA.",
   "animeImg": "https://gogocdn.net/cover/shippuu-iron-leaguer-silver-no-hata-no-moto-ni.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shippuu-iron-leaguer-silver-no-hata-no-moto-ni-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shippuu-iron-leaguer-silver-no-hata-no-moto-ni-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shippuu-iron-leaguer-silver-no-hata-no-moto-ni-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shippuu-iron-leaguer-silver-no-hata-no-moto-ni-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shippuu-iron-leaguer-silver-no-hata-no-moto-ni-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

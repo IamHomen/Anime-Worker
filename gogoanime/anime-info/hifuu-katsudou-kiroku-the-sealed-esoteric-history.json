@@ -11,5 +11,18 @@
   "synopsis": "Based on Team Shanghai Alice's Touhou Project.\r\n\r\nHistory revolves around the many events in the lives of two students from the Outside World - Maribel Hearn and Renko Usami. They are the only members of the \"Hifuu Club Activity Record\" who are looking for those hidden worlds as Gensokyo, the Netherworld and the Moon.",
   "animeImg": "https://gogocdn.net/cover/hifuu-katsudou-kiroku-the-sealed-esoteric-history.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hifuu-katsudou-kiroku-the-sealed-esoteric-history-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hifuu-katsudou-kiroku-the-sealed-esoteric-history-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hifuu-katsudou-kiroku-the-sealed-esoteric-history-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

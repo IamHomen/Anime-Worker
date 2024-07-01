@@ -12,5 +12,38 @@
   "synopsis": "This ambitious series will focus on Miyamoto Musashi, who is modeled after Toshiro Mifune, the Japanese film icon known around the globe. This is the beginning of an intense series full of realistic action in which Musashi's blade slices through evil as he traverses a land plagued by poverty.",
   "animeImg": "https://gogocdn.net/cover/onimusha-1695265328.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "onimusha-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "onimusha-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "onimusha-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "onimusha-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "onimusha-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "onimusha-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "onimusha-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "onimusha-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

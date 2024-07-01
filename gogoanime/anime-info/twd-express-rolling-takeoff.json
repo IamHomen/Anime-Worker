@@ -11,5 +11,10 @@
   "synopsis": "Based on a manga by Hijiri Yuki, serialised in Comic Nora.\r\n\r\nNote: Shown in theaters as a double bill with the anime feature MAPS: Densetsu no Samayoeru Seijin-tachi.",
   "animeImg": "https://gogocdn.net/cover/twd-express-rolling-takeoff.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "twd-express-rolling-takeoff-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "A sci-fi, eco-conscious fantasy about a 14-year-old heroine, Suzu, a descendent of a distinguished shaman who saved people from catastrophe in the past. Suzu sets out on a journey, along with the spirit of nature, Coluboccoro, to regain peace and nature to the ruined villages.",
   "animeImg": "https://gogocdn.net/cover/coluboccoro.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "coluboccoro-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

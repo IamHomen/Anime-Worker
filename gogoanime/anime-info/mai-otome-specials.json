@@ -13,5 +13,42 @@
   "synopsis": "Specials that followed on the Mai-Otome DVD.",
   "animeImg": "https://gogocdn.net/cover/mai-otome-specials.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mai-otome-specials-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mai-otome-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

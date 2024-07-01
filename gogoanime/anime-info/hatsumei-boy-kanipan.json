@@ -13,5 +13,18 @@
   "synopsis": "The story revolves around Kanipan aiming to be the best inventor and his adventures while trying to accomplish this.",
   "animeImg": "https://gogocdn.net/cover/hatsumei-boy-kanipan.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hatsumei-boy-kanipan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hatsumei-boy-kanipan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hatsumei-boy-kanipan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Based on the one-shot manga Monsters.",
   "animeImg": "https://gogocdn.net/cover/monsters-ippyaku-sanjou-hiryuu-jigoku-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "monsters-ippyaku-sanjou-hiryuu-jigoku-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

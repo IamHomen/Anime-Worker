@@ -11,5 +11,10 @@
   "synopsis": "Endou, a night guard, was patrolling the mall as usual. But this night was going to be different from usual...",
   "animeImg": "https://gogocdn.net/cover/kdrop.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kdrop-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

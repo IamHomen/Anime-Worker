@@ -14,5 +14,54 @@
   "synopsis": "A TV anime adaptation of the mobile game Chain Chronicle.",
   "animeImg": "https://gogocdn.net/cover/chain-chronicle-haecceitas-no-hikari-dub.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "chain-chronicle-haecceitas-no-hikari-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,46 @@
   "synopsis": "The \"Project Sekai Anniversary Festa 2021\" event announced on Sunday that production on a mini anime adaptation of Sega's Project Sekai: Colorful Stage! feat. Hatsune Miku smartphone rhythm game has been green-lit. The 10 planned episodes of Petit Seka (Puchi Seka) will stream for free on YouTube.",
   "animeImg": "https://gogocdn.net/cover/puchi-seka.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "puchi-seka-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "puchi-seka-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "puchi-seka-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "puchi-seka-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "puchi-seka-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "puchi-seka-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "puchi-seka-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "puchi-seka-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "puchi-seka-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "puchi-seka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

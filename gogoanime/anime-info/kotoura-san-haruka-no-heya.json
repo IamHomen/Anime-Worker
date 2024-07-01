@@ -11,5 +11,30 @@
   "synopsis": "Mini episodes of Kotoura-san introducing each of the series' characters.",
   "animeImg": "https://gogocdn.net/images/Kotoura-san Haruka no Heya.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kotoura-san-haruka-no-heya-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kotoura-san-haruka-no-heya-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kotoura-san-haruka-no-heya-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kotoura-san-haruka-no-heya-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kotoura-san-haruka-no-heya-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kotoura-san-haruka-no-heya-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

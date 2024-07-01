@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/crayon-shin-chan-movie-29-mystery-meki-hana-no-tenkasu-gakuen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "crayon-shin-chan-movie-29-mystery-meki-hana-no-tenkasu-gakuen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

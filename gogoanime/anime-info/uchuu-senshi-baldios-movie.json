@@ -13,5 +13,10 @@
   "synopsis": "This film supplied the ending to the cancelled Space Warrior Baldios television series.",
   "animeImg": "https://gogocdn.net/cover/uchuu-senshi-baldios-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-senshi-baldios-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

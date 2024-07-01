@@ -11,5 +11,10 @@
   "synopsis": "One rainy day, Osamu gets on his way back home. Then he finds out the umbrella that Sayu gave to him as a present is missing. The umbrella transforms into a girl, and starts moving around the city that gets rained on.",
   "animeImg": "https://gogocdn.net/cover/soba-e.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "soba-e-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,54 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis",
   "animeImg": "https://gogocdn.net/cover/tuanzimen-de-shiming.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tuanzimen-de-shiming-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

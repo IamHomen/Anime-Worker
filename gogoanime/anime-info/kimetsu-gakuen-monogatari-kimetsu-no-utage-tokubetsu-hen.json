@@ -13,5 +13,18 @@
   "synopsis": "These specials were originally shown at the Kimetsu no Utage live event which was held on October 20th 2019 in Tokyo. The cast members present at the event did a live dubbing of the characters.",
   "animeImg": "https://gogocdn.net/cover/kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

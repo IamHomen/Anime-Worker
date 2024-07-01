@@ -10,5 +10,22 @@
   "synopsis": "A spin-off to the Ousama Sentai King-Ohger TV series, this series portrays the TV show Moffun to Issho, a popular anime within the world of the King-Ohger TV series. These shorts were originally released on the Toei Tokusatsu Fanclub (TTFC) app.",
   "animeImg": "https://gogocdn.net/cover/moffun-to-issho-1687148071.png",
   "totalEpisodes": "57",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "moffun-to-issho-episode-57",
+      "episodeNum": "Episode 57"
+    },
+    {
+      "episodeId": "moffun-to-issho-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "moffun-to-issho-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "moffun-to-issho-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

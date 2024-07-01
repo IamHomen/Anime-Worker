@@ -14,5 +14,14 @@
   "synopsis": "Mai, a Santa in training, appears in front of an unlucky boy named Santa on Christmas Eve, promising him that she will make him happy for one night.",
   "animeImg": "https://gogocdn.net/cover/itsudatte-my-santa-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "itsudatte-my-santa-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "itsudatte-my-santa-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

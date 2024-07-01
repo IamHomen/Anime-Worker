@@ -12,5 +12,10 @@
   "synopsis": "Shipped with special edition of Atto's spin-off manga Non Non Biyori Remember, the OVA serves as the 13th episode of third anime season Non Non Biyori Nonstop.",
   "animeImg": "https://gogocdn.net/cover/non-non-biyori-nonstop-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "non-non-biyori-nonstop-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

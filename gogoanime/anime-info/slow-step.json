@@ -14,5 +14,26 @@
   "synopsis": "Based on the Adachi manga of the same name. The story revolves around a romantic triangle formed by the girl Minatsu Nakazato, a young student and softball player; Shu Akiba, a schoolmate; and Naoto Kadomatsu, an up-and-coming boxer. In reality the three-way relationship is more like three-and-a-half, considering that Naoto is in love with Maria... actually Minatsu herself, who'd once disguised herself to escape some evildoers.",
   "animeImg": "https://gogocdn.net/cover/slow-step.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "slow-step-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "slow-step-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "slow-step-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "slow-step-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "slow-step-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

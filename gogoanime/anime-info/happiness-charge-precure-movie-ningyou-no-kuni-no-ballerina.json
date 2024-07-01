@@ -13,5 +13,10 @@
   "synopsis": "Upcoming movie of Happiness Charge PreCure!",
   "animeImg": "https://gogocdn.net/images/upload/Happiness Charge PreCure! Movie.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "happiness-charge-precure-movie-ningyou-no-kuni-no-ballerina-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

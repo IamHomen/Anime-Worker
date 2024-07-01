@@ -13,5 +13,22 @@
   "synopsis": "Final season of Magia Record: Mahou Shoujo Madoka\u2606Magica Gaiden (TV).",
   "animeImg": "https://gogocdn.net/cover/magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "magia-record-mahou-shoujo-madokamagica-gaiden-tv-final-season-asaki-yume-no-akatsuki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

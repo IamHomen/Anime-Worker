@@ -10,5 +10,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/li-shi-zhentan-shiwusuo-a-day-in-lungmen-special.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "li-shi-zhentan-shiwusuo-a-day-in-lungmen-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "li-shi-zhentan-shiwusuo-a-day-in-lungmen-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

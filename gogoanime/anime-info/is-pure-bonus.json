@@ -12,5 +12,26 @@
   "synopsis": "5 Dream Sequences, dubbed his Delusions. Wet dreams from the imagination of a healthy young male.",
   "animeImg": "https://gogocdn.net/cover/is-pure-bonus.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "is-pure-bonus-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "is-pure-bonus-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "is-pure-bonus-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "is-pure-bonus-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "is-pure-bonus-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

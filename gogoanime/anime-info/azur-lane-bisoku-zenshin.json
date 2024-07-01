@@ -13,5 +13,54 @@
   "synopsis": "Animation of the Azur Lane 4-koma manga.",
   "animeImg": "https://gogocdn.net/cover/azur-lane-bisoku-zenshin.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "azur-lane-bisoku-zenshin-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

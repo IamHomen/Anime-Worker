@@ -11,5 +11,46 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis",
   "animeImg": "https://gogocdn.net/cover/lalala-demacia-third-season.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lalala-demacia-third-season-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "lalala-demacia-third-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

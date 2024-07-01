@@ -12,5 +12,18 @@
   "synopsis": "Fleeing from his own race, Orgun - an alien being with superhuman abilities and unearthly weapons - travels to Earth to find an answer to his origin. There, he bonds with a young man named Tomoru to defend Earth against the Evoluders, who seek nothing but destruction of other civilizations.",
   "animeImg": "https://gogocdn.net/images/anime/D/detonator-orgun.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "detonator-orgun-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "detonator-orgun-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "detonator-orgun-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

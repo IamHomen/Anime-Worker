@@ -13,5 +13,34 @@
   "synopsis": "The Leader will talk about how Marx met his wife Jenny and their thwarted love story, as well as his friendship with Friedrich Engels, his close companion and co-author of the Communist Manifesto.",
   "animeImg": "https://gogocdn.net/cover/the-leader.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-leader-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "the-leader-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "the-leader-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "the-leader-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "the-leader-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "the-leader-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "the-leader-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

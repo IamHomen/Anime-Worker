@@ -15,5 +15,10 @@
   "synopsis": "Bundled with the tenth limited-edition volume of Blood Lad manga.",
   "animeImg": "https://gogocdn.net/cover/blood-lad-ova-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "blood-lad-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

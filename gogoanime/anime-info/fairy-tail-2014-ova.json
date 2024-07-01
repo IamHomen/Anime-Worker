@@ -14,5 +14,18 @@
   "synopsis": "Fairies' Penalty Game is the seventh OVA for the Fairy Tail series by Hiro Mashima, and the first for the 2014 anime series. It was bundled along with the Special Edition of Volume 55 of the Manga, which was first released on May 17, 2016. Due to the bet they made during the Grand Magic Games, the time has finally come for Team Fairy Tail A and B to decide who will have the privilege to make the other team do whatever they desire, leading to a day's worth of antics from the two parties.",
   "animeImg": "https://gogocdn.net/cover/fairy-tail-2014-ova.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fairy-tail-2014-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fairy-tail-2014-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fairy-tail-2014-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

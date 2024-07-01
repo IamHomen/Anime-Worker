@@ -10,5 +10,30 @@
   "synopsis": "Specials bundled with the Blu-ray volumes of Mob Psycho 100.",
   "animeImg": "https://gogocdn.net/cover/mob-psycho-mini.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mob-psycho-mini-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mob-psycho-mini-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mob-psycho-mini-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mob-psycho-mini-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mob-psycho-mini-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mob-psycho-mini-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

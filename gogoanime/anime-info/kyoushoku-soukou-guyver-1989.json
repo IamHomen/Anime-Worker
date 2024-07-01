@@ -13,5 +13,30 @@
   "synopsis": "Shou and his friend, Tetsurou, stumble upon a strange orb-like mechanism, the Guyver Unit, in the woods. It physically bonds with Shou and turns him into the alien soldier, Guyver. His mission is to protect the Guyver Unit from the Japanese corporation known as Chronos. They are after it and two other units just like it. To retrieve the object, they send out vicious monsters known as Zoanoids. So no one is safe in Shou's life; not even himself.",
   "animeImg": "https://gogocdn.net/cover/kyoushoku-soukou-guyver-1989.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kyoushoku-soukou-guyver-1989-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kyoushoku-soukou-guyver-1989-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kyoushoku-soukou-guyver-1989-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kyoushoku-soukou-guyver-1989-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kyoushoku-soukou-guyver-1989-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kyoushoku-soukou-guyver-1989-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

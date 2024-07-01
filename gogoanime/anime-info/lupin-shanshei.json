@@ -12,5 +12,50 @@
   "synopsis": "Series of 10 shorts parodying the popular classic anime Lupin III.",
   "animeImg": "https://gogocdn.net/cover/lupin-shanshei.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lupin-shanshei-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "lupin-shanshei-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "lupin-shanshei",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

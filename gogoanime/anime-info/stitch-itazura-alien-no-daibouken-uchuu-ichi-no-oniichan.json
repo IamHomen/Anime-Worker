@@ -13,5 +13,10 @@
   "synopsis": "An exclusive episode showing the guest character, Kijimunaa's sister, who looks like Kijimunaa and is pink.",
   "animeImg": "https://gogocdn.net/cover/stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

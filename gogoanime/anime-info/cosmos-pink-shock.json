@@ -13,5 +13,10 @@
   "synopsis": "Based on a 1984 serial on the \"Animevision\" video magazine. The original material was compiled into this one-shot video.",
   "animeImg": "https://gogocdn.net/cover/cosmos-pink-shock.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cosmos-pink-shock-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

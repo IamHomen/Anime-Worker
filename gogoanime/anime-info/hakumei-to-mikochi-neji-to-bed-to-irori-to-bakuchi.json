@@ -12,5 +12,10 @@
   "synopsis": "Special episode included in the second Blu-ray/DVD volume.",
   "animeImg": "https://gogocdn.net/cover/hakumei-to-mikochi-neji-to-bed-to-irori-to-bakuchi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hakumei-to-mikochi-neji-to-bed-to-irori-to-bakuchi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

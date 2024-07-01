@@ -12,5 +12,18 @@
   "synopsis": "The anime shorts, each roughly two minutes long, started running before feature films in Tokyo's Shinjuku Wald 9 and other theaters in the T-Joy chain.Source: ANN",
   "animeImg": "https://gogocdn.net/images/anime/D/Donyatsu.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "donyatsu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "donyatsu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "donyatsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/fatekaleid-liner-prismaillya-movie-sekka-no-chikai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-movie-sekka-no-chikai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,14 @@
   "synopsis": "Aiming to become a modeling artist, Itsuki, a childhood friend of Ichitaka who went to America has come back to Japan. Iori who refused the idol path and started to pursue her ambition to become an actress instead. Ichitaka, wandering on his bicycle alone, tries to decide his choice between the two persons.",
   "animeImg": "https://gogocdn.net/cover/is-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "is-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "is-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

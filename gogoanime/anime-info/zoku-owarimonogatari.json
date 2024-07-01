@@ -13,5 +13,30 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/zoku-owarimonogatari.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zoku-owarimonogatari-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "zoku-owarimonogatari-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "zoku-owarimonogatari-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "zoku-owarimonogatari-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "zoku-owarimonogatari-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "zoku-owarimonogatari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

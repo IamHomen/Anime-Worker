@@ -11,5 +11,38 @@
   "synopsis": "Commercial web animation made for Nissan Note. Despite being a commercial, the content is highly independent, starting with a little girl keep asking everyone what is \"Teinenpi\", a kanji word meaning low fuel cost.\r\n\r\nIt features a parody of the classic anime \"Heidi\" in 1974 but directed by Mr. Fumihara Satoshi, the director of the gag anime \"The World of Golden Eggs\".\r\n\r\nIt also features Mr. Koumoto Junichi playing multiple roles including: Heidi's Grandpa, Peter, Kurara and the sheep!",
   "animeImg": "https://gogocdn.net/cover/teinenpi-shoujo-heidi.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "teinenpi-shoujo-heidi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

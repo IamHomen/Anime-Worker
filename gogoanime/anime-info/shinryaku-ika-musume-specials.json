@@ -10,5 +10,14 @@
   "synopsis": "\"Mini Ika-Musume\" side-story episodes.",
   "animeImg": "https://gogocdn.net/cover/shinryaku-ika-musume-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shinryaku-ika-musume-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shinryaku-ika-musume-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

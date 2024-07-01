@@ -14,5 +14,58 @@
   "synopsis": "Hellsing follows the antiheroic vampire, Alucard, and a police girl-turned-vampire, Seras Victoria, two vampires employed by the vampire-extermination group of England, the Hellsing Organization. Slowly but surely, through their active duty, they find a new breed of vampires beginning to arise.",
   "animeImg": "https://gogocdn.net/images/anime/H/hellsing.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hellsing-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "hellsing-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "hellsing-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "hellsing-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "hellsing-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "hellsing-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "hellsing-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "hellsing-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hellsing-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hellsing-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hellsing-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hellsing-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hellsing-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "An adaptation of Hans Christian Andersen's The Snow Queen in a central Asian setting",
   "animeImg": "https://gogocdn.net/cover/kai-geoul-hosu-ui-jeonseol.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kai-geoul-hosu-ui-jeonseol-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

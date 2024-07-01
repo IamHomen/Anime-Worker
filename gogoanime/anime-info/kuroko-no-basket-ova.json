@@ -13,5 +13,10 @@
   "synopsis": "Bundled with the 25th volume of Kuroko no Basket manga. The anime based on the Baka Ja Katenai no yo (??????????) story that was featured in the manga\u2019s fifth volume.",
   "animeImg": "https://gogocdn.net/images/Kuroko-no-Basket-OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kuroko-no-basket-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

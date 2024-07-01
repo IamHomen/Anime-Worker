@@ -10,5 +10,54 @@
   "synopsis": "The comedy anime centers on five girls and one cat all living as housemates in Nakano, Tokyo: the three Himote sisters (Tokiyo, Kinami, and Kokoro) whose family manages the \"Himote House,\" Kokoro's classmates Tae and Minamo, and the cat Enishi. The girls live their daily lives trying to figure out ways to be popular, and they (and the cat) all possess a mysterious secret power...",
   "animeImg": "https://gogocdn.net/cover/himote-house.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "himote-house-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "himote-house-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "himote-house-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "himote-house-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "himote-house-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "himote-house-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "himote-house-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "himote-house-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "himote-house-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "himote-house-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "himote-house-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "himote-house-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

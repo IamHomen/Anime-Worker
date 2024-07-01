@@ -14,5 +14,42 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/xi-xing-ji-kuang-wang.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "xi-xing-ji-kuang-wang-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

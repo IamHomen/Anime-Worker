@@ -12,5 +12,18 @@
   "synopsis": "New anime episodes released with each of the three iDOLM@STER Shiny Festa PSP games (Honey Sound, Funky Note, and Groovy Tune).",
   "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-festa.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-idolmster-shiny-festa-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "the-idolmster-shiny-festa-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "the-idolmster-shiny-festa-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

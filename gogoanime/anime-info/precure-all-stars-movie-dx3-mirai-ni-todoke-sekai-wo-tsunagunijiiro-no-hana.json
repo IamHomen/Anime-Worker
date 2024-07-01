@@ -13,5 +13,10 @@
   "synopsis": "Precure 10th Anniversary Movie and 3rd Precure All Stars DX. Enemies are from all the Precure works.",
   "animeImg": "https://gogocdn.net/cover/precure-all-stars-movie-dx3-mirai-ni-todoke-sekai-wo-tsunagunijiiro-no-hana.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "precure-all-stars-movie-dx3-mirai-ni-todoke-sekai-wo-tsunagunijiiro-no-hana-episode-3",
+      "episodeNum": "Episode 3"
+    }
+  ]
 }

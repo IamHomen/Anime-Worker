@@ -11,5 +11,62 @@
   "synopsis": "Extra bits meant to add to the Blue Seed story.\r\n\r\nEpisodes 1-13 are extras shown on the video releases of Blue Seed in Japan. They take place after every other episode, such as Omake 1 follows episode 2.\r\n\r\nEpisode 14 is an extra featured with OVA Blue Seed 1.5.",
   "animeImg": "https://gogocdn.net/cover/blue-seed-omake-dub.png",
   "totalEpisodes": "14",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "blue-seed-omake-dub-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "blue-seed-omake-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

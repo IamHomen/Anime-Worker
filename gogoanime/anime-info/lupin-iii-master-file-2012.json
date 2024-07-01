@@ -12,5 +12,10 @@
   "synopsis": "Special included with the Lupin 40th anniversary Blu-ray set.",
   "animeImg": "https://gogocdn.net/images/25.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lupin-iii-master-file-2012-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

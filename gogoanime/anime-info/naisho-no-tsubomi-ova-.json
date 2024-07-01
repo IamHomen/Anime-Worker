@@ -14,5 +14,18 @@
   "synopsis": "Tsubomi is a little girl who is in the process of growing up. The show follows her as she discovers many things about life, she likes a boy for the first time and for example learns where babies come from when her mother is pregnant again.",
   "animeImg": "https://gogocdn.net/images/anime/N/naisho-no-tsubomi-ova.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "naisho-no-tsubomi-ova--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "naisho-no-tsubomi-ova--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "naisho-no-tsubomi-ova--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

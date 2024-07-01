@@ -13,5 +13,10 @@
   "synopsis": "Theatrical film of the anime series Tatakae!! Ramenman, based on the manga chapter \"Strike the Darkness\".\r\n\r\nIt was released in Japan on July 9, 1988 and is set sometime after the Mongol Tiger two-parter.",
   "animeImg": "https://gogocdn.net/cover/tatakae-ramenman-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tatakae-ramenman-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

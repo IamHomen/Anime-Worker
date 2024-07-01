@@ -14,5 +14,14 @@
   "synopsis": "OVA bundled with Ni\u03b8 Art Works Vol. 2, featuring a new character named Kagekatsu Uesugi.",
   "animeImg": "https://gogocdn.net/images/Hyakka Ryouran Samurai Girls OVA.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hyakka-ryouran-samurai-girls-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hyakka-ryouran-samurai-girls-ova--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

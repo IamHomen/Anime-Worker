@@ -12,5 +12,58 @@
   "synopsis": "Mini anime for Munou na Nana released weekly on the official Twitter and website.",
   "animeImg": "https://gogocdn.net/cover/munou-na-nana-mini-anime.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "munou-na-nana-mini-anime-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

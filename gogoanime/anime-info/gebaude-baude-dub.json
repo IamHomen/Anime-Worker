@@ -11,5 +11,46 @@
   "synopsis": "Final chapter of Disney's Fireball series.",
   "animeImg": "https://gogocdn.net/cover/gebaude-baude-dub.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gebaude-baude-dub-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gebaude-baude-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

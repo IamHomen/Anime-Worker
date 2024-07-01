@@ -15,5 +15,22 @@
   "synopsis": "Federation troops and Zeon forces carry out a fierce battle in the Thunderbolt Sector in what was once Side 4 \"Mua\". The Thunderbolt Sector is a shoal zone composed of the debris of destroyed space colonies, named for the electrical discharges from the metal debris. MS pilot Io Flemming is among the Federation soldiers who are dispatched to the area, where Zeon sniper Daryl Lorenz awaits them on the battlefield",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-gundam-thunderbolt.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-gundam-thunderbolt-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mobile-suit-gundam-thunderbolt-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mobile-suit-gundam-thunderbolt-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mobile-suit-gundam-thunderbolt-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

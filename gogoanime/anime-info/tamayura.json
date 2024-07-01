@@ -12,5 +12,14 @@
   "synopsis": "A \"healing story\" OVA from director Satou Junichi, the director of Aria and Umi Monogatari. The story takes place in Seto Inland Sea and is about a girl who likes taking pictures.",
   "animeImg": "https://gogocdn.net/cover/tamayura.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamayura-episode-2",
+      "episodeNum": "Episode 3.4"
+    },
+    {
+      "episodeId": "tamayura-episode-1",
+      "episodeNum": "Episode 1.2"
+    }
+  ]
 }

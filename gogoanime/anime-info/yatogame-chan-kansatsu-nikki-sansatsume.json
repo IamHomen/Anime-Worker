@@ -13,5 +13,54 @@
   "synopsis": "Third season of Yatogame-chan Kansatsu Nikki.",
   "animeImg": "https://gogocdn.net/cover/yatogame-chan-kansatsu-nikki-sansatsume.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yatogame-chan-kansatsu-nikki-sansatsume-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

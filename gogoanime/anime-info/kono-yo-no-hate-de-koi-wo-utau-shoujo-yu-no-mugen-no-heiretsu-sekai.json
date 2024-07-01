@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode included with the third Blu-ray volume.",
   "animeImg": "https://gogocdn.net/cover/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

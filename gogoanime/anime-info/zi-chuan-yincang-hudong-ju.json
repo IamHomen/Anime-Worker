@@ -12,5 +12,42 @@
   "synopsis": "Alternative timelines of plot points from Zi Chuan.",
   "animeImg": "https://gogocdn.net/cover/zi-chuan-yincang-hudong-ju.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "zi-chuan-yincang-hudong-ju-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

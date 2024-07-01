@@ -12,5 +12,14 @@
   "synopsis": "OVA of Baka to Test to Shoukanjuu which was announced to be released before the start of the second series.",
   "animeImg": "https://gogocdn.net/cover/baka-to-test-to-shoukanjuu-matsuri-dub.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "baka-to-test-to-shoukanjuu-matsuri-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "baka-to-test-to-shoukanjuu-matsuri-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

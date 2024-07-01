@@ -13,5 +13,10 @@
   "synopsis": "Mari and Kinnikuman's Championship Belt are stolen by the Octopus Dragon and his minions. Now Kinnikuman and the other Justice Choujins must travel to Planet Metro and compete in a tournament in order to win them back.",
   "animeImg": "https://gogocdn.net/cover/kinnikuman-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kinnikuman-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

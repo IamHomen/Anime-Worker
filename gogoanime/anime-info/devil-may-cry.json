@@ -12,5 +12,54 @@
   "synopsis": "Devil May Cry follows the adventures of the demon hunter Dante who himself is half demon and half human. Dante is hired through his own business named \u201cDevil May Cry\u201d. The characters are based off of the popular capcom playstation 2 games.",
   "animeImg": "https://gogocdn.net/images/anime/D/devil-may-cry.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "devil-may-cry-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "devil-may-cry-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

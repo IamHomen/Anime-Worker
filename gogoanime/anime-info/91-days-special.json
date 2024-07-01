@@ -12,5 +12,10 @@
   "synopsis": "Episode 13 of 91 Days.",
   "animeImg": "https://gogocdn.net/cover/91-days-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "91-days-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

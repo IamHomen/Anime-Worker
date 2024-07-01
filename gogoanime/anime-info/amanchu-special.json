@@ -13,5 +13,10 @@
   "synopsis": "An unaired episode bundled with the seventh BD volume of the Amanchu! anime series.",
   "animeImg": "https://gogocdn.net/cover/amanchu-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "amanchu-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

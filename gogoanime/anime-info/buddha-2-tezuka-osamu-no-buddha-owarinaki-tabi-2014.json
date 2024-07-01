@@ -12,5 +12,10 @@
   "synopsis": "Second Buddha movie from Tezuka Productions.",
   "animeImg": "https://gogocdn.net/cover/buddha-2-tezuka-osamu-no-buddha-owarinaki-tabi-2014.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "buddha-2-tezuka-osamu-no-buddha-owarinaki-tabi-2014-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

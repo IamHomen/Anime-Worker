@@ -11,5 +11,38 @@
   "synopsis": "The fifth season of Future Card Buddyfight.",
   "animeImg": "https://gogocdn.net/cover/future-card-buddyfight-battsu-all-star-fight-dub.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "future-card-buddyfight-battsu-all-star-fight-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

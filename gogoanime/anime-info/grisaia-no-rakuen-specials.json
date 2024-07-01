@@ -11,5 +11,26 @@
   "synopsis": "Short specials included in the Blu-ray and DVD releases.",
   "animeImg": "https://gogocdn.net/images/upload/gri.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "grisaia-no-rakuen-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "grisaia-no-rakuen-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "grisaia-no-rakuen-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "grisaia-no-rakuen-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "grisaia-no-rakuen-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

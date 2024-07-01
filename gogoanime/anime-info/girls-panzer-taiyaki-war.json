@@ -12,5 +12,10 @@
   "synopsis": "Special included with Girls & Panzer: Saishuushou Part 2 Blu-ray and DVD.",
   "animeImg": "https://gogocdn.net/cover/girls-panzer-taiyaki-war.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "girls-panzer-taiyaki-war-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,30 @@
   "synopsis": "Mini-OVA specials bundled with each Blu-ray/DVD volume of\u00a0Kenzen Robo Daimidaler.",
   "animeImg": "https://gogocdn.net/images/spring/Kenzen Robo Daimidaler.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kenzen-robo-daimidaler-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kenzen-robo-daimidaler-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kenzen-robo-daimidaler-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kenzen-robo-daimidaler-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kenzen-robo-daimidaler-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kenzen-robo-daimidaler-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

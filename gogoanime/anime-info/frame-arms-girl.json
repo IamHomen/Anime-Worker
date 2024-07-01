@@ -10,5 +10,54 @@
   "synopsis": "Based on Kotobukiya's Frame Arms Girl model kit line. The anime will focus on Gourai, the first model released for the line, as well as Stylet and Baselard.",
   "animeImg": "https://gogocdn.net/cover/frame-arms-girl.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "frame-arms-girl-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "frame-arms-girl-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

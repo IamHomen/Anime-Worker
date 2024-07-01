@@ -15,5 +15,10 @@
   "synopsis": "First part of two Hakuouki movies.",
   "animeImg": "https://gogocdn.net/images/Hakuouki - Kyoto Ranbu.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hakuouki-kyoto-ranbu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

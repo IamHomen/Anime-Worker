@@ -12,5 +12,22 @@
   "synopsis": "Tadashi Matsushita has recently entered the Kansai Fifth Technical High School and joined its notorious karate club. There he meets his captain, Yoshiyuki Takagi, an incredibly strong individual. Feared and respected throughout Osaka, Takagi is deep down an honorable and compassionate guy despite his violent endeavors.",
   "animeImg": "https://gogocdn.net/cover/osu-karate-bu.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "osu-karate-bu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "osu-karate-bu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "osu-karate-bu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "osu-karate-bu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

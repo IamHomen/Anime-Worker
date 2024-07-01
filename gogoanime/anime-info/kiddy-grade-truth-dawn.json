@@ -13,5 +13,10 @@
   "synopsis": "This Movie is the retelling of the original anime's final.",
   "animeImg": "https://gogocdn.net/images/111.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kiddy-grade-truth-dawn-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

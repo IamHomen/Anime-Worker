@@ -13,5 +13,34 @@
   "synopsis": "TV version of Kimetsu no Yaiba Movie: Mugen Ressha-hen.\r\n\r\nThe series includes an all-new episode 1 featuring the day leading up to the events in the movie, plus re-edited 6 episodes featuring new scenes and music, for a total of 7 episodes.",
   "animeImg": "https://gogocdn.net/cover/kimetsu-no-yaiba-mugen-ressha-hen.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

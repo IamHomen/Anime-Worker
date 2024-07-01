@@ -16,5 +16,10 @@
   "synopsis": "Luffy and His 4 Crewmates' Big Adventure is a TV Special of the One Piece anime. It is an abridged retelling of the entire East Blue Saga, and will also animate several cover pages.",
   "animeImg": "https://gogocdn.net/cover/one-piece-episode-of-east-blue.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-episode-of-east-blue-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

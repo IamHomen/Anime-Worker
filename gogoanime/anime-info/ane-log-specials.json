@@ -10,5 +10,18 @@
   "synopsis": "In addition to the flash anime, 3 short special episodes were included on the Ane Log Fan Disc. Episodes #1: Sekai no Ane Ijin no Jikan #2: Moya-nee Boot Camp #3: Ane Denwa Soudan",
   "animeImg": "https://gogocdn.net/images/upload/ane_log.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ane-log-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ane-log-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ane-log-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

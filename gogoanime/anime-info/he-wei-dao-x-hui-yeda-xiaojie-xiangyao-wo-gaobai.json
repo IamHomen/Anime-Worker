@@ -12,5 +12,14 @@
   "synopsis": "Cup noodle ads featuring Kaguya-sama's characters.",
   "animeImg": "https://gogocdn.net/cover/he-wei-dao-x-hui-yeda-xiaojie-xiangyao-wo-gaobai.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "he-wei-dao-x-hui-yeda-xiaojie-xiangyao-wo-gaobai-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "he-wei-dao-x-hui-yeda-xiaojie-xiangyao-wo-gaobai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

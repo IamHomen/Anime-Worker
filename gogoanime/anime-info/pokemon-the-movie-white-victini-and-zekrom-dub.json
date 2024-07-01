@@ -12,5 +12,10 @@
   "synopsis": "One of the two Pokemon Best Wishes movies that will premiere simultaneously on July 16th. The two titles are:\r\n\r\nPokemon Best Wishes! the Movie: Victini to Kuroki Eiyuu Zekrom\r\nPokemon Best Wishes! the Movie: Victini to Shiroki Eiyuu Reshiram\r\n\r\nThe stories of the two movies will be the same until Satoshi and Pikachu meet Victini but the legendary Pokemon will be either Zekrom or Reshiram.",
   "animeImg": "https://gogocdn.net/cover/pokemon-the-movie-white-victini-and-zekrom-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-the-movie-white-victini-and-zekrom-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

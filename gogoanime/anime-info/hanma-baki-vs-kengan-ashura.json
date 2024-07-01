@@ -10,5 +10,10 @@
   "synopsis": "A crossover anime movie between Hanma Baki and Kengan Ashura.",
   "animeImg": "https://gogocdn.net/cover/hanma-baki-vs-kengan-ashura.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hanma-baki-vs-kengan-ashura-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

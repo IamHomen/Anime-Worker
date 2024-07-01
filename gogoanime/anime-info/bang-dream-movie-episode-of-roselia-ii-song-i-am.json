@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/bang-dream-movie-episode-of-roselia-ii-song-i-am.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bang-dream-movie-episode-of-roselia-ii-song-i-am-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

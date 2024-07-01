@@ -10,5 +10,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a",
   "animeImg": "https://gogocdn.net/cover/inu-to-shounen-1675756856.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inu-to-shounen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

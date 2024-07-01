@@ -12,5 +12,10 @@
   "synopsis": "Episode 0 of Robot Girls Z.",
   "animeImg": "https://gogocdn.net/cover/robot-girls-z-episode-0.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "robot-girls-z-episode-0-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

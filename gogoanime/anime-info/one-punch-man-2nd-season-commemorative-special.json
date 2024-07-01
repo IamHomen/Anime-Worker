@@ -15,5 +15,10 @@
   "synopsis": "One Punch Man 2nd Season's commemorative recap special.",
   "animeImg": "https://gogocdn.net/cover/one-punch-man-2nd-season-commemorative-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-punch-man-2nd-season-commemorative-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "synopsis": "A commentary recap episode of the first 6 episodes.",
   "animeImg": "https://gogocdn.net/cover/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-recap.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-recap-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

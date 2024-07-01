@@ -12,5 +12,30 @@
   "synopsis": "The science lessons are short \"omake\" bonus features originally present on the first two volumes. Each short lasts around two minutes, and stars super deformed versions of Noriko, Kazumi and the Coach explaining the various scientific aspects of the series.",
   "animeImg": "https://gogocdn.net/cover/top-wo-nerae-kagaku-kouza.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "top-wo-nerae-kagaku-kouza-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "top-wo-nerae-kagaku-kouza-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "top-wo-nerae-kagaku-kouza-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "top-wo-nerae-kagaku-kouza-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "top-wo-nerae-kagaku-kouza-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "top-wo-nerae-kagaku-kouza-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

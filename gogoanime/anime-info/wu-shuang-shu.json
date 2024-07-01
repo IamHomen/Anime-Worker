@@ -10,5 +10,46 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/wu-shuang-shu.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wu-shuang-shu-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wu-shuang-shu-episode-1-3-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

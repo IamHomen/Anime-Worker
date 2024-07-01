@@ -11,5 +11,30 @@
   "synopsis": "The adventure of Hepoi, a hero of heporis, Ryuuto, the prince of Dragonia, Miiya Miiya a fairy looks like a cat, and Bunzaemon, a merchant, to defeat Dracunes, the King of dark side castles.",
   "animeImg": "https://gogocdn.net/cover/rpg-densetsu-hepoi.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rpg-densetsu-hepoi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "rpg-densetsu-hepoi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "rpg-densetsu-hepoi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "rpg-densetsu-hepoi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "rpg-densetsu-hepoi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "rpg-densetsu-hepoi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

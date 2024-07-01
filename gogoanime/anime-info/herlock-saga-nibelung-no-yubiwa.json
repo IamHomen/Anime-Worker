@@ -15,5 +15,30 @@
   "synopsis": "Captain Herlock is drawn into a saga of intergalactic proportions when the son of a deceased comrade unwittingly forges the Ring of the Niebelung. Evil forces gather to wage war against the last remaining superpowers of the galaxy led by a demented outcast. Herlock must counter the amassed armadas that threaten the last gods and recover the ring before Paradise is lost.",
   "animeImg": "https://gogocdn.net/cover/herlock-saga-nibelung-no-yubiwa.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "herlock-saga-nibelung-no-yubiwa-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "herlock-saga-nibelung-no-yubiwa-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "herlock-saga-nibelung-no-yubiwa-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "herlock-saga-nibelung-no-yubiwa-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "herlock-saga-nibelung-no-yubiwa-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "herlock-saga-nibelung-no-yubiwa-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,10 @@
   "synopsis": "The OVA, bundled with the special edition version of the seventh manga volume, will tell an \"other side\" story centered on Mafuyu Satou and Ritsuka Uenoyama that wasn't featured in the Given movie.",
   "animeImg": "https://gogocdn.net/cover/given-uragawa-no-sonzai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "given-uragawa-no-sonzai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

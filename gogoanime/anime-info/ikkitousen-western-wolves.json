@@ -15,5 +15,18 @@
   "synopsis": "Ikkitousen OVA.",
   "animeImg": "https://gogocdn.net/cover/ikkitousen-western-wolves.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ikkitousen-western-wolves-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ikkitousen-western-wolves-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ikkitousen-western-wolves-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

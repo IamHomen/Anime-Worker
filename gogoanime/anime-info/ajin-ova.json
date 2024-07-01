@@ -14,5 +14,18 @@
   "synopsis": "New episodes bundled with the limited edition eighth and ninth manga volumes.",
   "animeImg": "https://gogocdn.net/cover/ajin-ova.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ajin-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ajin-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ajin-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

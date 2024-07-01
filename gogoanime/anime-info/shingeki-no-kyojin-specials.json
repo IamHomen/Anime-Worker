@@ -14,5 +14,38 @@
   "synopsis": "Shingeki no Kyojin: Chimi Kyara Gekijou \u2013 Tondeke! Kunren Heidan Specials included in BD/DVD.",
   "animeImg": "https://gogocdn.net/images/shingeki-no-kyojin-specials.jpg",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

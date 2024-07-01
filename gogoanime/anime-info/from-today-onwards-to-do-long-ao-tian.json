@@ -11,5 +11,34 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/from-today-onwards-to-do-long-ao-tian.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "from-today-onwards-to-do-long-ao-tian-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "from-today-onwards-to-do-long-ao-tian-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "from-today-onwards-to-do-long-ao-tian-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "from-today-onwards-to-do-long-ao-tian-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "from-today-onwards-to-do-long-ao-tian-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "from-today-onwards-to-do-long-ao-tian-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "from-today-onwards-to-do-long-ao-tian-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,14 @@
   "synopsis": "The story centers around a timid orphan named Mizumura Shinta who goes to a missionary school in Tokyo. His seemingly normal life changes when a beautiful half-human Romanian girl named Lilith suddenly transfers into his school. Mizumura discovers that he is actually a vampire hunter and the successor of the Romuald lineage.",
   "animeImg": "https://gogocdn.net/cover/holy-knight-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "holy-knight-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "holy-knight-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

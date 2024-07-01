@@ -10,5 +10,10 @@
   "synopsis": "An animated film series based on the Ao Oni game. It will feature a new story.",
   "animeImg": "https://gogocdn.net/cover/ao-oni-the-animation-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ao-oni-the-animation-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

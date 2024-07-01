@@ -12,5 +12,10 @@
   "synopsis": "4th Anpanman short movie.",
   "animeImg": "https://gogocdn.net/cover/sore-ike-anpanman-yuurei-sen-wo-yattsukero.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-ike-anpanman-yuurei-sen-wo-yattsukero-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

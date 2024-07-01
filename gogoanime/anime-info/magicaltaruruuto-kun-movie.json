@@ -16,5 +16,10 @@
   "synopsis": "First movie of Magical Taruruuto-kun",
   "animeImg": "https://gogocdn.net/cover/magicaltaruruuto-kun-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "magicaltaruruuto-kun-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

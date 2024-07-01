@@ -14,5 +14,22 @@
   "synopsis": "The second film in a duology of Uchuu Senkan Yamato 2205: Aratanaru Tabidachi.",
   "animeImg": "https://gogocdn.net/cover/uchuu-senkan-yamato-2205-aratanaru-tabidachi-koushou-stasha.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-senkan-yamato-2205-aratanaru-tabidachi-koushou-stasha-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "uchuu-senkan-yamato-2205-aratanaru-tabidachi-koushou-stasha-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "uchuu-senkan-yamato-2205-aratanaru-tabidachi-koushou-stasha-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "uchuu-senkan-yamato-2205-aratanaru-tabidachi-koushou-stasha-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

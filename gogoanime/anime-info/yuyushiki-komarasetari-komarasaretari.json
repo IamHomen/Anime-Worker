@@ -10,5 +10,10 @@
   "synopsis": "Yuyushiki Special",
   "animeImg": "https://gogocdn.net/cover/yuyushiki-komarasetari-komarasaretari.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuyushiki-komarasetari-komarasaretari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

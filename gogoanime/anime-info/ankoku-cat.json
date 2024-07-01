@@ -11,5 +11,30 @@
   "synopsis": "Dark Side Cat, a mysterious stray cat, dashes throughout the night city in punk clothing and plays pranks on humans he dislikes. He plays a game of cat and mouse with the city council, known as the \"Stray Cat Hunt.\"",
   "animeImg": "https://gogocdn.net/cover/ankoku-cat.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ankoku-cat-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ankoku-cat-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ankoku-cat-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ankoku-cat-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ankoku-cat-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ankoku-cat-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

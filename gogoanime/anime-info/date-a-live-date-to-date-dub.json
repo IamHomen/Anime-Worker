@@ -14,5 +14,10 @@
   "synopsis": "Bundled with the 9th volume of the original novel, it is the unaired 13th episode of the TV series.",
   "animeImg": "https://gogocdn.net/cover/date-a-live-date-to-date-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "date-a-live-date-to-date-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

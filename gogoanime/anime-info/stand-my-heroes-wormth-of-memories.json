@@ -12,5 +12,10 @@
   "synopsis": "The OVA will be based on the Narumi Seo character map story event that was featured in the smartphone game in April 2018. Seo, who has a unique memory disorder, will appear alongside other heroes of the Seo Research Laboratory in the OVA.",
   "animeImg": "https://gogocdn.net/cover/stand-my-heroes-wormth-of-memories.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "stand-my-heroes-wormth-of-memories-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

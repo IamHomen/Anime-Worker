@@ -14,5 +14,22 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/wangzhe-rongyao-rongyao-zhi-zhang.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wangzhe-rongyao-rongyao-zhi-zhang-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wangzhe-rongyao-rongyao-zhi-zhang-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wangzhe-rongyao-rongyao-zhi-zhang-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wangzhe-rongyao-rongyao-zhi-zhang-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

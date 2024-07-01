@@ -10,5 +10,10 @@
   "synopsis": "Based on Matsumoto Itsuki's \"Mitsuwano\" light novel series. The story follows a group of young girls in Kyoto who dream of becoming maiko.",
   "animeImg": "https://gogocdn.net/images/00001.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mitsuwano-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

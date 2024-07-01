@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode bundled on 7th Blu-ray/DVD volume of Bokura wa Minna Kawaisou.",
   "animeImg": "https://gogocdn.net/images/upload/Bokura-wa-Minna-Kawaisou-Hajimete-no.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bokura-wa-minna-kawaisou-hajimete-no-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

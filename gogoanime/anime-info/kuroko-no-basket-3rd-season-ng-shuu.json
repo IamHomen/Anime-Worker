@@ -11,5 +11,42 @@
   "synopsis": "Animated bloopers included with the Blu-ray/DVD releases of the Kuroko no Basket 3rd Season.",
   "animeImg": "https://gogocdn.net/cover/kuroko-no-basket-3rd-season-ng-shuu.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kuroko-no-basket-3rd-season-ng-shuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

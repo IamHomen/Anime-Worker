@@ -16,5 +16,38 @@
   "synopsis": "Third season of Hitori no Shita: The Outcast.",
   "animeImg": "https://gogocdn.net/cover/hitori-no-shita-the-outcast-3rd-season.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hitori-no-shita-the-outcast-3rd-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

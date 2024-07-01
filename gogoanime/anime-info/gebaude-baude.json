@@ -11,5 +11,46 @@
   "synopsis": "The final chapter of Fireball.",
   "animeImg": "https://gogocdn.net/cover/gebaude-baude.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gebaude-baude-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gebaude-baude-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

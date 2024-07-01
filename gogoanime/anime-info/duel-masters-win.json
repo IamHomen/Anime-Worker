@@ -13,5 +13,26 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/duel-masters-win.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "duel-masters-win-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "duel-masters-win-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "duel-masters-win-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "duel-masters-win-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "duel-masters-win-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

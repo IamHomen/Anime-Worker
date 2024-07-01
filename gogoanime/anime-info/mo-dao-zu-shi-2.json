@@ -14,5 +14,38 @@
   "synopsis": "Second season of Mo Dao Zu Shi.",
   "animeImg": "https://gogocdn.net/cover/mo-dao-zu-shi-2.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mo-dao-zu-shi-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

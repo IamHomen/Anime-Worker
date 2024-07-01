@@ -12,5 +12,22 @@
   "synopsis": "Set in the Meiji era, Kidou Shinsengumi Moeyo Ken tells the story of Kondou Yuuko, Hijikata Toshie and Okita Kaoru. These three are the daughters of former Shinsengumi members and, in the same fashion as their fathers were, they get called upon to protect Japan from its current problems. Much of their work deals with vanquishing the mysterious paranormal phenomena springing up ever more frequently in the Kyoto area and defending the city from any other dangers that may arise.",
   "animeImg": "https://gogocdn.net/cover/kidou-shinsengumi-moeyo-ken.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kidou-shinsengumi-moeyo-ken-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kidou-shinsengumi-moeyo-ken-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kidou-shinsengumi-moeyo-ken-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kidou-shinsengumi-moeyo-ken-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

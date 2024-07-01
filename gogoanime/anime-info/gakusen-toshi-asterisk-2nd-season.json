@@ -17,5 +17,54 @@
   "synopsis": "Second season of Gakusen Toshi Asterisk.",
   "animeImg": "https://gogocdn.net/cover/gakusen-toshi-asterisk-2nd-season.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gakusen-toshi-asterisk-2nd-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "In the upcoming Monthly Comic Zenon magazine, it is previewed that there will be a new OVA version of City Hunter, which is coinciding with the release of the updated City Hunter XYZ Edition manga on July 18. This special edition, celebrating City Hunter's 30th anniversary, will feature a brand-new animation and voice cast for the OVA.",
   "animeImg": "https://gogocdn.net/cover/city-hunter-ryou-no-propose.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "city-hunter-ryou-no-propose-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

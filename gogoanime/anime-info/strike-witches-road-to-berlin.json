@@ -14,5 +14,54 @@
   "synopsis": "A new Strike Witches anime was announced as a part of the franchise's 10th anniversary.",
   "animeImg": "https://gogocdn.net/cover/strike-witches-road-to-berlin.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "strike-witches-road-to-berlin-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

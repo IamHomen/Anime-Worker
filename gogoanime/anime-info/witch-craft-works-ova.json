@@ -13,5 +13,10 @@
   "synopsis": "DVD OVA of Witch Craft Works bundled with the eighth manga volume.",
   "animeImg": "https://gogocdn.net/images/upload/58011.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "witch-craft-works-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

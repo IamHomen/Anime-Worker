@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode pre-screened at the event and later included with the 5th Blu-ray/DVD release.",
   "animeImg": "https://gogocdn.net/cover/tsurune-kazemai-koukou-kyuudoubu-yabai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tsurune-kazemai-koukou-kyuudoubu-yabai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

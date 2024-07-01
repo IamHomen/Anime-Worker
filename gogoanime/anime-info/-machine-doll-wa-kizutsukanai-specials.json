@@ -14,5 +14,30 @@
   "synopsis": "Original animation to be included in the BD and DVD volume releases of Machine-Doll wa Kizutsukanai. Volume 1: \"Soshite Futari wa Manabisha e (Then The Two Goes to Learning Dorm)\" Volume 2: \"Irori, Rotenburo de Sosou suru (Irori being Careless at Open Air Hot Spring)\" Volume 3: \"Char and Frey, Senritsu no Bathroom (Charlotte and Frey, Fearsome Bathroom)\" Volume 4: \"Akabane Nadeshiko, Natsu no Yo no Yume (Nadeshiko Akabane's Midnight Dream)\" Volume 5: \"Kojin Jugyou: Imishitsu de Bijo Futari to~ (Private Lesson: Alone In the Nurse Room with the Pretty Lady)\" Volume 6: \"Bishoujo Shuugou! Mizugi Darake no Daisoudou (Pretty Girls Gathered! The Great Tumult of Full of Swimming Suits)\"",
   "animeImg": "https://gogocdn.net/images/Machine-Doll-wa-Kizutsukanai-Specials.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "-machine-doll-wa-kizutsukanai-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "-machine-doll-wa-kizutsukanai-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "-machine-doll-wa-kizutsukanai-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "-machine-doll-wa-kizutsukanai-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "-machine-doll-wa-kizutsukanai-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "-machine-doll-wa-kizutsukanai-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

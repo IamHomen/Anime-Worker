@@ -13,5 +13,54 @@
   "synopsis": "Third season of Mob Psycho 100.",
   "animeImg": "https://gogocdn.net/cover/mob-psycho-100-iii-1664389233.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mob-psycho-100-iii-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mob-psycho-100-iii-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

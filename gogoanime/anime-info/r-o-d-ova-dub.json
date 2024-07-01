@@ -11,5 +11,18 @@
   "synopsis": "A Kure-nai OVA featuring new character designs closer to the novel/manga.",
   "animeImg": "https://gogocdn.net/cover/r-o-d-ova-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "r-o-d-ova-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "r-o-d-ova-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "r-o-d-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

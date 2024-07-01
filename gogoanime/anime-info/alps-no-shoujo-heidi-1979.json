@@ -12,5 +12,10 @@
   "synopsis": "Condensed version of the entire TV series where all the voice actors, except for Heidi and the grandfather, were replaced.",
   "animeImg": "https://gogocdn.net/cover/alps-no-shoujo-heidi-1979.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "alps-no-shoujo-heidi-1979-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

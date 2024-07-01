@@ -14,5 +14,10 @@
   "synopsis": "The kids go on a space Mystery Train bound for a space theme park, when a race of alien virus strikes, wanting to take them as host bodies.",
   "animeImg": "https://gogocdn.net/cover/doraemon-movie-17-nobita-to-ginga-express.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doraemon-movie-17-nobita-to-ginga-express-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

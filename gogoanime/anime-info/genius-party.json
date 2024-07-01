@@ -17,5 +17,34 @@
   "synopsis": "A collection of seven individual and unique shorts which range from touching to downright bizarre. With each story different from the last, we encounter monsters going to school, a man who has a hard time dealing with himself, and a child who learns the hard way about the circle of life, as well as many other unique characters and experiences.\r\n\r\nA journey through the minds of the most prolific artists in Japan, this compilation truly is the setting of a Genius Party.",
   "animeImg": "https://gogocdn.net/cover/genius-party.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "genius-party-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "genius-party-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "genius-party-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "genius-party-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "genius-party-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "genius-party-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "genius-party-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

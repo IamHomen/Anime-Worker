@@ -14,5 +14,10 @@
   "synopsis": "Short Special included with the Blu-ray/DVD release of Boku no Hero Academia the Movie: Futari no Hero.",
   "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-all-might-rising-the-animation.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "boku-no-hero-academia-all-might-rising-the-animation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

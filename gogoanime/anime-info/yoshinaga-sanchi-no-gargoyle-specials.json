@@ -12,5 +12,26 @@
   "synopsis": "A magic book places Kazumi in a Wonderland-like world.",
   "animeImg": "https://gogocdn.net/cover/yoshinaga-sanchi-no-gargoyle-specials.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yoshinaga-sanchi-no-gargoyle-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yoshinaga-sanchi-no-gargoyle-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yoshinaga-sanchi-no-gargoyle-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yoshinaga-sanchi-no-gargoyle-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yoshinaga-sanchi-no-gargoyle-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

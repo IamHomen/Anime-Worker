@@ -11,5 +11,46 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/chang-jian-feng-yun.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chang-jian-feng-yun-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "chang-jian-feng-yun-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

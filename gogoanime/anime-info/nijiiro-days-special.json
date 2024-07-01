@@ -12,5 +12,10 @@
   "synopsis": "The series details the lives of four main characters named Natsuki, Tomoya, Keiichi, and Tsuyoshi. They spend their days trying to have fun by finishing their studies and debating about romance. Natsuki, one of the main characters, has a crush on a girl named Anna at school, while others often get involved in their relationship.",
   "animeImg": "https://gogocdn.net/cover/nijiiro-days-special.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nijiiro-days-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -18,5 +18,14 @@
   "synopsis": "subasa/xxxHOLiC Project\r\n\r\nA 4 part OVA released with the limited editions of the Tsubasa and xxxHOLiC volumes.\r\nThere are two OVAs for each series, with plots linked together.\r\n\r\nThey cover the Nihon Country Arc and scarcely some of the Celes Country Arc.",
   "animeImg": "https://gogocdn.net/cover/tsubasa-shunraiki-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tsubasa-shunraiki-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tsubasa-shunraiki-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

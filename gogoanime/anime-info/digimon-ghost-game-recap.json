@@ -13,5 +13,10 @@
   "synopsis": "Recap of the first 24 episodes of Digimon Ghost Game.",
   "animeImg": "https://gogocdn.net/cover/digimon-ghost-game-recap.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-ghost-game-recap-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

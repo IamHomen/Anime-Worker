@@ -12,5 +12,10 @@
   "synopsis": "Adaptation of the short story written by Manta Aisora for the first issue of GA Bunko magazine.",
   "animeImg": "https://gogocdn.net/cover/haiyore-nyaruko-san-yasashii-teki-no-shitome-kata.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haiyore-nyaruko-san-yasashii-teki-no-shitome-kata-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

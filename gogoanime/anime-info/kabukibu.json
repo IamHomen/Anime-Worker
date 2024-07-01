@@ -10,5 +10,54 @@
   "synopsis": "The series revolves around kabuki, a classic style of Japanese dance-drama that combines music, drama, and dance. Kurogo Kurusu, a 15-year-old high school student has a passion for kabuki and hopes to establish a kabuki club at school. Things are not easy as they seem when he realizes that he needs to find students to join him.",
   "animeImg": "https://gogocdn.net/cover/kabukibu.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kabukibu-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "kabukibu-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "kabukibu-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kabukibu-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kabukibu-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kabukibu-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kabukibu-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kabukibu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kabukibu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kabukibu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kabukibu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kabukibu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

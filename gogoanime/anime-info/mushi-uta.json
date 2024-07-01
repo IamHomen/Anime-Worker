@@ -12,5 +12,54 @@
   "synopsis": "Mushi-uta's story takes place in the near future. Ten years before the story's opening, strange insect-like creatures known as \"Mushi\" began appearing. The Mushi are able to consume peoples' dreams and thoughts in return for supernatural powers. At the end of episode one, protagonist Daisuke \"Kakkou\" Kusuriya encounters a young girl named Shiika Anmoto. The two, in time, become quite close. However, unbeknownst to Kakkou, Shiika is an escapee from a secret prison known as GARDEN where those posessed by the Mushi, known as the Mushitsuki are held. GARDEN's military force, the Special Environmental Conservation Executive Office, dispatches its finest killer to track down Shiika. However, they are faced with resistance from the Mushibane resistance organisation, led by the secretive \"Ladybird.\"",
   "animeImg": "https://gogocdn.net/cover/mushi-uta.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mushi-uta-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "mushi-uta-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "mushi-uta-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "mushi-uta-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mushi-uta-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mushi-uta-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mushi-uta-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mushi-uta-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mushi-uta-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mushi-uta-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mushi-uta-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mushi-uta-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

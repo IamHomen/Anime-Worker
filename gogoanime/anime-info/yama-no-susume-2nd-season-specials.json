@@ -12,5 +12,10 @@
   "synopsis": "Unaired episodes included in the Blu-ray/DVD releases of Volume 2 and Volume 7.",
   "animeImg": "https://gogocdn.net/images/upload/67577.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yama-no-susume-2nd-season-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

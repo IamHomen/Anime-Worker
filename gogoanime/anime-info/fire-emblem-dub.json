@@ -14,5 +14,14 @@
   "synopsis": "Prince Marth, heir to the throne of Aritia, has fled his homeland and the invaders bent on conquering the entire continent. Together with the Aritian Knights he hides and bides his time in the friendly island kingdom of Talus. Though criticized for constantly daydreaming or being in a bad mood, he has found a friend in Caeda, the princess of Talus. Together they indulge in hayrides and shopping trips, or just standing upon the parapet and looking out over the land. However, despite how pleasant life is, he cannot forget the circumstances that separated him from his land and forced his beloved sister to sacrifice herself for him.",
   "animeImg": "https://gogocdn.net/cover/fire-emblem-dub.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fire-emblem-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fire-emblem-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

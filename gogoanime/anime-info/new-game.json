@@ -11,5 +11,58 @@
   "synopsis": "The main character Suzukaze Aoba graduates from high school and joins a game company. The person who made the game that Aoba loved as a grade-schooler just happens to be Aoba's senior at the company. The story follows girls who work and aspire at the Eaglejump company.",
   "animeImg": "https://gogocdn.net/cover/new-game.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "new-game-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "new-game-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "new-game-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "new-game-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "new-game-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "new-game-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "new-game-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "new-game-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "new-game-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "new-game-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "new-game-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "new-game-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "new-game-episode-0",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

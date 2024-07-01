@@ -15,5 +15,10 @@
   "synopsis": "The story will focus on the high school days of Kishou Arima, the CCG's shinigami.",
   "animeImg": "https://gogocdn.net/images/upload/Tokyo-Ghoul-Jack.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tokyo-ghoul-jack--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

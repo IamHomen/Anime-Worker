@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/promare-lio-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "promare-lio-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

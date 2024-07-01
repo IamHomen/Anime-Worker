@@ -12,5 +12,10 @@
   "synopsis": "14th Anpanman movie.",
   "animeImg": "https://gogocdn.net/cover/sore-ike-anpanman-roll-to-laura-ukigumojou-no-himitsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-ike-anpanman-roll-to-laura-ukigumojou-no-himitsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

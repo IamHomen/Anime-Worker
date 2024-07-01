@@ -11,5 +11,18 @@
   "synopsis": "One night after leaving a club where he was playing trumpet, Ryou Takagi is jumped by a motorcycle gang. The scuffle spills out into the streets and causes a traffic accident. Because of this, Ryou is arrested and forced to do time. Upon his release, he has developed into a skilled boxer but trouble continues to find him.",
   "animeImg": "https://gogocdn.net/cover/burning-blood.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "burning-blood-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "burning-blood-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "burning-blood-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

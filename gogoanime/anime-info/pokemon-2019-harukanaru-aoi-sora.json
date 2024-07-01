@@ -13,5 +13,10 @@
   "synopsis": "A one-episode story depicting the encounter between the mysterious boy Haruto and Satoshi.",
   "animeImg": "https://gogocdn.net/cover/pokemon-2019-harukanaru-aoi-sora.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-2019-harukanaru-aoi-sora-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

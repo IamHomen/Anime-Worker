@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/holy-knight-light.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "holy-knight-light-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

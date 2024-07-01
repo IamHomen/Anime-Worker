@@ -15,5 +15,14 @@
   "synopsis": "Set a few months after the original series, Wataru is called into action once again!",
   "animeImg": "https://gogocdn.net/cover/shin-mashin-eiyuuden-wataru-majinzan.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shin-mashin-eiyuuden-wataru-majinzan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shin-mashin-eiyuuden-wataru-majinzan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

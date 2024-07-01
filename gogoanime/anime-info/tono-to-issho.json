@@ -14,5 +14,10 @@
   "synopsis": "The manga follows the humorous exploits of generals during Japan's tumultuous Sengoku (Era of the Warring States) period.",
   "animeImg": "https://gogocdn.net/images/anime/T/Tono-to-Issho.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tono-to-issho-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/cmfu-xueyuan-wangzi-peng-peng-qiu.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cmfu-xueyuan-wangzi-peng-peng-qiu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "cmfu-xueyuan-wangzi-peng-peng-qiu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "cmfu-xueyuan-wangzi-peng-peng-qiu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "cmfu-xueyuan-wangzi-peng-peng-qiu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

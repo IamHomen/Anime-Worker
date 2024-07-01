@@ -14,5 +14,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-sd-gundam-mk-iv-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-iv-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

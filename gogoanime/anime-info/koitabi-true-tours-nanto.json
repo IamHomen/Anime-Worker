@@ -10,5 +10,30 @@
   "synopsis": "The short tells three love stories set in Nanto.",
   "animeImg": "https://gogocdn.net/images/anime/K/Koitabi-True-Tours-Nanto.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koitabi-true-tours-nanto-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "koitabi-true-tours-nanto-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "koitabi-true-tours-nanto-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "koitabi-true-tours-nanto-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "koitabi-true-tours-nanto-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "koitabi-true-tours-nanto-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

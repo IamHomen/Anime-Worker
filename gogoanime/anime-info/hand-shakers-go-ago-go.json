@@ -10,5 +10,10 @@
   "synopsis": "Unaired 13th Episode of Hand Shakers.",
   "animeImg": "https://gogocdn.net/cover/hand-shakers-go-ago-go.png",
   "totalEpisodes": "0",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hand-shakers-go-ago-go",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Go! Go! 575 Special",
   "animeImg": "https://gogocdn.net/images/upload/68433.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "go-go-575-meippai-ni-hajiketeru--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

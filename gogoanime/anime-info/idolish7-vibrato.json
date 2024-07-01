@@ -10,5 +10,38 @@
   "synopsis": "A spin-off series of the IDOLiSH7 TV series, streamed exclusively on YouTube. In this spin-off series, they zoom in on the relationships of the members of Trigger, how they met, and how they grew closer as an unit. It also comes up with an ending for the unresolved issue in the first season regarding the song \"Natsu Shiyouze\".",
   "animeImg": "https://gogocdn.net/cover/idolish7-vibrato.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "idolish7-vibrato-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "idolish7-vibrato-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "idolish7-vibrato-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "idolish7-vibrato-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "idolish7-vibrato-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "idolish7-vibrato-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "idolish7-vibrato-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "idolish7-vibrato-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "A new OVA of the light novel Haiyore! Nyaruko-san, titled Haiyore! Nyaruko-san F, has been green-lit.",
   "animeImg": "https://gogocdn.net/images/upload/Haiyore! Nyaruko-san F.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haiyore-nyaruko-san-f-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "synopsis": "This was originally created as a musical special for the LD-BOX release of Magical Emi in 1999.",
   "animeImg": "https://gogocdn.net/cover/kaze-no-invitation.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaze-no-invitation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Ro-Kyu-Bu! OVA bundled with the PlayStation Portable game \"Ro-Kyu-Bu!: Himitsu no Otoshimono.\"",
   "animeImg": "https://gogocdn.net/images/3.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ro-kyu-bu-tomoka-no-ichigo-sundae-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

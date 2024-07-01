@@ -11,5 +11,18 @@
   "synopsis": "Picture drama episodes included on the DVD/Blu-ray Volumes of Kakegurui.",
   "animeImg": "https://gogocdn.net/cover/kakegurui-picture-drama.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kakegurui-picture-drama-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kakegurui-picture-drama-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kakegurui-picture-drama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

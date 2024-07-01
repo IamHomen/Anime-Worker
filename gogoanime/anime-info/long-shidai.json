@@ -12,5 +12,46 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/long-shidai.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "long-shidai-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "long-shidai-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "long-shidai-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "long-shidai-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "long-shidai-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "long-shidai-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "long-shidai-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "long-shidai-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "long-shidai-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "long-shidai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

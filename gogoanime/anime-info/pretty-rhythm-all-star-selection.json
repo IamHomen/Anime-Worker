@@ -11,5 +11,50 @@
   "synopsis": "A selection of the best episodes from the first three series of the Pretty Rhythm franchise: Aurora Dream, Dear My Future and Rainbow Live.",
   "animeImg": "https://gogocdn.net/images/pretty_rhythm_all_star.jpg",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pretty-rhythm-all-star-selection-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

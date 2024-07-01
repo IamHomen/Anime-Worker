@@ -15,5 +15,18 @@
   "synopsis": "The first OVA will be bundled on a special-edition DVD with the 15th volume of the Mushibugyou manga.",
   "animeImg": "https://gogocdn.net/images/Mushibugyou-OVA.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mushibugyou-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mushibugyou-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mushibugyou-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

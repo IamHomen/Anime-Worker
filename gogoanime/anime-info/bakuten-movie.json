@@ -10,5 +10,10 @@
   "synopsis": "Follow-up anime film for Bakuten!!",
   "animeImg": "https://gogocdn.net/cover/bakuten-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bakuten-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

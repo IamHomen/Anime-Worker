@@ -13,5 +13,18 @@
   "synopsis": "Four psychic teenagers\u2014Mia Alice, Roll Kran, Lamba Nom and Pai Thunder\u2014are brainwashed by the scientist Dr. Tarsan as pilots of his greatest experiment\u2014the giant robot Dangaioh. But as their memories slowly return, these pilots use their abilities and Dangaioh to combat the tyranny of Captain Galimos and the Bunker Space Pirates.",
   "animeImg": "https://gogocdn.net/cover/haja-taisei-dangaiou.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haja-taisei-dangaiou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "haja-taisei-dangaiou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "haja-taisei-dangaiou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

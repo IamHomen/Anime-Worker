@@ -10,5 +10,30 @@
   "synopsis": "Hale was a happy boy living out his days in the jungle with his mother, but then one day Guu showed up and became a member of their household. Throughout the series he faces many hardships as he tries to keep Guu out of trouble in the jungle.",
   "animeImg": "https://gogocdn.net/images/anime/H/hare-guu.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hare-guu-deluxe-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hare-guu-deluxe-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hare-guu-deluxe-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hare-guu-deluxe-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hare-guu-deluxe-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hare-guu-deluxe-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

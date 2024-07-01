@@ -15,5 +15,18 @@
   "synopsis": "Yomiko Readman is \u201cThe Paper\u201d a secret underground operative for the British Library with the inredible power of complete control over paper, including the ability to make it solid as steel. She is called to duty when a book that could spell the end of the world is stolen, and she must take it back. Going with two other operatives, she attempts to take it back and save the world.",
   "animeImg": "https://gogocdn.net/images/anime/R/read-or-die.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "read-or-die-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "read-or-die-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "read-or-die-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

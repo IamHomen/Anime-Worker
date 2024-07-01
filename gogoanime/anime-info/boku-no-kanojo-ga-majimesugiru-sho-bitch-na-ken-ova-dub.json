@@ -13,5 +13,10 @@
   "synopsis": "Bundled with the limited edition sixth manga volume.",
   "animeImg": "https://gogocdn.net/cover/boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken-ova-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,26 @@
   "synopsis": "It is year 40XX in the Universal Era. The story takes place on Jinmen planet which is quite far away in the universe.\r\n\r\nThis is a passionate tale about a human-faced dog and his troubled comrades.",
   "animeImg": "https://gogocdn.net/cover/nekketsu-tantei-jimusho.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nekketsu-tantei-jimusho-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nekketsu-tantei-jimusho-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nekketsu-tantei-jimusho-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nekketsu-tantei-jimusho-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nekketsu-tantei-jimusho-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,50 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/quan-zhi-ming.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "quan-zhi-ming-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "quan-zhi-ming-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

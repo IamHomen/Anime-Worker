@@ -13,5 +13,18 @@
   "synopsis": "The anime tells the story of a boy named Akio and his encounter with a Hisuian Zorua. When he was younger, Akio's father taught him that people and Pok\u00e9mon cannot live together. But Akio's interactions with the Zorua might offer a different lesson.",
   "animeImg": "https://gogocdn.net/cover/pokemon-legends-arceus-yuki-hodo-kishi-futaai-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-legends-arceus-yuki-hodo-kishi-futaai-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pokemon-legends-arceus-yuki-hodo-kishi-futaai-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pokemon-legends-arceus-yuki-hodo-kishi-futaai-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

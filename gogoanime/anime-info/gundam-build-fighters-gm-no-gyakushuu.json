@@ -12,5 +12,10 @@
   "synopsis": "It has been three years since the end of the Gundam Build Fighters TV series. Now a totally new story starring Iori Sei and friends is set to begin.\r\n\r\n(Source: gundam.info)",
   "animeImg": "https://gogocdn.net/cover/gundam-build-fighters-gm-no-gyakushuu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-build-fighters-gm-no-gyakushuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

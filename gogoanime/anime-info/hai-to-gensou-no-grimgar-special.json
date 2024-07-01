@@ -10,5 +10,10 @@
   "synopsis": "Episode 2.5 of the series, will expand on the ending of episode 2.\r\n\r\nIncluded in the 1st volume of the Blu-ray/DVD releases.",
   "animeImg": "https://gogocdn.net/cover/hai-to-gensou-no-grimgar-special.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hai-to-gensou-no-grimgar-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

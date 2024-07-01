@@ -13,5 +13,10 @@
   "synopsis": "t is an animation version of the original story by Tezuka Osamu that depicts the cruelty of love through the fate of spacemen destined to drift through the universe after losing their mother ship..",
   "animeImg": "https://gogocdn.net/cover/hi-no-tori-uchuu-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hi-no-tori-uchuu-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "An adaptation of the picture book Harinezumi no Luchika.",
   "animeImg": "https://gogocdn.net/cover/harinezumi-no-luchika.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "harinezumi-no-luchika-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

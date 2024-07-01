@@ -11,5 +11,14 @@
   "synopsis": "Specials aired between episodes five and six and episodes ten and eleven, both recapitulation episodes.",
   "animeImg": "https://gogocdn.net/cover/girls-panzer-shoukai-shimasu.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "girls-panzer-shoukai-shimasu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "girls-panzer-shoukai-shimasu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

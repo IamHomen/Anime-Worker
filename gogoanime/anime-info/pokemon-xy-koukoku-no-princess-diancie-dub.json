@@ -11,5 +11,10 @@
   "synopsis": "Prequel to the 17th Pok\u00e9mon movie, Pokemon XY: Cocoon of Destruction and Diancie.",
   "animeImg": "https://gogocdn.net/cover/pokemon-xy-koukoku-no-princess-diancie-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-xy-koukoku-no-princess-diancie-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

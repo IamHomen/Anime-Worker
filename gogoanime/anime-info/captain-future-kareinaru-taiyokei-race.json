@@ -12,5 +12,10 @@
   "synopsis": "Sequel of Captain Future.",
   "animeImg": "https://gogocdn.net/cover/captain-future-kareinaru-taiyokei-race.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "captain-future-kareinaru-taiyokei-race-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

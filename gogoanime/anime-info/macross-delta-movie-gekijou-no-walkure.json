@@ -15,5 +15,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/macross-delta-movie-gekijou-no-walkure.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "macross-delta-movie-gekijou-no-walkure-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Narrated recap of the Love Live! School Idol Project series included on the official Blu-ray fandisc release.",
   "animeImg": "https://gogocdn.net/cover/love-live-school-idol-project-recap.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "love-live-school-idol-project-recap-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

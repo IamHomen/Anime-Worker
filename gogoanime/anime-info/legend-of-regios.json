@@ -10,5 +10,18 @@
   "synopsis": "Legend of Regios was originally the English speaking cut-scenes on TV, that the characters in the Chrome Shelled Regios series were watching.\r\n\r\nThis special (which has been included with the DVD release of Chrome Shelled Regios) has reorganized the scenes, extended some, and has been re-dubbed completely in Japanese. It's a side story within the Chrome Shelled Regios series.",
   "animeImg": "https://gogocdn.net/cover/legend-of-regios.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "legend-of-regios-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "legend-of-regios-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "legend-of-regios-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

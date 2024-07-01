@@ -13,5 +13,50 @@
   "synopsis": "Second season of Gin no Saji.",
   "animeImg": "https://gogocdn.net/images/Gin-no-Saji-2nd-Season.jpg",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "silver-spoon-s2-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "silver-spoon-s2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,14 @@
   "synopsis": "On Chiiko's 11th birthday, her father gives her a special book. Inside the book is a trapped witch, Majokko Tickle. When Chiiko frees Tickle from the book, she uses her magic to pass off as Chiiko's twin sister.",
   "animeImg": "https://gogocdn.net/cover/majokko-tickle.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "majokko-tickle-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "majokko-tickle-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

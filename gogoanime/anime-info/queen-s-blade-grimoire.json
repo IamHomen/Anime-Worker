@@ -13,5 +13,14 @@
   "synopsis": "A scan of the latest issue of Hobby Japan magazine, released on April 25, announced that Queen's Blade Grimoire will be adapted into an OVA. Comprised of two disc volumes, it will be bundled with the release of the next visual combat book of the Queen's Blade series in Fall 2015. The project is made to commemorate the 10th anniversary of Queen's Blade. The project will feature a new cast, set in a parallel multiverse, with the characters fighting using Grimoires (magical books).",
   "animeImg": "https://gogocdn.net/images/upload/Queen-s Blade - Grimoire.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "queens-blade-grimoire-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "queen-s-blade-grimoire-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

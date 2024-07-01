@@ -12,5 +12,14 @@
   "synopsis": "Unaired specials included in the Blu-ray and DVD release.",
   "animeImg": "https://gogocdn.net/cover/teekyuu-8-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "teekyuu-8-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "teekyuu-8-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

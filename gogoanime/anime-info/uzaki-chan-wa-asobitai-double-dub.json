@@ -13,5 +13,58 @@
   "synopsis": "Second season of Uzaki-chan wa Asobitai!",
   "animeImg": "https://gogocdn.net/cover/uzaki-chan-wa-asobitai-double-dub.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "uzaki-chan-wa-asobitai-double-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

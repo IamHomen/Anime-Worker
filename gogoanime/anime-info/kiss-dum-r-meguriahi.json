@@ -12,5 +12,10 @@
   "synopsis": "Bonus episode from Kiss Dum R, a revised 2008 version of \"Kiss Dum\" TV series. Takes place a few years after the main events of the original broadcast.",
   "animeImg": "https://gogocdn.net/cover/kiss-dum-r-meguriahi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kiss-dum-r-meguriahi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

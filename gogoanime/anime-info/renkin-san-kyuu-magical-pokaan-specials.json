@@ -11,5 +11,18 @@
   "synopsis": "DVD specials.",
   "animeImg": "https://gogocdn.net/cover/renkin-san-kyuu-magical-pokaan-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "renkin-san-kyuu-magical-pokaan-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "renkin-san-kyuu-magical-pokaan-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "renkin-san-kyuu-magical-pokaan-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,30 @@
   "synopsis": "Meltylancer is a Galaxy Police Organization unit comprised by six girls, all of which who have their own special skills and talents. A year has passed since the unit's disbandment, but a new threat leaves the GPO no choice but to recall all the members. With a new commander and a new aide, Meltylancer is deployed once again.",
   "animeImg": "https://gogocdn.net/cover/melty-lancer-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "melty-lancer-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "melty-lancer-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "melty-lancer-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "melty-lancer-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "melty-lancer-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "melty-lancer-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

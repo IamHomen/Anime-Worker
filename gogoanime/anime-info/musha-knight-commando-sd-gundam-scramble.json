@@ -14,5 +14,14 @@
   "synopsis": "The first episode, Musha, Knight, Commando: SD Gundam Emergency Sortie, features the three Gundams and a young girl named Riplin joining together to fight evil.\r\n\r\nThe second episode, Dawn of Papal, Episode 103: Suginamu's Bride, stars Artesia in a fantasy-themed adventure.",
   "animeImg": "https://gogocdn.net/cover/musha-knight-commando-sd-gundam-scramble.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "musha-knight-commando-sd-gundam-scramble-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "musha-knight-commando-sd-gundam-scramble-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "A new special mini corner airing after the rebroadcast version of TV series.",
   "animeImg": "https://gogocdn.net/cover/zettai-bouei-leviathan-mini-takibi-gekijou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zettai-bouei-leviathan-mini-takibi-gekijou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

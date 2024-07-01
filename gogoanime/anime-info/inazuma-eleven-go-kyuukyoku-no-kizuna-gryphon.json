@@ -12,5 +12,10 @@
   "synopsis": "Inazuma Eleven Go Movie.",
   "animeImg": "https://gogocdn.net/images/anime/I/Inazuma-Eleven-Go-Kyuukyoku-no-Kizuna-Gryphon.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inazuma-eleven-go-kyuukyoku-no-kizuna-gryphon-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

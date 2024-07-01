@@ -10,5 +10,10 @@
   "synopsis": "New Atashin'chi anime to commemorate the 30th anniversary of the manga.",
   "animeImg": "https://gogocdn.net/cover/atashinchi-next.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "atashinchi-next-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,54 @@
   "synopsis": "The television anime of Rejet and Idea Factory's Marginal#4 franchise. The in-story idol unit Marginal#4 will perform the opening theme song, while each episode of the anime will have a different musical act contributing its ending theme song.",
   "animeImg": "https://gogocdn.net/cover/marginal4-kiss-kara-tsukuru-big-bang.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "marginal4-kiss-kara-tsukuru-big-bang-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

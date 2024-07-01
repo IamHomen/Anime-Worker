@@ -10,5 +10,58 @@
   "synopsis": "A series of shorts about Tsuruya from The Melancholy of Haruhi Suzumiya, based on the format of the Nyor?n Churuya-san manga. Episodes mainly concern her search for smoked cheese.",
   "animeImg": "https://gogocdn.net/images/anime/N/nyoron-churuya-san.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nyoron-churuya-san-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nyoron-churuya-san-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

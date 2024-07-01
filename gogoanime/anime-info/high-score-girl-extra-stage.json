@@ -13,5 +13,18 @@
   "synopsis": "Episodes 13-15 of High Score Girl.",
   "animeImg": "https://gogocdn.net/cover/high-score-girl-extra-stage.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "high-score-girl-extra-stage-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "high-score-girl-extra-stage-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "high-score-girl-extra-stage-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

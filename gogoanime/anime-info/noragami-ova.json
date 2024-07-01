@@ -12,5 +12,14 @@
   "synopsis": "The 10th and 11th volumes of the manga will be bundled with a DVD. The 11th volume's description reads that the DVD will adapt \"that popular cherry blossom-viewing arc!\"",
   "animeImg": "https://gogocdn.net/images/Noragami.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "noragami-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "noragami-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

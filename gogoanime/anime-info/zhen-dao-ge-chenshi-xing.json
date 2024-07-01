@@ -12,5 +12,10 @@
   "synopsis": "Second installment of Zhen Dao Ge.",
   "animeImg": "https://gogocdn.net/cover/zhen-dao-ge-chenshi-xing.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zhen-dao-ge-chenshi-xing-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

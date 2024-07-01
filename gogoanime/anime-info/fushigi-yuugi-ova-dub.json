@@ -15,5 +15,18 @@
   "synopsis": "A year after the events of Fushigi Yuugi, Tamahome is pulled back into the book and is sent on a complicated ride through illusion, confusion, and betrayal. Meanwhile, Yui is acting oddly and Miaka is heartbroken over the loss of Tamahome, while Keisuke and Tetsuya try to discover what is going on with the book.",
   "animeImg": "https://gogocdn.net/cover/fushigi-yuugi-ova-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fushigi-yuugi-ova-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fushigi-yuugi-ova-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fushigi-yuugi-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

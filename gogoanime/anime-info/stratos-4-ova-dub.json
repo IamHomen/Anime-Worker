@@ -13,5 +13,18 @@
   "synopsis": "After successfully returning to Earth on the renovated Stratos 4, the four main characters are visited by the Comet Blasters Chizuru Kubo and Annette Kerry, who bring them a shocking video. Meanwhile, Orbital Station 7 is in serious trouble...\r\n\r\nThis two-episode OVA comes between the first and second seasons.",
   "animeImg": "https://gogocdn.net/cover/stratos-4-ova-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "stratos-4-ova-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "stratos-4-ova-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "stratos-4-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

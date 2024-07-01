@@ -12,5 +12,30 @@
   "synopsis": "Six post-credit scenes adapting manga content not covered in the main series. Streamed exclusively on AbemaTV following episodes 1, 2, 3, 4, 9, and 12.",
   "animeImg": "https://gogocdn.net/cover/yesterday-wo-utatte-extras.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yesterday-wo-utatte-extras-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yesterday-wo-utatte-extras-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yesterday-wo-utatte-extras-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yesterday-wo-utatte-extras-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yesterday-wo-utatte-extras-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yesterday-wo-utatte-extras-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Special episode bundled with the fifth Blu-ray and DVD volume.",
   "animeImg": "https://gogocdn.net/cover/kobayashi-san-chi-no-maid-dragon-s-nippon-no-omotenashi-attend-wa-dragon-desu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-s-nippon-no-omotenashi-attend-wa-dragon-desu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

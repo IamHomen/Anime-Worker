@@ -13,5 +13,10 @@
   "synopsis": "Cinema adaption of the manga by Mitsuru Adachi.",
   "animeImg": "https://gogocdn.net/cover/nine-original-ban.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nine-original-ban-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

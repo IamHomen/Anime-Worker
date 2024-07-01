@@ -14,5 +14,10 @@
   "synopsis": "This is a remix, theatrical release of the first half of the Appleseed XIII series.",
   "animeImg": "https://gogocdn.net/cover/appleseed-xiii-remix-movie-1-yuigon-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "appleseed-xiii-remix-movie-1-yuigon-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

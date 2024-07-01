@@ -11,5 +11,10 @@
   "synopsis": "Extra episode bundled with the seventh Charlotte Blu-ray and DVD volume.",
   "animeImg": "https://gogocdn.net/cover/charlotte-special.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "charlotte-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

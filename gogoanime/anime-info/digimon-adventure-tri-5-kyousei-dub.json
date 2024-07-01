@@ -13,5 +13,10 @@
   "synopsis": "Fifth Digimon Adventure tri film.",
   "animeImg": "https://gogocdn.net/cover/digimon-adventure-tri-5-kyousei-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-adventure-tri-5-kyousei-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

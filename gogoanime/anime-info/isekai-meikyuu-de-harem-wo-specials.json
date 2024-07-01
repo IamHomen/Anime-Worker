@@ -11,5 +11,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/isekai-meikyuu-de-harem-wo-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "isekai-meikyuu-de-harem-wo-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "isekai-meikyuu-de-harem-wo-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

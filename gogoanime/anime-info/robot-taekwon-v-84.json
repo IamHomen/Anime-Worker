@@ -12,5 +12,10 @@
   "synopsis": "The seventh movie in the popular Korean movie series Robot Taekwon V.",
   "animeImg": "https://gogocdn.net/cover/robot-taekwon-v-84.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "robot-taekwon-v-84-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,14 @@
   "synopsis": "Regardless of how students handle the many academic challenges facing them, they all know that there will come a day when they will leave all the hurdles of scholastic achievement behind and tackle the triumphs and sorrows of true adulthood. One thing that many young people don`t realize is that this often means leaving behind the friends that have been with them through their youth.",
   "animeImg": "https://gogocdn.net/cover/sotsugyou-graduation.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sotsugyou-graduation-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sotsugyou-graduation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

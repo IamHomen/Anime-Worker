@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/feng-qi-luoyang-shuangzi-zhui-xiong.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "feng-qi-luoyang-shuangzi-zhui-xiong-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

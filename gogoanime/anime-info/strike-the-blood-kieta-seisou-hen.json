@@ -14,5 +14,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/strike-the-blood-kieta-seisou-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "strike-the-blood-kieta-seisou-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

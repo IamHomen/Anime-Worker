@@ -14,5 +14,70 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/guan-hai-ce.png",
   "totalEpisodes": "16",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "guan-hai-ce-episode-16",
+      "episodeNum": "Episode 16"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-15",
+      "episodeNum": "Episode 15"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "guan-hai-ce-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

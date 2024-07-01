@@ -12,5 +12,18 @@
   "synopsis": "Based on the game by ELF.",
   "animeImg": "https://gogocdn.net/cover/doukyuusei-2-ova-special-sotsugyousei.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doukyuusei-2-ova-special-sotsugyousei-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "doukyuusei-2-ova-special-sotsugyousei-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "doukyuusei-2-ova-special-sotsugyousei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

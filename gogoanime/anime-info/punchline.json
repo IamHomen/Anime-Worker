@@ -11,5 +11,54 @@
   "synopsis": "The series follows Yuuta Iridatsu, whose spirit has been separated from his body.",
   "animeImg": "https://gogocdn.net/images/upload/164994.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "punchline-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "punchline-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "punchline-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "punchline-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "punchline-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "punchline-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "punchline-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "punchline-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "punchline-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "punchline-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "punchline-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "punchline-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

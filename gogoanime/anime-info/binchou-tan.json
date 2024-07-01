@@ -11,5 +11,30 @@
   "synopsis": "This is a story about a little girl who lives in an old house in the mountains. Her name is Bincho-tan. Each episode depicts a day in the life of Bincho-tan as she prepares her breakfast in the morning, goes to the forest to gather vegetables, does her household chores and rests at night after a day's work. She is surrounded by a group of close friends who add color to her ordinary yet simple life.",
   "animeImg": "https://gogocdn.net/cover/binchou-tan.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "binchou-tan-episode-11-12",
+      "episodeNum": "Episode 11.12"
+    },
+    {
+      "episodeId": "binchou-tan-episode-9-10",
+      "episodeNum": "Episode 9.1"
+    },
+    {
+      "episodeId": "binchou-tan-episode-7-8",
+      "episodeNum": "Episode 7.8"
+    },
+    {
+      "episodeId": "binchou-tan-episode-5-6",
+      "episodeNum": "Episode 5.6"
+    },
+    {
+      "episodeId": "binchou-tan-episode-3-4",
+      "episodeNum": "Episode 3.4"
+    },
+    {
+      "episodeId": "binchou-tan-episode-1-2",
+      "episodeNum": "Episode 1.2"
+    }
+  ]
 }

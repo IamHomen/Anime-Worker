@@ -12,5 +12,26 @@
   "synopsis": "The story is a comedy about Lucius, an architect of public bath houses in ancient Rome, who time-travels to various modern-day baths in Japan. The author explores the two cultures in the world \"that have loved baths the most: the Japanese and the Romans.\"",
   "animeImg": "https://gogocdn.net/cover/thermae-romae-dub.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "thermae-romae-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "thermae-romae-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "thermae-romae-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "thermae-romae-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "thermae-romae-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

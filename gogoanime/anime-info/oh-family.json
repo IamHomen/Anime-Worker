@@ -14,5 +14,18 @@
   "synopsis": "This story takes place in Florida, USA. The main characters are the lovable members of the Andersons; each one has his or her own different characterstics which conflict and support the others'. By going through many events (meaningful ones as well as weird ones) together, the bond between them grows stronger and tighter.",
   "animeImg": "https://gogocdn.net/cover/oh-family.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "oh-family-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "oh-family-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "oh-family-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

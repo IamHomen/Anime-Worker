@@ -10,5 +10,54 @@
   "synopsis": "The battle action novel series revolves around Youtarou Hanafusa, a young man who is part of the last remaining order of knights in the 21st century, \"Knights of the World.\" As he fights as the mysterious Knight Lancer, he must hide his identity behind a mask.",
   "animeImg": "https://gogocdn.net/images/upload/lance.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lance-n-masques-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "lance-n-masques-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

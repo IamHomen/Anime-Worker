@@ -11,5 +11,10 @@
   "synopsis": "It's Pok\u00e9mon Sports Day!\r\nWatch Pok\u00e9mon compete in various games such as foot races, ball-tossing, tug of war, and jump rope!\r\nThe accompaniment of a classical music medley makes the event more fun.",
   "animeImg": "https://gogocdn.net/cover/pokemon-daiundoukai-1662612529.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-daiundoukai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

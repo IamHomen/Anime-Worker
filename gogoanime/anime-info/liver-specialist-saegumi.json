@@ -11,5 +11,10 @@
   "synopsis": "Soju Saero commercial by Lotte Chilsung featuring Eunji Jung.",
   "animeImg": "https://gogocdn.net/cover/liver-specialist-saegumi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "liver-specialist-saegumi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

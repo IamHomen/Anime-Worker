@@ -12,5 +12,58 @@
   "synopsis": "No synopsis has been added for this series yet.",
   "animeImg": "https://gogocdn.net/images/upload/72738.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pikaia-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "pikaia--episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "pikaia--episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "pikaia--episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "pikaia--episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "pikaia--episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "pikaia--episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "pikaia--episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "pikaia--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "pikaia--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pikaia--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pikaia--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pikaia--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

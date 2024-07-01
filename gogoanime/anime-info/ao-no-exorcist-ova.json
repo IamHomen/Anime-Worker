@@ -14,5 +14,14 @@
   "synopsis": "Bundled with the 19th volume of the Ao no Exorcist manga.",
   "animeImg": "https://gogocdn.net/cover/ao-no-exorcist-ova.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ao-no-exorcist-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ao-no-exorcist-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

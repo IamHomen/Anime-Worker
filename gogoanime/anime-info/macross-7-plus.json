@@ -13,5 +13,50 @@
   "synopsis": "A series of 2-3 minute shorts revealing the everyday life of some characters, back-story of others, and the occasional music video. Originally included as extras on the Macross 7 VHS and laserdisc releases.",
   "animeImg": "https://gogocdn.net/cover/macross-7-plus.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "macross-7-plus-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "macross-7-plus-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

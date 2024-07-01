@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/kuma-no-gakkou-patissier-jackie-to-ohisama-no-sweets.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kuma-no-gakkou-patissier-jackie-to-ohisama-no-sweets-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

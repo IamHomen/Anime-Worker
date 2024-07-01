@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/hug-tto-precurefutari-wa-precure-movie-all-stars-memories.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hug-tto-precurefutari-wa-precure-movie-all-stars-memories-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

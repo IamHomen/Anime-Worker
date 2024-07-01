@@ -14,5 +14,54 @@
   "synopsis": "Arte was born into an aristocratic family in Florence during the 16th century Renaissance era. Being female, it was unheard of for one to become an artist. Driven by her love of art, Arte is willing to cast aside her aristocratic lifestyle to become an artist.",
   "animeImg": "https://gogocdn.net/cover/arte.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arte-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "arte-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "arte-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "arte-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "arte-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "arte-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "arte-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "arte-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "arte-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "arte-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "arte-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "arte-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

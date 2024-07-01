@@ -11,5 +11,10 @@
   "synopsis": "Second season of Qiang Shen Ji.",
   "animeImg": "https://gogocdn.net/cover/qiang-shen-ji-tegong-shijia-pian.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "qiang-shen-ji-tegong-shijia-pian-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

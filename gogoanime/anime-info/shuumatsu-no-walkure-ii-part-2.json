@@ -12,5 +12,26 @@
   "synopsis": "Second part of Shuumatsu no Walk\u00fcre II.",
   "animeImg": "https://gogocdn.net/cover/shuumatsu-no-walkure-ii-part-2.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shuumatsu-no-walkure-ii-part-2-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shuumatsu-no-walkure-ii-part-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shuumatsu-no-walkure-ii-part-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shuumatsu-no-walkure-ii-part-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shuumatsu-no-walkure-ii-part-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,22 @@
   "synopsis": "DVD specials of comedic events that occurred during the story of Utawarerumono. The specials are included in the DVD Box special disc.",
   "animeImg": "https://gogocdn.net/cover/utawarerumono-specials.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "utawarerumono-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "utawarerumono-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "utawarerumono-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "utawarerumono-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

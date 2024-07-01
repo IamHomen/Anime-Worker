@@ -11,5 +11,10 @@
   "synopsis": "Bonus animation featuring Index-tan included with the BD special edition of the Toaru Majutsu no Index: Endymion no Kiseki movie.",
   "animeImg": "https://gogocdn.net/images/anime/T/Toaru_Majutsu_no_Index-tan_Endymion_no_Kiseki.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "to-aru-majutsu-no-index-tan-endymion-no-kiseki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

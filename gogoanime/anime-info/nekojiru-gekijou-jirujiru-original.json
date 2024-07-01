@@ -11,5 +11,42 @@
   "synopsis": "Based on the comics by the late Nekojiru. Contains 23 animated shorts aired TV Asahi Network's show \"Bokusho Mondai Boss Chara Ou.\" and 4 unbroadcast episodes.",
   "animeImg": "https://gogocdn.net/cover/nekojiru-gekijou-jirujiru-original.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nekojiru-gekijou-jirujiru-original-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

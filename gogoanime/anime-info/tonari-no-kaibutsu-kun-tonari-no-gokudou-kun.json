@@ -13,5 +13,10 @@
   "synopsis": "OVA bundled with the limited edition of the 12th volume of the manga.",
   "animeImg": "https://gogocdn.net/images/anime/T/tonari-no-kaibutsu-kun-tonari-no-gokudou-kun.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tonari-no-kaibutsu-kun-tonari-no-gokudou-kun-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

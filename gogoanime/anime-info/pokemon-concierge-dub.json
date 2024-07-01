@@ -11,5 +11,22 @@
   "synopsis": "Follow the story of Haru, a concierge at the Pok\u00e9mon Resort, and her interactions with Pok\u00e9mon and their owners who visit as guests.",
   "animeImg": "https://gogocdn.net/cover/pokemon-concierge-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-concierge-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pokemon-concierge-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pokemon-concierge-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pokemon-concierge-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,22 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/supreme-god-system-s2.png",
   "totalEpisodes": "18",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "supreme-god-system-s2-episode-18",
+      "episodeNum": "Episode 18"
+    },
+    {
+      "episodeId": "supreme-god-system-s2-episode-17",
+      "episodeNum": "Episode 17"
+    },
+    {
+      "episodeId": "supreme-god-system-s2-episode-16",
+      "episodeNum": "Episode 16"
+    },
+    {
+      "episodeId": "supreme-god-system-s2-episode-1-15-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

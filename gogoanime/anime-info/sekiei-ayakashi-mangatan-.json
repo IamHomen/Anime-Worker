@@ -12,5 +12,18 @@
   "synopsis": "The story is set during the middle of Japan\u2019s historic Edo period. It centers around Toriyama Sekiei, an eccentric but brilliant artist who only draws supernatural creatures\u2014because he draws the creatures he actually encounters in his life.",
   "animeImg": "https://gogocdn.net/images/anime/S/sekiei-ayakashi-mangatan.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sekiei-ayakashi-mangatan--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sekiei-ayakashi-mangatan--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sekiei-ayakashi-mangatan--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

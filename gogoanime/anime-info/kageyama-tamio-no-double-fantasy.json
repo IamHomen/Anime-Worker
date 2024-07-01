@@ -11,5 +11,14 @@
   "synopsis": "A 2-part TV special. The first part is a comedic bickering couple taking a sketchy plane for vacation. The second part is a horror a camera crew encounter while staying at the Hotel Southpacific after landing.",
   "animeImg": "https://gogocdn.net/cover/kageyama-tamio-no-double-fantasy.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kageyama-tamio-no-double-fantasy-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kageyama-tamio-no-double-fantasy-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

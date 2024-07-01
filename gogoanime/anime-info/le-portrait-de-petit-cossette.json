@@ -15,5 +15,18 @@
   "synopsis": "Eiri, a talented art student, works part-time in an antique shop in a quiet part of town. Lately he\u2019s been having visions of a beautiful, young girl. He doesn\u2019t know why he keeps seeing her but he feels compelled to draw her constantly.\nOne day the visions take a turn for the worse when he finds his hands covered in blood, the blood of the little girl Cossette.",
   "animeImg": "https://gogocdn.net/images/anime/L/Le-Portrait-de-Petit-Cossette.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "le-portrait-de-petit-cossette-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "le-portrait-de-petit-cossette-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "le-portrait-de-petit-cossette-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

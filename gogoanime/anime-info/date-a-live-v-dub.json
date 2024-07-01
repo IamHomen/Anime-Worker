@@ -15,5 +15,46 @@
   "synopsis": "Fifth season of Date A Live.",
   "animeImg": "https://gogocdn.net/cover/date-a-live-v-dub.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "date-a-live-v-dub-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "date-a-live-v-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,30 @@
   "synopsis": "The plot continues and while three new recruits come to the base for training, the whole team comes back to join the fun and defend the planet from outside or maybe inside enemies.",
   "animeImg": "https://gogocdn.net/images/anime/S/Stratos-4-Advance.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "stratos-4-advance-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "stratos-4-advance-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "stratos-4-advance-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "stratos-4-advance-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "stratos-4-advance-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "stratos-4-advance-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

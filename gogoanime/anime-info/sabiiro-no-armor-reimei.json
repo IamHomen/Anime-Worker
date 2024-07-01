@@ -12,5 +12,54 @@
   "synopsis": "The anime adaptation of Rusted Armors, a multimedia project that first started with a stage play and a manga adaptation. The project focuses on the relationship between the gun-toting Magoichi \u2014 who is the leader of the Saika Ikki mercenary group \u2014 and the Sengoku era warlord Oda Nobunaga.",
   "animeImg": "https://gogocdn.net/cover/sabiiro-no-armor-reimei.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sabiiro-no-armor-reimei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

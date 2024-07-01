@@ -15,5 +15,10 @@
   "synopsis": "Movie based on the 2007 TV anime with an or",
   "animeImg": "https://gogocdn.net/images/anime/G/Gegege-no-Kitarou-Nippon-Bakuretsu.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gegege-no-kitarou-nippon-bakuretsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

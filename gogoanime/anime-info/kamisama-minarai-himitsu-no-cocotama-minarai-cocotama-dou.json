@@ -13,5 +13,38 @@
   "synopsis": "Short episodes that introduce the Cocotama's from Kirakira Happy\u2605Hirake! Cocotama TV series.",
   "animeImg": "https://gogocdn.net/cover/kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kamisama-minarai-himitsu-no-cocotama-minarai-cocotama-dou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

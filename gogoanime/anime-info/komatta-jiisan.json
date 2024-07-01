@@ -15,5 +15,58 @@
   "synopsis": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter.",
   "animeImg": "https://gogocdn.net/cover/komatta-jiisan.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "komatta-jiisan-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "komatta-jiisan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

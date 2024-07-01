@@ -12,5 +12,18 @@
   "synopsis": "Sometime in the distant future, Kurumi, Saki and Karinka share an apartment with another girl named Excelia. One day, after school, Kurumi tells everyone that she is in love with a man she met named Michihito Kagura, but she doesn't know when she will see him again.",
   "animeImg": "https://gogocdn.net/images/anime/S/Steel-Angel-Kurumi-Zero.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "steel-angel-kurumi-zero-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "steel-angel-kurumi-zero-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "steel-angel-kurumi-zero-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

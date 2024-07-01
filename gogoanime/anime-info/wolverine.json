@@ -12,5 +12,54 @@
   "synopsis": "Next in the four-part Marvel Anime project and broadcasts after the Iron Man anime. Wolverine is a mutant, possessing animal-keen senses, enhanced psychical capabilities, three retracting bone claws on each hand and a healing factor that allows him to recover from virtually any wound, disease or toxin at a accelerated rate.",
   "animeImg": "https://gogocdn.net/images/anime/wolverine.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wolverine-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "wolverine-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "wolverine-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "wolverine-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "wolverine-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "wolverine-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "wolverine-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "wolverine-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "wolverine-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wolverine-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wolverine-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wolverine-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

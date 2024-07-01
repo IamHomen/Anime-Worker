@@ -12,5 +12,10 @@
   "synopsis": "Packy and Botasky are members of a private military company, a new form of mercenary system. Somewhere on a desert region, they are on a rescue mission and due to the circumstances they must enter combat immediately.",
   "animeImg": "https://gogocdn.net/images/anime/C/cat-shit-one.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cat-shit-one-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

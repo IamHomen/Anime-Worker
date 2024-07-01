@@ -14,5 +14,14 @@
   "synopsis": "The Lancer EVO-driving group \"Emperor\" have defeated every racing team they've met in the Gunma region. Now they're out to challenge the duo of Mako and Sayuki and their SilEighty - the Impact Blue of Usui Mountain.",
   "animeImg": "https://gogocdn.net/cover/initial-d-extra-stage-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "initial-d-extra-stage-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "initial-d-extra-stage-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

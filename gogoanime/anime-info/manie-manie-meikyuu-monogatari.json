@@ -14,5 +14,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/manie-manie-meikyuu-monogatari.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "manie-manie-meikyuu-monogatari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

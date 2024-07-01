@@ -11,5 +11,18 @@
   "synopsis": "Youji, Kei, Kelly, and the little bear-shaped robot Oscar are small heroes who must save the town. Today is Youji's birthday, but this doesn't seem to excite him. Whether or not they know this, Kei, Kelly, and the woman who raised him as her own, Anna, seem to be planning something. And that's when it appears over the city \u2013 an out-of-control sightseeing airship!",
   "animeImg": "https://gogocdn.net/cover/fastening-days-3.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fastening-days-3-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fastening-days-3-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fastening-days-3-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

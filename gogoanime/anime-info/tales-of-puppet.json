@@ -12,5 +12,30 @@
   "synopsis": "A puppet parody of the Tales of franchise, filled with gags and help explain the popular RPG to newcomers.",
   "animeImg": "https://gogocdn.net/cover/tales-of-puppet.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tales-of-puppet-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tales-of-puppet-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tales-of-puppet-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tales-of-puppet-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tales-of-puppet-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tales-of-puppet-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

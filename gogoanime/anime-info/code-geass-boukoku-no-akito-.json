@@ -12,5 +12,26 @@
   "synopsis": "The story takes place in Europe in the year a.t.b. 2017. A Knightmare unit made of boys and girls from Area Eleven are thrown into a military operation with a 5% chance of survival. They must rescue an allied unit left behind on the European warfront.",
   "animeImg": "https://gogocdn.net/images/Code-Geass-Boukoku-no-Akito.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "code-geass-boukoku-no-akito--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "code-geass-boukoku-no-akito--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "code-geass-boukoku-no-akito--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "code-geass-boukoku-no-akito--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "code-geass-boukoku-no-akito--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

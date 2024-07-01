@@ -11,5 +11,58 @@
   "synopsis": "Continuation of Gatchaman Crowds series.",
   "animeImg": "https://gogocdn.net/images/upload/gatchaman_c_insight.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "gatchaman-crowds-insight-episode-0",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

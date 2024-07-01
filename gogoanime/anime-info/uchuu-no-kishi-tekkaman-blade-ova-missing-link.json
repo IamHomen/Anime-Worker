@@ -13,5 +13,10 @@
   "synopsis": "The third, Missing Link, deals with the events between Tekkaman Blade and Tekkaman Blade II.",
   "animeImg": "https://gogocdn.net/cover/uchuu-no-kishi-tekkaman-blade-ova-missing-link.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-no-kishi-tekkaman-blade-ova-missing-link-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

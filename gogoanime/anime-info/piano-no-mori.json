@@ -15,5 +15,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/piano-no-mori.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "piano-no-mori-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

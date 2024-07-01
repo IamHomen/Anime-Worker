@@ -12,5 +12,10 @@
   "synopsis": "This movie is a TV special that spun off from the popular anime show \"Touch\". The show follows the story of Tatsuya who moved to the U.S. to become a major league baseball player, and Minami who retired from rhythmic sportive gymnastics.",
   "animeImg": "https://gogocdn.net/images/anime/T/Touch-CrossroadKaze-no-Yukue.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "touch-crossroad-kaze-no-yukue-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,18 @@
   "synopsis": "A collection of short parodies of the Mobile Suit Gundam saga. Episode 1 pokes fun at key events that occurred during the One Year War. In episode 2, Amuro, Kamille and Judau fight over who runs the better pension when Char comes in to crash their party. Episode 3 is the SD Olympics, an array of athletic events pitting man with mobile suit.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-sd-gundam-mk-i.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-i-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-i-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-i-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

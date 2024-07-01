@@ -12,5 +12,54 @@
   "synopsis": "TV anime adaptation of the GJ-bu moe light novel series, dubbed as the \u201cfirst four-panel novel\u201d, where each story is only four pages long with illustrations.",
   "animeImg": "https://gogocdn.net/images/anime/G/gj-bu.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gj-bu-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "gj-bu-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "gj-bu-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gj-bu-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gj-bu-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gj-bu-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gj-bu-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gj-bu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gj-bu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gj-bu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gj-bu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gj-bu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

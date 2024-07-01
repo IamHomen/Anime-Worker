@@ -13,5 +13,10 @@
   "synopsis": "Fifth Youkai Watch film.",
   "animeImg": "https://gogocdn.net/cover/youkai-watch-movie-5-forever-friends.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "youkai-watch-movie-5-forever-friends-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

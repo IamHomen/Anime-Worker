@@ -13,5 +13,50 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/fanpai-chushihua.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fanpai-chushihua-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fanpai-chushihua-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

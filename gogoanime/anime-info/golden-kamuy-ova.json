@@ -13,5 +13,22 @@
   "synopsis": "Bundled with the 15th volume of the Golden Kamuy manga.",
   "animeImg": "https://gogocdn.net/cover/golden-kamuy-ova.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "golden-kamuy-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "golden-kamuy-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "golden-kamuy-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "golden-kamuy-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

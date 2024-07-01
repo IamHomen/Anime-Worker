@@ -13,5 +13,10 @@
   "synopsis": "PriPara Movie.",
   "animeImg": "https://gogocdn.net/cover/pripara-movie-minna-de-kagayake-kirarinstar-live.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pripara-movie-minna-de-kagayake-kirarinstar-live-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

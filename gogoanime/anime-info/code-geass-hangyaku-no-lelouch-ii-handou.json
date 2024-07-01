@@ -15,5 +15,10 @@
   "synopsis": "This is the second part of a 3-part theatrical film remake of the first 2 seasons of the parent anime.",
   "animeImg": "https://gogocdn.net/cover/code-geass-hangyaku-no-lelouch-ii-handou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "code-geass-hangyaku-no-lelouch-ii-handou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

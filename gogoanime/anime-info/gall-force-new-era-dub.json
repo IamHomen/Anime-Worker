@@ -14,5 +14,14 @@
   "synopsis": "The year is 2291, and the citizens live a peaceful existence after the catastrophic war between the humans and the Yuman. This quiet life is about to be shattered, the leader of the Yuman is not convinced the war is over, and now plans to renew hostilities!",
   "animeImg": "https://gogocdn.net/cover/gall-force-new-era-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gall-force-new-era-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gall-force-new-era-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

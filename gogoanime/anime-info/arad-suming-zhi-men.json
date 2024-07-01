@@ -12,5 +12,14 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis",
   "animeImg": "https://gogocdn.net/cover/arad-suming-zhi-men.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arad-suming-zhi-men-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "arad-suming-zhi-men-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

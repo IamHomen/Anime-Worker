@@ -12,5 +12,10 @@
   "synopsis": "As with previous Pok\u00e9mon films, a short will run alongside the main film, and the poster for the short features Pikachu, Meowth, and Dedenne. The title of the short will be revealed later.",
   "animeImg": "https://gogocdn.net/images/upload/71600.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-movie-18-special-pikachu-to-pokemon-ongakutai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

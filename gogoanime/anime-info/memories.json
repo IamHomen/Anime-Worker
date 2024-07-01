@@ -13,5 +13,18 @@
   "synopsis": "From\u00a0Ootomo Katsuhiro, acclaimed creator of Akira, comes an animated masterpiece; three short stories all put together as a series of Memories. Part one is titled Magnetic Rose, a science fiction tale that tells a chilling story of love, loss, and the unwillingness to forget. Part two is titled Stink Bomb - a tongue-in-cheek story of a chemical researcher who is just looking for a way to get rid of his cold... so why is everybody around him dying? Story three is titled Cannon fodder, and is an introspective tale about modern wars and simply following orders. Music conducted by Yoko Kanno, Jun Miyake, Hiroyuki Nagashima, and Takkyu Ishino.",
   "animeImg": "https://gogocdn.net/images/anime/M/Memories.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "memories-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "memories-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "memories-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

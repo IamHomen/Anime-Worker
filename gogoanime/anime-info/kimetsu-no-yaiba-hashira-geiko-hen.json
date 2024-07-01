@@ -13,5 +13,38 @@
   "synopsis": "New season of Kimetsu no Yaiba.",
   "animeImg": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

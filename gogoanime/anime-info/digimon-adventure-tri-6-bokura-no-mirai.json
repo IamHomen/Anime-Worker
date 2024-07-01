@@ -13,5 +13,26 @@
   "synopsis": "Sixth and final Digimon Adventure tri film.",
   "animeImg": "https://gogocdn.net/cover/digimon-adventure-tri-6-bokura-no-mirai.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-adventure-tri-6-bokura-no-mirai-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "digimon-adventure-tri-6-bokura-no-mirai-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "digimon-adventure-tri-6-bokura-no-mirai-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "digimon-adventure-tri-6-bokura-no-mirai-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "digimon-adventure-tri-6-bokura-no-mirai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

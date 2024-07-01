@@ -13,5 +13,14 @@
   "synopsis": "New Queen's Blade OVA.",
   "animeImg": "https://gogocdn.net/cover/queens-blade-unlimited.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "queens-blade-unlimited-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "queens-blade-unlimited-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

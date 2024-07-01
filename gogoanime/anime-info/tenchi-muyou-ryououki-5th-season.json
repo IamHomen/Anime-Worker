@@ -15,5 +15,30 @@
   "synopsis": "Tenchi Muyou 5th season.",
   "animeImg": "https://gogocdn.net/cover/tenchi-muyou-ryououki-5th-season.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tenchi-muyou-ryououki-5th-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryououki-5th-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryououki-5th-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryououki-5th-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryououki-5th-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryououki-5th-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

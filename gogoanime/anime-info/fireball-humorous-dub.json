@@ -12,5 +12,18 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/fireball-humorous-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fireball-humorous-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fireball-humorous-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fireball-humorous-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "A poster displayed at AnimeJapan revealed that a new Yowamushi Pedal movie will premiere in Summer 2015. It will be an original story written by the mangaka, Wataru Watanabe.",
   "animeImg": "https://gogocdn.net/cover/yowamushi-pedal-movie.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yowamushi-pedal-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

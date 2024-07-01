@@ -13,5 +13,10 @@
   "synopsis": "A direct continuation of Side:Galo set a day before the film.",
   "animeImg": "https://gogocdn.net/cover/promare-lio-hen-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "promare-lio-hen-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

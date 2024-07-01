@@ -11,5 +11,54 @@
   "synopsis": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
   "animeImg": "https://gogocdn.net/cover/guraburu.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "guraburu-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "guraburu-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "guraburu-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "guraburu-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "guraburu-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "guraburu-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "guraburu-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "guraburu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "guraburu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "guraburu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "guraburu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "guraburu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

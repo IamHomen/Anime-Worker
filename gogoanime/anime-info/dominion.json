@@ -13,5 +13,22 @@
   "synopsis": "Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters.",
   "animeImg": "https://gogocdn.net/cover/dominion.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dominion-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "dominion-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "dominion-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dominion-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

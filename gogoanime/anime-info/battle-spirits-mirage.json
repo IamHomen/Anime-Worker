@@ -14,5 +14,22 @@
   "synopsis": "Sequel to Battle Spirits: Kakumei no Galette.",
   "animeImg": "https://gogocdn.net/cover/battle-spirits-mirage.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "battle-spirits-mirage-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "battle-spirits-mirage-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "battle-spirits-mirage-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "battle-spirits-mirage-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

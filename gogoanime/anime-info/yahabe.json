@@ -11,5 +11,10 @@
   "synopsis": "Yosuke Kamogawa had nothing to live for, but a mysterious pyramid appears called Yahabe! With the power to turn back time, how will Yosuke's life change?",
   "animeImg": "https://gogocdn.net/cover/yahabe.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yahabe-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,26 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/crazy-queen-of-magic-kitchen.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "crazy-queen-of-magic-kitchen-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "crazy-queen-of-magic-kitchen-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "crazy-queen-of-magic-kitchen-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "crazy-queen-of-magic-kitchen-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "crazy-queen-of-magic-kitchen-episode-1-6-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

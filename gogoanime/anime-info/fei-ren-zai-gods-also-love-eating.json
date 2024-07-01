@@ -12,5 +12,18 @@
   "synopsis": "The hilarious everyday lives of ancient deities and mythical creatures in the modern world.",
   "animeImg": "https://gogocdn.net/cover/fei-ren-zai-gods-also-love-eating.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fei-ren-zai-gods-also-love-eating-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fei-ren-zai-gods-also-love-eating-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fei-ren-zai-gods-also-love-eating-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

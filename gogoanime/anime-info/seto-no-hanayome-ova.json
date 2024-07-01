@@ -13,5 +13,14 @@
   "synopsis": "A young boy gets saved from drowning by a mermaid but, according to mermaid law, if a human sees a mermaid\u2019s true form, both have to be killed. The only way to save them is to get married.",
   "animeImg": "https://gogocdn.net/images/anime/S/seto-no-hanayome.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "seto-no-hanayome-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "seto-no-hanayome-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

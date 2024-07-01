@@ -14,5 +14,18 @@
   "synopsis": "A collection of stories involving the girls of To Heart 2, with each episode focusing on a different character.",
   "animeImg": "https://gogocdn.net/cover/to-heart-2-ova.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "to-heart-2-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "to-heart-2-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "to-heart-2-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

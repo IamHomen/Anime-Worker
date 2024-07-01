@@ -10,5 +10,10 @@
   "synopsis": "A mysterious girl suddenly appears before Kirari, a timid grade school girl who rather doing nothing but draw. The mysterious girl drags Kirari into the outside world, and they draw various things for the first time together.",
   "animeImg": "https://gogocdn.net/cover/kirakira-kirari.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kirakira-kirari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

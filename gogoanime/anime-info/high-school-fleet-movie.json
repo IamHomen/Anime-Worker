@@ -12,5 +12,10 @@
   "synopsis": "Announced in April 2018.",
   "animeImg": "https://gogocdn.net/cover/high-school-fleet-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "high-school-fleet-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

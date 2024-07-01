@@ -10,5 +10,34 @@
   "synopsis": "Side stories released exclusively on DVD.",
   "animeImg": "https://gogocdn.net/cover/shigofumi-picture-drama.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shigofumi-picture-drama-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "shigofumi-picture-drama-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shigofumi-picture-drama-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shigofumi-picture-drama-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shigofumi-picture-drama-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shigofumi-picture-drama-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shigofumi-picture-drama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

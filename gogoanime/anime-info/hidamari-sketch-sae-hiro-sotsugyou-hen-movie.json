@@ -11,5 +11,14 @@
   "synopsis": "The anime will center on the graduation of Sae and Hiro.",
   "animeImg": "https://gogocdn.net/images/anime/H/Hidamari Sketch - Sae Hiro Sotsugyou-hen.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hidamari-sketch-sae-hiro-sotsugyou-hen-movie-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hidamari-sketch-sae-hiro-sotsugyou-hen-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

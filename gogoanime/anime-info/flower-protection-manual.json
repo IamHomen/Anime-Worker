@@ -10,5 +10,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/flower-protection-manual-1695094491.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "flower-protection-manual-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "flower-protection-manual-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

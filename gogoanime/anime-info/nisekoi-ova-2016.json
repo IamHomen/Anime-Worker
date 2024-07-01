@@ -14,5 +14,14 @@
   "synopsis": "Bundled with the 21st volume of the Nisekoi manga.",
   "animeImg": "https://gogocdn.net/cover/nisekoi-ova-2016.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nisekoi-ova-2016-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nisekoi-ova-2016-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

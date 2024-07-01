@@ -12,5 +12,10 @@
   "synopsis": "Movie based on the Ami series of the Cream Lemon franchise. This movie was co-aired with Project A-Ko movie.",
   "animeImg": "https://gogocdn.net/cover/tabidachi-ami-shuushou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tabidachi-ami-shuushou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

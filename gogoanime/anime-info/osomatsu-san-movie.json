@@ -11,5 +11,10 @@
   "synopsis": "The film centers on the sextuplets at a high school class reunion. There, they see all their former classmates who have become \"proper\" adults with company jobs. The sextuplets sulk about this and go home and drink until they fall asleep. But when they wake up, a certain scene awaits them.",
   "animeImg": "https://gogocdn.net/cover/osomatsu-san-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "osomatsu-san-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

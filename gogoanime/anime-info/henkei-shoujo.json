@@ -11,5 +11,26 @@
   "synopsis": "Shorts about girls who transform into machines. The first episode focuses on Haru, a girl who transforms into a fighter jet while trying to catch a hat blowing away in the wind.",
   "animeImg": "https://gogocdn.net/cover/henkei-shoujo.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "henkei-shoujo-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "henkei-shoujo-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "henkei-shoujo-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "henkei-shoujo-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "henkei-shoujo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

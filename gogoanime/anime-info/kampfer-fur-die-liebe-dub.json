@@ -14,5 +14,14 @@
   "synopsis": "A two-episode special. They are designated as Episodes 13 and 14, and the first episode is a direct sequel to the previous series while the second episode is about the trans-sex of Natsuru.",
   "animeImg": "https://gogocdn.net/cover/kampfer-fur-die-liebe-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kampfer-fur-die-liebe-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kampfer-fur-die-liebe-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

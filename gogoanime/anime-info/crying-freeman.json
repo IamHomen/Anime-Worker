@@ -15,5 +15,30 @@
   "synopsis": "Yo Hinomura was an ordinary Japanese potter when a run-in with a Chinese mafia changed his life forever. Now an assassin for the 108 Dragons, Yo is the perfect killing machine. As a sign for remorse over his victims, he sheds tears after eliminating his targets. Because of this, he is infamously known by the Dragons and every crime syndicate in the world as \"Crying Freeman.\"",
   "animeImg": "https://gogocdn.net/cover/crying-freeman.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "crying-freeman-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "crying-freeman-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "crying-freeman-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "crying-freeman-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "crying-freeman-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "crying-freeman-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

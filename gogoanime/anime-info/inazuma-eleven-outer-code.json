@@ -10,5 +10,30 @@
   "synopsis": "A spin-off of the Inazuma Eleven soccer anime franchise. The first episode features the Fubuki brothers.",
   "animeImg": "https://gogocdn.net/cover/inazuma-eleven-outer-code-1689128578.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inazuma-eleven-outer-code-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "inazuma-eleven-outer-code-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "inazuma-eleven-outer-code-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "inazuma-eleven-outer-code-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "inazuma-eleven-outer-code-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "inazuma-eleven-outer-code-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

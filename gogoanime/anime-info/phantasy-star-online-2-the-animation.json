@@ -10,5 +10,54 @@
   "synopsis": "TV anime adaptation of the online RPG game Phantasy Star Online 2. It will feature an original story that takes place on Earth in the near future.",
   "animeImg": "https://gogocdn.net/images/upload/77246.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "phantasy-star-online-2-the-animation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

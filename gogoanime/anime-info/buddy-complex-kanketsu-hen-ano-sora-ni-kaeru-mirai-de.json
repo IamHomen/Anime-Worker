@@ -12,5 +12,14 @@
   "synopsis": "Sequel of\u00a0Buddy Complex.",
   "animeImg": "https://gogocdn.net/images/fall/Buddy Complex Kanketsu-hen.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

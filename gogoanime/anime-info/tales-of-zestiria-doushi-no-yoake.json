@@ -10,5 +10,10 @@
   "synopsis": "TV anime special of Bandai Namco Games' Tales of Zestiria role-playing game.",
   "animeImg": "https://gogocdn.net/images/upload/69719.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tales-of-zestiria-doushi-no-yoake-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

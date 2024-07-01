@@ -14,5 +14,10 @@
   "synopsis": "A collection of short stories that take a refreshing and humorous look at the sexual relationships between young people in Japan.",
   "animeImg": "https://gogocdn.net/cover/dounika-naru-hibi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dounika-naru-hibi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

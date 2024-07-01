@@ -10,5 +10,58 @@
   "synopsis": "Taishou is the entrepreneurial ramen chef of Neko Rahmen, the only restaurant in Tokyo run by a cat. All 13 episodes are produced by a different cutting-edge creator\u2014each creator's vision and unique style harmonizes into a fantastic anime series.",
   "animeImg": "https://gogocdn.net/cover/neko-ramen.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "neko-ramen-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "neko-ramen-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "neko-ramen-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "neko-ramen-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "neko-ramen-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "neko-ramen-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "neko-ramen-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "neko-ramen-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "neko-ramen-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "neko-ramen-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "neko-ramen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "neko-ramen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "neko-ramen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

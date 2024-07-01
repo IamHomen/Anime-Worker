@@ -13,5 +13,18 @@
   "synopsis": "Continuation of the series.",
   "animeImg": "https://gogocdn.net/cover/haou-daikei-ryuu-knight-adeu-legend-ii.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haou-daikei-ryuu-knight-adeu-legend-ii-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "haou-daikei-ryuu-knight-adeu-legend-ii-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "haou-daikei-ryuu-knight-adeu-legend-ii-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

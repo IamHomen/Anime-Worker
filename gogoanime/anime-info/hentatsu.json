@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/hentatsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hentatsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

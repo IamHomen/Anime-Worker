@@ -11,5 +11,42 @@
   "synopsis": "Unaired \"Miniature Theater\" (the specials inserted at the end of the main episodes) included in the Kitakubu Katsudou Kiroku DVD/BD volumes 2, 3 and 4.",
   "animeImg": "https://gogocdn.net/cover/kitakubu-katsudou-kiroku-miniature-theater.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kitakubu-katsudou-kiroku-miniature-theater-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

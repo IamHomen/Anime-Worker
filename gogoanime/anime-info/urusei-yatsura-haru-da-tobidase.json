@@ -15,5 +15,10 @@
   "synopsis": "Broadcast between episodes 21 and 22, the Spring special was a 1-hr show with 2 parts. The first part, \"Urusei Yatsura All-Star All-Out Attack!\", was a series of outtakes from the preceding episodes and recaps of the first 21 episodes. The second part, \"The School Excursion! Run, Kunoichi!\", was an original episode, but not part of the ongoing series.",
   "animeImg": "https://gogocdn.net/cover/urusei-yatsura-haru-da-tobidase.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "urusei-yatsura-haru-da-tobidase-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

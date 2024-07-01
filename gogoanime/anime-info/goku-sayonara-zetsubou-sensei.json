@@ -13,5 +13,18 @@
   "synopsis": "Sayonara Zetsubou Sensei OVA.",
   "animeImg": "https://gogocdn.net/cover/goku-sayonara-zetsubou-sensei.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "goku-sayonara-zetsubou-sensei-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "goku-sayonara-zetsubou-sensei-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "goku-sayonara-zetsubou-sensei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

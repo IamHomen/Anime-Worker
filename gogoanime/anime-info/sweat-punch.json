@@ -13,5 +13,26 @@
   "synopsis": "Sweat Punch is a series of five Studio 4\u00b0C shorts collected as a direct-to-DVD package film entitled Deep Imagination.",
   "animeImg": "https://gogocdn.net/cover/sweat-punch.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sweat-punch-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sweat-punch-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sweat-punch-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sweat-punch-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sweat-punch-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

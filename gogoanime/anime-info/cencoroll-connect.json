@@ -11,5 +11,10 @@
   "synopsis": "The sequel to Cencoroll.",
   "animeImg": "https://gogocdn.net/cover/cencoroll-connect.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cencoroll-connect-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

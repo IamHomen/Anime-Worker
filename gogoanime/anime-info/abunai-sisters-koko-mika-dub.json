@@ -12,5 +12,46 @@
   "synopsis": "Computer-animated gag shorts about two female agents.",
   "animeImg": "https://gogocdn.net/cover/abunai-sisters-koko-mika-dub.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "abunai-sisters-koko-mika-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Pen-Pen, the hat-and-tie-wearing prince of Penguin Land, turns up unexpectedly on little Mika's doorstep. and invites himself and his zany friends to stay.\r\n\r\nBased on the manga by Muroyama Mayumi, serialised in Shougaku Ninensei.",
   "animeImg": "https://gogocdn.net/cover/mr-pen-pen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mr-pen-pen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

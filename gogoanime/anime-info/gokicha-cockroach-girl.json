@@ -10,5 +10,14 @@
   "synopsis": "A heartwarming story about a cockroach girl who tries to be liked by humans while dodging the insecticide.",
   "animeImg": "https://gogocdn.net/images/anime/G/Gokicha-Cockroach-Girl.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gokicha-cockroach-girl-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gokicha-cockroach-girl-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

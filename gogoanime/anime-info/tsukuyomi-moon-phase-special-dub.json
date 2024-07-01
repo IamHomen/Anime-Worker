@@ -12,5 +12,10 @@
   "synopsis": "DVD special.",
   "animeImg": "https://gogocdn.net/cover/tsukuyomi-moon-phase-special-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tsukuyomi-moon-phase-special-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

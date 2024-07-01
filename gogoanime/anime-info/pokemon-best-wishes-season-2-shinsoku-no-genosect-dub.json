@@ -14,5 +14,10 @@
   "synopsis": "The 16th Pokemon movie and the 3rd \"Best Wishes!\" movie.",
   "animeImg": "https://gogocdn.net/cover/pokemon-best-wishes-season-2-shinsoku-no-genosect-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-best-wishes-season-2-shinsoku-no-genosect-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

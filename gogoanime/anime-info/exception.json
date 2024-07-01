@@ -12,5 +12,38 @@
   "synopsis": "In the distant future, human beings have been forced to leave earth and migrate to another galaxy. An advanced team of spacecraft arrives at a planet that is to be terraformed. Each member of the team is output by a biological 3D printer.",
   "animeImg": "https://gogocdn.net/cover/exception.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "exception-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "exception-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "exception-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "exception-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "exception-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "exception-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "exception-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "exception-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

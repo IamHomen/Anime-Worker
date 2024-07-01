@@ -11,5 +11,10 @@
   "synopsis": "\u201cWe\u2019re going to launch a manga magazine!\u201d A team of girls with zero experience in manga editing are off and running toward their dream of creating the biggest manga magazine in Japan! They seem to do nothing but run into problems and failures\u2026 But still they\u2019re working hard every day!",
   "animeImg": "https://gogocdn.net/images/anime/M/mangirl.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mangirl-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

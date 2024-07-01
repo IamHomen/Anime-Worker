@@ -12,5 +12,10 @@
   "synopsis": "Episode 0 of Free!: Dive to the Future was shown at a special Free! event. Episode 1 also pre-aired during this same event. Episode 0 will eventually be included in the BD/DVD release of Free!: Dive to the Future.",
   "animeImg": "https://gogocdn.net/cover/free-dive-to-the-future-episode-0-dub.png",
   "totalEpisodes": "0",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "free-dive-to-the-future-episode-0-dub",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

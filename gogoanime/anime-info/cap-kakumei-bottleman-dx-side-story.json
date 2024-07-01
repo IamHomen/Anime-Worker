@@ -10,5 +10,38 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/cap-kakumei-bottleman-dx-side-story.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "cap-kakumei-bottleman-dx-side-story-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

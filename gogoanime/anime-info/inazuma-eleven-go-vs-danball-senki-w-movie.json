@@ -13,5 +13,10 @@
   "synopsis": "Inazuma Eleven Go vs Danball Senki W Movie",
   "animeImg": "https://gogocdn.net/images/Inazuma-Eleven-Go-vs-Danball-Senki-W-Movie.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inazuma-eleven-go-vs-danball-senki-w-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

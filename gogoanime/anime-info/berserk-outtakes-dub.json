@@ -15,5 +15,30 @@
   "synopsis": "These \"outtakes\" are comedic specials from the DVDs, meant to be watched after the main show",
   "animeImg": "https://gogocdn.net/cover/berserk-outtakes-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "berserk-outtakes-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "berserk-outtakes-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "berserk-outtakes-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "berserk-outtakes-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "berserk-outtakes-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "berserk-outtakes-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,30 @@
   "synopsis": "Short episodes aired on KyoAni\u2019s official YouTube channel.",
   "animeImg": "https://gogocdn.net/images/anime/C/chuunibyou_demo_koi_ga_shitai_lite.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-lite-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-lite-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-lite-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-lite-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-lite-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-lite-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

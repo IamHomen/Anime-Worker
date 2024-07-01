@@ -14,5 +14,10 @@
   "synopsis": "Based on Oomori Fujino's light novel series.",
   "animeImg": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

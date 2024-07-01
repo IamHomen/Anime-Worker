@@ -14,5 +14,14 @@
   "synopsis": "Specials included with the Blu-ray/DVD release of Gabriel DropOut.",
   "animeImg": "https://gogocdn.net/cover/gabriel-dropout-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gabriel-dropout-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gabriel-dropout-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

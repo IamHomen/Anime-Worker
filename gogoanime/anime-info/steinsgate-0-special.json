@@ -11,5 +11,10 @@
   "synopsis": "Unaired episode included with the volume 6 BD/DVD release of Steins;Gate 0.",
   "animeImg": "https://gogocdn.net/cover/steinsgate-0-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "steinsgate-0-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

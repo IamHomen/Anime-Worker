@@ -12,5 +12,22 @@
   "synopsis": "The anime portrays a look into the life of a job hunting junior college girl as she lives alone with her black cat.",
   "animeImg": "https://gogocdn.net/images/upload/78067.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kanojo-to-kanojo-no-neko-everything-flows-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kanojo-to-kanojo-no-neko-everything-flows-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kanojo-to-kanojo-no-neko-everything-flows-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kanojo-to-kanojo-no-neko-everything-flows-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

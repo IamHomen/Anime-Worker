@@ -12,5 +12,54 @@
   "synopsis": "Set in an RPG world with swords and magic, warriors must form a party to defeat the demon lord. But, these warriors are all wearing Bikini armor!!",
   "animeImg": "https://gogocdn.net/images/upload/bikini_w.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bikini-warriors-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bikini-warriors-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

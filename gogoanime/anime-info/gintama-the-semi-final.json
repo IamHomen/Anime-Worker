@@ -15,5 +15,14 @@
   "synopsis": "New special that will tie into the third new Gintama anime film.",
   "animeImg": "https://gogocdn.net/cover/gintama-the-semi-final.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gintama-the-semi-final-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gintama-the-semi-final-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

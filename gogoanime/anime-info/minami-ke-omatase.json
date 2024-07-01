@@ -11,5 +11,10 @@
   "synopsis": "Original anime DVD bundled with the 10th manga volume (adapted the 179th, 181th, 185th, 189th, and 192nd chapters).",
   "animeImg": "https://gogocdn.net/images/anime/M/Minami-ke-Omatase.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "minami-ke-omatase-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,46 @@
   "synopsis": "Each episode tells a different story from Grimm's Fairy Tales.",
   "animeImg": "https://gogocdn.net/cover/sekai-douwa-anime-zenshuu.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sekai-douwa-anime-zenshuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

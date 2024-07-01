@@ -11,5 +11,10 @@
   "synopsis": "Mangaka Shoutarou Tokunou announced via his Twitter that an unaired thirteenth episode of New Game! about an open-air bath will be distributed to those who have collected the tickets that are included with all six BD and DVD volumes.",
   "animeImg": "https://gogocdn.net/cover/new-game-watashi-shain-ryokou-tte-hajimete-nano-de.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "new-game-watashi-shain-ryokou-tte-hajimete-nano-de-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

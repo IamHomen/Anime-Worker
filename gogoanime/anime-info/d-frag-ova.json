@@ -10,5 +10,10 @@
   "synopsis": "Bundled with the ninth special-edition volume of\u00a0D-Frag!\u00a0manga.The DVD adapted the popular Shrine Water arc",
   "animeImg": "https://gogocdn.net/images/summer/D-frag ova.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "d-frag-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

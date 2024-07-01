@@ -14,5 +14,10 @@
   "synopsis": "An extended version of the second season's first episode, which is under the same title.",
   "animeImg": "https://gogocdn.net/cover/is-infinite-stratos-2-hitonatsu-no-omoide-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "is-infinite-stratos-2-hitonatsu-no-omoide-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

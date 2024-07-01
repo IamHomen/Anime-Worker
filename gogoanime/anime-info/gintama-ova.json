@@ -15,5 +15,10 @@
   "synopsis": "Bundled with limited edition of the 58th Gintama manga volume. The tagline for the bundled anime reads, \"It's time for all the Yorozuya members ...to wake up just one more time.\"",
   "animeImg": "https://gogocdn.net/images/upload/Gintama OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gintama-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

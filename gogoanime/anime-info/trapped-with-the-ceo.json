@@ -10,5 +10,54 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/trapped-with-the-ceo.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "trapped-with-the-ceo-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "trapped-with-the-ceo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

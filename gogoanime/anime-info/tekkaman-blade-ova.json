@@ -13,5 +13,30 @@
   "synopsis": "The first OVA, Burning Clock, tells the story of the Aiba family, goes into further detail about Shinya and Takaya's rivalry.",
   "animeImg": "https://gogocdn.net/images/anime/Tekkaman Blade OVA.gif",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tekkaman-blade-ova-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tekkaman-blade-ova-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tekkaman-blade-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tekkaman-blade-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tekkaman-blade-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tekkaman-blade-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

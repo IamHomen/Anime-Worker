@@ -11,5 +11,10 @@
   "synopsis": "Based on the manga by Tsuchiya Garon (aka Marley Carib), art by Kawaguchi Kaiji, serialised in Action in the 80s.",
   "animeImg": "https://gogocdn.net/cover/shiritsutantei-toki-shouzou-trouble-note-hard-loose.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shiritsutantei-toki-shouzou-trouble-note-hard-loose-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

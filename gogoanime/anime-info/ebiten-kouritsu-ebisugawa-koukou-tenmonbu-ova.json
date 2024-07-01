@@ -14,5 +14,10 @@
   "synopsis": "Blu-ray disc bundled with the fourth volume of the manga.",
   "animeImg": "https://gogocdn.net/images/Ebiten Kouritsu Ebisugawa Koukou Tenmonbu OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

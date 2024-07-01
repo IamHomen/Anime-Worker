@@ -13,5 +13,54 @@
   "synopsis": "Acchi Kocchi follows the misadventures, screw ups, and idiocy of 5 schoolmates: Io, Tsumiki, Hime, Mayoi, and Sakaki.",
   "animeImg": "https://gogocdn.net/images/anime/acchi-kocchi.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "acchi-kocchi-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "acchi-kocchi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

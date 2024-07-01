@@ -13,5 +13,18 @@
   "synopsis": "Remake of the first season of Doupo Cangqiong.",
   "animeImg": "https://gogocdn.net/cover/doupo-cangqiong-yuanqi.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doupo-cangqiong-yuanqi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "doupo-cangqiong-yuanqi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "doupo-cangqiong-yuanqi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

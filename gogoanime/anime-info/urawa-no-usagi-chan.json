@@ -10,5 +10,54 @@
   "synopsis": "An original anime to advertise Urawa City in Saitama, Japan.",
   "animeImg": "https://gogocdn.net/images/upload/72367.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "urawa-no-usagi-chan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

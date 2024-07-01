@@ -12,5 +12,38 @@
   "synopsis": "An animated series created to celebrate 25 years of the global entertainment franchise. Each episode will take fans on a journey through all the known regions of the Pok\u00e9mon world.",
   "animeImg": "https://gogocdn.net/cover/pokemon-evolutions-dub.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pokemon-evolutions-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

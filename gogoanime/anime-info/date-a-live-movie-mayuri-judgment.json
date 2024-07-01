@@ -12,5 +12,10 @@
   "synopsis": "The movie adaptation announced at the end of the final episode of Date A Live II.",
   "animeImg": "https://gogocdn.net/cover/date-a-live-movie-mayuri-judgment.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "date-a-live-movie-mayuri-judgment-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

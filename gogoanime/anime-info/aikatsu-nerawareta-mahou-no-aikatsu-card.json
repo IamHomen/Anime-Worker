@@ -13,5 +13,10 @@
   "synopsis": "Short anime screened alongside Aikatsu Stars! Movie. The film and the short will mark the first time the franchise is screening a double feature.",
   "animeImg": "https://gogocdn.net/cover/aikatsu-nerawareta-mahou-no-aikatsu-card.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aikatsu-nerawareta-mahou-no-aikatsu-card-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

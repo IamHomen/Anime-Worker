@@ -14,5 +14,38 @@
   "synopsis": "Jing-Ju Cats is a series filled with comedy, magic and Kung-Fu, set in the fictional cat kingdom of Purpetua. Once known as a cat's paradise, it is now a chaotic monster-infested land where evil reigns supreme. The Dark Lord An, with his mutant monster cats, has taken over. Join the mythical Jing-Ju Cats, led by Lil' Pai, as they set out to defeat the Dark Lord and reclaim their homeland.",
   "animeImg": "https://gogocdn.net/cover/jingju-mao.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jingju-mao-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "jingju-mao-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "jingju-mao-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "jingju-mao-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "jingju-mao-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "jingju-mao-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "jingju-mao-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jingju-mao-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

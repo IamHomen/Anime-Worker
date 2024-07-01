@@ -13,5 +13,10 @@
   "synopsis": "A new episode included with the complete Blu-ray box collection of A-Channel.",
   "animeImg": "https://gogocdn.net/cover/a-channel-nabe-wo-tabeyou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "a-channel-nabe-wo-tabeyou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

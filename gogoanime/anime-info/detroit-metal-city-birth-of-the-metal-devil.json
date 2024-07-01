@@ -13,5 +13,10 @@
   "synopsis": "This is a special introductory episode of Detroit Metal City.",
   "animeImg": "https://gogocdn.net/cover/detroit-metal-city-birth-of-the-metal-devil.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "detroit-metal-city-birth-of-the-metal-devil-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

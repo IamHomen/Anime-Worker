@@ -11,5 +11,30 @@
   "synopsis": "A series of short animations that show different worlds and different characters. These episodes are designed to take the viewer into a psychological world of fantasy and mystery.",
   "animeImg": "https://gogocdn.net/cover/digital-juice.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digital-juice-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "digital-juice-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "digital-juice-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "digital-juice-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "digital-juice-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "digital-juice-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

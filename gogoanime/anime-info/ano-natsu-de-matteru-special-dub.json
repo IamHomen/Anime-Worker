@@ -14,5 +14,10 @@
   "synopsis": "Special episode included in the Blu-ray Box of Ano Natsu de Matteru.",
   "animeImg": "https://gogocdn.net/cover/ano-natsu-de-matteru-special-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ano-natsu-de-matteru-special-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

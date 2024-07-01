@@ -11,5 +11,10 @@
   "synopsis": "A picture drama special bundled with the BD/DVD release of the main film. It focuses on the relationship between Sena and Midori.",
   "animeImg": "https://gogocdn.net/cover/zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai-kinyoubi-no-ohayou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai-kinyoubi-no-ohayou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

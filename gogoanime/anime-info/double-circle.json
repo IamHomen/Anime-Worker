@@ -11,5 +11,30 @@
   "synopsis": "Double Circle is the original web anime by Toshiba which has the theme of the smart community in Kawasaki. It is the story of the people who live in Kawasaki, and which incorporated the idea of energy, environment, and activation of the regional economy using ICT.",
   "animeImg": "https://gogocdn.net/images/anime/D/double-circle.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "double-circle-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "double-circle-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "double-circle-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "double-circle-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "double-circle-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "double-circle-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

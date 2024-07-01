@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/rich-player-1.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rich-player-1-episode-1-26-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "A rearrangement of the\u00a0Star Driver: Kagayaki no Takuto\u00a0TV series, with new post-ending epilogue.",
   "animeImg": "https://gogocdn.net/images/anime/S/Star-Driver-The-Movie.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "star-driver-the-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Doppler has set up a trap for the Jasdam, and it is up to the Danguard Ace to save it.",
   "animeImg": "https://gogocdn.net/cover/wakusei-robo-danguard-ace-uchuu-daikaisen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wakusei-robo-danguard-ace-uchuu-daikaisen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Paniponi Dash! special included in the DVD-Box.",
   "animeImg": "https://gogocdn.net/images/Pani_Poni_Dash OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pani-poni-dash-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

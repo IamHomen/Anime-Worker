@@ -11,5 +11,10 @@
   "synopsis": "An anime based on the Romance of the Three Kingdoms novel.",
   "animeImg": "https://gogocdn.net/cover/sangokushi-daisanbu-harukanaru-taichi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sangokushi-daisanbu-harukanaru-taichi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

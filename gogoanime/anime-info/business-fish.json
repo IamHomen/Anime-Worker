@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/business-fish.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "business-fish-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

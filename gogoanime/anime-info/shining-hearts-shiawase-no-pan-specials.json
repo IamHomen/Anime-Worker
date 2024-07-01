@@ -10,5 +10,30 @@
   "synopsis": "Rick lives on the island of Windaria, inhabited by various races such as elves and beast-people. Amnesiac, he is rescued by three young ladies and taken to work in their bakery.\nBut when a red moon rises and a deathly wind blows, they\u2019ll all be engulfed in strange events.",
   "animeImg": "https://gogocdn.net/images/anime/S/shining-hearts-shiawase-no-pan.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shining-hearts-shiawase-no-pan-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shining-hearts-shiawase-no-pan-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shining-hearts-shiawase-no-pan-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shining-hearts-shiawase-no-pan-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shining-hearts-shiawase-no-pan-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shining-hearts-shiawase-no-pan-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,54 @@
   "synopsis": "A crossover television anime featuring chibi renditions of characters from Kanon, Air, Clannad, Little Busters!, Rewrite, and additional Key franchises to be revealed at a later date.",
   "animeImg": "https://gogocdn.net/cover/kaginado.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaginado-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "kaginado-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "kaginado-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kaginado-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kaginado-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kaginado-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kaginado-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kaginado-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kaginado-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kaginado-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kaginado-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kaginado-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

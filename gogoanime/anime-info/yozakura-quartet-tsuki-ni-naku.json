@@ -13,5 +13,18 @@
   "synopsis": "Bundled with the limited-edition volumes of the manga (14th-16th). The first volume was screened at a special event on 20.08.2013, DVD was released on 09.10.2013.",
   "animeImg": "https://gogocdn.net/images/yozakura-quartet-tsuki-ni-naku.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yozakura-quartet-tsuki-ni-naku-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yozakura-quartet-tsuki-ni-naku-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yozakura-quartet-tsuki-ni-naku-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

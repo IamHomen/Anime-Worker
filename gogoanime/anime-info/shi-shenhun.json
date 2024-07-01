@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/shi-shenhun.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shi-shenhun-episode-1-12-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

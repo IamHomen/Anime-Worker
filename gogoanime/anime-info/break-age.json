@@ -12,5 +12,10 @@
   "synopsis": "In 2007, the inhabitants of Danger Planet II fight their battles using remote-controlled robots or \"virtual puppets.\" Kirio Nimura is a high school student and the strongest puppeteer on the planet, until he falls for Sairi Takahara, who insists that nobody may make advances until they have beaten her puppet, Benkei.",
   "animeImg": "https://gogocdn.net/cover/break-age.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "break-age-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

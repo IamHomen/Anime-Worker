@@ -13,5 +13,38 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/xiao-lu-he-xiao-lan-5th-season.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "xiao-lu-he-xiao-lan-5th-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

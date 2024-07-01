@@ -13,5 +13,10 @@
   "synopsis": "24th Detective Conan Movie.",
   "animeImg": "https://gogocdn.net/cover/detective-conan-movie-24-the-scarlet-bullet.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "detective-conan-movie-24-the-scarlet-bullet-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,54 @@
   "synopsis": "Let's Go! Tamagotchi is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, ChaMametchi, and their friends. The series premiered in Japan in December 2007, while an English dub was uploaded by Bandai in December 2008. It was originally uploaded a week before the release of the first movie in Japanese.",
   "animeImg": "https://gogocdn.net/cover/saa-ikou-tamagotchi.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "saa-ikou-tamagotchi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

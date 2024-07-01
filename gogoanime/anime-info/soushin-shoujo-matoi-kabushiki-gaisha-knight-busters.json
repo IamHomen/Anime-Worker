@@ -10,5 +10,10 @@
   "synopsis": "An unaired thirteenth episode of Soushin Shoujo Matoi included with the second BD box set.",
   "animeImg": "https://gogocdn.net/cover/soushin-shoujo-matoi-kabushiki-gaisha-knight-busters.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "soushin-shoujo-matoi-kabushiki-gaisha-knight-busters-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

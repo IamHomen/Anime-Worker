@@ -14,5 +14,10 @@
   "synopsis": "Compilation film of the second half of the TV series.",
   "animeImg": "https://gogocdn.net/cover/koutetsujou-no-kabaneri-movie-2-moeru-inochi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koutetsujou-no-kabaneri-movie-2-moeru-inochi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Note: The special edition was broadcasted in the Fate Project New Year's Eve TV Special 2021.",
   "animeImg": "https://gogocdn.net/cover/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-tokubetsu-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-tokubetsu-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,22 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a",
   "animeImg": "https://gogocdn.net/cover/love-love-campus.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "love-love-campus-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "love-love-campus-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "love-love-campus-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "love-love-campus-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

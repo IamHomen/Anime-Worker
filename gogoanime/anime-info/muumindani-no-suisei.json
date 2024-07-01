@@ -13,5 +13,10 @@
   "synopsis": "Unusual things have been happening in Moominvalley. Moomin, Sniff and Mee leave for the Observatory on the Lonely Mountains to confirm the Muskrat's words: a comet is about to hit Moominvalley and destroy everything. On the way they meet Snufkin, the Hemulen and the Snorks and experience many adventures.",
   "animeImg": "https://gogocdn.net/cover/muumindani-no-suisei.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "muumindani-no-suisei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

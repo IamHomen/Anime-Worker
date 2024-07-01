@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/thunderbolt-fantasy-seishi-ikken.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "thunderbolt-fantasy-seishi-ikken-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

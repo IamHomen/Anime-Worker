@@ -13,5 +13,10 @@
   "synopsis": "This fictional story took place in Europe around 1943. At that time Nazi secretly plotted a plan called Urda. Two agents, Janet and Erna received a task to investigate and prevent the completion of the secret plan.",
   "animeImg": "https://gogocdn.net/cover/urda-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "urda-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

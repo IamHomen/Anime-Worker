@@ -12,5 +12,10 @@
   "synopsis": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie The story of the TV series will be retold from Menma's point of view.",
   "animeImg": "https://gogocdn.net/images/anohana-the-movie-the-flower-we-saw-that-day-2014.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "anohana-the-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

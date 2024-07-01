@@ -13,5 +13,10 @@
   "synopsis": "New season of Kimetsu no Yaiba.",
   "animeImg": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimetsu-no-yaiba-hashira-geiko-hen-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -18,5 +18,30 @@
   "synopsis": "Photon Earth is a young and gentle boy with superhuman strength and \"Baka\" (meaning \"idiot\" in Japanese) scribbled on his forehead (apparently by his troublemaking friend Aun Freya). One day, he finds himself engaged to the beautiful fugitive pilot Keyne Acqua after writing \"baka\" on her forehead. And that's the least of his worries as he must protect both Aun and Keyne from the evil Papacharino, who seeks to steal the secrets of \"Aho\" (another word for idiot) energy from Keyne's grandfather's ship.",
   "animeImg": "https://gogocdn.net/cover/photon-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "photon-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "photon-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "photon-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "photon-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "photon-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "photon-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

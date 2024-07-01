@@ -11,5 +11,10 @@
   "synopsis": "Recap of Violet Evergarden.",
   "animeImg": "https://gogocdn.net/cover/violet-evergarden-recollections.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "violet-evergarden-recollections-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "Based on the childrens' book Little Polar Bear by Dutch author Hans de Beer.",
   "animeImg": "https://gogocdn.net/cover/little-polar-bear-shirokuma-kun-doko-e.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "little-polar-bear-shirokuma-kun-doko-e-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

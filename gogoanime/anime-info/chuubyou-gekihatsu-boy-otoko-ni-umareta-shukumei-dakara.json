@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode 12 included with volume 4 of the BD/DVD release.",
   "animeImg": "https://gogocdn.net/cover/chuubyou-gekihatsu-boy-otoko-ni-umareta-shukumei-dakara.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chuubyou-gekihatsu-boy-otoko-ni-umareta-shukumei-dakara-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

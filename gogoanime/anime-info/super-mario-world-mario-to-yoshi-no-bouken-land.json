@@ -12,5 +12,10 @@
   "synopsis": "Super Mario World: Mario to Yoshi no Bouken Land is an interactive anime video based on the game Super Mario World. It is designed for use with Bandai's Terebikko system, which utilizes a telephone-shaped microphone to \"interact\" with the video. It asks the viewer multiple choice questions, such as what will hatch from Yoshi's egg.",
   "animeImg": "https://gogocdn.net/cover/super-mario-world-mario-to-yoshi-no-bouken-land.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "super-mario-world-mario-to-yoshi-no-bouken-land-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

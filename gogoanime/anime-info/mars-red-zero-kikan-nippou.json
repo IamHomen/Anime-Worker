@@ -10,5 +10,26 @@
   "synopsis": "Mini web anime streamed online leading up to the Mars Red TV anime premiere.",
   "animeImg": "https://gogocdn.net/cover/mars-red-zero-kikan-nippou.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mars-red-zero-kikan-nippou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mars-red-zero-kikan-nippou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mars-red-zero-kikan-nippou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mars-red-zero-kikan-nippou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mars-red-zero-kikan-nippou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

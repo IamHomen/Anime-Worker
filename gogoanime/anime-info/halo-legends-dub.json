@@ -13,5 +13,38 @@
   "synopsis": "Halo Legends features seven different stories set in the Halo universe, each made by a different studio.\r\n\r\nThe Babysitter follows the Helljumpers, Orbital Drop Shock Troopers who are sent behind enemy lines to perform an assassination.\r\n\r\nThe Duel features the tale of an ancient Arbiter who refused to bow down to the Covenant religion. Branded a heretic, he must now face the consequences of his actions.\r\n\r\nThe Package depicts a group of Spartans, including the Master Chief, who are deployed to infiltrate a Covenant flagship and retrieve a \u201cpackage\u201d in a secret operation.\r\n\r\nOrigins shows Master Chief and Cortana stranded following the events of Halo 3, with Cortana summarizing the fall of the Forerunners, the defeat of the Flood, and the rise of humanity as well as the events of the Human-Covenant War.\r\n\r\nHomecoming centers on the Spartan Daisy, who reminisces on her past, and the SPARTAN-II project while evacuating UNSC soldiers pinned down by Covenant forces.\r\n\r\nPrototype is viewed from the perspective of Marine Sergeant Ghost, who is determined to fight for all he is worth in order to make up for past grievances.\r\n\r\nOdd One Out is a non-canon parody of Halo featuring Spartan 1337, who suffers from extremely bad luck.",
   "animeImg": "https://gogocdn.net/cover/halo-legends-dub.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "halo-legends-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "halo-legends-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "halo-legends-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "halo-legends-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "halo-legends-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "halo-legends-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "halo-legends-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "halo-legends-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

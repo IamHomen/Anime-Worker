@@ -11,5 +11,10 @@
   "synopsis": "Adaptation of a manga collaboration with the Yamaha Motor Company. Included as an extra with the Blu-ray release.",
   "animeImg": "https://gogocdn.net/cover/heya-camp-sauna-to-gohan-to-sanrin-bike.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "heya-camp-sauna-to-gohan-to-sanrin-bike-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

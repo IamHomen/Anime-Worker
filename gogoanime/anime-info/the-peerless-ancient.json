@@ -14,5 +14,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-peerless-ancient.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-peerless-ancient-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

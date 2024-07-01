@@ -14,5 +14,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/kimetsu-no-yaiba-recap-movie-3-the-hashira-meeting-arc.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimetsu-no-yaiba-recap-movie-3-the-hashira-meeting-arc-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

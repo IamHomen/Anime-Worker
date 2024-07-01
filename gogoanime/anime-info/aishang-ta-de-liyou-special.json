@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/aishang-ta-de-liyou-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aishang-ta-de-liyou-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

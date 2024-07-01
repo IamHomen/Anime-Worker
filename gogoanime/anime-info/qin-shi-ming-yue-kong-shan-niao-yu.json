@@ -13,5 +13,18 @@
   "synopsis": "Spin-off episodes of the franchise Qin Shi Ming Yue focusing on Baifeng.",
   "animeImg": "https://gogocdn.net/cover/qin-shi-ming-yue-kong-shan-niao-yu.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "qin-shi-ming-yue-kong-shan-niao-yu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "qin-shi-ming-yue-kong-shan-niao-yu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "qin-shi-ming-yue-kong-shan-niao-yu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

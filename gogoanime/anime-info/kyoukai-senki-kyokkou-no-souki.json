@@ -11,5 +11,30 @@
   "synopsis": "New entry in the Kyoukai Senki franchise.",
   "animeImg": "https://gogocdn.net/cover/kyoukai-senki-kyokkou-no-souki.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kyoukai-senki-kyokkou-no-souki-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kyoukai-senki-kyokkou-no-souki-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kyoukai-senki-kyokkou-no-souki-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kyoukai-senki-kyokkou-no-souki-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kyoukai-senki-kyokkou-no-souki-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kyoukai-senki-kyokkou-no-souki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

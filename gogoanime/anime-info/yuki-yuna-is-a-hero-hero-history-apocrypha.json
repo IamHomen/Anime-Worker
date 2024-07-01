@@ -11,5 +11,30 @@
   "synopsis": "Yuuki Yuuna wa Yuusha de Aru: Yuushashi Gaiten is a 2-volume spinoff, which is split into three distinct parts.",
   "animeImg": "https://gogocdn.net/cover/yuki-yuna-is-a-hero-hero-history-apocrypha.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuki-yuna-is-a-hero-hero-history-apocrypha-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yuki-yuna-is-a-hero-hero-history-apocrypha-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yuki-yuna-is-a-hero-hero-history-apocrypha-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yuki-yuna-is-a-hero-hero-history-apocrypha-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yuki-yuna-is-a-hero-hero-history-apocrypha-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yuki-yuna-is-a-hero-hero-history-apocrypha-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

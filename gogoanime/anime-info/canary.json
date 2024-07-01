@@ -13,5 +13,10 @@
   "synopsis": "Mika Katagiri wants her band to perform at the upcoming local festival. However, complications arise. Their keyboardist, Jun, refuses to play, and their stage has been cancelled. Refusing to give up, Mika and her band strive to find a way to play at the festival, using any means necessary.",
   "animeImg": "https://gogocdn.net/cover/canary.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "canary-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "synopsis": "A promotional anime made with Tezuka Productions and Kanagawa's Industrial Labor Bureau to showcase a future where there is harmony between humans and robots.",
   "animeImg": "https://gogocdn.net/cover/robot-town-sagami-2028.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "robot-town-sagami-2028-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

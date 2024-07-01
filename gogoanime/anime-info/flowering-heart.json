@@ -11,5 +11,58 @@
   "synopsis": "The series follows several girls who have been bestowed with magical powers. They use these powers to solve everyday problems.",
   "animeImg": "https://gogocdn.net/cover/flowering-heart.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "flowering-heart-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "flowering-heart-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "flowering-heart-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "flowering-heart-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "flowering-heart-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "flowering-heart-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "flowering-heart-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "flowering-heart-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "flowering-heart-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "flowering-heart-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "flowering-heart-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "flowering-heart-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "flowering-heart-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

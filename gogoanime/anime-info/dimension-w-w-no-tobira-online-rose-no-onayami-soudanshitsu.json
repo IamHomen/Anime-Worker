@@ -11,5 +11,26 @@
   "synopsis": "Short specials included in the Blu-ray releases of Dimension W.",
   "animeImg": "https://gogocdn.net/cover/dimension-w-w-no-tobira-online-rose-no-onayami-soudanshitsu.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dimension-w-w-no-tobira-online-rose-no-onayami-soudanshitsu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "dimension-w-w-no-tobira-online-rose-no-onayami-soudanshitsu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "dimension-w-w-no-tobira-online-rose-no-onayami-soudanshitsu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "dimension-w-w-no-tobira-online-rose-no-onayami-soudanshitsu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dimension-w-w-no-tobira-online-rose-no-onayami-soudanshitsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

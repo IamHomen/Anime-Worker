@@ -12,5 +12,38 @@
   "synopsis": "Based on the Ninja Awate-maru comedy manga by Jirou Tsunoda.",
   "animeImg": "https://gogocdn.net/cover/hana-no-zundamaru.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hana-no-zundamaru-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

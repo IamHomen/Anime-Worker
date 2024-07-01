@@ -14,5 +14,58 @@
   "synopsis": "The series, both the anime and novels, are notable for the fact that Morioka created for them an entire language, Baronh (and an accompanying alphabet, Ath), which the Abh speak, read, and write. Almost all written text in the anime is in Baronh, with occasional text in other (invented) languages; at least one planet is shown to have adopted Ath to write their own language (although this is not a plot point, and easily missed)",
   "animeImg": "https://gogocdn.net/cover/star-chronicles.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "star-chronicles-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "star-chronicles-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "star-chronicles-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "star-chronicles-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "star-chronicles-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "star-chronicles-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "star-chronicles-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "star-chronicles-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "star-chronicles-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "star-chronicles-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "star-chronicles-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "star-chronicles-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "star-chronicles-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

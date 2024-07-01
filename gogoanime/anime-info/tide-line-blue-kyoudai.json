@@ -12,5 +12,10 @@
   "synopsis": "DVD only 13th episode of the series.",
   "animeImg": "https://gogocdn.net/cover/tide-line-blue-kyoudai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tide-line-blue-kyoudai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

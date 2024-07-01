@@ -11,5 +11,22 @@
   "synopsis": "Shorts played before Made in Abyss Movie 3: Fukaki Tamashii no Reimei in Japan's theatrical screenings.",
   "animeImg": "https://gogocdn.net/cover/marulk-chan-no-nichijou.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "marulk-chan-no-nichijou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "marulk-chan-no-nichijou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "marulk-chan-no-nichijou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "marulk-chan-no-nichijou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

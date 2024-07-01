@@ -10,5 +10,14 @@
   "synopsis": "A two-episode animation commemorating the 5th anniversary of 'BanG Dream! Girls Band Party!'",
   "animeImg": "https://gogocdn.net/cover/bang-dream-5th-anniversary-animation-circle-thanks-party.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bang-dream-5th-anniversary-animation-circle-thanks-party-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bang-dream-5th-anniversary-animation-circle-thanks-party-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

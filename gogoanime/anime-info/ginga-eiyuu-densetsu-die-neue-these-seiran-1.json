@@ -14,5 +14,22 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/ginga-eiyuu-densetsu-die-neue-these-seiran-1.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ginga-eiyuu-densetsu-die-neue-these-seiran-1-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ginga-eiyuu-densetsu-die-neue-these-seiran-1-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ginga-eiyuu-densetsu-die-neue-these-seiran-1-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ginga-eiyuu-densetsu-die-neue-these-seiran-1-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

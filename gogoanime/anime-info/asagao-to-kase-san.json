@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/asagao-to-kase-san.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "asagao-to-kase-san-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

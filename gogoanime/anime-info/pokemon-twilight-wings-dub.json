@@ -14,5 +14,38 @@
   "synopsis": "Galar is a region where Pok\u00e9mon battles have developed into a cultural sensation. Over the span of seven episodes, \u201cPok\u00e9mon: Twilight Wings\u201d will show in detail the dreams of Galar\u2019s residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pok\u00e9mon originally discovered in the Galar region appearing in the capsule series.",
   "animeImg": "https://gogocdn.net/cover/pokemon-twilight-wings-dub.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pokemon-twilight-wings-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

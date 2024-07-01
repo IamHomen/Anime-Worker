@@ -15,5 +15,18 @@
   "synopsis": "Segua Kingdom has been losing the war against Ninterdo Empire but the tables are turned by the appearance of a boy called Gear. All the characters are parodies of Nintendo or Sega games such as Sonic the Hedgehog, Super Mario Bros., The Legend of Zelda etc.",
   "animeImg": "https://gogocdn.net/images/anime/Aoi Sekai no Chuushin de.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aoi-sekai-no-chuushin-de-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "aoi-sekai-no-chuushin-de-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "aoi-sekai-no-chuushin-de-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

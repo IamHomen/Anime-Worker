@@ -14,5 +14,46 @@
   "synopsis": "Short picture episodes with Risa and Miya from \"Sono Hanabira ni Kuchizuke wo\" visual novel series.",
   "animeImg": "https://gogocdn.net/cover/sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

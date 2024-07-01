@@ -14,5 +14,10 @@
   "synopsis": "The 16th Pokemon movie and the 3rd \"Best Wishes!\" movie.",
   "animeImg": "https://gogocdn.net/cover/pokemon-movie-16-shinsoku-no-genosect-mewtwo-kakusei.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-movie-16-shinsoku-no-genosect-mewtwo-kakusei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

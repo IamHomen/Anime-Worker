@@ -11,5 +11,46 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/glamorous-heroes.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "glamorous-heroes-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "glamorous-heroes-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

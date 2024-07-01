@@ -10,5 +10,18 @@
   "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials.\r\n\r\nMakoto is determined to step out of her model sister's shadow and have her own high school debut, but when Makoto's sister shows up at her school unexpectedly, things go awry.\r\n\r\nRead more at http://myanimelist.net/anime/21773/Sugar*Soldier#ZlR3PrGFuT3bipSG.99",
   "animeImg": "https://gogocdn.net/images/anime/S/Sugar Soldier.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sugar-soldier-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sugar-soldier-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sugar-soldier-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

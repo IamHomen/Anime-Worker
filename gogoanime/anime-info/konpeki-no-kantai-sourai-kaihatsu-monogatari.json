@@ -11,5 +11,10 @@
   "synopsis": "A special which tells the story of the development of the japanese Sourai interceptor plane.",
   "animeImg": "https://gogocdn.net/cover/konpeki-no-kantai-sourai-kaihatsu-monogatari.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "konpeki-no-kantai-sourai-kaihatsu-monogatari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

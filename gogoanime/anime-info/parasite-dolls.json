@@ -11,5 +11,10 @@
   "synopsis": "The year is 2034 AD, humans and their synthetic creations, androids known as\u00a0Boomer, coexist in Tokyo. In order to enforce the law on criminal Boomer, the\u00a0A.D. Police\u00a0formed a special operation organization calledBrunch.",
   "animeImg": "https://gogocdn.net/images/anime/P/Parasite-Dolls.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "parasite-dolls-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

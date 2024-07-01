@@ -15,5 +15,18 @@
   "synopsis": "Touken Ranbu: Hanamaru anime movie trilogy.",
   "animeImg": "https://gogocdn.net/cover/toku-touken-ranbu-hanamaru-setsugetsuka.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toku-touken-ranbu-hanamaru-setsugetsuka-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "toku-touken-ranbu-hanamaru-setsugetsuka-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "toku-touken-ranbu-hanamaru-setsugetsuka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Aggretsuko Specials.",
   "animeImg": "https://gogocdn.net/cover/aggressive-retsuko-we-wish-you-a-metal-christmas.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aggressive-retsuko-we-wish-you-a-metal-christmas-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

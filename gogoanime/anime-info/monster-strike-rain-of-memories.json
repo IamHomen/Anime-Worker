@@ -12,5 +12,10 @@
   "synopsis": "Monster Strike Winter Special",
   "animeImg": "https://gogocdn.net/cover/monster-strike-rain-of-memories.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "monster-strike-rain-of-memories-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

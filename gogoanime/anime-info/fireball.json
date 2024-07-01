@@ -11,5 +11,58 @@
   "synopsis": "Fireball takes place during the war between humans and robots. There is no real story, just individual episode skits.",
   "animeImg": "https://gogocdn.net/cover/fireball.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fireball-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "fireball-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "fireball-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "fireball-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "fireball-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "fireball-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "fireball-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "fireball-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "fireball-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "fireball-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "fireball-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fireball-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fireball-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

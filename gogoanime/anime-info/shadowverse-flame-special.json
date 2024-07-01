@@ -11,5 +11,18 @@
   "synopsis": "Recap of episodes 1 to 25 of Shadowverse Flame.",
   "animeImg": "https://gogocdn.net/cover/shadowverse-flame-special.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shadowverse-flame-special-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shadowverse-flame-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shadowverse-flame--special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

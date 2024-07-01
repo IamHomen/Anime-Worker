@@ -15,5 +15,10 @@
   "synopsis": "Prequel to One Piece Film: Gold.",
   "animeImg": "https://gogocdn.net/cover/one-piece-heart-of-gold.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-heart-of-gold-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

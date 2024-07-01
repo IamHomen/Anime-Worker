@@ -10,5 +10,54 @@
   "synopsis": "Animated adaptations of traditional and historical Japanese stories. Each episode features 2 different stories.",
   "animeImg": "https://gogocdn.net/cover/manga-nihon-emaki.png",
   "totalEpisodes": "46",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "manga-nihon-emaki-episode-46",
+      "episodeNum": "Episode 46"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-45-2",
+      "episodeNum": "Episode 45.2"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-45-1",
+      "episodeNum": "Episode 45.1"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-44-2",
+      "episodeNum": "Episode 44.2"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-44-1",
+      "episodeNum": "Episode 44.1"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-43-1",
+      "episodeNum": "Episode 43.1"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-42",
+      "episodeNum": "Episode 42"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-40-1",
+      "episodeNum": "Episode 40.1"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-38-1",
+      "episodeNum": "Episode 38.1"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-34-1",
+      "episodeNum": "Episode 34.1"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-33-2",
+      "episodeNum": "Episode 33.2"
+    },
+    {
+      "episodeId": "manga-nihon-emaki-episode-30-2",
+      "episodeNum": "Episode 30.2"
+    }
+  ]
 }

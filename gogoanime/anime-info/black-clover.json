@@ -14,5 +14,10 @@
   "synopsis": "An OVA episode bundled with the 11th manga volume.",
   "animeImg": "https://gogocdn.net/cover/black-clover.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "black-clover-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

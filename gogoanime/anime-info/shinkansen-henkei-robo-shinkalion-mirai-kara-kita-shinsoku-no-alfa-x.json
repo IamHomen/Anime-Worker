@@ -13,5 +13,10 @@
   "synopsis": "hinkansen Henkei Robo Shinkalion Movie.",
   "animeImg": "https://gogocdn.net/cover/shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

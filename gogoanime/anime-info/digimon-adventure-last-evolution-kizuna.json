@@ -13,5 +13,10 @@
   "synopsis": "New Digimon Adventure movie commemorating 20th Anniversary.",
   "animeImg": "https://gogocdn.net/cover/digimon-adventure-last-evolution-kizuna.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-adventure-last-evolution-kizuna-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

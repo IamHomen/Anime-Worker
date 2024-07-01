@@ -12,5 +12,14 @@
   "synopsis": "To confront a planetary war at the sand planet of Katuuna, Stitch must leave Yuna and Earth behind.",
   "animeImg": "https://gogocdn.net/cover/stitch-to-suna-no-wakusei.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "stitch-to-suna-no-wakusei-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "stitch-to-suna-no-wakusei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

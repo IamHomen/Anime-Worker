@@ -14,5 +14,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/nezha-zhi-mo-tong-jiang-shi-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nezha-zhi-mo-tong-jiang-shi-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,18 @@
   "synopsis": "After meeting a dancing old man in what she thinks is just a crazy dream, a preteen schoolgirl embarks on a series of fanservice-filled magical girl adventures with a little creature named Ongo who might be evil and a shy girl with mysterious powers named Nami.",
   "animeImg": "https://gogocdn.net/cover/jungle-de-ikou-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jungle-de-ikou-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "jungle-de-ikou-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jungle-de-ikou-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

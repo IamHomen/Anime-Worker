@@ -10,5 +10,46 @@
   "synopsis": "The anime's production will use motion capture technology to capture the movements of the voice cast while simultaneously producing voice recordings.",
   "animeImg": "https://gogocdn.net/cover/idolls.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "idolls-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "idolls-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "idolls-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "idolls-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "idolls-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "idolls-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "idolls-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "idolls-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "idolls-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "idolls-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

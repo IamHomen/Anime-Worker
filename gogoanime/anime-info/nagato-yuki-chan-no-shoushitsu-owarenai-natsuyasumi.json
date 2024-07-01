@@ -13,5 +13,10 @@
   "synopsis": "Extra episode of Nagato Yuki-chan no Shoushitsu bundled with the limited edition of the 9th manga volume.",
   "animeImg": "https://gogocdn.net/cover/nagato-yuki-chan-no-shoushitsu-owarenai-natsuyasumi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nagato-yuki-chan-no-shoushitsu-owarenai-natsuyasumi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

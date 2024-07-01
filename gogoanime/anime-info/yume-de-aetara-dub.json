@@ -14,5 +14,18 @@
   "synopsis": "Yume de Aetara is a story about one guy Fuguno Masuo (a complete loser when it comes to relationship with women) and two girls: Shiozaki Nagisa and Hamaoka Miho. Since the story is pretty simple (and hilariously funny), further explanation will spoil everything (take the hint: watch it yourself!)",
   "animeImg": "https://gogocdn.net/cover/yume-de-aetara-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yume-de-aetara-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yume-de-aetara-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yume-de-aetara-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

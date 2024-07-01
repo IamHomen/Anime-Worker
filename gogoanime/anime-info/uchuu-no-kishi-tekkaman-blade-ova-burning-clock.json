@@ -13,5 +13,10 @@
   "synopsis": "The first OVA, Burning Clock, tells the story of the Aiba family, goes into further detail about Shinya and Takaya's rivalry.",
   "animeImg": "https://gogocdn.net/cover/uchuu-no-kishi-tekkaman-blade-ova-burning-clock.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-no-kishi-tekkaman-blade-ova-burning-clock-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

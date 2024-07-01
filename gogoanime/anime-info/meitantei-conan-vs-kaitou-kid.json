@@ -14,5 +14,10 @@
   "synopsis": "A special edited version of the TV series that presents the birth of the magician under the moon, Kaito Kid, and the first confrontation with the biggest and eternal rival Conan / Shinichi with new scenes!!",
   "animeImg": "https://gogocdn.net/cover/meitantei-conan-vs-kaitou-kid.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "meitantei-conan-vs-kaitou-kid-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

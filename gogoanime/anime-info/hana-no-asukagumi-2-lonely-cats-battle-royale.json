@@ -12,5 +12,10 @@
   "synopsis": "Second OVA of \"Hana no Asukagumi!\".",
   "animeImg": "https://gogocdn.net/cover/hana-no-asukagumi-2-lonely-cats-battle-royale.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hana-no-asukagumi-2-lonely-cats-battle-royale-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

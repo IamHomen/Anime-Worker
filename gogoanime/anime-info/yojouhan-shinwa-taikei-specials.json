@@ -10,5 +10,18 @@
   "synopsis": "A college student and his friends\u2014Seitarou Higuchi, Akashi, Ozu, and Ryouko Hanuki\u2014share various stories about a submarine that can travel through land, each one trying to outdo the others in terms of creativity. Ranging from a journey to stop the melting of the ice caps, to a quest to stop perverts from spying on girls, and to a fishing trip, no topic is off-limits.",
   "animeImg": "https://gogocdn.net/cover/yojouhan-shinwa-taikei-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yojouhan-shinwa-taikei-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yojouhan-shinwa-taikei-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yojouhan-shinwa-taikei-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

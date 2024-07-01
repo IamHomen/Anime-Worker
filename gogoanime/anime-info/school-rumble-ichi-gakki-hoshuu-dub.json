@@ -13,5 +13,14 @@
   "synopsis": "This two-part OVA is a series of shorts in relation to the School Rumble series. This OVA fills in gaps with new content between episodes from beginning to nearly the end.",
   "animeImg": "https://gogocdn.net/cover/school-rumble-ichi-gakki-hoshuu-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "school-rumble-ichi-gakki-hoshuu-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "school-rumble-ichi-gakki-hoshuu-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

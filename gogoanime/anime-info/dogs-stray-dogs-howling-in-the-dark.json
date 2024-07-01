@@ -11,5 +11,22 @@
   "synopsis": "The story takes place in a future European city where\u00a0Mihai Mihaeroff\u00a0\u2014 a former assassin,\u00a0Badou Nails\u00a0\u2014 a chain-smoking one-eyed mercenary,\u00a0Fuyumine Naoto\u00a0\u2014 a katana-wielding female orphan, and\u00a0Heine Rammsteiner\u00a0\u2014 a genetically altered albino gunman, ply their deadly trades on the streets and in the underground.",
   "animeImg": "https://gogocdn.net/images/anime/D/dogs-bullets-carnage-ova.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dogs-stray-dogs-howling-in-the-dark-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "dogs-stray-dogs-howling-in-the-dark-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "dogs-stray-dogs-howling-in-the-dark-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dogs-stray-dogs-howling-in-the-dark-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

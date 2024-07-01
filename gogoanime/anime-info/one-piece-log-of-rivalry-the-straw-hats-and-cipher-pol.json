@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

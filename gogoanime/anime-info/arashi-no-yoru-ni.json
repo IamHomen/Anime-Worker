@@ -13,5 +13,10 @@
   "synopsis": "A story about a goat and a wolf who become friends on a stormy night, and how they overcome differences and hardships.",
   "animeImg": "https://gogocdn.net/cover/arashi-no-yoru-ni.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arashi-no-yoru-ni-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

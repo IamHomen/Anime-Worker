@@ -12,5 +12,10 @@
   "synopsis": "The fourth film in the six-part Girls & Panzer: Saishuushou film series.",
   "animeImg": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-1709745926.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "girls-panzer-saishuushou-part-4-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

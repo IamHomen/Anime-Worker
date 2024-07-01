@@ -10,5 +10,38 @@
   "synopsis": "Third season of Nusheng Sushe Richang.",
   "animeImg": "https://gogocdn.net/cover/sushe-bu-richang.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sushe-bu-richang-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sushe-bu-richang-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sushe-bu-richang-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sushe-bu-richang-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sushe-bu-richang-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sushe-bu-richang-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sushe-bu-richang-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sushe-bu-richang-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

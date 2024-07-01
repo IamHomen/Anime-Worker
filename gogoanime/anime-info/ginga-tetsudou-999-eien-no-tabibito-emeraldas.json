@@ -11,5 +11,10 @@
   "synopsis": "A remake of episode 22 of the TV version.",
   "animeImg": "https://gogocdn.net/cover/ginga-tetsudou-999-eien-no-tabibito-emeraldas.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ginga-tetsudou-999-eien-no-tabibito-emeraldas-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

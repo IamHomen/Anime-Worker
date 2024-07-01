@@ -13,5 +13,14 @@
   "synopsis": "An announcement made at AnimeJapan 2014 revealed that a new 2-episode OVA for\u00a0Suisei no Gargantia\u00a0will be released with the first episode coming Fall 2014. The screening event for the first OVA was announced as well. More information on the OVA will be given at a later time.",
   "animeImg": "https://gogocdn.net/images/summer/64203.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "suisei-no-gargantia-meguru-kouro-haruka-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "suisei-no-gargantia-meguru-kouro-haruka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

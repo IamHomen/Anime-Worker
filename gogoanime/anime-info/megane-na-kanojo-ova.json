@@ -13,5 +13,22 @@
   "synopsis": "Four short stories about girls who wear glasses.",
   "animeImg": "https://gogocdn.net/images/anime/M/Megane-na-Kanojo-ova.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "megane-na-kanojo-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "megane-na-kanojo-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "megane-na-kanojo-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "megane-na-kanojo-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

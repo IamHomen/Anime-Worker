@@ -11,5 +11,10 @@
   "synopsis": "Based on The Three Musketeers by Alexandre Dumas.",
   "animeImg": "https://gogocdn.net/cover/tekkamen-wo-oe-dartagnan-monogatari-yori.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tekkamen-wo-oe-dartagnan-monogatari-yori-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

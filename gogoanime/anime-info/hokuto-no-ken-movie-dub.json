@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/hokuto-no-ken-movie-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hokuto-no-ken-movie-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

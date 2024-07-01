@@ -13,5 +13,10 @@
   "synopsis": "Growing out of the chaos of a global war, the city of Utopia is populated by humans and bioroids (artificial humans). On the surface, everything is harmonious, but tensions lurk. Into this seemingly perfect society comes a survivor of the wars, Deunan Knute, who carries a legacy that will turn out to be of critical importance to the future of humanity.",
   "animeImg": "https://gogocdn.net/cover/appleseed-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "appleseed-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

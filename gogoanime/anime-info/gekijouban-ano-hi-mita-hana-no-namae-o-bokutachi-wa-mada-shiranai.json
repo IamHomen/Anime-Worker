@@ -12,5 +12,10 @@
   "synopsis": "The TV series is retold through the different main characters' points of view with new additional material from their childhood, during the original series, and one year after the conclusion of the series.",
   "animeImg": "https://gogocdn.net/images/Shiranai.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gekijouban-ano-hi-mita-hana-no-namae-o-bokutachi-wa-mada-shiranai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

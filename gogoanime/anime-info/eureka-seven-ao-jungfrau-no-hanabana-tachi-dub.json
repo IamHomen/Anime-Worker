@@ -13,5 +13,10 @@
   "synopsis": "An original video anime, released on Blu-ray in a combined Hybrid Disc that also hold an Eureka Seven AO game for the PlayStation 3.\r\n\r\nThe OVA is set between episodes eight and nine of the series.",
   "animeImg": "https://gogocdn.net/cover/eureka-seven-ao-jungfrau-no-hanabana-tachi-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "eureka-seven-ao-jungfrau-no-hanabana-tachi-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

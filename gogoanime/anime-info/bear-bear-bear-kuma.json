@@ -11,5 +11,54 @@
   "synopsis": "Mini anime for Kuma Kuma Kuma Bear released weekly on the Kadokawa Anime YouTube channel.",
   "animeImg": "https://gogocdn.net/cover/bear-bear-bear-kuma.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bear-bear-bear-kuma-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

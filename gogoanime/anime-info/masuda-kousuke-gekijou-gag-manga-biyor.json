@@ -11,5 +11,30 @@
   "synopsis": "Gyagu Manga Biyori is an anime that is about absolutely nothing. It is comprised of 12 short stories (5 minutes long each) that only build up a small amount of plot for each story. The anime feeds off the stupidest things, but is quite humorous.",
   "animeImg": "https://gogocdn.net/cover/masuda-kousuke-gekijou-gag-manga-biyor.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "masuda-kousuke-gekijou-gag-manga-biyor-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "masuda-kousuke-gekijou-gag-manga-biyor-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "masuda-kousuke-gekijou-gag-manga-biyor-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "masuda-kousuke-gekijou-gag-manga-biyor-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "masuda-kousuke-gekijou-gag-manga-biyor-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "masuda-kousuke-gekijou-gag-manga-biyor-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "synopsis": "The kitten from Yasuji Mori's earlier Koneko no Rakugaki returns, this time putting his talents toward directing a samurai film starring his mouse friends.",
   "animeImg": "https://gogocdn.net/cover/koneko-no-studio.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koneko-no-studio-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

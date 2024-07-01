@@ -12,5 +12,10 @@
   "synopsis": "Animated promotion for new expansion set of Magic: The Gathering trading card game.\r\n\r\nA Wicked Slumber creeps through the land of Eldraine, home plane of Will and Rowan, turning Magic\u2019s beloved fairy tale world into something more\u2026twisted.",
   "animeImg": "https://gogocdn.net/cover/eldraine-no-mori-twin-fates.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "eldraine-no-mori-twin-fates-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

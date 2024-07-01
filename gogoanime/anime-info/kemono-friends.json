@@ -11,5 +11,54 @@
   "synopsis": "The anime's story takes place in Japari Park, a \"gigantic integrated zoo.\" In the zoo, due to the mysterious \"sand star\" substance, the animals start turning into human-shaped creatures called Animal Girls. Japari Park is a place where many people visit and have fun at, but one day a lost child wanders into the park. The lost child starts a journey to return, but because so many Animal Girls join in on the quest it becomes an unexpected grand adventure.",
   "animeImg": "https://gogocdn.net/cover/kemono-friends.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kemono-friends-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "kemono-friends-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "kemono-friends-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kemono-friends-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kemono-friends-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kemono-friends-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kemono-friends-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kemono-friends-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kemono-friends-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kemono-friends-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kemono-friends-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kemono-friends-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

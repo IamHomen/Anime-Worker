@@ -11,5 +11,54 @@
   "synopsis": "The story of two girls on a war-torn planet known as \"Walpurgis.\"",
   "animeImg": "https://gogocdn.net/cover/sos-tv-walpurgis-night-fever.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "sos-tv-walpurgis-night-fever",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

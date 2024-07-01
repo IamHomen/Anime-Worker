@@ -10,5 +10,30 @@
   "synopsis": "A story about Cat pitcher Mi-Tarou's actions. It is a 23-koma that serialized in Yomiuri Shimbun Sunday.",
   "animeImg": "https://gogocdn.net/cover/neko-pitcher.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "neko-pitcher-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "neko-pitcher-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "neko-pitcher-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "neko-pitcher-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "neko-pitcher-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "neko-pitcher-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

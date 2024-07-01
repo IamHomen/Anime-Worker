@@ -12,5 +12,30 @@
   "synopsis": "These episodes focus on ecchi and comedy and don't have anything to do with the main story of Freezing.",
   "animeImg": "https://gogocdn.net/images/freezing.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "freezing-ova-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "freezing-ova-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "freezing-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "freezing-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "freezing-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "freezing-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "The OVAs depict the past and future of Sherlock, Watson, Moriarty, and the other detectives in the tenement.",
   "animeImg": "https://gogocdn.net/cover/kabukichou-sherlock-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kabukichou-sherlock-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

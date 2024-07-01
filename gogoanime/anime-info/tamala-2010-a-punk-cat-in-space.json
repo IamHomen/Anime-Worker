@@ -13,5 +13,10 @@
   "synopsis": "It's the year 2010 on the planet of cats, where lies Meguro City, a megalopolis entirely controlled by the super-corporation Catty & Co. The nefarious influence of this corporate empire extends malignantly across the feline galaxy. Tamala, a carefree, one-year-old kitten, decides to flee this cruel reality and boards her spaceship in search of her planet of origin.",
   "animeImg": "https://gogocdn.net/cover/tamala-2010-a-punk-cat-in-space.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamala-2010-a-punk-cat-in-space-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,54 @@
   "synopsis": "This anime is based on Takenashi Eri\u2019s Take Moon manga and commemorates Type-Moon\u2019s 10th anniversary. Various characters from Type-Moon\u2019s works such as Kara no Kyoukai, Fate/Stay Night, and Tsukihime are featured in this.",
   "animeImg": "https://gogocdn.net/images/anime/C/carnival-phantasm.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "carnival-phantasm-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "carnival-phantasm-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

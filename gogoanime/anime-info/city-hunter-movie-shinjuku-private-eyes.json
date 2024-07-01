@@ -13,5 +13,10 @@
   "synopsis": "New City Hunter film set in present day Shinjuku.",
   "animeImg": "https://gogocdn.net/cover/city-hunter-movie-shinjuku-private-eyes.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "city-hunter-movie-shinjuku-private-eyes-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

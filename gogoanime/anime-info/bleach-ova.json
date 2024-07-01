@@ -14,5 +14,14 @@
   "synopsis": "Kurosaki Ichigo, the temporary Shinigami(Death God) for Kuchiki Rukia, discovers his mother\u2019s killer as one of the Hollows he has been hunting. He does battle with it in a prideful battle of revenge.\nThis Special is actually a flashback of previous episodes in Bleach. After the ending credits, a short plays showing Shinigami and their Zanpakutos to \u201cNumber One\u201d from the Bleach Soundtrack.",
   "animeImg": "https://gogocdn.net/images/anime/B/bleach ova.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bleach-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bleach-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

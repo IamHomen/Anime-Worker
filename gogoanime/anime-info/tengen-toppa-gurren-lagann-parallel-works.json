@@ -10,5 +10,38 @@
   "synopsis": "An anthology of animated shorts featuring characters from Gurren Lagann in alternative worlds. Every clip is animated by a particular animator of GAINAX.\r\n\r\nCreators are Akira Amemiya, Shin Itagaki, Hirokazu Kojima, SUEZEN, Ryouji Masuyama, Hiroyuki Yamaga, Yoh Yoshinari, and Keisuke Watanabe",
   "animeImg": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-parallel-works.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tengen-toppa-gurren-lagann-parallel-works-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

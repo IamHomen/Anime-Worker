@@ -10,5 +10,30 @@
   "synopsis": "A 3D CG anime of Sylvanian Families. The OVA was sold bundled with toy merchandise of the franchise.",
   "animeImg": "https://gogocdn.net/cover/sylvanian-families-mini-gekijou-omoigakenai-okyakusama.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sylvanian-families-mini-gekijou-omoigakenai-okyakusama-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sylvanian-families-mini-gekijou-omoigakenai-okyakusama-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sylvanian-families-mini-gekijou-omoigakenai-okyakusama-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sylvanian-families-mini-gekijou-omoigakenai-okyakusama-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sylvanian-families-mini-gekijou-omoigakenai-okyakusama-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sylvanian-families-mini-gekijou-omoigakenai-okyakusama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

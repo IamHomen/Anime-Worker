@@ -15,5 +15,26 @@
   "synopsis": "Blu-ray/DVD specials of Maken-Ki! Two.",
   "animeImg": "https://gogocdn.net/images/Maken-Ki-Two-Specials.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "maken-ki-two-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "maken-ki-two-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "maken-ki-two-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "maken-ki-two-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "maken-ki-two-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,14 @@
   "synopsis": "The OVA will be pre-sold during the Comiket 87 starting on December 28, 2014, regular retail distribution of the limited edition package will start on January 30, 2015.",
   "animeImg": "https://gogocdn.net/cover/kaitou-tenshi-twin-angel-kyun-kyuntokimeki-paradise-ova.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaitou-tenshi-twin-angel-kyun-kyuntokimeki-paradise-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kaitou-tenshi-twin-angel-kyun-kyuntokimeki-paradise-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/rakudai-majo-fuuka-to-yami-no-majo-1713846138.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rakudai-majo-fuuka-to-yami-no-majo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

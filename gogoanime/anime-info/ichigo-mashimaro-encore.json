@@ -11,5 +11,14 @@
   "synopsis": "Ichigo Mashimaro encore is a two-episode OVA continues onwards from the previous set of OVAs of Ichigo Mashimaro.",
   "animeImg": "https://gogocdn.net/cover/ichigo-mashimaro-encore.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ichigo-mashimaro-encore-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ichigo-mashimaro-encore-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

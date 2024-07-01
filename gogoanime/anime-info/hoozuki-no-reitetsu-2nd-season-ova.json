@@ -14,5 +14,10 @@
   "synopsis": "Bundled with the limited editions of 29th, 30th, and 31st volumes of the Hoozuki no Reitetsu manga.",
   "animeImg": "https://gogocdn.net/cover/hoozuki-no-reitetsu-2nd-season-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hoozuki-no-reitetsu-2nd-season-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

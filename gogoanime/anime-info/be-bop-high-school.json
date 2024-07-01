@@ -12,5 +12,38 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/be-bop-high-school.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "be-bop-high-school-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "be-bop-high-school-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "be-bop-high-school-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "be-bop-high-school-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "be-bop-high-school-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "be-bop-high-school-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "be-bop-high-school-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "be-bop-high-school-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

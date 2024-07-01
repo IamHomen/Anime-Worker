@@ -13,5 +13,10 @@
   "synopsis": "The second half of the special will look back at the series so far and provide a complete explanation of \"all the mysteries\" in the show.\r\nIt will also preview what will happen in the future of the series.",
   "animeImg": "https://gogocdn.net/images/upload/76204.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-xy-z-kanzen-master-special--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

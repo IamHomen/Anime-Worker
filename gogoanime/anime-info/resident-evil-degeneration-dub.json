@@ -12,5 +12,10 @@
   "synopsis": "The story is set in autumn 2005, one year after Resident Evil 4 game took place. Due to an as of yet unexplained reason, zombies appear in a United States airport. The release of the zombies leads to danger of an outbreak.",
   "animeImg": "https://gogocdn.net/cover/resident-evil-degeneration-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "resident-evil-degeneration-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

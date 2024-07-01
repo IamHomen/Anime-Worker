@@ -13,5 +13,10 @@
   "synopsis": "A special summary episode of the second season of Sayonara Zetsubou Sensei, focusing on the girls that were not introduced in the first Zetsubou Shoujo Senshuu: Otonashi Meru, Fujiyoshi Harumi, Kaga Ai and Mitama Mayo.",
   "animeImg": "https://gogocdn.net/cover/sayonara-zetsubou-sensei-jo-zoku-zetsubou-shoujo-senshuu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sayonara-zetsubou-sensei-jo-zoku-zetsubou-shoujo-senshuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

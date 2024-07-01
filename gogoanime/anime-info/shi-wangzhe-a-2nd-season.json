@@ -12,5 +12,30 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/shi-wangzhe-a-2nd-season.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shi-wangzhe-a-2nd-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shi-wangzhe-a-2nd-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shi-wangzhe-a-2nd-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shi-wangzhe-a-2nd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shi-wangzhe-a-2nd-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shi-wangzhe-a-2nd-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

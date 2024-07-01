@@ -14,5 +14,22 @@
   "synopsis": "Four additional short stories of the Steel Angels: Saki becomes a film actress, Karinka goes on a blind date with Kamihito, Kurumi practices the art of becoming a traditional Japanese woman, and the rest of the Steel Angels engage in a contest to win Nakahito's heart.",
   "animeImg": "https://gogocdn.net/cover/steel-angel-kurumi-encore-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "steel-angel-kurumi-encore-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "steel-angel-kurumi-encore-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "steel-angel-kurumi-encore-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "steel-angel-kurumi-encore-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

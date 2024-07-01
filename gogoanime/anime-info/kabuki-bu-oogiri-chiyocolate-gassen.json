@@ -11,5 +11,10 @@
   "synopsis": "A special episode bundled with the BD release of the television series.",
   "animeImg": "https://gogocdn.net/cover/kabuki-bu-oogiri-chiyocolate-gassen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kabuki-bu-oogiri-chiyocolate-gassen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,30 @@
   "synopsis": "Chibi-Earl and Chibi-Fairy. Every special focuses on another character, who will in their turn recite a poem by Shakespeare, that they feel describes their lives the best.",
   "animeImg": "https://gogocdn.net/cover/hakushaku-to-yousei-specials.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hakushaku-to-yousei-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hakushaku-to-yousei-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hakushaku-to-yousei-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hakushaku-to-yousei-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hakushaku-to-yousei-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hakushaku-to-yousei-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

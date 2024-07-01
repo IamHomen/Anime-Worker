@@ -10,5 +10,10 @@
   "synopsis": "An anime based on the Romance of the Three Kingdoms novel.",
   "animeImg": "https://gogocdn.net/cover/sangokushi-daiichibu-eiyuu-tachi-no-yoake.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sangokushi-daiichibu-eiyuu-tachi-no-yoake-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

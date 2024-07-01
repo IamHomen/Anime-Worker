@@ -13,5 +13,18 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/doupo-cangqiong-2nd-season-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doupo-cangqiong-2nd-season-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "doupo-cangqiong-2nd-season-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "doupo-cangqiong-2nd-season-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

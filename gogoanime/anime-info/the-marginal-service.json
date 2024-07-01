@@ -10,5 +10,54 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-marginal-service.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-marginal-service-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "the-marginal-service-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

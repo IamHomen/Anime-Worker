@@ -10,5 +10,10 @@
   "synopsis": "Shin Koihime\u2020Musou characters sing theme songs on stage at a live event.",
   "animeImg": "https://gogocdn.net/cover/shin-koihimemusou-live-revolution.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shin-koihimemusou-live-revolution-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

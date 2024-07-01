@@ -11,5 +11,10 @@
   "synopsis": "The story of the manga centers around Marimo Nogami, a usually quiet fourth-grade girl in elementary school. However, a certain incident leads to Marimo's personal strength blossoming.",
   "animeImg": "https://gogocdn.net/images/anime/M/Marimo-no-Hana.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "marimo-no-hana-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

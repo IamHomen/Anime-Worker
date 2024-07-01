@@ -10,5 +10,10 @@
   "synopsis": "A story about fourteen-year-old alien girl Aoi Hoshino. Her family uses certain medicine to disguise themselves as humans.\r\nFor some reason the medicine slowly stops working, but only on Aoi...",
   "animeImg": "https://gogocdn.net/cover/zetsubou-no-kaibutsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zetsubou-no-kaibutsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

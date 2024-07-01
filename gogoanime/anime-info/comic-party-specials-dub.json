@@ -11,5 +11,22 @@
   "synopsis": "Kazuki, together with his friends, goes to a Comic Party that's going to be held in a hot spring. There, they make an incredible discovery that is going to reveal something amazing about comic conventions.",
   "animeImg": "https://gogocdn.net/cover/comic-party-specials-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "comic-party-specials-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "comic-party-specials-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "comic-party-specials-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "comic-party-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

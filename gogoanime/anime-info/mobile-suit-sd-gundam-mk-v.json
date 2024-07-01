@@ -13,5 +13,26 @@
   "synopsis": "The Warring-States-Era SD Gundams are back to dispel evil spirits and an evil plot taking place in the ruins of Jaburo City.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-sd-gundam-mk-v.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-v-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-v-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-v-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-v-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-v-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "Condensed version of the second half of the TV series.",
   "animeImg": "https://gogocdn.net/cover/alps-no-shoujo-heidi-heidi-to-clara-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "alps-no-shoujo-heidi-heidi-to-clara-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "An OVA bundled with the tenth manga volume.",
   "animeImg": "https://gogocdn.net/cover/non-non-biyori-repeat-hotaru-ga-tanoshinda.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "non-non-biyori-repeat-hotaru-ga-tanoshinda-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

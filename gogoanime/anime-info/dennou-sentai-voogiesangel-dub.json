@@ -14,5 +14,18 @@
   "synopsis": "A hundred years after Earth is invaded by aliens, the last remnants of the human race dwell in underwater \"Aqua Bases.\" A team of five cybernetically enhanced women is trained for the purpose of carrying out guerilla attacks against the occupying forces. Earth's last hope for salvation is...Voogie's Angels.",
   "animeImg": "https://gogocdn.net/cover/dennou-sentai-voogiesangel-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dennou-sentai-voogiesangel-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "dennou-sentai-voogiesangel-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dennou-sentai-voogiesangel-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,14 @@
   "synopsis": "Set after the events of Queen\u2019s Blade, Gainos and the entire Continent has fallen under a tyrannical rule led by Claudette, the Thundercloud Queen and victor of the last Queen\u2019s Blade tournament. Annelotte, a brave young knight and exiled princess, leads a band of rebels called the Rebel Army to overthrow Claudette and restore peace and order to the Continent.",
   "animeImg": "https://gogocdn.net/images/anime/Q/queens-blade-rebellion.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "queens-blade-vanquished-specials--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "queens-blade-vanquished-specials--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

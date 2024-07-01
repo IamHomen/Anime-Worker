@@ -13,5 +13,10 @@
   "synopsis": "Bundled with novel series' 11th volume.\r\n\r\nThe new anime will feature the appearance of the Pleiades combat maids, as well as the rest of the Floor Guardians.",
   "animeImg": "https://gogocdn.net/cover/overlord-ple-ple-pleiades-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "overlord-ple-ple-pleiades-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

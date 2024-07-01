@@ -11,5 +11,26 @@
   "synopsis": "The official website of the Fate/kaleid liner Prisma Illya anime franchise revealed on Friday that the Blu-ray Disc volumes and the limited-edition DVD volumes of the Fate/kaleid liner Prisma Illya 2wei Herz! anime will each contain a five-minute episode of a short anime titled \"Beast, Again!\" (Beast, Futatabi!).",
   "animeImg": "https://gogocdn.net/images/upload/74637.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fate-kaleid-liner-prisma-illya-2wei-herz-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "fate-kaleid-liner-prisma-illya-2wei-herz-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "fate-kaleid-liner-prisma-illya-2wei-herz-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fate-kaleid-liner-prisma-illya-2wei-herz-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fate-kaleid-liner-prisma-illya-2wei-herz-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

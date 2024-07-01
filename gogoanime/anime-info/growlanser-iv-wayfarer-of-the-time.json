@@ -10,5 +10,10 @@
   "synopsis": "A promotional ova that came with the PS2 game, Growlanser IV Returns which is an add-on featuring a compilation of three short stories that is told in visual novel style.\r\n\r\nSince it is a promotional ova, various main characters from Growlanser I, Growlanser II, and Growlanser III do appear in the ED. Actually, some of the fairies of these main characters do appear in Growlanser IV as that the entire Growlanser story is based on anti-war featuring time freeze, time traveling, and parallel worlds.",
   "animeImg": "https://gogocdn.net/cover/growlanser-iv-wayfarer-of-the-time.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "growlanser-iv-wayfarer-of-the-time-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

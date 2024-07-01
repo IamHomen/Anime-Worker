@@ -11,5 +11,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/please-pretend-to-cultivate.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "please-pretend-to-cultivate-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "please-pretend-to-cultivate-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

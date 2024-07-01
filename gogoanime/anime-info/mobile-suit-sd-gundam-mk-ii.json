@@ -12,5 +12,18 @@
   "synopsis": "Mobile Suit SD Gundam Mk II delivers with more tongue-in-cheek humor than the first series. In \"The Rolling Colony Affair,\" a colony is hosting a cabaret show featuring the girls of Gundam. But the show turns disastrous when men and mobile suits go crazy over the girls, sending the colony rolling out of control. A parody of the videogame RPG genre, \"Gundam Legend\" has Amuro, Kamille and Judau sent on a perilous quest to rescue the princess of the Zeta Kingdom from Char Aznable and his vicious Zeon MS forces.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-sd-gundam-mk-ii.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-ii-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-ii-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-ii-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

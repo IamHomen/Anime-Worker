@@ -10,5 +10,46 @@
   "synopsis": "The second season of Hikari no Ou, which serves as the sequel.",
   "animeImg": "https://gogocdn.net/cover/hikari-no-ou-2nd-season-1710730521.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hikari-no-ou-2nd-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

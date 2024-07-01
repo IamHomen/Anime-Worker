@@ -12,5 +12,42 @@
   "synopsis": "Follows Red and Yellow as they have a crash education in parenting when they take in a newborn caterpillar.",
   "animeImg": "https://gogocdn.net/cover/larva-family-dub.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "larva-family-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "larva-family-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

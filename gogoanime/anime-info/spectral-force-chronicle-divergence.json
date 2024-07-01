@@ -10,5 +10,10 @@
   "synopsis": "Anime based on JRPG series Spectral Force.",
   "animeImg": "https://gogocdn.net/cover/spectral-force-chronicle-divergence.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "spectral-force-chronicle-divergence-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

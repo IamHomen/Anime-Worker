@@ -12,5 +12,54 @@
   "synopsis": "The surreal comedy centers around the friendship of high school boys.",
   "animeImg": "https://gogocdn.net/images/anime/I/ishida_to_asakura.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ishida-to-asakura-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ishida-to-asakura-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

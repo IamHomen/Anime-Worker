@@ -12,5 +12,10 @@
   "synopsis": "The special episode features the captains of the different squads plus Asta and Yuno participating in a quiz show.",
   "animeImg": "https://gogocdn.net/cover/black-clover-jump-festa-2018-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "black-clover-jump-festa-2018-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

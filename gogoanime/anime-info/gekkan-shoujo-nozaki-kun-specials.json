@@ -12,5 +12,30 @@
   "synopsis": "Specials bundled with the DVD/BDs.",
   "animeImg": "https://gogocdn.net/images/summer/Gekkan Shoujo Nozaki-kun Specials.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gekkan-shoujo-nozaki-kun-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gekkan-shoujo-nozaki-kun-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gekkan-shoujo-nozaki-kun-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gekkan-shoujo-nozaki-kun-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gekkan-shoujo-nozaki-kun-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gekkan-shoujo-nozaki-kun-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

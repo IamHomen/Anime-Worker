@@ -14,5 +14,46 @@
   "synopsis": "The third season of Haikyuu!!",
   "animeImg": "https://gogocdn.net/cover/haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

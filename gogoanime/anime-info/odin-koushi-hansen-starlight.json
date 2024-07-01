@@ -14,5 +14,10 @@
   "synopsis": "In the year 2099, mankind has colonized parts of the Solar System thanks to the evolution of space travel. To venture further beyond what man has accomplished, the space vessel Starlight is launched. After rescuing a mysterious girl from a wreckage near the asteroid fields, the crew of the Starlight plot a perilous journey towards the Canopus system in search of the planet known only as \"Odin\" - the possible key to all forms of life.",
   "animeImg": "https://gogocdn.net/cover/odin-koushi-hansen-starlight.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "odin-koushi-hansen-starlight-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "A pilot film streamed on the anime studio Toei Animation's website. The female leads in the film are dressed as various famous robots in Toei's anime catalog\u2014the girls are personifications of robots in the Gaiking (\"Gai-chan\"), Magnerobo Ga-Keen (\"Gacky\"), and Superhuman Combat Team Baratack (\"Bara-tan\") and the newly added character is from the anime Planet Robot Danguard Ace.",
   "animeImg": "https://gogocdn.net/cover/toei-robot-girls-z.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toei-robot-girls-z-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

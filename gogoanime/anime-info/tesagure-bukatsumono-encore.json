@@ -11,5 +11,54 @@
   "synopsis": "Second Season of Tesagure! Bukatsumono series.",
   "animeImg": "https://gogocdn.net/images/Tesagure-Bukatsumono-Encore.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tesagure-bukatsumono-encore-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

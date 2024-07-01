@@ -10,5 +10,30 @@
   "synopsis": "Random cutesy edutainment tales aimed at small children, featuring animated speaking plushy toys.",
   "animeImg": "https://gogocdn.net/cover/sugar-bunnies.png",
   "totalEpisodes": "23",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sugar-bunnies-episode-23-27",
+      "episodeNum": "Episode 23.27"
+    },
+    {
+      "episodeId": "sugar-bunnies-episode-19-22",
+      "episodeNum": "Episode 19.22"
+    },
+    {
+      "episodeId": "sugar-bunnies-episode-14-18",
+      "episodeNum": "Episode 14.18"
+    },
+    {
+      "episodeId": "sugar-bunnies-episode-10-13",
+      "episodeNum": "Episode 10.13"
+    },
+    {
+      "episodeId": "sugar-bunnies-episode-5-9",
+      "episodeNum": "Episode 5.9"
+    },
+    {
+      "episodeId": "sugar-bunnies-episode-1-4",
+      "episodeNum": "Episode 1.4"
+    }
+  ]
 }

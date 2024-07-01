@@ -13,5 +13,54 @@
   "synopsis": "Second Season of\u00a0Ro-Kyu-Bu!",
   "animeImg": "https://gogocdn.net/images/anime/Ro-Kyu-Bu-SS.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ro-kyu-bu-ss-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,10 @@
   "synopsis": "A movie retelling of the first half of the Turn A Gundam series.",
   "animeImg": "https://gogocdn.net/cover/turn-a-gundam-i-movie-earth-light.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "turn-a-gundam-i-movie-earth-light-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

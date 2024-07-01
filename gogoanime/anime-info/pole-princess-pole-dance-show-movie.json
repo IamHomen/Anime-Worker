@@ -11,5 +11,34 @@
   "synopsis": "An animated series of pole dance show routines by various dancers from Pole Princess!! dancing and singing to their respective character songs.",
   "animeImg": "https://gogocdn.net/cover/pole-princess-pole-dance-show-movie.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pole-princess-pole-dance-show-movie-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "pole-princess-pole-dance-show-movie-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "pole-princess-pole-dance-show-movie-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "pole-princess-pole-dance-show-movie-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pole-princess-pole-dance-show-movie-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pole-princess-pole-dance-show-movie-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pole-princess-pole-dance-show-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

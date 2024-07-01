@@ -12,5 +12,10 @@
   "synopsis": "The movie will feature special guests such as popular familiar characters from the TV anime series and the latest Youkai from the upcoming Youkai Watch 2 sequel games.",
   "animeImg": "https://gogocdn.net/images/upload/yw1.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "youkai-watch-movie-1-tanjou-no-himitsu-da-nyan--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

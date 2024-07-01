@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/pripara-kiratto-prichan-movie-kirakira-memorial-live.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pripara-kiratto-prichan-movie-kirakira-memorial-live-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

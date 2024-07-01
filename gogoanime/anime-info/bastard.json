@@ -13,5 +13,30 @@
   "synopsis": "Several hundred years after Anthrasax destroyed modern civilization, a group of four lords plans to set this old god free once again. To prevent this from happening, a former ally of the four is released from his 15 year imprisonment. Dark Schneider, a sorcerer who once tried to conquer the world, now fights to save it.",
   "animeImg": "https://gogocdn.net/images/anime/B/bastard.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bastard-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "bastard-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bastard-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bastard-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bastard-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bastard-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

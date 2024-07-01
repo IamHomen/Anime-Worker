@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode bundled with the Blu-ray/DVD Box-Set.",
   "animeImg": "https://gogocdn.net/images/anime/Inugami-san to Nekoyama-san Special.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inugami-san-to-nekoyama-san-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

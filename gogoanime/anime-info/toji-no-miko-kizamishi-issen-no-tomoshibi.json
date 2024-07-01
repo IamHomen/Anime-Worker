@@ -11,5 +11,14 @@
   "synopsis": "Short promotional animations for mobile game titled Toji no Miko: Kizamishi Issen no Tomoshibi.",
   "animeImg": "https://gogocdn.net/cover/toji-no-miko-kizamishi-issen-no-tomoshibi.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toji-no-miko-kizamishi-issen-no-tomoshibi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "toji-no-miko-kizamishi-issen-no-tomoshibi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

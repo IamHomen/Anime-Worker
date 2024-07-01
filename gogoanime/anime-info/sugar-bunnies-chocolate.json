@@ -10,5 +10,34 @@
   "synopsis": "Sequel to Sugar Bunnies.\r\n\r\nAired inside the anime corner of the Kitty's Paradise TV block.",
   "animeImg": "https://gogocdn.net/cover/sugar-bunnies-chocolate.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sugar-bunnies-chocolate-episode-25-27-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sugar-bunnies-chocolate-episode-21-24-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sugar-bunnies-chocolate-episode-17-20-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sugar-bunnies-chocolate-episode-13-16-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sugar-bunnies-chocolate-episode-9-12-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sugar-bunnies-chocolate-episode-5-8-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sugar-bunnies-chocolate-episode-1-4-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

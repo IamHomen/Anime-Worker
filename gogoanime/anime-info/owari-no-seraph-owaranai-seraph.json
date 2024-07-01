@@ -13,5 +13,42 @@
   "synopsis": "Specials included in the Blu-ray and DVD releases",
   "animeImg": "https://gogocdn.net/images/upload/images.jpg",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "owari-no-seraph-owaranai-seraph-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

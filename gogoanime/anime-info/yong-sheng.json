@@ -11,5 +11,54 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/yong-sheng.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yong-sheng-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "yong-sheng-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "yong-sheng-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "yong-sheng-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "yong-sheng-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "yong-sheng-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "yong-sheng-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yong-sheng-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yong-sheng-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yong-sheng-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yong-sheng-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yong-sheng-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

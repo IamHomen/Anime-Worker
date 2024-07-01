@@ -10,5 +10,14 @@
   "synopsis": "The Ohamami Special consisted of four independent episodes of Di Gi Charat with no continuation that aired in Spring 2001 in Japan.\r\n\r\n\u2022 Ohanami Special Episode 1 - The Evil Settles Down \r\n\u2022 Ohanami Special Episode 2 - Sakura Sakura\r\n\u2022 Ohanami Special Episode 3 - Long Haired Onii-san-nyu\r\n\u2022 Ohanami Special Episode 4 - Don`t Call me Rabi-en-Rose",
   "animeImg": "https://gogocdn.net/cover/di-gi-charat-ohanami-special.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "di-gi-charat-ohanami-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "di-gi-charat-ohanami-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

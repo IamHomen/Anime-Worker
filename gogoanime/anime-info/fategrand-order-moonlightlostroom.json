@@ -13,5 +13,10 @@
   "synopsis": "Short centering on a \"Lost Room\" where you can find what was lost \u2014 or those who lost. This room, which belongs to no one, lies forgotten in a corner of Chaldea.",
   "animeImg": "https://gogocdn.net/cover/fategrand-order-moonlightlostroom.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fategrand-order-moonlightlostroom-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "New animation featuring a new song recording by the Shirahamazaka High School Chorus Club, bundled with the BD Box set.",
   "animeImg": "https://gogocdn.net/images/upload/66549.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tari-tari-kumottari-kagayaitari-mata-itsuka-utattari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

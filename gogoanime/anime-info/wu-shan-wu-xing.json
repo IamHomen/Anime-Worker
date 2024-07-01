@@ -13,5 +13,18 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/wu-shan-wu-xing.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wu-shan-wu-xing-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wu-shan-wu-xing-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wu-shan-wu-xing-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,14 @@
   "synopsis": "Remake of old superhero show of the same name.",
   "animeImg": "https://gogocdn.net/cover/shin-hurricane-polymar.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shin-hurricane-polymar-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shin-hurricane-polymar-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

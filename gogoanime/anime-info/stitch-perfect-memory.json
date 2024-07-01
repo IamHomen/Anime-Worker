@@ -12,5 +12,14 @@
   "synopsis": "In the story, a mysterious giant tank rocket begins stealing resources from various planets. On Earth, Yuuna and Boogoo get involved in the incident and disappear. In order to save Yuuna, Stitch teams up with Tiira.\r\n\r\nYuu Aoi will guest star in the special as Tiira, an information analysis robot from the Galactic Federation.",
   "animeImg": "https://gogocdn.net/cover/stitch-perfect-memory.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "stitch-perfect-memory-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "stitch-perfect-memory-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

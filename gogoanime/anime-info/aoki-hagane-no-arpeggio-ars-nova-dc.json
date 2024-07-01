@@ -12,5 +12,10 @@
   "synopsis": "The first movie will be a compilation of 2013's television anime series with new story sequences, while the second movie will be an entirely brand-new work.",
   "animeImg": "https://gogocdn.net/images/upload/162562.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aoki-hagane-no-arpeggio-ars-nova-dc-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

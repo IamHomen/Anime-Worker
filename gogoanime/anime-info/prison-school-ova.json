@@ -14,5 +14,10 @@
   "synopsis": "The OVA featured the previously unanimated \"Mad Wax\" arc from the manga. Bundled with a limited edition of the manga's 20th volume.",
   "animeImg": "https://gogocdn.net/images/upload/Prison-School-OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "prison-school-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

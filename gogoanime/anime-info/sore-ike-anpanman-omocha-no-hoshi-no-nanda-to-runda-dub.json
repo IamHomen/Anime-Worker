@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/sore-ike-anpanman-omocha-no-hoshi-no-nanda-to-runda-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-ike-anpanman-omocha-no-hoshi-no-nanda-to-runda-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

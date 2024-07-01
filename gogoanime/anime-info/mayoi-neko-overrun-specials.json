@@ -11,5 +11,30 @@
   "synopsis": "Mayoi Neko Overrun! Extra.",
   "animeImg": "https://gogocdn.net/cover/mayoi-neko-overrun-specials.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mayoi-neko-overrun-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mayoi-neko-overrun-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mayoi-neko-overrun-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mayoi-neko-overrun-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mayoi-neko-overrun-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mayoi-neko-overrun-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

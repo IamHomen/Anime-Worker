@@ -11,5 +11,22 @@
   "synopsis": "Short 3D CG Specials included in the Blu-rays of the Ghost in the Shell: Arise movies.",
   "animeImg": "https://gogocdn.net/cover/ghost-in-the-shell-arise-logicoma-beat.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ghost-in-the-shell-arise-logicoma-beat-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ghost-in-the-shell-arise-logicoma-beat-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ghost-in-the-shell-arise-logicoma-beat-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ghost-in-the-shell-arise-logicoma-beat-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

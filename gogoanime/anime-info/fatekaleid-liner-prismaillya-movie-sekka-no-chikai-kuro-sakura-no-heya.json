@@ -11,5 +11,10 @@
   "synopsis": "Included with the limited edition BD of Fate/kaleid liner Prisma\u2606Illya Movie: Sekka no Chikai.",
   "animeImg": "https://gogocdn.net/cover/fatekaleid-liner-prismaillya-movie-sekka-no-chikai-kuro-sakura-no-heya.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-movie-oath-under-snow-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/martial-arts-master-1680575486.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "martial-arts-master-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

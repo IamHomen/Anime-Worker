@@ -12,5 +12,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/teekyuu-6-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "teekyuu-6-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "teekyuu-6-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

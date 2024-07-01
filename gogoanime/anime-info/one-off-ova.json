@@ -10,5 +10,14 @@
   "synopsis": "A slice of life of high school girls in the early summer. Shiozaki Haruno is a 17-year-old girl who loves her motor cycle, HONDA\u2019s Giorno. She lives in remote highlands and longs for a vivid life in a city.",
   "animeImg": "https://gogocdn.net/images/anime/O/One-Off-OVA.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-off-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "one-off-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

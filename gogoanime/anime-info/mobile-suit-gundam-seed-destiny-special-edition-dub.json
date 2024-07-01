@@ -16,5 +16,22 @@
   "synopsis": "Four TV movies made from Mobile Suit Gundam Seed Destiny series.\r\n\r\n1. The Broken World (Kudakareta Sekai)\r\n2. Respective Swords (Sorezore no Ken)\r\n3. The Hell Fire of Destiny (Sadame no Goka)\r\n4. The Cost of Freedom (Jiyuu no Daishou)\r\n\r\nLike the three specials of Gundam Seed, these specials feature new or changed scenes of the TV series. However unlike the TV series, which was told in the points of view of main characters Shinn Asuka and Kira Yamato, the Special Edition was told through the eyes of Athrun Zala, giving the movies a much more neutral point of view.\r\n\r\n(Source: Wikipedia)",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-gundam-seed-destiny-special-edition-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-gundam-seed-destiny-special-edition-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mobile-suit-gundam-seed-destiny-special-edition-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mobile-suit-gundam-seed-destiny-special-edition-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mobile-suit-gundam-seed-destiny-special-edition-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

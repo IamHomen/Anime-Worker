@@ -14,5 +14,54 @@
   "synopsis": "Free! 3rd Season",
   "animeImg": "https://gogocdn.net/cover/free-dive-to-the-future.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "free-dive-to-the-future-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "free-dive-to-the-future-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

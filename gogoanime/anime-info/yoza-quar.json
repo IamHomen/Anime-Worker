@@ -10,5 +10,30 @@
   "synopsis": "Each of the six BD/DVDs will include one short. They will feature the characters in a \"slighly risqu\u00e9\" light not seen in the main story.",
   "animeImg": "https://gogocdn.net/cover/yoza-quar.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yoza-quar-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yoza-quar-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yoza-quar-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yoza-quar-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yoza-quar-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yoza-quar-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

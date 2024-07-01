@@ -12,5 +12,14 @@
   "synopsis": "In the future, mankind has colonized the bleak expanses of the moon. Cities now stand proudly where there was once only desolation and emptiness. But there are alien forces that do not want mankind to succeed and only one man can stop them. He is a member of the Bounty Dog Investigation Unit, a high-tech cybernetic mercenary team.",
   "animeImg": "https://gogocdn.net/cover/bounty-dog-getsumen-no-ibu.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bounty-dog-getsumen-no-ibu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bounty-dog-getsumen-no-ibu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

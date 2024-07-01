@@ -14,5 +14,14 @@
   "synopsis": "Bundled with the 19th and 20th volumes of the Ao no Exorcist manga.\r\n\r\nThe first episode is based on the second chapter of the second Ao no Exorcist novel Home Sweet Home.\r\n\r\nThe second episode is based on the title chapter from the Ao no Exorcist: Spy Game novel.",
   "animeImg": "https://gogocdn.net/cover/ao-no-exorcist-kyoto-fujouou-hen-ova.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ao-no-exorcist-kyoto-fujouou-hen-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ao-no-exorcist-kyoto-fujouou-hen-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

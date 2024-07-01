@@ -10,5 +10,46 @@
   "synopsis": "The slightly mysterious daily life of Sakura Miko, a virtual shrine maiden at the Dennou Sakura shrine.",
   "animeImg": "https://gogocdn.net/cover/miko-no-tsutome.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "miko-no-tsutome-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "miko-no-tsutome-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

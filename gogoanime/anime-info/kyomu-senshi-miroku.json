@@ -16,5 +16,30 @@
   "synopsis": "A psychic ninja fantasy suggesting that the assassins did not die out during the Sengoku era but burrowed under Japan, where they fought a new war against the alien occupants of a crashed spaceship that has lain undisturbed for several millennia.",
   "animeImg": "https://gogocdn.net/cover/kyomu-senshi-miroku.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kyomu-senshi-miroku-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kyomu-senshi-miroku-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kyomu-senshi-miroku-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kyomu-senshi-miroku-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kyomu-senshi-miroku-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kyomu-senshi-miroku-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

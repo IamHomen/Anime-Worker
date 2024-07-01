@@ -13,5 +13,54 @@
   "synopsis": "Fourth season of Jigoku Shoujo.",
   "animeImg": "https://gogocdn.net/cover/jigoku-shoujo-yoi-no-togi.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jigoku-shoujo-yoi-no-togi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

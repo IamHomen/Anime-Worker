@@ -14,5 +14,18 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/yume-de-aetara.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yume-de-aetara-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yume-de-aetara-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yume-de-aetara-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

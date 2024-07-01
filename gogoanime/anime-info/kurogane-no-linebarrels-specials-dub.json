@@ -13,5 +13,14 @@
   "synopsis": "Episodes 25 & 26, added to DVD.",
   "animeImg": "https://gogocdn.net/cover/kurogane-no-linebarrels-specials-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kurogane-no-linebarrels-specials-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kurogane-no-linebarrels-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

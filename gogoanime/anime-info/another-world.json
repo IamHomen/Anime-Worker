@@ -10,5 +10,18 @@
   "synopsis": "The official website for Tomohiko Itou's original film Hello World announced on Thursday that it will receive a three-part spin-off, Another World, beginning before the film's September 20 premiere. The first episode, titled \"Record 2027,\" will stream on Hikari TV Channel+ on September 13, followed by the second\u2014\"Record 2032\"\u2014on September 27 and the third\u2014\"Record 2036\"\u2014on October 4.",
   "animeImg": "https://gogocdn.net/cover/another-world.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "another-world-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "another-world-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "another-world-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

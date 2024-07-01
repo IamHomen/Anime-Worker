@@ -10,5 +10,34 @@
   "synopsis": "Based on the D.C.S.G. game/manga.\r\n\r\nThe story takes place 2 years after the happenings in the first series. A new, mysterious girl appears and attaches herself to Jun'ichi. Who is this new girl and which connection does she have to the Sakura on Hatsune Island.",
   "animeImg": "https://gogocdn.net/cover/da-capo-second-season-omake.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "da-capo-second-season-omake-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "da-capo-second-season-omake-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "da-capo-second-season-omake-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "da-capo-second-season-omake-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "da-capo-second-season-omake-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "da-capo-second-season-omake-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "da-capo-second-season-omake-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,14 @@
   "synopsis": "OVA bundled with the seventh manga volume.",
   "animeImg": "https://gogocdn.net/cover/bakuon-ova.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bakuon-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bakuon-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

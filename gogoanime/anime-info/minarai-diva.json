@@ -10,5 +10,18 @@
   "synopsis": "First ever live anime program. The lines and songs of the characters are being performed live, along with their movements through motion-capture technology and MikuMikuDance software.During the program, the two voice actresses will try to think up lyrics for a new song. As the program is live, they will even accept suggestions for lyrics from Twitter and email submissions.",
   "animeImg": "https://gogocdn.net/images/summer/Minarai_Diva.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "minarai-diva-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "minarai-diva-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "minarai-diva-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

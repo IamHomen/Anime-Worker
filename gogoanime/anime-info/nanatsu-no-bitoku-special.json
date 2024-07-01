@@ -11,5 +11,14 @@
   "synopsis": "Unaired episodes included with the Blu-ray and DVD release of Nanatsu no Bitoku.",
   "animeImg": "https://gogocdn.net/cover/nanatsu-no-bitoku-special.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nanatsu-no-bitoku-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nanatsu-no-bitoku-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "A remake of episodes 12-13 of the TV version.",
   "animeImg": "https://gogocdn.net/cover/ginga-tetsudou-999-kimi-wa-senshi-no-you-ni-ikirareru-ka.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ginga-tetsudou-999-kimi-wa-senshi-no-you-ni-ikirareru-ka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

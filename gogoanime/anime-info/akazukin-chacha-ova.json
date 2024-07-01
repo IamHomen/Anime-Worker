@@ -12,5 +12,18 @@
   "synopsis": "Following the original TV series, the story tells the efforts of Momiji Gakuen, Chacha's rival school principal, to discover what is so special about Urara Gakuen students and what she could do to \"produce\" the best students.",
   "animeImg": "https://gogocdn.net/cover/akazukin-chacha-ova.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "akazukin-chacha-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "akazukin-chacha-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "akazukin-chacha-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "First released to public at 1994 V-Jump Festa, later it became a special video feature to be requested by V-Jump purchasers.",
   "animeImg": "https://gogocdn.net/cover/go-go-ackman.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "go-go-ackman-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

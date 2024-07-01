@@ -12,5 +12,10 @@
   "synopsis": "Special episode serving as the conclusion to the anime series.",
   "animeImg": "https://gogocdn.net/cover/wonder-egg-priority-special-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wonder-egg-priority-special-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/selector-destructed-wixoss-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "selector-destructed-wixoss-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

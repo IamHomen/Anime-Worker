@@ -11,5 +11,14 @@
   "synopsis": "Kato, Shimura, Arai, Nakamoto, and Takagi are friends at an all-boys boarding school. After they get tricked by their school government president, the five must put on a performance of the play \"Little Women.\"",
   "animeImg": "https://gogocdn.net/cover/sotsugyou-m-ore-tachi-no-carnival.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sotsugyou-m-ore-tachi-no-carnival-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sotsugyou-m-ore-tachi-no-carnival-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

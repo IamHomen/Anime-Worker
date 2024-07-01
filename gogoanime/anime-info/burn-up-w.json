@@ -13,5 +13,22 @@
   "synopsis": "When crime and terrorism go out of control in Tokyo, the police unleash Team Warrior \u2013 a band of highly-skilled and completely reckless band of female cops. Featuring loose cannon Rio, triggerhappy Maya and ace hacker Lilica, Team Warrior will get the job done, regardless of the budget of the mission.",
   "animeImg": "https://gogocdn.net/images/anime/B/burn-up-w.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "burn-up-w-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "burn-up-w-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "burn-up-w-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "burn-up-w-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

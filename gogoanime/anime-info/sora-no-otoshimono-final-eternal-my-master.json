@@ -15,5 +15,10 @@
   "synopsis": "The second movie of Sora no Otoshimono.",
   "animeImg": "https://gogocdn.net/images/summer/58059.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sora-no-otoshimono-final-eternal-my-master-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

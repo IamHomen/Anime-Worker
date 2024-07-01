@@ -11,5 +11,10 @@
   "synopsis": "The Kimi ni Todoke story so far, from Kurumi's point of view.",
   "animeImg": "https://gogocdn.net/cover/kimi-ni-todoke-kataomoi-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimi-ni-todoke-kataomoi-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

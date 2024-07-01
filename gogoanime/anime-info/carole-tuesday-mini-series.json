@@ -10,5 +10,38 @@
   "synopsis": "Short flash animation series of Carole & Tuesday released on the official YouTube and Twitter channels.",
   "animeImg": "https://gogocdn.net/cover/carole-tuesday-mini-series.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "carole-tuesday-mini-series-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

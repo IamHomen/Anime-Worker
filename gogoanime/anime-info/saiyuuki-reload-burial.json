@@ -15,5 +15,18 @@
   "synopsis": "Taking place in the past it offers a view at the Saiyuuki quartet before their formation and their journey to the west. First OVA starts with Sanzo and his master, also with Ukoku (known as a later Ni Jianyi). Second OVA shows first meeting of Goku and Sanzo. Third OVA considers the events after Hakkai's sins and his trial (that we know from first season of \"Saiyuuki\") and his decision to live in Gojyo's house.",
   "animeImg": "https://gogocdn.net/cover/saiyuuki-reload-burial.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "saiyuuki-reload-burial-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "saiyuuki-reload-burial-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "saiyuuki-reload-burial-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

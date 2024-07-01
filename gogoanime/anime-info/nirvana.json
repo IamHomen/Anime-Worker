@@ -10,5 +10,18 @@
   "synopsis": "Music video bundled with the limited edition of the Noragami Aragoto ED single.",
   "animeImg": "https://gogocdn.net/cover/nirvana.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nirvana-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nirvana-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nirvana-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

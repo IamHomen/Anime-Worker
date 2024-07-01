@@ -12,5 +12,10 @@
   "synopsis": "Third Youkai Watch movie.",
   "animeImg": "https://gogocdn.net/cover/youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

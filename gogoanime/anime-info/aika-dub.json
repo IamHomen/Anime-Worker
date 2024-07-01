@@ -14,5 +14,34 @@
   "synopsis": "A catastrophic earthquake has left Tokyo, and most of the Earth for that matter, under the sea. Aika is a salvager who retrieves various remains from the watery ruins. When Aika accepts the dangerous mission of locating and obtaining the mysterious Lagu, she discovers that she's not the only one after it.",
   "animeImg": "https://gogocdn.net/cover/aika-dub.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aika-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "aika-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "aika-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "aika-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "aika-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "aika-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "aika-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

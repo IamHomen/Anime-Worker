@@ -11,5 +11,22 @@
   "synopsis": "Initial D Final Stage\u00a0takes place right after the end of\u00a0Fifth Stage\u00a0and shows the long-awaited final fierce downhill battle between Takumi's 86 and Shinji's 86.",
   "animeImg": "https://gogocdn.net/images/Initial-D-Final-Stage.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "initial-d-final-stage-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "initial-d-final-stage-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "initial-d-final-stage-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "initial-d-final-stage-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

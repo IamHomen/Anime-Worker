@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode that was released with volume 9 of the Light Novel.",
   "animeImg": "https://gogocdn.net/images/Yu-sibu ova.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuushibu-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

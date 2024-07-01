@@ -12,5 +12,10 @@
   "synopsis": "The fourth film in Shin-Ei's series of annual WWII themed anime television movies for children Sensou Douwa (war story).",
   "animeImg": "https://gogocdn.net/cover/boku-no-boukuugou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "boku-no-boukuugou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,38 @@
   "synopsis": "Specials bundled with the iDOLM@STER Xenoglossia DVD releases.\r\n\r\nEpisodes\r\n#1: Izayoi-ryou e Youkoso!\r\n#2: Nantettatte Idol!\r\n#3: Komugiiro no Mermaid\r\n#4: Watashi ga Obasan ni Natte mo\r\n#5: Haru nanoni\r\n#6: Sekaijuu no Dare yori Kitto\r\n#7: SWEET MEMORIES\r\n#8: Itoshisa to Setsunasa to Kokoro Tsuyosa to\r\n#9: Episode 26 epilogue",
   "animeImg": "https://gogocdn.net/cover/idolmster-xenoglossia-specials.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "idolmster-xenoglossia-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,54 @@
   "synopsis": "series featuring Super Sonico, the mascot girl of Nitroplus.",
   "animeImg": "https://gogocdn.net/images/Super-Sonico-The-Animation.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "super-sonico-animation-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "super-sonico-animation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

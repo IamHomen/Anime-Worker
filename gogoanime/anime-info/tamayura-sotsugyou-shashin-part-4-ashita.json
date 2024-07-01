@@ -12,5 +12,10 @@
   "synopsis": "The final movie of a four-part finale of Tamayura.",
   "animeImg": "https://gogocdn.net/cover/tamayura-sotsugyou-shashin-part-4-ashita.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamayura-sotsugyou-shashin-part-4-ashita-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

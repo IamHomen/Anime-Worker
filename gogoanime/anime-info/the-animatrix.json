@@ -12,5 +12,10 @@
   "synopsis": "The Animatrix is a collection of several animated short films, detailing the backstory of the \"Matrix\" universe, and the original war between man and machines which led to the creation of the Matrix.",
   "animeImg": "https://gogocdn.net/images/anime/T/The-Animatrix.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-animatrix-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

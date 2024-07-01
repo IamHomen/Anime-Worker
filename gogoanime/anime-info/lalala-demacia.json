@@ -11,5 +11,46 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a",
   "animeImg": "https://gogocdn.net/cover/lalala-demacia.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lalala-demacia-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "lalala-demacia-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,10 @@
   "synopsis": "Bundled with the limited edition 10th volume of the Masamune-kun no Revenge manga.",
   "animeImg": "https://gogocdn.net/cover/masamune-kun-no-revenge-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "masamune-kun-no-revenge-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

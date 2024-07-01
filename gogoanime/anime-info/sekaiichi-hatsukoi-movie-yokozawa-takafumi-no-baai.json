@@ -12,5 +12,10 @@
   "synopsis": "Movie adaptation of the Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai BL light novel.",
   "animeImg": "https://gogocdn.net/images/Sekaiichi Hatsukoi Movie Yokozawa Takafumi no Baai.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sekaiichi-hatsukoi-movie-yokozawa-takafumi-no-baai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/delicious-partyprecure-movie-yume-miru-oko-sama-lunch.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "delicious-partyprecure-movie-yume-miru-oko-sama-lunch-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

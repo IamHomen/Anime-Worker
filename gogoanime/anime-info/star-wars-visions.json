@@ -11,5 +11,42 @@
   "synopsis": "An anthology series of animated short films celebrating Star Wars through the lens of the world's best anime creators.",
   "animeImg": "https://gogocdn.net/cover/star-wars-visions.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "star-wars-visions-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "star-wars-visions-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

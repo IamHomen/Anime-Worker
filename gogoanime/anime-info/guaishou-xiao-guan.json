@@ -11,5 +11,30 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/guaishou-xiao-guan.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "guaishou-xiao-guan-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "guaishou-xiao-guan-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "guaishou-xiao-guan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "guaishou-xiao-guan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "guaishou-xiao-guan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "guaishou-xiao-guan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

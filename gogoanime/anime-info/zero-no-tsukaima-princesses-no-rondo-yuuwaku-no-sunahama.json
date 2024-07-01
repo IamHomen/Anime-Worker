@@ -14,5 +14,10 @@
   "synopsis": "DVD beach episode of Zero no Tsukaima: Princesses no Rondo. Also known as episode #6.5.",
   "animeImg": "https://gogocdn.net/cover/zero-no-tsukaima-princesses-no-rondo-yuuwaku-no-sunahama.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zero-no-tsukaima-princesses-no-rondo-yuuwaku-no-sunahama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

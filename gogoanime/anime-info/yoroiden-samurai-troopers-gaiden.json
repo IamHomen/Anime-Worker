@@ -13,5 +13,14 @@
   "synopsis": "Although Talpa has been defeated, the Warriors don't get much of a break. As they celebrate Ryo's birthday party, the news tells them of a strange killer in samurai armor wreaking havoc in New York. And the armor looks very familiar. Now, they will have to battle the ancient sorcerer Shikaisen for Sage's life!",
   "animeImg": "https://gogocdn.net/cover/yoroiden-samurai-troopers-gaiden.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yoroiden-samurai-troopers-gaiden-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yoroiden-samurai-troopers-gaiden-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

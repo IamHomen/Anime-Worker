@@ -11,5 +11,10 @@
   "synopsis": "Special episode of Odekake Kozame collabing with Kuro Ajillo.",
   "animeImg": "https://gogocdn.net/cover/odekake-kozame-chiba-ken-kuro-ajillo.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "odekake-kozame-chiba-ken-kuro-ajillo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/wo-shi-jiang-xiaobai-2018.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wo-shi-jiang-xiaobai-2018-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

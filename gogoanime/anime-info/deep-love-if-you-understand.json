@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/deep-love-if-you-understand-1694769456.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "deep-love-if-you-understand-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

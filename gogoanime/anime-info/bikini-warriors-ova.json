@@ -13,5 +13,30 @@
   "synopsis": "New OVAs slated for release in Fall 2016. The OVAs will include two new characters, Cleric and Kunoichi.",
   "animeImg": "https://gogocdn.net/cover/bikini-warriors-ova.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bikini-warriors-ova-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "bikini-warriors-ova-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bikini-warriors-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bikini-warriors-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bikini-warriors-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bikini-warriors-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -16,5 +16,10 @@
   "synopsis": "Bundled with the tenth volume of One Punch-Man manga.",
   "animeImg": "https://gogocdn.net/images/upload/76392.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-punch-man-road-to-hero-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

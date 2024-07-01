@@ -10,5 +10,10 @@
   "synopsis": "Mocha, Chiffon, Cappuccino, Espresso, and Milk go with Cinnamoroll in this adventure of a lifetime. Join them in their quest, meeting new friends like Anna (the girl who found Cinnamoroll/Cinnamon) and discovering new places like the Forest of Pastries and Bread and the Coffee Waterfalls.",
   "animeImg": "https://gogocdn.net/cover/cinnamon-the-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cinnamon-the-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

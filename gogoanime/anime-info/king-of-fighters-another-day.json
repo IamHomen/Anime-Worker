@@ -12,5 +12,22 @@
   "synopsis": "The four episodes are set in Southtown, the imaginary city well known to all fans as the stage of numerous death matches throughout the KOF series. Many past heroes of the saga make their appearance here, and the four plots intertwine to create a large-scale drama, that is also linked to the story of KOF Maximum Impact 2.",
   "animeImg": "https://gogocdn.net/images/anime/K/King-of-Fighters-Another-Day.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "king-of-fighters-another-day-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "king-of-fighters-another-day-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "king-of-fighters-another-day-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "king-of-fighters-another-day-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

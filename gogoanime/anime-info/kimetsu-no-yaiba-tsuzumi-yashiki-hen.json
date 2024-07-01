@@ -13,5 +13,10 @@
   "synopsis": "Compilation TV Special of the Tsuzumi Yashiki Arc (Tsuzumi Mansion Arc)) (episodes 11-14) with new eyecatches, end credits scenes and next episode previews.",
   "animeImg": "https://gogocdn.net/cover/kimetsu-no-yaiba-tsuzumi-yashiki-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimetsu-no-yaiba-tsuzumi-yashiki-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

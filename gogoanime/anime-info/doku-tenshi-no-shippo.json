@@ -12,5 +12,22 @@
   "synopsis": "Tenshi no Shippo omake.",
   "animeImg": "https://gogocdn.net/cover/doku-tenshi-no-shippo.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doku-tenshi-no-shippo-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "doku-tenshi-no-shippo-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "doku-tenshi-no-shippo-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "doku-tenshi-no-shippo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

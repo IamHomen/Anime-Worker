@@ -13,5 +13,10 @@
   "synopsis": "Aikatsu Stars! Movie",
   "animeImg": "https://gogocdn.net/cover/aikatsu-stars-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aikatsu-stars-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

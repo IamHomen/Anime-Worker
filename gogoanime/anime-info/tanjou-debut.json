@@ -12,5 +12,14 @@
   "synopsis": "Aki Itou is a normal highschool girl doing normal things: reading books, feeding stray cats, eating at restaurants with her friend Kumi, dreaming of being an adult, and admiring the boy she likes. However, reality is not always kind to girls with dreams, as she finds out.",
   "animeImg": "https://gogocdn.net/cover/tanjou-debut.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tanjou-debut-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tanjou-debut-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

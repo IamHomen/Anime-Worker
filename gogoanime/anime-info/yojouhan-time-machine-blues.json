@@ -12,5 +12,30 @@
   "synopsis": "Yojouhan Time Machine Blues takes place during a sweltering midsummer day when Ozu, the protagonist's \"terrible friend,\" accidentally drowns the only remote control for the air conditioning unit in their apartment. While they discuss their predicament with Akashi, the protagonist's raven-haired love interest, a sloppily-dressed time-travelling student arrives from 25 years in the future, prompting the protagonist to borrow his time machine in an effort to snatch the remote control from the past before it breaks.",
   "animeImg": "https://gogocdn.net/cover/yojouhan-time-machine-blues.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yojouhan-time-machine-blues-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yojouhan-time-machine-blues-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yojouhan-time-machine-blues-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yojouhan-time-machine-blues-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yojouhan-time-machine-blues-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yojouhan-time-machine-blues-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

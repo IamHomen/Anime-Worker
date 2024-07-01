@@ -15,5 +15,18 @@
   "synopsis": "Cyborg 009 VS Devilman is a crossover anime which was announced separately as new works of Cyborg 009 (in March 2015) and Devilman (in April 2015). The two were later revealed to be a single work. It was screened in theaters for a two-week period beginning October 17, 2015, before being released as OVAs. Ishimori Production co-sponsored the production as part of the 50th anniversary of the Cyborg 009 manga.",
   "animeImg": "https://gogocdn.net/cover/cyborg-009-vs-devilman.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cyborg-009-vs-devilman-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "cyborg-009-vs-devilman-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "cyborg-009-vs-devilman-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

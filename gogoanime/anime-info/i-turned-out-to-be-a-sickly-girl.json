@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/i-turned-out-to-be-a-sickly-girl.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "i-turned-out-to-be-a-sickly-girl-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

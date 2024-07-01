@@ -10,5 +10,54 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/jantama-pong.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jantama-pong-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "jantama-pong-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "jantama-pong-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "jantama-pong-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "jantama-pong-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "jantama-pong-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "jantama-pong-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "jantama-pong-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "jantama-pong-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "jantama-pong-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jantama-pong-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "jantama-pong",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "The first part of a two-part movie. The story is a recap of the TV series.",
   "animeImg": "https://gogocdn.net/images/upload/73298.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kyoukai-no-kanata-movie-i-ll-be-here---kako-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

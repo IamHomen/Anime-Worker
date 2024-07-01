@@ -14,5 +14,10 @@
   "synopsis": "The OVA will adapt the third story in the Tokyo Ghoul: Hibi novel when Shuu Tsukiyama and Chie Hori met.",
   "animeImg": "https://gogocdn.net/images/upload/Tokyo-Ghoul-Pinto.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tokyo-ghoul-pinto--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

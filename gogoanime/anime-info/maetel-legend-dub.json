@@ -12,5 +12,14 @@
   "synopsis": "The artificial sun that lights the frozen planet La Metalle is dying, threatening to extinguish what little life is left there. Queen La Andromeda Prometheum decides that the only way for her people to survive is for them to submit to Hardgear's transformation process, which will turn everyone's body into machines. The Queen's daughters, Emeraldas and Maetel, refuse to submit to this process, and fight to stay human.",
   "animeImg": "https://gogocdn.net/cover/maetel-legend-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "maetel-legend-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "maetel-legend-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

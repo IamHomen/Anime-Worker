@@ -15,5 +15,22 @@
   "synopsis": "Unaired episodes included with the Blu-ray volume.",
   "animeImg": "https://gogocdn.net/cover/uchuu-senkan-tiramisu-ii-specials.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-senkan-tiramisu-ii-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "uchuu-senkan-tiramisu-ii-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "uchuu-senkan-tiramisu-ii-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "uchuu-senkan-tiramisu-ii-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

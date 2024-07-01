@@ -14,5 +14,10 @@
   "synopsis": "A music clip OVA using full versions of songs that were from the anime. While most of the OVA is re-purposed footage from the original show, this release does contain footage that never aired previously showing some events that occurred after the final episode.",
   "animeImg": "https://gogocdn.net/cover/chouon-senshi-borgman-madnightgigs.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chouon-senshi-borgman-madnightgigs-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

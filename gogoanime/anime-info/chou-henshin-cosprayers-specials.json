@@ -12,5 +12,18 @@
   "synopsis": "These three specials came with the DVD release. They mostly depict stories that take place in-between episodes from the main series.\r\n\r\nSpecial #1 takes place in-between episodes 2 and 3.\r\n\r\nSpecial #2 takes place in-between episodes 3 and 4.\r\n\r\nSpecial #3 doesn't fit very well in-between any of the main series, and is more of a side-story.",
   "animeImg": "https://gogocdn.net/cover/chou-henshin-cosprayers-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chou-henshin-cosprayers-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "chou-henshin-cosprayers-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "chou-henshin-cosprayers-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

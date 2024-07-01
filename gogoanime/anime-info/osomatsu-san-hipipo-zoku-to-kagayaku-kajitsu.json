@@ -12,5 +12,10 @@
   "synopsis": "First of two new anime installments commemorating the anime's sixth anniversary.",
   "animeImg": "https://gogocdn.net/cover/osomatsu-san-hipipo-zoku-to-kagayaku-kajitsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "osomatsu-san-hipipo-zoku-to-kagayaku-kajitsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

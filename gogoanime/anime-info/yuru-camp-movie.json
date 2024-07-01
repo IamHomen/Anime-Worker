@@ -12,5 +12,10 @@
   "synopsis": "The anime film will feature the familiar characters from the franchise now grown up, and reuniting to construct a campsite.",
   "animeImg": "https://gogocdn.net/cover/yuru-camp-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuru-camp-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,54 @@
   "synopsis": "The \"Chibi Godzilla\" project was launched to celebrate the 65th anniversary of Toho's Godzilla franchise.",
   "animeImg": "https://gogocdn.net/cover/tadaima-chibi-godzilla.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tadaima-chibi-godzilla-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

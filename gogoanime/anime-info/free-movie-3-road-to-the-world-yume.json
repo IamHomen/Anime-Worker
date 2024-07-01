@@ -14,5 +14,10 @@
   "synopsis": "Recap of the Free!: Dive to the Future TV series featuring new scenes.",
   "animeImg": "https://gogocdn.net/cover/free-movie-3-road-to-the-world-yume.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "free-movie-3-road-to-the-world-yume-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

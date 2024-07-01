@@ -13,5 +13,42 @@
   "synopsis": "Sequel of Zoids Wild.",
   "animeImg": "https://gogocdn.net/cover/zoids-wild-zero.png",
   "totalEpisodes": "14",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zoids-wild-zero-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "zoids-wild-zero-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

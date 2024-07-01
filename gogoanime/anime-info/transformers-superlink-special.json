@@ -14,5 +14,10 @@
   "synopsis": "Episode 43.5, \"Distribution\", is a comedic special show which commemorates 500 episodes of Transformers in Japan (however, since that total includes assorted Japanese series, the west is still some distance away from this number). When aired in Japan, it did not air in the usual timeslot for Superlink, and is not in any sort of chronological order - It features the Autobots playing a video game training simulator, which they certainly do not have time to do between episodes 42 and 44.",
   "animeImg": "https://gogocdn.net/cover/transformers-superlink-special-1692091324.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "transformers-superlink-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

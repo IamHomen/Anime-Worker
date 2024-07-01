@@ -12,5 +12,10 @@
   "synopsis": "Kwai Boo is a 2015 Chinese animated science fiction comedy film directed by Yunfei Wang.",
   "animeImg": "https://gogocdn.net/cover/gui-bao-baoxiao-chuang-yuzhou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gui-bao-baoxiao-chuang-yuzhou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

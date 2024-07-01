@@ -13,5 +13,10 @@
   "synopsis": "The first movie in the Washio Sumi no Shou trilogy.",
   "animeImg": "https://gogocdn.net/cover/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-1-tomodachi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-1-tomodachi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

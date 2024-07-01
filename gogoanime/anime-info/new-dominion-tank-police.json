@@ -14,5 +14,30 @@
   "synopsis": "In the follow up to Shirow's classic anime, Al, Leona and their trusty steed, Bonaparte, continue to fight crime in New Port City, alongside the rest of the Tank Police. But a new threat appears in the form of a series of terrorist attacks, using the latest weapons technology. The Tank Police are out-numbered and out-gunned, but Al and Leona set out to discover who or what is behind these attacks. With massive explosions and high-speed chases, Leona often causes more damage than the criminals she pursues.",
   "animeImg": "https://gogocdn.net/cover/new-dominion-tank-police.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "new-dominion-tank-police-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "new-dominion-tank-police-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "new-dominion-tank-police-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "new-dominion-tank-police-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "new-dominion-tank-police-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "new-dominion-tank-police-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

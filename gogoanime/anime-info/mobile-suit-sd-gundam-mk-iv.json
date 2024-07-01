@@ -12,5 +12,14 @@
   "synopsis": "The SD Gundams are at it again: first with a race among all of the prior SD Gundam characters, then the SD Zeons run a space travel agency in the second episode.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-sd-gundam-mk-iv.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-iv-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-mk-iv-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

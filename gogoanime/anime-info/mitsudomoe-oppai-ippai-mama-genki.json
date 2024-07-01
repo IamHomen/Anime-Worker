@@ -12,5 +12,10 @@
   "synopsis": "A special unaired episode included in the 7th DVD/Blu-ray volume.",
   "animeImg": "https://gogocdn.net/cover/mitsudomoe-oppai-ippai-mama-genki.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mitsudomoe-oppai-ippai-mama-genki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

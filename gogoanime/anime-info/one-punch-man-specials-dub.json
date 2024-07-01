@@ -16,5 +16,30 @@
   "synopsis": "Specials included in the Blu-ray and DVD releases of One Punch Man.",
   "animeImg": "https://gogocdn.net/cover/one-punch-man-specials-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-punch-man-specials-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "one-punch-man-specials-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "one-punch-man-specials-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "one-punch-man-specials-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "one-punch-man-specials-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "one-punch-man-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

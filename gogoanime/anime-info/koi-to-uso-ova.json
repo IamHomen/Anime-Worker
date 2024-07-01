@@ -12,5 +12,10 @@
   "synopsis": "Bundled with the limited edition of the 8th manga volume.",
   "animeImg": "https://gogocdn.net/cover/koi-to-uso-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koi-to-uso-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

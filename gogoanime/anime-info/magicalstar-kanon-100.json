@@ -13,5 +13,10 @@
   "synopsis": "Kanon spin-off OVA bundled with vol. 22 of the Kami nomi zo Shiru Sekai manga.",
   "animeImg": "https://gogocdn.net/cover/magicalstar-kanon-100.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-world-god-only-knows-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

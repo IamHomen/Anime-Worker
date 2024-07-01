@@ -15,5 +15,22 @@
   "synopsis": "Fifth season of Strike the Blood.",
   "animeImg": "https://gogocdn.net/cover/strike-the-blood-final.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "strike-the-blood-final-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "strike-the-blood-final-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "strike-the-blood-final-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "strike-the-blood-final-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

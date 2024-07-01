@@ -11,5 +11,58 @@
   "synopsis": "Short episodes streamed on the anime\u2019s official site after every episode, giving background information about the show.",
   "animeImg": "https://gogocdn.net/images/anime/P/Petit-Gargantia.jpg",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "petit-gargantia--episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "petit-gargantia--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

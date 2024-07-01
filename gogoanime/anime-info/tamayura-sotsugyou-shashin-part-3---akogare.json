@@ -12,5 +12,10 @@
   "synopsis": "The third movie of a four-part finale of Tamayura.",
   "animeImg": "https://gogocdn.net/images/upload/MED-DVD2-30870.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamayura-sotsugyou-shashin-part-3---akogare-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

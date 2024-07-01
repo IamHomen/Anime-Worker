@@ -10,5 +10,22 @@
   "synopsis": "Go! Go! 575 adapts the Project 575 games for PlayStation Vita and iOS, which allow anyone to create songs using the traditional Japanese 5-7-5-syllable meter found in haiku and tanka poems.",
   "animeImg": "https://gogocdn.net/images/Go-Go-575.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "go-go-575-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "go-go-575-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "go-go-575-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "go-go-575-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

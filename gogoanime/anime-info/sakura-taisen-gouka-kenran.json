@@ -13,5 +13,30 @@
   "synopsis": "The end of the demon wars has ended and now the Flower Division has been able to rest up after their fighting. The second Sakura Wars developes studies on every Flower Division Combatee in every episode while they go on their miscellanious adventures around Japan.",
   "animeImg": "https://gogocdn.net/cover/sakura-taisen-gouka-kenran.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sakura-taisen-gouka-kenran-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sakura-taisen-gouka-kenran-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sakura-taisen-gouka-kenran-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sakura-taisen-gouka-kenran-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sakura-taisen-gouka-kenran-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sakura-taisen-gouka-kenran-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Pikachu and the Pok\u00e9mon Music Squad is the Pikachu short that debuted alongside Pok\u00e9mon The Movie - Hoopa and the Clash of Ages.",
   "animeImg": "https://gogocdn.net/cover/pokemon-xy-pikachu-and-the-pokemon-musicians-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-xy-pikachu-and-the-pokemon-musicians-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

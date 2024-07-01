@@ -12,5 +12,10 @@
   "synopsis": "Hot Spring-themed OVA of Haiyore! Nyaruko-san W.",
   "animeImg": "https://gogocdn.net/images/Haiyore-Nyaruko-san-W.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haiyore-nyaruko-san-w-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

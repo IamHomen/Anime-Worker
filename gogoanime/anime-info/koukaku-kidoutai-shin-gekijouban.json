@@ -14,5 +14,10 @@
   "synopsis": "The official website for Ghost in the Shell: Arise announced that a new Ghost in the Shell film is in production and is slated to open in theaters in Japan in 2015.",
   "animeImg": "https://gogocdn.net/images/upload/Koukaku Kidoutai - Shin Gekijouban.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koukaku-kidoutai-shin-gekijouban-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,58 @@
   "synopsis": "Based on Afro's slow outdoor seinen manga.",
   "animeImg": "https://gogocdn.net/cover/heya-camp.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "heya-camp-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "heya-camp-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "heya-camp-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "heya-camp-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "heya-camp-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "heya-camp-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "heya-camp-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "heya-camp-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "heya-camp-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "heya-camp-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "heya-camp-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "heya-camp-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "heya-camp",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

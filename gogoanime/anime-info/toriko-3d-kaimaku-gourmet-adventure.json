@@ -13,5 +13,10 @@
   "synopsis": "Toei Animation\u00a0is producing the\u00a0Jump Heroes Film\u00a0double billing 3D films of Toriko and\u00a0One Piece\u00a0with original stories.",
   "animeImg": "https://gogocdn.net/images/anime/T/Toriko-3D.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toriko-3d-kaimaku-gourmet-adventure-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

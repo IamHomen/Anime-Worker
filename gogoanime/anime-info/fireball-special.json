@@ -11,5 +11,10 @@
   "synopsis": "A small special in which the show's stars, Drossel and Ged\u00e4chtnis, explain a little bit about how the show is made, through interviews and behind the scenes shots.",
   "animeImg": "https://gogocdn.net/cover/fireball-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fireball-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

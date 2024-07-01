@@ -14,5 +14,10 @@
   "synopsis": "Chuunibyou demo Koi ga Shitai! Movie",
   "animeImg": "https://gogocdn.net/images/anime/C/chuunibyou_demo_koi_ga_shitai.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,10 @@
   "synopsis": "End of the series.",
   "animeImg": "https://gogocdn.net/cover/haou-daikei-ryuu-knight-adeu-legend-final.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haou-daikei-ryuu-knight-adeu-legend-final-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

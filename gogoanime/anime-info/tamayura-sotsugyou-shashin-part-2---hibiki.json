@@ -11,5 +11,10 @@
   "synopsis": "The second movie of a four-part finale of Tamayura.",
   "animeImg": "https://gogocdn.net/images/upload/Tamayura - Sotsugyou Shashin Part 2 - Hibiki.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamayura-sotsugyou-shashin-part-2---hibiki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

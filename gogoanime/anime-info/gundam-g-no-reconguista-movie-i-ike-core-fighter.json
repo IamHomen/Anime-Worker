@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/gundam-g-no-reconguista-movie-i-ike-core-fighter.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-g-no-reconguista-movie-i-ike-core-fighter-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

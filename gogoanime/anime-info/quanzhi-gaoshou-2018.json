@@ -11,5 +11,18 @@
   "synopsis": "Based on the All-Star tournament from novel.",
   "animeImg": "https://gogocdn.net/cover/quanzhi-gaoshou-2018.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "quanzhi-gaoshou-2018-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "quanzhi-gaoshou-2018-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "quanzhi-gaoshou-2018-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

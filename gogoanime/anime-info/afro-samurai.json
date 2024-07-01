@@ -11,5 +11,26 @@
   "synopsis": "his father in front of him when he was just a boy, a three-armed gunman who is the lord of the dark swordsman\u2019s road and the current No. 1.",
   "animeImg": "https://gogocdn.net/images/anime/afro-samurai.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "afro-samurai-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "afro-samurai-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "afro-samurai-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "afro-samurai-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "afro-samurai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

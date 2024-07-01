@@ -13,5 +13,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/zoku-owarimonogatari-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zoku-owarimonogatari-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

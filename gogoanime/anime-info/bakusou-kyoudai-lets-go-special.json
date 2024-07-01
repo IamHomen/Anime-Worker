@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/bakusou-kyoudai-lets-go-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bakusou-kyoudai-lets-go-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

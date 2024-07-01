@@ -10,5 +10,10 @@
   "synopsis": "Part of the series of educational videos that teaches kids and young adults several basic tax lessons.",
   "animeImg": "https://gogocdn.net/cover/goannai-shimasu-another-world-e.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "goannai-shimasu-another-world-e-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,18 @@
   "synopsis": "The movie is a continuation of the story from the original series that takes place half a year later. The original team joins an alliance to help take back the area around Unato Castle, however things do not go as planned. Will Ikoma and his friends be able to survive, or will they fall to the hordes of Kabane?",
   "animeImg": "https://gogocdn.net/cover/koutetsujou-no-kabaneri-unato-kessen-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koutetsujou-no-kabaneri-unato-kessen-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "koutetsujou-no-kabaneri-unato-kessen-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "koutetsujou-no-kabaneri-unato-kessen-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

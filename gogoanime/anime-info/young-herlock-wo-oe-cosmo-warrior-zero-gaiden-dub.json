@@ -14,5 +14,14 @@
   "synopsis": "Prequel to Cosmo Warrior Zero.",
   "animeImg": "https://gogocdn.net/cover/young-herlock-wo-oe-cosmo-warrior-zero-gaiden-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "young-herlock-wo-oe-cosmo-warrior-zero-gaiden-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "young-herlock-wo-oe-cosmo-warrior-zero-gaiden-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

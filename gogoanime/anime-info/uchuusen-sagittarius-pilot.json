@@ -11,5 +11,10 @@
   "synopsis": "The pilot episode made for Uchuusen Sagittarius. Features the original comic book art and no voice acting.",
   "animeImg": "https://gogocdn.net/cover/uchuusen-sagittarius-pilot.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuusen-sagittarius-pilot-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

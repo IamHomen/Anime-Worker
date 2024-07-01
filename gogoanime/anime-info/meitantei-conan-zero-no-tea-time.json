@@ -12,5 +12,30 @@
   "synopsis": "Anime adaptation of the spin-off manga Meitantei Conan: Zero no Tea Time that focuses on the life of the triple agent as he attempts to keep all his different roles in check.",
   "animeImg": "https://gogocdn.net/cover/meitantei-conan-zero-no-tea-time.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "meitantei-conan-zero-no-tea-time-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "meitantei-conan-zero-no-tea-time-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "meitantei-conan-zero-no-tea-time-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "meitantei-conan-zero-no-tea-time-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "meitantei-conan-zero-no-tea-time-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "meitantei-conan-zero-no-tea-time-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

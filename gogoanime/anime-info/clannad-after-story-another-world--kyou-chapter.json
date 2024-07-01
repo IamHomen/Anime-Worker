@@ -12,5 +12,10 @@
   "synopsis": "A sequel to the recently wrapped anime based on the Key Clannad franchise. After Story is a path that opens in the original visual novel after all the other paths have been opened.",
   "animeImg": "https://gogocdn.net/cover/clannad-after-story-another-world--kyou-chapter.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "clannad-after-story-another-world--kyou-chapter-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

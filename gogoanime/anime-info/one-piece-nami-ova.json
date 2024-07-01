@@ -16,5 +16,10 @@
   "synopsis": "A retelling of the Arlong Park arc, with new animation.",
   "animeImg": "https://gogocdn.net/images/22.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-nami-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

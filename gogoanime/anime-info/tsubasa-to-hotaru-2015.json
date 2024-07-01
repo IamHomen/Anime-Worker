@@ -12,5 +12,22 @@
   "synopsis": "Four episodes that will be aired on TV as segments within the children's television program Oha Suta.",
   "animeImg": "https://gogocdn.net/cover/tsubasa-to-hotaru-2015.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tsubasa-to-hotaru-2015-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tsubasa-to-hotaru-2015-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tsubasa-to-hotaru-2015-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tsubasa-to-hotaru-2015-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

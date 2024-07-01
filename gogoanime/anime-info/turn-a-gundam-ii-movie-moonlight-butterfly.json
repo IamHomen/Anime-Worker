@@ -15,5 +15,10 @@
   "synopsis": "The movie retelling of the final half of the Turn A Gundam series.",
   "animeImg": "https://gogocdn.net/cover/turn-a-gundam-ii-movie-moonlight-butterfly.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "turn-a-gundam-ii-movie-moonlight-butterfly-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

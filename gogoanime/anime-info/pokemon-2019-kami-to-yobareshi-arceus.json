@@ -11,5 +11,22 @@
   "synopsis": "Special episodes of the Pocket Monsters anime distributed exclusively on Amazon Prime to promote the release of Pok\u00e9mon LEGENDS: Arceu",
   "animeImg": "https://gogocdn.net/cover/pokemon-2019-kami-to-yobareshi-arceus.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-2019-kami-to-yobareshi-arceus-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pokemon-2019-kami-to-yobareshi-arceus-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pokemon-2019-kami-to-yobareshi-arceus-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pokemon-2019-kami-to-yobareshi-arceus-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

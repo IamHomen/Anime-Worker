@@ -12,5 +12,10 @@
   "synopsis": "A 15-year-old boy travels back in time\u2014over 1,200 years ago to the Heian period\u2014and faces a war between oni (demons) and humans in the former Japanese capital of Kyoto.",
   "animeImg": "https://gogocdn.net/cover/onigamiden.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "onigamiden-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,18 @@
   "synopsis": "Three short stories featuring China-san.",
   "animeImg": "https://gogocdn.net/cover/spirit-of-wonder-china-san-tanpenshuu.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "spirit-of-wonder-china-san-tanpenshuu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "spirit-of-wonder-china-san-tanpenshuu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "spirit-of-wonder-china-san-tanpenshuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

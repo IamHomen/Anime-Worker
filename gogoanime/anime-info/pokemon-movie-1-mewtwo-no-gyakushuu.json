@@ -14,5 +14,10 @@
   "synopsis": "The adventure explodes into action with the debut of Mewtwo, a bio-engineered Pok\u00e9mon created from the DNA of Mew, the rarest of all Pok\u00e9mon. Determined to prove its superiority, Mewtwo lures Ash, Pikachu and the others into a Pok\u00e9mon match like none before. Mewtwo vs. Mew, Super-clones vs. Pok\u00e9mon. It's the ultimate showdown... with the very future of the world at stake!",
   "animeImg": "https://gogocdn.net/images/anime/P/pokemon-movie-1.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-movie-1-mewtwo-no-gyakushuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

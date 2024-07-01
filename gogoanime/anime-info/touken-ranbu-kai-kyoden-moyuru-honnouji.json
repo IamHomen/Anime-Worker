@@ -13,5 +13,38 @@
   "synopsis": "Anime adaptation of the stage play Touken Ranbu: Kyoden Moyuru Honnouji.",
   "animeImg": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

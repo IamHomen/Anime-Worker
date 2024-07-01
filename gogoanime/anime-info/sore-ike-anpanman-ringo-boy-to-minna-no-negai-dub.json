@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/sore-ike-anpanman-ringo-boy-to-minna-no-negai-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-ike-anpanman-ringo-boy-to-minna-no-negai-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

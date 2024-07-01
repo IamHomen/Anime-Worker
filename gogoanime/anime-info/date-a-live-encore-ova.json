@@ -12,5 +12,10 @@
   "synopsis": "The third volume of the Date A Live: Encore short story collection will bundle an unaired episode in a limited edition. The story is set on July 7th. \"In the midst of the Tanabata festival celebrations, Shidou meets Kurumi, the worst Spirit. And the couple's destination is ...a wedding ceremony hall?!\"",
   "animeImg": "https://gogocdn.net/images/upload/69489.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "date-a-live-encore-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

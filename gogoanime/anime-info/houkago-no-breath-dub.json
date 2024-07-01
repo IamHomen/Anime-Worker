@@ -10,5 +10,22 @@
   "synopsis": "Just before the arrival of a certain transfer student, three students at an academy in Paldea are tasked with making a video showcasing their school.",
   "animeImg": "https://gogocdn.net/cover/houkago-no-breath-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "houkago-no-breath-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "houkago-no-breath-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "houkago-no-breath-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "houkago-no-breath-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

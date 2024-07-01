@@ -12,5 +12,10 @@
   "synopsis": "Hiroshi is tired of living alone so he orders a maid robot from a company called Happy ComeCome, but ends up with the robot mom Yoshiko instead. Yoshiko acts more motherly than Hiroshi's real mother, and over time she is able to heal his heart.",
   "animeImg": "https://gogocdn.net/cover/happy-comecome.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "happy-comecome-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

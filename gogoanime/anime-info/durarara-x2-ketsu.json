@@ -12,5 +12,54 @@
   "synopsis": "Third and final cours of the second Durarara!! season.",
   "animeImg": "https://gogocdn.net/images/upload/77098.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "durarara-x2-ketsu-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "durarara-x2-ketsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/doraemon-movie-42-nobita-to-sora-no-utopia.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doraemon-movie-42-nobita-to-sora-no-utopia-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

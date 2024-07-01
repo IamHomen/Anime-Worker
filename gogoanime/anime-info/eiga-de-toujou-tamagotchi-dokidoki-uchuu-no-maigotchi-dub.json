@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/eiga-de-toujou-tamagotchi-dokidoki-uchuu-no-maigotchi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "eiga-de-toujou-tamagotchi-dokidoki-uchuu-no-maigotchi-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

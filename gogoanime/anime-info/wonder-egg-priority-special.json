@@ -12,5 +12,10 @@
   "synopsis": "Special episode concluding the story of Wonder Egg Priority.",
   "animeImg": "https://gogocdn.net/cover/wonder-egg-priority-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wonder-egg-priority-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

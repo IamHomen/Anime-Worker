@@ -11,5 +11,14 @@
   "synopsis": "The last part of the final season of Attack On Titan, concluding the ending arc story of Eren and the others.",
   "animeImg": "https://gogocdn.net/cover/shingeki-no-kyojin-the-final-season-kanketsu-hen-1676446664.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shingeki-no-kyojin-the-final-season-kanketsu-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shingeki-no-kyojin-the-final-season-kanketsu-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

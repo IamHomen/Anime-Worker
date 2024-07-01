@@ -14,5 +14,10 @@
   "synopsis": "Bundled with the ninth volume of the light novel.",
   "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-ova.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kono-subarashii-sekai-ni-shukufuku-wo-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

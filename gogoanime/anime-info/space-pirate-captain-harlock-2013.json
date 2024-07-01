@@ -13,5 +13,10 @@
   "synopsis": "A CGI remake of the original Captain Harlock series.Captain Harlock rebelled against the Allied Forces and has been plundering space ships for one hundred years. Why did he rebelled? How does he survive for one hundred years? With awe and fear to the legendary captain, the Allied Forces issues an order to assassinate Harlock.",
   "animeImg": "https://gogocdn.net/images/8.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "space-pirate-captain-harlock-2013-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

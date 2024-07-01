@@ -13,5 +13,26 @@
   "synopsis": "The series follows the antics of tenth-grade student Eisaku Yazawa who wants to become a bousouzoku, a motorcycle gang member.",
   "animeImg": "https://gogocdn.net/cover/chameleon-ova.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chameleon-ova-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "chameleon-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "chameleon-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "chameleon-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "chameleon-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

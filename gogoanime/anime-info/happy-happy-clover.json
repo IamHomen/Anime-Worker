@@ -13,5 +13,58 @@
   "synopsis": "Happy Happy Clover recounts the everyday life of a bunny named Chima and the other animals in the Crescent Moon Forest.",
   "animeImg": "https://gogocdn.net/cover/happy-happy-clover.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "happy-happy-clover-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "happy-happy-clover-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

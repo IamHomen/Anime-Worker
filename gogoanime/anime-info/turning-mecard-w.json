@@ -14,5 +14,110 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/turning-mecard-w.png",
   "totalEpisodes": "26",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "turning-mecard-w-episode-26",
+      "episodeNum": "Episode 26"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-25",
+      "episodeNum": "Episode 25"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-24",
+      "episodeNum": "Episode 24"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-23",
+      "episodeNum": "Episode 23"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-22",
+      "episodeNum": "Episode 22"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-21",
+      "episodeNum": "Episode 21"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-20",
+      "episodeNum": "Episode 20"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-19",
+      "episodeNum": "Episode 19"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-18",
+      "episodeNum": "Episode 18"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-17",
+      "episodeNum": "Episode 17"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-16",
+      "episodeNum": "Episode 16"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-15",
+      "episodeNum": "Episode 15"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "turning-mecard-w-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

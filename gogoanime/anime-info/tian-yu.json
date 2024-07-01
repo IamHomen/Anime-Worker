@@ -14,5 +14,22 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/tian-yu.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tian-yu-episode-10-13",
+      "episodeNum": "Episode 10.13"
+    },
+    {
+      "episodeId": "tian-yu-episode-7-9",
+      "episodeNum": "Episode 7.9"
+    },
+    {
+      "episodeId": "tian-yu-episode-4-6",
+      "episodeNum": "Episode 4.6"
+    },
+    {
+      "episodeId": "tian-yu-episode-1-3",
+      "episodeNum": "Episode 1.3"
+    }
+  ]
 }

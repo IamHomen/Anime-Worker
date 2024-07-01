@@ -12,5 +12,26 @@
   "synopsis": "One day, a group of aliens planning to take over Earth invade Tokyo. Momoko, who aspires to be an idol, gets involved in the fight in an unexpected form. Warudemon, king of the alien empire, uses various tactics to hunt down Momoko and the people around her. Momoko then decides to stand up to the Warudemon, plain and simple.",
   "animeImg": "https://gogocdn.net/images/Wonder-Momo.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wonder-momo-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "wonder-momo-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wonder-momo-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wonder-momo-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wonder-momo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

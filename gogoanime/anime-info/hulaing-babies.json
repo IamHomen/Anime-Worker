@@ -10,5 +10,54 @@
   "synopsis": "The anime will center on a group of young girls and their struggle as they aim to become Hula Girls.",
   "animeImg": "https://gogocdn.net/cover/hulaing-babies.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hulaing-babies-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hulaing-babies-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

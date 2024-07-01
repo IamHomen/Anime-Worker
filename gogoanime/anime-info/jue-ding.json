@@ -11,5 +11,14 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/jue-ding.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jue-ding-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jue-ding-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

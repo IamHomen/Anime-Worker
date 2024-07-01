@@ -13,5 +13,10 @@
   "synopsis": "Anime adaptation of Solomon arc of Fate/Grand Order video game.",
   "animeImg": "https://gogocdn.net/cover/fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

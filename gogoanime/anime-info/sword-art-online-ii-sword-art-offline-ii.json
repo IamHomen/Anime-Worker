@@ -10,5 +10,26 @@
   "synopsis": "BD/DVD specials.",
   "animeImg": "https://gogocdn.net/images/upload/68219.jpg",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sword-art-online-ii-sword-art-offline-ii-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sword-art-online-ii-sword-art-offline-ii-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sword-art-online-ii-sword-art-offline-ii-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sword-art-online-ii-sword-art-offline-ii-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sword-art-online-ii-sword-art-offline-ii-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

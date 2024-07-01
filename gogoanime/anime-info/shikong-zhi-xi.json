@@ -11,5 +11,58 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/shikong-zhi-xi.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shikong-zhi-xi-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shikong-zhi-xi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

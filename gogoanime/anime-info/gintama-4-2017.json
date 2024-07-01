@@ -16,5 +16,58 @@
   "synopsis": "Sixth season of Gintama.",
   "animeImg": "https://gogocdn.net/cover/gintama-6-2017.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gintama-2017-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gintama-4-2017-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

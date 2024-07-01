@@ -13,5 +13,26 @@
   "synopsis": "The Demon Invader Saga (\u9b54\u306e\u4fb5\u7565\u8005\u7de8 Ma no Shinryakusha Hen, lit. \"Demon Invader Arc\") is the ninth original saga of Dragon Ball Heroes.\r\n\r\nIt continues on from where the Supreme Kai of Time Saga of Super Dragon Ball Heroes left off.",
   "animeImg": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "super-dragon-ball-heroes-meteor-mission-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "super-dragon-ball-heroes-meteor-mission-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "super-dragon-ball-heroes-meteor-mission-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "super-dragon-ball-heroes-meteor-mission-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "super-dragon-ball-heroes-meteor-mission-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

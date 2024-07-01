@@ -12,5 +12,10 @@
   "synopsis": "Toaru Kagaku no Railgun S OVA",
   "animeImg": "https://gogocdn.net/images/railguns.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toaru-kagaku-no-railgun-s-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

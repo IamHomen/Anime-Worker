@@ -11,5 +11,10 @@
   "synopsis": "Yatterman movie.",
   "animeImg": "https://gogocdn.net/cover/yatterman-the-movie-shin-yattermecha-osu-gou-omocha-no-kuni-de-dai-ketsudan-da-koron.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yatterman-the-movie-shin-yattermecha-osu-gou-omocha-no-kuni-de-dai-ketsudan-da-koron-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

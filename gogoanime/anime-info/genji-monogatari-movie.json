@@ -12,5 +12,10 @@
   "synopsis": "Based on the literary work of Shikibu Murasaki, The Tale of Genji is a story of the Emperor`s second son born by a courtier. Made a commoner, he served as a retainer to the court.",
   "animeImg": "https://gogocdn.net/images/ch mc.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "genji-monogatari-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

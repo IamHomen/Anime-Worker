@@ -13,5 +13,14 @@
   "synopsis": "The main character, Gun, rides a customized Honda CB750F cafe racer and eventually evolves into a pro road racer.",
   "animeImg": "https://gogocdn.net/cover/bari-bari-densetsu.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bari-bari-densetsu-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bari-bari-densetsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

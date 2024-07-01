@@ -12,5 +12,18 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/otona-no-bouguya-san-rimen.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "otona-no-bouguya-san-rimen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "otona-no-bouguya-san-rimen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "otona-no-bouguya-san-rimen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

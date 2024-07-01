@@ -11,5 +11,14 @@
   "synopsis": "Unaired episodes included in the Blu-ray box volumes.",
   "animeImg": "https://gogocdn.net/cover/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

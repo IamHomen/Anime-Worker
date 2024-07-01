@@ -13,5 +13,10 @@
   "synopsis": "A summary episode of Mob Psycho 100 which features commentary from Reigen Arataka.",
   "animeImg": "https://gogocdn.net/cover/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

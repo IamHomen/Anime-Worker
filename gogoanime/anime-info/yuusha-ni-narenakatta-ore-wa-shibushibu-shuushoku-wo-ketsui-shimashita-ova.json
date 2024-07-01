@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode that was released with volume 9 of the Light Novel.",
   "animeImg": "https://gogocdn.net/images/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita-OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

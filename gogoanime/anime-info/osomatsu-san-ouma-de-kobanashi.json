@@ -11,5 +11,10 @@
   "synopsis": "New Osomatsu-san special.",
   "animeImg": "https://gogocdn.net/cover/osomatsu-san-ouma-de-kobanashi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "osomatsu-san-ouma-de-kobanashi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,10 @@
   "synopsis": "A theatrical short film shown together with\u00a0Gekijouban Pocket Monsters: Best Wishes - Shinsoku no Genosect.",
   "animeImg": "https://gogocdn.net/images/pkm16s.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-movie-16-special-pikachu-to-eievui-friends-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

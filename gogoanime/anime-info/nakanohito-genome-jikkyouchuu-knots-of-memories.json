@@ -12,5 +12,10 @@
   "synopsis": "An original story included with volume 10 of the Nakanohito Genome [Jikkyouchuu] manga.",
   "animeImg": "https://gogocdn.net/cover/nakanohito-genome-jikkyouchuu-knots-of-memories.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nakanohito-genome-jikkyouchuu-knots-of-memories-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

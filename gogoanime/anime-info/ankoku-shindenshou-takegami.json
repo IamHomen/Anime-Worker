@@ -14,5 +14,18 @@
   "synopsis": "A trio of diabolical dragons stirs from eons of slumber deep within the earth. Charging to the surface, they launch a bloody rampage against humanity, feasting on the weak and gaining strength from their hapless victims' souls. It will take the power of ancient god Takegami, the Guardian of Darkness, to vanquish the evil serpent forces. But alas, the mortal body Takegami inhabits belongs to a host reluctant to fight.",
   "animeImg": "https://gogocdn.net/cover/ankoku-shindenshou-takegami.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ankoku-shindenshou-takegami-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ankoku-shindenshou-takegami-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ankoku-shindenshou-takegami-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

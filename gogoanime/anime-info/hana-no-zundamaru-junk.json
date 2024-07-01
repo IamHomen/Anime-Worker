@@ -12,5 +12,18 @@
   "synopsis": "Zundamaru is back... For now! Even without missions, we elite ninjas face grave dangers every day!",
   "animeImg": "https://gogocdn.net/cover/hana-no-zundamaru-junk.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hana-no-zundamaru-junk-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-junk-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hana-no-zundamaru-junk-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

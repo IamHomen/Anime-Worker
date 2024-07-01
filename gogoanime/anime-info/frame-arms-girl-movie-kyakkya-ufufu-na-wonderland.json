@@ -13,5 +13,10 @@
   "synopsis": "A compilation movie of the TV series containing a newly added footage.",
   "animeImg": "https://gogocdn.net/cover/frame-arms-girl-movie-kyakkya-ufufu-na-wonderland.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "frame-arms-girl-movie-kyakkya-ufufu-na-wonderland-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

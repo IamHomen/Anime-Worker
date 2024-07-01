@@ -14,5 +14,10 @@
   "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials.",
   "animeImg": "https://gogocdn.net/cover/crash-1690874794.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "crash-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,54 @@
   "synopsis": "Second season of Ani Tore! EX.",
   "animeImg": "https://gogocdn.net/cover/anitore-xx.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "anitore-xx-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "anitore-xx-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "anitore-xx-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "anitore-xx-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "anitore-xx-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "anitore-xx-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "anitore-xx-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "anitore-xx-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "anitore-xx-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "anitore-xx-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "anitore-xx-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "anitore-xx-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

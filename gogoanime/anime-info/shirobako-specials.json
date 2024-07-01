@@ -11,5 +11,14 @@
   "synopsis": "Specials included with third and seventh volumes of the Blu-ray and DVD releases.",
   "animeImg": "https://gogocdn.net/images/upload/72234.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shirobako-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shirobako-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

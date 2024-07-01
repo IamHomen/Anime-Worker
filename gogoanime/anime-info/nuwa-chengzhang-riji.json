@@ -11,5 +11,50 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/nuwa-chengzhang-riji.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nuwa-chengzhang-riji-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,54 @@
   "synopsis": "An official website and Twitter account have been launched to announce that an original anime by free illustrator Kisai Takayama will be broadcast on TV. Titled Seiren, it will premiere in Winter 2017 via TBS and BS-TBS.",
   "animeImg": "https://gogocdn.net/cover/seiren.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "seiren-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "seiren-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "seiren-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "seiren-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "seiren-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "seiren-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "seiren-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "seiren-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "seiren-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "seiren-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "seiren-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "seiren-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

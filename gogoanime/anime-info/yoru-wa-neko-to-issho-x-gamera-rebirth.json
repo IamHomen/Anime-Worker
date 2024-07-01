@@ -10,5 +10,10 @@
   "synopsis": "Key visual and mini anime published for unlikely combination of cat and kaiju.",
   "animeImg": "https://gogocdn.net/cover/yoru-wa-neko-to-issho-x-gamera-rebirth.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yoru-wa-neko-to-issho-x-gamera-rebirth-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

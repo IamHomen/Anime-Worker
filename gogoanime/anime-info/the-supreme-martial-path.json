@@ -10,5 +10,34 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-supreme-martial-path-1672130793.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-supreme-martial-path-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "the-supreme-martial-path-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "the-supreme-martial-path-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "the-supreme-martial-path-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "the-supreme-martial-path-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "the-supreme-martial-path-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "the-supreme-martial-path-episode-1-3-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

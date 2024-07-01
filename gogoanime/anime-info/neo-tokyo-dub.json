@@ -14,5 +14,10 @@
   "synopsis": "1. Labyrinth Labyrinthos\r\nA girl and her cat fall through a looking-glass into a dark labyrinth full of strange people.\r\n\r\n2. Running Man\r\nIn the distant future, a tough racer uses his psychokinetic powers against his opponents during his final race. \r\n\r\n3. The Order to Stop Construction\r\nA snooty salaryman is sent by his bosses to the jungle to stop a completely automated construction job, and spends several days there arguing with the robots.",
   "animeImg": "https://gogocdn.net/cover/neo-tokyo-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "neo-tokyo-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

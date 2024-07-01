@@ -11,5 +11,54 @@
   "synopsis": "The story follows Black.inc, the three Soyogi sisters who live in space.",
   "animeImg": "https://gogocdn.net/images/fall/Narihero www.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "narihero-www-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "narihero-www-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "narihero-www-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "narihero-www-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "narihero-www-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "narihero-www-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "narihero-www-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "narihero-www-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "narihero-www-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "narihero-www-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "narihero-www-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "narihero-www-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

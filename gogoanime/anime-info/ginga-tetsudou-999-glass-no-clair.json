@@ -12,5 +12,10 @@
   "synopsis": "This short movie is a remake of the first half of episode 3 of Ginga Tetsudou 999.",
   "animeImg": "https://gogocdn.net/cover/ginga-tetsudou-999-glass-no-clair.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ginga-tetsudou-999-glass-no-clair-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

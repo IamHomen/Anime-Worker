@@ -13,5 +13,10 @@
   "synopsis": "The film is about 4 high-schoolers who are bike racers and illegally partake in races at night on public roads.",
   "animeImg": "https://gogocdn.net/cover/bari-bari-densetsu-1987.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bari-bari-densetsu-1987-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

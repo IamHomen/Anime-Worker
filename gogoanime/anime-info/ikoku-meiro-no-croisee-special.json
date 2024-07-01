@@ -12,5 +12,34 @@
   "synopsis": "Each of the seven volumes of the Blu-ray & DVDs will carry a short SD anime titled \"Yune & Alice\".",
   "animeImg": "https://gogocdn.net/images/anime/I/ikoku-meiro-no-croisee.jpg",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ikoku-meiro-no-croisee-special-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ikoku-meiro-no-croisee-special-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ikoku-meiro-no-croisee-special-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ikoku-meiro-no-croisee-special-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ikoku-meiro-no-croisee-special-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ikoku-meiro-no-croisee-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ikoku-meiro-no-croisee-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

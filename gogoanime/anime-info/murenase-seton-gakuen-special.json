@@ -12,5 +12,10 @@
   "synopsis": "Unaired short episode included with the third volume of the Seton Academy Blu-ray release.",
   "animeImg": "https://gogocdn.net/cover/murenase-seton-gakuen-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "murenase-seton-gakuen-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

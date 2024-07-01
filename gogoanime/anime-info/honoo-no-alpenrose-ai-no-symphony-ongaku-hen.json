@@ -14,5 +14,10 @@
   "synopsis": "A music-video style recap OVA. This release covers episode 12-20 and is with classical music entirely except for one song right before the credits. The beginning also has a unique frosted boarder frame around the video that changes designs which was not present in the the first music recap nor in the original anime.",
   "animeImg": "https://gogocdn.net/cover/honoo-no-alpenrose-ai-no-symphony-ongaku-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "honoo-no-alpenrose-ai-no-symphony-ongaku-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

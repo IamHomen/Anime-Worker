@@ -12,5 +12,10 @@
   "synopsis": "Extra episode included in Blu-ray and DVD volume 10, entitled \"Omake dayo (It's an extra!)\".",
   "animeImg": "https://gogocdn.net/cover/kaichou-wa-maid-sama-omake-dayo-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaichou-wa-maid-sama-omake-dayo-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

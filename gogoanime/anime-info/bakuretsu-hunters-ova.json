@@ -18,5 +18,18 @@
   "synopsis": "On the \"Spooner Continent\", a valiant group of Sorcerer Hunters are the people's last line of defense against the evil dark magiks unleashed periodically by those who can't control it. Saving the world and looking sexy while doing it!",
   "animeImg": "https://gogocdn.net/cover/bakuretsu-hunters-ova.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bakuretsu-hunters-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bakuretsu-hunters-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bakuretsu-hunters-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

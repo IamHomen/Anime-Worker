@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode included in the first Blu-ray volume.",
   "animeImg": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-2nd-season-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arifureta-shokugyou-de-sekai-saikyou-2nd-season-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

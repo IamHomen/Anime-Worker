@@ -11,5 +11,10 @@
   "synopsis": "A DVD-only episode bundled with the special edition Take Moon volume. \r\n\r\nCaren Ortensia attempts to control the world using money with varying degrees of success, Phantas-Moon receives a movie adaption of her T.V. show, and Shiki is involved in a love plot that spans years.",
   "animeImg": "https://gogocdn.net/cover/carnival-phantasm-ex-season.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "carnival-phantasm-ex-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

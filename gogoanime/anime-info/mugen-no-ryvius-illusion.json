@@ -10,5 +10,30 @@
   "synopsis": "A collection of comedy shorts with the characters of Mugen no Ryvius.",
   "animeImg": "https://gogocdn.net/cover/mugen-no-ryvius-illusion.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mugen-no-ryvius-illusion-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mugen-no-ryvius-illusion-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mugen-no-ryvius-illusion-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mugen-no-ryvius-illusion-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mugen-no-ryvius-illusion-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mugen-no-ryvius-illusion-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

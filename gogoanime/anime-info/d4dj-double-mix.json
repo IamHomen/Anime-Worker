@@ -10,5 +10,10 @@
   "synopsis": "A special episode focusing on the story of Merm4id and Rondo, including a new, joint performance by the two groups.",
   "animeImg": "https://gogocdn.net/cover/d4dj-double-mix.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "d4dj-double-mix-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

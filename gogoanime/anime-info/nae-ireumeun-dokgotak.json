@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/nae-ireumeun-dokgotak.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nae-ireumeun-dokgotak-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Based on a 1980 manga by Mikuriya Satomi, this adaptation differs considerably from the original. The story started in its prequel was completed with this second OVA.",
   "animeImg": "https://gogocdn.net/cover/twinkle-nora-rock-me.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "twinkle-nora-rock-me-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "Original video anime episode of Watashi no Shiawase na Kekkon.",
   "animeImg": "https://gogocdn.net/cover/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,10 @@
   "synopsis": "Unaired episode bundled with the ninth light novel volume of Kuusen Madoushi Kouhosei no Kyoukan.",
   "animeImg": "https://gogocdn.net/images/upload/download -1-.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kuusen-madoushi-kouhosei-no-kyoukan-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

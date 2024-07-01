@@ -11,5 +11,10 @@
   "synopsis": "Unaired episode included in the fifth Blu-ray and fourth DVD volume.",
   "animeImg": "https://gogocdn.net/cover/papa-no-iukoto-wo-kikinasai-pokkapoka-1711311961.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "papa-no-iukoto-wo-kikinasai-pokkapoka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "This is the condensed theatrical adaptation of the original TV series' first season.",
   "animeImg": "https://gogocdn.net/cover/kagaku-ninja-tai-gatchaman-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kagaku-ninja-tai-gatchaman-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

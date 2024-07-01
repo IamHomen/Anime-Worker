@@ -10,5 +10,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/my-beautiful-tenant-1694769400.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "my-beautiful-tenant-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "my-beautiful-tenant-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

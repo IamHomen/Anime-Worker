@@ -13,5 +13,14 @@
   "synopsis": "Tomie Kawakami is a femme fatale with long black hair and a beauty mark just under her left eye. She can seduce nearly any man, and drive them to murder as well, even though the victim is often Tomie herself. While one lover seeks to keep her for himself, another grows terrified of the immortal succubus. But soon they realize no matter how many times they kill her, the world will never be free of Tomie.",
   "animeImg": "https://gogocdn.net/cover/tomie.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tomie-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tomie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

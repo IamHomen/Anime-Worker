@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode bundled with the limited edition version of the Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Kan Nintendo Switch/PS4 game from MAGES.",
   "animeImg": "https://gogocdn.net/cover/yahari-ore-no-seishun-love-come-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yahari-ore-no-seishun-love-come-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

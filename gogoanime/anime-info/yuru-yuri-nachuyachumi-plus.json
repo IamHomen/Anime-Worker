@@ -13,5 +13,14 @@
   "synopsis": "Extra episodes of Yuru Yuri Nachuyachumi!",
   "animeImg": "https://gogocdn.net/images/upload/74361.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuru-yuri-nachuyachumi-plus-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yuru-yuri-nachuyachumi-plus-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

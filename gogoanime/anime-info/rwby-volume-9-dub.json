@@ -11,5 +11,46 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/rwby-volume-9-dub-1676737205.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rwby-volume-9-dub-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "rwby-volume-9-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

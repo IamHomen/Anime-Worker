@@ -11,5 +11,10 @@
   "synopsis": "Murakami made this movie in cooperation with Louis Vuitton, the handbag producer. It is more a commercial for Louis Vuitton than it is an anime movie, however the animation is quite special.",
   "animeImg": "https://gogocdn.net/cover/superflat-monogram.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "superflat-monogram-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

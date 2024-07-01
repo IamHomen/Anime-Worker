@@ -15,5 +15,10 @@
   "synopsis": "OVA bundled with 4th volume of manga.",
   "animeImg": "https://gogocdn.net/cover/upotte-miatte-waratte-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "upotte-miatte-waratte-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

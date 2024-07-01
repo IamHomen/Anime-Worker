@@ -14,5 +14,14 @@
   "synopsis": "GOSHO collection reveals the origin of the smash hit \"Detective Conan.\" \"GO\" into his world, and we will \"SHO\" you SEVEN romantic and exciting stories created by GOSHO AOYAMA.",
   "animeImg": "https://gogocdn.net/cover/gosho-aoyamas-collection-of-short-stories.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gosho-aoyamas-collection-of-short-stories-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gosho-aoyamas-collection-of-short-stories-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

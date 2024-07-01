@@ -10,5 +10,10 @@
   "synopsis": "Chuunibyou demo Koi ga Shitai! Movie Lite",
   "animeImg": "https://gogocdn.net/images/Chuunibyou-demo-Koi-ga-Shitai-Movie-Lite.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chuunibyou-demo-koi-ga-shitai-movie-lite-episode-1--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

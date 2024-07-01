@@ -11,5 +11,30 @@
   "synopsis": "Third season of TV Yarou Nanaana.",
   "animeImg": "https://gogocdn.net/cover/tv-yarou-nanaana-kaibutsu-kraken-wo-oe.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

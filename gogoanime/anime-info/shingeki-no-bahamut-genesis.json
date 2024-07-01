@@ -15,5 +15,54 @@
   "synopsis": "Based on the online card game by Cygames.",
   "animeImg": "https://gogocdn.net/images/fall/Shingeki no Bahamut Genesis.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shingeki-no-bahamut-genesis-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

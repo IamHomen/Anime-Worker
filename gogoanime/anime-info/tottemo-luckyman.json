@@ -14,5 +14,14 @@
   "synopsis": "This gag comedy series focused on the adventures of a bizarre superhero powered by special cooking and fights against various aliens and other enemies threatening the planet Earth.",
   "animeImg": "https://gogocdn.net/cover/tottemo-luckyman.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tottemo-luckyman-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tottemo-luckyman-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

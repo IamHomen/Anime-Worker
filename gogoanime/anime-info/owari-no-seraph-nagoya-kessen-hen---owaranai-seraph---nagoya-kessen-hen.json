@@ -13,5 +13,14 @@
   "synopsis": "Specials included in the Blu-ray and DVD releases.",
   "animeImg": "https://gogocdn.net/cover/owari-no-seraph-nagoya-kessen-hen---owaranai-seraph---nagoya-kessen-hen.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "owari-no-seraph-nagoya-kessen-hen---owaranai-seraph---nagoya-kessen-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "owari-no-seraph-nagoya-kessen-hen---owaranai-seraph---nagoya-kessen-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

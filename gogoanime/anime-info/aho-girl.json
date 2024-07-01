@@ -12,5 +12,54 @@
   "synopsis": "This 4-koma style manga features Yoshiko, a genuinely stupid girl (she can even manage to get all 0's on multiple choice tests). She hangs out at school with her childhood friend, who she claims to like, and he has to put up with all her ridiculous behavior!",
   "animeImg": "https://gogocdn.net/cover/aho-girl.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aho-girl-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "aho-girl-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "aho-girl-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "aho-girl-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "aho-girl-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "aho-girl-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "aho-girl-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "aho-girl-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "aho-girl-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "aho-girl-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "aho-girl-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "aho-girl-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

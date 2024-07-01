@@ -12,5 +12,14 @@
   "synopsis": "A short spin-off anime released on \"Kouya no Kotobuki Hikoutai: Oozora no Takeoff Girls!\" game app and YouTube.",
   "animeImg": "https://gogocdn.net/cover/kouya-no-kotobuki-hikoutai-gaiden-oozora-no-harukaze-hikoutai.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kouya-no-kotobuki-hikoutai-gaiden-oozora-no-harukaze-hikoutai-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kouya-no-kotobuki-hikoutai-gaiden-oozora-no-harukaze-hikoutai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

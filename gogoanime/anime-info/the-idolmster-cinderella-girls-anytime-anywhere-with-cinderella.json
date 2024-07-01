@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode bundled with the ninth Blu-ray and DVD volume of The iDOLM@STER Cinderella Girls.",
   "animeImg": "https://gogocdn.net/cover/the-idolmster-cinderella-girls-anytime-anywhere-with-cinderella.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-idolmster-cinderella-girls-anytime-anywhere-with-cinderella-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

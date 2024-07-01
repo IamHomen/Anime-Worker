@@ -10,5 +10,14 @@
   "synopsis": "The story follows the two titular girls Escha and Chron, whose contrasting personalities are like the sun and moon. The two girls are from Terminal, a future post-apocalyptic world that's empty and monochrome. The two girls cross worlds and arrive in the present day, which they call Transit. As Escha and Chron experience the light (scenery) and sound (music) of the real world, the future world of Terminal gradually changes into a more vivid world.",
   "animeImg": "https://gogocdn.net/cover/escha-chron.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "escha-chron-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "escha-chron-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

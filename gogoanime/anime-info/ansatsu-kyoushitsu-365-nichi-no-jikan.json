@@ -13,5 +13,10 @@
   "synopsis": "A compilation film of the Ansatsu Kyoushitsu TV series, featuring anime-only epilogue scenes not originally in the manga.",
   "animeImg": "https://gogocdn.net/cover/ansatsu-kyoushitsu-365-nichi-no-jikan.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ansatsu-kyoushitsu-365-nichi-no-jikan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

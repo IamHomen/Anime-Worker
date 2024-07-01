@@ -13,5 +13,26 @@
   "synopsis": "The five-part series, which utilizes a 3D animation style, follows a group of superheroes in a world where they must compete for popularity as they achieve worldwide notoriety for unmasking a villain who posed an environmental threat.",
   "animeImg": "https://gogocdn.net/cover/bastions.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bastions-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bastions-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bastions-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bastions-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bastions-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

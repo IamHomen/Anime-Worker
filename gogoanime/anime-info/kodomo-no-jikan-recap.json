@@ -12,5 +12,10 @@
   "synopsis": "A 86-minute DVD episode that includes an uncensored summary of the original TV series.",
   "animeImg": "https://gogocdn.net/cover/kodomo-no-jikan-recap.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kodomo-no-jikan-recap-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

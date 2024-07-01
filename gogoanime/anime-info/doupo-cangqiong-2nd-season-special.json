@@ -13,5 +13,18 @@
   "synopsis": "The tale of Ice Emperor and his journey as a mercenary. The story tells a story of twin Queen Medusas and their intervention with the Ice Emperor.",
   "animeImg": "https://gogocdn.net/cover/doupo-cangqiong-2nd-season-special.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doupo-cangqiong-2nd-season-special-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "doupo-cangqiong-2nd-season-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "doupo-cangqiong-2nd-season-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

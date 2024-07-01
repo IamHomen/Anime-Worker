@@ -11,5 +11,10 @@
   "synopsis": "The first movie in a trilogy, focusing on the battle against the Takahashi brothers.",
   "animeImg": "https://gogocdn.net/images/upload/58739.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "new-initial-d-movie-legend-1---kakusei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

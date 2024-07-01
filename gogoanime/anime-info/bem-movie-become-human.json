@@ -13,5 +13,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/bem-movie-become-human.png",
   "totalEpisodes": "0",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bem-movie-become-human",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

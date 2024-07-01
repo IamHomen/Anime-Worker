@@ -14,5 +14,10 @@
   "synopsis": "The episode takes place between seventh and eighth episode and will be screened in theaters on May 13, 2017. The episode will also be bundled with the seventh Blu-ray and DVD volume of the anime, releasing on August 25, 2017.",
   "animeImg": "https://gogocdn.net/cover/brave-witches-petersburg-daisenryaku.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "brave-witches-petersburg-daisenryaku-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

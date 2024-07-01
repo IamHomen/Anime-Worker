@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/doomsday-shelter-survival-of-the-fallen-1690190804.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doomsday-shelter-survival-of-the-fallen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

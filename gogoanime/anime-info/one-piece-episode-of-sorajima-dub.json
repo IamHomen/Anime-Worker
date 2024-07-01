@@ -13,5 +13,10 @@
   "synopsis": "The special will be the first in the \"Episode of\" series to cover the Skypeia arc, and will feature a character who did not appear in the original Skypeia arc from the anime.",
   "animeImg": "https://gogocdn.net/cover/one-piece-episode-of-sorajima-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-episode-of-sorajima-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

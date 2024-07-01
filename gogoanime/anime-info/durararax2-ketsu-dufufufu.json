@@ -12,5 +12,10 @@
   "synopsis": "A fake Shizuo from Numabukuro is causing chaos in Ikebukuro.",
   "animeImg": "https://gogocdn.net/cover/durararax2-ketsu-dufufufu.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "durararax2-ketsu-dufufufu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,10 @@
   "synopsis": "The story on Arcadia's mystery, on which the 13th television episode was based.",
   "animeImg": "https://gogocdn.net/images/aa.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "harlock-the-mystery-of-arcadia-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -16,5 +16,14 @@
   "synopsis": "Extra episodes of To LOVE-Ru Darkness 2nd bundled with the seventh Blu-ray and DVD volume.",
   "animeImg": "https://gogocdn.net/cover/to-love-ru-darkness-2nd-specials-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "to-love-ru-darkness-2nd-specials-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "to-love-ru-darkness-2nd-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,18 @@
   "synopsis": "Tobias, Mary, and Sakuya challenge the impregnable \u201cThe One Sin\u201d, but they lose their way in the maze and unintentionally trap other guild members. A mysterious cat is watching their blunde",
   "animeImg": "https://gogocdn.net/images/anime/A/hackquantum.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hackquantum--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hackquantum--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hackquantum--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,10 @@
   "synopsis": "A recap of the whole Digimon Savers TV series in one episode, with original commentary by Agumon, Gaomon, and Lalamon, included in the final volume of the DVD releases.",
   "animeImg": "https://gogocdn.net/cover/digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

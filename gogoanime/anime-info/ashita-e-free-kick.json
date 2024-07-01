@@ -10,5 +10,10 @@
   "synopsis": "Shun Godai is a young boy who likes soccer. But his grandfather, a successful businessman, want his grandson to follow his path...",
   "animeImg": "https://gogocdn.net/cover/ashita-e-free-kick.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ashita-e-free-kick-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

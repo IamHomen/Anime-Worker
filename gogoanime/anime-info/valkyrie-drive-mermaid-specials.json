@@ -13,5 +13,30 @@
   "synopsis": "Mini OVA episodes bundled with the Blu-ray and DVD releases of Valkyrie Drive: Mermaid.",
   "animeImg": "https://gogocdn.net/images/upload/76450.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "valkyrie-drive-mermaid-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "valkyrie-drive-mermaid-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "valkyrie-drive-mermaid-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "valkyrie-drive-mermaid-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "valkyrie-drive-mermaid-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "valkyrie-drive-mermaid-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

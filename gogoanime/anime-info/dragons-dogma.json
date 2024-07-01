@@ -12,5 +12,34 @@
   "synopsis": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans.",
   "animeImg": "https://gogocdn.net/cover/dragons-dogma.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dragons-dogma-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "dragons-dogma-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "dragons-dogma-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "dragons-dogma-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "dragons-dogma-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "dragons-dogma-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dragons-dogma-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,26 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/mao-zhi-ming-special.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mao-zhi-ming-special-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mao-zhi-ming-special-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mao-zhi-ming-special-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mao-zhi-ming-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mao-zhi-ming-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

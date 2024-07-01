@@ -14,5 +14,10 @@
   "synopsis": "The Pokemon Company streamed the \"Mega Special Animation\" short inspired by the upcoming Pok\u00e9mon Omega Ruby and Pok\u00e9mon Alpha Sapphire games on Sunday. The short features Pok\u00e9mon undergoing the newly discovered Mega Evolution and Primal Reversion in the Hoenn region.",
   "animeImg": "https://gogocdn.net/images/upload/oras.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-omega-ruby-alpha-sapphire-mega-special-animation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

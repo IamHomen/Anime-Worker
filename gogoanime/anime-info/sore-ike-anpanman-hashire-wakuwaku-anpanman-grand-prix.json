@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

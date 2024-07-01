@@ -14,5 +14,10 @@
   "synopsis": "Bundled with the limited edition of Blu-ray/DVD of Boruto: Naruto the Movie.",
   "animeImg": "https://gogocdn.net/cover/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

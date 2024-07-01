@@ -12,5 +12,38 @@
   "synopsis": "Three Naze Nani Shana episodes that were DVD magazine exclusives of the Shakugan no Shana no Subete magazine.",
   "animeImg": "https://gogocdn.net/cover/shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

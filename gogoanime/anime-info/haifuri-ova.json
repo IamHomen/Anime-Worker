@@ -12,5 +12,14 @@
   "synopsis": "OVA of Haifuri",
   "animeImg": "https://gogocdn.net/cover/haifuri-ova.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "haifuri-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "haifuri-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

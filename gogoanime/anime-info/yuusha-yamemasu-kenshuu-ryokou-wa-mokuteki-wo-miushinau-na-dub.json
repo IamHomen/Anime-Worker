@@ -14,5 +14,14 @@
   "synopsis": "A two-part new animation released with both Blu-ray/DVD boxes.",
   "animeImg": "https://gogocdn.net/cover/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

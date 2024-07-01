@@ -17,5 +17,10 @@
   "synopsis": "New Gintama movie.",
   "animeImg": "https://gogocdn.net/cover/gintama-the-final.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gintama-the-final-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

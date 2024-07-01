@@ -11,5 +11,22 @@
   "synopsis": "A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.",
   "animeImg": "https://gogocdn.net/cover/ganso-tensai-bakabon.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ganso-tensai-bakabon-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ganso-tensai-bakabon-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ganso-tensai-bakabon-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ganso-tensai-bakabon-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

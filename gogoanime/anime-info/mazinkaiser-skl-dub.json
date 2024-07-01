@@ -13,5 +13,18 @@
   "synopsis": "Prior to the events of the anime, three factions\u2014the Garan Army, the Kiba Army, and the Aira Army, battle for total dominance of Machine Island. The island is basically a prison, isolated from the rest of the world. The island contains a vast amount of resources, allowing the three factions to create an infinite supply of giant robots for their respective armies.\r\n\r\nThe world government learns that the island's power reactor has become unstable and will explode within 66 hours, destroying all of life and Earth itself. The government sends the Death Caprice squad, composed of mercenaries Ken Kaido and Ryo Magami to solve the issue, along with their giant robot Mazinkaiser, but was that a good idea?",
   "animeImg": "https://gogocdn.net/cover/mazinkaiser-skl-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mazinkaiser-skl-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mazinkaiser-skl-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mazinkaiser-skl-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

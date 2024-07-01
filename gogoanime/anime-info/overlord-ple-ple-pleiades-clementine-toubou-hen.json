@@ -13,5 +13,18 @@
   "synopsis": "Clementine escapes from almighty Ainz's gaze, and Albedo with the help of Aura, Mare, and a gratuitously large army of poorly-animated CG goblins must track her down, and eliminate anything that stands in her way, Guardian.",
   "animeImg": "https://gogocdn.net/cover/overlord-ple-ple-pleiades-clementine-toubou-hen.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "overlord-ple-ple-pleiades-clementine-toubou-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "overlord-ple-ple-pleiades-clementine-toubou-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "overlord-ple-ple-pleiades-clementine-toubou-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

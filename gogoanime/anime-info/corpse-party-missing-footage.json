@@ -11,5 +11,10 @@
   "synopsis": "An original video anime bundled with a limited-number edition of Corpse Party -The Anthology- Sachiko no Renai Yuugi Hysteric Birthday 2U (????????? -THE ANTHOLOGY- ????????Hysteric Birthday 2U) spinoff game.",
   "animeImg": "https://gogocdn.net/images/anime/C/92928.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "corpse-party-missing-footage-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,58 @@
   "synopsis": "A super exciting action comedy starring the inmates and guards of the world's most formidable prison.",
   "animeImg": "https://gogocdn.net/cover/nanbaka.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nanbaka-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "nanbaka-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "nanbaka-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "nanbaka-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "nanbaka-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "nanbaka-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "nanbaka-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "nanbaka-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "nanbaka-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nanbaka-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nanbaka-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nanbaka-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nanbaka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

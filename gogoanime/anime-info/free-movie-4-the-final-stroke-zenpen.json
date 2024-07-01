@@ -11,5 +11,10 @@
   "synopsis": "Sequel film to Free! Dive to the Future.",
   "animeImg": "https://gogocdn.net/cover/free-movie-4-the-final-stroke-zenpen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "free-movie-4-the-final-stroke-zenpen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

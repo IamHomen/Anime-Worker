@@ -11,5 +11,10 @@
   "synopsis": "Stop-motion animation about robots who only say \"YoYo\" and the rescue operation needed to help a robot duckling cross a river.",
   "animeImg": "https://gogocdn.net/cover/rescue-yoyo.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rescue-yoyo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

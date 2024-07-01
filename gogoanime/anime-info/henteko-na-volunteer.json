@@ -11,5 +11,10 @@
   "synopsis": "An educational film about the merits of volunteer work. A group of children help achieve a grandmother's dream of learning how to read and write.",
   "animeImg": "https://gogocdn.net/cover/henteko-na-volunteer.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "henteko-na-volunteer-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

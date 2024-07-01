@@ -11,5 +11,10 @@
   "synopsis": "An unaired episode of Arcana Famiglia.",
   "animeImg": "https://gogocdn.net/images/Arcana-Famiglia-OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arcana-famiglia-capriccio-stile-arcana-famiglia-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

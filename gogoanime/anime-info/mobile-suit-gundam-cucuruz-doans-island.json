@@ -10,5 +10,10 @@
   "synopsis": "Based on the 15th episode of the original Mobile Suit Gundam series",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-gundam-cucuruz-doans-island.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-gundam-cucuruz-doans-island-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

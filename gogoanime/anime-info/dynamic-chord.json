@@ -10,5 +10,54 @@
   "synopsis": "Follows the musical careers and personal lives of several bands under the \"Dynamic Chord\" agency and music label.",
   "animeImg": "https://gogocdn.net/cover/dynamic-chord.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dynamic-chord-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "dynamic-chord-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -17,5 +17,22 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/chiisana-kyojin-microman.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chiisana-kyojin-microman-episode-2-2",
+      "episodeNum": "Episode 2.2"
+    },
+    {
+      "episodeId": "chiisana-kyojin-microman-episode-2-1",
+      "episodeNum": "Episode 2.1"
+    },
+    {
+      "episodeId": "chiisana-kyojin-microman-episode-1-2",
+      "episodeNum": "Episode 1.2"
+    },
+    {
+      "episodeId": "chiisana-kyojin-microman-episode-1-1",
+      "episodeNum": "Episode 1.1"
+    }
+  ]
 }

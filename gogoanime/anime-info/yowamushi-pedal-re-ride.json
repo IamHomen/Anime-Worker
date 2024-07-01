@@ -12,5 +12,10 @@
   "synopsis": "This movie will feature highlights of the Inter High competition from the first season of the anime.",
   "animeImg": "https://gogocdn.net/images/upload/Yowamushi-Pedal-Re-RIDE.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yowamushi-pedal-re-ride-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

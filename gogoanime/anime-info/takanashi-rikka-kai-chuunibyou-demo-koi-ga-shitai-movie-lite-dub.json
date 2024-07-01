@@ -10,5 +10,10 @@
   "synopsis": "Special episode included with the Blu-ray/DVD release of Chuunibyou demo Koi ga Shitai! Movie.",
   "animeImg": "https://gogocdn.net/cover/takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie-lite-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie-lite-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

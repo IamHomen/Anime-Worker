@@ -11,5 +11,22 @@
   "synopsis": "A promotional animation for mint candies.",
   "animeImg": "https://gogocdn.net/cover/kiskis-wo-de-nanyou-shi-bohe-tang.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kiskis-wo-de-nanyou-shi-bohe-tang-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kiskis-wo-de-nanyou-shi-bohe-tang-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kiskis-wo-de-nanyou-shi-bohe-tang-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kiskis-wo-de-nanyou-shi-bohe-tang-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

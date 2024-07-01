@@ -11,5 +11,10 @@
   "synopsis": "Adaptation of the 110th chapter of the manga to announce the third season of Kaguya-sama wa Kokurasetai.",
   "animeImg": "https://gogocdn.net/cover/kaguya-sama-wa-kokurasetai-ultra-romantic-teaser-pv-ishigami-yuu-wa-kataritai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaguya-sama-wa-kokurasetai-ultra-romantic-teaser-pv-ishigami-yuu-wa-kataritai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Unaired anime episode (episode 13) bundled the limited edition High School D\u00d7D DX.2 Blu-ray.",
   "animeImg": "https://gogocdn.net/images/upload/Highschool DxD BorN - Yomigaerarenai Pheonix.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "highschool-dxd-born-yomigaerarenai-pheonix-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "All I Need Is You is a student-produced independent anime short from March 2019. \u975c\u52e2\u821e made it as her graduation project",
   "animeImg": "https://gogocdn.net/cover/kimi-shika-inai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kimi-shika-inai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

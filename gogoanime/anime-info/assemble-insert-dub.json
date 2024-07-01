@@ -12,5 +12,14 @@
   "synopsis": "A criminal group known as Demon Seed terrorizes Tokyo with its vast armies of mecha. The local police is afraid to confront them, but one person stands in their way: Maron Namikaze, a 13-year-old idol singer with a catchy voice and unbelievable superhuman strength.",
   "animeImg": "https://gogocdn.net/cover/assemble-insert-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "assemble-insert-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "assemble-insert-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,10 @@
   "synopsis": "Extra episode of Ginga Kikoutai Majestic Prince.",
   "animeImg": "https://gogocdn.net/cover/ginga-kikoutai-majestic-prince-mirai-e-no-tsubasa.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ginga-kikoutai-majestic-prince-mirai-e-no-tsubasa-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

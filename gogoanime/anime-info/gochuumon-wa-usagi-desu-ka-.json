@@ -11,5 +11,54 @@
   "synopsis": "Second season of Gochuumon wa Usagi Desu ka?",
   "animeImg": "https://gogocdn.net/images/upload/76265.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

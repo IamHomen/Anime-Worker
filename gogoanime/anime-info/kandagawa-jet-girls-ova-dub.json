@@ -11,5 +11,10 @@
   "synopsis": "OVA which was released as a tie-in to the Kandagawa Jet Girls video game for PlayStation 4.",
   "animeImg": "https://gogocdn.net/cover/kandagawa-jet-girls-ova-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kandagawa-jet-girls-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

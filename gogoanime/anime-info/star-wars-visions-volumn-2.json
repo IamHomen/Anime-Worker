@@ -13,5 +13,42 @@
   "synopsis": "\"Star Wars: Visions\" stretches beyond any one form of animation and serves as a broader framework for celebratory expressions of Star Wars storytelling. Volume 2 will showcase that potential as the shorts go on a global tour, celebrating the incredible animation happening across countries and cultures, through the mythos of Star Wars.",
   "animeImg": "https://gogocdn.net/cover/star-wars-visions-volumn-2.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "star-wars-visions-volumn-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

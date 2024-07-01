@@ -13,5 +13,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arifureta-shokugyou-de-sekai-saikyou-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "arifureta-shokugyou-de-sekai-saikyou-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

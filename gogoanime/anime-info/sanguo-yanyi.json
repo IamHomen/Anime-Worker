@@ -14,5 +14,30 @@
   "synopsis": "No synopsis information has been added to this title.",
   "animeImg": "https://gogocdn.net/cover/sanguo-yanyi.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sanguo-yanyi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sanguo-yanyi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sanguo-yanyi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sanguo-yanyi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sanguo-yanyi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sanguo-yanyi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

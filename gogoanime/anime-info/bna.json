@@ -10,5 +10,54 @@
   "synopsis": "An original anime by Studio Trigger, BNA is set in a 21st century in which the existence of humanoid animals has been revealed to the world after living in the darkness for centuries. One day, a high school student named Michiru suddenly turns into a tanuki person. After going to live in Anima City, where she meets wolf Ogami Shiro, she goes on to investigate why she became an animal and gets mixed up in even stranger events in the process.",
   "animeImg": "https://gogocdn.net/cover/bna.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bna-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "bna-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "bna-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "bna-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "bna-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "bna-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "bna-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "bna-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bna-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bna-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bna-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bna-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

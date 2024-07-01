@@ -11,5 +11,30 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/yun-zhongju-san-zi.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yun-zhongju-san-zi-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "yun-zhongju-san-zi-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "yun-zhongju-san-zi-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yun-zhongju-san-zi-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yun-zhongju-san-zi-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yun-zhongju-san-zi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

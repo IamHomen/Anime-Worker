@@ -12,5 +12,22 @@
   "synopsis": "Cless Alvein, a young swordsman from the town of Totus, along with his friend Mint Adnade, a healer with the talent of Mana, are sent back in time to defeat Dhaos, a sorcerer imprisoned by their parents decades ago. Along with the help of the archer Chester Barklight, the summoner Klarth F. Lester and the half-elf Arche Klaine, they seek to right the wrongs of Dhaos and return peace to the land. Based on the 1995 Super Famicom Game by NAMCO, \u201cTales of Phantasia.\u201d",
   "animeImg": "https://gogocdn.net/images/anime/T/tales-of-phantasia.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tales-of-phantasia--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tales-of-phantasia--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tales-of-phantasia--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tales-of-phantasia--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

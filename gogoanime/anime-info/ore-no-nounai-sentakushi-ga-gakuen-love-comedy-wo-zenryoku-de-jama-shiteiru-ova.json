@@ -12,5 +12,10 @@
   "synopsis": "Unaired TV episode bundled with the light novel's volume eight.",
   "animeImg": "https://gogocdn.net/images/1234.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

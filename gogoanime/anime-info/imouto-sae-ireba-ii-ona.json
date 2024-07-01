@@ -10,5 +10,30 @@
   "synopsis": "Original \"chibi\" styled animations of Imouto sae Ireba Ii. posted on the anime's official Twitter channel. Also included on the BD/DVD releases.",
   "animeImg": "https://gogocdn.net/cover/imouto-sae-ireba-ii-ona.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "imouto-sae-ireba-ii-ona-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "imouto-sae-ireba-ii-ona-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "imouto-sae-ireba-ii-ona-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "imouto-sae-ireba-ii-ona-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "imouto-sae-ireba-ii-ona-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "imouto-sae-ireba-ii-ona-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

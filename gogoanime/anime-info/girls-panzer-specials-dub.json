@@ -11,5 +11,30 @@
   "synopsis": "Mini episodes bundled with Blu-rays and DVDs.",
   "animeImg": "https://gogocdn.net/cover/girls-panzer-specials-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "girls-panzer-specials-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "girls-panzer-specials-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "girls-panzer-specials-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "girls-panzer-specials-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "girls-panzer-specials-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "girls-panzer-specials-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,14 @@
   "synopsis": "An OVA featuring a new character named Kagekatsu Uesugi.",
   "animeImg": "https://gogocdn.net/images/upload/Hyakka Ryouran Samurai After.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hyakka-ryouran-samurai-after-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hyakka-ryouran-samurai-after-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

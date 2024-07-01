@@ -10,5 +10,30 @@
   "synopsis": "The series will focus on Gamera facing off against five different Kaiju.",
   "animeImg": "https://gogocdn.net/cover/gamera-rebirth-1679892032.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gamera-rebirth-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gamera-rebirth-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gamera-rebirth-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gamera-rebirth-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gamera-rebirth-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gamera-rebirth-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

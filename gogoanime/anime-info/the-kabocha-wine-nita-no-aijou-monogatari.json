@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-kabocha-wine-nita-no-aijou-monogatari.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-kabocha-wine-nita-no-aijou-monogatari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

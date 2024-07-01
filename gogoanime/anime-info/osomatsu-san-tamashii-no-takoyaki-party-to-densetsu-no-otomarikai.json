@@ -11,5 +11,10 @@
   "synopsis": "Second of two new anime installments commemorating the anime's sixth anniversary, which will screen in theaters in Japan on a limited basis in 2023.",
   "animeImg": "https://gogocdn.net/cover/osomatsu-san-tamashii-no-takoyaki-party-to-densetsu-no-otomarikai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "osomatsu-san-tamashii-no-takoyaki-party-to-densetsu-no-otomarikai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

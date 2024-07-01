@@ -14,5 +14,10 @@
   "synopsis": "N/A",
   "animeImg": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

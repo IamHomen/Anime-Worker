@@ -13,5 +13,54 @@
   "synopsis": "OVA release from anime series \"Armored Trooper Votoms\" utilizing the latest in 3D CG animation. Created by the original staff of the series, with an all new story about the end of the 100 year war.",
   "animeImg": "https://gogocdn.net/cover/soukou-kihei-votoms-pailsen-files.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "soukou-kihei-votoms-pailsen-files-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

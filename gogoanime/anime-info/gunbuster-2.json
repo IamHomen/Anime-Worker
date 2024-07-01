@@ -14,5 +14,30 @@
   "synopsis": "Gunbuster is the story of Noriko Takaya, a young girl who is trying to walk in the footsteps of her famous father, Admiral Yuzo Takaya. It chronicles Noriko\u2019s trials and tribulations as she struggles to become a pilot of the massive robot Gunbuster. With the help of Coach Ota and her friends Kazumi and Jung, Noriko conquers her fears and learns one of the most important lessons in life: Believing in one\u2019s self.",
   "animeImg": "https://gogocdn.net/cover/gunbuster-2-1680582880.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gunbuster-2-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gunbuster-2-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gunbuster-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gunbuster-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gunbuster-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gunbuster-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

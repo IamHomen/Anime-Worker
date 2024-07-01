@@ -12,5 +12,30 @@
   "synopsis": "Short specials included on the BD/DVD volumes of \"Sekai de Ichiban Tsuyoku Naritai!\"",
   "animeImg": "https://gogocdn.net/cover/sekai-de-ichiban-tsuyoku-naritai-specials.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sekai-de-ichiban-tsuyoku-naritai-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sekai-de-ichiban-tsuyoku-naritai-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sekai-de-ichiban-tsuyoku-naritai-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sekai-de-ichiban-tsuyoku-naritai-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sekai-de-ichiban-tsuyoku-naritai-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sekai-de-ichiban-tsuyoku-naritai-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

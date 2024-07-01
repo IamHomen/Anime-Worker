@@ -11,5 +11,14 @@
   "synopsis": "Mizumura Shinta is a plain undergraduate student. One day, he meets a transfer student from Romania, Kishimoto Lilith. She is a half human and half vampire. Through the life with Lilith, he knows the secret of his birth. He is the sole descendant of the Romuald clan, the vampire hunters.",
   "animeImg": "https://gogocdn.net/images/anime/H/holy-knight.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "holy-knight-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "holy-knight-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

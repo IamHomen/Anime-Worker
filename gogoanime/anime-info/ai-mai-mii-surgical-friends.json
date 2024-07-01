@@ -10,5 +10,54 @@
   "synopsis": "Third season of Ai Mai Mii.",
   "animeImg": "https://gogocdn.net/cover/ai-mai-mii-surgical-friends.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ai-mai-mii-surgical-friends-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

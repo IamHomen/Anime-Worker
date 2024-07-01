@@ -13,5 +13,10 @@
   "synopsis": "OVA bundled with the 7th manga volume.",
   "animeImg": "https://gogocdn.net/images/Non Non Biyori OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "non-non-biyori-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

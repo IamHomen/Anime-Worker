@@ -14,5 +14,10 @@
   "synopsis": "Special episode of Natsume Yuujinchou Go",
   "animeImg": "https://gogocdn.net/cover/natsume-yuujinchou-go-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "natsume-yuujinchou-go-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

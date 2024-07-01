@@ -14,5 +14,10 @@
   "synopsis": "First Overlord recap film.",
   "animeImg": "https://gogocdn.net/cover/overlord-movie-1-fushisha-no-ou.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "overlord-movie-1-fushisha-no-ou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

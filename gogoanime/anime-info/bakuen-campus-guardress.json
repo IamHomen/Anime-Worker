@@ -14,5 +14,22 @@
   "synopsis": "Long ago, the gate to the world of darkness was sealed. Now evil warriors, known as Remnants, are trying to reopen the gate and let demons take over the world. However, at Tobira High School, there exist guardians of the gate who must risk their lives to prevent the gate from being opened.",
   "animeImg": "https://gogocdn.net/cover/bakuen-campus-guardress.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bakuen-campus-guardress-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bakuen-campus-guardress-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bakuen-campus-guardress-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bakuen-campus-guardress-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

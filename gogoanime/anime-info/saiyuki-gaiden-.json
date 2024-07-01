@@ -14,5 +14,18 @@
   "synopsis": "500 years before Saiyuki, a heretic child with golden eyes is brought to Heaven and given into the reluctant care of a minor deity, Konzen, nephew of the Merciful Goddess Kanzeon Bosatsu. Konzen eventually names him \u201cGoku\u201d. Goku befriends two other minor gods, Marshal Tenpou and General Kenren of the Western Army of Heaven, and a boy who seems to be his age, the War Prince Nataku. Though Goku is happy in his new home, Heaven is not kind to heretics.",
   "animeImg": "https://gogocdn.net/images/anime/S/Saiyuki-Gaiden.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "saiyuki-gaiden--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "saiyuki-gaiden--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "saiyuki-gaiden--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

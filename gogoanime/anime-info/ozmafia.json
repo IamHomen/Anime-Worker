@@ -14,5 +14,54 @@
   "synopsis": "The anime will feature an original story from the game on which it is based.",
   "animeImg": "https://gogocdn.net/cover/ozmafia.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ozmafia-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "ozmafia-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "ozmafia-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "ozmafia-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "ozmafia-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ozmafia-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ozmafia-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ozmafia-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ozmafia-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ozmafia-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ozmafia-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ozmafia-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

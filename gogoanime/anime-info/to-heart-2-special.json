@@ -12,5 +12,10 @@
   "synopsis": "Special recap episode #11.5.",
   "animeImg": "https://gogocdn.net/cover/to-heart-2-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "to-heart-2-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

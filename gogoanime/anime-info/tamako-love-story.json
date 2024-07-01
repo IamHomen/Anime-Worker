@@ -12,5 +12,10 @@
   "synopsis": "Everybody loves somebody.",
   "animeImg": "https://gogocdn.net/images/fall/Tamako Love Story.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamako-love-story-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

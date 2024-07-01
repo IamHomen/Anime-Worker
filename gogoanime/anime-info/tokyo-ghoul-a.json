@@ -16,5 +16,54 @@
   "synopsis": "Second Season of Tokyo Ghoul series.",
   "animeImg": "https://gogocdn.net/images/upload/165236.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tokyo-ghoul-a-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tokyo-ghoul-a-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

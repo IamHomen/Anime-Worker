@@ -13,5 +13,10 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/choujigen-game-neptune-the-animation-nep-no-natsuyasumi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "choujigen-game-neptune-the-animation-nep-no-natsuyasumi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

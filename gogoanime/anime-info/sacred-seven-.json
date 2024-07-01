@@ -13,5 +13,54 @@
   "synopsis": "A \u201cnew school battle action\u201d project by Sunrise. The tagline is \u201cPeople\u2019s memories change the world!\u201d",
   "animeImg": "https://gogocdn.net/images/anime/S/sacred-seven.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sacred-seven--episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "sacred-seven--episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "sacred-seven--episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "sacred-seven--episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "sacred-seven--episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sacred-seven--episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sacred-seven--episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sacred-seven--episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sacred-seven--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sacred-seven--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sacred-seven--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sacred-seven--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

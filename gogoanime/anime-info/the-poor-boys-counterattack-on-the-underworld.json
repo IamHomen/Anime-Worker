@@ -10,5 +10,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-poor-boys-counterattack-on-the-underworld-1694579913.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "the-poor-boys-counterattack-on-the-underworld-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "the-poor-boys-counterattack-on-the-underworld-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

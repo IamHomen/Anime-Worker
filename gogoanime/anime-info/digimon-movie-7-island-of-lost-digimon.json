@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/images/anime/D/8.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-movie-7-island-of-lost-digimon-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

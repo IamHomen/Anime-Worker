@@ -10,5 +10,10 @@
   "synopsis": "Based on the saga novel \"The Human Revolution\" by Daisuke Ikeda published in 1974-1999.",
   "animeImg": "https://gogocdn.net/cover/ningen-kakumei.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ningen-kakumei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

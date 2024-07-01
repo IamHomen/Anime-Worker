@@ -11,5 +11,10 @@
   "synopsis": "A project made to celebrate the 10th anniversary of the Animate mascot character Anime Tenchou, screened at the Animate Ichioshi Bishoujo Matsuri event in Tokyo.",
   "animeImg": "https://gogocdn.net/cover/anime-tenchou-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "anime-tenchou-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

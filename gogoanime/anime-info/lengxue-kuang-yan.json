@@ -11,5 +11,10 @@
   "synopsis": "Sequel film of Jue Ji, released online.",
   "animeImg": "https://gogocdn.net/cover/lengxue-kuang-yan.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lengxue-kuang-yan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

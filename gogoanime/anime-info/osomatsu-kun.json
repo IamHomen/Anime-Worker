@@ -10,5 +10,18 @@
   "synopsis": "A wacky comedy about identical sextuplets causing wild pranks. Each episode features 2 stories.",
   "animeImg": "https://gogocdn.net/cover/osomatsu-kun.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "osomatsu-kun-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "osomatsu-kun-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "osomatsu-kun-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,18 @@
   "synopsis": "The story follows a high school boy named Arisu and other youths who are transported to a devastated alternate world. Trapped, they are forced to play a deadly game of survival.",
   "animeImg": "https://gogocdn.net/images/anime/I/Imawa no Kuni no Alice.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "imawa-no-kuni-no-alice-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "imawa-no-kuni-no-alice-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "imawa-no-kuni-no-alice-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,30 @@
   "synopsis": "Short specials from the DVDs.",
   "animeImg": "https://gogocdn.net/cover/sketchbook-full-colors-picture-drama.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sketchbook-full-colors-picture-drama-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sketchbook-full-colors-picture-drama-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sketchbook-full-colors-picture-drama-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sketchbook-full-colors-picture-drama-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sketchbook-full-colors-picture-drama-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sketchbook-full-colors-picture-drama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

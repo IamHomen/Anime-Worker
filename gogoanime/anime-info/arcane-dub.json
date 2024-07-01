@@ -11,5 +11,42 @@
   "synopsis": "Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League champions-and the power that will tear them apart.",
   "animeImg": "https://gogocdn.net/cover/arcane-dub.png",
   "totalEpisodes": "9",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arcane-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "arcane-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "arcane-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "arcane-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "arcane-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "arcane-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "arcane-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "arcane-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "arcane-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

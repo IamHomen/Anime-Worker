@@ -11,5 +11,10 @@
   "synopsis": "Bundled with the 29th volume of the Shokugeki no Souma manga. It tells the story of what happened to Erina after she ran away from her father.",
   "animeImg": "https://gogocdn.net/cover/shokugeki-no-souma-san-no-sara-toutsuki-ressha-hen-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shokugeki-no-souma-san-no-sara-toutsuki-ressha-hen-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

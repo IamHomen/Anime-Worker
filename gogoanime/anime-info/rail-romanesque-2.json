@@ -10,5 +10,22 @@
   "synopsis": "Second season of Rail Romanesque.",
   "animeImg": "https://gogocdn.net/cover/rail-romanesque-2-1696011415.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rail-romanesque-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "rail-romanesque-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "rail-romanesque-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "rail-romanesque-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

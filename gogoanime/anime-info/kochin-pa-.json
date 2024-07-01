@@ -10,5 +10,54 @@
   "synopsis": "Anime adaptation of pachinko and slot machine parlor Island's \"Aira Project\" commercials. It follows three mascot characters: Aira, Hana, and Shima.",
   "animeImg": "https://gogocdn.net/images/upload/77754.jpg",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kochin-pa-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "kochin-pa-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "kochin-pa-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kochin-pa-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kochin-pa-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kochin-pa-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kochin-pa-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kochin-pa-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kochin-pa--episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kochin-pa--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kochin-pa--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kochin-pa--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Unaired episode inluded with the Blu-ray/DVD release.",
   "animeImg": "https://gogocdn.net/images/upload/64843.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ai-mai-mi-mousou-catastrophe-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

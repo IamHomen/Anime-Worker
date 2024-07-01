@@ -12,5 +12,14 @@
   "synopsis": "The prologue to Warau Salesman that aired a week before the official episode 1 was released.",
   "animeImg": "https://gogocdn.net/cover/warau-salesman-episode-0.png",
   "totalEpisodes": "0",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "warau-salesman-episode-0-episode-0-2",
+      "episodeNum": "Episode 0.2"
+    },
+    {
+      "episodeId": "warau-salesman-episode-0-episode-0-1",
+      "episodeNum": "Episode 0.1"
+    }
+  ]
 }

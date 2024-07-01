@@ -14,5 +14,54 @@
   "synopsis": "Second season of Kekkai Sensen.",
   "animeImg": "https://gogocdn.net/cover/kekkai-sensen-beyond.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kekkai-sensen-beyond-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

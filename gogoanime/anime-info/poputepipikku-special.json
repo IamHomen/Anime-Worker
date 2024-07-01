@@ -12,5 +12,10 @@
   "synopsis": "Special episode of Poputepipikku.",
   "animeImg": "https://gogocdn.net/cover/poputepipikku-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "poputepipikku-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

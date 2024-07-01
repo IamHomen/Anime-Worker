@@ -11,5 +11,10 @@
   "synopsis": "In 1990s England, Earwig, a 10-year-old orphan girl who grew up without knowing that she is a witch's daughter, is taken from the orphanage by a strange duo and starts living with them.",
   "animeImg": "https://gogocdn.net/cover/earwig-and-the-witch.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "earwig-and-the-witch-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

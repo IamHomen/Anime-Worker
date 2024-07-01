@@ -16,5 +16,10 @@
   "synopsis": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
   "animeImg": "https://gogocdn.net/cover/shingeki-no-kyojin-chronicle.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shingeki-no-kyojin-chronicle-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

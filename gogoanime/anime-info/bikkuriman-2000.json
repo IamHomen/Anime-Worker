@@ -11,5 +11,10 @@
   "synopsis": "More adventures of Bikkuriman.",
   "animeImg": "https://gogocdn.net/cover/bikkuriman-2000.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bikkuriman-2000-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

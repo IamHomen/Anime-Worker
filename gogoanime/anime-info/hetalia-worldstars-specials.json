@@ -12,5 +12,18 @@
   "synopsis": "Episodes 13-15 of Hetalia World\u2605Stars included in the Blu-ray BOX.",
   "animeImg": "https://gogocdn.net/cover/hetalia-worldstars-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hetalia-worldstars-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hetalia-worldstars-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hetalia-worldstars-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "A 50th anniversary project.",
   "animeImg": "https://gogocdn.net/cover/lupin-wa-ima-mo-moete-iru-ka.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lupin-wa-ima-mo-moete-iru-ka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,10 @@
   "synopsis": "The movie will compile the episodes from the second season of the anime, and will also have new cuts of animation.",
   "animeImg": "https://gogocdn.net/cover/yowamushi-pedal-reroad.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yowamushi-pedal-reroad-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

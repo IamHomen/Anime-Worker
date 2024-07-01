@@ -13,5 +13,10 @@
   "synopsis": "Unaired episoded included with volume 7 of the Blu-ray/DVD.",
   "animeImg": "https://gogocdn.net/images/upload/73125.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "free-eternal-summer-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Sequel of Gochuumon wa Usagi Desu ka?? Movie.",
   "animeImg": "https://gogocdn.net/cover/gochuumon-wa-usagi-desuka-sing-for-you.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gochuumon-wa-usagi-desuka-sing-for-you-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

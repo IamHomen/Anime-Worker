@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/adversities-1683598791.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "adversities-episode-1-30-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

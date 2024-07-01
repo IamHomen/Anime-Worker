@@ -14,5 +14,10 @@
   "synopsis": "Recap of episodes 14-25.",
   "animeImg": "https://gogocdn.net/cover/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

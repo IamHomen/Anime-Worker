@@ -10,5 +10,10 @@
   "synopsis": "Sinbad includes a digest of the first two movies along with new content which concludes the story.",
   "animeImg": "https://gogocdn.net/cover/sinbad-mahiru-no-yoru-to-fushigi-no-mon-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sinbad-mahiru-no-yoru-to-fushigi-no-mon-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

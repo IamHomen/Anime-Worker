@@ -10,5 +10,10 @@
   "synopsis": "This animated story features Manxmouse, the mouse that looks like a rabbit, and all because of his ears. Join in the adventures in this delightful story.",
   "animeImg": "https://gogocdn.net/cover/tondemo-nezumi-daikatsuyaku.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tondemo-nezumi-daikatsuyaku-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,18 @@
   "synopsis": "Heroman specials released in DVD/BD volumes 2, 5 and 8.",
   "animeImg": "https://gogocdn.net/cover/heroman-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "heroman-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "heroman-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "heroman-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "Odekake Kozame \u00d7 Gamera: Rebirth SP Collaboration",
   "animeImg": "https://gogocdn.net/cover/gamera-vs-kozamera.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gamera-vs-kozamera-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

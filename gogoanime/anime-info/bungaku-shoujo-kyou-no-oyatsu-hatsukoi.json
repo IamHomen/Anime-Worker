@@ -12,5 +12,10 @@
   "synopsis": "Short episode bundled with the limited edition release of \"Bungaku Shoujo\" Minarai no, Shoushin.",
   "animeImg": "https://gogocdn.net/cover/bungaku-shoujo-kyou-no-oyatsu-hatsukoi.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bungaku-shoujo-kyou-no-oyatsu-hatsukoi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

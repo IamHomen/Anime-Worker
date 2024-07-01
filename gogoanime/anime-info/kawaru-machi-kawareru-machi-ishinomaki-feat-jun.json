@@ -12,5 +12,10 @@
   "synopsis": "The Ishinomori Manga Museum released an animated short directed by Takuya Inaba based on Shotaro Ishinomori's semi-autobiographical and wordless manga Jun: Shotaro no Fantasy World. The short was inspired by Ishinomori's hometown of Ishinomaki wishing to pay tribute to the work while also paying tribute to the ongoing rebuilding and recovery of Ishinomaki from the Tohoku earthquake and tsunami of March 2011.",
   "animeImg": "https://gogocdn.net/cover/kawaru-machi-kawareru-machi-ishinomaki-feat-jun.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kawaru-machi-kawareru-machi-ishinomaki-feat-jun-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

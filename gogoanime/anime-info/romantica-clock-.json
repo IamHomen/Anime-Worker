@@ -10,5 +10,18 @@
   "synopsis": "Akane has an older twin brother who does not get along with her at all\u2026.?!",
   "animeImg": "https://gogocdn.net/images/Romantica Clock.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "romantica-clock--episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "romantica-clock--episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "romantica-clock--episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

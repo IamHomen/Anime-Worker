@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/soujuu-senshi-psychic-wars-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "soujuu-senshi-psychic-wars-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

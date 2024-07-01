@@ -12,5 +12,26 @@
   "synopsis": "Based on Mark Twain's well known masterpiece about Huckleberry Finn, the bright and merry orphan, this film is full of life, laughter, and will be loved by children around the world. When Huckleberry runs away from his orphanage, he teams up with an escaped slave. Together, they travel the Mississippi on a raft, encountering all kinds of people and adventures.",
   "animeImg": "https://gogocdn.net/cover/huckleberry-no-bouken-dub.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "huckleberry-no-bouken-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "huckleberry-no-bouken-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "huckleberry-no-bouken-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "huckleberry-no-bouken-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "huckleberry-no-bouken-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

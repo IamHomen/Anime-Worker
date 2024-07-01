@@ -12,5 +12,30 @@
   "synopsis": "Specials included with the BD/DVD releases.",
   "animeImg": "https://gogocdn.net/cover/fatekaleid-liner-prismaillya-3rei-specials.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-3rei-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-3rei-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-3rei-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-3rei-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-3rei-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fatekaleid-liner-prismaillya-3rei-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

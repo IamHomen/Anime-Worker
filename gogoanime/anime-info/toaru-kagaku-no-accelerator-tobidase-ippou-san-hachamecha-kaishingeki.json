@@ -11,5 +11,10 @@
   "synopsis": "Special included on the first Blu-ray/DVD volume of Toaru Kagaku no Accelerator.",
   "animeImg": "https://gogocdn.net/cover/toaru-kagaku-no-accelerator-tobidase-ippou-san-hachamecha-kaishingeki.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toaru-kagaku-no-accelerator-tobidase-ippou-san-hachamecha-kaishingeki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

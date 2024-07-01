@@ -11,5 +11,10 @@
   "synopsis": "Gochuumon wa Usagi desu ka?? movie.",
   "animeImg": "https://gogocdn.net/cover/gochuumon-wa-usagi-desu-ka-dear-my-sister.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gochuumon-wa-usagi-desu-ka-dear-my-sister-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

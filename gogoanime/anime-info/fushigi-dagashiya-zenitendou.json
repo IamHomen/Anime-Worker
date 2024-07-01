@@ -11,5 +11,14 @@
   "synopsis": "Zenitendo is a mysterious candy store that only lucky people can reach. All the candy recommended by Beniko, the owner of the store, is perfectly suited to the buyer's troubles. However, it depends on whether the candy will be used or eaten correctly that it can bring happiness or misfortune.",
   "animeImg": "https://gogocdn.net/cover/fushigi-dagashiya-zenitendou.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fushigi-dagashiya-zenitendou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fushigi-dagashiya-zenitendou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

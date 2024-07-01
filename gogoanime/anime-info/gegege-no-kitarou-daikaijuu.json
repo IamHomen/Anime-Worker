@@ -14,5 +14,10 @@
   "synopsis": "Movie based on the 1996 TV anime with an original plot.",
   "animeImg": "https://gogocdn.net/cover/gegege-no-kitarou-daikaijuu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gegege-no-kitarou-daikaijuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

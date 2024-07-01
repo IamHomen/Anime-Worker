@@ -14,5 +14,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/majutsushi-orphen-hagure-tabi-tennin-no-isan-edit-anime-information.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "majutsushi-orphen-hagure-tabi-tennin-no-isan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

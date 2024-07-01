@@ -14,5 +14,10 @@
   "synopsis": "OVA bundled with the 11th Shigatsu wa Kimi no Uso manga volume.\r\n\r\nThe OVA will focus on Kousei, Emi, and Takeshi when they were younger, showing their troubles during their competitions and the beginning of their rivalry.",
   "animeImg": "https://gogocdn.net/images/upload/Shigatsu wa Kimi no Uso OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shigatsu-wa-kimi-no-uso-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

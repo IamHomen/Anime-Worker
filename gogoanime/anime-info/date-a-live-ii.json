@@ -15,5 +15,46 @@
   "synopsis": "Second season of Date A Live.",
   "animeImg": "https://gogocdn.net/images/spring/Date a Live II.jpg",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "date-a-live-ii-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "date-a-live-ii-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

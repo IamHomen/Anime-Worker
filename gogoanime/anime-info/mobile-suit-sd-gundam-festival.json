@@ -14,5 +14,14 @@
   "synopsis": "The movie is divided into 3 different parts:\r\n1) The Tale of the SD Warring States: World Peace Chapter\r\n2) SD Gundam Sidestory: The Legend of the Holy Machine Soldiers\r\n3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-sd-gundam-festival.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-sd-gundam-festival-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mobile-suit-sd-gundam-festival-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

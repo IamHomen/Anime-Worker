@@ -13,5 +13,10 @@
   "synopsis": "A special episode released with the first DVD volume of Mini Vanguard.",
   "animeImg": "https://gogocdn.net/cover/mini-van-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mini-van-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

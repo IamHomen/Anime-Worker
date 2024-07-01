@@ -11,5 +11,10 @@
   "synopsis": "The rare anime biography of Princess Diana from her birth to her early teen years.",
   "animeImg": "https://gogocdn.net/cover/niji-no-kanata-e-shoujo-diana-monogatari.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "niji-no-kanata-e-shoujo-diana-monogatari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

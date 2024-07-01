@@ -10,5 +10,18 @@
   "synopsis": "The story is about a 9-year-old boy named Wataru Ikusabe who is magically transported to a magical realm of the gods called Sokaizan which he is supposed to save. He also befriends many of the Soukaizan natives, and forms some very strong friendship bonds.",
   "animeImg": "https://gogocdn.net/cover/mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mashin-eiyuuden-wataru-owarinaki-toki-no-monogatari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

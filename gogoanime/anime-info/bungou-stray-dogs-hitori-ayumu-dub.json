@@ -14,5 +14,10 @@
   "synopsis": "Bundled with the 13th volume of the Bungou Stray Dogs manga.",
   "animeImg": "https://gogocdn.net/cover/bungou-stray-dogs-hitori-ayumu-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bungou-stray-dogs-hitori-ayumu-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

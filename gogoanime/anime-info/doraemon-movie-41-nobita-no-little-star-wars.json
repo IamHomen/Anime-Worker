@@ -15,5 +15,10 @@
   "synopsis": "This work is a remake of Doraemon Movie 06: Nobita no Little Star Wars released in 1985.",
   "animeImg": "https://gogocdn.net/cover/doraemon-movie-41-nobita-no-little-star-wars.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "doraemon-movie-41-nobita-no-little-star-wars-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

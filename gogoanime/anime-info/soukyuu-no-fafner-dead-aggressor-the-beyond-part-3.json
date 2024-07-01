@@ -14,5 +14,18 @@
   "synopsis": "Episodes 7-9 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
   "animeImg": "https://gogocdn.net/cover/soukyuu-no-fafner-dead-aggressor-the-beyond-part-3.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "soukyuu-no-fafner-dead-aggressor-the-beyond-part-3-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "soukyuu-no-fafner-dead-aggressor-the-beyond-part-3-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "soukyuu-no-fafner-dead-aggressor-the-beyond-part-3-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,62 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/mahoutsukai-sally.png",
   "totalEpisodes": "48",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mahoutsukai-sally-episode-48",
+      "episodeNum": "Episode 48"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-47",
+      "episodeNum": "Episode 47"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-46",
+      "episodeNum": "Episode 46"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-45",
+      "episodeNum": "Episode 45"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-44",
+      "episodeNum": "Episode 44"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-43",
+      "episodeNum": "Episode 43"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-42",
+      "episodeNum": "Episode 42"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mahoutsukai-sally-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

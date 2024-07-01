@@ -11,5 +11,18 @@
   "synopsis": "Based on the horror novel by Fujio (A) Fujiko.",
   "animeImg": "https://gogocdn.net/cover/fujiko-fujio-a-no-mumako.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fujiko-fujio-a-no-mumako-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fujiko-fujio-a-no-mumako-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fujiko-fujio-a-no-mumako-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "Two years after the events in Galaxy Express 999, Earth has become a battleground. Tetsuro, older and fighting the Machine People, rejoins Maetel aboard the GE999.",
   "animeImg": "https://gogocdn.net/cover/adieu-galaxy-express-999-dub.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "adieu-galaxy-express-999-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

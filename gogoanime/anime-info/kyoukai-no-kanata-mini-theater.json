@@ -11,5 +11,34 @@
   "synopsis": "A short mini-theater specials included in BD/DVD volumes.",
   "animeImg": "https://gogocdn.net/cover/kyoukai-no-kanata-mini-theater.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kyoukai-no-kanata-mini-theater-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kyoukai-no-kanata-mini-theater-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kyoukai-no-kanata-mini-theater-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kyoukai-no-kanata-mini-theater-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kyoukai-no-kanata-mini-theater-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kyoukai-no-kanata-mini-theater-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kyoukai-no-kanata-mini-theater-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

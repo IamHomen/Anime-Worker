@@ -13,5 +13,10 @@
   "synopsis": "A recap special that will feature the battles of Alma and Knight. The past story of Knight will be described with new animations.",
   "animeImg": "https://gogocdn.net/images/4.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sacred-seven-shirogane-no-tsubasa-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

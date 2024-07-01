@@ -15,5 +15,18 @@
   "synopsis": "can stop the Aragami, demonic plant-like monsters threatening to destroy Japan. Along to help her is the TAC, and a possible love interest in a young man named Kusanagi.",
   "animeImg": "https://gogocdn.net/cover/blue-seed-beyond.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "blue-seed-beyond-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "blue-seed-beyond-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "blue-seed-beyond-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,18 @@
   "synopsis": "Taking place 700 years after the Dunbine TV Series, \"The Tale of Neo Byston Well\" revolves around Shion Zaba, the reincarnation of series protagonist Sho Zama. Together with Silkie Mau, Reml Jilfried (the reincarnation of Remile Luft), and the Aura Battler Silbine, Shion must stop a twisted Shot Weapon from launching a custom-made nuclear ICBM missile that's poised to wipe out the realm.",
   "animeImg": "https://gogocdn.net/cover/seisenshi-dunbine-new-story-of-aura-battler-dunbine.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "seisenshi-dunbine-new-story-of-aura-battler-dunbine-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "seisenshi-dunbine-new-story-of-aura-battler-dunbine-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "seisenshi-dunbine-new-story-of-aura-battler-dunbine-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

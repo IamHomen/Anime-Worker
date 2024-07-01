@@ -10,5 +10,10 @@
   "synopsis": "An anime based on the Romance of the Three Kingdoms novel.",
   "animeImg": "https://gogocdn.net/cover/sangokushi-dai-ni-bu-choukou-moyu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sangokushi-dai-ni-bu-choukou-moyu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

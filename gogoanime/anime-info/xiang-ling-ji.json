@@ -12,5 +12,70 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/xiang-ling-ji.png",
   "totalEpisodes": "15",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "xiang-ling-ji-episode-15",
+      "episodeNum": "Episode 15"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "xiang-ling-ji-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "xiang-ling-ji",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }

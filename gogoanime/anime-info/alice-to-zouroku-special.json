@@ -12,5 +12,10 @@
   "synopsis": "N/A",
   "animeImg": "https://gogocdn.net/cover/alice-to-zouroku-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "alice-to-zouroku-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

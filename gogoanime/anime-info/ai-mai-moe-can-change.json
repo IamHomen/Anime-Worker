@@ -11,5 +11,10 @@
   "synopsis": "Ai Mai! Moe Can Change!",
   "animeImg": "https://gogocdn.net/images/Ai Mai Moe Can Change.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ai-mai-moe-can-change-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

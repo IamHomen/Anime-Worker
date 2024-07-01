@@ -12,5 +12,10 @@
   "synopsis": "This OVA is a live-action/animation mixed collection of short school ghost stories.",
   "animeImg": "https://gogocdn.net/cover/gakkou-no-yuurei.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gakkou-no-yuurei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

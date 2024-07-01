@@ -13,5 +13,10 @@
   "synopsis": "The second of three movies adapting the third route of Fate/stay night.",
   "animeImg": "https://gogocdn.net/cover/fatestay-night-movie-heavens-feel-ii-lost-butterfly-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fatestay-night-movie-heavens-feel-ii-lost-butterfly-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

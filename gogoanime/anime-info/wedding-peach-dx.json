@@ -13,5 +13,22 @@
   "synopsis": "The 1996\u20131997 anime OVAs of Ai Tenshi Densetsu Wedding Peach, also known as Ai Tenshi Densetsu Wedding Peach DX (Deluxe). These four OVAs were uniquely designed and scripted, and the art style had been changed slightly from the original series as well. Each of these OVAs feature one of the Ai Tenshi along with a season: Wedding Peach\u2014Summer, Angel Salvia\u2014Autumn, Angel Daisy\u2014Winter, Angel Lily\u2014Spring. They are, however, in no way related to each other, except for some indication of previous OVAs by Hinagiku and Yuri. These are the adventures of the four Ai Tenshi, two years after their battle with Reine Devila.",
   "animeImg": "https://gogocdn.net/cover/wedding-peach-dx.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wedding-peach-dx-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wedding-peach-dx-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wedding-peach-dx-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wedding-peach-dx-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

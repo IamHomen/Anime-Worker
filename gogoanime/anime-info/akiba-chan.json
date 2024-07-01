@@ -12,5 +12,46 @@
   "synopsis": "Akiba-chan focuses on the daily life of Akiba-chan and four fellow TV and game fans in the Maison de Akiba apartments. Buildup Entertainment (Gundam: Mission To The Rise, Macross Plus) produced the computer animation with director Junya Kabe (Specter, D) and character designer Poyoyon Rock (Nurse Witch Komugi, Starship Girl Yamamoto Yohko).",
   "animeImg": "https://gogocdn.net/cover/akiba-chan.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "akiba-chan-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "akiba-chan-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "akiba-chan-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "akiba-chan-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "akiba-chan-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "akiba-chan-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "akiba-chan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "akiba-chan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "akiba-chan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "akiba-chan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

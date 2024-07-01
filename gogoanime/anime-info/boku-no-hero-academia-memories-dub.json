@@ -13,5 +13,22 @@
   "synopsis": "Recap of Boku no Hero Academia leading up to the seventh season.",
   "animeImg": "https://gogocdn.net/cover/boku-no-hero-academia-memories-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "boku-no-hero-academia-memories-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "boku-no-hero-academia-memories-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "boku-no-hero-academia-memories-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "boku-no-hero-academia-memories-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

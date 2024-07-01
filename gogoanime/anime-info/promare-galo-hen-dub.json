@@ -13,5 +13,10 @@
   "synopsis": "A prequel set one day before the events of the Promare film.",
   "animeImg": "https://gogocdn.net/cover/promare-galo-hen-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "promare-galo-hen-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

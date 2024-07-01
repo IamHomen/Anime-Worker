@@ -10,5 +10,30 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

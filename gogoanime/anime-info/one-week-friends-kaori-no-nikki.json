@@ -11,5 +11,54 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/one-week-friends-kaori-no-nikki.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "one-week-friends-kaori-no-nikki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

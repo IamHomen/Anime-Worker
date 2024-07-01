@@ -15,5 +15,58 @@
   "synopsis": "Rumic World TV (2003) consists of thirteen independent series based on short stories from 1987-2000 by Takahashi Rumiko. The episode order is not sorted based on the year the story was written. For example, the first episode \"Tragedy of P\"'s story was written in 1991 while the last episode \"Senmuno inu\"'s story was written in 1994.",
   "animeImg": "https://gogocdn.net/cover/rumiko-takahashi-anthology.png",
   "totalEpisodes": "13",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "rumiko-takahashi-anthology-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

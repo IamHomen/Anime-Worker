@@ -12,5 +12,14 @@
   "synopsis": "Extra science lessons included with the Gunbuster Blu-ray Box Complete Edition. These explain how the space ropeway works, and time dilation from near-lightspeed travel.",
   "animeImg": "https://gogocdn.net/cover/kaette-kita-top-wo-nerae-kagaku-kouza.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaette-kita-top-wo-nerae-kagaku-kouza-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kaette-kita-top-wo-nerae-kagaku-kouza-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

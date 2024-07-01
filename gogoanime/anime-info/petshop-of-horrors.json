@@ -12,5 +12,22 @@
   "synopsis": "Count D, a quite interesting pet shop owner from an area called Chinatown, sells rare and hard to come by pets to people longing for something special, but with each sale comes a contract. If the rules of the contract are followed, everything goes fine, but if someone should break the rules of the contract, the pet shop cannot be held responsible for anything unfortunate that might happen. Leon Orcot, a homicide detective, has linked many odd and unexplainable deaths together; they all were customers of Count D\u2019s pet shop, and he intends to find out why.",
   "animeImg": "https://gogocdn.net/images/anime/P/Pet-Shop-of-Horrors.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "petshop-of-horrors-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "petshop-of-horrors-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "petshop-of-horrors-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "petshop-of-horrors-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

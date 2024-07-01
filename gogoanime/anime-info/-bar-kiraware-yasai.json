@@ -10,5 +10,34 @@
   "synopsis": "The anime adapts artist Daisuke Kimura's four-panel manga of the same name, the story centers on vegetables that children hate, everyone hesitates to eat, and are smelly. The series follows these vegetables as they visit a bar to share drinks together while they talk about their worries.",
   "animeImg": "https://gogocdn.net/images/upload/BAR Kiraware Yasai.jpg",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bar-kiraware-yasai-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "-bar-kiraware-yasai-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "-bar-kiraware-yasai-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "-bar-kiraware-yasai-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "-bar-kiraware-yasai-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "-bar-kiraware-yasai-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "-bar-kiraware-yasai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

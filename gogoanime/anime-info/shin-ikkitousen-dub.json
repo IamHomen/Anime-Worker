@@ -14,5 +14,18 @@
   "synopsis": "New Ikkitousen.",
   "animeImg": "https://gogocdn.net/cover/shin-ikkitousen-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shin-ikkitousen-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shin-ikkitousen-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shin-ikkitousen-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

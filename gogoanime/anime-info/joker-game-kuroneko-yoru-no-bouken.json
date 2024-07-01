@@ -13,5 +13,14 @@
   "synopsis": "Specials included with the Blu-ray box set releases of Joker Game.",
   "animeImg": "https://gogocdn.net/cover/joker-game-kuroneko-yoru-no-bouken.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "joker-game-kuroneko-yoru-no-bouken-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "joker-game-kuroneko-yoru-no-bouken-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

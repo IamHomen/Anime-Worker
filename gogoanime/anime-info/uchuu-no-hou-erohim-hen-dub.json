@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/uchuu-no-hou-erohim-hen-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-no-hou-erohim-hen-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,14 @@
   "synopsis": "OVA of Miss Monochrome. It's about soccer.",
   "animeImg": "https://gogocdn.net/images/anime/Miss-Monochrome-OVA.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "miss-monochrome-ova-supporter-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "miss-monochrome-ova-supporter-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

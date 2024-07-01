@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/mai-otome-special-otome-no-inori.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mai-otome-special-otome-no-inori-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

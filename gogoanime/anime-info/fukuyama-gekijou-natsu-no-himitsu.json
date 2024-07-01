@@ -12,5 +12,10 @@
   "synopsis": "Several short animated mini-stories based on the short stories and four-panel manga of Keiko Fukuyama, including My Father the Mouse, The Rabbit Brothers, Summer Secret, The Mysterious Fairy, How Very Strange, and Kuro.",
   "animeImg": "https://gogocdn.net/cover/fukuyama-gekijou-natsu-no-himitsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fukuyama-gekijou-natsu-no-himitsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

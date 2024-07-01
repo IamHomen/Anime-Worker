@@ -13,5 +13,10 @@
   "synopsis": "OVA bundled with 12th manga volume.\r\n\r\nThe OVA includes a popular chapter that was not adapted in the TV series.",
   "animeImg": "https://gogocdn.net/cover/ookami-shoujo-to-kuro-ouji-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ookami-shoujo-to-kuro-ouji-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

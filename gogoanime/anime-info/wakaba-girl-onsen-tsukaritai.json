@@ -11,5 +11,10 @@
   "synopsis": "Extra episode bundled with the second Blu-ray and DVD volume of Wakaba*Girl.",
   "animeImg": "https://gogocdn.net/images/upload/Wakaba Girl Specials.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wakaba-girl-onsen-tsukaritai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

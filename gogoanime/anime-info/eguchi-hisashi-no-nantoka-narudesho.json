@@ -11,5 +11,10 @@
   "synopsis": "Part anime, part live action, and part puppet show.",
   "animeImg": "https://gogocdn.net/cover/eguchi-hisashi-no-nantoka-narudesho.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "eguchi-hisashi-no-nantoka-narudesho-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

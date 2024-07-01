@@ -12,5 +12,10 @@
   "synopsis": "Tonari no Seki-kun OVA",
   "animeImg": "https://gogocdn.net/images/Tonari-no-Seki-kun-OVA.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tonari-no-seki-kun-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

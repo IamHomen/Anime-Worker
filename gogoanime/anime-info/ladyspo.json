@@ -12,5 +12,54 @@
   "synopsis": "A science-fiction comedy where various pro sports bounty hunters fight each other in sporting events. The story centers on Arigetti, Korupi, and Sabina, three women in a team who participate in various sports.",
   "animeImg": "https://gogocdn.net/cover/ladyspo.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ladyspo-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "ladyspo-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "ladyspo-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "ladyspo-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "ladyspo-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ladyspo-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ladyspo-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ladyspo-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ladyspo-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ladyspo-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ladyspo-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ladyspo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

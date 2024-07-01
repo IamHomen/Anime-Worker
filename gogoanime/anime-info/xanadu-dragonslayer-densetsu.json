@@ -12,5 +12,10 @@
   "synopsis": "Based on the role-playing game \"Legend of Xanadu\". The evil magician Reichswar has killed the King to gain possession of a magic crystal; now he means to use its power to rule the whole of Xanadu. Then the widowed Queen Rieru is kidnapped. One brave young warrior, wielding the magic blade Dragonslayer, goes to her rescue.",
   "animeImg": "https://gogocdn.net/cover/xanadu-dragonslayer-densetsu.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "xanadu-dragonslayer-densetsu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

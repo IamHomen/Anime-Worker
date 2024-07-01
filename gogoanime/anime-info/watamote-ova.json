@@ -11,5 +11,10 @@
   "synopsis": "The 13th episode of the TV anime bundled with the special limited first edition of the 7th manga volume.",
   "animeImg": "https://gogocdn.net/images/watamote.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "watamote-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

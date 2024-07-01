@@ -13,5 +13,10 @@
   "synopsis": "The first of two Tiger and Bunny movies, based on the first two episodes of the TV series with additional new scenes.",
   "animeImg": "https://gogocdn.net/cover/tiger-bunny-movie-1-the-beginning-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tiger-bunny-movie-1-the-beginning-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

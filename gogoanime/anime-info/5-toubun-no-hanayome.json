@@ -11,5 +11,14 @@
   "synopsis": "Featuring stories from the manga not adapted in the main anime.",
   "animeImg": "https://gogocdn.net/cover/5-toubun-no-hanayome.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "5-toubun-no-hanayome-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "5-toubun-no-hanayome-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

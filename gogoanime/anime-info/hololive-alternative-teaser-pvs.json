@@ -10,5 +10,14 @@
   "synopsis": "Welcome to an alternative world.\r\nAnother possibility for hololive: hololive \u25b3lternative",
   "animeImg": "https://gogocdn.net/cover/hololive-alternative-teaser-pvs.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hololive-alternative-teaser-pvs-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hololive-alternative-teaser-pvs-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

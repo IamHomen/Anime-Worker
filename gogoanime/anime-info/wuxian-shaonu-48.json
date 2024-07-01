@@ -11,5 +11,26 @@
   "synopsis": "The story takes place in 2047. We follow the story of several young girls, each coming from different dimensions. All of them want to join the new project group 48.",
   "animeImg": "https://gogocdn.net/cover/wuxian-shaonu-48.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wuxian-shaonu-48-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "wuxian-shaonu-48-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wuxian-shaonu-48-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wuxian-shaonu-48-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wuxian-shaonu-48-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

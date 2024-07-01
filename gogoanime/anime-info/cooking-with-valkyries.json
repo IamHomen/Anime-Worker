@@ -10,5 +10,46 @@
   "synopsis": "There is a cherished memory behind every dish on the dinner table. Time to turn the clock back and relive these beautiful moments, Captains!",
   "animeImg": "https://gogocdn.net/cover/cooking-with-valkyries.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cooking-with-valkyries-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "cooking-with-valkyries-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

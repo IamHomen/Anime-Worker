@@ -11,5 +11,14 @@
   "synopsis": "An OVA based on the work of Kawaguchi Kaiji consisting of nine independent stories, each animated by a different director. With Beatles music involved, somewhere.",
   "animeImg": "https://gogocdn.net/cover/ai-monogatari-9-love-stories.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ai-monogatari-9-love-stories-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ai-monogatari-9-love-stories-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

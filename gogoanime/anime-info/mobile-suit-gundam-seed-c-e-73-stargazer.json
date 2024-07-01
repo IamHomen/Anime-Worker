@@ -13,5 +13,10 @@
   "synopsis": "https://myanimelist.net/anime/1215/Mobile_Suit_Gundam_SEED_CE73__Stargazer?q=Mobile%20Suit%20Gundam%20SEED%20C.E.%2073%20Stargazer&cat=anime#:~:text=In%20C.E,paths%20to%20collide.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-gundam-seed-c-e-73-stargazer.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-gundam-seed-c-e-73-stargazer-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

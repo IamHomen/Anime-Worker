@@ -13,5 +13,10 @@
   "synopsis": "Star\u2606Twinkle Precure Movie.",
   "animeImg": "https://gogocdn.net/cover/startwinkle-precure-hoshi-no-uta-ni-omoi-wo-komete.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "startwinkle-precure-hoshi-no-uta-ni-omoi-wo-komete-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

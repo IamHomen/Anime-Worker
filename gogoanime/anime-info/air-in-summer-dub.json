@@ -14,5 +14,14 @@
   "synopsis": "An extension of the summer-arc in the Air TV-series, showing more of what happened during Kanna's, Ryuya's and Uraha's journey to find Kanna's mother.",
   "animeImg": "https://gogocdn.net/cover/air-in-summer-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "air-in-summer-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "air-in-summer-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

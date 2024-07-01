@@ -14,5 +14,10 @@
   "synopsis": "The film not only recaped the entire 25-episode\u00a0television anime series\u00a0with new cuts, but also the unaired \"True End Episode\" that was included in the 10th Blu-ray Disc/DVD volume.",
   "animeImg": "https://gogocdn.net/images/anime/P/Persona-4-Movie.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "persona-4-the-animation-the-factor-of-hope-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

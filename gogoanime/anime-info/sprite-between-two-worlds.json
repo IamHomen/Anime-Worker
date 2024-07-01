@@ -13,5 +13,14 @@
   "synopsis": "Lately, shy Manami has been flirting outrageously and sparking vicious cat-fights! Afterwards, she remembers nothing. Can it be that another personality seethes beneath her own? A wild woman who\u2019ll do anything to find trouble?",
   "animeImg": "https://gogocdn.net/cover/sprite-between-two-worlds.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sprite-between-two-worlds-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sprite-between-two-worlds-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

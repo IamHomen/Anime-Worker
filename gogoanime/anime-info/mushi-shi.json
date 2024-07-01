@@ -16,5 +16,10 @@
   "synopsis": "New one-hour special which will adapt an upcoming two-chapter manga.",
   "animeImg": "https://gogocdn.net/images/mushishi.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mushi-shi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

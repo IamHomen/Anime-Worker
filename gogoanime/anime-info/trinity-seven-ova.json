@@ -18,5 +18,10 @@
   "synopsis": "Bundled with limited edition of the 11th compiled volume of the manga. The premise of the OVA will be written by Kenji Saitou and will deal with a \"hilarious festival.\" The 11th volume is scheduled to be shipped on March 25th.",
   "animeImg": "https://gogocdn.net/images/upload/trinity-seven.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "trinity-seven-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

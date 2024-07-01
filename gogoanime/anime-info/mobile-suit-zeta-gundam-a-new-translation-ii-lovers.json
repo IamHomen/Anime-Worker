@@ -15,5 +15,10 @@
   "synopsis": "Second out of three compilation movies for the Zeta Gundam series.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-zeta-gundam-a-new-translation-ii-lovers.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-zeta-gundam-a-new-translation-ii-lovers-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

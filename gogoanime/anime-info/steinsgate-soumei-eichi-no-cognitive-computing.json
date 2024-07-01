@@ -10,5 +10,22 @@
   "synopsis": "Short Anime of Steins;Gate and IBM Collaboration.\nEp 1: Kitchen-henEp.2: Navigation-henEp.3: Fashion-henEp.4: Kaigi-hen",
   "animeImg": "https://gogocdn.net/images/fall/68889.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "steinsgate-soumei-eichi-no-cognitive-computing-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "steinsgate-soumei-eichi-no-cognitive-computing-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "steinsgate-soumei-eichi-no-cognitive-computing-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "steinsgate-soumei-eichi-no-cognitive-computing-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

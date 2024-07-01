@@ -14,5 +14,18 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/jian-wang-3-xia-gan-yi-dan-shen-jianxin-2nd-season.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jian-wang-3-xia-gan-yi-dan-shen-jianxin-2nd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "jian-wang-3-xia-gan-yi-dan-shen-jianxin-2nd-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jian-wang-3-xia-gan-yi-dan-shen-jianxin-2nd-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

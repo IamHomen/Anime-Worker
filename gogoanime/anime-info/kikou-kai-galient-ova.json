@@ -13,5 +13,18 @@
   "synopsis": "The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.",
   "animeImg": "https://gogocdn.net/cover/kikou-kai-galient-ova.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kikou-kai-galient-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kikou-kai-galient-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kikou-kai-galient-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

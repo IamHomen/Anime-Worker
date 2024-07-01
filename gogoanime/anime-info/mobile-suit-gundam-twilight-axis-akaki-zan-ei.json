@@ -14,5 +14,10 @@
   "synopsis": "Compilation film of Mobile Suit Gundam: Twilight Axis.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-gundam-twilight-axis-akaki-zan-ei.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-gundam-twilight-axis-akaki-zan-ei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

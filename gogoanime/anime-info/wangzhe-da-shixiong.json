@@ -14,5 +14,18 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/wangzhe-da-shixiong.png",
   "totalEpisodes": "16",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wangzhe-da-shixiong-episode-16",
+      "episodeNum": "Episode 16"
+    },
+    {
+      "episodeId": "wangzhe-da-shixiong-episode-15",
+      "episodeNum": "Episode 15"
+    },
+    {
+      "episodeId": "wangzhe-da-shixiong-episode-1-14-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

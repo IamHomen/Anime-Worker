@@ -14,5 +14,10 @@
   "synopsis": "Compilation film of the first half of the TV series.",
   "animeImg": "https://gogocdn.net/cover/koutetsujou-no-kabaneri-movie-1-tsudou-hikari.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "koutetsujou-no-kabaneri-movie-1-tsudou-hikari-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

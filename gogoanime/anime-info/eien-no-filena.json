@@ -12,5 +12,30 @@
   "synopsis": "The story is centered around Filena, a princess who was raised as a boy after her kingdom was conquered.",
   "animeImg": "https://gogocdn.net/cover/eien-no-filena.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "eien-no-filena-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "eien-no-filena-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "eien-no-filena-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "eien-no-filena-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "eien-no-filena-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "eien-no-filena-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

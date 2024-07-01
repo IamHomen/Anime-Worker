@@ -10,5 +10,50 @@
   "synopsis": "The hero of Wansa-kun is Wansa, a puppy who is sold for a pittance, then escapes, and spends much of the rest of the series looking for his mother.",
   "animeImg": "https://gogocdn.net/cover/wansa-kun.png",
   "totalEpisodes": "11",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "wansa-kun-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "wansa-kun-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "wansa-kun-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "wansa-kun-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "wansa-kun-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "wansa-kun-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "wansa-kun-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "wansa-kun-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wansa-kun-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wansa-kun-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wansa-kun-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

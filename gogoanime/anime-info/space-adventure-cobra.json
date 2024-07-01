@@ -14,5 +14,10 @@
   "synopsis": "Cobra, a notorious space pirate, is enlisted by bounty hunter Jane to rescue her sister from the strange being known as Crystal Boy, but then finds himself drawn into a complex struggle over the fate of a mysterious wandering planet.",
   "animeImg": "https://gogocdn.net/cover/space-adventure-cobra.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "space-adventure-cobra-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

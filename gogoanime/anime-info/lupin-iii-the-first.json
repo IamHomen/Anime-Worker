@@ -14,5 +14,10 @@
   "synopsis": "The film's story, which centers on Lupin teaming up with a woman named Leticia to steal the Bresson Diary, a treasure that even the first generation Ars\u00e8ne Lupin could not steal.",
   "animeImg": "https://gogocdn.net/cover/lupin-iii-the-first.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lupin-iii-the-first-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

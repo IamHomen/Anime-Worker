@@ -11,5 +11,10 @@
   "synopsis": "Nezumi Monogatari is the story of two mice called George and Gerald who embark on a journey together with three friends to find the \"Dragon of Light\".",
   "animeImg": "https://gogocdn.net/images/2035.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mouse-story-the-adventures-of-george-and-gerald-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

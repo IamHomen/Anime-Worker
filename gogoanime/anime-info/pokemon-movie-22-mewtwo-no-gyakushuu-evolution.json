@@ -14,5 +14,10 @@
   "synopsis": "Pokemon's 22nd movie.",
   "animeImg": "https://gogocdn.net/cover/pokemon-movie-22-mewtwo-no-gyakushuu-evolution.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-movie-22-mewtwo-no-gyakushuu-evolution-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

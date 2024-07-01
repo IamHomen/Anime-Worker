@@ -11,5 +11,10 @@
   "synopsis": "A short anime as part of \"Mobile Suit Gundam 40th Anniversary Project\" that promotes the Gundam G40 model kit, a Gundam x Ken Okuyama Design x LDH Japan collaboration. It is a reinterpretation of some famous scenes from the first Gundam television anime.",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-gundam-40th-anniversary-g40-project-special-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-gundam-40th-anniversary-g40-project-special-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

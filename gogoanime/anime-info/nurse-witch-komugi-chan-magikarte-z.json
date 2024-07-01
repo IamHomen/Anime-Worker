@@ -12,5 +12,14 @@
   "synopsis": "Sequel to the first series.",
   "animeImg": "https://gogocdn.net/cover/nurse-witch-komugi-chan-magikarte-z.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nurse-witch-komugi-chan-magikarte-z-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nurse-witch-komugi-chan-magikarte-z-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

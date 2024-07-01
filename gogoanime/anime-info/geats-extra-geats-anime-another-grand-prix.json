@@ -10,5 +10,34 @@
   "synopsis": "Kamen Rider Geats shorts released on the Toei Tokusatsu Fanclub (TTFC) app....",
   "animeImg": "https://gogocdn.net/cover/geats-extra-geats-anime-another-grand-prix.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "geats-extra-geats-anime-another-grand-prix-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "geats-extra-geats-anime-another-grand-prix-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "geats-extra-geats-anime-another-grand-prix-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "geats-extra-geats-anime-another-grand-prix-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "geats-extra-geats-anime-another-grand-prix-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "geats-extra-geats-anime-another-grand-prix-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "geats-extra-geats-anime-another-grand-prix-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

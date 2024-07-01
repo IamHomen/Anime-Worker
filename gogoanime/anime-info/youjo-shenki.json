@@ -12,5 +12,54 @@
   "synopsis": "A chibi parody of Youjo Senki.",
   "animeImg": "https://gogocdn.net/cover/youjo-shenki.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "youjo-shenki-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "youjo-shenki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

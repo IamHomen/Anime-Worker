@@ -14,5 +14,10 @@
   "synopsis": "A Romance of the Three Kingdoms retelling using SD Gundams.",
   "animeImg": "https://gogocdn.net/cover/sd-gundam-sangokuden-brave-battle-warriors-movie-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sd-gundam-sangokuden-brave-battle-warriors-movie-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

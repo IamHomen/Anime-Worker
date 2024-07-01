@@ -11,5 +11,46 @@
   "synopsis": "An accident in the bakery's oven caused a piece of bread to stay in the oven for way too long. Thus Kogepan was born - a piece of burnt bread, having no chance to be sold.",
   "animeImg": "https://gogocdn.net/cover/kogepan.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kogepan-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "kogepan-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "kogepan-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "kogepan-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kogepan-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kogepan-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kogepan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kogepan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kogepan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kogepan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

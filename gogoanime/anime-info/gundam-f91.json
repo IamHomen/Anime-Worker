@@ -15,5 +15,10 @@
   "synopsis": "To build Cosmo Babylonia, a space nation ruled by aristocrats, Crossbone Vanguard, the private army of Rohah's, attacks Space Colony Frontier Side. When his peaceful homeland is destroyed, high school student Seabrook Arno pilots the latest model of Gundam, the Gundam F-91, and joins the resistance.",
   "animeImg": "https://gogocdn.net/images/anime/G/Gundam-F91.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-f91-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

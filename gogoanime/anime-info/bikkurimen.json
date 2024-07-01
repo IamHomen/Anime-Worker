@@ -11,5 +11,54 @@
   "synopsis": "A completely original story featuring characters from LOTTE's Bikkuriman chocolate wafer snacks.",
   "animeImg": "https://gogocdn.net/cover/bikkurimen-1696006619.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bikkurimen-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "bikkurimen-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "bikkurimen-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "bikkurimen-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "bikkurimen-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "bikkurimen-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "bikkurimen-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "bikkurimen-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "bikkurimen-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "bikkurimen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bikkurimen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bikkurimen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

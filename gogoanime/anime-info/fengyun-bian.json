@@ -10,5 +10,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/fengyun-bian.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fengyun-bian-episode-1-2-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

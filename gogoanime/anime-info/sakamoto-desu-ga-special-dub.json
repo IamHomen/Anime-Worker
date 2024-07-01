@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode 13 included with the fifth Blu-ray and DVD volume.",
   "animeImg": "https://gogocdn.net/cover/sakamoto-desu-ga-special-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sakamoto-desu-ga-special-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

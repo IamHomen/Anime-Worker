@@ -15,5 +15,10 @@
   "synopsis": "Follow the adventures and exploits of S.A.M, a high-end, royal-class friendship droid who's joined by a quirky, discarded maintenance robot and a brash, deadly fugitive. Together, the unlikely trio embarks on an unforgettable journey in a fantastic and dangerous world in search of S.A.M's best friend, the heir to a powerful kingdom under siege.",
   "animeImg": "https://gogocdn.net/cover/cannon-busters-the-animated-pilot.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cannon-busters-the-animated-pilot-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

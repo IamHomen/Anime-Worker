@@ -12,5 +12,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/i-really-dont-want-to-become-a-saint.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "i-really-dont-want-to-become-a-saint-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "i-really-dont-want-to-become-a-saint-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

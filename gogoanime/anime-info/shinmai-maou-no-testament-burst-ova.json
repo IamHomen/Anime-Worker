@@ -14,5 +14,10 @@
   "synopsis": "An OVA that will be bundled with the seventh volume of the Shinmai Maou no Testament manga, to be released January 2016.",
   "animeImg": "https://gogocdn.net/images/upload/181938.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shinmai-maou-no-testament-burst-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

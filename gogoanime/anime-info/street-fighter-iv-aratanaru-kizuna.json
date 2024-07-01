@@ -12,5 +12,10 @@
   "synopsis": "Sets up the story of Street Figter IV by explaining events post Street Fighter II.",
   "animeImg": "https://gogocdn.net/cover/street-fighter-iv-aratanaru-kizuna.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "street-fighter-iv-aratanaru-kizuna-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

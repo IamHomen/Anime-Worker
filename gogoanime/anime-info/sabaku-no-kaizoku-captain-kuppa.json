@@ -11,5 +11,18 @@
   "synopsis": "Sometime in the future, the world was completely dried up and became all desert. They had little rivers and lakes left, which villians and dangerous animals lived. Water has become the most valueable thing on the world. Whoever can control water will rule over the world.",
   "animeImg": "https://gogocdn.net/cover/sabaku-no-kaizoku-captain-kuppa.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sabaku-no-kaizoku-captain-kuppa-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sabaku-no-kaizoku-captain-kuppa-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sabaku-no-kaizoku-captain-kuppa-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

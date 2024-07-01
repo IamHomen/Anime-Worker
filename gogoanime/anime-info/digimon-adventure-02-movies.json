@@ -13,5 +13,10 @@
   "synopsis": "Years after a young boy in America loses one of his Digimon friends, an evil viral Digimon successfully kidnaps the original Chosen Children. Their younger friends must race against time with their Digimon partners to discover the source of this new menace, and perhaps solve a years-old mystery.",
   "animeImg": "https://gogocdn.net/cover/digimon-adventure-02-movies.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "digimon-adventure-02-movies-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

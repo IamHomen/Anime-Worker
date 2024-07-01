@@ -12,5 +12,26 @@
   "synopsis": "DVD/BD specials of Hataraku Saibou included on disc volume 3-7. All episodes feature super deformed chibi versions of the characters. There is also some 4th wall breaking with them speaking to you the viewer (such as the quiz game show in ep 1 or the parody of the long running Japanese talk show Tetsuko's Room in ep 2).",
   "animeImg": "https://gogocdn.net/cover/hataraku-saibou-specials.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hataraku-saibou-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hataraku-saibou-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hataraku-saibou-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hataraku-saibou-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hataraku-saibou-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

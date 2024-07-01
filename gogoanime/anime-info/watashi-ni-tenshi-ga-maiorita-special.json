@@ -11,5 +11,10 @@
   "synopsis": "Special bonus episode included on the third Blu-ray volume of Watashi ni Tenshi ga Maiorita!.",
   "animeImg": "https://gogocdn.net/cover/watashi-ni-tenshi-ga-maiorita-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "watashi-ni-tenshi-ga-maiorita-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

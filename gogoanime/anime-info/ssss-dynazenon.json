@@ -12,5 +12,54 @@
   "synopsis": "SSSS.DYNAZENON is an upcoming 2020 animated series that is scheduled to be the continuation from SSSS.Gridman",
   "animeImg": "https://gogocdn.net/cover/ssss-dynazenon.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ssss-dynazenon-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ssss-dynazenon-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,30 @@
   "synopsis": "Six stories will be developed as an anthology with a new interpretation of Grimm's fairy tales, incorporating dark elements.",
   "animeImg": "https://gogocdn.net/cover/grimm-kumikyoku.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "grimm-kumikyoku-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "grimm-kumikyoku-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "grimm-kumikyoku-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "grimm-kumikyoku-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "grimm-kumikyoku-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "grimm-kumikyoku-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

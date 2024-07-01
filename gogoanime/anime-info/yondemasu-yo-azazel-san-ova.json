@@ -12,5 +12,22 @@
   "synopsis": "Akutabe, a detective, summons devils to solve the troubles of his clients. One day, a low class devil Azazel Atsushi is summoned by Akutabe and is used harshly by him and his assistant Rinko Sakuma.",
   "animeImg": "https://gogocdn.net/images/anime/Y/yondemasu-yo-azazel-san.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yondemasu-yo-azazel-san-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "yondemasu-yo-azazel-san-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "yondemasu-yo-azazel-san-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yondemasu-yo-azazel-san-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

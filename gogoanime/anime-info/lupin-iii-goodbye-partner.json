@@ -14,5 +14,10 @@
   "synopsis": "The new TV special will be about the battles against Jigen, who aims for Lupin who searches for the treasure. Goemon, who is angry because he cannot forgive betrayal of Jigen, will fight along with Lupin against the strongest enemy in the history.",
   "animeImg": "https://gogocdn.net/cover/lupin-iii-goodbye-partner.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "lupin-iii-goodbye-partner-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

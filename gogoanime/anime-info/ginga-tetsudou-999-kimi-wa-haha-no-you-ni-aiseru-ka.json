@@ -10,5 +10,10 @@
   "synopsis": "A remake of episodes 51-52 of the TV version.",
   "animeImg": "https://gogocdn.net/cover/ginga-tetsudou-999-kimi-wa-haha-no-you-ni-aiseru-ka.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ginga-tetsudou-999-kimi-wa-haha-no-you-ni-aiseru-ka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

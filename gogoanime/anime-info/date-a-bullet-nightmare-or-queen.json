@@ -10,5 +10,10 @@
   "synopsis": "Second part of the Date A Bullet films.",
   "animeImg": "https://gogocdn.net/cover/date-a-bullet-nightmare-or-queen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "date-a-bullet-nightmare-or-queen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

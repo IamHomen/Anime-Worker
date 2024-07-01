@@ -15,5 +15,34 @@
   "synopsis": "The origins of Kitarou.",
   "animeImg": "https://gogocdn.net/cover/gegege-no-kitarou-jigoku-hen.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gegege-no-kitarou-jigoku-hen-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "gegege-no-kitarou-jigoku-hen-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gegege-no-kitarou-jigoku-hen-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gegege-no-kitarou-jigoku-hen-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gegege-no-kitarou-jigoku-hen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gegege-no-kitarou-jigoku-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gegege-no-kitarou-jigoku-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

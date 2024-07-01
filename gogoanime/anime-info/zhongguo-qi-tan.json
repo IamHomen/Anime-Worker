@@ -10,5 +10,38 @@
   "synopsis": "A collection of eight short stories about Chinese folklore \"monsters.\"",
   "animeImg": "https://gogocdn.net/cover/zhongguo-qi-tan.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "zhongguo-qi-tan-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "zhongguo-qi-tan-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "zhongguo-qi-tan-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "zhongguo-qi-tan-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "zhongguo-qi-tan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "zhongguo-qi-tan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "zhongguo-qi-tan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "zhongguo-qi-tan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

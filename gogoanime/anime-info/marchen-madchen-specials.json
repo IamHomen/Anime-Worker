@@ -12,5 +12,14 @@
   "synopsis": "Episodes 11 and 12 of M\u00e4rchen M\u00e4dchen, included on the sixth Blu-ray/DVD volume.",
   "animeImg": "https://gogocdn.net/cover/marchen-madchen-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "marchen-madchen-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "marchen-madchen-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

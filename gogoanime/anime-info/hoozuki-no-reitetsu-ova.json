@@ -12,5 +12,22 @@
   "synopsis": "Bundled with the limited editions of 17th, 18th, and 19th volumes of the Hoozuki no Reitetsu manga.",
   "animeImg": "https://gogocdn.net/images/upload/68677.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hoozuki-no-reitetsu-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hoozuki-no-reitetsu-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hoozuki-no-reitetsu-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hoozuki-no-reitetsu-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

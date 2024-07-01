@@ -10,5 +10,26 @@
   "synopsis": "Includes 3 special Mini Dragon episodes released within Kobayashi-san Chi no Maid Dragon S's broadcast period and 5 BD/DVD extras.",
   "animeImg": "https://gogocdn.net/cover/mini-dragon-specials.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mini-dragon-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mini-dragon-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mini-dragon-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mini-dragon-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mini-dragon-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

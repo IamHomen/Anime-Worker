@@ -10,5 +10,62 @@
   "synopsis": "Commemoration mini-anime series released on Kyoani YouTube Channel ahead of Kobayashi-san Chi no Maid Dragon S.",
   "animeImg": "https://gogocdn.net/cover/mini-dragon.png",
   "totalEpisodes": "14",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mini-dragon-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "mini-dragon-episode-13",
+      "episodeNum": "Episode 13"
+    },
+    {
+      "episodeId": "mini-dragon-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "mini-dragon-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "mini-dragon-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "mini-dragon-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mini-dragon-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mini-dragon-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mini-dragon-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mini-dragon-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mini-dragon-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mini-dragon-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mini-dragon-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mini-dragon-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

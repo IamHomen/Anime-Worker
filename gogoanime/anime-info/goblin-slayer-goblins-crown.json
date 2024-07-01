@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/goblin-slayer-goblins-crown.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "goblin-slayer-goblins-crown-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -16,5 +16,10 @@
   "synopsis": "Previously unaired episodes 11 and 12 of Mushishi Zoku Shou will be broadcasted as an one hour special on August 20, 2014 and bundled with anime's third Blu-ray/DVD volume on November 26, 2014. Adapts \"Odoro no Michi\" (Path of Thorns) manga chapters.",
   "animeImg": "https://gogocdn.net/images/Mushishi Zoku Shou Special.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mushishi-zoku-shou-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

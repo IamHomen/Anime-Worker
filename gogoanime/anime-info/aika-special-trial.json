@@ -10,5 +10,10 @@
   "synopsis": "A bonus episode about Aika and company moving to a new office.",
   "animeImg": "https://gogocdn.net/cover/aika-special-trial.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aika-special-trial-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

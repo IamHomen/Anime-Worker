@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode bundled with the seventh Blu-ray and DVD volume of Amagi Brilliant Park.",
   "animeImg": "https://gogocdn.net/images/upload/72275.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "amagi-brilliant-park-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

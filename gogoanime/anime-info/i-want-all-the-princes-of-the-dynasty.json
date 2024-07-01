@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/i-want-all-the-princes-of-the-dynasty.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "i-want-all-the-princes-of-the-dynasty-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

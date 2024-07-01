@@ -10,5 +10,18 @@
   "synopsis": "In the magical underwater world, there is a mysterious and charming place called Hai Ying Bao. When human girls Ling Haijun and Xia Fan accidentally met the Princess of the Icy Blue City, Nahiya, they transform from ordinary girls into magic fairies.",
   "animeImg": "https://gogocdn.net/cover/balala-xiaomoxian-mofa-hai-ying-bao.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "balala-xiaomoxian-mofa-hai-ying-bao-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "balala-xiaomoxian-mofa-hai-ying-bao-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "balala-xiaomoxian-mofa-hai-ying-bao-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

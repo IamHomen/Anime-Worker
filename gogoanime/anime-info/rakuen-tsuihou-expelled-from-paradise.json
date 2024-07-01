@@ -10,5 +10,10 @@
   "synopsis": "Gen Urobuchi's original anime movie.",
   "animeImg": "https://gogocdn.net/images/upload/67507.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "rakuen-tsuihou-expelled-from-paradise-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,30 @@
   "synopsis": "Sometimes, it is the simplest gestures that convey the most intimate feelings. From awkward first encounters in an elevator to receiving a hand-knit sweater, love can blossom even in the most mundane of situations. Each new experience of sweet\u2014and at times bitter\u2014romance develops in less time than it takes to smoke a cigarette.",
   "animeImg": "https://gogocdn.net/cover/heart-cocktail-1695232665.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "heart-cocktail-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "heart-cocktail-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "heart-cocktail-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "heart-cocktail-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "heart-cocktail-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "heart-cocktail-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

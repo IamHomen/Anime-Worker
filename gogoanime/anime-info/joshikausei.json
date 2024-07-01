@@ -12,5 +12,54 @@
   "synopsis": "Who needs dialog when you're this cute? The beautiful (but unlucky) Momoko, the cool, collected Shibumi, and the refreshingly innocent Mayumi star in a \"silent manga.\" No speeches, no dialog! Just pictures, sound effects, and three high school girls living their daily lives.",
   "animeImg": "https://gogocdn.net/cover/joshikausei.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "joshikausei-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "joshikausei-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "joshikausei-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "joshikausei-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "joshikausei-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "joshikausei-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "joshikausei-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "joshikausei-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "joshikausei-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "joshikausei-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "joshikausei-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "joshikausei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -16,5 +16,10 @@
   "synopsis": "The movie recompiles scenes from the television anime with new scenes to tell a different story.",
   "animeImg": "https://gogocdn.net/cover/macross-d-movie-gekijou-no-walkure.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "macross-d-movie-gekijou-no-walkure-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

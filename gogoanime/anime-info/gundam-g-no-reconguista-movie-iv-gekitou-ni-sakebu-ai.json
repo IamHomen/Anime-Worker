@@ -11,5 +11,10 @@
   "synopsis": "The fourth film in the five-part Gundam: G no Reconguista Movie series.",
   "animeImg": "https://gogocdn.net/cover/gundam-g-no-reconguista-movie-iv-gekitou-ni-sakebu-ai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-g-no-reconguista-movie-iv-gekitou-ni-sakebu-ai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -14,5 +14,18 @@
   "synopsis": "Shouta, a 25-year-old NEET, is mocked by his former female classmates who've all become successes, at their class reunion. A mysterious incident at the school pool throws him back in time and lets him deal with those same classmates back when they were fifth grade girls.",
   "animeImg": "https://gogocdn.net/images/upload/74733.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mujaki-no-rakuen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mujaki-no-rakuen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mujaki-no-rakuen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,54 @@
   "synopsis": "The series follows the daily lives of a naughty female cat named Azuki and a quiet male cat named Daizu who live with their owner, a 30 year old office lady, and her extended family, including an otaku elder brother and an adopted shiba inu dog who thinks he's a cat.",
   "animeImg": "https://gogocdn.net/cover/mameneko.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mameneko-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "mameneko-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "mameneko-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "mameneko-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mameneko-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mameneko-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mameneko-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mameneko-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mameneko-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mameneko-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mameneko-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mameneko-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

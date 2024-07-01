@@ -11,5 +11,38 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/maoling-xiangce.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "maoling-xiangce-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "maoling-xiangce-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "maoling-xiangce-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "maoling-xiangce-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "maoling-xiangce-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "maoling-xiangce-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "maoling-xiangce-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "maoling-xiangce-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,38 @@
   "synopsis": "Mitsuki Ikuta works for the Houchiku Corporation, making movies. To all who know her, she is perceived as being a very infantile woman, still wearing childish fashions.\nA fan of the detective movie genre, she suddenly finds herself chosen to be the main producer of a new film \u2013 but it\u2019s a \u201chero movie\u201d (a genre generally considered childish). Determined to succeed, regardless, she takes on the job.",
   "animeImg": "https://gogocdn.net/images/anime/S/Smash-Hit.jpg",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "smash-hit-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "smash-hit-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "smash-hit-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "smash-hit-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "smash-hit-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "smash-hit-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "smash-hit-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "smash-hit-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

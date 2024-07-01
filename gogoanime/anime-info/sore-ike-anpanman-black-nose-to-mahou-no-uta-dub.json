@@ -12,5 +12,10 @@
   "synopsis": "22nd Anpanman short movie.",
   "animeImg": "https://gogocdn.net/cover/sore-ike-anpanman-black-nose-to-mahou-no-uta-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sore-ike-anpanman-black-nose-to-mahou-no-uta-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

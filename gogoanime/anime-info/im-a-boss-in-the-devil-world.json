@@ -12,5 +12,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/im-a-boss-in-the-devil-world.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "im-a-boss-in-the-devil-world-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "im-a-boss-in-the-devil-world-episode-1-3-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

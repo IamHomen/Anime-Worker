@@ -11,5 +11,18 @@
   "synopsis": "Specials from Galaxy Angel 3 DVDs.",
   "animeImg": "https://gogocdn.net/cover/galaxy-angel-3-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "galaxy-angel-3-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "galaxy-angel-3-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "galaxy-angel-3-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

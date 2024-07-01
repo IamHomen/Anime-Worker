@@ -10,5 +10,38 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/mo-you-ji.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mo-you-ji-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "mo-you-ji-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "mo-you-ji-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "mo-you-ji-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "mo-you-ji-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "mo-you-ji-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "mo-you-ji-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "mo-you-ji-episode-1-5-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

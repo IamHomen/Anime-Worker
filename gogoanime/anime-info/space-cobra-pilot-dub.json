@@ -13,5 +13,10 @@
   "synopsis": "Pilot episode for the TV series.",
   "animeImg": "https://gogocdn.net/cover/space-cobra-pilot-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "space-cobra-pilot-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

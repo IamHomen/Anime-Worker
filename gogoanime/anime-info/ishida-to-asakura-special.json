@@ -12,5 +12,10 @@
   "synopsis": "The surreal comedy centers around the friendship of high school boys.",
   "animeImg": "https://gogocdn.net/images/anime/I/ishida_to_asakura.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ishida-to-asakura-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

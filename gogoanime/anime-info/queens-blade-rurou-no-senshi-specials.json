@@ -13,5 +13,30 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/queens-blade-rurou-no-senshi-specials.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "queens-blade-rurou-no-senshi-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "queens-blade-rurou-no-senshi-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "queens-blade-rurou-no-senshi-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "queens-blade-rurou-no-senshi-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "queens-blade-rurou-no-senshi-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "queens-blade-rurou-no-senshi-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

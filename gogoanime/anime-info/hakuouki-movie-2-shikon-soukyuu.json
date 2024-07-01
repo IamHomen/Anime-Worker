@@ -15,5 +15,10 @@
   "synopsis": "Second part of two Hakuouki movies.",
   "animeImg": "https://gogocdn.net/images/upload/57843.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hakuouki-movie-2-shikon-soukyuu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

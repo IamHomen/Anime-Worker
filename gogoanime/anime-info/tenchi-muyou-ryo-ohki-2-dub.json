@@ -15,5 +15,30 @@
   "synopsis": "This OVA series gives the viewer more in-depth details on Sasami, Washu, and Ryo-ohki, as well as introducing members of the Juraian royal family.",
   "animeImg": "https://gogocdn.net/cover/tenchi-muyou-ryo-ohki-2-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tenchi-muyou-ryo-ohki-2-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryo-ohki-2-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryo-ohki-2-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryo-ohki-2-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryo-ohki-2-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tenchi-muyou-ryo-ohki-2-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

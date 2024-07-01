@@ -14,5 +14,10 @@
   "synopsis": "Original Cyborg 009 1966 movie based on the manga. Features 009's origin and an epic battle against Black Ghost and their evil robot forces.",
   "animeImg": "https://gogocdn.net/cover/cyborg-009-1966.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cyborg-009-1966-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

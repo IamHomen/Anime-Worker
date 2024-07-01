@@ -12,5 +12,10 @@
   "synopsis": "Extra episode in the 7th Blu-ray and DVD volumes.",
   "animeImg": "https://gogocdn.net/cover/tamayura-hitotose-attakai-kaze-no-omoide-nanode.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamayura-hitotose-attakai-kaze-no-omoide-nanode-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

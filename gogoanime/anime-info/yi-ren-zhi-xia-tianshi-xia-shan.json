@@ -12,5 +12,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/yi-ren-zhi-xia-tianshi-xia-shan.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yi-ren-zhi-xia-tianshi-xia-shan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yi-ren-zhi-xia-tianshi-xia-shan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

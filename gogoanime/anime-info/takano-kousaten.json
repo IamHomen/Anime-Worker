@@ -10,5 +10,10 @@
   "synopsis": "The award-winning short, independent anime Takano Intersection is professional animator Mizuki Ito\u2019s directorial debut. It was released on YouTube in September 2021.",
   "animeImg": "https://gogocdn.net/cover/takano-kousaten.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "takano-kousaten-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

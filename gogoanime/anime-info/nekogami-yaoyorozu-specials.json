@@ -12,5 +12,34 @@
   "synopsis": "Short episodes included in the Nekogami Yoayorozu Blu-ray and DVD volumes.",
   "animeImg": "https://gogocdn.net/cover/nekogami-yaoyorozu-specials.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nekogami-yaoyorozu-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "nekogami-yaoyorozu-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "nekogami-yaoyorozu-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nekogami-yaoyorozu-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nekogami-yaoyorozu-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nekogami-yaoyorozu-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nekogami-yaoyorozu-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

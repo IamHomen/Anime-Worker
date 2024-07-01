@@ -12,5 +12,10 @@
   "synopsis": "Unaired episode 13 of Aoharu x Kikanjuu bundled with BD/DVD volume 6.",
   "animeImg": "https://gogocdn.net/cover/aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

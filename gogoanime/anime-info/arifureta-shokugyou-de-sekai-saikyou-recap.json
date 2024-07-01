@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-recap.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "arifureta-shokugyou-de-sekai-saikyou-recap-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

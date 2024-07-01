@@ -14,5 +14,10 @@
   "synopsis": "A recap of the first season of Sidonia no Kishi with additional scenes and re-edited sound effects.",
   "animeImg": "https://gogocdn.net/cover/sidonia-no-kishi-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sidonia-no-kishi-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

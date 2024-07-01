@@ -12,5 +12,10 @@
   "synopsis": "Kirakira\u2606Precure Movies.",
   "animeImg": "https://gogocdn.net/cover/kirakiraprecure-a-la-mode-movie-paritto-omoide-no-mille-feuille.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kirakiraprecure-a-la-mode-movie-paritto-omoide-no-mille-feuille-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,18 @@
   "synopsis": "Short specials included in the Blu-ray Box 1 & 2 of Gundam Build Fighters.\r\n\r\nEpisode 1: SD Kishi Fighters First Half\r\nEpisode 2: SD Kishi Fighters Second Half\r\nEpisode 3: A Letter",
   "animeImg": "https://gogocdn.net/images/anime/G/Gundam-Build-Fighters.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-build-fighters-tv-special-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gundam-build-fighters-tv-special-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gundam-build-fighters-tv-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "synopsis": "Adaption of the 6th book in the Monogatari series, containing the Tsubasa Family Arc and featuring Hanekawa Tsubasa.",
   "animeImg": "https://gogocdn.net/cover/nekomonogatari-kuro.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nekomonogatari-kuro-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nekomonogatari-kuro-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nekomonogatari-kuro-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nekomonogatari-kuro-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

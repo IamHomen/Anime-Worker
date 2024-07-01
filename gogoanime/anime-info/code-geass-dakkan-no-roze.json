@@ -15,5 +15,14 @@
   "synopsis": "New Code Geass project.",
   "animeImg": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "code-geass-dakkan-no-roze-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "code-geass-dakkan-no-roze-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

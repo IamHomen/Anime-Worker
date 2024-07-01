@@ -12,5 +12,46 @@
   "synopsis": "The manga is centered around an older woman who is often mistaken as a man and called \"Ojii-chan'' by her cats and Tsushima, a strange cat who appears in her garden one day.",
   "animeImg": "https://gogocdn.net/cover/ore-tsushima.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ore-tsushima-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ore-tsushima-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

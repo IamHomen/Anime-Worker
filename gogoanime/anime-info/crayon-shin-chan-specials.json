@@ -13,5 +13,18 @@
   "synopsis": "87 Crayon Shin-chan TV Specials exist as of August 6, 2022.",
   "animeImg": "https://gogocdn.net/cover/crayon-shin-chan-specials.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "crayon-shin-chan-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "crayon-shin-chan-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "crayon-shin-chan-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

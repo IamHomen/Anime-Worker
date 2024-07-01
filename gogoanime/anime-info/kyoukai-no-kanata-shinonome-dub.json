@@ -12,5 +12,10 @@
   "synopsis": "Bundled with seventh Blu-ray/DVD volume of Kyoukai no Kanata.\r\n\r\nEpisode 0 happens two years prior to the TV series when the Nase siblings meet Akihito for the first time in a mission for Hiroomi. Mitsuki follows her brother on this mission and their goal is to subjugate Akihito.",
   "animeImg": "https://gogocdn.net/cover/kyoukai-no-kanata-shinonome-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kyoukai-no-kanata-shinonome-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

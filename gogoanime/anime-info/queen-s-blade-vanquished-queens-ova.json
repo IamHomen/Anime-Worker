@@ -13,5 +13,22 @@
   "synopsis": "The Vanquished Queens OVAs will depict new stories about the defeats of various Queen's Blade characters, independent from the ending of third TV season and other side stories.",
   "animeImg": "https://gogocdn.net/images/000121.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "queen-s-blade-vanquished-queens-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "queen-s-blade-vanquished-queens-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "queen-s-blade-vanquished-queens-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "queen-s-blade-vanquished-queens-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -13,5 +13,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/master-is-stupid-again.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "master-is-stupid-again-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

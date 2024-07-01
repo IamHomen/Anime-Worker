@@ -11,5 +11,26 @@
   "synopsis": "Ichigo is a little girl who is distressed by the failing relationship between her mother and father (who is actually her step-father). After school one day she meets a driver of a magical bus and finds herself taking a ride in the bus. The bus transports her to the past to shortly after her mother and real father met. Perhaps she is meant to do something that will help her parents stay together and love one another further into the future.",
   "animeImg": "https://gogocdn.net/cover/ontama.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ontama-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ontama-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ontama-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ontama-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ontama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

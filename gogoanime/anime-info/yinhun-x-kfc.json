@@ -10,5 +10,10 @@
   "synopsis": "Chinese streaming platform Weibo is hosting exclusive Gintama footage. The ad is in Japanese with Chinese subtitles showing the characters enjoying KFC's Chinese brand.\r\n\r\nGintama is titled and marketed as Yinhun in China.",
   "animeImg": "https://gogocdn.net/cover/yinhun-x-kfc.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "yinhun-x-kfc-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

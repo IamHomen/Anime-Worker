@@ -13,5 +13,10 @@
   "synopsis": "A recap of the original anime's first quarter.",
   "animeImg": "https://gogocdn.net/cover/kiddy-grade-ignition.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kiddy-grade-ignition-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

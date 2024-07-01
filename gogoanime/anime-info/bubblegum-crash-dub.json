@@ -14,5 +14,18 @@
   "synopsis": "The saga of the Knight Sabers continues as the group tries to find out who or what is behind the recent string of robberies, murders, and Boomer malfunctions which are somehow related to the creation of an advanced artificial intelligence. Furthermore, it seems that the Knight Sabers may be breaking up.",
   "animeImg": "https://gogocdn.net/cover/bubblegum-crash-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bubblegum-crash-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "bubblegum-crash-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "bubblegum-crash-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

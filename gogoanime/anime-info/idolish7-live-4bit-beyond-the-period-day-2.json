@@ -10,5 +10,14 @@
   "synopsis": "A live performance by IDOLiSH7, TRIGGER, Re:vale, and \u0179OO\u013b , 4 groups with different charms, will meet in one place, and the grand live entertainment will begin!",
   "animeImg": "https://gogocdn.net/cover/idolish7-live-4bit-beyond-the-period-day-2-1699115470.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "idolish7-movie-live-4bit-beyond-the-period-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "idolish7-movie-live-4bit-beyond-the-period-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

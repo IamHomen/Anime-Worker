@@ -12,5 +12,10 @@
   "synopsis": "Based on a shounen manga by Kusunoki Michiharu serialised in Weekly Shounen Magazine.",
   "animeImg": "https://gogocdn.net/cover/aitsu-to-lullaby-suiyobi-no-cinderella.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aitsu-to-lullaby-suiyobi-no-cinderella-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

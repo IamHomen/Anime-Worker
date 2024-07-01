@@ -15,5 +15,10 @@
   "synopsis": "A special episode of Ano Natsu de Matteru which will be included in the Blu-ray box set, set to be released in Summer 2014.",
   "animeImg": "https://gogocdn.net/images/summer/63493.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ano-natsu-de-matteru-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

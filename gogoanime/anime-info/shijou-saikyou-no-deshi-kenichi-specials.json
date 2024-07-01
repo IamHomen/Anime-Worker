@@ -14,5 +14,22 @@
   "synopsis": "A brief summary of Kenichi's new life at Ryouzanpaku.\r\n\r\nIncluded as a bonus on the DVD volumes of the Shijou Saikyou no Deshi Kenichi OVA.",
   "animeImg": "https://gogocdn.net/cover/shijou-saikyou-no-deshi-kenichi-specials.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "shijou-saikyou-no-deshi-kenichi-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "shijou-saikyou-no-deshi-kenichi-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "shijou-saikyou-no-deshi-kenichi-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "shijou-saikyou-no-deshi-kenichi-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

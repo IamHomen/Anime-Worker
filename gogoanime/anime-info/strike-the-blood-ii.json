@@ -16,5 +16,38 @@
   "synopsis": "Strike the Blood new OVAs",
   "animeImg": "https://gogocdn.net/cover/strike-the-blood-ii.png",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "strike-the-blood-ii-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "strike-the-blood-ii-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "strike-the-blood-ii-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "strike-the-blood-ii-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "strike-the-blood-ii-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "strike-the-blood-ii-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "strike-the-blood-ii-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "strike-the-blood-ii-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,10 @@
   "synopsis": "The first film in Shin-Ei's series of annual WWII themed anime television movies for children \"Sensou Douwa\" (war story).",
   "animeImg": "https://gogocdn.net/cover/umigame-to-shounen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "umigame-to-shounen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

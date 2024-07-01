@@ -12,5 +12,22 @@
   "synopsis": "Four short crossover episodes, collectively titled Kamen Rider Fourze \u00d7 Crayon Shin-chan between Kamen Rider Fourze and Crayon Shin-chan were shown in each show's time slots during April 2012 to promote their respective series' new films: Kamen Rider \u00d7 Super Sentai: Super Hero Taisen and Crayon Shin-chan: The Storm Called!: Me and the Space Princess. The characters will crossover in two episodes of each respective series. The story follows Shin-chan teaming up with Kamen Rider Fourze in order to go to space and rescue Shin's younger sister who had been taken to Planet Himawari to become its princess. The first and fourth episodes feature both anime and live-action while the second and third were entirely animated.",
   "animeImg": "https://gogocdn.net/cover/kamen-rider-fourze-x-crayon-shin-chan.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kamen-rider-fourze-x-crayon-shin-chan-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kamen-rider-fourze-x-crayon-shin-chan-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kamen-rider-fourze-x-crayon-shin-chan-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kamen-rider-fourze-x-crayon-shin-chan-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

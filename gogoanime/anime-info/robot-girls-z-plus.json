@@ -11,5 +11,30 @@
   "synopsis": "Robot Girls Z+, the new Robot Girls Z anime, will be six monthly shorts that will debut next spring. The protagonists of Team Z will appear in the new shorts, along with the reformed Team G, Team LOD, Team Gou, and characters that first appeared in the franchise's online game. The new shorts' story will be based two classic \"Toei Manga Matsuri\" films, Great Mazinger tai Getter Robo (Great Mazinger Vs. Getter Robo) and Great Mazinger tai Getter Robo G - Kuuchuu Dai-Gekitotsu (Great Mazinger Vs. Getter Robo G - The Great Space Encounter).",
   "animeImg": "https://gogocdn.net/images/upload/73636.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "robot-girls-z-plus-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "robot-girls-z-plus-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "robot-girls-z-plus-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "robot-girls-z-plus-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "robot-girls-z-plus-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "robot-girls-z-plus-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,14 @@
   "synopsis": "New unaired episodes included in 4th and 5th DVD volumes of Natsume Yuujinchou Roku.",
   "animeImg": "https://gogocdn.net/cover/natsume-yuujinchou-roku-ova.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "natsume-yuujinchou-roku-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "natsume-yuujinchou-roku-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

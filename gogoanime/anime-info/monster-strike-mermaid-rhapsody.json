@@ -12,5 +12,10 @@
   "synopsis": "The episode follows Ren on his vacation in Okinawa. There, he meets a mysterious girl.",
   "animeImg": "https://gogocdn.net/cover/monster-strike-mermaid-rhapsody.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "monster-strike-mermaid-rhapsody-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

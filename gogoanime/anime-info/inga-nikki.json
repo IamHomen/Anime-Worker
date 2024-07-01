@@ -10,5 +10,46 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/inga-nikki.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inga-nikki-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "inga-nikki-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "inga-nikki-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "inga-nikki-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "inga-nikki-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "inga-nikki-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "inga-nikki-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "inga-nikki-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "inga-nikki-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "inga-nikki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

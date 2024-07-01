@@ -14,5 +14,18 @@
   "synopsis": "The story is told by the cat-eyed boy, hated by humans and demons, who engages in tales of terror, including monsters and children.",
   "animeImg": "https://gogocdn.net/cover/youkaiden-nekome-kozou.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "youkaiden-nekome-kozou-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "youkaiden-nekome-kozou-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "youkaiden-nekome-kozou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

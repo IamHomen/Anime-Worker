@@ -11,5 +11,38 @@
   "synopsis": "A school comedy with violent and blue jokes. Fujiwara Megumi is a beautiful high school girl but has a selfish and violent character. She has a boyfriend named Matsumoto Masamune, but she often goes around with other boys, who end up as victims due to her selfish behavior.",
   "animeImg": "https://gogocdn.net/images/anime/H/high-score.jpg",
   "totalEpisodes": "8",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "high-score-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "high-score-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "high-score-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "high-score-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "high-score-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "high-score-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "high-score-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "high-score-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

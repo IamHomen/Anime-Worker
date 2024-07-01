@@ -11,5 +11,14 @@
   "synopsis": "The full versions of episodes 10 and 11 that were previously edited together into episode 10 of the TV series.",
   "animeImg": "https://gogocdn.net/cover/hourou-musuko-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hourou-musuko-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hourou-musuko-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

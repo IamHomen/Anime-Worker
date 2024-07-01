@@ -13,5 +13,22 @@
   "synopsis": "No synopsis information has been added to this title. Help improve our database by adding a synopsis here.",
   "animeImg": "https://gogocdn.net/cover/jing-shuang-cheng-feng-qi-pian.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jing-shuang-cheng-feng-qi-pian-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "jing-shuang-cheng-feng-qi-pian-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "jing-shuang-cheng-feng-qi-pian-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "jing-shuang-cheng-feng-qi-pian-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

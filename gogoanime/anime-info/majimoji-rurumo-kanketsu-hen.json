@@ -14,5 +14,14 @@
   "synopsis": "Bundled with the with the ninth limited edition volume of the Majimoji Rurumo: Houkago no Mahou Chuugakusei manga.",
   "animeImg": "https://gogocdn.net/cover/majimoji-rurumo-kanketsu-hen.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "majimoji-rurumo-kanketsu-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "majimoji-rurumo-kanketsu-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

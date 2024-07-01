@@ -11,5 +11,18 @@
   "synopsis": "13 scientists seek to tap genetic powers by creating a hybrid of man and beast. Years later, 13 of their children are embroiled in a battle to undo their handiwork, while Shinichi, the son of one of the scientists, teams up with Christian super-beings to save the world.",
   "animeImg": "https://gogocdn.net/cover/majuu-sensen.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "majuu-sensen-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "majuu-sensen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "majuu-sensen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

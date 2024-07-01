@@ -12,5 +12,10 @@
   "synopsis": "Compilation film with new content.",
   "animeImg": "https://gogocdn.net/cover/kouya-no-kotobuki-hikoutai-kanzenban.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kouya-no-kotobuki-hikoutai-kanzenban-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

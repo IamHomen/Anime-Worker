@@ -12,5 +12,30 @@
   "synopsis": "Five female pirates pilot the Sol Bianca, a starship with a higher level of technology than any other known. With it, they seek out riches, such as the Gnosis, an legendary item of power, and pasha, the most valuable mineral in the galaxy.\nAlong the way, they must consider a stowaway\u2019s quest to save the one he loves, and seek revenge against those that have wronged them.",
   "animeImg": "https://gogocdn.net/images/anime/S/Sol-Bianca.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sol-bianca-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sol-bianca-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sol-bianca-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sol-bianca-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sol-bianca-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sol-bianca-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

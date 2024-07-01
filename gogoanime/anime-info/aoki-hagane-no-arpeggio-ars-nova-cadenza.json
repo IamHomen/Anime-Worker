@@ -12,5 +12,10 @@
   "synopsis": "Second movie of Aoki Hagane no Arpeggio: Ars Nova which will be an entirely brand-new work.",
   "animeImg": "https://gogocdn.net/cover/aoki-hagane-no-arpeggio-ars-nova-cadenza.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "aoki-hagane-no-arpeggio-ars-nova-cadenza-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -12,5 +12,18 @@
   "synopsis": "The Cleopatra Corns Group, aka Cleopatra DC, is a powerful financial conglomerate controlling most of the United States economy, almost as powerful as the US government itself. At the top of the organization is the beautiful, smart and brave Ms. Cleo, the Group's young, talented Chairman. This is good--it means she can handle the repair bill when that airplane crashes into her bedroom. With stolen artifacts, corporate kidnappings, and top-secret cyborg projects gone awry, her luck only gets worse from there.",
   "animeImg": "https://gogocdn.net/cover/cleopatra-d-c.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cleopatra-d-c-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "cleopatra-d-c-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "cleopatra-d-c-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

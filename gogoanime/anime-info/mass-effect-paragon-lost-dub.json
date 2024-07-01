@@ -12,5 +12,10 @@
   "synopsis": "Mass Effect: Paragon Lost is the prequel to the highly-anticipated Mass Effect 3 and follows the early career of Alliance Marine, James Vega. Vega leads an elite Special Forces squad into battle against a mysterious alien threat known as The Collectors. Stationed at a colony in a remote star system, Vega and his soldiers must protect the civilians from a ruthless invasion determined to capture the population for unknown purposes. Learn more about the Mass Effect universe with an unprecedented glimpse into the haunted past of Mass Effect's newest hero!",
   "animeImg": "https://gogocdn.net/cover/mass-effect-paragon-lost-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mass-effect-paragon-lost-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

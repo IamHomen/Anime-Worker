@@ -14,5 +14,30 @@
   "synopsis": "Specials episode of Grisaia no Kajitsu",
   "animeImg": "https://gogocdn.net/images/upload/Grisaia-no-Kajitsu-Specials.jpg",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "grisaia-no-kajitsu-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "grisaia-no-kajitsu-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "grisaia-no-kajitsu-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "grisaia-no-kajitsu-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "grisaia-no-kajitsu-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "grisaia-no-kajitsu-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

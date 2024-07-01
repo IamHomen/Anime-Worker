@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/grisaia-phantom-trigger-the-animation-stargazer.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "grisaia-phantom-trigger-the-animation-stargazer-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

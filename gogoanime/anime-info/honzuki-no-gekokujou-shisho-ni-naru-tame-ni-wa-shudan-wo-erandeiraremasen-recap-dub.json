@@ -13,5 +13,14 @@
   "synopsis": "Recap episodes released before third season, summarizing first two seasons of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen.",
   "animeImg": "https://gogocdn.net/cover/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-recap-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-recap-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-recap-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

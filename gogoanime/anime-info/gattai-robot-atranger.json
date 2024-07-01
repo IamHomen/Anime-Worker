@@ -10,5 +10,10 @@
   "synopsis": "Atlanger is a plastic model series first released in 1975. The robot has a perennial popularity among middle aged fans.",
   "animeImg": "https://gogocdn.net/cover/gattai-robot-atranger.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gattai-robot-atranger-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

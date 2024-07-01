@@ -12,5 +12,22 @@
   "synopsis": "Years after the horrors of Raccoon City, Leon and Claire find themselves consumed by a dark conspiracy when a viral attack ravages the White House.",
   "animeImg": "https://gogocdn.net/cover/biohazard-infinite-darkness-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "biohazard-infinite-darkness-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "biohazard-infinite-darkness-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "biohazard-infinite-darkness-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "biohazard-infinite-darkness-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

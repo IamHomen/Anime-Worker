@@ -11,5 +11,26 @@
   "synopsis": "Three kids are stuck in a strange city causing massive mayhem through the land. They are searching for an atypical rabbit in order to return home. Koto, the eldest of the three, seems to have some sort of connection to this weird place ruled by a monk, a demon, and a priest.",
   "animeImg": "https://gogocdn.net/cover/kyousou-giga-2012-1710275240.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kyousou-giga-2012-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kyousou-giga-2012-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kyousou-giga-2012-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kyousou-giga-2012-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kyousou-giga-2012-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

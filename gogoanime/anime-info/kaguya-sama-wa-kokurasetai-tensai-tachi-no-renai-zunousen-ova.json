@@ -14,5 +14,10 @@
   "synopsis": "OVA comprising the two volumes of Kaguya-sama wa Kokurasetai Darkness.",
   "animeImg": "https://gogocdn.net/cover/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

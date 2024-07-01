@@ -11,5 +11,30 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/gundam-breaker-battlogue.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "gundam-breaker-battlogue-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "gundam-breaker-battlogue-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "gundam-breaker-battlogue-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "gundam-breaker-battlogue-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "gundam-breaker-battlogue-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "gundam-breaker-battlogue-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

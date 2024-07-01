@@ -15,5 +15,10 @@
   "synopsis": ".hack//The Movie: Sekai no Mukou ni",
   "animeImg": "https://gogocdn.net/images/hack The Movie Sekai no Mukou ni.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hackthe-movie-sekai-no-mukou-ni-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

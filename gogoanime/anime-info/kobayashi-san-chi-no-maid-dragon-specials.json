@@ -12,5 +12,34 @@
   "synopsis": "Specials included with the BD/DVD release of Kobayashi-san Chi no Maid Dragon.",
   "animeImg": "https://gogocdn.net/cover/kobayashi-san-chi-no-maid-dragon-specials.png",
   "totalEpisodes": "7",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-specials-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kobayashi-san-chi-no-maid-dragon-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

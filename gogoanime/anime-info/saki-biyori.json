@@ -13,5 +13,10 @@
   "synopsis": "Bundled with limited special first edition of the 14th volume of the Saki manga.",
   "animeImg": "https://gogocdn.net/images/upload/69895.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "saki-biyori-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

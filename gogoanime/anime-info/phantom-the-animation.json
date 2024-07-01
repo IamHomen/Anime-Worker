@@ -12,5 +12,18 @@
   "synopsis": "Zwei was an ordinary person, until one day, while walking the streets a night, he witnessed a brutal assassination. He managed to avoid the sniper, a young girl named Ein, but was soon captured, and had the memories of his former life erased. He is spared death only by accepting a condition : to train to become an assassin alongside Ein. Now he must find a way to free himself from this shady world and reclaim his life once again.",
   "animeImg": "https://gogocdn.net/images/anime/P/phantom-the-animation.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "phantom-the-animation-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "phantom-the-animation-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "phantom-the-animation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

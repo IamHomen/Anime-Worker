@@ -12,5 +12,10 @@
   "synopsis": "The first movie of a four-part finale of Tamayura.",
   "animeImg": "https://gogocdn.net/images/upload/Tamayura Sotsugyou Shashin Part 1 - Kizashi.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tamayura-sotsugyou-shashin-part-1---kizashi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

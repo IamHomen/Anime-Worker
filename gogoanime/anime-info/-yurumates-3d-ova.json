@@ -12,5 +12,14 @@
   "synopsis": "She moves into an apartment complex, the Maison du Wish, located on the outskirts of Tokyo where other ronins living there are studying for upcoming college acceptance exams.",
   "animeImg": "https://gogocdn.net/images/anime/yurumates-3d.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "-yurumates-3d-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "-yurumates-3d-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

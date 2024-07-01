@@ -11,5 +11,46 @@
   "synopsis": "Cyberpunk: Edgerunners tells a standalone story about a street kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an edgerunner\u2014a mercenary outlaw also known as a cyberpunk.",
   "animeImg": "https://gogocdn.net/cover/cyberpunk-edgerunners.png",
   "totalEpisodes": "10",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "cyberpunk-edgerunners-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

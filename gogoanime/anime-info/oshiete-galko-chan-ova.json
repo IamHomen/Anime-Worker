@@ -12,5 +12,10 @@
   "synopsis": "Bundled with fourth manga volume.",
   "animeImg": "https://gogocdn.net/cover/oshiete-galko-chan-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "oshiete-galko-chan-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

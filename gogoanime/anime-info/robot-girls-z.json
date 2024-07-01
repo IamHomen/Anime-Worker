@@ -11,5 +11,18 @@
   "synopsis": "The story revolves around a new team of \u201cToei robot girls\u201d named \u201cTeam Z\u201d that is made up of three girls based on Toei\u2019s Mazinger Z franchise: Mazinger Z, Great Mazinger, and UFO Robot Grendizer. Usually they perform in activities around Nerima ward in Tokyo to raise the awareness of the promising future energy source \u201cPhoton Power\u201d (koushiryoku). However, there are times when \u201cMechanical Beast\u201d team of girls emerge from the \u201cSubterranean Empire\u201d and attempt to steal the energy. Thus \u201cTeam Z\u201d has to battle them to prevent this, though sometimes they just go and beat up the \u201cbad girls\u201d to relieve stress.",
   "animeImg": "https://gogocdn.net/images/Robot-Girls-Z.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "robot-girls-z-episode-4",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "robot-girls-z-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "robot-girls-z-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

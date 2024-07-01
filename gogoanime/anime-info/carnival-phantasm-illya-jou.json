@@ -11,5 +11,10 @@
   "synopsis": "A special feature based on a real-time run of the Fate/Hollow Ataraxia Visual Novel's mini-game, Illya's Castle. \r\n\r\nThe key characters' voice actor/actress' participate in live commentary for the duration of the game.",
   "animeImg": "https://gogocdn.net/cover/carnival-phantasm-illya-jou.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "carnival-phantasm-illya-jou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

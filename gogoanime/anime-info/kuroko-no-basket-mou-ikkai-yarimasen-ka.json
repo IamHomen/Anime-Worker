@@ -13,5 +13,10 @@
   "synopsis": "Bundled with the 6 Blu-ray/DVD. It will adapt the 124th chapter of the manga, which depicts when Kuroko and Aomine first met.",
   "animeImg": "https://gogocdn.net/cover/kuroko-no-basket-mou-ikkai-yarimasen-ka.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kuroko-no-basket-mou-ikkai-yarimasen-ka-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

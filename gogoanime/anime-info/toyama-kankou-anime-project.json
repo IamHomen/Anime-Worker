@@ -11,5 +11,30 @@
   "synopsis": "The Toyama Kankou Anime Project is a visualization of the three most popular tourist spots of the Toyama prefecture: Tateyama Kurobu Alpine Route; firefly squid from the mysterious ocean of the Toyama Bay; Gokayama known for its architectural world heritage Gasshouzukuri.\r\n\r\nThe animation is done by PA Works, which is located in Toyama-ken Nanto-shi, and the flash is done by The BERICH, which is a unit that resides in Toyama-ken Uozu-shi.\r\n\r\nAlong with a high-definition commentary video of these attractions, this project aims to broadcast the stunning nature of the Toyama prefecture to the world.",
   "animeImg": "https://gogocdn.net/cover/toyama-kankou-anime-project.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toyama-kankou-anime-project-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "toyama-kankou-anime-project-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "toyama-kankou-anime-project-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "toyama-kankou-anime-project-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "toyama-kankou-anime-project-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "toyama-kankou-anime-project-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

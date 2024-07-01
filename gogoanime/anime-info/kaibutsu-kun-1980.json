@@ -12,5 +12,30 @@
   "synopsis": "Kaibutsu-kun and his companions, Dracula, Wolfman, and Franken, travel from Kaibutsu Land to the Human Realm, where they encounter and battle several monsters, mainly assassins from the demon group Demonish.",
   "animeImg": "https://gogocdn.net/cover/kaibutsu-kun-1980.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kaibutsu-kun-1980-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "kaibutsu-kun-1980-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kaibutsu-kun-1980-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kaibutsu-kun-1980-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kaibutsu-kun-1980-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kaibutsu-kun-1980-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

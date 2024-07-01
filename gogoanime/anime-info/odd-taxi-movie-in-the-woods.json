@@ -10,5 +10,10 @@
   "synopsis": "Film which \"reconstructs\" the Odd Taxi TV anime and also depicts what happens after the TV anime's finale.",
   "animeImg": "https://gogocdn.net/cover/odd-taxi-movie-in-the-woods.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "odd-taxi-movie-in-the-woods-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

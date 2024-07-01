@@ -13,5 +13,30 @@
   "synopsis": "Six short \"Special Broadcasts\" (omake) were produced and aired after selected episodes. They lasted around five minutes and followed the general style of the main anime, although the characters are drawn as chibis.",
   "animeImg": "https://gogocdn.net/cover/to-heart-omake.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "to-heart-omake-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "to-heart-omake-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "to-heart-omake-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "to-heart-omake-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "to-heart-omake-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "to-heart-omake-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

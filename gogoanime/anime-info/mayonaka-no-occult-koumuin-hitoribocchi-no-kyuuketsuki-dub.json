@@ -14,5 +14,14 @@
   "synopsis": "2 Unaired Episodes of Mayonaka no Occult Koumuin.",
   "animeImg": "https://gogocdn.net/cover/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki-dub.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

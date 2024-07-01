@@ -13,5 +13,10 @@
   "synopsis": "Toei Animation\u00a0is producing the\u00a0Jump Heroes Film\u00a0double billing 3D films of\u00a0Toriko\u00a0and One Piece with original stories.",
   "animeImg": "https://gogocdn.net/images/anime/O/One-Piece-3D.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "one-piece-3d-mugiwara-chase-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

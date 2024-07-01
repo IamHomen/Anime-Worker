@@ -14,5 +14,14 @@
   "synopsis": "A web series \"Detective Conan vs. Wooo.\" This web short is an advertisement for the Wooo line of televisions in Japan.",
   "animeImg": "https://gogocdn.net/cover/meitantei-conan-vs-wooo.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "meitantei-conan-vs-wooo-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "meitantei-conan-vs-wooo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

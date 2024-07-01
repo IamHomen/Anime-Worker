@@ -11,5 +11,18 @@
   "synopsis": "Based on the manga by Yama Miyuki.",
   "animeImg": "https://gogocdn.net/cover/toki-no-daichi-hana-no-oukoku-no-majo.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "toki-no-daichi-hana-no-oukoku-no-majo-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "toki-no-daichi-hana-no-oukoku-no-majo-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "toki-no-daichi-hana-no-oukoku-no-majo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -11,5 +11,30 @@
   "synopsis": "Ikkitousen: Xtreme Xecutor Blu-ray and DVD specials.",
   "animeImg": "https://gogocdn.net/cover/ikkitousen-xtreme-xecutor-specials.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ikkitousen-xtreme-xecutor-specials-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "ikkitousen-xtreme-xecutor-specials-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "ikkitousen-xtreme-xecutor-specials-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "ikkitousen-xtreme-xecutor-specials-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ikkitousen-xtreme-xecutor-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ikkitousen-xtreme-xecutor-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

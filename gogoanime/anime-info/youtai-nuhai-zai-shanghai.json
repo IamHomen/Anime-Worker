@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/youtai-nuhai-zai-shanghai.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "youtai-nuhai-zai-shanghai-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

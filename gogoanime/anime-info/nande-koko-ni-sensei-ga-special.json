@@ -13,5 +13,10 @@
   "synopsis": "Unaired episode included with the Blu-ray box set.",
   "animeImg": "https://gogocdn.net/cover/nande-koko-ni-sensei-ga-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nande-koko-ni-sensei-ga-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

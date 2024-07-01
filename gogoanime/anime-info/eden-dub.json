@@ -12,5 +12,22 @@
   "synopsis": "Thousands of years in the future, a city known as \"Eden\" is inhabited solely by artificially intelligent robots whose former masters vanished long ago. On a routine assignment, within the depths of the city, two maintenance robots accidentally awaken a human baby girl from stasis questioning their belief that humans were a forbidden ancient myth. Together, the two robots secretly raise the child in a safe haven outside Eden.",
   "animeImg": "https://gogocdn.net/cover/eden-dub.png",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "eden-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "eden-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "eden-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "eden-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

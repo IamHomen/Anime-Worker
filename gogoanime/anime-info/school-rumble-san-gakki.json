@@ -13,5 +13,14 @@
   "synopsis": "A short 2 episodes attempt to conclude the series. Karasuma goes to America after the end of the third term. Will Harima finally confess? What will happen with Tenma and Karasuma?",
   "animeImg": "https://gogocdn.net/cover/school-rumble-san-gakki.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "school-rumble-san-gakki-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "school-rumble-san-gakki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

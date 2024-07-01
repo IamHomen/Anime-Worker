@@ -14,5 +14,30 @@
   "synopsis": "This OVA takes place in between episodes 8 and 9 of the first season of Hakuouki.\r\n\r\nYukimura Chizuru goes on a reconnaissance mission in Shimabara as a geiko for the Shinsengumi. Each episode unfolds the events of the days leading up to, during, and after the operation. It intermittently reveals each captain's involvement as well as that of a few demons in the affair. Each individual episode primarily focuses from the third person perspectives of: Okita Souji, Saito Hajime, Harada Sanosuke, Toudou Heisuke, Hijikata Toshizo, and Kazama Chikage.",
   "animeImg": "https://gogocdn.net/cover/hakuouki-sekkaroku-dub.png",
   "totalEpisodes": "6",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hakuouki-sekkaroku-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "hakuouki-sekkaroku-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "hakuouki-sekkaroku-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "hakuouki-sekkaroku-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "hakuouki-sekkaroku-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hakuouki-sekkaroku-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

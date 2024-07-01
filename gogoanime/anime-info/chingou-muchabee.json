@@ -11,5 +11,10 @@
   "synopsis": "A goofy comedy series with various stories featuring the same set of characters.",
   "animeImg": "https://gogocdn.net/cover/chingou-muchabee.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "chingou-muchabee-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

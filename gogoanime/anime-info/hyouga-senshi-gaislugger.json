@@ -12,5 +12,14 @@
   "synopsis": "A cyborg warrior from an ancient Antarctic kingdom awakes 30000 years later from an accidental hibernation to find the Earth changed and an old alien enemy on the verge of invasion. It's up to Guyslugger to use his ancient technology to defeat the aliens.",
   "animeImg": "https://gogocdn.net/cover/hyouga-senshi-gaislugger.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hyouga-senshi-gaislugger-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hyouga-senshi-gaislugger-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

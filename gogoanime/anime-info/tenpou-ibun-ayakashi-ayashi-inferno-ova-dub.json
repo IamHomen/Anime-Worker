@@ -13,5 +13,26 @@
   "synopsis": "Specials set six months after the end of Tenpou Ibun Ayakashi Ayashi.",
   "animeImg": "https://gogocdn.net/cover/tenpou-ibun-ayakashi-ayashi-inferno-ova-dub.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tenpou-ibun-ayakashi-ayashi-inferno-ova-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tenpou-ibun-ayakashi-ayashi-inferno-ova-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tenpou-ibun-ayakashi-ayashi-inferno-ova-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tenpou-ibun-ayakashi-ayashi-inferno-ova-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tenpou-ibun-ayakashi-ayashi-inferno-ova-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

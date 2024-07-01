@@ -14,5 +14,54 @@
   "synopsis": "Fourth season of Strike the Blood.",
   "animeImg": "https://gogocdn.net/cover/strike-the-blood-iv.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "strike-the-blood-iv-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "strike-the-blood-iv-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

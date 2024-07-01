@@ -14,5 +14,10 @@
   "synopsis": "While the TV anime focused on the band given's guitarist Ritsuka Uenoyama and his high school classmate Mafuyu Sato, the film centers on the love relationship among the band's bassist Haruki Nakayama, drummer Akihiko Kaji, and Akihiko's roommate and ex-boyfriend Ugetsu Murata.",
   "animeImg": "https://gogocdn.net/cover/given-movie.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "given-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,10 @@
   "synopsis": "Based on Dragon Quest V: Hand of the Heavenly Bride game's story.",
   "animeImg": "https://gogocdn.net/cover/dragon-quest-your-story.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "dragon-quest-your-story-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

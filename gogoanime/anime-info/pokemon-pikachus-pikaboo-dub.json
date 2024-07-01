@@ -13,5 +13,10 @@
   "synopsis": "Pikachu and the other pokemon play a game of hide and seek.",
   "animeImg": "https://gogocdn.net/cover/pokemon-pikachus-pikaboo-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-pikachus-pikaboo-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

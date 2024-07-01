@@ -14,5 +14,10 @@
   "synopsis": "A 4-episode special web-series that was streamed exclusively on Amazon Prime Video to celebrate the release of the Nintendo Switch game Pok\u00e9mon Legends: Arceus.",
   "animeImg": "https://gogocdn.net/cover/pokemon-2019-kami-to-yobareshi-arceus-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-2019-kami-to-yobareshi-arceus-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

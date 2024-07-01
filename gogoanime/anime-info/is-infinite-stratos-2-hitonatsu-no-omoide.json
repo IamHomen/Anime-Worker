@@ -15,5 +15,10 @@
   "synopsis": "New 40-minute OVA to be released on October 30, 2013. It will be a longer version of the second season's first episode, which is under the same title.",
   "animeImg": "https://gogocdn.net/images/anime/I/IS-Infinite-Stratos-2-Hitonatsu-no-Omoide.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "is-infinite-stratos-2-hitonatsu-no-omoide-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

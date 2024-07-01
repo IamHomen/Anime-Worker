@@ -14,5 +14,14 @@
   "synopsis": "Adaptation of the final chapters of the Saiki Kusuo no \u03a8-nan manga.",
   "animeImg": "https://gogocdn.net/cover/saiki-kusuo-no-ps-nan-kanketsu-hen.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "saiki-kusuo-no-ps-nan-kanketsu-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "saiki-kusuo-no-ps-nan-kanketsu-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

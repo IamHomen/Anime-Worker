@@ -12,5 +12,10 @@
   "synopsis": "Special episode included with the Blu-ray box set of the original Jewelpet Tinkle anime series.",
   "animeImg": "https://gogocdn.net/cover/jewelpet-twinkle-hohoemi-no-niji-ni-dokkidoki.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "jewelpet-twinkle-hohoemi-no-niji-ni-dokkidoki-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

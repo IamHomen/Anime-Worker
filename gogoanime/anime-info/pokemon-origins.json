@@ -12,5 +12,22 @@
   "synopsis": "The anime will feature the player and rival characters from Nintendo\u2019s original Pok\u00e9mon Red and Pok\u00e9mon Green (released as Pok\u00e9mon Blue in North America) video games.",
   "animeImg": "https://gogocdn.net/images/anime/P/Pokemon-Origins.jpg",
   "totalEpisodes": "4",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "pokemon-origins-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "pokemon-origins-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "pokemon-origins-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "pokemon-origins-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

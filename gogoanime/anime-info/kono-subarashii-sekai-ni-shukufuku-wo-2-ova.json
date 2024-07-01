@@ -14,5 +14,10 @@
   "synopsis": "Bundled with the 12th volume of the light novel.",
   "animeImg": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-2-ova.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kono-subarashii-sekai-ni-shukufuku-wo-2-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

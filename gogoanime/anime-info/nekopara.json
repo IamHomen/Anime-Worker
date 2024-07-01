@@ -11,5 +11,54 @@
   "synopsis": "Neko Works announced at Comiket 95 a new TV anime series based on the Nekopara visual novels.",
   "animeImg": "https://gogocdn.net/cover/nekopara.png",
   "totalEpisodes": "12",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nekopara-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "nekopara-episode-11",
+      "episodeNum": "Episode 11"
+    },
+    {
+      "episodeId": "nekopara-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "nekopara-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "nekopara-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "nekopara-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "nekopara-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "nekopara-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "nekopara-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "nekopara-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "nekopara-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "nekopara-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

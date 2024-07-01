@@ -13,5 +13,10 @@
   "synopsis": "Last part of the Nine TV movies.",
   "animeImg": "https://gogocdn.net/cover/nine-kanketsu-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nine-kanketsu-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

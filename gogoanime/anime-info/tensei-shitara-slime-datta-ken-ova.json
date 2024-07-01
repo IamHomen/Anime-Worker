@@ -11,5 +11,26 @@
   "synopsis": "Bundled in the eleventh volume of the manga. It will be about the Sumo competition that held at Tempest for the first time, suggested by Rimuru.",
   "animeImg": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-ova.png",
   "totalEpisodes": "5",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "tensei-shitara-slime-datta-ken-ova-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "tensei-shitara-slime-datta-ken-ova-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "tensei-shitara-slime-datta-ken-ova-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tensei-shitara-slime-datta-ken-ova-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tensei-shitara-slime-datta-ken-ova-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

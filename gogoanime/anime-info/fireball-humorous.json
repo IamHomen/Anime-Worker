@@ -11,5 +11,18 @@
   "synopsis": "The show takes place in the distant future of the 13th, 4-9th millennium, and revolves around the happenings inside a giant manor (named 'Tempest Tower') inhabited by two robots.",
   "animeImg": "https://gogocdn.net/cover/fireball-humorous.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "fireball-humorous-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "fireball-humorous-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fireball-humorous-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -15,5 +15,14 @@
   "synopsis": "New Ikkitousen OVA.",
   "animeImg": "https://gogocdn.net/images/upload/IKKITOUSEN EXTRAVAGANZA EPOCH.jpg",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "ikkitousen-extravaganza-epoch-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ikkitousen-extravaganza-epoch-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

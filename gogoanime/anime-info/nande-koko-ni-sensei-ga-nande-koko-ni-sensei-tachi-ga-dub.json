@@ -14,5 +14,10 @@
   "synopsis": "Unaired episode included with the Blu-ray box set.",
   "animeImg": "https://gogocdn.net/cover/nande-koko-ni-sensei-ga-nande-koko-ni-sensei-tachi-ga-dub.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "nande-koko-ni-sensei-ga-nande-koko-ni-sensei-tachi-ga-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

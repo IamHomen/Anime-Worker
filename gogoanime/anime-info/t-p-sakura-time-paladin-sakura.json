@@ -10,5 +10,14 @@
   "synopsis": "The project is a spinoff from Circus's D.C. Da Capo franchise and features the Yoshino Sakura character as a seemingly ordinary third grader with secret special powers.",
   "animeImg": "https://gogocdn.net/cover/t-p-sakura-time-paladin-sakura.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "t-p-sakura-time-paladin-sakura-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "t-p-sakura-time-paladin-sakura-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

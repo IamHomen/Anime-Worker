@@ -12,5 +12,10 @@
   "synopsis": "Space Gundam V was presented as a Super Robot with quasi-mystical powers that battled a villainous entity on every episode. Much like the Super Robot shows Invincible Super Man Zambot 3 and Trider G7, the robot was piloted by a pre-teen boy. Notable villains included a giant rat and a winged devil.",
   "animeImg": "https://gogocdn.net/cover/space-gundam-v.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "space-gundam-v-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

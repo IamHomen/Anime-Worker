@@ -15,5 +15,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/kuroshitsuji-movie-book-of-the-atlantic.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kuroshitsuji-movie-book-of-the-atlantic-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

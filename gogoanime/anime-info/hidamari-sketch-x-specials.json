@@ -11,5 +11,14 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/hidamari-sketch-x-specials.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "hidamari-sketch-x-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hidamari-sketch-x-specials-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

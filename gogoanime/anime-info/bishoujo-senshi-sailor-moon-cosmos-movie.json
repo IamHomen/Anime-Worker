@@ -12,5 +12,10 @@
   "synopsis": "The movies will cover the Shadow Galactica arc.",
   "animeImg": "https://gogocdn.net/cover/bishoujo-senshi-sailor-moon-cosmos-movie-1705530905.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "bishoujo-senshi-sailor-moon-cosmos-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

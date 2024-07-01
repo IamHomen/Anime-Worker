@@ -13,5 +13,18 @@
   "synopsis": "The new anime will adapt two bonus chapters from Mizuho Kusanagi's 12th manga volume, titled \"On That Back\" and \"Kija.\" \"On That Back\" follows an incident at a hot spring hotel, and \"Kija\" depicts the past of the Hakuryuu Kija.",
   "animeImg": "https://gogocdn.net/images/upload/75974.jpg",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "akatsuki-no-yona-sono-se-niwa-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "akatsuki-no-yona-sono-se-niwa-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "akatsuki-no-yona-sono-se-niwa-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

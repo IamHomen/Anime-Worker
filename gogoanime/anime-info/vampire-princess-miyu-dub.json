@@ -14,5 +14,18 @@
   "synopsis": "A quiet gothic horror story about a vampire girl, Miyu, whose destiny it is to hunt down murderous demons known as Shinma and return them to their land of origin, the Dark. Miyu is pursued by the Spiritualist Himiko, determined to find out who Miyu is and to stop her from sucking the life blood from helpless humans. Each of the four episodes chronicle one of Miyu's encounters with a Shinma and the humans that it is affecting, from the perspective of Himiko's pursuit of Miyu.",
   "animeImg": "https://gogocdn.net/cover/vampire-princess-miyu-dub.png",
   "totalEpisodes": "3",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "vampire-princess-miyu-dub-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "vampire-princess-miyu-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "vampire-princess-miyu-dub-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

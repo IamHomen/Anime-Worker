@@ -11,5 +11,10 @@
   "synopsis": "Extra episode included in the Blu-ray/DVD release.",
   "animeImg": "https://gogocdn.net/cover/null-peta-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "null-peta-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

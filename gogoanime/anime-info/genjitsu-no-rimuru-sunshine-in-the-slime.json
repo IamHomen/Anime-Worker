@@ -12,5 +12,14 @@
   "synopsis": "A collaboration anime between Genjitsu no Yohane: Sunshine in the Mirror and Tensei shitara Slime Datta Ken.",
   "animeImg": "https://gogocdn.net/cover/genjitsu-no-rimuru-sunshine-in-the-slime.png",
   "totalEpisodes": "2",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "genjitsu-no-rimuru-sunshine-in-the-slime-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "genjitsu-no-rimuru-sunshine-in-the-slime-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

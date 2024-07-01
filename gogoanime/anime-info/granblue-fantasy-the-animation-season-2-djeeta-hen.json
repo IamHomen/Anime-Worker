@@ -11,5 +11,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/granblue-fantasy-the-animation-season-2-djeeta-hen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "granblue-fantasy-the-animation-season-2-djeeta-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -10,5 +10,10 @@
   "synopsis": "Five budgies meet every day in a club to help other birds.",
   "animeImg": "https://gogocdn.net/cover/inko-colors-the-animation.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "inko-colors-the-animation-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

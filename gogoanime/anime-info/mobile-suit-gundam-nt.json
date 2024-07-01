@@ -15,5 +15,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-gundam-nt.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "mobile-suit-gundam-nt-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

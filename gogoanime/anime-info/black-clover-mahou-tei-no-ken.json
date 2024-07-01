@@ -12,5 +12,10 @@
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/black-clover-mahou-tei-no-ken-1679974385.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "black-clover-mahou-tei-no-ken-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

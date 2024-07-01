@@ -11,5 +11,10 @@
   "synopsis": "Included on a DVD within the limited edition of the manga's volume 17. Apo, the pet dog from the manga, will star in the anime.",
   "animeImg": "https://gogocdn.net/images/Uchuu Kyoudai Apos Dream.jpg",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "uchuu-kyoudai-apos-dream-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

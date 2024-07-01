@@ -14,5 +14,10 @@
   "synopsis": "The special anime adaptation of Boruto will be screening at Shueisha\u2019s by-invitation anime event Jump Special Anime Festa 2016!",
   "animeImg": "https://gogocdn.net/cover/boruto-jump-festa-2016-special.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "boruto-jump-festa-2016-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }
