@@ -11,6 +11,16 @@
     ]
   },
   {
+    "animeId": "gimai-seikatsu",
+    "animeTitle": "Gimai Seikatsu",
+    "animeImg": "'https://gogocdn.net/cover/gimai-seikatsu-1719513692.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/gimai-seikatsu",
+    "genres": [
+      "Romance"
+    ]
+  },
+  {
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "'https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png'",
@@ -53,21 +63,6 @@
     ]
   },
   {
-    "animeId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "animeTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-    "animeImg": "'https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png'",
-    "latestEp": "Episode 12",
-    "animeUrl": "https://anitaku.so/category/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Ecchi",
-      "Fantasy",
-      "Isekai",
-      "Reincarnation"
-    ]
-  },
-  {
     "animeId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
     "animeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
     "animeImg": "'https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png'",
@@ -79,19 +74,6 @@
       "Mythology",
       "Reincarnation",
       "School"
-    ]
-  },
-  {
-    "animeId": "kimetsu-no-yaiba-hashira-geiko-hen",
-    "animeTitle": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "animeImg": "'https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png'",
-    "latestEp": "Episode 8",
-    "animeUrl": "https://anitaku.so/category/kimetsu-no-yaiba-hashira-geiko-hen",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Historical",
-      "Shounen"
     ]
   },
   {
@@ -135,6 +117,19 @@
       "Police",
       "Psychological",
       "Shounen"
+    ]
+  },
+  {
+    "animeId": "kusuriya-no-hitorigoto",
+    "animeTitle": "Kusuriya no Hitorigoto",
+    "animeImg": "'https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png'",
+    "latestEp": "Episode 24",
+    "animeUrl": "https://anitaku.so/category/kusuriya-no-hitorigoto",
+    "genres": [
+      "Drama",
+      "Historical",
+      "Medical",
+      "Mystery"
     ]
   }
 ]

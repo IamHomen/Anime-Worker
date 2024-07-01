@@ -1,5 +1,26 @@
 [
   {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen-dub",
+    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-dub-episode-1",
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen (Dub)",
+    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shinigami-bocchan-to-kuro-maid-3rd-season-dub",
+    "epId": "shinigami-bocchan-to-kuro-maid-3rd-season-dub-episode-11",
+    "title": "Shinigami Bocchan to Kuro Maid 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season-dub.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "vampire-dormitory-dub",
+    "epId": "vampire-dormitory-dub-episode-11",
+    "title": "Vampire Dormitory (Dub)",
+    "img": "https://gogocdn.net/cover/vampire-dormitory-dub.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub",
     "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub-episode-10",
     "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 (Dub)",
@@ -229,20 +250,6 @@
     "title": "Yozakura-san Chi no Daisakusen (Dub)",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-dub.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "vampire-dormitory-dub",
-    "epId": "vampire-dormitory-dub-episode-10",
-    "title": "Vampire Dormitory (Dub)",
-    "img": "https://gogocdn.net/cover/vampire-dormitory-dub.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "shinigami-bocchan-to-kuro-maid-3rd-season-dub",
-    "epId": "shinigami-bocchan-to-kuro-maid-3rd-season-dub-episode-10",
-    "title": "Shinigami Bocchan to Kuro Maid 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/shinigami-bocchan-to-kuro-maid-3rd-season-dub.png",
-    "episode": "Episode 10"
   },
   {
     "id": "ishura-dub",
@@ -2790,13 +2797,6 @@
     "epId": "comic-party-revolution-dub-episode-13",
     "title": "Comic Party Revolution (Dub)",
     "img": "https://gogocdn.net/cover/comic-party-revolution-dub.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "zoku-natsume-yuujinchou-dub",
-    "epId": "zoku-natsume-yuujinchou-dub-episode-13",
-    "title": "Zoku Natsume Yuujinchou (Dub)",
-    "img": "https://gogocdn.net/cover/zoku-natsume-yuujinchou-dub.png",
     "episode": "Episode 13"
   }
 ]

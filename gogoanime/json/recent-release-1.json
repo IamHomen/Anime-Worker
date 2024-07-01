@@ -1,5 +1,12 @@
 [
   {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-1",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-8",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
@@ -2389,7 +2396,7 @@
   {
     "id": "fatekaleid-liner-prismaillya-prismaphantasm",
     "epId": "fatekaleid-liner-prismaillya-prismaphantasm-episode-1",
-    "title": "Fate/kaleid liner Prisma\u2606Illya: Prisma\u2606Phantasm",
+    "title": "Fate/kaleid liner Prisma\u014c\u015b\u00e5Illya: Prisma\u014c\u015b\u00e5Phantasm",
     "img": "https://gogocdn.net/cover/fatekaleid-liner-prismaillya-prismaphantasm.png",
     "episode": "Episode 1"
   },
@@ -2473,7 +2480,7 @@
   {
     "id": "odekake-kozame-chiba-ken-kuro-ajillo",
     "epId": "odekake-kozame-chiba-ken-kuro-ajillo-episode-1",
-    "title": "Odekake Kozame \u00d7 Chiba-ken Kuro Ajillo",
+    "title": "Odekake Kozame \u251c\u015a Chiba-ken Kuro Ajillo",
     "img": "https://gogocdn.net/cover/odekake-kozame-chiba-ken-kuro-ajillo.png",
     "episode": "Episode 1"
   },
@@ -2790,13 +2797,6 @@
     "epId": "kamonohashi-ron-no-kindan-suiri-episode-13",
     "title": "Kamonohashi Ron no Kindan Suiri",
     "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-1696008665.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "migi-to-dali",
-    "epId": "migi-to-dali-episode-13",
-    "title": "Migi to Dali",
-    "img": "https://gogocdn.net/cover/migi-to-dali-1696010832.png",
     "episode": "Episode 13"
   }
 ]
