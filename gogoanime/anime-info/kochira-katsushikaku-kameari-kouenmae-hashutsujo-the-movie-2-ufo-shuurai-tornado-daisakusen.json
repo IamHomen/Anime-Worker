@@ -12,5 +12,10 @@
   "synopsis": "More movie mayhem for Ryoutsu.",
   "animeImg": "https://gogocdn.net/cover/kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie-2-ufo-shuurai-tornado-daisakusen.png",
   "totalEpisodes": "1",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie-2-ufo-shuurai-tornado-daisakusen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }
