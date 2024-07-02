@@ -1,0 +1,25 @@
+{
+  "animeTitle": "Sukuwareru Ramiris",
+  "type": "ONA",
+  "releasedDate": "202",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Isekai"
+  ],
+  "otherNames": "\u6551\u308f\u308c\u308b\u30e9\u30df\u30ea\u30b9",
+  "synopsis": "Short animation released for a limited time on Bandai Spirits YouTube channel.",
+  "animeImg": "https://gogocdn.net/cover/sukuwareru-ramiris.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "sukuwareru-ramiris-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sukuwareru-ramiris-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

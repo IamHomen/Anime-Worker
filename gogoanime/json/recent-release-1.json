@@ -1,5 +1,26 @@
 [
   {
+    "id": "touch-2-sayonara-no-okurimono",
+    "epId": "touch-2-sayonara-no-okurimono-episode-1",
+    "title": "Touch 2: Sayonara no Okurimono",
+    "img": "https://gogocdn.net/cover/touch-2-sayonara-no-okurimono.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "touch-sebangou-no-nai-ace",
+    "epId": "touch-sebangou-no-nai-ace-episode-1",
+    "title": "Touch: Sebangou no Nai Ace",
+    "img": "https://gogocdn.net/cover/touch-sebangou-no-nai-ace.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "sukuwareru-ramiris",
+    "epId": "sukuwareru-ramiris-episode-2",
+    "title": "Sukuwareru Ramiris",
+    "img": "https://gogocdn.net/cover/sukuwareru-ramiris.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai",
     "epId": "seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai-episode-1",
     "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
@@ -296,7 +317,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-59",
-    "title": "Magical\u014c\u015b\u0123Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 59"
   },
@@ -401,7 +422,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-114",
-    "title": "Yu\u014c\u015b\u00e5Gi\u014c\u015b\u00e5Oh!: Go Rush!!",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 114"
   },
@@ -2777,26 +2798,5 @@
     "title": "Mahou no Star Magical Emi",
     "img": "https://gogocdn.net/cover/mahou-no-star-magical-emi.png",
     "episode": "Episode 38"
-  },
-  {
-    "id": "tokyo-revengers-tenjiku-hen",
-    "epId": "tokyo-revengers-tenjiku-hen-episode-13",
-    "title": "Tokyo Revengers: Tenjiku-hen",
-    "img": "https://gogocdn.net/cover/tokyo-revengers-tenjiku-hen-1696013171.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "paradox-live-the-animation",
-    "epId": "paradox-live-the-animation-episode-12",
-    "title": "Paradox Live the Animation",
-    "img": "https://gogocdn.net/cover/paradox-live-the-animation-1696011100.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kimikiss-pure-rouge-love-fighter",
-    "epId": "kimikiss-pure-rouge-love-fighter-episode-1",
-    "title": "KimiKiss Pure Rouge: Love Fighter",
-    "img": "https://gogocdn.net/cover/kimikiss-pure-rouge-love-fighter.png",
-    "episode": "Episode 1"
   }
 ]
