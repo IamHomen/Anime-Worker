@@ -1,5 +1,17 @@
 [
   {
+    "animeId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "animeTitle": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "animeImg": "'https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "School"
+    ]
+  },
+  {
     "animeId": "isekai-suicide-squad",
     "animeTitle": "Isekai Suicide Squad",
     "animeImg": "'https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png'",
@@ -18,6 +30,20 @@
     "animeUrl": "https://anitaku.so/category/gimai-seikatsu",
     "genres": [
       "Romance"
+    ]
+  },
+  {
+    "animeId": "oshi-no-ko-2nd-season",
+    "animeTitle": "",
+    "animeImg": "'https://gogocdn.net/cover/oshi-no-ko-2nd-season.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/oshi-no-ko-2nd-season",
+    "genres": [
+      "Drama",
+      "Reincarnation",
+      "Seinen",
+      "Showbiz",
+      "Supernatural"
     ]
   },
   {
@@ -66,7 +92,7 @@
     "animeId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
     "animeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
     "animeImg": "'https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png'",
-    "latestEp": "Episode 10",
+    "latestEp": "Episode 11",
     "animeUrl": "https://anitaku.so/category/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
     "genres": [
       "Action",
@@ -102,34 +128,6 @@
       "Fantasy",
       "Shounen",
       "Super Power"
-    ]
-  },
-  {
-    "animeId": "detective-conan",
-    "animeTitle": "Detective Conan",
-    "animeImg": "'https://gogocdn.net/cover/detective-conan.png'",
-    "latestEp": "Episode 1129",
-    "animeUrl": "https://anitaku.so/category/detective-conan",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Mystery",
-      "Police",
-      "Psychological",
-      "Shounen"
-    ]
-  },
-  {
-    "animeId": "kusuriya-no-hitorigoto",
-    "animeTitle": "Kusuriya no Hitorigoto",
-    "animeImg": "'https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png'",
-    "latestEp": "Episode 24",
-    "animeUrl": "https://anitaku.so/category/kusuriya-no-hitorigoto",
-    "genres": [
-      "Drama",
-      "Historical",
-      "Medical",
-      "Mystery"
     ]
   }
 ]

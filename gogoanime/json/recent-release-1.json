@@ -1,5 +1,40 @@
 [
   {
+    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
+    "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-11",
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+    "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 0"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "epId": "oshi-no-ko-2nd-season-episode-1",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-1",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-2",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-115",
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
@@ -266,13 +301,6 @@
     "episode": "Episode 61"
   },
   {
-    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
-    "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-episode-10",
-    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
-    "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "girls-band-cry",
     "epId": "girls-band-cry-episode-13",
     "title": "Girls Band Cry",
@@ -390,13 +418,6 @@
     "title": "Date A Live V",
     "img": "https://gogocdn.net/cover/date-a-live-v.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-1",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 1"
   },
   {
     "id": "kaii-to-otome-to-kamikakushi",
@@ -2777,26 +2798,5 @@
     "title": "16bit Sensation: Another Layer",
     "img": "https://gogocdn.net/cover/16bit-sensation-1696006261.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "uma-musume-pretty-derby-season-3",
-    "epId": "uma-musume-pretty-derby-season-3-episode-13",
-    "title": "Uma Musume: Pretty Derby Season 3",
-    "img": "https://gogocdn.net/cover/uma-musume-pretty-derby-season-3-1696013218.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "captain-tsubasa-sekai-daikessen-jr-world-cup",
-    "epId": "captain-tsubasa-sekai-daikessen-jr-world-cup-episode-1",
-    "title": "Captain Tsubasa: Sekai Daikessen!! Jr. World Cup",
-    "img": "https://gogocdn.net/cover/captain-tsubasa-sekai-daikessen-jr-world-cup.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "captain-tsubasa-asu-ni-mukatte-hashire",
-    "epId": "captain-tsubasa-asu-ni-mukatte-hashire-episode-1",
-    "title": "Captain Tsubasa: Asu ni Mukatte Hashire!",
-    "img": "https://gogocdn.net/cover/captain-tsubasa-asu-ni-mukatte-hashire.png",
-    "episode": "Episode 1"
   }
 ]
