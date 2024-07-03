@@ -1,5 +1,12 @@
 [
   {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-14",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 14"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub-episode-11",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
@@ -236,13 +243,6 @@
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. (Dub)",
     "img": "https://gogocdn.net/cover/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-13",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 13"
   },
   {
     "id": "kimitachi-wa-dou-ikiru-ka-dub",

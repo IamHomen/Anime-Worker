@@ -1,5 +1,19 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-1",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "boukyaku-battery-tv",
+    "epId": "boukyaku-battery-tv-episode-12",
+    "title": "Boukyaku Battery (TV)",
+    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "touch-3-kimi-ga-toorisugita-ato-ni-dont-pass-me-by",
     "epId": "touch-3-kimi-ga-toorisugita-ato-ni-dont-pass-me-by-episode-1",
     "title": "Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By",
@@ -404,13 +418,6 @@
     "title": "Shinkalion: Change the World",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "boukyaku-battery-tv",
-    "epId": "boukyaku-battery-tv-episode-11",
-    "title": "Boukyaku Battery (TV)",
-    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 11"
   },
   {
     "id": "rinkai",
@@ -2790,13 +2797,6 @@
     "epId": "captain-tsubasa-europe-daikessen-episode-1",
     "title": "Captain Tsubasa: Europe Daikessen",
     "img": "https://gogocdn.net/cover/captain-tsubasa-europe-daikessen.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "jashin-chan-dropkick-seikimatsu-hen",
-    "epId": "jashin-chan-dropkick-seikimatsu-hen-episode-1",
-    "title": "Jashin-chan Dropkick ",
-    "img": "https://gogocdn.net/cover/jashin-chan-dropkick-seikimatsu-hen-1703681432.png",
     "episode": "Episode 1"
   }
 ]

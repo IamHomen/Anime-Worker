@@ -2,7 +2,7 @@
   "animeTitle": "Boukyaku Battery (TV)",
   "type": "Spring 2024 Anime",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "School",
     "Shounen",
@@ -12,8 +12,12 @@
   "otherNames": "\u5fd8\u5374\u30d0\u30c3\u30c6\u30ea\u30fc, Oblivion Battery",
   "synopsis": "Boukyaku Battery is a story about a famous baseball battery consisting of the genius pitcher Kiyomine Haruka and skilled catcher Kaname Kei who was also known as the \"General\". During their senior league days, they were talented enough to not only win, but also crush the hopes and dreams of many junior high school players that they played against. However, Kaname lost his memory and the two entered Kotesashi High School, a no-name public high school. In the same school, they meet several talented players who had quitted baseball after playing against them in junior high. This is a story of their coming together in a newly established baseball club, to play baseball again.",
   "animeImg": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-  "totalEpisodes": "11",
+  "totalEpisodes": "12",
   "episodesList": [
+    {
+      "episodeId": "boukyaku-battery-tv-episode-12",
+      "episodeNum": "Episode 12"
+    },
     {
       "episodeId": "boukyaku-battery-tv-episode-11",
       "episodeNum": "Episode 11"
