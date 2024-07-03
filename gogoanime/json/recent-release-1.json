@@ -1,5 +1,19 @@
 [
   {
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-115",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 115"
+  },
+  {
+    "id": "manga-sekai-mukashibanashi",
+    "epId": "manga-sekai-mukashibanashi-episode-18",
+    "title": "Manga Sekai Mukashibanashi",
+    "img": "https://gogocdn.net/cover/manga-sekai-mukashibanashi.png",
+    "episode": "Episode 18"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-1",
     "title": "Tasuuketsu",
@@ -432,13 +446,6 @@
     "title": "Unnamed Memory",
     "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "yugioh-go-rush",
-    "epId": "yugioh-go-rush-episode-114",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 114"
   },
   {
     "id": "kimitachi-wa-dou-ikiru-ka",
@@ -2790,13 +2797,6 @@
     "epId": "captain-tsubasa-asu-ni-mukatte-hashire-episode-1",
     "title": "Captain Tsubasa: Asu ni Mukatte Hashire!",
     "img": "https://gogocdn.net/cover/captain-tsubasa-asu-ni-mukatte-hashire.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "captain-tsubasa-europe-daikessen",
-    "epId": "captain-tsubasa-europe-daikessen-episode-1",
-    "title": "Captain Tsubasa: Europe Daikessen",
-    "img": "https://gogocdn.net/cover/captain-tsubasa-europe-daikessen.png",
     "episode": "Episode 1"
   }
 ]
