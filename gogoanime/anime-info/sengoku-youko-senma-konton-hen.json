@@ -15,5 +15,10 @@
   "synopsis": "Second part of Sengoku Youko.",
   "animeImg": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
   "totalEpisodes": "0",
-  "episodesList": []
+  "episodesList": [
+    {
+      "episodeId": "sengoku-youko-senma-konton-hen",
+      "episodeNum": "Episode 0"
+    }
+  ]
 }
