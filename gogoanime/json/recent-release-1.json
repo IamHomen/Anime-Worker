@@ -1,5 +1,19 @@
 [
   {
+    "id": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round",
+    "epId": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round-episode-1",
+    "title": "Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round",
+    "img": "https://gogocdn.net/cover/marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "isekai-suicide-squad",
+    "epId": "isekai-suicide-squad-episode-4",
+    "title": "Isekai Suicide Squad",
+    "img": "https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "himitsu-no-aipri",
     "epId": "himitsu-no-aipri-episode-13",
     "title": "Himitsu no AiPri",
@@ -404,13 +418,6 @@
     "title": "Jantama Kan!!",
     "img": "https://gogocdn.net/cover/jantama-kan.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "isekai-suicide-squad",
-    "epId": "isekai-suicide-squad-episode-3",
-    "title": "Isekai Suicide Squad",
-    "img": "https://gogocdn.net/cover/isekai-suicide-squad.png",
-    "episode": "Episode 3"
   },
   {
     "id": "kenka-dokugaku",
@@ -2791,12 +2798,5 @@
     "title": "Pokemon Concierge",
     "img": "https://gogocdn.net/cover/pokemon-concierge.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "16bit-sensation-another-layer",
-    "epId": "16bit-sensation-another-layer-episode-13",
-    "title": "16bit Sensation: Another Layer",
-    "img": "https://gogocdn.net/cover/16bit-sensation-1696006261.png",
-    "episode": "Episode 13"
   }
 ]
