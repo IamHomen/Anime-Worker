@@ -1,5 +1,33 @@
 [
   {
+    "id": "date-a-live-v-dub",
+    "epId": "date-a-live-v-dub-episode-11",
+    "title": "Date A Live V (Dub)",
+    "img": "https://gogocdn.net/cover/date-a-live-v-dub.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "shijou-saikyou-no-deshi-kenichi-ova-dub",
+    "epId": "shijou-saikyou-no-deshi-kenichi-ova-dub-episode-11",
+    "title": "Shijou Saikyou no Deshi Kenichi OVA (Dub)",
+    "img": "https://gogocdn.net/cover/shijou-saikyou-no-deshi-kenichi-ova-dub.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "kenka-dokugaku-dub",
+    "epId": "kenka-dokugaku-dub-episode-11",
+    "title": "Kenka Dokugaku (Dub)",
+    "img": "https://gogocdn.net/cover/kenka-dokugaku-dub.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub",
+    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub-episode-11",
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 (Dub)",
+    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-dub.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "helck-dub",
     "epId": "helck-dub-episode-14",
     "title": "Helck (Dub)",
@@ -215,27 +243,6 @@
     "title": "Natsume Yuujinchou Go (Dub)",
     "img": "https://gogocdn.net/cover/natsume-yuujinchou-go-dub.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "date-a-live-v-dub",
-    "epId": "date-a-live-v-dub-episode-10",
-    "title": "Date A Live V (Dub)",
-    "img": "https://gogocdn.net/cover/date-a-live-v-dub.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "kenka-dokugaku-dub",
-    "epId": "kenka-dokugaku-dub-episode-10",
-    "title": "Kenka Dokugaku (Dub)",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku-dub.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub",
-    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-dub-episode-10",
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 (Dub)",
-    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-dub.png",
-    "episode": "Episode 10"
   },
   {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-dub",
@@ -2791,12 +2798,5 @@
     "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen (Dub)",
     "img": "https://gogocdn.net/cover/chuukou-ikkan-kimetsu-gakuen-monogatari-valentine-hen-dub.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen-dub",
-    "epId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen-dub-episode-3",
-    "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen (Dub)",
-    "img": "https://gogocdn.net/cover/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen-dub.png",
-    "episode": "Episode 3"
   }
 ]
