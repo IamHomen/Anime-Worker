@@ -12,6 +12,31 @@
     ]
   },
   {
+    "animeId": "shikanoko-nokonoko-koshitantan",
+    "animeTitle": "Shikanoko Nokonoko Koshitantan",
+    "animeImg": "'https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/shikanoko-nokonoko-koshitantan",
+    "genres": [
+      "Comedy",
+      "Gag Humor",
+      "School",
+      "Shounen"
+    ]
+  },
+  {
+    "animeId": "nierautomata-ver1-1a-part-2",
+    "animeTitle": "NieR:Automata Ver1.1a Part 2",
+    "animeImg": "'https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/nierautomata-ver1-1a-part-2",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ]
+  },
+  {
     "animeId": "isekai-suicide-squad",
     "animeTitle": "Isekai Suicide Squad",
     "animeImg": "'https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png'",
@@ -45,6 +70,20 @@
     ]
   },
   {
+    "animeId": "2-5-jigen-no-ririsa",
+    "animeTitle": "2.5-jigen no Ririsa",
+    "animeImg": "'https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/2-5-jigen-no-ririsa",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Harem",
+      "School",
+      "Shounen"
+    ]
+  },
+  {
     "animeId": "oshi-no-ko-2nd-season",
     "animeTitle": "",
     "animeImg": "'https://gogocdn.net/cover/oshi-no-ko-2nd-season.png'",
@@ -62,7 +101,7 @@
     "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
     "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
     "animeImg": "'https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png'",
-    "latestEp": "Episode 13",
+    "latestEp": "Episode 14",
     "animeUrl": "https://anitaku.so/category/tensei-shitara-slime-datta-ken-3rd-season",
     "genres": [
       "Action",
@@ -84,47 +123,6 @@
       "Romance",
       "School",
       "Yuri"
-    ]
-  },
-  {
-    "animeId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
-    "animeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "animeImg": "'https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png'",
-    "latestEp": "Episode 14",
-    "animeUrl": "https://anitaku.so/category/ookami-to-koushinryou-merchant-meets-the-wise-wolf",
-    "genres": [
-      "Adult Cast",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ]
-  },
-  {
-    "animeId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
-    "animeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
-    "animeImg": "'https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png'",
-    "latestEp": "Episode 11",
-    "animeUrl": "https://anitaku.so/category/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Mythology",
-      "Reincarnation",
-      "School"
-    ]
-  },
-  {
-    "animeId": "boku-no-hero-academia-7th-season",
-    "animeTitle": "Boku no Hero Academia 7th Season",
-    "animeImg": "'https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png'",
-    "latestEp": "Episode 9",
-    "animeUrl": "https://anitaku.so/category/boku-no-hero-academia-7th-season",
-    "genres": [
-      "Action",
-      "School",
-      "Shounen",
-      "Super Power"
     ]
   }
 ]

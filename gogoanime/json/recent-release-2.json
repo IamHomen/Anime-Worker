@@ -1,5 +1,12 @@
 [
   {
+    "id": "nerawareta-gakuen-dub",
+    "epId": "nerawareta-gakuen-dub-episode-1",
+    "title": "Nerawareta Gakuen (Dub)",
+    "img": "https://gogocdn.net/cover/nerawareta-gakuen-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "code-geass-dakkan-no-roze-dub",
     "epId": "code-geass-dakkan-no-roze-dub-episode-3",
     "title": "Code Geass: Dakkan no Roz\u00e9 (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Shin Chou Kyou Ryo: Condor Hero (Dub)",
     "img": "https://gogocdn.net/cover/shin-chou-kyou-ryo-condor-hero-dub.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "chuukou-ikkan-kimetsu-gakuen-monogatari-valentine-hen-dub",
-    "epId": "chuukou-ikkan-kimetsu-gakuen-monogatari-valentine-hen-dub-episode-4",
-    "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen (Dub)",
-    "img": "https://gogocdn.net/cover/chuukou-ikkan-kimetsu-gakuen-monogatari-valentine-hen-dub.png",
-    "episode": "Episode 4"
   }
 ]

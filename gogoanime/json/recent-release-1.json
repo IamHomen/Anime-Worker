@@ -1,5 +1,82 @@
 [
   {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-1",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "muu-no-hakugei",
+    "epId": "muu-no-hakugei-episode-3",
+    "title": "Muu no Hakugei",
+    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-1",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-1",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "the-snack-world-tv",
+    "epId": "the-snack-world-tv-episode-30",
+    "title": "The Snack World (TV)",
+    "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
+    "episode": "Episode 30"
+  },
+  {
+    "id": "linetown",
+    "epId": "linetown-episode-10",
+    "title": "Linetown",
+    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-1",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-14",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 14"
+  },
+  {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-62",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 62"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-1",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nyaaaanvy",
+    "epId": "nyaaaanvy-episode-6",
+    "title": "Nyaaaanvy",
+    "img": "https://gogocdn.net/cover/nyaaaanvy.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "code-geass-dakkan-no-roze",
     "epId": "code-geass-dakkan-no-roze-episode-3",
     "title": "Code Geass: Dakkan no Roz\u00e9",
@@ -350,13 +427,6 @@
     "episode": "Episode 52"
   },
   {
-    "id": "the-snack-world-tv",
-    "epId": "the-snack-world-tv-episode-29",
-    "title": "The Snack World (TV)",
-    "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
-    "episode": "Episode 29"
-  },
-  {
     "id": "tonari-no-youkai-san",
     "epId": "tonari-no-youkai-san-episode-13",
     "title": "Tonari no Youkai-san",
@@ -434,13 +504,6 @@
     "episode": "Episode 4"
   },
   {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-61",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 61"
-  },
-  {
     "id": "girls-band-cry",
     "epId": "girls-band-cry-episode-13",
     "title": "Girls Band Cry",
@@ -453,20 +516,6 @@
     "title": "Mahouka Koukou no Rettousei 3rd Season",
     "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-13",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "nyaaaanvy",
-    "epId": "nyaaaanvy-episode-5",
-    "title": "Nyaaaanvy",
-    "img": "https://gogocdn.net/cover/nyaaaanvy.png",
-    "episode": "Episode 5"
   },
   {
     "id": "akuma-kun",
@@ -593,13 +642,6 @@
     "title": "Tondemo Senshi Muteking",
     "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "linetown",
-    "epId": "linetown-episode-8",
-    "title": "Linetown",
-    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
-    "episode": "Episode 8"
   },
   {
     "id": "blue-archive-the-animation",
@@ -936,13 +978,6 @@
     "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
     "img": "https://gogocdn.net/cover/mai-hime-kuro-no-maisaigo-no-bansan.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "muu-no-hakugei",
-    "epId": "muu-no-hakugei-episode-2",
-    "title": "Muu no Hakugei",
-    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
-    "episode": "Episode 2"
   },
   {
     "id": "hanma-baki-vs-kengan-ashura",
@@ -2763,40 +2798,5 @@
     "title": "Tenjin",
     "img": "https://gogocdn.net/cover/tenjin.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "bari-bari-densetsu",
-    "epId": "bari-bari-densetsu-episode-2",
-    "title": "Bari Bari Densetsu",
-    "img": "https://gogocdn.net/cover/bari-bari-densetsu.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "boku-no-kokoro-no-yabai-yatsu-twi-yaba",
-    "epId": "boku-no-kokoro-no-yabai-yatsu-twi-yaba-episode-1",
-    "title": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
-    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-twi-yaba.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kasumin",
-    "epId": "kasumin-episode-26",
-    "title": "Kasumin",
-    "img": "https://gogocdn.net/cover/kasumin.png",
-    "episode": "Episode 26"
-  },
-  {
-    "id": "deluxe-da-yo-kaishain",
-    "epId": "deluxe-da-yo-kaishain-episode-25",
-    "title": "Deluxe da yo! Kaishain",
-    "img": "https://gogocdn.net/cover/deluxe-da-yo-kaishain.png",
-    "episode": "Episode 25"
-  },
-  {
-    "id": "eternal-boys-next-stage",
-    "epId": "eternal-boys-next-stage-episode-2",
-    "title": "Eternal Boys Next Stage",
-    "img": "https://gogocdn.net/cover/eternal-boys-next-stage.png",
-    "episode": "Episode 2"
   }
 ]
