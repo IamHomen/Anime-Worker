@@ -1,5 +1,26 @@
 [
   {
+    "id": "kyou-no-5-no-2-tv-takarabako",
+    "epId": "kyou-no-5-no-2-tv-takarabako-episode-1",
+    "title": "Kyou no 5 no 2 (TV): Takarabako",
+    "img": "https://gogocdn.net/cover/kyou-no-5-no-2-tv-takarabako.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kyou-no-5-no-2-kagai-jugyou-mizukake",
+    "epId": "kyou-no-5-no-2-kagai-jugyou-mizukake-episode-1",
+    "title": "Kyou no 5 no 2 Kagai Jugyou: Mizukake",
+    "img": "https://gogocdn.net/cover/kyou-no-5-no-2-kagai-jugyou-mizukake.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "senpai-wa-otokonoko",
+    "epId": "senpai-wa-otokonoko-episode-1",
+    "title": "Senpai wa Otokonoko",
+    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "megami-no-cafe-terrace-2nd-season",
     "epId": "megami-no-cafe-terrace-2nd-season-episode-1",
     "title": "Megami no Caf\u00e9 Terrace 2nd Season",
@@ -560,13 +581,6 @@
     "episode": "Episode 13"
   },
   {
-    "id": "kami-wa-game-ni-ueteiru",
-    "epId": "kami-wa-game-ni-ueteiru-episode-13",
-    "title": "Kami wa Game ni Ueteiru.",
-    "img": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
-    "episode": "Episode 13"
-  },
-  {
     "id": "bosanimal",
     "epId": "bosanimal-episode-91-96-episode-10",
     "title": "Bosanimal Episode 91-96",
@@ -698,6 +712,13 @@
     "title": "Yuru Camp\u25b3 Season 3",
     "img": "https://gogocdn.net/cover/yuru-camp-season-3-1711740773.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "time-bokan-series-gyakuten-ippatsuman",
+    "epId": "time-bokan-series-gyakuten-ippatsuman-episode-30",
+    "title": "Time Bokan Series: Gyakuten Ippatsuman",
+    "img": "https://gogocdn.net/cover/time-bokan-series-gyakuten-ippatsuman.png",
+    "episode": "Episode 30"
   },
   {
     "id": "bartender-kami-no-glass",
@@ -1391,13 +1412,6 @@
     "title": "Iwa Kakeru!: Sport Climbing Girls",
     "img": "https://gogocdn.net/cover/iwa-kakeru-sport-climbing-girls.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "atashinchi",
-    "epId": "atashinchi-episode-368",
-    "title": "Atashin'chi",
-    "img": "https://gogocdn.net/cover/atashinchi.png",
-    "episode": "Episode 368"
   },
   {
     "id": "atashinchi",
@@ -2536,7 +2550,7 @@
   {
     "id": "fatekaleid-liner-prismaillya-prismaphantasm",
     "epId": "fatekaleid-liner-prismaillya-prismaphantasm-episode-1",
-    "title": "Fate/kaleid liner Prisma\u014c\u015b\u00e5Illya: Prisma\u014c\u015b\u00e5Phantasm",
+    "title": "Fate/kaleid liner Prisma\u2606Illya: Prisma\u2606Phantasm",
     "img": "https://gogocdn.net/cover/fatekaleid-liner-prismaillya-prismaphantasm.png",
     "episode": "Episode 1"
   },
@@ -2620,7 +2634,7 @@
   {
     "id": "odekake-kozame-chiba-ken-kuro-ajillo",
     "epId": "odekake-kozame-chiba-ken-kuro-ajillo-episode-1",
-    "title": "Odekake Kozame \u251c\u015a Chiba-ken Kuro Ajillo",
+    "title": "Odekake Kozame \u00d7 Chiba-ken Kuro Ajillo",
     "img": "https://gogocdn.net/cover/odekake-kozame-chiba-ken-kuro-ajillo.png",
     "episode": "Episode 1"
   },
@@ -2784,19 +2798,5 @@
     "title": "Eternal Boys Next Stage",
     "img": "https://gogocdn.net/cover/eternal-boys-next-stage.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "hikikomari-kyuuketsuki-no-monmon",
-    "epId": "hikikomari-kyuuketsuki-no-monmon-episode-12",
-    "title": "Hikikomari Kyuuketsuki no Monmon",
-    "img": "https://gogocdn.net/cover/hikikomari-kyuuketsuki-no-monmon-1696007713.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "pokemon-side-stories",
-    "epId": "pokemon-side-stories-episode-16",
-    "title": "Pokemon Side Stories",
-    "img": "https://gogocdn.net/cover/pokemon-side-stories.png",
-    "episode": "Episode 16"
   }
 ]

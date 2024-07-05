@@ -2,7 +2,7 @@
   "animeTitle": "Yuru Camp\u25b3 Season 3 (Dub)",
   "type": "Spring 2024 Anime",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "CGDCT",
     "Iyashikei",
@@ -11,8 +11,12 @@
   "otherNames": "Laid-Back Camp Season 3; Yuru Camp 3rd Season ; \u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON3",
   "synopsis": "The third season of Yuru Camp\u25b3.",
   "animeImg": "https://gogocdn.net/cover/yuru-camp-season-3-dub.png",
-  "totalEpisodes": "11",
+  "totalEpisodes": "12",
   "episodesList": [
+    {
+      "episodeId": "yuru-camp-season-3-dub-episode-12",
+      "episodeNum": "Episode 12"
+    },
     {
       "episodeId": "yuru-camp-season-3-dub-episode-11",
       "episodeNum": "Episode 11"
