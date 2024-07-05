@@ -9,8 +9,12 @@
   "otherNames": "\u30cb\u30e3\u30f3\u30d3\u30fc",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/nyaaaanvy.png",
-  "totalEpisodes": "5",
+  "totalEpisodes": "6",
   "episodesList": [
+    {
+      "episodeId": "nyaaaanvy-episode-6",
+      "episodeNum": "Episode 6"
+    },
     {
       "episodeId": "nyaaaanvy-episode-5",
       "episodeNum": "Episode 5"

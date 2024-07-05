@@ -1,17 +1,17 @@
 [
   {
+    "id": "code-geass-dakkan-no-roze",
+    "epId": "code-geass-dakkan-no-roze-episode-3",
+    "title": "Code Geass: Dakkan no Roz\u00e9",
+    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "ninjala",
     "epId": "ninjala-episode-124",
     "title": "Ninjala",
     "img": "https://gogocdn.net/cover/ninjala.png",
     "episode": "Episode 124"
-  },
-  {
-    "id": "dead-dead-demons-dededede-destruction-dub",
-    "epId": "dead-dead-demons-dededede-destruction-dub-episode-6",
-    "title": "Dead Dead Demons Dededede Destruction (Dub)",
-    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction-dub.png",
-    "episode": "Episode 6"
   },
   {
     "id": "dead-dead-demons-dededede-destruction",
@@ -467,13 +467,6 @@
     "title": "Nyaaaanvy",
     "img": "https://gogocdn.net/cover/nyaaaanvy.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "code-geass-dakkan-no-roze",
-    "epId": "code-geass-dakkan-no-roze-episode-2",
-    "title": "Code Geass: Dakkan no Roz\u00e9",
-    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
-    "episode": "Episode 2"
   },
   {
     "id": "akuma-kun",
@@ -2798,5 +2791,12 @@
     "title": "Deluxe da yo! Kaishain",
     "img": "https://gogocdn.net/cover/deluxe-da-yo-kaishain.png",
     "episode": "Episode 25"
+  },
+  {
+    "id": "eternal-boys-next-stage",
+    "epId": "eternal-boys-next-stage-episode-2",
+    "title": "Eternal Boys Next Stage",
+    "img": "https://gogocdn.net/cover/eternal-boys-next-stage.png",
+    "episode": "Episode 2"
   }
 ]
