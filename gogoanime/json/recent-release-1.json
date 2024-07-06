@@ -1,5 +1,33 @@
 [
   {
+    "id": "shadowverse-flame-arc-hen",
+    "epId": "shadowverse-flame-arc-hen-episode-12",
+    "title": "Shadowverse Flame: Arc-hen",
+    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "getter-robo-go",
+    "epId": "getter-robo-go-episode-29",
+    "title": "Getter Robo Go",
+    "img": "https://gogocdn.net/cover/getter-robo-go.png",
+    "episode": "Episode 29"
+  },
+  {
+    "id": "mahouka-koukou-no-rettousei-3rd-season-dub",
+    "epId": "mahouka-koukou-no-rettousei-3rd-season-dub-episode-8",
+    "title": "Mahouka Koukou no Rettousei 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season-dub.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "cardfight-vanguard-divinez-season-2",
+    "epId": "cardfight-vanguard-divinez-season-2-episode-1",
+    "title": "Cardfight!! Vanguard: Divinez Season 2",
+    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "grendizer-u",
     "epId": "grendizer-u-episode-1",
     "title": "Grendizer U",
@@ -271,13 +299,6 @@
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 115"
-  },
-  {
-    "id": "manga-sekai-mukashibanashi",
-    "epId": "manga-sekai-mukashibanashi-episode-18",
-    "title": "Manga Sekai Mukashibanashi",
-    "img": "https://gogocdn.net/cover/manga-sekai-mukashibanashi.png",
-    "episode": "Episode 18"
   },
   {
     "id": "manga-sekai-mukashibanashi",
@@ -714,13 +735,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "shadowverse-flame-arc-hen",
-    "epId": "shadowverse-flame-arc-hen-episode-11",
-    "title": "Shadowverse Flame: Arc-hen",
-    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "highspeed-etoile",
     "epId": "highspeed-etoile-episode-12",
     "title": "Highspeed Etoile",
@@ -838,6 +852,13 @@
     "title": "To Heart 2 AD",
     "img": "https://gogocdn.net/cover/to-heart-2-ad.png",
     "episode": "Episode 2"
+  },
+  {
+    "id": "to-heart-2-ova",
+    "epId": "to-heart-2-ova-episode-3",
+    "title": "To Heart 2 OVA",
+    "img": "https://gogocdn.net/cover/to-heart-2-ova.png",
+    "episode": "Episode 3"
   },
   {
     "id": "to-heart-2-special",
@@ -971,13 +992,6 @@
     "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
     "img": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "super-dragon-ball-heroes-meteor-mission",
-    "epId": "super-dragon-ball-heroes-meteor-mission-episode-5",
-    "title": "Super Dragon Ball Heroes Meteor Mission",
-    "img": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
-    "episode": "Episode 5"
   },
   {
     "id": "super-dragon-ball-heroes-meteor-mission",
@@ -1832,13 +1846,6 @@
     "title": "Otokogi",
     "img": "https://gogocdn.net/cover/otokogi.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "getter-robo-go",
-    "epId": "getter-robo-go-episode-27",
-    "title": "Getter Robo Go",
-    "img": "https://gogocdn.net/cover/getter-robo-go.png",
-    "episode": "Episode 27"
   },
   {
     "id": "magnerobo-ga-keen",
@@ -2791,12 +2798,5 @@
     "title": "Wansa-kun",
     "img": "https://gogocdn.net/cover/wansa-kun.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "jashin-chan-mame-anime",
-    "epId": "jashin-chan-mame-anime-episode-30",
-    "title": "Jashin-chan Mame Anime",
-    "img": "https://gogocdn.net/cover/jashin-chan-mame-anime.png",
-    "episode": "Episode 30"
   }
 ]

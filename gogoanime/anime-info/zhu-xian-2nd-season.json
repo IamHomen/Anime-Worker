@@ -13,8 +13,12 @@
   "otherNames": "\u8bdb\u4ed9 \u7b2c\u4e8c\u5b63, Jade Dynasty",
   "synopsis": "The second season of Zhu Xian.",
   "animeImg": "https://gogocdn.net/cover/zhu-xian-2nd-season.png",
-  "totalEpisodes": "16",
+  "totalEpisodes": "17",
   "episodesList": [
+    {
+      "episodeId": "zhu-xian-2nd-season-episode-17",
+      "episodeNum": "Episode 17"
+    },
     {
       "episodeId": "zhu-xian-2nd-season-episode-16",
       "episodeNum": "Episode 16"
