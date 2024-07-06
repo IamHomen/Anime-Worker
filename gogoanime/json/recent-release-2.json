@@ -1,5 +1,12 @@
 [
   {
+    "id": "yaneura-no-rudger-dub",
+    "epId": "yaneura-no-rudger-dub-episode-1",
+    "title": "Yaneura no Rudger (Dub)",
+    "img": "https://gogocdn.net/cover/yaneura-no-rudger-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "nerawareta-gakuen-dub",
     "epId": "nerawareta-gakuen-dub-episode-1",
     "title": "Nerawareta Gakuen (Dub)",
@@ -1325,7 +1332,7 @@
   {
     "id": "onegaiteacher-dub",
     "epId": "onegaiteacher-dub-episode-13",
-    "title": "Onegai\u2606Teacher (Dub)",
+    "title": "Onegai\u014c\u015b\u00e5Teacher (Dub)",
     "img": "https://gogocdn.net/cover/onegaiteacher-dub.png",
     "episode": "Episode 13"
   },
@@ -2791,12 +2798,5 @@
     "title": "Aggressive Retsuko (ONA) 5th Season (Dub)",
     "img": "https://gogocdn.net/cover/aggressive-retsuko-ona-5th-season-dub.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "shin-chou-kyou-ryo-condor-hero-dub",
-    "epId": "shin-chou-kyou-ryo-condor-hero-dub-episode-26",
-    "title": "Shin Chou Kyou Ryo: Condor Hero (Dub)",
-    "img": "https://gogocdn.net/cover/shin-chou-kyou-ryo-condor-hero-dub.png",
-    "episode": "Episode 26"
   }
 ]

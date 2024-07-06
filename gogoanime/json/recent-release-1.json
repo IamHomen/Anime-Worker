@@ -1,5 +1,19 @@
 [
   {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-1",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "abashiri-ikka",
+    "epId": "abashiri-ikka-episode-1",
+    "title": "Abashiri Ikka",
+    "img": "https://gogocdn.net/cover/abashiri-ikka.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kono-sekai-wa-fukanzen-sugiru",
     "epId": "kono-sekai-wa-fukanzen-sugiru-episode-1",
     "title": "Kono Sekai wa Fukanzen Sugiru",
@@ -257,6 +271,13 @@
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 115"
+  },
+  {
+    "id": "manga-sekai-mukashibanashi",
+    "epId": "manga-sekai-mukashibanashi-episode-18",
+    "title": "Manga Sekai Mukashibanashi",
+    "img": "https://gogocdn.net/cover/manga-sekai-mukashibanashi.png",
+    "episode": "Episode 18"
   },
   {
     "id": "manga-sekai-mukashibanashi",
@@ -819,13 +840,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "to-heart-2-ova",
-    "epId": "to-heart-2-ova-episode-3",
-    "title": "To Heart 2 OVA",
-    "img": "https://gogocdn.net/cover/to-heart-2-ova.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "to-heart-2-special",
     "epId": "to-heart-2-special-episode-1",
     "title": "To Heart 2 Special",
@@ -957,6 +971,13 @@
     "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
     "img": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "super-dragon-ball-heroes-meteor-mission",
+    "epId": "super-dragon-ball-heroes-meteor-mission-episode-5",
+    "title": "Super Dragon Ball Heroes Meteor Mission",
+    "img": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
+    "episode": "Episode 5"
   },
   {
     "id": "super-dragon-ball-heroes-meteor-mission",
@@ -2777,26 +2798,5 @@
     "title": "Jashin-chan Mame Anime",
     "img": "https://gogocdn.net/cover/jashin-chan-mame-anime.png",
     "episode": "Episode 30"
-  },
-  {
-    "id": "mellow",
-    "epId": "mellow-episode-1",
-    "title": "Mellow",
-    "img": "https://gogocdn.net/cover/mellow.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "hi-no-tori-dougo-onsen-hen",
-    "epId": "hi-no-tori-dougo-onsen-hen-episode-3",
-    "title": "Hi no Tori ",
-    "img": "https://gogocdn.net/cover/hi-no-tori-dougo-onsen-hen.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "tenjin",
-    "epId": "tenjin-episode-1",
-    "title": "Tenjin",
-    "img": "https://gogocdn.net/cover/tenjin.png",
-    "episode": "Episode 1"
   }
 ]

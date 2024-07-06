@@ -10,8 +10,12 @@
   "otherNames": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 DivineZ",
   "synopsis": "Sixth season of Cardfight!! Vanguard: D Series.",
   "animeImg": "https://gogocdn.net/cover/cardfight-vanguard-divinez-dub.png",
-  "totalEpisodes": "10",
+  "totalEpisodes": "11",
   "episodesList": [
+    {
+      "episodeId": "cardfight-vanguard-divinez-dub-episode-11",
+      "episodeNum": "Episode 11"
+    },
     {
       "episodeId": "cardfight-vanguard-divinez-dub-episode-10",
       "episodeNum": "Episode 10"
