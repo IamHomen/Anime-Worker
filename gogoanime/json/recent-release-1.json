@@ -1,5 +1,61 @@
 [
   {
+    "id": "the-fable",
+    "epId": "the-fable-episode-14",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 14"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi",
+    "epId": "nige-jouzu-no-wakagimi-episode-1",
+    "title": "Nige Jouzu no Wakagimi",
+    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-1719516716.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tensui-no-sakuna-hime",
+    "epId": "tensui-no-sakuna-hime-episode-1",
+    "title": "Tensui no Sakuna-hime",
+    "img": "https://gogocdn.net/cover/tensui-no-sakuna-hime.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "boku-no-tsuma-wa-kanjou-ga-nai",
+    "epId": "boku-no-tsuma-wa-kanjou-ga-nai-episode-2",
+    "title": "Boku no Tsuma wa Kanjou ga Nai",
+    "img": "https://gogocdn.net/cover/boku-no-tsuma-wa-kanjou-ga-nai.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "monogatari-series-off-monster-season",
+    "epId": "monogatari-series-off-monster-season-episode-1",
+    "title": "Monogatari Series: Off & Monster Season",
+    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai",
+    "epId": "elf-san-wa-yaserarenai-episode-1",
+    "title": "Elf-san wa Yaserarenai.",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "mob-kara-hajimaru-tansaku-eiyuutan",
+    "epId": "mob-kara-hajimaru-tansaku-eiyuutan-episode-2",
+    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "img": "https://gogocdn.net/cover/mob-kara-hajimaru-tansaku-eiyuutan.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life",
+    "epId": "madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life-episode-1",
+    "title": "Madougushi Dahlia wa Utsumukanai: Kyou kara Jiyuu na Shokunin Life",
+    "img": "https://gogocdn.net/cover/madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "atashinchi-next",
     "epId": "atashinchi-next-episode-2",
     "title": "Atashin'chi NEXT",
@@ -502,20 +558,6 @@
     "title": "The New Gate",
     "img": "https://gogocdn.net/cover/the-new-gate.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-13",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "boku-no-tsuma-wa-kanjou-ga-nai",
-    "epId": "boku-no-tsuma-wa-kanjou-ga-nai-episode-1",
-    "title": "Boku no Tsuma wa Kanjou ga Nai",
-    "img": "https://gogocdn.net/cover/boku-no-tsuma-wa-kanjou-ga-nai.png",
-    "episode": "Episode 1"
   },
   {
     "id": "kaijuu-8-gou",
@@ -2756,47 +2798,5 @@
     "title": "Alice to Therese no Maboroshi Koujou",
     "img": "https://gogocdn.net/cover/alice-to-therese-no-maboroshi-koujou-1692067047.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "idol-tenshi-youkoso-youko",
-    "epId": "idol-tenshi-youkoso-youko-episode-8",
-    "title": "Idol Tenshi Youkoso Youko",
-    "img": "https://gogocdn.net/cover/idol-tenshi-youkoso-youko.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "gudetama",
-    "epId": "gudetama-episode-1013",
-    "title": "Gudetama",
-    "img": "https://gogocdn.net/cover/gudetama.png",
-    "episode": "Episode 1013"
-  },
-  {
-    "id": "mahou-no-princess-minky-momo-yume-no-naka-no-rondo",
-    "epId": "mahou-no-princess-minky-momo-yume-no-naka-no-rondo-episode-1",
-    "title": "Mahou no Princess Minky Momo: Yume no Naka no Rondo",
-    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-yume-no-naka-no-rondo.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "minky-momo-in-yume-ni-kakeru-hashi",
-    "epId": "minky-momo-in-yume-ni-kakeru-hashi-episode-1",
-    "title": "Minky Momo in Yume ni Kakeru Hashi",
-    "img": "https://gogocdn.net/cover/minky-momo-in-yume-ni-kakeru-hashi.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "1-pound-no-fukuin",
-    "epId": "1-pound-no-fukuin-episode-1",
-    "title": "1 Pound no Fukuin",
-    "img": "https://gogocdn.net/cover/1-pound-no-fukuin.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "wansa-kun",
-    "epId": "wansa-kun-episode-11",
-    "title": "Wansa-kun",
-    "img": "https://gogocdn.net/cover/wansa-kun.png",
-    "episode": "Episode 11"
   }
 ]
