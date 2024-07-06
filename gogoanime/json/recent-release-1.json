@@ -1,5 +1,26 @@
 [
   {
+    "id": "atashinchi-next",
+    "epId": "atashinchi-next-episode-2",
+    "title": "Atashin'chi NEXT",
+    "img": "https://gogocdn.net/cover/atashinchi-next.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-2",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-57",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 57"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-12",
     "title": "Shadowverse Flame: Arc-hen",
@@ -385,13 +406,6 @@
     "episode": "Episode 161"
   },
   {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-1",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-8",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
@@ -523,13 +537,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-56",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 56"
   },
   {
     "id": "ooi-tonbo",
@@ -1047,13 +1054,6 @@
     "epId": "shiyakusho-episode-1",
     "title": "Shiyakusho",
     "img": "https://gogocdn.net/cover/shiyakusho.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "atashinchi-next",
-    "epId": "atashinchi-next-episode-1",
-    "title": "Atashin'chi NEXT",
-    "img": "https://gogocdn.net/cover/atashinchi-next.png",
     "episode": "Episode 1"
   },
   {
