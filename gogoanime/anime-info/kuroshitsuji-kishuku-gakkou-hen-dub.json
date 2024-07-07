@@ -15,8 +15,12 @@
   "otherNames": "Black Butler: Public School Arc, \u9ed2\u57f7\u4e8b -\u5bc4\u5bbf\u5b66\u6821\u7de8-",
   "synopsis": "New season of Kuroshitsuji.",
   "animeImg": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen-dub.png",
-  "totalEpisodes": "10",
+  "totalEpisodes": "11",
   "episodesList": [
+    {
+      "episodeId": "kuroshitsuji-kishuku-gakkou-hen-dub-episode-11",
+      "episodeNum": "Episode 11"
+    },
     {
       "episodeId": "kuroshitsuji-kishuku-gakkou-hen-dub-episode-10",
       "episodeNum": "Episode 10"

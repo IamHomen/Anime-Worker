@@ -48,20 +48,20 @@
     "format": "TV"
   },
   {
-    "id": 20954,
-    "title": "Koe no Katachi",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-UMb6Kl7ZL8Ke.jpg",
-    "seasonYear": 2016,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 9253,
     "title": "Steins;Gate",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
     "seasonYear": 2011,
     "totalEpisode": 24,
     "format": "TV"
+  },
+  {
+    "id": 20954,
+    "title": "Koe no Katachi",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-UMb6Kl7ZL8Ke.jpg",
+    "seasonYear": 2016,
+    "totalEpisode": 1,
+    "format": "MOVIE"
   },
   {
     "id": 1535,
@@ -192,14 +192,6 @@
     "format": "TV"
   },
   {
-    "id": 104578,
-    "title": "Shingeki no Kyojin 3 Part 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 10,
-    "format": "TV"
-  },
-  {
     "id": 1575,
     "title": "Code Geass: Hangyaku no Lelouch",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-dG7vMMZMF3wk.jpg",
@@ -208,11 +200,11 @@
     "format": "TV"
   },
   {
-    "id": 124080,
-    "title": "Horimiya",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
-    "seasonYear": 2021,
-    "totalEpisode": 13,
+    "id": 104578,
+    "title": "Shingeki no Kyojin 3 Part 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 10,
     "format": "TV"
   },
   {
@@ -221,6 +213,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
     "seasonYear": 2019,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 124080,
+    "title": "Horimiya",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
+    "seasonYear": 2021,
+    "totalEpisode": 13,
     "format": "TV"
   },
   {
@@ -344,20 +344,20 @@
     "format": "TV"
   },
   {
-    "id": 120377,
-    "title": "Cyberpunk: Edgerunners",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
-    "seasonYear": 2022,
-    "totalEpisode": 10,
-    "format": "ONA"
-  },
-  {
     "id": 21450,
     "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21450-VsNSWuTsHBMR.jpg",
     "seasonYear": 2016,
     "totalEpisode": 39,
     "format": "TV"
+  },
+  {
+    "id": 120377,
+    "title": "Cyberpunk: Edgerunners",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
+    "seasonYear": 2022,
+    "totalEpisode": 10,
+    "format": "ONA"
   },
   {
     "id": 101280,
@@ -392,11 +392,11 @@
     "format": "TV"
   },
   {
-    "id": 2904,
-    "title": "Code Geass: Hangyaku no Lelouch R2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Z6DhLHr1XWEH.jpg",
-    "seasonYear": 2008,
-    "totalEpisode": 25,
+    "id": 9756,
+    "title": "Mahou Shoujo Madoka\u2606Magica",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-qnR83EYPzY1Z.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 12,
     "format": "TV"
   }
 ]
