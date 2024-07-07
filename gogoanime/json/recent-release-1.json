@@ -1,5 +1,33 @@
 [
   {
+    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-1",
+    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "na-nare-hana-nare",
+    "epId": "na-nare-hana-nare-episode-1",
+    "title": "Na Nare Hana Nare",
+    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-1",
+    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kami-no-tou-ouji-no-kikan",
+    "epId": "kami-no-tou-ouji-no-kikan-episode-1",
+    "title": "Kami no Tou: Ouji no Kikan",
+    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "chibi-maruko-chan",
     "epId": "chibi-maruko-chan-episode-1438",
     "title": "Chibi Maruko-chan",
@@ -2676,7 +2704,7 @@
   {
     "id": "fatekaleid-liner-prismaillya-prismaphantasm",
     "epId": "fatekaleid-liner-prismaillya-prismaphantasm-episode-1",
-    "title": "Fate/kaleid liner Prisma\u014c\u015b\u00e5Illya: Prisma\u014c\u015b\u00e5Phantasm",
+    "title": "Fate/kaleid liner Prisma\u2606Illya: Prisma\u2606Phantasm",
     "img": "https://gogocdn.net/cover/fatekaleid-liner-prismaillya-prismaphantasm.png",
     "episode": "Episode 1"
   },
@@ -2760,7 +2788,7 @@
   {
     "id": "odekake-kozame-chiba-ken-kuro-ajillo",
     "epId": "odekake-kozame-chiba-ken-kuro-ajillo-episode-1",
-    "title": "Odekake Kozame \u251c\u015a Chiba-ken Kuro Ajillo",
+    "title": "Odekake Kozame \u00d7 Chiba-ken Kuro Ajillo",
     "img": "https://gogocdn.net/cover/odekake-kozame-chiba-ken-kuro-ajillo.png",
     "episode": "Episode 1"
   },
@@ -2770,33 +2798,5 @@
     "title": "Mahou no Yousei Persia",
     "img": "https://gogocdn.net/cover/mahou-no-yousei-persia.png",
     "episode": "Episode 48"
-  },
-  {
-    "id": "bishoujo-senshi-sailor-moon-cosmos-movie",
-    "epId": "bishoujo-senshi-sailor-moon-cosmos-movie-episode-1",
-    "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
-    "img": "https://gogocdn.net/cover/bishoujo-senshi-sailor-moon-cosmos-movie-1705530905.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "muumin-1972",
-    "epId": "muumin-1972-episode-52",
-    "title": "Muumin (1972)",
-    "img": "https://gogocdn.net/cover/muumin-1972.png",
-    "episode": "Episode 52"
-  },
-  {
-    "id": "mewkledreamy-mix",
-    "epId": "mewkledreamy-mix-episode-37",
-    "title": "Mewkledreamy Mix!",
-    "img": "https://gogocdn.net/cover/mewkledreamy-mix.png",
-    "episode": "Episode 37"
-  },
-  {
-    "id": "morita-san-wa-mukuchi-ova",
-    "epId": "morita-san-wa-mukuchi-ova-episode-1",
-    "title": "Morita-san wa Mukuchi (OVA)",
-    "img": "https://gogocdn.net/cover/morita-san-wa-mukuchi-ova.png",
-    "episode": "Episode 1"
   }
 ]
