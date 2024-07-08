@@ -11,8 +11,12 @@
   "otherNames": "\u865a\u65e0\u8fb9\u5883",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/xuwu-bianjing.png",
-  "totalEpisodes": "12",
+  "totalEpisodes": "13",
   "episodesList": [
+    {
+      "episodeId": "xuwu-bianjing-episode-13",
+      "episodeNum": "Episode 13"
+    },
     {
       "episodeId": "xuwu-bianjing-episode-12",
       "episodeNum": "Episode 12"
