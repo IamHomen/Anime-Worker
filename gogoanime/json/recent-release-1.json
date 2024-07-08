@@ -1,5 +1,19 @@
 [
   {
+    "id": "mayonaka-punch",
+    "epId": "mayonaka-punch-episode-1",
+    "title": "Mayonaka Punch",
+    "img": "https://gogocdn.net/cover/mayonaka-punch.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-3",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-0",
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen Episode 0",
@@ -144,13 +158,6 @@
     "epId": "atashinchi-next-episode-2",
     "title": "Atashin'chi NEXT",
     "img": "https://gogocdn.net/cover/atashinchi-next.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-2",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
     "episode": "Episode 2"
   },
   {
@@ -2791,12 +2798,5 @@
     "title": "Odekake Kozame \u00d7 Chiba-ken Kuro Ajillo",
     "img": "https://gogocdn.net/cover/odekake-kozame-chiba-ken-kuro-ajillo.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "mahou-no-yousei-persia",
-    "epId": "mahou-no-yousei-persia-episode-48",
-    "title": "Mahou no Yousei Persia",
-    "img": "https://gogocdn.net/cover/mahou-no-yousei-persia.png",
-    "episode": "Episode 48"
   }
 ]
