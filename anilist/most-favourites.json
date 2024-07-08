@@ -48,20 +48,20 @@
     "format": "TV"
   },
   {
-    "id": 9253,
-    "title": "Steins;Gate",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
-    "seasonYear": 2011,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 20954,
     "title": "Koe no Katachi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-UMb6Kl7ZL8Ke.jpg",
     "seasonYear": 2016,
     "totalEpisode": 1,
     "format": "MOVIE"
+  },
+  {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 24,
+    "format": "TV"
   },
   {
     "id": 1535,
@@ -128,19 +128,19 @@
     "format": "TV"
   },
   {
-    "id": 154587,
-    "title": "Sousou no Frieren",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 28,
-    "format": "TV"
-  },
-  {
     "id": 21507,
     "title": "Mob Psycho 100",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
     "seasonYear": 2016,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 154587,
+    "title": "Sousou no Frieren",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 28,
     "format": "TV"
   },
   {
@@ -208,19 +208,19 @@
     "format": "TV"
   },
   {
-    "id": 101921,
-    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 124080,
     "title": "Horimiya",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
     "seasonYear": 2021,
     "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
+    "id": 101921,
+    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -392,11 +392,11 @@
     "format": "TV"
   },
   {
-    "id": 9756,
-    "title": "Mahou Shoujo Madoka\u2606Magica",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-qnR83EYPzY1Z.jpg",
-    "seasonYear": 2011,
-    "totalEpisode": 12,
+    "id": 2904,
+    "title": "Code Geass: Hangyaku no Lelouch R2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Z6DhLHr1XWEH.jpg",
+    "seasonYear": 2008,
+    "totalEpisode": 25,
     "format": "TV"
   }
 ]
