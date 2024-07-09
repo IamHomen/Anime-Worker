@@ -216,18 +216,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 108553,
-    "title": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 512,
     "title": "Majo no Takkyuubin",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-cHbcJH0bT0iY.png",
     "seasonYear": 1989,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 108553,
+    "title": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
+    "seasonYear": 2019,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
