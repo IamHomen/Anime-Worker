@@ -77262,6 +77262,12 @@
     "date": "2024"
   },
   {
+    "id": "egumi-legacy",
+    "title": "Egumi Legacy",
+    "img": "https://gogocdn.net/cover/egumi-legacy.png",
+    "date": "2024"
+  },
+  {
     "id": "hibike-euphonium-specials",
     "title": "Hibike! Euphonium Specials",
     "img": "https://gogocdn.net/images/upload/hibike.jpg",
@@ -80152,11 +80158,5 @@
     "title": "Muumindani no Suisei",
     "img": "https://gogocdn.net/cover/muumindani-no-suisei.png",
     "date": "1992"
-  },
-  {
-    "id": "yume-de-aetara",
-    "title": "Yume de Aetara",
-    "img": "https://gogocdn.net/cover/yume-de-aetara.png",
-    "date": "1998"
   }
 ]
