@@ -1,5 +1,12 @@
 [
   {
+    "id": "chuck-shimezou",
+    "epId": "chuck-shimezou-episode-1",
+    "title": "Chuck Shimezou",
+    "img": "https://gogocdn.net/cover/chuck-shimezou.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-2",
     "title": "Tasuuketsu",
@@ -2790,13 +2797,6 @@
     "epId": "kinnikuman-ii-sei-second-generations-episode-1",
     "title": "Kinnikuman II Sei: Second Generations",
     "img": "https://gogocdn.net/cover/kinnikuman-ii-sei-second-generations.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "pokemon-movie-15-kyurem-vs-seikenshi-keldeo",
-    "epId": "pokemon-movie-15-kyurem-vs-seikenshi-keldeo-episode-1",
-    "title": "Pokemon Movie 15: Kyurem vs. Seikenshi",
-    "img": "https://gogocdn.net/images/anime/P/pokemon-movie-15.jpg",
     "episode": "Episode 1"
   }
 ]
