@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Chuck Shimezou",
+  "type": "Movie",
+  "releasedDate": "2019",
+  "status": "Completed",
+  "genres": [
+    "Drama",
+    "Supernatural"
+  ],
+  "otherNames": "Zip! Shimezo, \u30c1\u30e3\u30c3\u30af\u30b7\u30e1\u30be\u30a6",
+  "synopsis": "A young boy and an unsuccessful zipper spirit become frustrated with their home life and decide to leave home together. The young boy's little sister tags along for the adventure, but what awaits them ahead?",
+  "animeImg": "https://gogocdn.net/cover/chuck-shimezou.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "chuck-shimezou-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

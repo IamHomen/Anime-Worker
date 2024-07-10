@@ -384,19 +384,19 @@
     "format": "TV"
   },
   {
-    "id": 101348,
-    "title": "VINLAND SAGA",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 20931,
     "title": "Death Parade",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20931-bktYqOcxPERi.jpg",
     "seasonYear": 2015,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 101348,
+    "title": "VINLAND SAGA",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 24,
     "format": "TV"
   }
 ]

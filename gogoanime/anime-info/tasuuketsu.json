@@ -13,8 +13,12 @@
   "otherNames": "Tasuketsu -Fate of the Majority-, \u591a\u6570\u6b20",
   "synopsis": "The story follows a group of five in a world where people have suddenly disappeared. A mysterious self-proclaimed \"Emperor\" gathers five people together through anonymous messages and has them participate in a game. Participants answer the question \"Do you want to live or die?\" The game has only one rule: \"Majority dies.\"",
   "animeImg": "https://gogocdn.net/cover/tasuuketsu.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "2",
   "episodesList": [
+    {
+      "episodeId": "tasuuketsu-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "tasuuketsu-episode-1",
       "episodeNum": "Episode 1"

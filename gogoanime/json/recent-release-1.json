@@ -1,5 +1,26 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-2",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "egumi-legacy",
+    "epId": "egumi-legacy-episode-1",
+    "title": "Egumi Legacy",
+    "img": "https://gogocdn.net/cover/egumi-legacy.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "isekai-shikkaku",
+    "epId": "isekai-shikkaku-episode-1",
+    "title": "Isekai Shikkaku",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-1719514036.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
     "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-1",
     "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
@@ -502,13 +523,6 @@
     "title": "Manga Sekai Mukashibanashi",
     "img": "https://gogocdn.net/cover/manga-sekai-mukashibanashi.png",
     "episode": "Episode 18"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-1",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 1"
   },
   {
     "id": "boukyaku-battery-tv",
@@ -2783,20 +2797,6 @@
     "epId": "pokemon-movie-15-kyurem-vs-seikenshi-keldeo-episode-1",
     "title": "Pokemon Movie 15: Kyurem vs. Seikenshi",
     "img": "https://gogocdn.net/images/anime/P/pokemon-movie-15.jpg",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "pokemon-movie-14-victini-to-shiroki-eiyuu-reshiram",
-    "epId": "pokemon-movie-14-victini-to-shiroki-eiyuu-reshiram-episode-1",
-    "title": "Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram",
-    "img": "https://gogocdn.net/images/anime/P/pokemon-movie-14.jpg",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "monsters-ippyaku-sanjou-hiryuu-jigoku",
-    "epId": "monsters-ippyaku-sanjou-hiryuu-jigoku-episode-1",
-    "title": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
-    "img": "https://gogocdn.net/cover/monsters-ippyaku-sanjou-hiryuu-jigoku-1705898390.png",
     "episode": "Episode 1"
   }
 ]

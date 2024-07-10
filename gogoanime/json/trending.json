@@ -62,6 +62,20 @@
     ]
   },
   {
+    "animeId": "isekai-shikkaku",
+    "animeTitle": "Isekai Shikkaku",
+    "animeImg": "'https://gogocdn.net/cover/isekai-shikkaku-1719514036.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/isekai-shikkaku",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Isekai",
+      "Parody"
+    ]
+  },
+  {
     "animeId": "gimai-seikatsu",
     "animeTitle": "Gimai Seikatsu",
     "animeImg": "'https://gogocdn.net/cover/gimai-seikatsu-1719513692.png'",
@@ -108,20 +122,6 @@
       "Harem",
       "School",
       "Shounen"
-    ]
-  },
-  {
-    "animeId": "oshi-no-ko-2nd-season",
-    "animeTitle": "",
-    "animeImg": "'https://gogocdn.net/cover/oshi-no-ko-2nd-season.png'",
-    "latestEp": "Episode 1",
-    "animeUrl": "https://anitaku.so/category/oshi-no-ko-2nd-season",
-    "genres": [
-      "Drama",
-      "Reincarnation",
-      "Seinen",
-      "Showbiz",
-      "Supernatural"
     ]
   }
 ]

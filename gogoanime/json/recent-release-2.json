@@ -1,5 +1,12 @@
 [
   {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-15",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 15"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub-episode-12",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
@@ -194,13 +201,6 @@
     "title": "Kono Subarashii Sekai ni Shukufuku wo! 3 (Dub)",
     "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-dub.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-14",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 14"
   },
   {
     "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-dub",
