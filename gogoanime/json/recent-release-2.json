@@ -1,12 +1,5 @@
 [
   {
-    "id": "hoshi-no-koe-dub",
-    "epId": "hoshi-no-koe-dub-episode-2",
-    "title": "Hoshi no Koe (Dub)",
-    "img": "https://gogocdn.net/cover/hoshi-no-koe-dub.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "natsume-yuujinchou-go-dub",
     "epId": "natsume-yuujinchou-go-dub-episode-10",
     "title": "Natsume Yuujinchou Go (Dub)",
@@ -2798,5 +2791,12 @@
     "title": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to (Dub)",
     "img": "https://gogocdn.net/cover/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to-dub.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "bakugan-legends-dub",
+    "epId": "bakugan-legends-dub-episode-13",
+    "title": "Bakugan: Legends (Dub)",
+    "img": "https://gogocdn.net/cover/bakugan-legends-dub.png",
+    "episode": "Episode 13"
   }
 ]
