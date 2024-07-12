@@ -1,5 +1,33 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-39",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 39"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-13",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "dead-dead-demons-dededede-destruction",
+    "epId": "dead-dead-demons-dededede-destruction-episode-7",
+    "title": "Dead Dead Demons Dededede Destruction",
+    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "shinkalion-change-the-world-ushinawareta-kioku",
+    "epId": "shinkalion-change-the-world-ushinawareta-kioku-episode-1",
+    "title": "Shinkalion: Change the World - Ushinawareta Kioku",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world-ushinawareta-kioku.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "jantama-kan",
     "epId": "jantama-kan-episode-12",
     "title": "Jantama Kan!!",
@@ -469,13 +497,6 @@
     "episode": "Episode 124"
   },
   {
-    "id": "dead-dead-demons-dededede-destruction",
-    "epId": "dead-dead-demons-dededede-destruction-episode-6",
-    "title": "Dead Dead Demons Dededede Destruction",
-    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "kyou-no-5-no-2-tv-takarabako",
     "epId": "kyou-no-5-no-2-tv-takarabako-episode-1",
     "title": "Kyou no 5 no 2 (TV): Takarabako",
@@ -488,20 +509,6 @@
     "title": "Kyou no 5 no 2 Kagai Jugyou: Mizukake",
     "img": "https://gogocdn.net/cover/kyou-no-5-no-2-kagai-jugyou-mizukake.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-38",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 38"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-11",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 11"
   },
   {
     "id": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round",
@@ -2790,13 +2797,6 @@
     "epId": "munto-toki-no-kabe-wo-koete-episode-1",
     "title": "Munto: Toki no Kabe wo Koete",
     "img": "https://gogocdn.net/cover/munto-toki-no-kabe-wo-koete.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "munto",
-    "epId": "munto-episode-1",
-    "title": "Munto",
-    "img": "https://gogocdn.net/cover/munto.png",
     "episode": "Episode 1"
   }
 ]
