@@ -1,0 +1,21 @@
+{
+  "animeTitle": "Lily C.A.T.",
+  "type": "Movie",
+  "releasedDate": "1987",
+  "status": "Completed",
+  "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Space"
+  ],
+  "otherNames": "Lily Cat",
+  "synopsis": "In the age of space colonization, different corporations eagerly claim planets for their own. One such corporation, Syncam, sponsors a crew of seasoned shipmen and fresh-faced recruits to remain in stasis for 20 years until they reach their destination. When they wake, however, they receive a message that two crew members are criminals using assumed identities. Now forced to investigate one another, crew members begin disappearing and dying in strange ways. As their numbers continue to dwindle, the remaining crew is forced to wonder just who\u2014or what\u2014is on their ship.",
+  "animeImg": "https://gogocdn.net/cover/lily-c-a-t.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "lily-c-a-t-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

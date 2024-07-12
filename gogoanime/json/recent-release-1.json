@@ -1,5 +1,47 @@
 [
   {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-2",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-2",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "lily-c-a-t",
+    "epId": "lily-c-a-t-episode-1",
+    "title": "Lily C.A.T.",
+    "img": "https://gogocdn.net/cover/lily-c-a-t.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-2",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "bye-bye-earth",
+    "epId": "bye-bye-earth-episode-1",
+    "title": "Bye Bye, Earth",
+    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-2",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "code-geass-dakkan-no-roze",
     "epId": "code-geass-dakkan-no-roze-episode-4",
     "title": "Code Geass: Dakkan no Roz\u00e9",
@@ -427,25 +469,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-1",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "muu-no-hakugei",
     "epId": "muu-no-hakugei-episode-3",
     "title": "Muu no Hakugei",
     "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-1",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 1"
   },
   {
     "id": "the-snack-world-tv",
@@ -462,25 +490,11 @@
     "episode": "Episode 10"
   },
   {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-1",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "tensei-shitara-slime-datta-ken-3rd-season",
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-14",
     "title": "Tensei shitara Slime Datta Ken 3rd Season",
     "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-1",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 1"
   },
   {
     "id": "nyaaaanvy",
@@ -2783,20 +2797,6 @@
     "epId": "baa-cha-no-kingyo-episode-1",
     "title": "Baa-cha no Kingyo",
     "img": "https://gogocdn.net/cover/baa-cha-no-kingyo.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "precure-all-stars-movie-f",
-    "epId": "precure-all-stars-movie-f-episode-1",
-    "title": "Precure All Stars Movie F",
-    "img": "https://gogocdn.net/cover/precure-all-stars-movie-f.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "munto-toki-no-kabe-wo-koete",
-    "epId": "munto-toki-no-kabe-wo-koete-episode-1",
-    "title": "Munto: Toki no Kabe wo Koete",
-    "img": "https://gogocdn.net/cover/munto-toki-no-kabe-wo-koete.png",
     "episode": "Episode 1"
   }
 ]
