@@ -11,8 +11,12 @@
   "otherNames": "WIND BREAKER",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/wind-breaker-dub.png",
-  "totalEpisodes": "12",
+  "totalEpisodes": "13",
   "episodesList": [
+    {
+      "episodeId": "wind-breaker-dub-episode-13",
+      "episodeNum": "Episode 13"
+    },
     {
       "episodeId": "wind-breaker-dub-episode-12",
       "episodeNum": "Episode 12"

@@ -1,5 +1,19 @@
 [
   {
+    "id": "jantama-kan",
+    "epId": "jantama-kan-episode-12",
+    "title": "Jantama Kan!!",
+    "img": "https://gogocdn.net/cover/jantama-kan.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "senpai-wa-otokonoko",
+    "epId": "senpai-wa-otokonoko-episode-2",
+    "title": "Senpai wa Otokonoko",
+    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-100",
     "title": "Chiikawa",
@@ -476,13 +490,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "senpai-wa-otokonoko",
-    "epId": "senpai-wa-otokonoko-episode-1",
-    "title": "Senpai wa Otokonoko",
-    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-38",
     "title": "Beyblade X",
@@ -494,13 +501,6 @@
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-11",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-11",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
     "episode": "Episode 11"
   },
   {
