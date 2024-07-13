@@ -1,5 +1,33 @@
 [
   {
+    "id": "monogatari-series-off-monster-season",
+    "epId": "monogatari-series-off-monster-season-episode-2",
+    "title": "Monogatari Series: Off & Monster Season",
+    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "mob-kara-hajimaru-tansaku-eiyuutan",
+    "epId": "mob-kara-hajimaru-tansaku-eiyuutan-episode-3",
+    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "img": "https://gogocdn.net/cover/mob-kara-hajimaru-tansaku-eiyuutan.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "madougushi-dahliya-wa-utsumukanai",
+    "epId": "madougushi-dahliya-wa-utsumukanai-episode-2",
+    "title": "Madougushi Dahliya wa Utsumukanai",
+    "img": "https://gogocdn.net/cover/madougushi-dahliya-wa-utsumukanai.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-10",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-58",
     "title": "Pokemon (Shinsaku Anime)",
@@ -252,13 +280,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "egumi-legacy",
-    "epId": "egumi-legacy-episode-1",
-    "title": "Egumi Legacy",
-    "img": "https://gogocdn.net/cover/egumi-legacy.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "isekai-shikkaku",
     "epId": "isekai-shikkaku-episode-1",
     "title": "Isekai Shikkaku",
@@ -399,6 +420,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "shoushimin-series",
+    "epId": "shoushimin-series-episode-1",
+    "title": "Shoushimin Series",
+    "img": "https://gogocdn.net/cover/shoushimin-series.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "the-fable",
     "epId": "the-fable-episode-14",
     "title": "The Fable",
@@ -427,31 +455,10 @@
     "episode": "Episode 2"
   },
   {
-    "id": "monogatari-series-off-monster-season",
-    "epId": "monogatari-series-off-monster-season-episode-1",
-    "title": "Monogatari Series: Off & Monster Season",
-    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "elf-san-wa-yaserarenai",
     "epId": "elf-san-wa-yaserarenai-episode-1",
     "title": "Elf-san wa Yaserarenai.",
     "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "mob-kara-hajimaru-tansaku-eiyuutan",
-    "epId": "mob-kara-hajimaru-tansaku-eiyuutan-episode-2",
-    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-    "img": "https://gogocdn.net/cover/mob-kara-hajimaru-tansaku-eiyuutan.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life",
-    "epId": "madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life-episode-1",
-    "title": "Madougushi Dahliya wa Utsumukanai",
-    "img": "https://gogocdn.net/cover/madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life.png",
     "episode": "Episode 1"
   },
   {
@@ -705,13 +712,6 @@
     "title": "Detective Conan",
     "img": "https://gogocdn.net/cover/detective-conan.png",
     "episode": "Episode 1129"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-9",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 9"
   },
   {
     "id": "ooi-tonbo",

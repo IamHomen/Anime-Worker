@@ -10,8 +10,12 @@
   "otherNames": "Kaiju No. 8, \u602a\u73638\u53f7",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/kaijuu-8-gou-dub.png",
-  "totalEpisodes": "11",
+  "totalEpisodes": "12",
   "episodesList": [
+    {
+      "episodeId": "kaijuu-8-gou-dub-episode-12",
+      "episodeNum": "Episode 12"
+    },
     {
       "episodeId": "kaijuu-8-gou-dub-episode-11",
       "episodeNum": "Episode 11"
