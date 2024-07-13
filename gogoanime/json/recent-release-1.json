@@ -1,5 +1,12 @@
 [
   {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-58",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 58"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-13",
     "title": "Shadowverse Flame: Arc-hen",
@@ -453,13 +460,6 @@
     "title": "Atashin'chi NEXT",
     "img": "https://gogocdn.net/cover/atashinchi-next.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-57",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 57"
   },
   {
     "id": "getter-robo-go",
