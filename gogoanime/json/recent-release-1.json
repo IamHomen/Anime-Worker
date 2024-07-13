@@ -1,5 +1,33 @@
 [
   {
+    "id": "shadowverse-flame-arc-hen",
+    "epId": "shadowverse-flame-arc-hen-episode-13",
+    "title": "Shadowverse Flame: Arc-hen",
+    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-14",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 14"
+  },
+  {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-2",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "cardfight-vanguard-divinez-season-2",
+    "epId": "cardfight-vanguard-divinez-season-2-episode-2",
+    "title": "Cardfight!! Vanguard: Divinez Season 2",
+    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "kono-sekai-wa-fukanzen-sugiru",
     "epId": "kono-sekai-wa-fukanzen-sugiru-episode-2",
     "title": "Kono Sekai wa Fukanzen Sugiru",
@@ -434,32 +462,11 @@
     "episode": "Episode 57"
   },
   {
-    "id": "shadowverse-flame-arc-hen",
-    "epId": "shadowverse-flame-arc-hen-episode-12",
-    "title": "Shadowverse Flame: Arc-hen",
-    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "getter-robo-go",
     "epId": "getter-robo-go-episode-29",
     "title": "Getter Robo Go",
     "img": "https://gogocdn.net/cover/getter-robo-go.png",
     "episode": "Episode 29"
-  },
-  {
-    "id": "cardfight-vanguard-divinez-season-2",
-    "epId": "cardfight-vanguard-divinez-season-2-episode-1",
-    "title": "Cardfight!! Vanguard: Divinez Season 2",
-    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-1",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 1"
   },
   {
     "id": "abashiri-ikka",
@@ -530,13 +537,6 @@
     "title": "Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round",
     "img": "https://gogocdn.net/cover/marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-13",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 13"
   },
   {
     "id": "shinkalion-change-the-world",
