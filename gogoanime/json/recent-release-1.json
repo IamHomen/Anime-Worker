@@ -1,5 +1,26 @@
 [
   {
+    "id": "0-saiji-start-dash-monogatari",
+    "epId": "0-saiji-start-dash-monogatari-episode-1",
+    "title": "0-saiji Start Dash Monogatari",
+    "img": "https://gogocdn.net/cover/0-saiji-start-dash-monogatari.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1112",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1112"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-24",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 24"
+  },
+  {
     "id": "elf-san-wa-yaserarenai-uncensored",
     "epId": "elf-san-wa-yaserarenai-uncensored-episode-2",
     "title": "Elf-san wa Yaserarenai (Uncensored)",
@@ -467,20 +488,6 @@
     "title": "Yozakura-san Chi no Daisakusen",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1111",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1111"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-23",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 23"
   },
   {
     "id": "atashinchi-next",
@@ -2791,12 +2798,5 @@
     "title": "Battle Spirits: Double Drive",
     "img": "https://gogocdn.net/cover/battle-spirits-double-drive.jpg",
     "episode": "Episode 51"
-  },
-  {
-    "id": "happy-comecome",
-    "epId": "happy-comecome-episode-1",
-    "title": "Happy ComeCome",
-    "img": "https://gogocdn.net/cover/happy-comecome.png",
-    "episode": "Episode 1"
   }
 ]
