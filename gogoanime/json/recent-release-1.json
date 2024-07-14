@@ -1,5 +1,40 @@
 [
   {
+    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-3",
+    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "na-nare-hana-nare",
+    "epId": "na-nare-hana-nare-episode-2",
+    "title": "Na Nare Hana Nare",
+    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-1",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-2",
+    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "chibi-maruko-chan",
+    "epId": "chibi-maruko-chan-episode-1439",
+    "title": "Chibi Maruko-chan",
+    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
+    "episode": "Episode 1439"
+  },
+  {
     "id": "fairy-tail-100-years-quest",
     "epId": "fairy-tail-100-years-quest-episode-2",
     "title": "Fairy Tail: 100 Years Quest",
@@ -460,34 +495,6 @@
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen Episode 0",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-episode-0.png",
     "episode": "Episode 0"
-  },
-  {
-    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-2",
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "na-nare-hana-nare",
-    "epId": "na-nare-hana-nare-episode-1",
-    "title": "Na Nare Hana Nare",
-    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-1",
-    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "chibi-maruko-chan",
-    "epId": "chibi-maruko-chan-episode-1438",
-    "title": "Chibi Maruko-chan",
-    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
-    "episode": "Episode 1438"
   },
   {
     "id": "atashinchi-next",
@@ -2791,12 +2798,5 @@
     "title": "One Piece: Dai Tannou Kikaku! ",
     "img": "https://gogocdn.net/cover/one-piece-dai-tannou-kikaku-shi-no-gekai-trafalgar-law.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "battle-spirits-double-drive",
-    "epId": "battle-spirits-double-drive-episode-51",
-    "title": "Battle Spirits: Double Drive",
-    "img": "https://gogocdn.net/cover/battle-spirits-double-drive.jpg",
-    "episode": "Episode 51"
   }
 ]
