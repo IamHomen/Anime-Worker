@@ -1,5 +1,19 @@
 [
   {
+    "id": "araiguma-rascal",
+    "epId": "araiguma-rascal-episode-52",
+    "title": "Araiguma Rascal",
+    "img": "https://gogocdn.net/cover/araiguma-rascal.png",
+    "episode": "Episode 52"
+  },
+  {
+    "id": "yami-shibai-13",
+    "epId": "yami-shibai-13-episode-1",
+    "title": "Yami Shibai 13",
+    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
     "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-3",
     "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
@@ -1090,13 +1104,6 @@
     "title": "One Piece: Making History! The Turbulent Old and New Four Emperors!",
     "img": "https://gogocdn.net/cover/one-piece-making-history-the-turbulent-old-and-new-four-emperors.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "araiguma-rascal",
-    "epId": "araiguma-rascal-episode-51",
-    "title": "Araiguma Rascal",
-    "img": "https://gogocdn.net/cover/araiguma-rascal.png",
-    "episode": "Episode 51"
   },
   {
     "id": "one-room-hiatari-futsuu-tenshi-tsuki",
@@ -2791,12 +2798,5 @@
     "title": "Buta no Liver wa Kanetsu Shiro",
     "img": "https://gogocdn.net/cover/buta-no-liver-wa-kanetsu-shiro-1696006917.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "one-piece-dai-tannou-kikaku-shi-no-gekai-trafalgar-law",
-    "epId": "one-piece-dai-tannou-kikaku-shi-no-gekai-trafalgar-law-episode-1",
-    "title": "One Piece: Dai Tannou Kikaku! ",
-    "img": "https://gogocdn.net/cover/one-piece-dai-tannou-kikaku-shi-no-gekai-trafalgar-law.png",
-    "episode": "Episode 1"
   }
 ]

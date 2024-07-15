@@ -56,19 +56,19 @@
     "format": "MOVIE"
   },
   {
-    "id": 9253,
-    "title": "Steins;Gate",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
-    "seasonYear": 2011,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 1535,
     "title": "DEATH NOTE",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-4r88a1tsBEIz.jpg",
     "seasonYear": 2006,
     "totalEpisode": 37,
+    "format": "TV"
+  },
+  {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -392,11 +392,11 @@
     "format": "TV"
   },
   {
-    "id": 2904,
-    "title": "Code Geass: Hangyaku no Lelouch R2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Z6DhLHr1XWEH.jpg",
-    "seasonYear": 2008,
-    "totalEpisode": 25,
+    "id": 9756,
+    "title": "Mahou Shoujo Madoka\u2606Magica",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-qnR83EYPzY1Z.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 12,
     "format": "TV"
   }
 ]
