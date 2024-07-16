@@ -1,5 +1,19 @@
 [
   {
+    "id": "egumi-legacy",
+    "epId": "egumi-legacy-episode-2",
+    "title": "Egumi Legacy",
+    "img": "https://gogocdn.net/cover/egumi-legacy.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "ninjala",
+    "epId": "ninjala-episode-125",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 125"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-16",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
@@ -469,13 +483,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "egumi-legacy",
-    "epId": "egumi-legacy-episode-1",
-    "title": "Egumi Legacy",
-    "img": "https://gogocdn.net/cover/egumi-legacy.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "isekai-shikkaku",
     "epId": "isekai-shikkaku-episode-1",
     "title": "Isekai Shikkaku",
@@ -565,13 +572,6 @@
     "title": "Nyaaaanvy",
     "img": "https://gogocdn.net/cover/nyaaaanvy.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-124",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 124"
   },
   {
     "id": "kyou-no-5-no-2-tv-takarabako",
