@@ -1,5 +1,12 @@
 [
   {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-16",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 16"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub-episode-14",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
@@ -173,13 +180,6 @@
     "title": "Kenka Dokugaku (Dub)",
     "img": "https://gogocdn.net/cover/kenka-dokugaku-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-15",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 15"
   },
   {
     "id": "kuroshitsuji-kishuku-gakkou-hen-dub",
