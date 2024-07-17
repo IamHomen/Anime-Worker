@@ -1,5 +1,19 @@
 [
   {
+    "id": "perman-birdman-ga-yatte-kita",
+    "epId": "perman-birdman-ga-yatte-kita-episode-1",
+    "title": "Perman: Birdman ga Yatte Kita!!",
+    "img": "https://gogocdn.net/cover/perman-birdman-ga-yatte-kita.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-3",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
     "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-2",
     "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
@@ -488,13 +502,6 @@
     "title": "Chuck Shimezou",
     "img": "https://gogocdn.net/cover/chuck-shimezou.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-2",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 2"
   },
   {
     "id": "tousouchuu-great-mission",
@@ -2791,12 +2798,5 @@
     "title": "Koihime\u2020Musou: Gunyuu, Seitoukaichou no Za wo Neratte Aiarasou no Koto - Ato, Porori mo Aru yo!",
     "img": "https://gogocdn.net/cover/koihimemusou-gunyuu-seitoukaichou-no-za-wo-neratte-aiarasou-no-koto-ato-porori-mo-aru-yo.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "buta-no-liver-wa-kanetsu-shiro",
-    "epId": "buta-no-liver-wa-kanetsu-shiro-episode-12",
-    "title": "Buta no Liver wa Kanetsu Shiro",
-    "img": "https://gogocdn.net/cover/buta-no-liver-wa-kanetsu-shiro-1696006917.png",
-    "episode": "Episode 12"
   }
 ]

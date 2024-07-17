@@ -1,5 +1,12 @@
 [
   {
+    "id": "sentai-daishikkaku-dub",
+    "epId": "sentai-daishikkaku-dub-episode-10",
+    "title": "Sentai Daishikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "helck-dub",
     "epId": "helck-dub-episode-16",
     "title": "Helck (Dub)",
@@ -327,13 +334,6 @@
     "title": "Rising Impact (Dub)",
     "img": "https://gogocdn.net/cover/rising-impact-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "sentai-daishikkaku-dub",
-    "epId": "sentai-daishikkaku-dub-episode-9",
-    "title": "Sentai Daishikkaku (Dub)",
-    "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
-    "episode": "Episode 9"
   },
   {
     "id": "ooi-tonbo-dub",

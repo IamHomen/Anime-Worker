@@ -1,0 +1,22 @@
+{
+  "animeTitle": "Perman: Birdman ga Yatte Kita!!",
+  "type": "Movie",
+  "releasedDate": "1983",
+  "status": "Completed",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Kids",
+    "Super Power"
+  ],
+  "otherNames": "\u30d1\u30fc\u30de\u30f3 \u30d0\u30fc\u30c9\u30de\u30f3\u304c\u3084\u3063\u3066\u6765\u305f!!",
+  "synopsis": "Screened as a triple feature with Doraemon: Nobita no Kaitei Kiganjou and Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki.",
+  "animeImg": "https://gogocdn.net/cover/perman-birdman-ga-yatte-kita.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "perman-birdman-ga-yatte-kita-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
