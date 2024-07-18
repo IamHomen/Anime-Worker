@@ -9,8 +9,12 @@
   "otherNames": "\u3072\u307f\u3064\u306e\u30a2\u30a4\u30d7\u30ea",
   "synopsis": "New Pretty Series anime.",
   "animeImg": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-  "totalEpisodes": "14",
+  "totalEpisodes": "15",
   "episodesList": [
+    {
+      "episodeId": "himitsu-no-aipri-episode-15",
+      "episodeNum": "Episode 15"
+    },
     {
       "episodeId": "himitsu-no-aipri-episode-14",
       "episodeNum": "Episode 14"
