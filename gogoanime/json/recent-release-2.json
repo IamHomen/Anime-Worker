@@ -1,5 +1,19 @@
 [
   {
+    "id": "isekai-suicide-squad-dub",
+    "epId": "isekai-suicide-squad-dub-episode-5",
+    "title": "Isekai Suicide Squad (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-suicide-squad-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-dub",
+    "epId": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-dub-episode-12",
+    "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii (Dub)",
+    "img": "https://gogocdn.net/cover/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-dub.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "natsume-yuujinchou-go-dub",
     "epId": "natsume-yuujinchou-go-dub-episode-11",
     "title": "Natsume Yuujinchou Go (Dub)",
@@ -243,13 +257,6 @@
     "title": "Hananoi-kun to Koi no Yamai (Dub)",
     "img": "https://gogocdn.net/cover/hananoi-kun-to-koi-no-yamai-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "isekai-suicide-squad-dub",
-    "epId": "isekai-suicide-squad-dub-episode-4",
-    "title": "Isekai Suicide Squad (Dub)",
-    "img": "https://gogocdn.net/cover/isekai-suicide-squad-dub.png",
-    "episode": "Episode 4"
   },
   {
     "id": "shijou-saikyou-no-deshi-kenichi-ova-dub",
@@ -2791,12 +2798,5 @@
     "title": "Mononoke (Dub)",
     "img": "https://gogocdn.net/cover/mononoke-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "dragon-ball-super-super-hero-dub",
-    "epId": "dragon-ball-super-super-hero-dub-episode-1",
-    "title": "Dragon Ball Super: Super Hero (Dub)",
-    "img": "https://gogocdn.net/cover/dragon-ball-super-super-hero-dub.png",
-    "episode": "Episode 1"
   }
 ]
