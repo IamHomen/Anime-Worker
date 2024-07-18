@@ -2,15 +2,19 @@
   "animeTitle": "Jantama Kan!!",
   "type": "ONA",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Comedy"
   ],
   "otherNames": "Mahjong Soul Kan!!, \u3058\u3083\u3093\u305f\u307e \u30ab\u30f3!!",
   "synopsis": "Sequel to Jantama Pong\u2606.",
   "animeImg": "https://gogocdn.net/cover/jantama-kan.png",
-  "totalEpisodes": "12",
+  "totalEpisodes": "13",
   "episodesList": [
+    {
+      "episodeId": "jantama-kan-episode-13",
+      "episodeNum": "Episode 13"
+    },
     {
       "episodeId": "jantama-kan-episode-12",
       "episodeNum": "Episode 12"
