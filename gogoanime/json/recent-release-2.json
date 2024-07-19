@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasogare-out-focus-dub",
+    "epId": "tasogare-out-focus-dub-episode-1",
+    "title": "Tasogare Out Focus (Dub)",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "isekai-suicide-squad-dub",
     "epId": "isekai-suicide-squad-dub-episode-5",
     "title": "Isekai Suicide Squad (Dub)",
@@ -2790,13 +2797,6 @@
     "epId": "yu-gi-oh-capsule-monsters-episode-12",
     "title": "Yu-Gi-Oh! Capsule Monsters",
     "img": "https://gogocdn.net/images/anime/Y/yugioh-capsule-monsters.jpg",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "mononoke-dub",
-    "epId": "mononoke-dub-episode-12",
-    "title": "Mononoke (Dub)",
-    "img": "https://gogocdn.net/cover/mononoke-dub.png",
     "episode": "Episode 12"
   }
 ]

@@ -264,18 +264,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 142770,
-    "title": "Suzume no Tojimari",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
-    "seasonYear": 2022,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 7311,
     "title": "Suzumiya Haruhi no Shoushitsu",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7311-9yOqvUKyflJG.jpg",
     "seasonYear": 2010,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 142770,
+    "title": "Suzume no Tojimari",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
+    "seasonYear": 2022,
     "totalEpisode": 1,
     "format": "MOVIE"
   },

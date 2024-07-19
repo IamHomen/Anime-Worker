@@ -1,5 +1,61 @@
 [
   {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-3",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "senpai-wa-otokonoko",
+    "epId": "senpai-wa-otokonoko-episode-3",
+    "title": "Senpai wa Otokonoko",
+    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-101",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 101"
+  },
+  {
+    "id": "megami-no-cafe-terrace-2nd-season",
+    "epId": "megami-no-cafe-terrace-2nd-season-episode-3",
+    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
+    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
+    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-3",
+    "title": "Hazurewaku no ",
+    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "ramen-akaneko",
+    "epId": "ramen-akaneko-episode-3",
+    "title": "Ramen Akaneko",
+    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "giji-harem",
+    "epId": "giji-harem-episode-3",
+    "title": "Giji Harem",
+    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "tasogare-out-focus",
+    "epId": "tasogare-out-focus-episode-3",
+    "title": "Tasogare Out Focus",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
     "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-3",
     "title": "Ore wa Subete wo ",
@@ -453,62 +509,6 @@
     "title": "Shinkalion: Change the World - Ushinawareta Kioku",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world-ushinawareta-kioku.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "senpai-wa-otokonoko",
-    "epId": "senpai-wa-otokonoko-episode-2",
-    "title": "Senpai wa Otokonoko",
-    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-100",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 100"
-  },
-  {
-    "id": "megami-no-cafe-terrace-2nd-season",
-    "epId": "megami-no-cafe-terrace-2nd-season-episode-2",
-    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
-    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-2",
-    "title": "Hazurewaku no ",
-    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "ramen-akaneko",
-    "epId": "ramen-akaneko-episode-2",
-    "title": "Ramen Akaneko",
-    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "giji-harem",
-    "epId": "giji-harem-episode-2",
-    "title": "Giji Harem",
-    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "tasogare-out-focus",
-    "epId": "tasogare-out-focus-episode-2",
-    "title": "Tasogare Out Focus",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-2",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
-    "episode": "Episode 2"
   },
   {
     "id": "ani-x-para-anata-no-hero-wa-dare-desu-ka",
