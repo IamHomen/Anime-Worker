@@ -1,5 +1,33 @@
 [
   {
+    "id": "beyblade-x-dub",
+    "epId": "beyblade-x-dub-episode-4",
+    "title": "Beyblade X (Dub)",
+    "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "cardfight-vanguard-divinez-dub",
+    "epId": "cardfight-vanguard-divinez-dub-episode-13",
+    "title": "Cardfight!! Vanguard: Divinez (Dub)",
+    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-dub.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-13",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "mahouka-koukou-no-rettousei-3rd-season-dub",
+    "epId": "mahouka-koukou-no-rettousei-3rd-season-dub-episode-10",
+    "title": "Mahouka Koukou no Rettousei 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub",
     "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub-episode-8",
     "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 (Dub)",
@@ -196,27 +224,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "beyblade-x-dub",
-    "epId": "beyblade-x-dub-episode-3",
-    "title": "Beyblade X (Dub)",
-    "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "cardfight-vanguard-divinez-dub",
-    "epId": "cardfight-vanguard-divinez-dub-episode-12",
-    "title": "Cardfight!! Vanguard: Divinez (Dub)",
-    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "mahouka-koukou-no-rettousei-3rd-season-dub",
-    "epId": "mahouka-koukou-no-rettousei-3rd-season-dub-episode-9",
-    "title": "Mahouka Koukou no Rettousei 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season-dub.png",
-    "episode": "Episode 9"
-  },
-  {
     "id": "wind-breaker-dub",
     "epId": "wind-breaker-dub-episode-13",
     "title": "Wind Breaker (Dub)",
@@ -236,13 +243,6 @@
     "title": "Kuroshitsuji: Kishuku Gakkou-hen (Dub)",
     "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen-dub.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-12",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
-    "episode": "Episode 12"
   },
   {
     "id": "yaneura-no-rudger-dub",
