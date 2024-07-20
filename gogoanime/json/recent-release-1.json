@@ -1,5 +1,19 @@
 [
   {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-3",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-3",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "dungeon-no-naka-no-hito",
     "epId": "dungeon-no-naka-no-hito-episode-3",
     "title": "Dungeon no Naka no Hito",
@@ -476,24 +490,10 @@
     "episode": "Episode 13"
   },
   {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-2",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "cardfight-vanguard-divinez-season-2",
     "epId": "cardfight-vanguard-divinez-season-2-episode-2",
     "title": "Cardfight!! Vanguard: Divinez Season 2",
     "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-2",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
     "episode": "Episode 2"
   },
   {
