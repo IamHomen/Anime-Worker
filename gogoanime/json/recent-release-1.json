@@ -1,5 +1,26 @@
 [
   {
+    "id": "mazebakunetsu-jikuu",
+    "epId": "mazebakunetsu-jikuu-episode-2",
+    "title": "Maze\u2606Bakunetsu Jikuu",
+    "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "mazebakunetsu-jikuu-hot-springs",
+    "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
+    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "karasu-wa-aruji-wo-erabanai",
+    "epId": "karasu-wa-aruji-wo-erabanai-episode-14",
+    "title": "Karasu wa Aruji wo Erabanai",
+    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
+    "episode": "Episode 14"
+  },
+  {
     "id": "shoushimin-series",
     "epId": "shoushimin-series-episode-3",
     "title": "Shoushimin Series",
@@ -137,6 +158,13 @@
     "epId": "grendizer-u-episode-3",
     "title": "Grendizer U",
     "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-3",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
     "episode": "Episode 3"
   },
   {
@@ -411,13 +439,6 @@
     "title": "Mayonaka Punch",
     "img": "https://gogocdn.net/cover/mayonaka-punch.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "araiguma-rascal",
-    "epId": "araiguma-rascal-episode-52",
-    "title": "Araiguma Rascal",
-    "img": "https://gogocdn.net/cover/araiguma-rascal.png",
-    "episode": "Episode 52"
   },
   {
     "id": "araiguma-rascal",
@@ -767,13 +788,6 @@
     "epId": "tonari-no-youkai-san-episode-13",
     "title": "Tonari no Youkai-san",
     "img": "https://gogocdn.net/cover/tonari-no-youkai-san.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "karasu-wa-aruji-wo-erabanai",
-    "epId": "karasu-wa-aruji-wo-erabanai-episode-13",
-    "title": "Karasu wa Aruji wo Erabanai",
-    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
     "episode": "Episode 13"
   },
   {
@@ -2783,20 +2797,6 @@
     "epId": "shin-koihimemusou-live-revolution-episode-1",
     "title": "Shin Koihime\u2020Musou: Live Revolution",
     "img": "https://gogocdn.net/cover/shin-koihimemusou-live-revolution.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "shin-koihimemusou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo",
-    "epId": "shin-koihimemusou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo-episode-1",
-    "title": "Shin Koihime\u2020Musou: Gunyuu, Minami no Shima de Bakansu wo Suru no Koto - Ato, Porori mo Aru yo!",
-    "img": "https://gogocdn.net/cover/shin-koihimemusou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "shin-koihimemusou-otome-tairan-gakuensai-da-yo-zenin-shuugou-no-koto",
-    "epId": "shin-koihimemusou-otome-tairan-gakuensai-da-yo-zenin-shuugou-no-koto-episode-1",
-    "title": "Shin Koihime\u2020Musou: Otome Tairan - Gakuensai da yo! Zenin Shuugou no Koto",
-    "img": "https://gogocdn.net/cover/shin-koihimemusou-otome-tairan-gakuensai-da-yo-zenin-shuugou-no-koto.png",
     "episode": "Episode 1"
   }
 ]
