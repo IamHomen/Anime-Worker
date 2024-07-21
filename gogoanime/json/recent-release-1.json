@@ -1,5 +1,47 @@
 [
   {
+    "id": "shinkalion-change-the-world",
+    "epId": "shinkalion-change-the-world-episode-15",
+    "title": "Shinkalion: Change the World",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "episode": "Episode 15"
+  },
+  {
+    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-4",
+    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "na-nare-hana-nare",
+    "epId": "na-nare-hana-nare-episode-3",
+    "title": "Na Nare Hana Nare",
+    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "linetown",
+    "epId": "linetown-episode-11",
+    "title": "Linetown",
+    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-3",
+    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "kami-no-tou-ouji-no-kikan",
+    "epId": "kami-no-tou-ouji-no-kikan-episode-3",
+    "title": "Kami no Tou: Ouji no Kikan",
+    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "tsue-to-tsurugi-no-wistoria",
     "epId": "tsue-to-tsurugi-no-wistoria-episode-4",
     "title": "Tsue to Tsurugi no Wistoria",
@@ -364,13 +406,6 @@
     "episode": "Episode 116"
   },
   {
-    "id": "shinkalion-change-the-world",
-    "epId": "shinkalion-change-the-world-episode-14",
-    "title": "Shinkalion: Change the World",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 14"
-  },
-  {
     "id": "sengoku-youko-senma-konton-hen",
     "epId": "sengoku-youko-senma-konton-hen-episode-1",
     "title": "Sengoku Youko: Senma Konton-hen",
@@ -497,32 +532,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-3",
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "na-nare-hana-nare",
-    "epId": "na-nare-hana-nare-episode-2",
-    "title": "Na Nare Hana Nare",
-    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-1",
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-2",
-    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
-    "episode": "Episode 2"
   },
   {
     "id": "chibi-maruko-chan",
@@ -572,13 +586,6 @@
     "title": "Ani x Para: Anata no Hero wa Dare desu ka",
     "img": "https://gogocdn.net/cover/ani-x-para-anata-no-hero-wa-dare-desu-ka.png",
     "episode": "Episode 18"
-  },
-  {
-    "id": "kami-no-tou-ouji-no-kikan",
-    "epId": "kami-no-tou-ouji-no-kikan-episode-2",
-    "title": "Kami no Tou: Ouji no Kikan",
-    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
-    "episode": "Episode 2"
   },
   {
     "id": "chuck-shimezou",
@@ -635,13 +642,6 @@
     "title": "Muu no Hakugei",
     "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "linetown",
-    "epId": "linetown-episode-10",
-    "title": "Linetown",
-    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
-    "episode": "Episode 10"
   },
   {
     "id": "nyaaaanvy",
