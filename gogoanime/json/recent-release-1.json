@@ -1,5 +1,12 @@
 [
   {
+    "id": "yami-shibai-13",
+    "epId": "yami-shibai-13-episode-2",
+    "title": "Yami Shibai 13",
+    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-15",
     "title": "Shinkalion: Change the World",
@@ -40,13 +47,6 @@
     "title": "Kami no Tou: Ouji no Kikan",
     "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "tsue-to-tsurugi-no-wistoria",
-    "epId": "tsue-to-tsurugi-no-wistoria-episode-4",
-    "title": "Tsue to Tsurugi no Wistoria",
-    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
-    "episode": "Episode 4"
   },
   {
     "id": "fairy-tail-100-years-quest",
@@ -523,13 +523,6 @@
     "title": "Araiguma Rascal",
     "img": "https://gogocdn.net/cover/araiguma-rascal.png",
     "episode": "Episode 52"
-  },
-  {
-    "id": "yami-shibai-13",
-    "epId": "yami-shibai-13-episode-1",
-    "title": "Yami Shibai 13",
-    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
-    "episode": "Episode 1"
   },
   {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
@@ -2797,6 +2790,13 @@
     "epId": "shin-koihimemusou-live-revolution-episode-1",
     "title": "Shin Koihime\u2020Musou: Live Revolution",
     "img": "https://gogocdn.net/cover/shin-koihimemusou-live-revolution.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shin-koihimemusou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo",
+    "epId": "shin-koihimemusou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo-episode-1",
+    "title": "Shin Koihime\u2020Musou: Gunyuu, Minami no Shima de Bakansu wo Suru no Koto - Ato, Porori mo Aru yo!",
+    "img": "https://gogocdn.net/cover/shin-koihimemusou-gunyuu-minami-no-shima-de-bakansu-wo-suru-no-koto-ato-porori-mo-aru-yo.png",
     "episode": "Episode 1"
   }
 ]
