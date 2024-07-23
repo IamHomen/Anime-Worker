@@ -120,19 +120,19 @@
     "format": "TV"
   },
   {
-    "id": 101348,
-    "title": "VINLAND SAGA",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 154587,
     "title": "Sousou no Frieren",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
     "seasonYear": 2023,
     "totalEpisode": 28,
+    "format": "TV"
+  },
+  {
+    "id": 101348,
+    "title": "VINLAND SAGA",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -248,19 +248,19 @@
     "format": "TV"
   },
   {
-    "id": 2001,
-    "title": "Tengen Toppa Gurren Lagann",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
-    "seasonYear": 2007,
-    "totalEpisode": 27,
-    "format": "TV"
-  },
-  {
     "id": 269,
     "title": "BLEACH",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
     "seasonYear": 2004,
     "totalEpisode": 366,
+    "format": "TV"
+  },
+  {
+    "id": 2001,
+    "title": "Tengen Toppa Gurren Lagann",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
+    "seasonYear": 2007,
+    "totalEpisode": 27,
     "format": "TV"
   },
   {
@@ -360,6 +360,14 @@
     "format": "TV"
   },
   {
+    "id": 19,
+    "title": "MONSTER",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
+    "seasonYear": 2004,
+    "totalEpisode": 74,
+    "format": "TV"
+  },
+  {
     "id": 101280,
     "title": "Tensei Shitara Slime Datta Ken",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-ezBXqEHi8pg0.jpg",
@@ -373,14 +381,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg",
     "seasonYear": 2012,
     "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
-    "id": 19,
-    "title": "MONSTER",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
-    "seasonYear": 2004,
-    "totalEpisode": 74,
     "format": "TV"
   },
   {
