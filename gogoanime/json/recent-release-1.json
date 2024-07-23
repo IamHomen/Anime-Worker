@@ -1,5 +1,19 @@
 [
   {
+    "id": "ashita-no-joe-2-movie",
+    "epId": "ashita-no-joe-2-movie-episode-1",
+    "title": "Ashita no Joe 2 (Movie)",
+    "img": "https://gogocdn.net/cover/ashita-no-joe-2-movie.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ashita-no-joe-movie",
+    "epId": "ashita-no-joe-movie-episode-1",
+    "title": "Ashita no Joe (Movie)",
+    "img": "https://gogocdn.net/cover/ashita-no-joe-movie.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "yawara-zutto-kimi-no-koto-ga",
     "epId": "yawara-zutto-kimi-no-koto-ga-episode-1",
     "title": "Yawara!: Zutto Kimi no Koto ga...",
@@ -2784,19 +2798,5 @@
     "title": "Taiko no Tatsujin",
     "img": "https://gogocdn.net/cover/taiko-no-tatsujin.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "kin-no-kuni-mizu-no-kuni",
-    "epId": "kin-no-kuni-mizu-no-kuni-episode-1",
-    "title": "Kin no Kuni Mizu no Kuni",
-    "img": "https://gogocdn.net/cover/kin-no-kuni-mizu-no-kuni-1707278899.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "shin-koihimemusou-live-revolution",
-    "epId": "shin-koihimemusou-live-revolution-episode-1",
-    "title": "Shin Koihime\u2020Musou: Live Revolution",
-    "img": "https://gogocdn.net/cover/shin-koihimemusou-live-revolution.png",
-    "episode": "Episode 1"
   }
 ]

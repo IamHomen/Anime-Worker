@@ -1,5 +1,12 @@
 [
   {
+    "id": "ashita-no-joe-movie-dub",
+    "epId": "ashita-no-joe-movie-dub-episode-1",
+    "title": "Ashita no Joe (Movie) (Dub)",
+    "img": "https://gogocdn.net/cover/ashita-no-joe-movie-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "shikanoko-nokonoko-koshitantan-dub",
     "epId": "shikanoko-nokonoko-koshitantan-dub-episode-3",
     "title": "Shikanoko Nokonoko Koshitantan (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Aoi Umi to Shounen (Dub)",
     "img": "https://gogocdn.net/cover/aoi-umi-to-shounen-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tensei-shitara-ken-deshita-dub",
-    "epId": "tensei-shitara-ken-deshita-dub-episode-12",
-    "title": "Tensei shitara Ken Deshita (Dub)",
-    "img": "https://gogocdn.net/cover/tensei-shitara-ken-deshita-dub.png",
-    "episode": "Episode 12"
   }
 ]
