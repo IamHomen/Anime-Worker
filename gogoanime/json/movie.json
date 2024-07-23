@@ -4908,6 +4908,12 @@
     "date": "2024"
   },
   {
+    "id": "ashita-no-joe-movie",
+    "title": "Ashita no Joe (Movie)",
+    "img": "https://gogocdn.net/cover/ashita-no-joe-movie.png",
+    "date": "1980"
+  },
+  {
     "id": "neo-tokyo-dub",
     "title": "Neo Tokyo (Dub)",
     "img": "https://gogocdn.net/cover/neo-tokyo-dub.png",
@@ -4924,6 +4930,12 @@
     "title": "Tobiuo no Boy wa Byouki Desu",
     "img": "https://gogocdn.net/cover/tobiuo-no-boy-wa-byouki-desu.png",
     "date": "1982"
+  },
+  {
+    "id": "ashita-no-joe-movie-dub",
+    "title": "Ashita no Joe (Movie) (Dub)",
+    "img": "https://gogocdn.net/cover/ashita-no-joe-movie-dub.png",
+    "date": "1980"
   },
   {
     "id": "new-fist-of-the-north-star-dub",
@@ -4954,6 +4966,12 @@
     "title": "Xiong Chumo: Xiong Zin Guilai (Dub)",
     "img": "https://gogocdn.net/cover/xiong-chumo-xiong-zin-guilai-dub.png",
     "date": "2016"
+  },
+  {
+    "id": "ashita-no-joe-2-movie",
+    "title": "Ashita no Joe 2 (Movie)",
+    "img": "https://gogocdn.net/cover/ashita-no-joe-2-movie.png",
+    "date": "1981"
   },
   {
     "id": "darkside-blues-dub",
@@ -13420,23 +13438,5 @@
     "title": "Un-Go: Inga-ron (Dub)",
     "img": "https://gogocdn.net/cover/un-go-inga-ron-dub.png",
     "date": "2011"
-  },
-  {
-    "id": "love-hina-christmas-movie-dub",
-    "title": "Love Hina Christmas Movie (Dub)",
-    "img": "https://gogocdn.net/cover/love-hina-christmas-movie-dub.png",
-    "date": "2000"
-  },
-  {
-    "id": "sakigake-otokojuku-movie",
-    "title": "Sakigake!! Otokojuku Movie",
-    "img": "https://gogocdn.net/cover/sakigake-otokojuku-movie.png",
-    "date": "1988"
-  },
-  {
-    "id": "kidou-keisatsu-patlabor-the-movie-dub",
-    "title": "Kidou Keisatsu Patlabor the Movie (Dub)",
-    "img": "https://gogocdn.net/cover/kidou-keisatsu-patlabor-the-movie-dub.png",
-    "date": "1989"
   }
 ]
