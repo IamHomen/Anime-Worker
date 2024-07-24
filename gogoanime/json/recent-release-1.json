@@ -1,5 +1,19 @@
 [
   {
+    "id": "egumi-legacy",
+    "epId": "egumi-legacy-episode-3",
+    "title": "Egumi Legacy",
+    "img": "https://gogocdn.net/cover/egumi-legacy.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-4",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
     "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-3",
     "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
@@ -530,20 +544,6 @@
     "title": "Perman: Birdman ga Yatte Kita!!",
     "img": "https://gogocdn.net/cover/perman-birdman-ga-yatte-kita.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-3",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "egumi-legacy",
-    "epId": "egumi-legacy-episode-2",
-    "title": "Egumi Legacy",
-    "img": "https://gogocdn.net/cover/egumi-legacy.png",
-    "episode": "Episode 2"
   },
   {
     "id": "araiguma-rascal",

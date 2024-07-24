@@ -1,5 +1,26 @@
 [
   {
+    "id": "ishura-dub",
+    "epId": "ishura-dub-episode-12",
+    "title": "Ishura (Dub)",
+    "img": "https://gogocdn.net/cover/ishura-dub.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "sentai-daishikkaku-dub",
+    "epId": "sentai-daishikkaku-dub-episode-11",
+    "title": "Sentai Daishikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-17",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 17"
+  },
+  {
     "id": "ashita-no-joe-movie-dub",
     "epId": "ashita-no-joe-movie-dub-episode-1",
     "title": "Ashita no Joe (Movie) (Dub)",
@@ -217,20 +238,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "sentai-daishikkaku-dub",
-    "epId": "sentai-daishikkaku-dub-episode-10",
-    "title": "Sentai Daishikkaku (Dub)",
-    "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-16",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 16"
-  },
-  {
     "id": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-dub",
     "epId": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-dub-episode-12",
     "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life (Dub)",
@@ -397,13 +404,6 @@
     "title": "Kami wa Game ni Ueteiru. (Dub)",
     "img": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "ishura-dub",
-    "epId": "ishura-dub-episode-8",
-    "title": "Ishura (Dub)",
-    "img": "https://gogocdn.net/cover/ishura-dub.png",
-    "episode": "Episode 8"
   },
   {
     "id": "rising-impact-dub",
