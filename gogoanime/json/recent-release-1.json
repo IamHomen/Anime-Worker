@@ -1,5 +1,19 @@
 [
   {
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-117",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 117"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-16",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 16"
+  },
+  {
     "id": "egumi-legacy",
     "epId": "egumi-legacy-episode-3",
     "title": "Egumi Legacy",
@@ -170,14 +184,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u2606Bakunetsu Jikuu",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -474,20 +488,6 @@
     "title": "Beyblade X",
     "img": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 40"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-15",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 15"
-  },
-  {
-    "id": "yugioh-go-rush",
-    "epId": "yugioh-go-rush-episode-116",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 116"
   },
   {
     "id": "sengoku-youko-senma-konton-hen",
