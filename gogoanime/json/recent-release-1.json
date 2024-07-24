@@ -1,5 +1,47 @@
 [
   {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-2",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai",
+    "epId": "koi-wa-futago-de-warikirenai-episode-3",
+    "title": "Koi wa Futago de Warikirenai",
+    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "epId": "oshi-no-ko-2nd-season-episode-4",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-4",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-5",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii",
+    "epId": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii-episode-3",
+    "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+    "img": "https://gogocdn.net/cover/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2-1719514641.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-117",
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
@@ -184,14 +226,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
+    "title": "Maze\u2606Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -488,48 +530,6 @@
     "title": "Beyblade X",
     "img": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 40"
-  },
-  {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-1",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "koi-wa-futago-de-warikirenai",
-    "epId": "koi-wa-futago-de-warikirenai-episode-2",
-    "title": "Koi wa Futago de Warikirenai",
-    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-3",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season",
-    "epId": "oshi-no-ko-2nd-season-episode-3",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-4",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii",
-    "epId": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii-episode-2",
-    "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
-    "img": "https://gogocdn.net/cover/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2-1719514641.png",
-    "episode": "Episode 2"
   },
   {
     "id": "t-p-bon-season-2",
