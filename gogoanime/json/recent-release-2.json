@@ -1,10 +1,17 @@
 [
   {
-    "id": "natsume-yuujinchou-roku-dub",
-    "epId": "natsume-yuujinchou-roku-dub-episode-1",
-    "title": "Natsume Yuujinchou Roku (Dub)",
-    "img": "https://gogocdn.net/cover/natsume-yuujinchou-roku-dub.png",
+    "id": "natsume-yuujinchou-go-specials-dub",
+    "epId": "natsume-yuujinchou-go-specials-dub-episode-1",
+    "title": "Natsume Yuujinchou Go Specials (Dub)",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-go-specials-dub.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "isekai-suicide-squad-dub",
+    "epId": "isekai-suicide-squad-dub-episode-6",
+    "title": "Isekai Suicide Squad (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-suicide-squad-dub.png",
+    "episode": "Episode 6"
   },
   {
     "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii-dub",
@@ -229,13 +236,6 @@
     "title": "Tasogare Out Focus (Dub)",
     "img": "https://gogocdn.net/cover/tasogare-out-focus-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "isekai-suicide-squad-dub",
-    "epId": "isekai-suicide-squad-dub-episode-5",
-    "title": "Isekai Suicide Squad (Dub)",
-    "img": "https://gogocdn.net/cover/isekai-suicide-squad-dub.png",
-    "episode": "Episode 5"
   },
   {
     "id": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-dub",
