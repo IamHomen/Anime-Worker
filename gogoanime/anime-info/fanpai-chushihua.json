@@ -12,8 +12,12 @@
   "otherNames": "\u53cd\u6d3e\u521d\u59cb\u5316, Villain Initialization",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/fanpai-chushihua.png",
-  "totalEpisodes": "15",
+  "totalEpisodes": "16",
   "episodesList": [
+    {
+      "episodeId": "fanpai-chushihua-episode-16",
+      "episodeNum": "Episode 16"
+    },
     {
       "episodeId": "fanpai-chushihua-episode-15",
       "episodeNum": "Episode 15"
