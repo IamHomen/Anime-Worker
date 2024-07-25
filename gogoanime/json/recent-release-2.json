@@ -154,13 +154,6 @@
     "episode": "Episode 37"
   },
   {
-    "id": "mazebakunetsu-jikuu-hot-springs-dub",
-    "epId": "mazebakunetsu-jikuu-hot-springs-dub-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs (Dub)",
-    "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs-dub.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub",
     "epId": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub-episode-5",
     "title": "Boku no Kokoro no Yabai Yatsu 2nd Season (Dub)",
@@ -2797,6 +2790,13 @@
     "epId": "tomo-chan-wa-onnanoko-dub-episode-13",
     "title": "Tomo-chan wa Onnanoko! (Dub)",
     "img": "https://gogocdn.net/cover/tomo-chan-wa-onnanoko-dub.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "isekai-ojisan-dub",
+    "epId": "isekai-ojisan-dub-episode-13",
+    "title": "Isekai Ojisan (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-ojisan-dub.png",
     "episode": "Episode 13"
   }
 ]
