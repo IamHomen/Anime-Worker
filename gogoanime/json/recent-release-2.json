@@ -1,5 +1,12 @@
 [
   {
+    "id": "bartender-kami-no-glass-dub",
+    "epId": "bartender-kami-no-glass-dub-episode-1",
+    "title": "Bartender: Kami no Glass (Dub)",
+    "img": "https://gogocdn.net/cover/bartender-kami-no-glass-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tasogare-out-focus-dub",
     "epId": "tasogare-out-focus-dub-episode-2",
     "title": "Tasogare Out Focus (Dub)",
@@ -133,6 +140,13 @@
     "episode": "Episode 12"
   },
   {
+    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub",
+    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub-episode-12",
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 (Dub)",
+    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen-dub",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-dub-episode-4",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen (Dub)",
@@ -222,13 +236,6 @@
     "title": "Code Geass: Dakkan no Roz\u00e9 (Dub)",
     "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze-dub.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "dead-dead-demons-dededede-destruction-dub",
-    "epId": "dead-dead-demons-dededede-destruction-dub-episode-8",
-    "title": "Dead Dead Demons Dededede Destruction (Dub)",
-    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction-dub.png",
-    "episode": "Episode 8"
   },
   {
     "id": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-dub",
@@ -2790,13 +2797,6 @@
     "epId": "tomo-chan-wa-onnanoko-dub-episode-13",
     "title": "Tomo-chan wa Onnanoko! (Dub)",
     "img": "https://gogocdn.net/cover/tomo-chan-wa-onnanoko-dub.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "isekai-ojisan-dub",
-    "epId": "isekai-ojisan-dub-episode-13",
-    "title": "Isekai Ojisan (Dub)",
-    "img": "https://gogocdn.net/cover/isekai-ojisan-dub.png",
     "episode": "Episode 13"
   }
 ]
