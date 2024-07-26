@@ -1,5 +1,19 @@
 [
   {
+    "id": "annyeong-tyrano-yeong-wonhi-hamkke",
+    "epId": "annyeong-tyrano-yeong-wonhi-hamkke-episode-1",
+    "title": "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
+    "img": "https://gogocdn.net/cover/annyeong-tyrano-yeong-wonhi-hamkke.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "code-geass-dakkan-no-roze",
+    "epId": "code-geass-dakkan-no-roze-episode-6",
+    "title": "Code Geass: Dakkan no Roz\u00e9",
+    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-15",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -331,14 +345,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u2606Bakunetsu Jikuu",
+    "title": "Maze\u00e2\u02dc\u2020Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u00e2\u02dc\u2020Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -530,13 +544,6 @@
     "title": "2.5-jigen no Ririsa",
     "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "code-geass-dakkan-no-roze",
-    "epId": "code-geass-dakkan-no-roze-episode-5",
-    "title": "Code Geass: Dakkan no Roz\u00e9",
-    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
-    "episode": "Episode 5"
   },
   {
     "id": "ninjala",
@@ -2791,12 +2798,5 @@
     "title": "Chocosanji",
     "img": "https://gogocdn.net/cover/chocosanji.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "taiko-no-tatsujin",
-    "epId": "taiko-no-tatsujin-episode-26",
-    "title": "Taiko no Tatsujin",
-    "img": "https://gogocdn.net/cover/taiko-no-tatsujin.png",
-    "episode": "Episode 26"
   }
 ]

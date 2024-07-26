@@ -1,5 +1,26 @@
 [
   {
+    "id": "iczer-girl-iczelion-dub",
+    "epId": "iczer-girl-iczelion-dub-episode-2",
+    "title": "Iczer-Girl Iczelion (Dub)",
+    "img": "https://gogocdn.net/cover/iczer-girl-iczelion-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "code-geass-dakkan-no-roze-dub",
+    "epId": "code-geass-dakkan-no-roze-dub-episode-6",
+    "title": "Code Geass: Dakkan no Roz\u00e9 (Dub)",
+    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze-dub.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "dead-dead-demons-dededede-destruction-dub",
+    "epId": "dead-dead-demons-dededede-destruction-dub-episode-9",
+    "title": "Dead Dead Demons Dededede Destruction (Dub)",
+    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction-dub.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "bartender-kami-no-glass-dub",
     "epId": "bartender-kami-no-glass-dub-episode-1",
     "title": "Bartender: Kami no Glass (Dub)",
@@ -140,13 +161,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub",
-    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub-episode-12",
-    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 (Dub)",
-    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen-dub",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-dub-episode-4",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen (Dub)",
@@ -229,13 +243,6 @@
     "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. (Dub)",
     "img": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "code-geass-dakkan-no-roze-dub",
-    "epId": "code-geass-dakkan-no-roze-dub-episode-5",
-    "title": "Code Geass: Dakkan no Roz\u00e9 (Dub)",
-    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze-dub.png",
-    "episode": "Episode 5"
   },
   {
     "id": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-dub",
@@ -2791,12 +2798,5 @@
     "title": "Detective Conan (Dub)",
     "img": "https://gogocdn.net/cover/detective-conan-dub.png",
     "episode": "Episode 1014"
-  },
-  {
-    "id": "tomo-chan-wa-onnanoko-dub",
-    "epId": "tomo-chan-wa-onnanoko-dub-episode-13",
-    "title": "Tomo-chan wa Onnanoko! (Dub)",
-    "img": "https://gogocdn.net/cover/tomo-chan-wa-onnanoko-dub.png",
-    "episode": "Episode 13"
   }
 ]
