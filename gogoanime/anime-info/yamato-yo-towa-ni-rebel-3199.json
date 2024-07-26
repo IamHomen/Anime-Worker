@@ -1,16 +1,28 @@
 {
   "animeTitle": "Yamato yo, Towa ni: Rebel 3199",
-  "type": "TV Series",
-  "releasedDate": "0",
-  "status": "Upcoming",
+  "type": "Summer 2024 Anime",
+  "releasedDate": "2024",
+  "status": "Ongoing",
   "genres": [
     "Action",
+    "Adult Cast",
     "Drama",
-    "Sci-Fi"
+    "Military",
+    "Sci-Fi",
+    "Space"
   ],
   "otherNames": "Be Forever Yamato: Rebel 3199, Star Blazers; \u30e4\u30de\u30c8\u3088\u6c38\u9060\u306b REBEL3199",
   "synopsis": "Sequel to Uchuu Senkan Yamato 2205: Aratanaru Tabidachi.",
-  "animeImg": "https://gogocdn.net/cover/yamato-yo-towa-ni-rebel-3199.png",
-  "totalEpisodes": "0",
-  "episodesList": []
+  "animeImg": "https://gogocdn.net/cover/yamato-yo-towa-ni-rebel-3199-1722023363.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "yamato-yo-towa-ni-rebel-3199-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "yamato-yo-towa-ni-rebel-3199-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -1,5 +1,54 @@
 [
   {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-4",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-4",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-4",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-4",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-16",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 16"
+  },
+  {
+    "id": "bye-bye-earth",
+    "epId": "bye-bye-earth-episode-3",
+    "title": "Bye Bye, Earth",
+    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-4",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "annyeong-tyrano-yeong-wonhi-hamkke",
     "epId": "annyeong-tyrano-yeong-wonhi-hamkke-episode-1",
     "title": "Annyeong, Tyrano: Yeong-wonhi, Hamkke",
@@ -345,14 +394,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u00e2\u02dc\u2020Bakunetsu Jikuu",
+    "title": "Maze\u2606Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u00e2\u02dc\u2020Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -494,55 +543,6 @@
     "epId": "cardfight-vanguard-divinez-season-2-episode-3",
     "title": "Cardfight!! Vanguard: Divinez Season 2",
     "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-3",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-3",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-3",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-3",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-15",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 15"
-  },
-  {
-    "id": "bye-bye-earth",
-    "epId": "bye-bye-earth-episode-2",
-    "title": "Bye Bye, Earth",
-    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-3",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
     "episode": "Episode 3"
   },
   {
