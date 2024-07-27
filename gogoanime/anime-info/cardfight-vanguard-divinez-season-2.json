@@ -9,8 +9,12 @@
   "otherNames": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 Divinez Season2",
   "synopsis": "Second season of Cardfight!! Vanguard: Divinez.",
   "animeImg": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
-  "totalEpisodes": "3",
+  "totalEpisodes": "4",
   "episodesList": [
+    {
+      "episodeId": "cardfight-vanguard-divinez-season-2-episode-4",
+      "episodeNum": "Episode 4"
+    },
     {
       "episodeId": "cardfight-vanguard-divinez-season-2-episode-3",
       "episodeNum": "Episode 3"

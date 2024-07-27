@@ -1,5 +1,12 @@
 [
   {
+    "id": "yamato-yo-towa-ni-rebel-3199",
+    "epId": "yamato-yo-towa-ni-rebel-3199-episode-2",
+    "title": "Yamato yo, Towa ni: Rebel 3199",
+    "img": "https://gogocdn.net/cover/yamato-yo-towa-ni-rebel-3199-1722023363.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "kono-sekai-wa-fukanzen-sugiru",
     "epId": "kono-sekai-wa-fukanzen-sugiru-episode-4",
     "title": "Kono Sekai wa Fukanzen Sugiru",
@@ -2791,12 +2798,5 @@
     "title": "Ganbare Genki",
     "img": "https://gogocdn.net/cover/ganbare-genki.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "chocosanji",
-    "epId": "chocosanji-episode-12",
-    "title": "Chocosanji",
-    "img": "https://gogocdn.net/cover/chocosanji.png",
-    "episode": "Episode 12"
   }
 ]
