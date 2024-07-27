@@ -1,5 +1,33 @@
 [
   {
+    "id": "beyblade-x-dub",
+    "epId": "beyblade-x-dub-episode-5",
+    "title": "Beyblade X (Dub)",
+    "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "bye-bye-earth-dub",
+    "epId": "bye-bye-earth-dub-episode-1",
+    "title": "Bye Bye, Earth (Dub)",
+    "img": "https://gogocdn.net/cover/bye-bye-earth-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-14",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
+    "episode": "Episode 14"
+  },
+  {
+    "id": "mahouka-koukou-no-rettousei-3rd-season-dub",
+    "epId": "mahouka-koukou-no-rettousei-3rd-season-dub-episode-11",
+    "title": "Mahouka Koukou no Rettousei 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season-dub.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "kono-sekai-wa-fukanzen-sugiru-dub",
     "epId": "kono-sekai-wa-fukanzen-sugiru-dub-episode-4",
     "title": "Kono Sekai wa Fukanzen Sugiru (Dub)",
@@ -112,13 +140,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "shikanoko-nokonoko-koshitantan-dub",
-    "epId": "shikanoko-nokonoko-koshitantan-dub-episode-3",
-    "title": "Shikanoko Nokonoko Koshitantan (Dub)",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan-dub.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub-episode-15",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
@@ -222,20 +243,6 @@
     "title": "Cardfight!! Vanguard: Divinez (Dub)",
     "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-13",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "mahouka-koukou-no-rettousei-3rd-season-dub",
-    "epId": "mahouka-koukou-no-rettousei-3rd-season-dub-episode-10",
-    "title": "Mahouka Koukou no Rettousei 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season-dub.png",
-    "episode": "Episode 10"
   },
   {
     "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub",
@@ -1465,7 +1472,7 @@
   {
     "id": "onegaiteacher-dub",
     "epId": "onegaiteacher-dub-episode-13",
-    "title": "Onegai\u2606Teacher (Dub)",
+    "title": "Onegai\u014c\u015b\u00e5Teacher (Dub)",
     "img": "https://gogocdn.net/cover/onegaiteacher-dub.png",
     "episode": "Episode 13"
   },
@@ -2791,12 +2798,5 @@
     "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu (Dub)",
     "img": "https://gogocdn.net/cover/psycho-pass-sinners-of-the-system-case-1-tsumi-to-batsu-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "detective-conan-dub",
-    "epId": "detective-conan-dub-episode-1014",
-    "title": "Detective Conan (Dub)",
-    "img": "https://gogocdn.net/cover/detective-conan-dub.png",
-    "episode": "Episode 1014"
   }
 ]
