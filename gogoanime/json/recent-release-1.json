@@ -1,5 +1,54 @@
 [
   {
+    "id": "the-fable",
+    "epId": "the-fable-episode-17",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 17"
+  },
+  {
+    "id": "yume-senshi-wingman",
+    "epId": "yume-senshi-wingman-episode-23",
+    "title": "Yume Senshi Wingman",
+    "img": "https://gogocdn.net/cover/yume-senshi-wingman.png",
+    "episode": "Episode 23"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai-uncensored",
+    "epId": "elf-san-wa-yaserarenai-uncensored-episode-4",
+    "title": "Elf-san wa Yaserarenai (Uncensored)",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "make-heroine-ga-oosugiru",
+    "epId": "make-heroine-ga-oosugiru-episode-3",
+    "title": "Make Heroine ga Oosugiru!",
+    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "atri-my-dear-moments",
+    "epId": "atri-my-dear-moments-episode-3",
+    "title": "Atri: My Dear Moments",
+    "img": "https://gogocdn.net/cover/atri-my-dear-moments-1719512812.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi",
+    "epId": "nige-jouzu-no-wakagimi-episode-4",
+    "title": "Nige Jouzu no Wakagimi",
+    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-1719516716.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "tensui-no-sakuna-hime",
+    "epId": "tensui-no-sakuna-hime-episode-4",
+    "title": "Tensui no Sakuna-hime",
+    "img": "https://gogocdn.net/cover/tensui-no-sakuna-hime.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
     "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-episode-3",
     "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
@@ -448,13 +497,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "elf-san-wa-yaserarenai-uncensored",
-    "epId": "elf-san-wa-yaserarenai-uncensored-episode-3",
-    "title": "Elf-san wa Yaserarenai (Uncensored)",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "wonderful-precure",
     "epId": "wonderful-precure-episode-25",
     "title": "Wonderful Precure!",
@@ -497,46 +539,11 @@
     "episode": "Episode 51"
   },
   {
-    "id": "make-heroine-ga-oosugiru",
-    "epId": "make-heroine-ga-oosugiru-episode-2",
-    "title": "Make Heroine ga Oosugiru!",
-    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "the-snack-world-tv",
     "epId": "the-snack-world-tv-episode-31",
     "title": "The Snack World (TV)",
     "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
     "episode": "Episode 31"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-16",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 16"
-  },
-  {
-    "id": "atri-my-dear-moments",
-    "epId": "atri-my-dear-moments-episode-2",
-    "title": "Atri: My Dear Moments",
-    "img": "https://gogocdn.net/cover/atri-my-dear-moments-1719512812.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "nige-jouzu-no-wakagimi",
-    "epId": "nige-jouzu-no-wakagimi-episode-3",
-    "title": "Nige Jouzu no Wakagimi",
-    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-1719516716.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "tensui-no-sakuna-hime",
-    "epId": "tensui-no-sakuna-hime-episode-3",
-    "title": "Tensui no Sakuna-hime",
-    "img": "https://gogocdn.net/cover/tensui-no-sakuna-hime.png",
-    "episode": "Episode 3"
   },
   {
     "id": "detective-conan",
@@ -1944,13 +1951,6 @@
     "title": "Mashle 2nd Season",
     "img": "https://gogocdn.net/cover/mashle-2nd-season-1708568890.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "yume-senshi-wingman",
-    "epId": "yume-senshi-wingman-episode-22",
-    "title": "Yume Senshi Wingman",
-    "img": "https://gogocdn.net/cover/yume-senshi-wingman.png",
-    "episode": "Episode 22"
   },
   {
     "id": "detective-conan-kid-vs-komei-the-targeted-lips",
