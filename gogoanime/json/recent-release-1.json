@@ -1,5 +1,40 @@
 [
   {
+    "id": "na-nare-hana-nare",
+    "epId": "na-nare-hana-nare-episode-4",
+    "title": "Na Nare Hana Nare",
+    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-5",
+    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-4",
+    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "chibi-maruko-chan",
+    "epId": "chibi-maruko-chan-episode-1440",
+    "title": "Chibi Maruko-chan",
+    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
+    "episode": "Episode 1440"
+  },
+  {
+    "id": "kami-no-tou-ouji-no-kikan",
+    "epId": "kami-no-tou-ouji-no-kikan-episode-4",
+    "title": "Kami no Tou: Ouji no Kikan",
+    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "fairy-tail-100-years-quest",
     "epId": "fairy-tail-100-years-quest-episode-4",
     "title": "Fairy Tail: 100 Years Quest",
@@ -476,39 +511,11 @@
     "episode": "Episode 15"
   },
   {
-    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-4",
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "na-nare-hana-nare",
-    "epId": "na-nare-hana-nare-episode-3",
-    "title": "Na Nare Hana Nare",
-    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "linetown",
     "epId": "linetown-episode-11",
     "title": "Linetown",
     "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
     "episode": "Episode 11"
-  },
-  {
-    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-3",
-    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "kami-no-tou-ouji-no-kikan",
-    "epId": "kami-no-tou-ouji-no-kikan-episode-3",
-    "title": "Kami no Tou: Ouji no Kikan",
-    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
-    "episode": "Episode 3"
   },
   {
     "id": "0-saiji-start-dash-monogatari",
@@ -614,13 +621,6 @@
     "title": "Araiguma Rascal",
     "img": "https://gogocdn.net/cover/araiguma-rascal.png",
     "episode": "Episode 52"
-  },
-  {
-    "id": "chibi-maruko-chan",
-    "epId": "chibi-maruko-chan-episode-1439",
-    "title": "Chibi Maruko-chan",
-    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
-    "episode": "Episode 1439"
   },
   {
     "id": "lily-c-a-t",
