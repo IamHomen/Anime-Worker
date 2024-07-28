@@ -1,5 +1,26 @@
 [
   {
+    "id": "shinzo",
+    "epId": "shinzo-episode-19",
+    "title": "Shinzo",
+    "img": "https://gogocdn.net/images/anime/S/shinzo.jpg",
+    "episode": "Episode 19"
+  },
+  {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1113",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1113"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-26",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 26"
+  },
+  {
     "id": "the-fable",
     "epId": "the-fable-episode-17",
     "title": "The Fable",
@@ -497,13 +518,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-25",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 25"
-  },
-  {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
     "title": "Maze\u2606Bakunetsu Jikuu",
@@ -607,13 +621,6 @@
     "title": "Chibi Maruko-chan",
     "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
     "episode": "Episode 1439"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1112",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1112"
   },
   {
     "id": "lily-c-a-t",
@@ -2791,12 +2798,5 @@
     "title": "Wagamama\u2606Fairy Mirumo de Pon!",
     "img": "https://gogocdn.net/cover/wagamamafairy-mirumo-de-pon.png",
     "episode": "Episode 46"
-  },
-  {
-    "id": "ganbare-genki",
-    "epId": "ganbare-genki-episode-7",
-    "title": "Ganbare Genki",
-    "img": "https://gogocdn.net/cover/ganbare-genki.png",
-    "episode": "Episode 7"
   }
 ]
