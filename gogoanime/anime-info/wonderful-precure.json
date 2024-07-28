@@ -11,8 +11,12 @@
   "otherNames": "\u308f\u3093\u3060\u3075\u308b\u3077\u308a\u304d\u3085\u3042!",
   "synopsis": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Gargal, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
   "animeImg": "https://gogocdn.net/cover/wonderful-precure.png",
-  "totalEpisodes": "25",
+  "totalEpisodes": "26",
   "episodesList": [
+    {
+      "episodeId": "wonderful-precure-episode-26",
+      "episodeNum": "Episode 26"
+    },
     {
       "episodeId": "wonderful-precure-episode-25",
       "episodeNum": "Episode 25"

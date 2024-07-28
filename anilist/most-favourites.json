@@ -280,19 +280,19 @@
     "format": "TV"
   },
   {
-    "id": 108465,
-    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-B9S9zC68eS5j.jpg",
-    "seasonYear": 2021,
-    "totalEpisode": 11,
-    "format": "TV"
-  },
-  {
     "id": 110277,
     "title": "Shingeki no Kyojin: The Final Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-8KkJy3Cvj9aO.jpg",
     "seasonYear": 2021,
     "totalEpisode": 16,
+    "format": "TV"
+  },
+  {
+    "id": 108465,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-B9S9zC68eS5j.jpg",
+    "seasonYear": 2021,
+    "totalEpisode": 11,
     "format": "TV"
   },
   {
@@ -336,20 +336,20 @@
     "format": "TV"
   },
   {
-    "id": 120377,
-    "title": "Cyberpunk: Edgerunners",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
-    "seasonYear": 2022,
-    "totalEpisode": 10,
-    "format": "ONA"
-  },
-  {
     "id": 145064,
     "title": "Jujutsu Kaisen 2nd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5U30gu2LSOv8.jpg",
     "seasonYear": 2023,
     "totalEpisode": 23,
     "format": "TV"
+  },
+  {
+    "id": 120377,
+    "title": "Cyberpunk: Edgerunners",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
+    "seasonYear": 2022,
+    "totalEpisode": 10,
+    "format": "ONA"
   },
   {
     "id": 21450,
