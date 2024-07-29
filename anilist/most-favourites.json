@@ -96,14 +96,6 @@
     "format": "TV"
   },
   {
-    "id": 20464,
-    "title": "Haikyuu!!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-7fLWc7VvWeVB.png",
-    "seasonYear": 2014,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 21827,
     "title": "Violet Evergarden",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21827-10F6m50H4GJK.png",
@@ -117,6 +109,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg",
     "seasonYear": 2002,
     "totalEpisode": 220,
+    "format": "TV"
+  },
+  {
+    "id": 20464,
+    "title": "Haikyuu!!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-7fLWc7VvWeVB.png",
+    "seasonYear": 2014,
+    "totalEpisode": 25,
     "format": "TV"
   },
   {
@@ -280,19 +280,19 @@
     "format": "TV"
   },
   {
-    "id": 110277,
-    "title": "Shingeki no Kyojin: The Final Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-8KkJy3Cvj9aO.jpg",
-    "seasonYear": 2021,
-    "totalEpisode": 16,
-    "format": "TV"
-  },
-  {
     "id": 108465,
     "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-B9S9zC68eS5j.jpg",
     "seasonYear": 2021,
     "totalEpisode": 11,
+    "format": "TV"
+  },
+  {
+    "id": 110277,
+    "title": "Shingeki no Kyojin: The Final Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-8KkJy3Cvj9aO.jpg",
+    "seasonYear": 2021,
+    "totalEpisode": 16,
     "format": "TV"
   },
   {
@@ -336,20 +336,20 @@
     "format": "TV"
   },
   {
-    "id": 145064,
-    "title": "Jujutsu Kaisen 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5U30gu2LSOv8.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 23,
-    "format": "TV"
-  },
-  {
     "id": 120377,
     "title": "Cyberpunk: Edgerunners",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
     "seasonYear": 2022,
     "totalEpisode": 10,
     "format": "ONA"
+  },
+  {
+    "id": 145064,
+    "title": "Jujutsu Kaisen 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5U30gu2LSOv8.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 23,
+    "format": "TV"
   },
   {
     "id": 21450,
@@ -360,19 +360,19 @@
     "format": "TV"
   },
   {
-    "id": 19,
-    "title": "MONSTER",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
-    "seasonYear": 2004,
-    "totalEpisode": 74,
-    "format": "TV"
-  },
-  {
     "id": 101280,
     "title": "Tensei Shitara Slime Datta Ken",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-ezBXqEHi8pg0.jpg",
     "seasonYear": 2018,
     "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 19,
+    "title": "MONSTER",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
+    "seasonYear": 2004,
+    "totalEpisode": 74,
     "format": "TV"
   },
   {
@@ -392,11 +392,11 @@
     "format": "TV"
   },
   {
-    "id": 2904,
-    "title": "Code Geass: Hangyaku no Lelouch R2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Z6DhLHr1XWEH.jpg",
-    "seasonYear": 2008,
-    "totalEpisode": 25,
+    "id": 9756,
+    "title": "Mahou Shoujo Madoka\u2606Magica",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-qnR83EYPzY1Z.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 12,
     "format": "TV"
   }
 ]
