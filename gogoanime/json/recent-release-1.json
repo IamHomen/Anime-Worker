@@ -1,5 +1,12 @@
 [
   {
+    "id": "mayonaka-punch",
+    "epId": "mayonaka-punch-episode-4",
+    "title": "Mayonaka Punch",
+    "img": "https://gogocdn.net/cover/mayonaka-punch.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-3",
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
@@ -509,13 +516,6 @@
     "title": "Shy 2nd Season",
     "img": "https://gogocdn.net/cover/shy-2nd-season.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "mayonaka-punch",
-    "epId": "mayonaka-punch-episode-3",
-    "title": "Mayonaka Punch",
-    "img": "https://gogocdn.net/cover/mayonaka-punch.png",
-    "episode": "Episode 3"
   },
   {
     "id": "linetown",
