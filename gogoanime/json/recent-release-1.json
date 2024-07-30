@@ -1,5 +1,33 @@
 [
   {
+    "id": "ohayou-spank",
+    "epId": "ohayou-spank-episode-32",
+    "title": "Ohayou! Spank",
+    "img": "https://gogocdn.net/cover/ohayou-spank.png",
+    "episode": "Episode 32"
+  },
+  {
+    "id": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie",
+    "epId": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie-episode-1",
+    "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie",
+    "img": "https://gogocdn.net/cover/kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "sd-gundam-force",
+    "epId": "sd-gundam-force-episode-40-52",
+    "title": "SD Gundam Force",
+    "img": "https://gogocdn.net/cover/sd-gundam-force.png",
+    "episode": "Episode 40.52"
+  },
+  {
+    "id": "paul-no-miracle-daisakusen",
+    "epId": "paul-no-miracle-daisakusen-episode-50",
+    "title": "Paul no Miracle Daisakusen",
+    "img": "https://gogocdn.net/cover/paul-no-miracle-daisakusen.png",
+    "episode": "Episode 50"
+  },
+  {
     "id": "akuma-kun",
     "epId": "akuma-kun-episode-13",
     "title": "Akuma-kun",
@@ -1491,13 +1519,6 @@
     "episode": "Episode 9"
   },
   {
-    "id": "ohayou-spank",
-    "epId": "ohayou-spank-episode-16",
-    "title": "Ohayou! Spank",
-    "img": "https://gogocdn.net/cover/ohayou-spank.png",
-    "episode": "Episode 16"
-  },
-  {
     "id": "honoo-no-labyrinth",
     "epId": "honoo-no-labyrinth-episode-2",
     "title": "Honoo no Labyrinth",
@@ -2492,13 +2513,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "sd-gundam-force",
-    "epId": "sd-gundam-force-episode-39",
-    "title": "SD Gundam Force",
-    "img": "https://gogocdn.net/cover/sd-gundam-force.png",
-    "episode": "Episode 39"
-  },
-  {
     "id": "stitch",
     "epId": "stitch-episode-25",
     "title": "Stitch!",
@@ -2630,13 +2644,6 @@
     "title": "Sen to Chihiro no Kamikakushi",
     "img": "https://gogocdn.net/cover/sen-to-chihiro-no-kamikakushi.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "paul-no-miracle-daisakusen",
-    "epId": "paul-no-miracle-daisakusen-episode-40",
-    "title": "Paul no Miracle Daisakusen",
-    "img": "https://gogocdn.net/cover/paul-no-miracle-daisakusen.png",
-    "episode": "Episode 40"
   },
   {
     "id": "captain-future-kareinaru-taiyokei-race",
@@ -2791,12 +2798,5 @@
     "title": "Submarine 707R",
     "img": "https://gogocdn.net/cover/submarine-707r.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "wagamamafairy-mirumo-de-pon",
-    "epId": "wagamamafairy-mirumo-de-pon-episode-46",
-    "title": "Wagamama\u2606Fairy Mirumo de Pon!",
-    "img": "https://gogocdn.net/cover/wagamamafairy-mirumo-de-pon.png",
-    "episode": "Episode 46"
   }
 ]
