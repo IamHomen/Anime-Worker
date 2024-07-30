@@ -16950,12 +16950,6 @@
     "date": "2006"
   },
   {
-    "id": "a-wind-named-amnesia",
-    "title": "A Wind Named Amnesia",
-    "img": "https://gogocdn.net/images/anime/A/11114.jpg",
-    "date": "1990"
-  },
-  {
     "id": "mushishi-zoku-shou-2",
     "title": "Mushishi Zoku Shou 2",
     "img": "https://gogocdn.net/images/fall/Mushishi Zoku Shou.jpg",
@@ -62646,6 +62640,12 @@
     "date": "2003"
   },
   {
+    "id": "mahou-tsukai-ni-taisetsu-na-koto-dub",
+    "title": "Mahou Tsukai ni Taisetsu na Koto (Dub)",
+    "img": "https://gogocdn.net/cover/mahou-tsukai-ni-taisetsu-na-koto-dub.png",
+    "date": "2003"
+  },
+  {
     "id": "bang-dream-pastel-life",
     "title": "BanG Dream! Pastel Life",
     "img": "https://gogocdn.net/cover/bang-dream-pastel-life.png",
@@ -67552,6 +67552,12 @@
     "title": "Star Wars: The Clone Wars (2008) (Dub)",
     "img": "https://gogocdn.net/cover/star-wars-the-clone-wars-2008-dub.png",
     "date": "2008"
+  },
+  {
+    "id": "billionaires-masked-bride-s1",
+    "title": "Billionaire's Masked Bride Season 1",
+    "img": "https://gogocdn.net/cover/billionaires-masked-bride-s1.png",
+    "date": "2022"
   },
   {
     "id": "billionaires-masked-bride-s1",
@@ -73426,6 +73432,12 @@
     "title": "Hi no Tori: Uchuu-hen",
     "img": "https://gogocdn.net/cover/hi-no-tori-uchuu-hen.png",
     "date": "1987"
+  },
+  {
+    "id": "mousou-kagaku-series-wandaba-style",
+    "title": "Mousou Kagaku Series: Wandaba Style",
+    "img": "https://gogocdn.net/cover/mousou-kagaku-series-wandaba-style.png",
+    "date": "2003"
   },
   {
     "id": "mousou-kagaku-series-wandaba-style",
@@ -80146,17 +80158,5 @@
     "title": "Shen Zhiyi Jiao",
     "img": "https://gogocdn.net/cover/shen-zhiyi-jiao.png",
     "date": "2024"
-  },
-  {
-    "id": "i-upset-millions-of-cultivators-2024",
-    "title": "I Upset Millions of Cultivators (2024)",
-    "img": "https://gogocdn.net/",
-    "date": "2024"
-  },
-  {
-    "id": "phantom-of-the-kill-zero-kara-no-hangyaku-movie",
-    "title": "Phantom of the Kill: Zero kara no Hangyaku - MOVIE",
-    "img": "https://gogocdn.net/cover/phantom-of-the-kill-zero-kara-no-hangyaku-movie.jpg",
-    "date": "2016"
   }
 ]

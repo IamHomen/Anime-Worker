@@ -1,5 +1,12 @@
 [
   {
+    "id": "akuma-kun",
+    "epId": "akuma-kun-episode-13",
+    "title": "Akuma-kun",
+    "img": "https://gogocdn.net/cover/akuma-kun.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-18",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
@@ -880,13 +887,6 @@
     "title": "Mahouka Koukou no Rettousei 3rd Season",
     "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "akuma-kun",
-    "epId": "akuma-kun-episode-12",
-    "title": "Akuma-kun",
-    "img": "https://gogocdn.net/cover/akuma-kun.png",
-    "episode": "Episode 12"
   },
   {
     "id": "wind-breaker",

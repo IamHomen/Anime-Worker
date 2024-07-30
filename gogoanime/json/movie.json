@@ -4350,12 +4350,6 @@
     "date": "2010"
   },
   {
-    "id": "a-wind-named-amnesia",
-    "title": "A Wind Named Amnesia",
-    "img": "https://gogocdn.net/images/anime/A/11114.jpg",
-    "date": "1990"
-  },
-  {
     "id": "shakugan-no-shana-movie",
     "title": "Shakugan No Shana Movie",
     "img": "https://gogocdn.net/images/anime/S/shakugan-no-shana.jpg",
@@ -6300,6 +6294,12 @@
     "date": "2005"
   },
   {
+    "id": "indie-anibox-selma-danbaekjil-coffee",
+    "title": "Indie Anibox: Selma Danbaekjil Coffee",
+    "img": "https://gogocdn.net/cover/indie-anibox-selma-danbaekjil-coffee.png",
+    "date": "2008"
+  },
+  {
     "id": "howls-moving-castle-dub",
     "title": "Howl's Moving Castle (Dub)",
     "img": "https://gogocdn.net/cover/howls-moving-castle-dub.png",
@@ -6394,6 +6394,12 @@
     "title": "Entotsu Machi no Poupelle (Dub)",
     "img": "https://gogocdn.net/cover/entotsu-machi-no-poupelle-dub.png",
     "date": "2020"
+  },
+  {
+    "id": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie",
+    "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie",
+    "img": "https://gogocdn.net/cover/kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie.png",
+    "date": "1999"
   },
   {
     "id": "lupin-iii-the-castle-of-cagliostro-dub",
@@ -13432,11 +13438,5 @@
     "title": "Tenki no Ko (Dub)",
     "img": "https://gogocdn.net/cover/tenki-no-ko-dub.png",
     "date": "2019"
-  },
-  {
-    "id": "jujutsu-kaisen-0",
-    "title": "Jujutsu Kaisen 0",
-    "img": "https://gogocdn.net/cover/jujutsu-kaisen-0.png",
-    "date": "2021"
   }
 ]
