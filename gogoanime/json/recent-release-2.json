@@ -1,5 +1,19 @@
 [
   {
+    "id": "shy-2nd-season-dub",
+    "epId": "shy-2nd-season-dub-episode-3",
+    "title": "Shy 2nd Season (Dub)",
+    "img": "https://gogocdn.net/cover/shy-2nd-season-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "mato-seihei-no-slave-dub",
+    "epId": "mato-seihei-no-slave-dub-episode-1",
+    "title": "Mato Seihei no Slave (Dub)",
+    "img": "https://gogocdn.net/cover/mato-seihei-no-slave-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "yozakura-san-chi-no-daisakusen-dub",
     "epId": "yozakura-san-chi-no-daisakusen-dub-episode-7",
     "title": "Yozakura-san Chi no Daisakusen (Dub)",
@@ -236,13 +250,6 @@
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
     "img": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub.png",
     "episode": "Episode 15"
-  },
-  {
-    "id": "shy-2nd-season-dub",
-    "epId": "shy-2nd-season-dub-episode-2",
-    "title": "Shy 2nd Season (Dub)",
-    "img": "https://gogocdn.net/cover/shy-2nd-season-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "pokemon-2023-dub",
@@ -2791,12 +2798,5 @@
     "title": "Akiba Meido Sensou (Dub)",
     "img": "https://gogocdn.net/cover/akiba-meido-sensou-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-nidub",
-    "epId": "psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-nidub-episode-1",
-    "title": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni\uff3f\uff3f(Dub)",
-    "img": "https://gogocdn.net/cover/psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-nidub.png",
-    "episode": "Episode 1"
   }
 ]
