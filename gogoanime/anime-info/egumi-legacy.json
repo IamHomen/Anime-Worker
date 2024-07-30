@@ -9,8 +9,12 @@
   "otherNames": "\u30a8\u30b0\u30df\u30ec\u30ac\u30b7\u30fc",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/egumi-legacy.png",
-  "totalEpisodes": "3",
+  "totalEpisodes": "4",
   "episodesList": [
+    {
+      "episodeId": "egumi-legacy-episode-4",
+      "episodeNum": "Episode 4"
+    },
     {
       "episodeId": "egumi-legacy-episode-3",
       "episodeNum": "Episode 3"
