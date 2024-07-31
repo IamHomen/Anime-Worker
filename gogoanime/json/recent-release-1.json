@@ -1,5 +1,33 @@
 [
   {
+    "id": "kagaku-bouken-tai-tansar-5",
+    "epId": "kagaku-bouken-tai-tansar-5-episode-11",
+    "title": "Kagaku Bouken-tai Tansar 5",
+    "img": "https://gogocdn.net/cover/kagaku-bouken-tai-tansar-5.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "project-a-ko",
+    "epId": "project-a-ko-episode-1",
+    "title": "Project A-Ko",
+    "img": "https://gogocdn.net/cover/project-a-ko.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "project-a-ko-3-cinderella-rhapsody",
+    "epId": "project-a-ko-3-cinderella-rhapsody-episode-1",
+    "title": "Project A-Ko 3: Cinderella Rhapsody",
+    "img": "https://gogocdn.net/cover/project-a-ko-3-cinderella-rhapsody.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "1000-nen-joou-queen-millennia",
+    "epId": "1000-nen-joou-queen-millennia-episode-1",
+    "title": "1000-nen Joou: Queen Millennia",
+    "img": "https://gogocdn.net/cover/1000-nen-joou-queen-millennia.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ariel-visual",
     "epId": "ariel-visual-episode-2",
     "title": "Ariel Visual",
@@ -474,6 +502,13 @@
     "title": "Isekai Suicide Squad",
     "img": "https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png",
     "episode": "Episode 7"
+  },
+  {
+    "id": "saint-october",
+    "epId": "saint-october-episode-26",
+    "title": "Saint October ",
+    "img": "https://gogocdn.net/images/anime/S/saint-october.jpg",
+    "episode": "Episode 26"
   },
   {
     "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2",
@@ -2762,41 +2797,6 @@
     "epId": "amrita-no-kyouen-episode-1",
     "title": "Amrita no Kyouen",
     "img": "https://gogocdn.net/cover/amrita-no-kyouen-1708480243.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "yoroiden-samurai-troopers-kikoutei-densetsu",
-    "epId": "yoroiden-samurai-troopers-kikoutei-densetsu-episode-4",
-    "title": "Yoroiden Samurai Troopers Kikoutei Densetsu",
-    "img": "https://gogocdn.net/cover/yoroiden-samurai-troopers-kikoutei-densetsu.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "yoroiden-samurai-troopers-message",
-    "epId": "yoroiden-samurai-troopers-message-episode-5",
-    "title": "Yoroiden Samurai Troopers Message",
-    "img": "https://gogocdn.net/cover/yoroiden-samurai-troopers-message.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "tongari-boushi-no-memole-marielle-no-housekibako",
-    "epId": "tongari-boushi-no-memole-marielle-no-housekibako-episode-1",
-    "title": "Tongari Boushi no Memole: Marielle no Housekibako",
-    "img": "https://gogocdn.net/cover/tongari-boushi-no-memole-marielle-no-housekibako.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "duel-masters-win",
-    "epId": "duel-masters-win-episode-5",
-    "title": "Duel Masters Win",
-    "img": "https://gogocdn.net/cover/duel-masters-win.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "kiss-dum-r-meguriahi",
-    "epId": "kiss-dum-r-meguriahi-episode-1",
-    "title": "Kiss Dum R: Meguriahi",
-    "img": "https://gogocdn.net/cover/kiss-dum-r-meguriahi.png",
     "episode": "Episode 1"
   }
 ]

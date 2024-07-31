@@ -1,12 +1,5 @@
 [
   {
-    "id": "1000-nen-joou-queen-millennia",
-    "epId": "1000-nen-joou-queen-millennia-episode-1",
-    "title": "1000-nen Joou: Queen Millennia",
-    "img": "https://gogocdn.net/cover/1000-nen-joou-queen-millennia.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "isekai-shikkaku-dub",
     "epId": "isekai-shikkaku-dub-episode-1",
     "title": "Isekai Shikkaku (Dub)",
@@ -2797,6 +2790,13 @@
     "epId": "bokura-no-nanokakan-sensou-dub-episode-1",
     "title": "Bokura no Nanokakan Sensou (Dub)",
     "img": "https://gogocdn.net/cover/bokura-no-nanokakan-sensou-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "one-piece",
+    "epId": "one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken-dub-episode-1",
+    "title": "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken (Dub)",
+    "img": "https://gogocdn.net/cover/one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken-dub.png",
     "episode": "Episode 1"
   }
 ]
