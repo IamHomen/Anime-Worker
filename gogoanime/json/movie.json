@@ -6672,6 +6672,12 @@
     "date": "2012"
   },
   {
+    "id": "project-a-ko",
+    "title": "Project A-Ko",
+    "img": "https://gogocdn.net/cover/project-a-ko.png",
+    "date": "1986"
+  },
+  {
     "id": "appleseed-alpha-dub",
     "title": "Appleseed Alpha (Dub)",
     "img": "https://gogocdn.net/cover/appleseed-alpha-dub.png",
@@ -13432,11 +13438,5 @@
     "title": "Doraemon Movie 38: Nobita no Takarajima",
     "img": "https://gogocdn.net/cover/doraemon-movie-38-nobita-no-takarajima.png",
     "date": "2018"
-  },
-  {
-    "id": "muumindani-no-suisei",
-    "title": "Muumindani no Suisei",
-    "img": "https://gogocdn.net/cover/muumindani-no-suisei.png",
-    "date": "1992"
   }
 ]

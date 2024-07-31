@@ -1,0 +1,26 @@
+{
+  "animeTitle": "Ariel Deluxe",
+  "type": "OVA",
+  "releasedDate": "1991",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "otherNames": "DELUXE ARIEL (\u30a8\u30ea\u30a2\u30eb)",
+  "synopsis": "Those incompetent aliens are still plotting to conquer the Earth! The only obstacle in their path is the giant, feminine robot ARIEL! But the young pilots have lives of their own... When Kazumi receives a mysterious love letter from a secret admirer, should she cancel her first date just to save the Earth?",
+  "animeImg": "https://gogocdn.net/cover/ariel-deluxe.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "ariel-deluxe-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ariel-deluxe-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

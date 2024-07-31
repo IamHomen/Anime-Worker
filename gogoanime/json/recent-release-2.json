@@ -1,5 +1,26 @@
 [
   {
+    "id": "1000-nen-joou-queen-millennia",
+    "epId": "1000-nen-joou-queen-millennia-episode-1",
+    "title": "1000-nen Joou: Queen Millennia",
+    "img": "https://gogocdn.net/cover/1000-nen-joou-queen-millennia.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "isekai-shikkaku-dub",
+    "epId": "isekai-shikkaku-dub-episode-1",
+    "title": "Isekai Shikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-18",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 18"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub-episode-16",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
@@ -236,13 +257,6 @@
     "title": "Sentai Daishikkaku (Dub)",
     "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-17",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 17"
   },
   {
     "id": "ashita-no-joe-movie-dub",
@@ -2784,19 +2798,5 @@
     "title": "Bokura no Nanokakan Sensou (Dub)",
     "img": "https://gogocdn.net/cover/bokura-no-nanokakan-sensou-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken-dub-episode-1",
-    "title": "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken (Dub)",
-    "img": "https://gogocdn.net/cover/one-piece-episode-of-east-blue-luffy-to-4-nin-no-nakama-no-daibouken-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "akiba-meido-sensou-dub",
-    "epId": "akiba-meido-sensou-dub-episode-12",
-    "title": "Akiba Meido Sensou (Dub)",
-    "img": "https://gogocdn.net/cover/akiba-meido-sensou-dub.png",
-    "episode": "Episode 12"
   }
 ]
