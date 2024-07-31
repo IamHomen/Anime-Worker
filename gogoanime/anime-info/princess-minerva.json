@@ -1,0 +1,22 @@
+{
+  "animeTitle": "Princess Minerva",
+  "type": "OVA",
+  "releasedDate": "1995",
+  "status": "Completed",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Parody"
+  ],
+  "otherNames": "\u30d7\u30ea\u30f3\u30bb\u30b9 \u30df\u30cd\u30eb\u30d0",
+  "synopsis": "Princess Minerva enters a tournament that offers the winner a fortune. But when her bodyguard gets kidnapped by an evil sorceress, things really start to heat up.",
+  "animeImg": "https://gogocdn.net/cover/princess-minerva.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "princess-minerva-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
