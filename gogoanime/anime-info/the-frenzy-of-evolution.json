@@ -10,8 +10,12 @@
   "otherNames": "\u8fdb\u5316\u72c2\u6f6e",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-frenzy-of-evolution.png",
-  "totalEpisodes": "64",
+  "totalEpisodes": "65",
   "episodesList": [
+    {
+      "episodeId": "the-frenzy-of-evolution-episode-65",
+      "episodeNum": "Episode 65"
+    },
     {
       "episodeId": "the-frenzy-of-evolution-episode-64",
       "episodeNum": "Episode 64"
