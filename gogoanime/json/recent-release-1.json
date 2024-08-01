@@ -1,5 +1,33 @@
 [
   {
+    "id": "toushi-gordian",
+    "epId": "toushi-gordian-episode-31",
+    "title": "Toushi Gordian",
+    "img": "https://gogocdn.net/cover/toushi-gordian.png",
+    "episode": "Episode 31"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-5",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "princess-minerva",
+    "epId": "princess-minerva-episode-1",
+    "title": "Princess Minerva",
+    "img": "https://gogocdn.net/cover/princess-minerva.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-3",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "koi-wa-futago-de-warikirenai",
     "epId": "koi-wa-futago-de-warikirenai-episode-4",
     "title": "Koi wa Futago de Warikirenai",
@@ -525,13 +553,6 @@
     "episode": "Episode 4"
   },
   {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-4",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "gimai-seikatsu",
     "epId": "gimai-seikatsu-episode-4",
     "title": "Gimai Seikatsu",
@@ -558,13 +579,6 @@
     "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
     "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-2",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 2"
   },
   {
     "id": "yugioh-go-rush",
@@ -2783,20 +2797,6 @@
     "epId": "a-kite-episode-1",
     "title": "A Kite",
     "img": "https://gogocdn.net/cover/a-kite.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "appleseed-movie",
-    "epId": "appleseed-movie-episode-1",
-    "title": "Appleseed (Movie)",
-    "img": "https://gogocdn.net/cover/appleseed-movie.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "amrita-no-kyouen",
-    "epId": "amrita-no-kyouen-episode-1",
-    "title": "Amrita no Kyouen",
-    "img": "https://gogocdn.net/cover/amrita-no-kyouen-1708480243.png",
     "episode": "Episode 1"
   }
 ]
