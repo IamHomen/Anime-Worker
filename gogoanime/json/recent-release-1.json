@@ -1,5 +1,26 @@
 [
   {
+    "id": "kimi-ni-todoke-3rd-season",
+    "epId": "kimi-ni-todoke-3rd-season-episode-4",
+    "title": "Kimi ni Todoke 3rd Season",
+    "img": "https://gogocdn.net/cover/kimi-ni-todoke-3rd-season.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "spy-x-family-movie-code-white",
+    "epId": "spy-x-family-movie-code-white-episode-1",
+    "title": "Spy x Family Movie: Code: White",
+    "img": "https://gogocdn.net/cover/spy-x-family-movie-code-white-1722519917.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-5",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "isekai-suicide-squad",
     "epId": "isekai-suicide-squad-episode-8",
     "title": "Isekai Suicide Squad",
@@ -564,13 +585,6 @@
     "epId": "tasogare-out-focus-episode-4",
     "title": "Tasogare Out Focus",
     "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-4",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
     "episode": "Episode 4"
   },
   {
@@ -2783,20 +2797,6 @@
     "epId": "great-pretender-razbliuto-episode-1",
     "title": "Great Pretender: Razbliuto",
     "img": "https://gogocdn.net/cover/great-pretender-razbliuto.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kimi-ni-todoke-kataomoi",
-    "epId": "kimi-ni-todoke-kataomoi-episode-1",
-    "title": "Kimi ni Todoke: Kataomoi",
-    "img": "https://gogocdn.net/cover/kimi-ni-todoke-kataomoi.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "a-kite",
-    "epId": "a-kite-episode-1",
-    "title": "A Kite",
-    "img": "https://gogocdn.net/cover/a-kite.png",
     "episode": "Episode 1"
   }
 ]

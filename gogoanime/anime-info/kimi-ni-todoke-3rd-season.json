@@ -1,0 +1,42 @@
+{
+  "animeTitle": "Kimi ni Todoke 3rd Season",
+  "type": "ONA",
+  "releasedDate": "2024",
+  "status": "Completed",
+  "genres": [
+    "Drama",
+    "Romance",
+    "School",
+    "Shounen"
+  ],
+  "otherNames": "Kimi ni Todoke: From Me to You Season 3, \u541b\u306b\u5c4a\u30513RD SEASON",
+  "synopsis": "Third season of Kimi ni Todoke.",
+  "animeImg": "https://gogocdn.net/cover/kimi-ni-todoke-3rd-season.png",
+  "totalEpisodes": "5",
+  "episodesList": [
+    {
+      "episodeId": "kimi-ni-todoke-3rd-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "kimi-ni-todoke-3rd-season-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "kimi-ni-todoke-3rd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "kimi-ni-todoke-3rd-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "kimi-ni-todoke-3rd-season-episode-1",
+      "episodeNum": "Episode 1"
+    },
+    {
+      "episodeId": "kimi-ni-todoke-3rd-season",
+      "episodeNum": "Episode 0"
+    }
+  ]
+}
