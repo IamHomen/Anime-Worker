@@ -1,5 +1,19 @@
 [
   {
+    "id": "tasogare-out-focus-dub",
+    "epId": "tasogare-out-focus-dub-episode-3",
+    "title": "Tasogare Out Focus (Dub)",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "kimi-ni-todoke-3rd-season-dub",
+    "epId": "kimi-ni-todoke-3rd-season-dub-episode-5",
+    "title": "Kimi ni Todoke 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/kimi-ni-todoke-3rd-season-dub.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "natsume-yuujinchou-go-specials-dub",
     "epId": "natsume-yuujinchou-go-specials-dub-episode-2",
     "title": "Natsume Yuujinchou Go Specials (Dub)",
@@ -229,13 +243,6 @@
     "title": "Bartender: Kami no Glass (Dub)",
     "img": "https://gogocdn.net/cover/bartender-kami-no-glass-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tasogare-out-focus-dub",
-    "epId": "tasogare-out-focus-dub-episode-2",
-    "title": "Tasogare Out Focus (Dub)",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "isekai-suicide-squad-dub",
@@ -2791,12 +2798,5 @@
     "title": "Hyouken no Majutsushi ga Sekai wo Suberu (Dub)",
     "img": "https://gogocdn.net/cover/hyouken-no-majutsushi-ga-sekai-wo-suberu-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "bokura-no-nanokakan-sensou-dub",
-    "epId": "bokura-no-nanokakan-sensou-dub-episode-1",
-    "title": "Bokura no Nanokakan Sensou (Dub)",
-    "img": "https://gogocdn.net/cover/bokura-no-nanokakan-sensou-dub.png",
-    "episode": "Episode 1"
   }
 ]

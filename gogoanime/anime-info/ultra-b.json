@@ -1,0 +1,28 @@
+{
+  "animeTitle": "Ultra B",
+  "type": "TV Series",
+  "releasedDate": "1987",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Super Power"
+  ],
+  "otherNames": "\u30a6\u30eb\u30c8\u30e9 B",
+  "synopsis": "Ultra B (UB), is a small child from outer space who wears red sunglasses and has a star-shaped mole on his left cheek. It all began when UB's spaceship made an emergency landing in the forest. Lost and alone, UB was found by a young school boy named Michio. He was kind enough to take UB home for shelter, but only to learn that he was no ordinary child... but with supernatural powers! Thankful UB tries to use his special power to help Michio in trouble, but doesn\u2019t mean that it always work out well. Especially, when UB sees a scary black cat, he loses control, and\u2026",
+  "animeImg": "https://gogocdn.net/cover/ultra-b.png",
+  "totalEpisodes": "3",
+  "episodesList": [
+    {
+      "episodeId": "ultra-b-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "ultra-b-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ultra-b-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
