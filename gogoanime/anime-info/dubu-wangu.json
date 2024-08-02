@@ -13,8 +13,12 @@
   "otherNames": "\u72ec\u6b65\u4e07\u53e4, Glorious Revenge of Ye Feng",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/dubu-wangu.png",
-  "totalEpisodes": "80",
+  "totalEpisodes": "81",
   "episodesList": [
+    {
+      "episodeId": "dubu-wangu-episode-81",
+      "episodeNum": "Episode 81"
+    },
     {
       "episodeId": "dubu-wangu-episode-80",
       "episodeNum": "Episode 80"
