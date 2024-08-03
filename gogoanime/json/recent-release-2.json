@@ -1,5 +1,33 @@
 [
   {
+    "id": "bye-bye-earth-dub",
+    "epId": "bye-bye-earth-dub-episode-2",
+    "title": "Bye Bye, Earth (Dub)",
+    "img": "https://gogocdn.net/cover/bye-bye-earth-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-15",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
+    "episode": "Episode 15"
+  },
+  {
+    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub",
+    "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub-episode-9",
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 (Dub)",
+    "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2-dub",
+    "epId": "nierautomata-ver1-1a-part-2-dub-episode-1",
+    "title": "NieR:Automata Ver1.1a Part 2 (Dub)",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub",
     "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub-episode-3",
     "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. (Dub)",
@@ -217,20 +245,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "bye-bye-earth-dub",
-    "epId": "bye-bye-earth-dub-episode-1",
-    "title": "Bye Bye, Earth (Dub)",
-    "img": "https://gogocdn.net/cover/bye-bye-earth-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-14",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
-    "episode": "Episode 14"
-  },
-  {
     "id": "mahouka-koukou-no-rettousei-3rd-season-dub",
     "epId": "mahouka-koukou-no-rettousei-3rd-season-dub-episode-11",
     "title": "Mahouka Koukou no Rettousei 3rd Season (Dub)",
@@ -292,13 +306,6 @@
     "title": "Cardfight!! Vanguard: Divinez (Dub)",
     "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub",
-    "epId": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub-episode-8",
-    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 (Dub)",
-    "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub.png",
-    "episode": "Episode 8"
   },
   {
     "id": "30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-dub",
@@ -2790,13 +2797,6 @@
     "epId": "revenger-dub-episode-12",
     "title": "Revenger (Dub)",
     "img": "https://gogocdn.net/cover/revenger-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "hyouken-no-majutsushi-ga-sekai-wo-suberu-dub",
-    "epId": "hyouken-no-majutsushi-ga-sekai-wo-suberu-dub-episode-12",
-    "title": "Hyouken no Majutsushi ga Sekai wo Suberu (Dub)",
-    "img": "https://gogocdn.net/cover/hyouken-no-majutsushi-ga-sekai-wo-suberu-dub.png",
     "episode": "Episode 12"
   }
 ]
