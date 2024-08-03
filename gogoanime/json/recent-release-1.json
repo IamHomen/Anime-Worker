@@ -1,5 +1,12 @@
 [
   {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-5",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-16",
     "title": "Shadowverse Flame: Arc-hen",
@@ -140,13 +147,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "tasogare-out-focus",
-    "epId": "tasogare-out-focus-episode-5",
-    "title": "Tasogare Out Focus",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
     "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-5",
     "title": "Ore wa Subete wo ",
@@ -277,6 +277,13 @@
     "epId": "project-a-ko-3-cinderella-rhapsody-episode-1",
     "title": "Project A-Ko 3: Cinderella Rhapsody",
     "img": "https://gogocdn.net/cover/project-a-ko-3-cinderella-rhapsody.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "1000-nen-joou-queen-millennia",
+    "epId": "1000-nen-joou-queen-millennia-episode-1",
+    "title": "1000-nen Joou: Queen Millennia",
+    "img": "https://gogocdn.net/cover/1000-nen-joou-queen-millennia.png",
     "episode": "Episode 1"
   },
   {
@@ -579,13 +586,6 @@
     "title": "Yamato yo, Towa ni: Rebel 3199",
     "img": "https://gogocdn.net/cover/yamato-yo-towa-ni-rebel-3199-1722023363.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-4",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 4"
   },
   {
     "id": "dungeon-no-naka-no-hito",
