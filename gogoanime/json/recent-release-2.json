@@ -1,5 +1,33 @@
 [
   {
+    "id": "make-heroine-ga-oosugiru-dub",
+    "epId": "make-heroine-ga-oosugiru-dub-episode-2",
+    "title": "Make Heroine ga Oosugiru! (Dub)",
+    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi-dub",
+    "epId": "nige-jouzu-no-wakagimi-dub-episode-1",
+    "title": "Nige Jouzu no Wakagimi (Dub)",
+    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season-dub",
+    "epId": "boku-no-hero-academia-7th-season-dub-episode-11",
+    "title": "Boku no Hero Academia 7th Season (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub",
+    "epId": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub-episode-7",
+    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-2nd-season-dub.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "beyblade-x-dub",
     "epId": "beyblade-x-dub-episode-6",
     "title": "Beyblade X (Dub)",
@@ -229,27 +257,6 @@
     "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Dub)",
     "img": "https://gogocdn.net/cover/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub",
-    "epId": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub-episode-6",
-    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season (Dub)",
-    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-2nd-season-dub.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "make-heroine-ga-oosugiru-dub",
-    "epId": "make-heroine-ga-oosugiru-dub-episode-1",
-    "title": "Make Heroine ga Oosugiru! (Dub)",
-    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season-dub",
-    "epId": "boku-no-hero-academia-7th-season-dub-episode-10",
-    "title": "Boku no Hero Academia 7th Season (Dub)",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
-    "episode": "Episode 10"
   },
   {
     "id": "kono-sekai-wa-fukanzen-sugiru-dub",
@@ -2791,12 +2798,5 @@
     "title": "Tonikaku Kawaii: Seifuku (Dub)",
     "img": "https://gogocdn.net/cover/tonikaku-kawaii-seifuku-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "revenger-dub",
-    "epId": "revenger-dub-episode-12",
-    "title": "Revenger (Dub)",
-    "img": "https://gogocdn.net/cover/revenger-dub.png",
-    "episode": "Episode 12"
   }
 ]

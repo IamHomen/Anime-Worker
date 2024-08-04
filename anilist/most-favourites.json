@@ -112,19 +112,19 @@
     "format": "TV"
   },
   {
-    "id": 20,
-    "title": "NARUTO",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg",
-    "seasonYear": 2002,
-    "totalEpisode": 220,
-    "format": "TV"
-  },
-  {
     "id": 154587,
     "title": "Sousou no Frieren",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
     "seasonYear": 2023,
     "totalEpisode": 28,
+    "format": "TV"
+  },
+  {
+    "id": 20,
+    "title": "NARUTO",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg",
+    "seasonYear": 2002,
+    "totalEpisode": 220,
     "format": "TV"
   },
   {
@@ -192,6 +192,14 @@
     "format": "TV"
   },
   {
+    "id": 124080,
+    "title": "Horimiya",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
+    "seasonYear": 2021,
+    "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
     "id": 1575,
     "title": "Code Geass: Hangyaku no Lelouch",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-dG7vMMZMF3wk.jpg",
@@ -205,14 +213,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
     "seasonYear": 2019,
     "totalEpisode": 10,
-    "format": "TV"
-  },
-  {
-    "id": 124080,
-    "title": "Horimiya",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
-    "seasonYear": 2021,
-    "totalEpisode": 13,
     "format": "TV"
   },
   {
