@@ -11,8 +11,16 @@
   "otherNames": "\u30b9\u30fc\u30d1\u30fc\u30c5\u30ac\u30f3",
   "synopsis": "A story about mahjong.",
   "animeImg": "https://gogocdn.net/cover/super-zugan.png",
-  "totalEpisodes": "12",
+  "totalEpisodes": "14",
   "episodesList": [
+    {
+      "episodeId": "super-zugan-episode-14",
+      "episodeNum": "Episode 14"
+    },
+    {
+      "episodeId": "super-zugan-episode-13",
+      "episodeNum": "Episode 13"
+    },
     {
       "episodeId": "super-zugan-episode-12",
       "episodeNum": "Episode 12"
