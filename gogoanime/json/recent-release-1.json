@@ -1,5 +1,19 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1114",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1114"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-27",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 27"
+  },
+  {
     "id": "youkai-ningen-bem-2006",
     "epId": "youkai-ningen-bem-2006-episode-1",
     "title": "Youkai Ningen Bem (2006)",
@@ -593,20 +607,6 @@
     "title": "Shinzo",
     "img": "https://gogocdn.net/images/anime/S/shinzo.jpg",
     "episode": "Episode 19"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1113",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1113"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-26",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 26"
   },
   {
     "id": "yume-senshi-wingman",
