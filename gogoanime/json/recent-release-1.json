@@ -1,5 +1,12 @@
 [
   {
+    "id": "tsue-to-tsurugi-no-wistoria",
+    "epId": "tsue-to-tsurugi-no-wistoria-episode-4",
+    "title": "Tsue to Tsurugi no Wistoria",
+    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "one-piece",
     "epId": "one-piece-episode-1114",
     "title": "One Piece",
@@ -2791,12 +2798,5 @@
     "title": "Shin Grimm Meisaku Gekijou",
     "img": "https://gogocdn.net/cover/shin-grimm-meisaku-gekijou.png",
     "episode": "Episode 23"
-  },
-  {
-    "id": "fight-da-pyuta",
-    "epId": "fight-da-pyuta-episode-7",
-    "title": "Fight Da!! Pyuta",
-    "img": "https://gogocdn.net/cover/fight-da-pyuta.png",
-    "episode": "Episode 7"
   }
 ]

@@ -38724,6 +38724,12 @@
     "date": "1985"
   },
   {
+    "id": "nightwatcher",
+    "title": "Nightwatcher",
+    "img": "https://gogocdn.net/cover/nightwatcher.png",
+    "date": "2024"
+  },
+  {
     "id": "tamayura-sotsugyou-shashin-part-1---kizashi",
     "title": "Tamayura Sotsugyou Shashin Part 1 - Kizashi",
     "img": "https://gogocdn.net/images/upload/Tamayura Sotsugyou Shashin Part 1 - Kizashi.jpg",
@@ -80152,11 +80158,5 @@
     "title": "Kono Oto Tomare! (Dub)",
     "img": "https://gogocdn.net/cover/kono-oto-tomare-dub.png",
     "date": "2019"
-  },
-  {
-    "id": "tv-yarou-nanaana",
-    "title": "TV Yarou Nanaana",
-    "img": "https://gogocdn.net/cover/tv-yarou-nanaana.png",
-    "date": "2018"
   }
 ]
