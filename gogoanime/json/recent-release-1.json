@@ -1,5 +1,19 @@
 [
   {
+    "id": "muu-no-hakugei",
+    "epId": "muu-no-hakugei-episode-4",
+    "title": "Muu no Hakugei",
+    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "mayonaka-punch",
+    "epId": "mayonaka-punch-episode-5",
+    "title": "Mayonaka Punch",
+    "img": "https://gogocdn.net/cover/mayonaka-punch.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-16",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -609,13 +623,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "mayonaka-punch",
-    "epId": "mayonaka-punch-episode-4",
-    "title": "Mayonaka Punch",
-    "img": "https://gogocdn.net/cover/mayonaka-punch.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season",
     "epId": "motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season-episode-25",
     "title": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season",
@@ -845,13 +852,6 @@
     "title": "Abashiri Ikka",
     "img": "https://gogocdn.net/cover/abashiri-ikka.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "muu-no-hakugei",
-    "epId": "muu-no-hakugei-episode-3",
-    "title": "Muu no Hakugei",
-    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
-    "episode": "Episode 3"
   },
   {
     "id": "nyaaaanvy",
