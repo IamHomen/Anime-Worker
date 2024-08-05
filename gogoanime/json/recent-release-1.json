@@ -1,5 +1,54 @@
 [
   {
+    "id": "yami-shibai-13",
+    "epId": "yami-shibai-13-episode-4",
+    "title": "Yami Shibai 13",
+    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-6",
+    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "super-zugan",
+    "epId": "super-zugan-episode-14",
+    "title": "Super Zugan",
+    "img": "https://gogocdn.net/cover/super-zugan.png",
+    "episode": "Episode 14"
+  },
+  {
+    "id": "na-nare-hana-nare",
+    "epId": "na-nare-hana-nare-episode-5",
+    "title": "Na Nare Hana Nare",
+    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "linetown",
+    "epId": "linetown-episode-12",
+    "title": "Linetown",
+    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-4",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-5",
+    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-17",
     "title": "Shinkalion: Change the World",
@@ -560,46 +609,11 @@
     "episode": "Episode 4"
   },
   {
-    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
-    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-3",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
-    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season",
     "epId": "motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season-episode-25",
     "title": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season",
     "img": "https://gogocdn.net/cover/motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season.png",
     "episode": "Episode 25"
-  },
-  {
-    "id": "yami-shibai-13",
-    "epId": "yami-shibai-13-episode-3",
-    "title": "Yami Shibai 13",
-    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "na-nare-hana-nare",
-    "epId": "na-nare-hana-nare-episode-4",
-    "title": "Na Nare Hana Nare",
-    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-5",
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-4",
-    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
-    "episode": "Episode 4"
   },
   {
     "id": "chibi-maruko-chan",
@@ -705,13 +719,6 @@
     "title": "Yawara!: Zutto Kimi no Koto ga...",
     "img": "https://gogocdn.net/cover/yawara-zutto-kimi-no-koto-ga.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "linetown",
-    "epId": "linetown-episode-11",
-    "title": "Linetown",
-    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
-    "episode": "Episode 11"
   },
   {
     "id": "0-saiji-start-dash-monogatari",
@@ -2791,12 +2798,5 @@
     "title": "Guskou Budori no Denki",
     "img": "https://gogocdn.net/cover/guskou-budori-no-denki.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "shin-grimm-meisaku-gekijou",
-    "epId": "shin-grimm-meisaku-gekijou-episode-23",
-    "title": "Shin Grimm Meisaku Gekijou",
-    "img": "https://gogocdn.net/cover/shin-grimm-meisaku-gekijou.png",
-    "episode": "Episode 23"
   }
 ]
