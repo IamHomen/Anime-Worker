@@ -1,5 +1,19 @@
 [
   {
+    "id": "rising-impact-season-2",
+    "epId": "rising-impact-season-2-episode-14",
+    "title": "Rising Impact Season 2",
+    "img": "https://gogocdn.net/cover/rising-impact-season-2.png",
+    "episode": "Episode 14"
+  },
+  {
+    "id": "kyojin-no-hoshi",
+    "epId": "kyojin-no-hoshi-episode-39",
+    "title": "Kyojin no Hoshi",
+    "img": "https://gogocdn.net/cover/kyojin-no-hoshi.png",
+    "episode": "Episode 39"
+  },
+  {
     "id": "mahoutsukai-chappy",
     "epId": "mahoutsukai-chappy-episode-1",
     "title": "Mahoutsukai Chappy",
@@ -723,7 +737,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-117",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "title": "Yu\u00d4\u0130\u00e5Gi\u00d4\u0130\u00e5Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 117"
   },
@@ -758,14 +772,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u2606Bakunetsu Jikuu",
+    "title": "Maze\u00d4\u0130\u00e5Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u00d4\u0130\u00e5Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2784,19 +2798,5 @@
     "title": "Tengen Toppa Gurren Lagann: Parallel Works 2",
     "img": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-parallel-works-2.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tengen-toppa-gurren-lagann-parallel-works",
-    "epId": "tengen-toppa-gurren-lagann-parallel-works-episode-8",
-    "title": "Tengen Toppa Gurren Lagann: Parallel Works",
-    "img": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-parallel-works.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "gekai-elise-elises-medical-record",
-    "epId": "gekai-elise-elises-medical-record-episode-6",
-    "title": "Gekai Elise - Elise's Medical Record",
-    "img": "https://gogocdn.net/cover/gekai-elise-elises-medical-record.png",
-    "episode": "Episode 6"
   }
 ]
