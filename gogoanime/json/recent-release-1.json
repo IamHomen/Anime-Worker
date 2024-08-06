@@ -1,5 +1,26 @@
 [
   {
+    "id": "mahoutsukai-chappy",
+    "epId": "mahoutsukai-chappy-episode-1",
+    "title": "Mahoutsukai Chappy",
+    "img": "https://gogocdn.net/cover/mahoutsukai-chappy.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ookami-shounen-ken",
+    "epId": "ookami-shounen-ken-episode-1",
+    "title": "Ookami Shounen Ken",
+    "img": "https://gogocdn.net/cover/ookami-shounen-ken.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "0-saiji-start-dash-monogatari",
+    "epId": "0-saiji-start-dash-monogatari-episode-3",
+    "title": "0-saiji Start Dash Monogatari",
+    "img": "https://gogocdn.net/cover/0-saiji-start-dash-monogatari.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "atashinchi-next",
     "epId": "atashinchi-next-episode-3",
     "title": "Atashin'chi NEXT",
@@ -733,13 +754,6 @@
     "title": "Yawara!: Zutto Kimi no Koto ga...",
     "img": "https://gogocdn.net/cover/yawara-zutto-kimi-no-koto-ga.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "0-saiji-start-dash-monogatari",
-    "epId": "0-saiji-start-dash-monogatari-episode-2",
-    "title": "0-saiji Start Dash Monogatari",
-    "img": "https://gogocdn.net/cover/0-saiji-start-dash-monogatari.png",
-    "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu",
@@ -2784,19 +2798,5 @@
     "title": "Gekai Elise - Elise's Medical Record",
     "img": "https://gogocdn.net/cover/gekai-elise-elises-medical-record.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "satsujin-kippu-wa-heart-iro",
-    "epId": "satsujin-kippu-wa-heart-iro-episode-1",
-    "title": "Satsujin Kippu wa Heart-iro",
-    "img": "https://gogocdn.net/cover/satsujin-kippu-wa-heart-iro.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "guskou-budori-no-denki",
-    "epId": "guskou-budori-no-denki-episode-1",
-    "title": "Guskou Budori no Denki",
-    "img": "https://gogocdn.net/cover/guskou-budori-no-denki.png",
-    "episode": "Episode 1"
   }
 ]

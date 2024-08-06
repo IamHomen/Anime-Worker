@@ -1,5 +1,19 @@
 [
   {
+    "id": "tengen-toppa-gurren-lagann-movie-2-lagann-hen-dub",
+    "epId": "tengen-toppa-gurren-lagann-movie-2-lagann-hen-dub-episode-1",
+    "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen (Dub)",
+    "img": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-movie-2-lagann-hen-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tengen-toppa-gurren-lagann-movie-1-gurren-hen-dub",
+    "epId": "tengen-toppa-gurren-lagann-movie-1-gurren-hen-dub-episode-1",
+    "title": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen (Dub)",
+    "img": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-movie-1-gurren-hen-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub-episode-17",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
@@ -2784,19 +2798,5 @@
     "title": "Boku no Hero Academia 6th Season (Dub)",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-6th-season-dub.png",
     "episode": "Episode 25"
-  },
-  {
-    "id": "trigun-stampede-dub",
-    "epId": "trigun-stampede-dub-episode-12",
-    "title": "Trigun Stampede (Dub)",
-    "img": "https://gogocdn.net/cover/trigun-stampede-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "tonikaku-kawaii-seifuku-dub",
-    "epId": "tonikaku-kawaii-seifuku-dub-episode-1",
-    "title": "Tonikaku Kawaii: Seifuku (Dub)",
-    "img": "https://gogocdn.net/cover/tonikaku-kawaii-seifuku-dub.png",
-    "episode": "Episode 1"
   }
 ]

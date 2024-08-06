@@ -10,8 +10,12 @@
   "otherNames": "The Golden Wug, \u91d1\u8695\u5f80\u4e8b",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/jin-can-wangshi.png",
-  "totalEpisodes": "9",
+  "totalEpisodes": "10",
   "episodesList": [
+    {
+      "episodeId": "jin-can-wangshi-episode-10",
+      "episodeNum": "Episode 10"
+    },
     {
       "episodeId": "jin-can-wangshi-episode-9",
       "episodeNum": "Episode 9"
