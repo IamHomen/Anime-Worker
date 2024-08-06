@@ -1,5 +1,12 @@
 [
   {
+    "id": "atashinchi-next",
+    "epId": "atashinchi-next-episode-3",
+    "title": "Atashin'chi NEXT",
+    "img": "https://gogocdn.net/cover/atashinchi-next.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "muu-no-hakugei",
     "epId": "muu-no-hakugei-episode-4",
     "title": "Muu no Hakugei",
@@ -831,13 +838,6 @@
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen Episode 0",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-episode-0.png",
     "episode": "Episode 0"
-  },
-  {
-    "id": "atashinchi-next",
-    "epId": "atashinchi-next-episode-2",
-    "title": "Atashin'chi NEXT",
-    "img": "https://gogocdn.net/cover/atashinchi-next.png",
-    "episode": "Episode 2"
   },
   {
     "id": "getter-robo-go",
