@@ -1,5 +1,12 @@
 [
   {
+    "id": "mitsume-ga-tooru",
+    "epId": "mitsume-ga-tooru-episode-48",
+    "title": "Mitsume ga Tooru",
+    "img": "https://gogocdn.net/cover/mitsume-ga-tooru.png",
+    "episode": "Episode 48"
+  },
+  {
     "id": "egumi-legacy",
     "epId": "egumi-legacy-episode-5",
     "title": "Egumi Legacy",
@@ -737,7 +744,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-117",
-    "title": "Yu\u00d4\u0130\u00e5Gi\u00d4\u0130\u00e5Oh!: Go Rush!!",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 117"
   },
@@ -772,14 +779,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u00d4\u0130\u00e5Bakunetsu Jikuu",
+    "title": "Maze\u2606Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u00d4\u0130\u00e5Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2790,13 +2797,6 @@
     "epId": "captain-future-kareinaru-taiyokei-race-episode-1",
     "title": "Captain Future: Kareinaru Taiyokei Race",
     "img": "https://gogocdn.net/cover/captain-future-kareinaru-taiyokei-race.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "tengen-toppa-gurren-lagann-parallel-works-2",
-    "epId": "tengen-toppa-gurren-lagann-parallel-works-2-episode-1",
-    "title": "Tengen Toppa Gurren Lagann: Parallel Works 2",
-    "img": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-parallel-works-2.png",
     "episode": "Episode 1"
   }
 ]

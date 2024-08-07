@@ -5742,12 +5742,6 @@
     "date": "2008"
   },
   {
-    "id": "tenchi-muyo-ryo-ohki-",
-    "title": "Tenchi Muyo Ryo Ohki ",
-    "img": "https://gogocdn.net/images/anime/TH/tenchi-muyo-ryo-ohki.jpg",
-    "date": "1992"
-  },
-  {
     "id": "-megaman-nt-warrior-first-season-1",
     "title": "Megaman NT Warrior First Season 1",
     "img": "https://gogocdn.net/images/anime/M/megaman-nt-warrior.jpg",
@@ -41832,6 +41826,12 @@
     "date": "2016"
   },
   {
+    "id": "guai-xiang-shou",
+    "title": "Guai Xiang Shou",
+    "img": "https://gogocdn.net/cover/guai-xiang-shou.png",
+    "date": "2024"
+  },
+  {
     "id": "hidan-no-aria-aa",
     "title": "Hidan no Aria AA",
     "img": "https://gogocdn.net/images/upload/176328.jpg",
@@ -42592,6 +42592,12 @@
     "title": "Gintama: Shinyaku Benizakura-hen (Dub)",
     "img": "https://gogocdn.net/cover/gintama-shinyaku-benizakura-hen-dub.png",
     "date": "2010"
+  },
+  {
+    "id": "black-clover-jump-festa-2018-special-dub",
+    "title": "Black Clover: Jump Festa 2018 Special (Dub)",
+    "img": "https://gogocdn.net/cover/black-clover-jump-festa-2018-special-dub.png",
+    "date": "2018"
   },
   {
     "id": "black-clover-jump-festa-2018-special-dub",
@@ -62046,12 +62052,6 @@
     "date": "2022"
   },
   {
-    "id": "tenchi-muyou-ryououki-3rd-season-dub",
-    "title": "Tenchi Muyou! Ryououki 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/tenchi-muyou-ryououki-3rd-season-dub.png",
-    "date": "2003"
-  },
-  {
     "id": "daikuu-maryuu-gaiking-dub",
     "title": "Daikuu Maryuu Gaiking (Dub)",
     "img": "https://gogocdn.net/cover/daikuu-maryuu-gaiking-dub.png",
@@ -71760,12 +71760,6 @@
     "date": "2024"
   },
   {
-    "id": "jantama-kan",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "date": "2024"
-  },
-  {
     "id": "yami-shibai-13",
     "title": "Yami Shibai 13",
     "img": "https://gogocdn.net/cover/yami-shibai-13.png",
@@ -79009,7 +79003,7 @@
   },
   {
     "id": "tenchi-muyou-ryo-ohki-2-dub",
-    "title": "Tenchi Muyou! Ryo-Ohki 2 (Dub)",
+    "title": "Tenchi Muyou! Ryououki 2 (Dub)",
     "img": "https://gogocdn.net/cover/tenchi-muyou-ryo-ohki-2-dub.png",
     "date": "1994"
   },
@@ -79249,7 +79243,7 @@
   },
   {
     "id": "tenchi-muyou-ryo-ohki-3-dub",
-    "title": "Tenchi Muyou! Ryo-Ohki 3 (Dub)",
+    "title": "Tenchi Muyou! Ryououki 3 (Dub)",
     "img": "https://gogocdn.net/cover/tenchi-muyou-ryo-ohki-3-dub.png",
     "date": "1992"
   },
@@ -80157,6 +80151,12 @@
     "id": "shinkalion-change-the-world",
     "title": "Shinkalion: Change the World",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "date": "2024"
+  },
+  {
+    "id": "shaonian-bai-ma-zui-chun-feng-2nd-season",
+    "title": "Shaonian Bai Ma Zui Chun Feng 2nd Season",
+    "img": "https://gogocdn.net/cover/shaonian-bai-ma-zui-chun-feng-2nd-season.png",
     "date": "2024"
   }
 ]
