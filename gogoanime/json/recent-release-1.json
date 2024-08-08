@@ -1,5 +1,33 @@
 [
   {
+    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
+    "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-6",
+    "title": "Ore wa Subete wo ",
+    "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "tiger-mask",
+    "epId": "tiger-mask-episode-9",
+    "title": "Tiger Mask",
+    "img": "https://gogocdn.net/cover/tiger-mask.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-6",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "isekai-suicide-squad",
+    "epId": "isekai-suicide-squad-episode-9",
+    "title": "Isekai Suicide Squad",
+    "img": "https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "delicos-nursery",
     "epId": "delicos-nursery-episode-1",
     "title": "Delico's Nursery",
@@ -525,13 +553,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
-    "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-5",
-    "title": "Ore wa Subete wo ",
-    "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "kimi-ni-todoke-3rd-season",
     "epId": "kimi-ni-todoke-3rd-season-episode-5",
     "title": "Kimi ni Todoke 3rd Season",
@@ -544,20 +565,6 @@
     "title": "Spy x Family Movie: Code: White",
     "img": "https://gogocdn.net/cover/spy-x-family-movie-code-white-1722519917.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-5",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "isekai-suicide-squad",
-    "epId": "isekai-suicide-squad-episode-8",
-    "title": "Isekai Suicide Squad",
-    "img": "https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png",
-    "episode": "Episode 8"
   },
   {
     "id": "himitsu-no-aipri",
@@ -765,7 +772,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-117",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "title": "Yu\u00d4\u0130\u00e5Gi\u00d4\u0130\u00e5Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 117"
   },
@@ -800,14 +807,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u2606Bakunetsu Jikuu",
+    "title": "Maze\u00d4\u0130\u00e5Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u00d4\u0130\u00e5Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2790,13 +2797,6 @@
     "epId": "magicaltaruruuto-kun-movie-episode-1",
     "title": "Magical\u2605Taruruuto-kun Movie",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun-movie.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "sen-to-chihiro-no-kamikakushi",
-    "epId": "sen-to-chihiro-no-kamikakushi-episode-1",
-    "title": "Sen to Chihiro no Kamikakushi",
-    "img": "https://gogocdn.net/cover/sen-to-chihiro-no-kamikakushi.png",
     "episode": "Episode 1"
   }
 ]
