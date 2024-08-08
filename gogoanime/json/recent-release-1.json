@@ -1,5 +1,12 @@
 [
   {
+    "id": "delicos-nursery",
+    "epId": "delicos-nursery-episode-1",
+    "title": "Delico's Nursery",
+    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "shikanoko-nokonoko-koshitantan",
     "epId": "shikanoko-nokonoko-koshitantan-episode-6",
     "title": "Shikanoko Nokonoko Koshitantan",
@@ -2790,13 +2797,6 @@
     "epId": "sen-to-chihiro-no-kamikakushi-episode-1",
     "title": "Sen to Chihiro no Kamikakushi",
     "img": "https://gogocdn.net/cover/sen-to-chihiro-no-kamikakushi.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "captain-future-kareinaru-taiyokei-race",
-    "epId": "captain-future-kareinaru-taiyokei-race-episode-1",
-    "title": "Captain Future: Kareinaru Taiyokei Race",
-    "img": "https://gogocdn.net/cover/captain-future-kareinaru-taiyokei-race.png",
     "episode": "Episode 1"
   }
 ]
