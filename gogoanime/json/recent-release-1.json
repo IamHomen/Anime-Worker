@@ -1,17 +1,66 @@
 [
   {
+    "id": "kyojin-no-hoshi",
+    "epId": "kyojin-no-hoshi-episode-52",
+    "title": "Kyojin no Hoshi",
+    "img": "https://gogocdn.net/cover/kyojin-no-hoshi.png",
+    "episode": "Episode 52"
+  },
+  {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-104",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 104"
+  },
+  {
+    "id": "megami-no-cafe-terrace-2nd-season",
+    "epId": "megami-no-cafe-terrace-2nd-season-episode-6",
+    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
+    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
+    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-6",
+    "title": "Hazurewaku no ",
+    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "tiger-mask",
+    "epId": "tiger-mask-episode-73",
+    "title": "Tiger Mask",
+    "img": "https://gogocdn.net/cover/tiger-mask.png",
+    "episode": "Episode 73"
+  },
+  {
+    "id": "ramen-akaneko",
+    "epId": "ramen-akaneko-episode-6",
+    "title": "Ramen Akaneko",
+    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "giji-harem",
+    "epId": "giji-harem-episode-6",
+    "title": "Giji Harem",
+    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "tasogare-out-focus",
+    "epId": "tasogare-out-focus-episode-6",
+    "title": "Tasogare Out Focus",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
     "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-6",
     "title": "Ore wa Subete wo ",
     "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "tiger-mask",
-    "epId": "tiger-mask-episode-9",
-    "title": "Tiger Mask",
-    "img": "https://gogocdn.net/cover/tiger-mask.png",
-    "episode": "Episode 9"
   },
   {
     "id": "gimai-seikatsu",
@@ -124,13 +173,6 @@
     "title": "Rising Impact Season 2",
     "img": "https://gogocdn.net/cover/rising-impact-season-2.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "kyojin-no-hoshi",
-    "epId": "kyojin-no-hoshi-episode-39",
-    "title": "Kyojin no Hoshi",
-    "img": "https://gogocdn.net/cover/kyojin-no-hoshi.png",
-    "episode": "Episode 39"
   },
   {
     "id": "mahoutsukai-chappy",
@@ -509,48 +551,6 @@
     "title": "Ultra B",
     "img": "https://gogocdn.net/cover/ultra-b.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-103",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 103"
-  },
-  {
-    "id": "megami-no-cafe-terrace-2nd-season",
-    "epId": "megami-no-cafe-terrace-2nd-season-episode-5",
-    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
-    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-5",
-    "title": "Hazurewaku no ",
-    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "ramen-akaneko",
-    "epId": "ramen-akaneko-episode-5",
-    "title": "Ramen Akaneko",
-    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "giji-harem",
-    "epId": "giji-harem-episode-5",
-    "title": "Giji Harem",
-    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "tasogare-out-focus",
-    "epId": "tasogare-out-focus-episode-5",
-    "title": "Tasogare Out Focus",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 5"
   },
   {
     "id": "kimi-ni-todoke-3rd-season",

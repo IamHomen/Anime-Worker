@@ -120,20 +120,20 @@
     "format": "TV"
   },
   {
-    "id": 21856,
-    "title": "Boku no Hero Academia 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png",
-    "seasonYear": 2017,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 20954,
     "title": "Koe no Katachi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-UMb6Kl7ZL8Ke.jpg",
     "seasonYear": 2016,
     "totalEpisode": 1,
     "format": "MOVIE"
+  },
+  {
+    "id": 21856,
+    "title": "Boku no Hero Academia 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png",
+    "seasonYear": 2017,
+    "totalEpisode": 25,
+    "format": "TV"
   },
   {
     "id": 101759,
