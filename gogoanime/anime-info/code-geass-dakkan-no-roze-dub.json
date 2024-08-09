@@ -14,8 +14,12 @@
   "otherNames": "\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9 \u596a\u9084\u306e\u30ed\u30bc,  Code Geass: Roz\u00e9 of the Recapture",
   "synopsis": "New Code Geass project.",
   "animeImg": "https://gogocdn.net/cover/code-geass-dakkan-no-roze-dub.png",
-  "totalEpisodes": "7",
+  "totalEpisodes": "8",
   "episodesList": [
+    {
+      "episodeId": "code-geass-dakkan-no-roze-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
     {
       "episodeId": "code-geass-dakkan-no-roze-dub-episode-7",
       "episodeNum": "Episode 7"
