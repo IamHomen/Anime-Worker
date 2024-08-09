@@ -1,5 +1,54 @@
 [
   {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-6",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-5",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "guardian-hearts",
+    "epId": "guardian-hearts-episode-3",
+    "title": "Guardian Hearts",
+    "img": "https://gogocdn.net/cover/guardian-hearts.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-6",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-17-5",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 17.5"
+  },
+  {
+    "id": "bye-bye-earth",
+    "epId": "bye-bye-earth-episode-5",
+    "title": "Bye Bye, Earth",
+    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-6",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "super-dragon-ball-heroes-meteor-mission",
     "epId": "super-dragon-ball-heroes-meteor-mission-episode-6",
     "title": "Super Dragon Ball Heroes Meteor Mission",
@@ -504,41 +553,6 @@
     "episode": "Episode 490"
   },
   {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-5",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-5",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-17",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 17"
-  },
-  {
-    "id": "bye-bye-earth",
-    "epId": "bye-bye-earth-episode-4",
-    "title": "Bye Bye, Earth",
-    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-5",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-42",
     "title": "Beyblade X",
@@ -747,13 +761,6 @@
     "title": "Yamato yo, Towa ni: Rebel 3199",
     "img": "https://gogocdn.net/cover/yamato-yo-towa-ni-rebel-3199-1722023363.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-4",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 4"
   },
   {
     "id": "annyeong-tyrano-yeong-wonhi-hamkke",
@@ -2790,13 +2797,6 @@
     "epId": "girls-panzer-saishuushou-part-4-episode-1",
     "title": "Girls & Panzer: Saishuushou Part 4",
     "img": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-1709745926.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "magicaltaruruuto-kun-movie",
-    "epId": "magicaltaruruuto-kun-movie-episode-1",
-    "title": "Magical\u2605Taruruuto-kun Movie",
-    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun-movie.png",
     "episode": "Episode 1"
   }
 ]

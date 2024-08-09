@@ -1,0 +1,31 @@
+{
+  "animeTitle": "Guardian Hearts",
+  "type": "OVA",
+  "releasedDate": "2003",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Harem",
+    "Romance",
+    "School"
+  ],
+  "otherNames": "\u304c\u3041\u30fc\u3067\u3043\u3042\u3093Hearts",
+  "synopsis": "Maya, Kurusu, and Chelsea hit it off really well when trying to get revenge on Guardian Hearts for making them suffer. Maya and company thought that Guardian Hearts usually appears when Kazuya is getting along with a girl. Not knowing that Guardian Hearts is actually Hina, they leave her alone with Kazuya in an attempt to lure Guardian Hearts.",
+  "animeImg": "https://gogocdn.net/cover/guardian-hearts.png",
+  "totalEpisodes": "3",
+  "episodesList": [
+    {
+      "episodeId": "guardian-hearts-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "guardian-hearts-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "guardian-hearts-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
