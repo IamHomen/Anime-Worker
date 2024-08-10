@@ -1,5 +1,12 @@
 [
   {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-6",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-60",
     "title": "Pokemon (Shinsaku Anime)",
@@ -551,13 +558,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-5",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 5"
   },
   {
     "id": "detective-conan-remastered",
