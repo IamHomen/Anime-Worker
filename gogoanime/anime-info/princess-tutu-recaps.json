@@ -1,0 +1,34 @@
+{
+  "animeTitle": "Princess Tutu Recaps",
+  "type": "Special",
+  "releasedDate": "2002",
+  "status": "Completed",
+  "genres": [
+    "Anthropomorphic",
+    "Drama",
+    "Fantasy",
+    "Love Polygon",
+    "Mahou Shoujo",
+    "Mystery",
+    "Performing Arts",
+    "Romance"
+  ],
+  "otherNames": "Princess Tutu Specials, \u30d7\u30ea\u30f3\u30bb\u30b9\u30c1\u30e5\u30c1\u30e5",
+  "synopsis": "",
+  "animeImg": "https://gogocdn.net/cover/princess-tutu-recaps.png",
+  "totalEpisodes": "3",
+  "episodesList": [
+    {
+      "episodeId": "princess-tutu-recaps-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "princess-tutu-recaps-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "princess-tutu-recaps-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

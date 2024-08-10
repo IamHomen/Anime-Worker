@@ -13,8 +13,12 @@
   "otherNames": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u65b0\u30b7\u30ea\u30fc\u30ba , Pok\u00e9mon Horizons: The Series, Pokemon (2023), Pocket Monster (2023)",
   "synopsis": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
   "animeImg": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-  "totalEpisodes": "59",
+  "totalEpisodes": "60",
   "episodesList": [
+    {
+      "episodeId": "pokemon-shinsaku-anime-episode-60",
+      "episodeNum": "Episode 60"
+    },
     {
       "episodeId": "pokemon-shinsaku-anime-episode-59",
       "episodeNum": "Episode 59"

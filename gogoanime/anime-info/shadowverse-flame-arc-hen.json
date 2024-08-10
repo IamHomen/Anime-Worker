@@ -10,8 +10,12 @@
   "otherNames": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9\uff26 \u30a2\u30fc\u30af\u7de8",
   "synopsis": "Third part of Shadowverse Flame.",
   "animeImg": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
-  "totalEpisodes": "16",
+  "totalEpisodes": "17",
   "episodesList": [
+    {
+      "episodeId": "shadowverse-flame-arc-hen-episode-17",
+      "episodeNum": "Episode 17"
+    },
     {
       "episodeId": "shadowverse-flame-arc-hen-episode-16",
       "episodeNum": "Episode 16"
