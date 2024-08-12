@@ -1,5 +1,47 @@
 [
   {
+    "id": "yami-shibai-13",
+    "epId": "yami-shibai-13-episode-5",
+    "title": "Yami Shibai 13",
+    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
+    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-7",
+    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "linetown",
+    "epId": "linetown-episode-13",
+    "title": "Linetown",
+    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "getter-robo-go",
+    "epId": "getter-robo-go-episode-30",
+    "title": "Getter Robo Go",
+    "img": "https://gogocdn.net/cover/getter-robo-go.png",
+    "episode": "Episode 30"
+  },
+  {
+    "id": "na-nare-hana-nare",
+    "epId": "na-nare-hana-nare-episode-6",
+    "title": "Na Nare Hana Nare",
+    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-6",
+    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "kami-no-tou-ouji-no-kikan",
     "epId": "kami-no-tou-ouji-no-kikan-episode-6",
     "title": "Kami no Tou: Ouji no Kikan",
@@ -469,20 +511,6 @@
     "episode": "Episode 16"
   },
   {
-    "id": "yami-shibai-13",
-    "epId": "yami-shibai-13-episode-4",
-    "title": "Yami Shibai 13",
-    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-6",
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "super-zugan",
     "epId": "super-zugan-episode-14",
     "title": "Super Zugan",
@@ -490,32 +518,11 @@
     "episode": "Episode 14"
   },
   {
-    "id": "na-nare-hana-nare",
-    "epId": "na-nare-hana-nare-episode-5",
-    "title": "Na Nare Hana Nare",
-    "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "linetown",
-    "epId": "linetown-episode-12",
-    "title": "Linetown",
-    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
-    "episode": "Episode 12"
-  },
-  {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-4",
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-5",
-    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
-    "episode": "Episode 5"
   },
   {
     "id": "shinkalion-change-the-world",
@@ -915,13 +922,6 @@
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen Episode 0",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-episode-0.png",
     "episode": "Episode 0"
-  },
-  {
-    "id": "getter-robo-go",
-    "epId": "getter-robo-go-episode-29",
-    "title": "Getter Robo Go",
-    "img": "https://gogocdn.net/cover/getter-robo-go.png",
-    "episode": "Episode 29"
   },
   {
     "id": "abashiri-ikka",
