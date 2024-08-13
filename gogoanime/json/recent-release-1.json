@@ -1,5 +1,40 @@
 [
   {
+    "id": "shoukoushi-cedie",
+    "epId": "shoukoushi-cedie-episode-43",
+    "title": "Shoukoushi Cedie",
+    "img": "https://gogocdn.net/cover/shoukoushi-cedie.png",
+    "episode": "Episode 43"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-17",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 17"
+  },
+  {
+    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-5",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-18",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 18"
+  },
+  {
+    "id": "tiger-mask",
+    "epId": "tiger-mask-episode-81",
+    "title": "Tiger Mask",
+    "img": "https://gogocdn.net/cover/tiger-mask.png",
+    "episode": "Episode 81"
+  },
+  {
     "id": "super-zugan",
     "epId": "super-zugan-episode-21",
     "title": "Super Zugan",
@@ -350,13 +385,6 @@
     "episode": "Episode 6"
   },
   {
-    "id": "tiger-mask",
-    "epId": "tiger-mask-episode-73",
-    "title": "Tiger Mask",
-    "img": "https://gogocdn.net/cover/tiger-mask.png",
-    "episode": "Episode 73"
-  },
-  {
     "id": "ramen-akaneko",
     "epId": "ramen-akaneko-episode-6",
     "title": "Ramen Akaneko",
@@ -532,20 +560,6 @@
     "episode": "Episode 4"
   },
   {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-16",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 16"
-  },
-  {
-    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
-    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-4",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
-    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-17",
     "title": "Shinkalion: Change the World",
@@ -635,13 +649,6 @@
     "title": "Spy x Family Movie: Code: White",
     "img": "https://gogocdn.net/cover/spy-x-family-movie-code-white-1722519917.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-17",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 17"
   },
   {
     "id": "toushi-gordian",
@@ -2791,12 +2798,5 @@
     "title": "Saber Marionette R",
     "img": "https://gogocdn.net/cover/saber-marionette-r.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "girls-panzer-saishuushou-part-4",
-    "epId": "girls-panzer-saishuushou-part-4-episode-1",
-    "title": "Girls & Panzer: Saishuushou Part 4",
-    "img": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-1709745926.png",
-    "episode": "Episode 1"
   }
 ]
