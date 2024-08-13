@@ -40,17 +40,17 @@
     "format": "TV"
   },
   {
-    "id": 174044,
-    "title": "Mayonaka Punch",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174044-HBvsyKjDVPyO.jpg",
+    "id": 171457,
+    "title": "Make Heroine ga Oosugiru!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 171457,
-    "title": "Make Heroine ga Oosugiru!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg",
+    "id": 174044,
+    "title": "Mayonaka Punch",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174044-HBvsyKjDVPyO.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -72,6 +72,14 @@
     "format": "TV"
   },
   {
+    "id": 175977,
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-Pgrtv3p3ROe9.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "ONA"
+  },
+  {
     "id": 162804,
     "title": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162804-TBeptcAfvqTd.jpg",
@@ -88,17 +96,9 @@
     "format": "TV"
   },
   {
-    "id": 175977,
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175977-Pgrtv3p3ROe9.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "ONA"
-  },
-  {
-    "id": 171031,
-    "title": "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg",
+    "id": 160488,
+    "title": "VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160488-Fqeh9b9iDOZF.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -112,22 +112,6 @@
     "format": "TV"
   },
   {
-    "id": 173295,
-    "title": "Shoushimin Series",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173295-5DIOnrTYiF0a.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 10,
-    "format": "TV"
-  },
-  {
-    "id": 156822,
-    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 154587,
     "title": "Sousou no Frieren",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
@@ -136,11 +120,27 @@
     "format": "TV"
   },
   {
-    "id": 158898,
-    "title": "Yozakura-san Chi no Daisakusen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png",
+    "id": 167419,
+    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 27,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 171031,
+    "title": "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171031-7RJll3TJnVFA.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 153518,
+    "title": "Dungeon Meshi",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153518-LEK6pAXtI03D.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -152,11 +152,35 @@
     "format": "TV"
   },
   {
+    "id": 158898,
+    "title": "Yozakura-san Chi no Daisakusen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png",
+    "seasonYear": 2024,
+    "totalEpisode": 27,
+    "format": "TV"
+  },
+  {
     "id": 269,
     "title": "BLEACH",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
     "seasonYear": 2004,
     "totalEpisode": 366,
+    "format": "TV"
+  },
+  {
+    "id": 173295,
+    "title": "Shoushimin Series",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173295-5DIOnrTYiF0a.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 10,
+    "format": "TV"
+  },
+  {
+    "id": 11061,
+    "title": "HUNTER\u00d7HUNTER (2011)",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
+    "seasonYear": 2011,
+    "totalEpisode": 148,
     "format": "TV"
   },
   {
@@ -176,65 +200,9 @@
     "format": "TV"
   },
   {
-    "id": 163139,
-    "title": "Boku no Hero Academia 7",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 21,
-    "format": "TV"
-  },
-  {
-    "id": 160488,
-    "title": "VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160488-Fqeh9b9iDOZF.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 173533,
-    "title": "Monogatari Series: Off & Monster Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173533-0dZ2eV1Y0wQI.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": null,
-    "format": "ONA"
-  },
-  {
-    "id": 153518,
-    "title": "Dungeon Meshi",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153518-LEK6pAXtI03D.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
-    "id": 11061,
-    "title": "HUNTER\u00d7HUNTER (2011)",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
-    "seasonYear": 2011,
-    "totalEpisode": 148,
-    "format": "TV"
-  },
-  {
-    "id": 97940,
-    "title": "Black Clover",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
-    "seasonYear": 2017,
-    "totalEpisode": 170,
-    "format": "TV"
-  },
-  {
-    "id": 167419,
-    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167419-yesWtncEBD9N.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 153288,
-    "title": "Kaijuu 8-gou",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg",
+    "id": 163623,
+    "title": "Giji Harem",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163623-pzR6vIHoJh0b.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -248,14 +216,6 @@
     "format": "TV"
   },
   {
-    "id": 163623,
-    "title": "Giji Harem",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163623-pzR6vIHoJh0b.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 158559,
     "title": "2.5 Jigen no Ririsa",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158559-eVc9cNSmcUix.jpg",
@@ -264,11 +224,19 @@
     "format": "TV"
   },
   {
-    "id": 166710,
-    "title": "Isekai Suicide Squad",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg",
+    "id": 156822,
+    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 10,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 152681,
+    "title": "Gimai Seikatsu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152681-xtQiVOYDhr3p.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -280,33 +248,25 @@
     "format": "TV"
   },
   {
-    "id": 172416,
-    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg",
+    "id": 173533,
+    "title": "Monogatari Series: Off & Monster Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173533-0dZ2eV1Y0wQI.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 11,
+    "totalEpisode": null,
+    "format": "ONA"
+  },
+  {
+    "id": 163139,
+    "title": "Boku no Hero Academia 7",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 21,
     "format": "TV"
   },
   {
-    "id": 154963,
-    "title": "ATRI: My Dear Moments",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
-    "id": 170891,
-    "title": "Na-Nare Hana-Nare",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170891-Bhxn5y4a86Q0.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 167420,
-    "title": "NieR:Automata Ver1.1a 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167420-PBxeW0tmbEDQ.jpg",
+    "id": 153288,
+    "title": "Kaijuu 8-gou",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
@@ -320,51 +280,51 @@
     "format": "TV"
   },
   {
-    "id": 152681,
-    "title": "Gimai Seikatsu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152681-xtQiVOYDhr3p.jpg",
+    "id": 166710,
+    "title": "Isekai Suicide Squad",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166710-3G2croXhaCOm.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 10,
+    "format": "TV"
+  },
+  {
+    "id": 170891,
+    "title": "Na-Nare Hana-Nare",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170891-Bhxn5y4a86Q0.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 151807,
-    "title": "Ore dake Level Up na Ken",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png",
+    "id": 97940,
+    "title": "Black Clover",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
+    "seasonYear": 2017,
+    "totalEpisode": 170,
+    "format": "TV"
+  },
+  {
+    "id": 172416,
+    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 12,
+    "totalEpisode": 11,
     "format": "TV"
   },
   {
-    "id": 30,
-    "title": "Shin Seiki Evangelion",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-wmNoX3m2qTzz.jpg",
-    "seasonYear": 1995,
-    "totalEpisode": 26,
-    "format": "TV"
-  },
-  {
-    "id": 168345,
-    "title": "Dungeon no Naka no Hito",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168345-X28k73J6QAtc.jpg",
+    "id": 163270,
+    "title": "WIND BREAKER",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 166477,
-    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166477-Q5jKn2WpDQ6z.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 115230,
-    "title": "Kami no Tou: Tower of God",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
-    "seasonYear": 2020,
     "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
+    "id": 161645,
+    "title": "Kusuriya no Hitorigoto",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-bX5S28Cc1Nnk.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -376,27 +336,67 @@
     "format": "TV"
   },
   {
-    "id": 21507,
-    "title": "Mob Psycho 100",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
-    "seasonYear": 2016,
+    "id": 1535,
+    "title": "DEATH NOTE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-4r88a1tsBEIz.jpg",
+    "seasonYear": 2006,
+    "totalEpisode": 37,
+    "format": "TV"
+  },
+  {
+    "id": 154963,
+    "title": "ATRI: My Dear Moments",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
+    "id": 136430,
+    "title": "VINLAND SAGA SEASON 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136430-YrQ8nBDW7gT0.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 1735,
+    "title": "NARUTO: Shippuuden",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png",
+    "seasonYear": 2007,
+    "totalEpisode": 500,
+    "format": "TV"
+  },
+  {
+    "id": 168872,
+    "title": "Kimi ni Todoke 3RD SEASON",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168872-vcpdhVFfPpOn.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 5,
+    "format": "ONA"
+  },
+  {
+    "id": 167420,
+    "title": "NieR:Automata Ver1.1a 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167420-PBxeW0tmbEDQ.jpg",
+    "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 5114,
-    "title": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-Dilr312jctdJ.jpg",
-    "seasonYear": 2009,
-    "totalEpisode": 64,
+    "id": 166873,
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166873-xO0BRPkmwFll.png",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 161645,
-    "title": "Kusuriya no Hitorigoto",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-bX5S28Cc1Nnk.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 24,
+    "id": 115230,
+    "title": "Kami no Tou: Tower of God",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
+    "seasonYear": 2020,
+    "totalEpisode": 13,
     "format": "TV"
   }
 ]
