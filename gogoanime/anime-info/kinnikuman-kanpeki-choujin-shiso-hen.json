@@ -11,8 +11,12 @@
   "otherNames": "Kinnikuman: Perfect Origin Arc, Muscleman, Musculman ; \u30ad\u30f3\u8089\u30de\u30f3 \u5b8c\u74a7\u8d85\u4eba\u59cb\u7956\u7de8",
   "synopsis": "New Kinnikuman anime project to commemorate the anime's 40th anniversary",
   "animeImg": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
-  "totalEpisodes": "4",
+  "totalEpisodes": "5",
   "episodesList": [
+    {
+      "episodeId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-5",
+      "episodeNum": "Episode 5"
+    },
     {
       "episodeId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-4",
       "episodeNum": "Episode 4"
