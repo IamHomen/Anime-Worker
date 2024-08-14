@@ -1,5 +1,47 @@
 [
   {
+    "id": "koi-wa-futago-de-warikirenai",
+    "epId": "koi-wa-futago-de-warikirenai-episode-6",
+    "title": "Koi wa Futago de Warikirenai",
+    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-7",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "epId": "oshi-no-ko-2nd-season-episode-7",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "shinkalion-change-the-world",
+    "epId": "shinkalion-change-the-world-episode-18",
+    "title": "Shinkalion: Change the World",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "episode": "Episode 18"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-7",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-8",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "mirai-kara-kita-shounen-super-jetter",
     "epId": "mirai-kara-kita-shounen-super-jetter-episode-30",
     "title": "Mirai Kara Kita Shounen Super Jetter",
@@ -504,46 +546,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-6",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "sengoku-youko-senma-konton-hen",
     "epId": "sengoku-youko-senma-konton-hen-episode-4",
     "title": "Sengoku Youko: Senma Konton-hen",
     "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "koi-wa-futago-de-warikirenai",
-    "epId": "koi-wa-futago-de-warikirenai-episode-5",
-    "title": "Koi wa Futago de Warikirenai",
-    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season",
-    "epId": "oshi-no-ko-2nd-season-episode-6",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-6",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-7",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 7"
   },
   {
     "id": "dr-slump-arale-chan",
@@ -607,13 +614,6 @@
     "title": "Muu no Hakugei",
     "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "shinkalion-change-the-world",
-    "epId": "shinkalion-change-the-world-episode-17",
-    "title": "Shinkalion: Change the World",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 17"
   },
   {
     "id": "youkai-ningen-bem-2006",
