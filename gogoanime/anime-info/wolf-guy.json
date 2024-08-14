@@ -1,0 +1,41 @@
+{
+  "animeTitle": "Wolf Guy",
+  "type": "OVA",
+  "releasedDate": "1992",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Military",
+    "Sci-Fi"
+  ],
+  "otherNames": "\u30a6\u30eb\u30d5\u30ac\u30a4",
+  "synopsis": "Akira lnugami is infected with a terrible poison. The only known antidote has an unfortunate side effect-it turns him into a werewolf. He opts for survival but then has to cope with his new desires and with the attention of the military, which is in terested in using his affliction for its own purposes.",
+  "animeImg": "https://gogocdn.net/cover/wolf-guy.png",
+  "totalEpisodes": "6",
+  "episodesList": [
+    {
+      "episodeId": "wolf-guy-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "wolf-guy-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "wolf-guy-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wolf-guy-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wolf-guy-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "wolf-guy-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

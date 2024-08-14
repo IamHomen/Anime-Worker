@@ -1,5 +1,47 @@
 [
   {
+    "id": "wolf-guy",
+    "epId": "wolf-guy-episode-6",
+    "title": "Wolf Guy",
+    "img": "https://gogocdn.net/cover/wolf-guy.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "futari-gurashi",
+    "epId": "futari-gurashi-episode-11",
+    "title": "Futari Gurashi",
+    "img": "https://gogocdn.net/cover/futari-gurashi.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete",
+    "epId": "mahou-no-princess-minky-momo-yume-wo-dakishimete-episode-2",
+    "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
+    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-yume-wo-dakishimete.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-43",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 43"
+  },
+  {
+    "id": "bakugan-battle-brawlers",
+    "epId": "bakugan-battle-brawlers-episode-17",
+    "title": "Bakugan Battle Brawlers\t",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
+    "episode": "Episode 17"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-19",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 19"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-5",
     "title": "Tasuuketsu",
@@ -47,13 +89,6 @@
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-18",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 18"
   },
   {
     "id": "tiger-mask",
@@ -623,13 +658,6 @@
     "episode": "Episode 490"
   },
   {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-42",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 42"
-  },
-  {
     "id": "senpai-wa-otokonoko",
     "epId": "senpai-wa-otokonoko-episode-5",
     "title": "Senpai wa Otokonoko",
@@ -859,13 +887,6 @@
     "title": "Oishinbo",
     "img": "https://gogocdn.net/cover/oishinbo.png",
     "episode": "Episode 51"
-  },
-  {
-    "id": "bakugan-battle-brawlers",
-    "epId": "bakugan-battle-brawlers-episode-16",
-    "title": "Bakugan Battle Brawlers\t",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
-    "episode": "Episode 16"
   },
   {
     "id": "jantama-kan",
@@ -1699,13 +1720,6 @@
     "title": "Ray The Animation",
     "img": "https://gogocdn.net/cover/ray-the-animation.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "futari-gurashi",
-    "epId": "futari-gurashi-episode-9",
-    "title": "Futari Gurashi",
-    "img": "https://gogocdn.net/cover/futari-gurashi.png",
-    "episode": "Episode 9"
   },
   {
     "id": "honoo-no-labyrinth",
@@ -2784,19 +2798,5 @@
     "title": "Jewelpet",
     "img": "https://gogocdn.net/cover/jewelpet.png",
     "episode": "Episode 52"
-  },
-  {
-    "id": "haikara-san-ga-tooru",
-    "epId": "haikara-san-ga-tooru-episode-11",
-    "title": "Haikara-san ga Tooru",
-    "img": "https://gogocdn.net/cover/haikara-san-ga-tooru.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "saber-marionette-r",
-    "epId": "saber-marionette-r-episode-3",
-    "title": "Saber Marionette R",
-    "img": "https://gogocdn.net/cover/saber-marionette-r.png",
-    "episode": "Episode 3"
   }
 ]
