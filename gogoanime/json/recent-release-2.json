@@ -1,5 +1,19 @@
 [
   {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-20",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 20"
+  },
+  {
+    "id": "isekai-shikkaku-dub",
+    "epId": "isekai-shikkaku-dub-episode-3",
+    "title": "Isekai Shikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub",
     "epId": "boku-no-kokoro-no-yabai-yatsu-2nd-season-dub-episode-8",
     "title": "Boku no Kokoro no Yabai Yatsu 2nd Season (Dub)",
@@ -215,20 +229,6 @@
     "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II (Dub)",
     "img": "https://gogocdn.net/cover/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "isekai-shikkaku-dub",
-    "epId": "isekai-shikkaku-dub-episode-2",
-    "title": "Isekai Shikkaku (Dub)",
-    "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-19",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 19"
   },
   {
     "id": "rising-impact-season-2-dub",
