@@ -1,5 +1,33 @@
 [
   {
+    "id": "tasogare-out-focus",
+    "epId": "tasogare-out-focus-episode-7",
+    "title": "Tasogare Out Focus",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
+    "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-7",
+    "title": "Ore wa Subete wo ",
+    "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "kengan-ashura-season-2-part-2",
+    "epId": "kengan-ashura-season-2-part-2-episode-12",
+    "title": "Kengan Ashura Season 2 Part 2",
+    "img": "https://gogocdn.net/cover/kengan-ashura-season-2-part-2.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-7",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "isekai-suicide-squad",
     "epId": "isekai-suicide-squad-episode-10",
     "title": "Isekai Suicide Squad",
@@ -529,27 +557,6 @@
     "epId": "giji-harem-episode-6",
     "title": "Giji Harem",
     "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "tasogare-out-focus",
-    "epId": "tasogare-out-focus-episode-6",
-    "title": "Tasogare Out Focus",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
-    "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-6",
-    "title": "Ore wa Subete wo ",
-    "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-6",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
     "episode": "Episode 6"
   },
   {
@@ -2790,13 +2797,6 @@
     "epId": "bikkuriman-2000-episode-1",
     "title": "Bikkuriman 2000",
     "img": "https://gogocdn.net/cover/bikkuriman-2000.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "akuu-daisakusen-srungle",
-    "epId": "akuu-daisakusen-srungle-episode-1",
-    "title": "Akuu Daisakusen Srungle",
-    "img": "https://gogocdn.net/cover/akuu-daisakusen-srungle.png",
     "episode": "Episode 1"
   }
 ]

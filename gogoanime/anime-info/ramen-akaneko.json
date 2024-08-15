@@ -12,8 +12,12 @@
   "otherNames": "\u30e9\u30fc\u30e1\u30f3\u8d64\u732b, Red Cat Ramen",
   "synopsis": "Meet Tamako, who's found her way into an interview at a ramen shop run solely by cats. When the feline manager asks if she likes cats, Tamako admits that she's actually more of a dog person...only to be hired on the spot! But her job description isn't quite what she expects \u2014 rather than serving ramen, she's now a dedicated cat caretaker...?!",
   "animeImg": "https://gogocdn.net/cover/ramen-akaneko.png",
-  "totalEpisodes": "6",
+  "totalEpisodes": "7",
   "episodesList": [
+    {
+      "episodeId": "ramen-akaneko-episode-7",
+      "episodeNum": "Episode 7"
+    },
     {
       "episodeId": "ramen-akaneko-episode-6",
       "episodeNum": "Episode 6"
