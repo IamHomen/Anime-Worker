@@ -64,17 +64,6 @@
     ]
   },
   {
-    "animeId": "isekai-suicide-squad",
-    "animeTitle": "Isekai Suicide Squad",
-    "animeImg": "'https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png'",
-    "latestEp": "Episode 9",
-    "animeUrl": "https://anitaku.so/category/isekai-suicide-squad",
-    "genres": [
-      "Action",
-      "Isekai"
-    ]
-  },
-  {
     "animeId": "isekai-shikkaku",
     "animeTitle": "Isekai Shikkaku",
     "animeImg": "'https://gogocdn.net/cover/isekai-shikkaku-1719514036.png'",
@@ -120,6 +109,20 @@
       "Action",
       "Adventure",
       "Fantasy",
+      "Shounen"
+    ]
+  },
+  {
+    "animeId": "2-5-jigen-no-ririsa",
+    "animeTitle": "2.5-jigen no Ririsa",
+    "animeImg": "'https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png'",
+    "latestEp": "Episode 6",
+    "animeUrl": "https://anitaku.so/category/2-5-jigen-no-ririsa",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Harem",
+      "School",
       "Shounen"
     ]
   }

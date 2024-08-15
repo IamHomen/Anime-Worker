@@ -48,18 +48,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 99750,
-    "title": "Kimi no Suizou wo Tabetai",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-NHafozHS8zRp.jpg",
-    "seasonYear": 2018,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 106286,
     "title": "Tenki no Ko",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
     "seasonYear": 2019,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 99750,
+    "title": "Kimi no Suizou wo Tabetai",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99750-NHafozHS8zRp.jpg",
+    "seasonYear": 2018,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
