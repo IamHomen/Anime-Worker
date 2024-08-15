@@ -1,5 +1,19 @@
 [
   {
+    "id": "delicos-nursery",
+    "epId": "delicos-nursery-episode-2",
+    "title": "Delico's Nursery",
+    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-5",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "koi-wa-futago-de-warikirenai",
     "epId": "koi-wa-futago-de-warikirenai-episode-6",
     "title": "Koi wa Futago de Warikirenai",
@@ -537,20 +551,6 @@
     "title": "Isekai Suicide Squad",
     "img": "https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "delicos-nursery",
-    "epId": "delicos-nursery-episode-1",
-    "title": "Delico's Nursery",
-    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-4",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 4"
   },
   {
     "id": "dr-slump-arale-chan",
