@@ -1,5 +1,61 @@
 [
   {
+    "id": "ohayou-spank",
+    "epId": "ohayou-spank-episode-46",
+    "title": "Ohayou! Spank",
+    "img": "https://gogocdn.net/cover/ohayou-spank.png",
+    "episode": "Episode 46"
+  },
+  {
+    "id": "senpai-wa-otokonoko",
+    "epId": "senpai-wa-otokonoko-episode-6",
+    "title": "Senpai wa Otokonoko",
+    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "oishinbo",
+    "epId": "oishinbo-episode-52",
+    "title": "Oishinbo",
+    "img": "https://gogocdn.net/cover/oishinbo.png",
+    "episode": "Episode 52"
+  },
+  {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-105",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 105"
+  },
+  {
+    "id": "megami-no-cafe-terrace-2nd-season",
+    "epId": "megami-no-cafe-terrace-2nd-season-episode-7",
+    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
+    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "ramen-akaneko",
+    "epId": "ramen-akaneko-episode-7",
+    "title": "Ramen Akaneko",
+    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "giji-harem",
+    "epId": "giji-harem-episode-7",
+    "title": "Giji Harem",
+    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "kengan-ashura-season-2-part-2",
+    "epId": "kengan-ashura-season-2-part-2-episode-16",
+    "title": "Kengan Ashura Season 2 Part 2",
+    "img": "https://gogocdn.net/cover/kengan-ashura-season-2-part-2.png",
+    "episode": "Episode 16"
+  },
+  {
     "id": "tasogare-out-focus",
     "epId": "tasogare-out-focus-episode-7",
     "title": "Tasogare Out Focus",
@@ -12,13 +68,6 @@
     "title": "Ore wa Subete wo ",
     "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "kengan-ashura-season-2-part-2",
-    "epId": "kengan-ashura-season-2-part-2-episode-12",
-    "title": "Kengan Ashura Season 2 Part 2",
-    "img": "https://gogocdn.net/cover/kengan-ashura-season-2-part-2.png",
-    "episode": "Episode 12"
   },
   {
     "id": "gimai-seikatsu",
@@ -525,38 +574,10 @@
     "episode": "Episode 52"
   },
   {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-104",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 104"
-  },
-  {
-    "id": "megami-no-cafe-terrace-2nd-season",
-    "epId": "megami-no-cafe-terrace-2nd-season-episode-6",
-    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
-    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
     "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-6",
     "title": "Hazurewaku no ",
     "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "ramen-akaneko",
-    "epId": "ramen-akaneko-episode-6",
-    "title": "Ramen Akaneko",
-    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "giji-harem",
-    "epId": "giji-harem-episode-6",
-    "title": "Giji Harem",
-    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
     "episode": "Episode 6"
   },
   {
@@ -672,13 +693,6 @@
     "episode": "Episode 490"
   },
   {
-    "id": "senpai-wa-otokonoko",
-    "epId": "senpai-wa-otokonoko-episode-5",
-    "title": "Senpai wa Otokonoko",
-    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "ultra-b",
     "epId": "ultra-b-episode-3",
     "title": "Ultra B",
@@ -768,13 +782,6 @@
     "title": "Ariel Deluxe",
     "img": "https://gogocdn.net/cover/ariel-deluxe.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "ohayou-spank",
-    "epId": "ohayou-spank-episode-32",
-    "title": "Ohayou! Spank",
-    "img": "https://gogocdn.net/cover/ohayou-spank.png",
-    "episode": "Episode 32"
   },
   {
     "id": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie",
@@ -894,13 +901,6 @@
     "title": "Karasu wa Aruji wo Erabanai",
     "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "oishinbo",
-    "epId": "oishinbo-episode-51",
-    "title": "Oishinbo",
-    "img": "https://gogocdn.net/cover/oishinbo.png",
-    "episode": "Episode 51"
   },
   {
     "id": "jantama-kan",

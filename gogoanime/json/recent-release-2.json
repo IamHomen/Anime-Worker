@@ -1,5 +1,19 @@
 [
   {
+    "id": "tasogare-out-focus-dub",
+    "epId": "tasogare-out-focus-dub-episode-5",
+    "title": "Tasogare Out Focus (Dub)",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "kengan-ashura-season-2-part-2-dub",
+    "epId": "kengan-ashura-season-2-part-2-dub-episode-16",
+    "title": "Kengan Ashura Season 2 Part 2 (Dub)",
+    "img": "https://gogocdn.net/cover/kengan-ashura-season-2-part-2-dub.png",
+    "episode": "Episode 16"
+  },
+  {
     "id": "isekai-suicide-squad-dub",
     "epId": "isekai-suicide-squad-dub-episode-9",
     "title": "Isekai Suicide Squad (Dub)",
@@ -222,13 +236,6 @@
     "title": "Bartender: Kami no Glass (Dub)",
     "img": "https://gogocdn.net/cover/bartender-kami-no-glass-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "tasogare-out-focus-dub",
-    "epId": "tasogare-out-focus-dub-episode-4",
-    "title": "Tasogare Out Focus (Dub)",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus-dub.png",
-    "episode": "Episode 4"
   },
   {
     "id": "rising-impact-season-2-dub",
@@ -2791,12 +2798,5 @@
     "title": "Dimension W OVA (Dub)",
     "img": "https://gogocdn.net/cover/dimension-w-ova-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "blue-lock-dub",
-    "epId": "blue-lock-dub-episode-24",
-    "title": "Blue Lock (Dub)",
-    "img": "https://gogocdn.net/cover/blue-lock-dub.png",
-    "episode": "Episode 24"
   }
 ]
