@@ -1,5 +1,26 @@
 [
   {
+    "id": "sentai-daishikkaku-dub",
+    "epId": "sentai-daishikkaku-dub-episode-12",
+    "title": "Sentai Daishikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "rick-and-morty-the-anime",
+    "epId": "rick-and-morty-the-anime-episode-1",
+    "title": "Rick and Morty: The Anime",
+    "img": "https://gogocdn.net/cover/rick-and-morty-the-anime.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "code-geass-dakkan-no-roze",
+    "epId": "code-geass-dakkan-no-roze-episode-9",
+    "title": "Code Geass: Dakkan no Roz\u00e9",
+    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "ninjala",
     "epId": "ninjala-episode-130",
     "title": "Ninjala",
@@ -565,13 +586,6 @@
     "title": "Super Dragon Ball Heroes Meteor Mission",
     "img": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "code-geass-dakkan-no-roze",
-    "epId": "code-geass-dakkan-no-roze-episode-8",
-    "title": "Code Geass: Dakkan no Roz\u00e9",
-    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
-    "episode": "Episode 8"
   },
   {
     "id": "kyojin-no-hoshi",
@@ -2784,19 +2798,5 @@
     "title": "Kyousou Giga (TV)",
     "img": "https://gogocdn.net/cover/kyousogiga-1710273152.png",
     "episode": "Episode 10.5"
-  },
-  {
-    "id": "the-first-slam-dunk",
-    "epId": "the-first-slam-dunk-episode-1",
-    "title": "The First Slam Dunk",
-    "img": "https://gogocdn.net/cover/the-first-slam-dunk-1667529452.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "dr-slump-arale-chan-no-koutsuu-anzen",
-    "epId": "dr-slump-arale-chan-no-koutsuu-anzen-episode-1",
-    "title": "Dr. Slump: Arale-chan no Koutsuu Anzen",
-    "img": "https://gogocdn.net/cover/dr-slump-arale-chan-no-koutsuu-anzen.png",
-    "episode": "Episode 1"
   }
 ]
