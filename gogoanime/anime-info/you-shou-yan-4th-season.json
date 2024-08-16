@@ -10,8 +10,16 @@
   "otherNames": "\u6709\u517d\u7109 \u7b2c\u56db\u5b63, Fabulous Beasts 4th Season",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/you-shou-yan-4th-season.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "3",
   "episodesList": [
+    {
+      "episodeId": "you-shou-yan-4th-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "you-shou-yan-4th-season-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "you-shou-yan-4th-season-episode-1",
       "episodeNum": "Episode 1"

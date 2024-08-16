@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Rick and Morty: The Anime",
+  "type": "ONA",
+  "releasedDate": "2024",
+  "status": "Ongoing",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "otherNames": "Rick and Morty: The Anime",
+  "synopsis": "Rick and Morty: The Anime",
+  "animeImg": "https://gogocdn.net/cover/rick-and-morty-the-anime.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "rick-and-morty-the-anime-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

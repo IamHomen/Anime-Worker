@@ -1,5 +1,19 @@
 [
   {
+    "id": "ninjala",
+    "epId": "ninjala-episode-130",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 130"
+  },
+  {
+    "id": "dead-dead-demons-dededede-destruction",
+    "epId": "dead-dead-demons-dededede-destruction-episode-12",
+    "title": "Dead Dead Demons Dededede Destruction",
+    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "patalliro",
     "epId": "patalliro-episode-49",
     "title": "Patalliro",
@@ -558,20 +572,6 @@
     "title": "Code Geass: Dakkan no Roz\u00e9",
     "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-129",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 129"
-  },
-  {
-    "id": "dead-dead-demons-dededede-destruction",
-    "epId": "dead-dead-demons-dededede-destruction-episode-11",
-    "title": "Dead Dead Demons Dededede Destruction",
-    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
-    "episode": "Episode 11"
   },
   {
     "id": "kyojin-no-hoshi",
