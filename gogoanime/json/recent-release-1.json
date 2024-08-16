@@ -1,10 +1,59 @@
 [
   {
-    "id": "sentai-daishikkaku-dub",
-    "epId": "sentai-daishikkaku-dub-episode-12",
-    "title": "Sentai Daishikkaku (Dub)",
-    "img": "https://gogocdn.net/cover/sentai-daishikkaku-dub.png",
-    "episode": "Episode 12"
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-7",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-6",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "tiger-mask",
+    "epId": "tiger-mask-episode-98",
+    "title": "Tiger Mask",
+    "img": "https://gogocdn.net/cover/tiger-mask.png",
+    "episode": "Episode 98"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-6-5",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 6.5"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-18",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 18"
+  },
+  {
+    "id": "bye-bye-earth",
+    "epId": "bye-bye-earth-episode-6",
+    "title": "Bye Bye, Earth",
+    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "rerere-no-tensai-bakabon",
+    "epId": "rerere-no-tensai-bakabon-episode-24",
+    "title": "Rerere no Tensai Bakabon",
+    "img": "https://gogocdn.net/cover/rerere-no-tensai-bakabon.png",
+    "episode": "Episode 24"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-7",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 7"
   },
   {
     "id": "rick-and-morty-the-anime",
@@ -280,13 +329,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "tiger-mask",
-    "epId": "tiger-mask-episode-81",
-    "title": "Tiger Mask",
-    "img": "https://gogocdn.net/cover/tiger-mask.png",
-    "episode": "Episode 81"
-  },
-  {
     "id": "super-zugan",
     "epId": "super-zugan-episode-21",
     "title": "Super Zugan",
@@ -532,53 +574,11 @@
     "episode": "Episode 118"
   },
   {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-6",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-5",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "guardian-hearts",
     "epId": "guardian-hearts-episode-3",
     "title": "Guardian Hearts",
     "img": "https://gogocdn.net/cover/guardian-hearts.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-6",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-17-5",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 17.5"
-  },
-  {
-    "id": "bye-bye-earth",
-    "epId": "bye-bye-earth-episode-5",
-    "title": "Bye Bye, Earth",
-    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-6",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 6"
   },
   {
     "id": "super-dragon-ball-heroes-meteor-mission",
