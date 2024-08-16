@@ -1,5 +1,12 @@
 [
   {
+    "id": "patalliro",
+    "epId": "patalliro-episode-49",
+    "title": "Patalliro",
+    "img": "https://gogocdn.net/cover/patalliro.png",
+    "episode": "Episode 49"
+  },
+  {
     "id": "ohayou-spank",
     "epId": "ohayou-spank-episode-46",
     "title": "Ohayou! Spank",
@@ -2790,13 +2797,6 @@
     "epId": "dr-slump-arale-chan-no-koutsuu-anzen-episode-1",
     "title": "Dr. Slump: Arale-chan no Koutsuu Anzen",
     "img": "https://gogocdn.net/cover/dr-slump-arale-chan-no-koutsuu-anzen.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "bikkuriman-2000",
-    "epId": "bikkuriman-2000-episode-1",
-    "title": "Bikkuriman 2000",
-    "img": "https://gogocdn.net/cover/bikkuriman-2000.png",
     "episode": "Episode 1"
   }
 ]
