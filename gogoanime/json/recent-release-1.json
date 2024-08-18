@@ -1,5 +1,19 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1116",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1116"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-29",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 29"
+  },
+  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "epId": "karasu-wa-aruji-wo-erabanai-episode-15",
     "title": "Karasu wa Aruji wo Erabanai",
@@ -551,20 +565,6 @@
     "title": "Yozakura-san Chi no Daisakusen",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 19"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1115",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1115"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-28",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 28"
   },
   {
     "id": "elf-san-wa-yaserarenai-uncensored",
