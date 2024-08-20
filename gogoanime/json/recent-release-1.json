@@ -1,5 +1,33 @@
 [
   {
+    "id": "kidou-senshi-gundam-san-ona",
+    "epId": "kidou-senshi-gundam-san-ona-episode-6",
+    "title": "Kidou Senshi Gundam-san (ONA)",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-san-ona.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+    "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-20",
+    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+    "img": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
+    "episode": "Episode 20"
+  },
+  {
+    "id": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+    "epId": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-episode-7",
+    "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+    "img": "https://gogocdn.net/cover/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-1719517433.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "shy-2nd-season",
+    "epId": "shy-2nd-season-episode-7",
+    "title": "Shy 2nd Season",
+    "img": "https://gogocdn.net/cover/shy-2nd-season.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "mayonaka-punch",
     "epId": "mayonaka-punch-episode-7",
     "title": "Mayonaka Punch",
@@ -546,27 +574,6 @@
     "episode": "Episode 21"
   },
   {
-    "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
-    "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-19",
-    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "img": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
-    "episode": "Episode 19"
-  },
-  {
-    "id": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
-    "epId": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-episode-6",
-    "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
-    "img": "https://gogocdn.net/cover/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-1719517433.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "shy-2nd-season",
-    "epId": "shy-2nd-season-episode-6",
-    "title": "Shy 2nd Season",
-    "img": "https://gogocdn.net/cover/shy-2nd-season.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "getter-robo-go",
     "epId": "getter-robo-go-episode-30",
     "title": "Getter Robo Go",
@@ -912,14 +919,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
+    "title": "Maze\u2606Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2791,12 +2798,5 @@
     "title": "Kyousou Giga",
     "img": "https://gogocdn.net/cover/kyousou-giga.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "kyousou-giga-tv",
-    "epId": "kyousou-giga-tv-episode-10-5",
-    "title": "Kyousou Giga (TV)",
-    "img": "https://gogocdn.net/cover/kyousogiga-1710273152.png",
-    "episode": "Episode 10.5"
   }
 ]
