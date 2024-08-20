@@ -96,12 +96,6 @@
     "date": "2024"
   },
   {
-    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
-    "date": "2024"
-  },
-  {
     "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
     "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
     "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
@@ -2218,6 +2212,12 @@
     "title": "Noblesse",
     "img": "https://gogocdn.net/cover/noblesse.png",
     "date": "2020"
+  },
+  {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
+    "date": "2024"
   },
   {
     "id": "island",
@@ -51582,6 +51582,12 @@
     "date": "2018"
   },
   {
+    "id": "seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai-dub",
+    "title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai (Dub)",
+    "img": "https://gogocdn.net/cover/seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai-dub.png",
+    "date": "2023"
+  },
+  {
     "id": "mirai-nikki-redial-data-ikou",
     "title": "Mirai Nikki Redial: Data Ikou",
     "img": "https://gogocdn.net/cover/mirai-nikki-redial-data-ikou.png",
@@ -80152,11 +80158,5 @@
     "title": "Long Zu Episode 0",
     "img": "https://gogocdn.net/cover/long-zu-episode-0.png",
     "date": "2022"
-  },
-  {
-    "id": "tasogare-out-focus-dub",
-    "title": "Tasogare Out Focus (Dub)",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus-dub.png",
-    "date": "2024"
   }
 ]

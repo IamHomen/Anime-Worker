@@ -1,5 +1,19 @@
 [
   {
+    "id": "nanako-sos",
+    "epId": "nanako-sos-episode-10",
+    "title": "Nanako SOS",
+    "img": "https://gogocdn.net/cover/nanako-sos.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-6",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "kidou-senshi-gundam-san-ona",
     "epId": "kidou-senshi-gundam-san-ona-episode-6",
     "title": "Kidou Senshi Gundam-san (ONA)",
@@ -558,13 +572,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 17"
-  },
-  {
-    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
-    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-5",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
-    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
-    "episode": "Episode 5"
   },
   {
     "id": "super-zugan",
@@ -2392,13 +2399,6 @@
     "title": "Magnerobo Ga-Keen",
     "img": "https://gogocdn.net/cover/magnerobo-ga-keen.png",
     "episode": "Episode 27"
-  },
-  {
-    "id": "nanako-sos",
-    "epId": "nanako-sos-episode-5",
-    "title": "Nanako SOS",
-    "img": "https://gogocdn.net/cover/nanako-sos.png",
-    "episode": "Episode 5"
   },
   {
     "id": "oroka-na-tenshi-wa-akuma-to-odoru",
