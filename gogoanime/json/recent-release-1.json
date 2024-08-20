@@ -1,5 +1,12 @@
 [
   {
+    "id": "tiger-mask",
+    "epId": "tiger-mask-episode-105",
+    "title": "Tiger Mask",
+    "img": "https://gogocdn.net/cover/tiger-mask.png",
+    "episode": "Episode 105"
+  },
+  {
     "id": "nanako-sos",
     "epId": "nanako-sos-episode-10",
     "title": "Nanako SOS",
@@ -264,13 +271,6 @@
     "title": "Dungeon no Naka no Hito",
     "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "tiger-mask",
-    "epId": "tiger-mask-episode-98",
-    "title": "Tiger Mask",
-    "img": "https://gogocdn.net/cover/tiger-mask.png",
-    "episode": "Episode 98"
   },
   {
     "id": "nierautomata-ver1-1a-part-2",
