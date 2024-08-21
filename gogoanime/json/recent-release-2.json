@@ -1,5 +1,26 @@
 [
   {
+    "id": "lv1-maou-to-one-room-yuusha-dub",
+    "epId": "lv1-maou-to-one-room-yuusha-dub-episode-1",
+    "title": "Lv1 Maou to One Room Yuusha (Dub)",
+    "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-21",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 21"
+  },
+  {
+    "id": "isekai-shikkaku-dub",
+    "epId": "isekai-shikkaku-dub-episode-4",
+    "title": "Isekai Shikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen-dub",
     "epId": "kimetsu-no-yaiba-hashira-geiko-hen-dub-episode-8",
     "title": "Kimetsu no Yaiba: Hashira Geiko-hen (Dub)",
@@ -243,20 +264,6 @@
     "title": "Shikanoko Nokonoko Koshitantan (Dub)",
     "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan-dub.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-20",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 20"
-  },
-  {
-    "id": "isekai-shikkaku-dub",
-    "epId": "isekai-shikkaku-dub-episode-3",
-    "title": "Isekai Shikkaku (Dub)",
-    "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
-    "episode": "Episode 3"
   },
   {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
@@ -2790,13 +2797,6 @@
     "epId": "benriya-saitou-san-isekai-ni-iku-dub-episode-12",
     "title": "Benriya Saitou-san, Isekai ni Iku (Dub)",
     "img": "https://gogocdn.net/cover/benriya-saitou-san-isekai-ni-iku-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-dub",
-    "epId": "rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-dub-episode-12",
-    "title": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu (Dub)",
-    "img": "https://gogocdn.net/cover/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-dub.png",
     "episode": "Episode 12"
   }
 ]
