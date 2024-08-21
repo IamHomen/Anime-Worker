@@ -1,5 +1,61 @@
 [
   {
+    "id": "delicos-nursery",
+    "epId": "delicos-nursery-episode-3",
+    "title": "Delico's Nursery",
+    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-44",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 44"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-6",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai",
+    "epId": "koi-wa-futago-de-warikirenai-episode-7",
+    "title": "Koi wa Futago de Warikirenai",
+    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "epId": "oshi-no-ko-2nd-season-episode-8",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-8",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-8",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-9",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-18",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -469,60 +525,11 @@
     "episode": "Episode 10"
   },
   {
-    "id": "delicos-nursery",
-    "epId": "delicos-nursery-episode-2",
-    "title": "Delico's Nursery",
-    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-5",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "koi-wa-futago-de-warikirenai",
-    "epId": "koi-wa-futago-de-warikirenai-episode-6",
-    "title": "Koi wa Futago de Warikirenai",
-    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-7",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season",
-    "epId": "oshi-no-ko-2nd-season-episode-7",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-18",
     "title": "Shinkalion: Change the World",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 18"
-  },
-  {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-7",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-8",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 8"
   },
   {
     "id": "mirai-kara-kita-shounen-super-jetter",
@@ -551,13 +558,6 @@
     "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
     "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-yume-wo-dakishimete.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-43",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 43"
   },
   {
     "id": "bakugan-battle-brawlers",
