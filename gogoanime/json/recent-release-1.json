@@ -1,5 +1,82 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-106",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 106"
+  },
+  {
+    "id": "megami-no-cafe-terrace-2nd-season",
+    "epId": "megami-no-cafe-terrace-2nd-season-episode-8",
+    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
+    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
+    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-7",
+    "title": "Hazurewaku no ",
+    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "the-snack-world-tv",
+    "epId": "the-snack-world-tv-episode-35",
+    "title": "The Snack World (TV)",
+    "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
+    "episode": "Episode 35"
+  },
+  {
+    "id": "ramen-akaneko",
+    "epId": "ramen-akaneko-episode-8",
+    "title": "Ramen Akaneko",
+    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "linetown",
+    "epId": "linetown-episode-15",
+    "title": "Linetown",
+    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
+    "episode": "Episode 15"
+  },
+  {
+    "id": "giji-harem",
+    "epId": "giji-harem-episode-8",
+    "title": "Giji Harem",
+    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "tasogare-out-focus",
+    "epId": "tasogare-out-focus-episode-8",
+    "title": "Tasogare Out Focus",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
+    "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-8",
+    "title": "Ore wa Subete wo ",
+    "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-15",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 15"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-8",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "himitsu-no-aipri",
     "epId": "himitsu-no-aipri-episode-20",
     "title": "Himitsu no AiPri",
@@ -194,13 +271,6 @@
     "title": "Na Nare Hana Nare",
     "img": "https://gogocdn.net/cover/na-nare-hana-nare.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "linetown",
-    "epId": "linetown-episode-14",
-    "title": "Linetown",
-    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
-    "episode": "Episode 14"
   },
   {
     "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
@@ -483,60 +553,11 @@
     "episode": "Episode 52"
   },
   {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-105",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 105"
-  },
-  {
-    "id": "megami-no-cafe-terrace-2nd-season",
-    "epId": "megami-no-cafe-terrace-2nd-season-episode-7",
-    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
-    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "ramen-akaneko",
-    "epId": "ramen-akaneko-episode-7",
-    "title": "Ramen Akaneko",
-    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "giji-harem",
-    "epId": "giji-harem-episode-7",
-    "title": "Giji Harem",
-    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "kengan-ashura-season-2-part-2",
     "epId": "kengan-ashura-season-2-part-2-episode-16",
     "title": "Kengan Ashura Season 2 Part 2",
     "img": "https://gogocdn.net/cover/kengan-ashura-season-2-part-2.png",
     "episode": "Episode 16"
-  },
-  {
-    "id": "tasogare-out-focus",
-    "epId": "tasogare-out-focus-episode-7",
-    "title": "Tasogare Out Focus",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
-    "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-7",
-    "title": "Ore wa Subete wo ",
-    "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-7",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
-    "episode": "Episode 7"
   },
   {
     "id": "isekai-suicide-squad",
@@ -658,13 +679,6 @@
     "episode": "Episode 52"
   },
   {
-    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-6",
-    "title": "Hazurewaku no ",
-    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "dr-slump-arale-chan",
     "epId": "dr-slump-arale-chan-episode-163",
     "title": "Dr. Slump: Arale-chan",
@@ -740,13 +754,6 @@
     "title": "Youkai Ningen Bem",
     "img": "https://gogocdn.net/cover/youkai-ningen-bem.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "the-snack-world-tv",
-    "epId": "the-snack-world-tv-episode-32",
-    "title": "The Snack World (TV)",
-    "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
-    "episode": "Episode 32"
   },
   {
     "id": "detective-conan-remastered",
@@ -2791,12 +2798,5 @@
     "title": "Gekitou! Crush Gear Turbo",
     "img": "https://gogocdn.net/cover/gekitou-crush-gear-turbo.png",
     "episode": "Episode 27"
-  },
-  {
-    "id": "get-ride-amdriver",
-    "epId": "get-ride-amdriver-episode-14",
-    "title": "Get Ride! AMDriver",
-    "img": "https://gogocdn.net/cover/get-ride-amdriver.png",
-    "episode": "Episode 14"
   }
 ]
