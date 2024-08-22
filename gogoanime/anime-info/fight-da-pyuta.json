@@ -11,8 +11,12 @@
   "otherNames": "\u30d5\u30a1\u30a4\u30c8\u3060!! \u30d4\u30e5\u30fc\u592a",
   "synopsis": "A young boy uses his scientific skills to fight enemies.",
   "animeImg": "https://gogocdn.net/cover/fight-da-pyuta.png",
-  "totalEpisodes": "7",
+  "totalEpisodes": "8",
   "episodesList": [
+    {
+      "episodeId": "fight-da-pyuta-episode-8",
+      "episodeNum": "Episode 8"
+    },
     {
       "episodeId": "fight-da-pyuta-episode-7",
       "episodeNum": "Episode 7"

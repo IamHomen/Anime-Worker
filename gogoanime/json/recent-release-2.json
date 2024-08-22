@@ -1,5 +1,19 @@
 [
   {
+    "id": "delicos-nursery-dub",
+    "epId": "delicos-nursery-dub-episode-1",
+    "title": "Delico's Nursery (Dub)",
+    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-6",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "shikanoko-nokonoko-koshitantan-dub",
     "epId": "shikanoko-nokonoko-koshitantan-dub-episode-8",
     "title": "Shikanoko Nokonoko Koshitantan (Dub)",
@@ -257,13 +271,6 @@
     "title": "Boushoku no Berserk (Dub)",
     "img": "https://gogocdn.net/cover/boushoku-no-berserk-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-5",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
-    "episode": "Episode 5"
   },
   {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
@@ -2790,13 +2797,6 @@
     "epId": "kami-tachi-ni-hirowareta-otoko-2nd-season-dub-episode-12",
     "title": "Kami-tachi ni Hirowareta Otoko 2nd Season (Dub)",
     "img": "https://gogocdn.net/cover/kami-tachi-ni-hirowareta-otoko-2nd-season-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "benriya-saitou-san-isekai-ni-iku-dub",
-    "epId": "benriya-saitou-san-isekai-ni-iku-dub-episode-12",
-    "title": "Benriya Saitou-san, Isekai ni Iku (Dub)",
-    "img": "https://gogocdn.net/cover/benriya-saitou-san-isekai-ni-iku-dub.png",
     "episode": "Episode 12"
   }
 ]
