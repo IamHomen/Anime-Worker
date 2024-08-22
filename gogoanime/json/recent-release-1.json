@@ -1,5 +1,12 @@
 [
   {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-20",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 20"
+  },
+  {
     "id": "fight-da-pyuta",
     "epId": "fight-da-pyuta-episode-8",
     "title": "Fight Da!! Pyuta",
@@ -138,6 +145,13 @@
     "title": "Kidou Senshi Gundam-san (ONA)",
     "img": "https://gogocdn.net/cover/kidou-senshi-gundam-san-ona.png",
     "episode": "Episode 6"
+  },
+  {
+    "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
+    "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-20",
+    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+    "img": "https://gogocdn.net/cover/ookami-to-koushinryou-merchant-meets-the-wise-wolf.png",
+    "episode": "Episode 20"
   },
   {
     "id": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
@@ -560,13 +574,6 @@
     "episode": "Episode 11"
   },
   {
-    "id": "futari-gurashi",
-    "epId": "futari-gurashi-episode-11",
-    "title": "Futari Gurashi",
-    "img": "https://gogocdn.net/cover/futari-gurashi.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete",
     "epId": "mahou-no-princess-minky-momo-yume-wo-dakishimete-episode-2",
     "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
@@ -579,13 +586,6 @@
     "title": "Bakugan Battle Brawlers\t",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
     "episode": "Episode 17"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-19",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 19"
   },
   {
     "id": "shoukoushi-cedie",
@@ -840,6 +840,13 @@
     "episode": "Episode 2"
   },
   {
+    "id": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie",
+    "epId": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie-episode-1",
+    "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie",
+    "img": "https://gogocdn.net/cover/kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "sd-gundam-force",
     "epId": "sd-gundam-force-episode-40-52",
     "title": "SD Gundam Force",
@@ -971,13 +978,6 @@
     "title": "Araiguma Rascal",
     "img": "https://gogocdn.net/cover/araiguma-rascal.png",
     "episode": "Episode 52"
-  },
-  {
-    "id": "lily-c-a-t",
-    "epId": "lily-c-a-t-episode-1",
-    "title": "Lily C.A.T.",
-    "img": "https://gogocdn.net/cover/lily-c-a-t.png",
-    "episode": "Episode 1"
   },
   {
     "id": "lily-c-a-t",
