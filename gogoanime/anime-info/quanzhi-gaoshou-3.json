@@ -9,8 +9,12 @@
   "otherNames": "The King's Avatar 3; \u5168\u804c\u9ad8\u624b \u7b2c3\u5b63",
   "synopsis": "Third season of Quanzhi Gaoshou.",
   "animeImg": "https://gogocdn.net/cover/quanzhi-gaoshou-3.png",
-  "totalEpisodes": "12",
+  "totalEpisodes": "13",
   "episodesList": [
+    {
+      "episodeId": "quanzhi-gaoshou-3-episode-13",
+      "episodeNum": "Episode 13"
+    },
     {
       "episodeId": "quanzhi-gaoshou-3-episode-12",
       "episodeNum": "Episode 12"
