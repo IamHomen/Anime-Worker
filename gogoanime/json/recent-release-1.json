@@ -1,5 +1,12 @@
 [
   {
+    "id": "senpai-wa-otokonoko",
+    "epId": "senpai-wa-otokonoko-episode-7",
+    "title": "Senpai wa Otokonoko",
+    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-106",
     "title": "Chiikawa",
@@ -537,13 +544,6 @@
     "title": "Ohayou! Spank",
     "img": "https://gogocdn.net/cover/ohayou-spank.png",
     "episode": "Episode 46"
-  },
-  {
-    "id": "senpai-wa-otokonoko",
-    "epId": "senpai-wa-otokonoko-episode-6",
-    "title": "Senpai wa Otokonoko",
-    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
-    "episode": "Episode 6"
   },
   {
     "id": "oishinbo",
