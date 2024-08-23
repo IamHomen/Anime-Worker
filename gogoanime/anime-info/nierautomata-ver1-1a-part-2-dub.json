@@ -11,8 +11,12 @@
   "otherNames": "NieR:Automata Ver1.1a (Cour 2), NieR:Automata Ver1.1a \u7b2c2\u30af\u30fc\u30eb",
   "synopsis": "Second part of NieR:Automata Ver1.1a",
   "animeImg": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2-dub.png",
-  "totalEpisodes": "3",
+  "totalEpisodes": "4",
   "episodesList": [
+    {
+      "episodeId": "nierautomata-ver1-1a-part-2-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
     {
       "episodeId": "nierautomata-ver1-1a-part-2-dub-episode-3",
       "episodeNum": "Episode 3"
