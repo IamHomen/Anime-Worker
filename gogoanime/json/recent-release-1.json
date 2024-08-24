@@ -1,5 +1,40 @@
 [
   {
+    "id": "elf-san-wa-yaserarenai",
+    "epId": "elf-san-wa-yaserarenai-episode-8",
+    "title": "Elf-san wa Yaserarenai.",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "monogatari-series-off-monster-season",
+    "epId": "monogatari-series-off-monster-season-episode-7",
+    "title": "Monogatari Series: Off & Monster Season",
+    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "mob-kara-hajimaru-tansaku-eiyuutan",
+    "epId": "mob-kara-hajimaru-tansaku-eiyuutan-episode-9",
+    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
+    "img": "https://gogocdn.net/cover/mob-kara-hajimaru-tansaku-eiyuutan.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "madougushi-dahliya-wa-utsumukanai",
+    "epId": "madougushi-dahliya-wa-utsumukanai-episode-8",
+    "title": "Madougushi Dahliya wa Utsumukanai",
+    "img": "https://gogocdn.net/cover/madougushi-dahliya-wa-utsumukanai.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1133",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1133"
+  },
+  {
     "id": "boku-no-hero-academia-7th-season",
     "epId": "boku-no-hero-academia-7th-season-episode-14",
     "title": "Boku no Hero Academia 7th Season",
@@ -96,6 +131,13 @@
     "title": "Ninjala",
     "img": "https://gogocdn.net/cover/ninjala.png",
     "episode": "Episode 131"
+  },
+  {
+    "id": "dead-dead-demons-dededede-destruction",
+    "epId": "dead-dead-demons-dededede-destruction-episode-13",
+    "title": "Dead Dead Demons Dededede Destruction",
+    "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
+    "episode": "Episode 13"
   },
   {
     "id": "dead-dead-demons-dededede-destruction",
@@ -378,13 +420,6 @@
     "episode": "Episode 7"
   },
   {
-    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
-    "epId": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-7",
-    "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
-    "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "chibi-maruko-chan",
     "epId": "chibi-maruko-chan-episode-1443",
     "title": "Chibi Maruko-chan",
@@ -497,46 +532,11 @@
     "episode": "Episode 6"
   },
   {
-    "id": "elf-san-wa-yaserarenai",
-    "epId": "elf-san-wa-yaserarenai-episode-7",
-    "title": "Elf-san wa Yaserarenai.",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "boku-no-tsuma-wa-kanjou-ga-nai",
     "epId": "boku-no-tsuma-wa-kanjou-ga-nai-episode-8",
     "title": "Boku no Tsuma wa Kanjou ga Nai",
     "img": "https://gogocdn.net/cover/boku-no-tsuma-wa-kanjou-ga-nai.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "monogatari-series-off-monster-season",
-    "epId": "monogatari-series-off-monster-season-episode-6-5",
-    "title": "Monogatari Series: Off & Monster Season",
-    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
-    "episode": "Episode 6.5"
-  },
-  {
-    "id": "mob-kara-hajimaru-tansaku-eiyuutan",
-    "epId": "mob-kara-hajimaru-tansaku-eiyuutan-episode-8",
-    "title": "Mob kara Hajimaru Tansaku Eiyuutan",
-    "img": "https://gogocdn.net/cover/mob-kara-hajimaru-tansaku-eiyuutan.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "madougushi-dahliya-wa-utsumukanai",
-    "epId": "madougushi-dahliya-wa-utsumukanai-episode-7",
-    "title": "Madougushi Dahliya wa Utsumukanai",
-    "img": "https://gogocdn.net/cover/madougushi-dahliya-wa-utsumukanai.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1132",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1132"
   },
   {
     "id": "rerere-no-tensai-bakabon",
