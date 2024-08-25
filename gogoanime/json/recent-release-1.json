@@ -1,5 +1,47 @@
 [
   {
+    "id": "kami-no-tou-ouji-no-kikan",
+    "epId": "kami-no-tou-ouji-no-kikan-episode-8",
+    "title": "Kami no Tou: Ouji no Kikan",
+    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "chibi-maruko-chan",
+    "epId": "chibi-maruko-chan-episode-1444",
+    "title": "Chibi Maruko-chan",
+    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
+    "episode": "Episode 1444"
+  },
+  {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-20",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 20"
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen",
+    "epId": "yozakura-san-chi-no-daisakusen-episode-21",
+    "title": "Yozakura-san Chi no Daisakusen",
+    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
+    "episode": "Episode 21"
+  },
+  {
+    "id": "fairy-tail-100-years-quest",
+    "epId": "fairy-tail-100-years-quest-episode-8",
+    "title": "Fairy Tail: 100 Years Quest",
+    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "kaibutsu-kun-1980-specials",
+    "epId": "kaibutsu-kun-1980-specials-episode-2",
+    "title": "Kaibutsu-kun (1980) Specials",
+    "img": "https://gogocdn.net/cover/kaibutsu-kun-1980-specials.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "zannen-onna-kanbu-black-general-san",
     "epId": "zannen-onna-kanbu-black-general-san-episode-3",
     "title": "Zannen Onna Kanbu Black General-san",
@@ -322,13 +364,6 @@
     "episode": "Episode 8"
   },
   {
-    "id": "ribbon-no-kishi",
-    "epId": "ribbon-no-kishi-episode-15",
-    "title": "Ribbon no Kishi",
-    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
-    "episode": "Episode 15"
-  },
-  {
     "id": "gimai-seikatsu",
     "epId": "gimai-seikatsu-episode-8",
     "title": "Gimai Seikatsu",
@@ -530,34 +565,6 @@
     "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
     "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "chibi-maruko-chan",
-    "epId": "chibi-maruko-chan-episode-1443",
-    "title": "Chibi Maruko-chan",
-    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
-    "episode": "Episode 1443"
-  },
-  {
-    "id": "kami-no-tou-ouji-no-kikan",
-    "epId": "kami-no-tou-ouji-no-kikan-episode-7",
-    "title": "Kami no Tou: Ouji no Kikan",
-    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "fairy-tail-100-years-quest",
-    "epId": "fairy-tail-100-years-quest-episode-7",
-    "title": "Fairy Tail: 100 Years Quest",
-    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "yozakura-san-chi-no-daisakusen",
-    "epId": "yozakura-san-chi-no-daisakusen-episode-20",
-    "title": "Yozakura-san Chi no Daisakusen",
-    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
-    "episode": "Episode 20"
   },
   {
     "id": "one-piece",
@@ -2791,12 +2798,5 @@
     "title": "Stitch!: Piko Kara no Chousenjou",
     "img": "https://gogocdn.net/cover/stitch-piko-kara-no-chousenjou.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "chou-futsuu-ken-chiba-densetsu",
-    "epId": "chou-futsuu-ken-chiba-densetsu-episode-8",
-    "title": "Chou Futsuu Ken Chiba Densetsu",
-    "img": "https://gogocdn.net/cover/chou-futsuu-ken-chiba-densetsu.png",
-    "episode": "Episode 8"
   }
 ]
