@@ -1,5 +1,33 @@
 [
   {
+    "id": "uchuu-ace",
+    "epId": "uchuu-ace-episode-41",
+    "title": "Uchuu Ace",
+    "img": "https://gogocdn.net/cover/uchuu-ace.png",
+    "episode": "Episode 41"
+  },
+  {
+    "id": "one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun",
+    "epId": "one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun-episode-1",
+    "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
+    "img": "https://gogocdn.net/cover/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-30",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 30"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai-uncensored",
+    "epId": "elf-san-wa-yaserarenai-uncensored-episode-8",
+    "title": "Elf-san wa Yaserarenai (Uncensored)",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "epId": "karasu-wa-aruji-wo-erabanai-episode-16",
     "title": "Karasu wa Aruji wo Erabanai",
@@ -532,13 +560,6 @@
     "episode": "Episode 1116"
   },
   {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-29",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 29"
-  },
-  {
     "id": "rerere-no-tensai-bakabon",
     "epId": "rerere-no-tensai-bakabon-episode-24",
     "title": "Rerere no Tensai Bakabon",
@@ -642,13 +663,6 @@
     "title": "Getter Robo Go",
     "img": "https://gogocdn.net/cover/getter-robo-go.png",
     "episode": "Episode 30"
-  },
-  {
-    "id": "elf-san-wa-yaserarenai-uncensored",
-    "epId": "elf-san-wa-yaserarenai-uncensored-episode-6",
-    "title": "Elf-san wa Yaserarenai (Uncensored)",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
-    "episode": "Episode 6"
   },
   {
     "id": "yugioh-go-rush",
@@ -2784,19 +2798,5 @@
     "title": "Fake",
     "img": "https://gogocdn.net/cover/fake.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "majokko-tickle",
-    "epId": "majokko-tickle-episode-2",
-    "title": "Majokko Tickle",
-    "img": "https://gogocdn.net/cover/majokko-tickle.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "gekitou-crush-gear-turbo",
-    "epId": "gekitou-crush-gear-turbo-episode-27",
-    "title": "Gekitou! Crush Gear Turbo",
-    "img": "https://gogocdn.net/cover/gekitou-crush-gear-turbo.png",
-    "episode": "Episode 27"
   }
 ]
