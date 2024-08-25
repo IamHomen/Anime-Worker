@@ -1,5 +1,33 @@
 [
   {
+    "id": "zannen-onna-kanbu-black-general-san",
+    "epId": "zannen-onna-kanbu-black-general-san-episode-3",
+    "title": "Zannen Onna Kanbu Black General-san",
+    "img": "https://gogocdn.net/cover/zannen-onna-kanbu-black-general-san.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "tsue-to-tsurugi-no-wistoria",
+    "epId": "tsue-to-tsurugi-no-wistoria-episode-7",
+    "title": "Tsue to Tsurugi no Wistoria",
+    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "the-fable",
+    "epId": "the-fable-episode-21",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 21"
+  },
+  {
+    "id": "toushi-gordian",
+    "epId": "toushi-gordian-episode-49",
+    "title": "Toushi Gordian",
+    "img": "https://gogocdn.net/cover/toushi-gordian.png",
+    "episode": "Episode 49"
+  },
+  {
     "id": "uchuu-ace",
     "epId": "uchuu-ace-episode-41",
     "title": "Uchuu Ace",
@@ -54,13 +82,6 @@
     "title": "Atri: My Dear Moments",
     "img": "https://gogocdn.net/cover/atri-my-dear-moments-1719512812.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-20",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 20"
   },
   {
     "id": "nige-jouzu-no-wakagimi",
@@ -537,20 +558,6 @@
     "title": "Yozakura-san Chi no Daisakusen",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
     "episode": "Episode 20"
-  },
-  {
-    "id": "tsue-to-tsurugi-no-wistoria",
-    "epId": "tsue-to-tsurugi-no-wistoria-episode-6",
-    "title": "Tsue to Tsurugi no Wistoria",
-    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "toushi-gordian",
-    "epId": "toushi-gordian-episode-42",
-    "title": "Toushi Gordian",
-    "img": "https://gogocdn.net/cover/toushi-gordian.png",
-    "episode": "Episode 42"
   },
   {
     "id": "one-piece",
@@ -2791,12 +2798,5 @@
     "title": "Chou Futsuu Ken Chiba Densetsu",
     "img": "https://gogocdn.net/cover/chou-futsuu-ken-chiba-densetsu.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "fake",
-    "epId": "fake-episode-1",
-    "title": "Fake",
-    "img": "https://gogocdn.net/cover/fake.png",
-    "episode": "Episode 1"
   }
 ]
