@@ -12,8 +12,12 @@
   "otherNames": "Renegade Immortal, \u4ed9\u9006",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/xian-ni.png",
-  "totalEpisodes": "50",
+  "totalEpisodes": "51",
   "episodesList": [
+    {
+      "episodeId": "xian-ni-episode-51",
+      "episodeNum": "Episode 51"
+    },
     {
       "episodeId": "xian-ni-episode-50",
       "episodeNum": "Episode 50"
