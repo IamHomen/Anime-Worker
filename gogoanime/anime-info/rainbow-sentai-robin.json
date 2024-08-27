@@ -1,0 +1,33 @@
+{
+  "animeTitle": "Rainbow Sentai Robin",
+  "type": "TV Series",
+  "releasedDate": "1966",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "otherNames": "\u30ec\u30a4\u30f3\u30dc\u30fc\u6226\u968a\u30ed\u30d3\u30f3",
+  "synopsis": "A squadron of robots defends the planet against alien invaders.",
+  "animeImg": "https://gogocdn.net/cover/rainbow-sentai-robin.png",
+  "totalEpisodes": "4",
+  "episodesList": [
+    {
+      "episodeId": "rainbow-sentai-robin-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "rainbow-sentai-robin-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "rainbow-sentai-robin-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "rainbow-sentai-robin-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
