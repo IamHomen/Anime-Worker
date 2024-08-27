@@ -1,5 +1,26 @@
 [
   {
+    "id": "isekai-shikkaku",
+    "epId": "isekai-shikkaku-episode-8",
+    "title": "Isekai Shikkaku",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-1719514036.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "egumi-legacy",
+    "epId": "egumi-legacy-episode-8",
+    "title": "Egumi Legacy",
+    "img": "https://gogocdn.net/cover/egumi-legacy.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+    "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-8",
+    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+    "img": "https://gogocdn.net/cover/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "nanako-sos",
     "epId": "nanako-sos-episode-15",
     "title": "Nanako SOS",
@@ -546,32 +567,11 @@
     "episode": "Episode 18"
   },
   {
-    "id": "isekai-shikkaku",
-    "epId": "isekai-shikkaku-episode-7",
-    "title": "Isekai Shikkaku",
-    "img": "https://gogocdn.net/cover/isekai-shikkaku-1719514036.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-6",
     "title": "Tasuuketsu",
     "img": "https://gogocdn.net/cover/tasuuketsu.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-    "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-7",
-    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
-    "img": "https://gogocdn.net/cover/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "egumi-legacy",
-    "epId": "egumi-legacy-episode-7",
-    "title": "Egumi Legacy",
-    "img": "https://gogocdn.net/cover/egumi-legacy.png",
-    "episode": "Episode 7"
   },
   {
     "id": "tiger-mask",
