@@ -1,5 +1,12 @@
 [
   {
+    "id": "nanako-sos",
+    "epId": "nanako-sos-episode-15",
+    "title": "Nanako SOS",
+    "img": "https://gogocdn.net/cover/nanako-sos.png",
+    "episode": "Episode 15"
+  },
+  {
     "id": "rainbow-sentai-robin",
     "epId": "rainbow-sentai-robin-episode-4",
     "title": "Rainbow Sentai Robin",
@@ -572,13 +579,6 @@
     "title": "Tiger Mask",
     "img": "https://gogocdn.net/cover/tiger-mask.png",
     "episode": "Episode 105"
-  },
-  {
-    "id": "nanako-sos",
-    "epId": "nanako-sos-episode-10",
-    "title": "Nanako SOS",
-    "img": "https://gogocdn.net/cover/nanako-sos.png",
-    "episode": "Episode 10"
   },
   {
     "id": "kidou-senshi-gundam-san-ona",
