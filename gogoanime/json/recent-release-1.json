@@ -1,5 +1,19 @@
 [
   {
+    "id": "rainbow-sentai-robin",
+    "epId": "rainbow-sentai-robin-episode-4",
+    "title": "Rainbow Sentai Robin",
+    "img": "https://gogocdn.net/cover/rainbow-sentai-robin.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-7",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-21",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
@@ -565,13 +579,6 @@
     "title": "Nanako SOS",
     "img": "https://gogocdn.net/cover/nanako-sos.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
-    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-6",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
-    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
-    "episode": "Episode 6"
   },
   {
     "id": "kidou-senshi-gundam-san-ona",
@@ -2791,12 +2798,5 @@
     "title": "Stitch!",
     "img": "https://gogocdn.net/cover/stitch.png",
     "episode": "Episode 25"
-  },
-  {
-    "id": "stitch-piko-kara-no-chousenjou",
-    "epId": "stitch-piko-kara-no-chousenjou-episode-1",
-    "title": "Stitch!: Piko Kara no Chousenjou",
-    "img": "https://gogocdn.net/cover/stitch-piko-kara-no-chousenjou.png",
-    "episode": "Episode 1"
   }
 ]
