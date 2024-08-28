@@ -1,5 +1,12 @@
 [
   {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-22",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 22"
+  },
+  {
     "id": "little-lulu-to-chicchai-nakama-dub",
     "epId": "little-lulu-to-chicchai-nakama-dub-episode-23",
     "title": "Little Lulu to Chicchai Nakama (Dub)",
@@ -257,13 +264,6 @@
     "title": "Lv1 Maou to One Room Yuusha (Dub)",
     "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-21",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 21"
   },
   {
     "id": "isekai-shikkaku-dub",

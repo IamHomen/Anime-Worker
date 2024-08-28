@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-7",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "isekai-shikkaku",
     "epId": "isekai-shikkaku-episode-8",
     "title": "Isekai Shikkaku",
@@ -565,13 +572,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 18"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-6",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 6"
   },
   {
     "id": "tiger-mask",
