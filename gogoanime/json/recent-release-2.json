@@ -1,5 +1,26 @@
 [
   {
+    "id": "lv1-maou-to-one-room-yuusha-dub",
+    "epId": "lv1-maou-to-one-room-yuusha-dub-episode-2",
+    "title": "Lv1 Maou to One Room Yuusha (Dub)",
+    "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "konjiki-no-gash-bell-101-banme-no-mamono-dub",
+    "epId": "konjiki-no-gash-bell-101-banme-no-mamono-dub-episode-1",
+    "title": "Konjiki no Gash Bell!!: 101-banme no Mamono (Dub)",
+    "img": "https://gogocdn.net/cover/konjiki-no-gash-bell-101-banme-no-mamono-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "isekai-shikkaku-dub",
+    "epId": "isekai-shikkaku-dub-episode-5",
+    "title": "Isekai Shikkaku (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "helck-dub",
     "epId": "helck-dub-episode-22",
     "title": "Helck (Dub)",
@@ -257,20 +278,6 @@
     "title": "Shikanoko Nokonoko Koshitantan (Dub)",
     "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan-dub.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "lv1-maou-to-one-room-yuusha-dub",
-    "epId": "lv1-maou-to-one-room-yuusha-dub-episode-1",
-    "title": "Lv1 Maou to One Room Yuusha (Dub)",
-    "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "isekai-shikkaku-dub",
-    "epId": "isekai-shikkaku-dub-episode-4",
-    "title": "Isekai Shikkaku (Dub)",
-    "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
-    "episode": "Episode 4"
   },
   {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen-dub",
@@ -2791,12 +2798,5 @@
     "title": "One Piece Film: Red (Dub)",
     "img": "https://gogocdn.net/cover/one-piece-film-red-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "hikaru-no-go-dub",
-    "epId": "hikaru-no-go-dub-episode-75",
-    "title": "Hikaru no Go (Dub)",
-    "img": "https://gogocdn.net/cover/hikaru-no-go-dub.png",
-    "episode": "Episode 75"
   }
 ]
