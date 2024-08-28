@@ -1,5 +1,68 @@
 [
   {
+    "id": "delicos-nursery",
+    "epId": "delicos-nursery-episode-4",
+    "title": "Delico's Nursery",
+    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-7",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai",
+    "epId": "koi-wa-futago-de-warikirenai-episode-8",
+    "title": "Koi wa Futago de Warikirenai",
+    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "epId": "oshi-no-ko-2nd-season-episode-9",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-9",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "yuru-camp-season-3-specials",
+    "epId": "yuru-camp-season-3-specials-episode-2",
+    "title": "Yuru Camp\u25b3 Season 3 Specials",
+    "img": "https://gogocdn.net/cover/yuru-camp-season-3-specials.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-9",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-10",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "tenshi-ni-narumon",
+    "epId": "tenshi-ni-narumon-episode-26",
+    "title": "Tenshi ni Narumon!",
+    "img": "https://gogocdn.net/cover/tenshi-ni-narumon.png",
+    "episode": "Episode 26"
+  },
+  {
     "id": "0-saiji-start-dash-monogatari",
     "epId": "0-saiji-start-dash-monogatari-episode-4",
     "title": "0-saiji Start Dash Monogatari",
@@ -532,60 +595,11 @@
     "episode": "Episode 9"
   },
   {
-    "id": "delicos-nursery",
-    "epId": "delicos-nursery-episode-3",
-    "title": "Delico's Nursery",
-    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-44",
     "title": "Beyblade X",
     "img": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 44"
-  },
-  {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-6",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "koi-wa-futago-de-warikirenai",
-    "epId": "koi-wa-futago-de-warikirenai-episode-7",
-    "title": "Koi wa Futago de Warikirenai",
-    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season",
-    "epId": "oshi-no-ko-2nd-season-episode-8",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-8",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-8",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-9",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 9"
   },
   {
     "id": "tiger-mask",
@@ -2784,19 +2798,5 @@
     "title": "Meiji Gekken: 1874",
     "img": "https://gogocdn.net/cover/meiji-gekken-1874.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu",
-    "epId": "isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu-episode-12",
-    "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
-    "img": "https://gogocdn.net/cover/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu-1704185943.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "stitch",
-    "epId": "stitch-episode-25",
-    "title": "Stitch!",
-    "img": "https://gogocdn.net/cover/stitch.png",
-    "episode": "Episode 25"
   }
 ]
