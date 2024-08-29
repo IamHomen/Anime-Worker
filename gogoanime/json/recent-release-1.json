@@ -1,5 +1,61 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-107",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 107"
+  },
+  {
+    "id": "megami-no-cafe-terrace-2nd-season",
+    "epId": "megami-no-cafe-terrace-2nd-season-episode-9",
+    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
+    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-69",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 69"
+  },
+  {
+    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
+    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-8",
+    "title": "Hazurewaku no ",
+    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "ramen-akaneko",
+    "epId": "ramen-akaneko-episode-9",
+    "title": "Ramen Akaneko",
+    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "ohayou-spank",
+    "epId": "ohayou-spank-episode-48",
+    "title": "Ohayou! Spank",
+    "img": "https://gogocdn.net/cover/ohayou-spank.png",
+    "episode": "Episode 48"
+  },
+  {
+    "id": "giji-harem",
+    "epId": "giji-harem-episode-9",
+    "title": "Giji Harem",
+    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "tasogare-out-focus",
+    "epId": "tasogare-out-focus-episode-9",
+    "title": "Tasogare Out Focus",
+    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
     "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-9",
     "title": "Ore wa Subete wo ",
@@ -532,27 +588,6 @@
     "episode": "Episode 7"
   },
   {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-106",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 106"
-  },
-  {
-    "id": "megami-no-cafe-terrace-2nd-season",
-    "epId": "megami-no-cafe-terrace-2nd-season-episode-8",
-    "title": "Megami no Caf\u00e9 Terrace 2nd Season",
-    "img": "https://gogocdn.net/cover/megami-no-cafe-terrace-2nd-season.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-7",
-    "title": "Hazurewaku no ",
-    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "the-snack-world-tv",
     "epId": "the-snack-world-tv-episode-35",
     "title": "The Snack World (TV)",
@@ -560,32 +595,11 @@
     "episode": "Episode 35"
   },
   {
-    "id": "ramen-akaneko",
-    "epId": "ramen-akaneko-episode-8",
-    "title": "Ramen Akaneko",
-    "img": "https://gogocdn.net/cover/ramen-akaneko.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "linetown",
     "epId": "linetown-episode-15",
     "title": "Linetown",
     "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
     "episode": "Episode 15"
-  },
-  {
-    "id": "giji-harem",
-    "epId": "giji-harem-episode-8",
-    "title": "Giji Harem",
-    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "tasogare-out-focus",
-    "epId": "tasogare-out-focus-episode-8",
-    "title": "Tasogare Out Focus",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 8"
   },
   {
     "id": "himitsu-no-aipri",
@@ -649,13 +663,6 @@
     "title": "Patalliro",
     "img": "https://gogocdn.net/cover/patalliro.png",
     "episode": "Episode 49"
-  },
-  {
-    "id": "ohayou-spank",
-    "epId": "ohayou-spank-episode-46",
-    "title": "Ohayou! Spank",
-    "img": "https://gogocdn.net/cover/ohayou-spank.png",
-    "episode": "Episode 46"
   },
   {
     "id": "oishinbo",
@@ -737,7 +744,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-118",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "title": "Yu\u201a\u0117\u00dcGi\u201a\u0117\u00dcOh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 118"
   },
@@ -866,13 +873,6 @@
     "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
     "img": "https://gogocdn.net/cover/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2-1719514641.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-65",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 65"
   },
   {
     "id": "kagaku-bouken-tai-tansar-5",
