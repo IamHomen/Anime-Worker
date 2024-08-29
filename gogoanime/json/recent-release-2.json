@@ -1,5 +1,26 @@
 [
   {
+    "id": "delicos-nursery-dub",
+    "epId": "delicos-nursery-dub-episode-2",
+    "title": "Delico's Nursery (Dub)",
+    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "tenshi-ni-narumon-dub",
+    "epId": "tenshi-ni-narumon-dub-episode-13",
+    "title": "Tenshi ni Narumon! (Dub)",
+    "img": "https://gogocdn.net/cover/tenshi-ni-narumon-dub.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-7",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "shikanoko-nokonoko-koshitantan-dub",
     "epId": "shikanoko-nokonoko-koshitantan-dub-episode-9",
     "title": "Shikanoko Nokonoko Koshitantan (Dub)",
@@ -264,20 +285,6 @@
     "title": "Yeosin Gangnim (Dub)",
     "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "delicos-nursery-dub",
-    "epId": "delicos-nursery-dub-episode-1",
-    "title": "Delico's Nursery (Dub)",
-    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-6",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
-    "episode": "Episode 6"
   },
   {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen-dub",
@@ -2791,12 +2798,5 @@
     "title": "The Legend of Heroes: Sen no Kiseki - Northern War (Dub)",
     "img": "https://gogocdn.net/cover/the-legend-of-heroes-sen-no-kiseki-northern-war-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "one-piece-film-red-dub",
-    "epId": "one-piece-film-red-dub-episode-1",
-    "title": "One Piece Film: Red (Dub)",
-    "img": "https://gogocdn.net/cover/one-piece-film-red-dub.png",
-    "episode": "Episode 1"
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "id": "chiisana-viking-vickie",
+    "epId": "chiisana-viking-vickie-episode-17",
+    "title": "Chiisana Viking Vickie",
+    "img": "https://gogocdn.net/cover/chiisana-viking-vickie.png",
+    "episode": "Episode 17"
+  },
+  {
     "id": "delicos-nursery",
     "epId": "delicos-nursery-episode-4",
     "title": "Delico's Nursery",
@@ -2790,13 +2797,6 @@
     "epId": "hikari-no-ou-2nd-season-episode-10",
     "title": "Hikari no Ou 2nd Season",
     "img": "https://gogocdn.net/cover/hikari-no-ou-2nd-season-1704184627.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "meiji-gekken-1874",
-    "epId": "meiji-gekken-1874-episode-10",
-    "title": "Meiji Gekken: 1874",
-    "img": "https://gogocdn.net/cover/meiji-gekken-1874.png",
     "episode": "Episode 10"
   }
 ]
