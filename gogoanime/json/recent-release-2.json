@@ -1,10 +1,17 @@
 [
   {
+    "id": "terminator-0-dub",
+    "epId": "terminator-0-dub-episode-8",
+    "title": "Terminator 0 (Dub)",
+    "img": "https://gogocdn.net/cover/terminator-0-dub.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "one-piece-dub",
-    "epId": "one-piece-dub-episode-1088",
+    "epId": "one-piece-dub-episode-1096",
     "title": "One Piece (Dub)",
     "img": "https://gogocdn.net/cover/one-piece-dub.png",
-    "episode": "Episode 1088"
+    "episode": "Episode 1096"
   },
   {
     "id": "boushoku-no-berserk-dub",
@@ -2790,13 +2797,6 @@
     "epId": "buddy-daddies-dub-episode-12",
     "title": "Buddy Daddies (Dub)",
     "img": "https://gogocdn.net/cover/buddy-daddies-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "the-legend-of-heroes-sen-no-kiseki-northern-war-dub",
-    "epId": "the-legend-of-heroes-sen-no-kiseki-northern-war-dub-episode-12",
-    "title": "The Legend of Heroes: Sen no Kiseki - Northern War (Dub)",
-    "img": "https://gogocdn.net/cover/the-legend-of-heroes-sen-no-kiseki-northern-war-dub.png",
     "episode": "Episode 12"
   }
 ]
