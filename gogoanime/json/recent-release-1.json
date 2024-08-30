@@ -1,5 +1,12 @@
 [
   {
+    "id": "senpai-wa-otokonoko",
+    "epId": "senpai-wa-otokonoko-episode-8",
+    "title": "Senpai wa Otokonoko",
+    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-107",
     "title": "Chiikawa",
@@ -579,13 +586,6 @@
     "title": "Dead Dead Demons Dededede Destruction",
     "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "senpai-wa-otokonoko",
-    "epId": "senpai-wa-otokonoko-episode-7",
-    "title": "Senpai wa Otokonoko",
-    "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
-    "episode": "Episode 7"
   },
   {
     "id": "the-snack-world-tv",
