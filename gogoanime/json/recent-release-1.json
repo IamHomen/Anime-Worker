@@ -1,5 +1,12 @@
 [
   {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-9",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-63",
     "title": "Pokemon (Shinsaku Anime)",
@@ -593,13 +600,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-8",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 8"
   },
   {
     "id": "the-snack-world-tv",
