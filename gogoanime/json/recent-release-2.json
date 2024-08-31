@@ -1,5 +1,19 @@
 [
   {
+    "id": "nierautomata-ver1-1a-part-2-dub",
+    "epId": "nierautomata-ver1-1a-part-2-dub-episode-5",
+    "title": "NieR:Automata Ver1.1a Part 2 (Dub)",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "kono-sekai-wa-fukanzen-sugiru-dub",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-dub-episode-9",
+    "title": "Kono Sekai wa Fukanzen Sugiru (Dub)",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-dub.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub",
     "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub-episode-7",
     "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. (Dub)",
@@ -280,25 +294,11 @@
     "episode": "Episode 12"
   },
   {
-    "id": "nierautomata-ver1-1a-part-2-dub",
-    "epId": "nierautomata-ver1-1a-part-2-dub-episode-4",
-    "title": "NieR:Automata Ver1.1a Part 2 (Dub)",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2-dub.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "beyblade-x-dub",
     "epId": "beyblade-x-dub-episode-32",
     "title": "Beyblade X (Dub)",
     "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
     "episode": "Episode 32"
-  },
-  {
-    "id": "kono-sekai-wa-fukanzen-sugiru-dub",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-dub-episode-8",
-    "title": "Kono Sekai wa Fukanzen Sugiru (Dub)",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-dub.png",
-    "episode": "Episode 8"
   },
   {
     "id": "boruto-naruto-next-generations-dub",
