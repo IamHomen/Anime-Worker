@@ -1,5 +1,12 @@
 [
   {
+    "id": "kidou-senshi-gundam-seed-freedom-dub",
+    "epId": "kidou-senshi-gundam-seed-freedom-dub-episode-1",
+    "title": "Kidou Senshi Gundam SEED Freedom (Dub)",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-seed-freedom-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub",
     "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub-episode-6",
     "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen (Dub)",
     "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "honey-and-clover-specials-dub",
-    "epId": "honey-and-clover-specials-dub-episode-2",
-    "title": "Honey and Clover Specials (Dub)",
-    "img": "https://gogocdn.net/cover/honey-and-clover-specials-dub.png",
-    "episode": "Episode 2"
   }
 ]
