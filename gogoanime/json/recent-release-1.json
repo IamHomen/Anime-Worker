@@ -1,5 +1,33 @@
 [
   {
+    "id": "ochamegami-monogatari-korokoro-pollon",
+    "epId": "ochamegami-monogatari-korokoro-pollon-episode-10",
+    "title": "Ochamegami Monogatari: Korokoro Pollon",
+    "img": "https://gogocdn.net/cover/ochamegami-monogatari-korokoro-pollon.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "fushigiboshi-nofutagohime-gyu",
+    "epId": "fushigiboshi-nofutagohime-gyu-episode-15",
+    "title": "Fushigiboshi no\u2606Futagohime Gyu!",
+    "img": "https://gogocdn.net/cover/fushigiboshi-nofutagohime-gyu.png",
+    "episode": "Episode 15"
+  },
+  {
+    "id": "linetown",
+    "epId": "linetown-episode-16",
+    "title": "Linetown",
+    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
+    "episode": "Episode 16"
+  },
+  {
+    "id": "yami-shibai-13",
+    "epId": "yami-shibai-13-episode-8",
+    "title": "Yami Shibai 13",
+    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
     "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-10",
     "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
@@ -546,13 +574,6 @@
     "episode": "Episode 164"
   },
   {
-    "id": "yami-shibai-13",
-    "epId": "yami-shibai-13-episode-7",
-    "title": "Yami Shibai 13",
-    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "haai-step-jun",
     "epId": "haai-step-jun-episode-22",
     "title": "Haai Step Jun",
@@ -614,13 +635,6 @@
     "title": "Detective Conan",
     "img": "https://gogocdn.net/cover/detective-conan.png",
     "episode": "Episode 1133"
-  },
-  {
-    "id": "linetown",
-    "epId": "linetown-episode-15",
-    "title": "Linetown",
-    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
-    "episode": "Episode 15"
   },
   {
     "id": "himitsu-no-aipri",
@@ -2783,20 +2797,6 @@
     "epId": "stitch-zutto-saikou-no-tomodachi-special-episode-1",
     "title": "Stitch!: Zutto Saikou no Tomodachi Special",
     "img": "https://gogocdn.net/cover/stitch-zutto-saikou-no-tomodachi-special.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "stitch-itazura-alien-no-daibouken",
-    "epId": "stitch-itazura-alien-no-daibouken-episode-29",
-    "title": "Stitch! Itazura Alien no Daibouken",
-    "img": "https://gogocdn.net/cover/stitch-itazura-alien-no-daibouken.png",
-    "episode": "Episode 29"
-  },
-  {
-    "id": "stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan",
-    "epId": "stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan-episode-1",
-    "title": "Stitch!: Itazura Alien no Daibouken - Uchuu Ichi no Oniichan",
-    "img": "https://gogocdn.net/cover/stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan.png",
     "episode": "Episode 1"
   }
 ]
