@@ -1,5 +1,12 @@
 [
   {
+    "id": "noobow-kieta-medal",
+    "epId": "noobow-kieta-medal-episode-1",
+    "title": "Noobow: Kieta Medal",
+    "img": "https://gogocdn.net/cover/noobow-kieta-medal.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ochamegami-monogatari-korokoro-pollon",
     "epId": "ochamegami-monogatari-korokoro-pollon-episode-10",
     "title": "Ochamegami Monogatari: Korokoro Pollon",
@@ -2791,12 +2798,5 @@
     "title": "Stitch!: Zutto Saikou no Tomodachi",
     "img": "https://gogocdn.net/cover/stitch-zutto-saikou-no-tomodachi.png",
     "episode": "Episode 29"
-  },
-  {
-    "id": "stitch-zutto-saikou-no-tomodachi-special",
-    "epId": "stitch-zutto-saikou-no-tomodachi-special-episode-1",
-    "title": "Stitch!: Zutto Saikou no Tomodachi Special",
-    "img": "https://gogocdn.net/cover/stitch-zutto-saikou-no-tomodachi-special.png",
-    "episode": "Episode 1"
   }
 ]
