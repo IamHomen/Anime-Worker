@@ -1,5 +1,26 @@
 [
   {
+    "id": "isekai-shikkaku",
+    "epId": "isekai-shikkaku-episode-9",
+    "title": "Isekai Shikkaku",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-1719514036.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+    "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-9",
+    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+    "img": "https://gogocdn.net/cover/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "egumi-legacy",
+    "epId": "egumi-legacy-episode-9",
+    "title": "Egumi Legacy",
+    "img": "https://gogocdn.net/cover/egumi-legacy.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "eternal-boys-next-stage",
     "epId": "eternal-boys-next-stage-episode-3",
     "title": "Eternal Boys Next Stage",
@@ -257,13 +278,6 @@
     "title": "Grendizer U",
     "img": "https://gogocdn.net/cover/grendizer-u.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-63",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 63"
   },
   {
     "id": "shadowverse-flame-arc-hen",
@@ -546,25 +560,11 @@
     "episode": "Episode 7"
   },
   {
-    "id": "isekai-shikkaku",
-    "epId": "isekai-shikkaku-episode-8",
-    "title": "Isekai Shikkaku",
-    "img": "https://gogocdn.net/cover/isekai-shikkaku-1719514036.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "egumi-legacy",
-    "epId": "egumi-legacy-episode-8",
-    "title": "Egumi Legacy",
-    "img": "https://gogocdn.net/cover/egumi-legacy.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-    "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-8",
-    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
-    "img": "https://gogocdn.net/cover/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita.png",
-    "episode": "Episode 8"
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-7",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 7"
   },
   {
     "id": "nanako-sos",
