@@ -1,5 +1,12 @@
 [
   {
+    "id": "eternal-boys-next-stage",
+    "epId": "eternal-boys-next-stage-episode-3",
+    "title": "Eternal Boys Next Stage",
+    "img": "https://gogocdn.net/cover/eternal-boys-next-stage.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-8",
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
@@ -2791,12 +2798,5 @@
     "title": "Magical Hat",
     "img": "https://gogocdn.net/cover/magical-hat.png",
     "episode": "Episode 28"
-  },
-  {
-    "id": "stitch-zutto-saikou-no-tomodachi",
-    "epId": "stitch-zutto-saikou-no-tomodachi-episode-29",
-    "title": "Stitch!: Zutto Saikou no Tomodachi",
-    "img": "https://gogocdn.net/cover/stitch-zutto-saikou-no-tomodachi.png",
-    "episode": "Episode 29"
   }
 ]
