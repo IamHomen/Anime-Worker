@@ -1,5 +1,19 @@
 [
   {
+    "id": "nanatsu-no-umi-no-tico",
+    "epId": "nanatsu-no-umi-no-tico-episode-39",
+    "title": "Nanatsu no Umi no Tico",
+    "img": "https://gogocdn.net/cover/nanatsu-no-umi-no-tico.png",
+    "episode": "Episode 39"
+  },
+  {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-8",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "isekai-shikkaku",
     "epId": "isekai-shikkaku-episode-9",
     "title": "Isekai Shikkaku",
@@ -280,6 +294,13 @@
     "episode": "Episode 9"
   },
   {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-63",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 63"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-19",
     "title": "Shadowverse Flame: Arc-hen",
@@ -551,20 +572,6 @@
     "title": "Shinkalion: Change the World",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 19"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-7",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-7",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 7"
   },
   {
     "id": "nanako-sos",
@@ -1045,14 +1052,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u2606Bakunetsu Jikuu",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2791,12 +2798,5 @@
     "title": "Pururun! Shizuku-chan",
     "img": "https://gogocdn.net/cover/pururun-shizuku-chan.png",
     "episode": "Episode 51"
-  },
-  {
-    "id": "magical-hat",
-    "epId": "magical-hat-episode-28",
-    "title": "Magical Hat",
-    "img": "https://gogocdn.net/cover/magical-hat.png",
-    "episode": "Episode 28"
   }
 ]

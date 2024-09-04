@@ -336,19 +336,19 @@
     "format": "ONA"
   },
   {
-    "id": 97986,
-    "title": "Made in Abyss",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-tXLonOO0vhHb.jpg",
-    "seasonYear": 2017,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
     "id": 145064,
     "title": "Jujutsu Kaisen 2nd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5U30gu2LSOv8.jpg",
     "seasonYear": 2023,
     "totalEpisode": 23,
+    "format": "TV"
+  },
+  {
+    "id": 97986,
+    "title": "Made in Abyss",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-tXLonOO0vhHb.jpg",
+    "seasonYear": 2017,
+    "totalEpisode": 13,
     "format": "TV"
   },
   {
@@ -368,19 +368,19 @@
     "format": "TV"
   },
   {
-    "id": 11757,
-    "title": "Sword Art Online",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg",
-    "seasonYear": 2012,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 19,
     "title": "MONSTER",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
     "seasonYear": 2004,
     "totalEpisode": 74,
+    "format": "TV"
+  },
+  {
+    "id": 11757,
+    "title": "Sword Art Online",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg",
+    "seasonYear": 2012,
+    "totalEpisode": 25,
     "format": "TV"
   },
   {
