@@ -1,5 +1,47 @@
 [
   {
+    "id": "koi-wa-futago-de-warikirenai",
+    "epId": "koi-wa-futago-de-warikirenai-episode-9",
+    "title": "Koi wa Futago de Warikirenai",
+    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-10",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-10",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "garden-of-remembrance",
+    "epId": "garden-of-remembrance-episode-1",
+    "title": "Garden of Remembrance",
+    "img": "https://gogocdn.net/cover/garden-of-remembrance-1725461029.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-11",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "murai-no-koi",
+    "epId": "murai-no-koi-episode-1",
+    "title": "Murai no Koi",
+    "img": "https://gogocdn.net/cover/murai-no-koi.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "muu-no-hakugei",
     "epId": "muu-no-hakugei-episode-5",
     "title": "Muu no Hakugei",
@@ -518,24 +560,10 @@
     "episode": "Episode 7"
   },
   {
-    "id": "koi-wa-futago-de-warikirenai",
-    "epId": "koi-wa-futago-de-warikirenai-episode-8",
-    "title": "Koi wa Futago de Warikirenai",
-    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "oshi-no-ko-2nd-season",
     "epId": "oshi-no-ko-2nd-season-episode-9",
     "title": "",
     "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-9",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
     "episode": "Episode 9"
   },
   {
@@ -544,20 +572,6 @@
     "title": "Yuru Camp\u25b3 Season 3 Specials",
     "img": "https://gogocdn.net/cover/yuru-camp-season-3-specials.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-9",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-10",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 10"
   },
   {
     "id": "tenshi-ni-narumon",
@@ -2784,19 +2798,5 @@
     "title": "Mahou Shoujo Lalabel",
     "img": "https://gogocdn.net/cover/mahou-shoujo-lalabel.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "goal-fh-field-hunter",
-    "epId": "goal-fh-field-hunter-episode-1",
-    "title": "Goal FH: Field Hunter",
-    "img": "https://gogocdn.net/cover/goal-fh-field-hunter.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "ninja-hattori-kun",
-    "epId": "ninja-hattori-kun-episode-9",
-    "title": "Ninja Hattori-kun",
-    "img": "https://gogocdn.net/cover/ninja-hattori-kun.png",
-    "episode": "Episode 9"
   }
 ]
