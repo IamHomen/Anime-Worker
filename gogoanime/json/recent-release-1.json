@@ -1,5 +1,19 @@
 [
   {
+    "id": "muu-no-hakugei",
+    "epId": "muu-no-hakugei-episode-5",
+    "title": "Muu no Hakugei",
+    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "ganbare-genki",
+    "epId": "ganbare-genki-episode-8",
+    "title": "Ganbare Genki",
+    "img": "https://gogocdn.net/cover/ganbare-genki.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "nanatsu-no-umi-no-tico",
     "epId": "nanatsu-no-umi-no-tico-episode-39",
     "title": "Nanatsu no Umi no Tico",
@@ -854,13 +868,6 @@
     "episode": "Episode 3"
   },
   {
-    "id": "muu-no-hakugei",
-    "epId": "muu-no-hakugei-episode-4",
-    "title": "Muu no Hakugei",
-    "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "youkai-ningen-bem-2006",
     "epId": "youkai-ningen-bem-2006-episode-1",
     "title": "Youkai Ningen Bem (2006)",
@@ -1052,14 +1059,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
+    "title": "Maze\u2606Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2791,12 +2798,5 @@
     "title": "Ninja Hattori-kun",
     "img": "https://gogocdn.net/cover/ninja-hattori-kun.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "pururun-shizuku-chan",
-    "epId": "pururun-shizuku-chan-episode-51",
-    "title": "Pururun! Shizuku-chan",
-    "img": "https://gogocdn.net/cover/pururun-shizuku-chan.png",
-    "episode": "Episode 51"
   }
 ]
