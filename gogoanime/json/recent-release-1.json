@@ -1,5 +1,47 @@
 [
   {
+    "id": "blue-lock",
+    "epId": "blue-lock-episode-nagi-episode-1",
+    "title": "Blue Lock: Episode Nagi",
+    "img": "https://gogocdn.net/cover/blue-lock-episode-nagi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shinkalion-change-the-world",
+    "epId": "shinkalion-change-the-world-episode-20",
+    "title": "Shinkalion: Change the World",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "episode": "Episode 20"
+  },
+  {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-27",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 27"
+  },
+  {
+    "id": "toushi-gordian",
+    "epId": "toushi-gordian-episode-51",
+    "title": "Toushi Gordian",
+    "img": "https://gogocdn.net/cover/toushi-gordian.png",
+    "episode": "Episode 51"
+  },
+  {
+    "id": "delicos-nursery",
+    "epId": "delicos-nursery-episode-5",
+    "title": "Delico's Nursery",
+    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-8",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "koi-wa-futago-de-warikirenai",
     "epId": "koi-wa-futago-de-warikirenai-episode-9",
     "title": "Koi wa Futago de Warikirenai",
@@ -546,20 +588,6 @@
     "episode": "Episode 17"
   },
   {
-    "id": "delicos-nursery",
-    "epId": "delicos-nursery-episode-4",
-    "title": "Delico's Nursery",
-    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-7",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "oshi-no-ko-2nd-season",
     "epId": "oshi-no-ko-2nd-season-episode-9",
     "title": "",
@@ -595,13 +623,6 @@
     "episode": "Episode 19"
   },
   {
-    "id": "shinkalion-change-the-world",
-    "epId": "shinkalion-change-the-world-episode-19",
-    "title": "Shinkalion: Change the World",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 19"
-  },
-  {
     "id": "nanako-sos",
     "epId": "nanako-sos-episode-15",
     "title": "Nanako SOS",
@@ -630,13 +651,6 @@
     "episode": "Episode 22"
   },
   {
-    "id": "ribbon-no-kishi",
-    "epId": "ribbon-no-kishi-episode-20",
-    "title": "Ribbon no Kishi",
-    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
-    "episode": "Episode 20"
-  },
-  {
     "id": "kaibutsu-kun-1980-specials",
     "epId": "kaibutsu-kun-1980-specials-episode-2",
     "title": "Kaibutsu-kun (1980) Specials",
@@ -656,13 +670,6 @@
     "title": "The Fable",
     "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
     "episode": "Episode 21"
-  },
-  {
-    "id": "toushi-gordian",
-    "epId": "toushi-gordian-episode-49",
-    "title": "Toushi Gordian",
-    "img": "https://gogocdn.net/cover/toushi-gordian.png",
-    "episode": "Episode 49"
   },
   {
     "id": "uchuu-ace",
@@ -2791,12 +2798,5 @@
     "title": "Kaitei Shounen Marine",
     "img": "https://gogocdn.net/cover/kaitei-shounen-marine.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "mahou-shoujo-lalabel",
-    "epId": "mahou-shoujo-lalabel-episode-7",
-    "title": "Mahou Shoujo Lalabel",
-    "img": "https://gogocdn.net/cover/mahou-shoujo-lalabel.png",
-    "episode": "Episode 7"
   }
 ]

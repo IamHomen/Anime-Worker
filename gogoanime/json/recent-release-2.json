@@ -1,17 +1,31 @@
 [
   {
+    "id": "delicos-nursery-dub",
+    "epId": "delicos-nursery-dub-episode-3",
+    "title": "Delico's Nursery (Dub)",
+    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-8",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "konjiki-no-gash-bell-dub",
+    "epId": "konjiki-no-gash-bell-dub-episode-124",
+    "title": "Konjiki no Gash Bell!! (Dub)",
+    "img": "https://gogocdn.net/cover/konjiki-no-gash-bell-dub.png",
+    "episode": "Episode 124"
+  },
+  {
     "id": "shikanoko-nokonoko-koshitantan-dub",
     "epId": "shikanoko-nokonoko-koshitantan-dub-episode-10",
     "title": "Shikanoko Nokonoko Koshitantan (Dub)",
     "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan-dub.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "konjiki-no-gash-bell-dub",
-    "epId": "konjiki-no-gash-bell-dub-episode-113",
-    "title": "Konjiki no Gash Bell!! (Dub)",
-    "img": "https://gogocdn.net/cover/konjiki-no-gash-bell-dub.png",
-    "episode": "Episode 113"
   },
   {
     "id": "isekai-shikkaku-dub",
@@ -266,25 +280,11 @@
     "episode": "Episode 6"
   },
   {
-    "id": "delicos-nursery-dub",
-    "epId": "delicos-nursery-dub-episode-2",
-    "title": "Delico's Nursery (Dub)",
-    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "tenshi-ni-narumon-dub",
     "epId": "tenshi-ni-narumon-dub-episode-13",
     "title": "Tenshi ni Narumon! (Dub)",
     "img": "https://gogocdn.net/cover/tenshi-ni-narumon-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-7",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
-    "episode": "Episode 7"
   },
   {
     "id": "konjiki-no-gash-bell-101-banme-no-mamono-dub",
