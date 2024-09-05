@@ -1,5 +1,26 @@
 [
   {
+    "id": "i-cinnamoroll-animation",
+    "epId": "i-cinnamoroll-animation-episode-40",
+    "title": "I.Cinnamoroll Animation",
+    "img": "https://gogocdn.net/cover/i-cinnamoroll-animation.png",
+    "episode": "Episode 40"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-20",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 20"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "epId": "gimai-seikatsu-episode-10",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "akuu-daisakusen-srungle",
     "epId": "akuu-daisakusen-srungle-episode-53",
     "title": "Akuu Daisakusen Srungle",
@@ -588,13 +609,6 @@
     "episode": "Episode 8"
   },
   {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-9",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
-    "episode": "Episode 9"
-  },
-  {
     "id": "chiisana-viking-vickie",
     "epId": "chiisana-viking-vickie-episode-17",
     "title": "Chiisana Viking Vickie",
@@ -628,13 +642,6 @@
     "title": "0-saiji Start Dash Monogatari",
     "img": "https://gogocdn.net/cover/0-saiji-start-dash-monogatari.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-19",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 19"
   },
   {
     "id": "nanako-sos",
@@ -2791,12 +2798,5 @@
     "title": "Grandeek",
     "img": "https://gogocdn.net/cover/grandeek.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "gowapper-5-gordam",
-    "epId": "gowapper-5-gordam-episode-2",
-    "title": "Gowapper 5 Gordam",
-    "img": "https://gogocdn.net/cover/gowapper-5-gordam.png",
-    "episode": "Episode 2"
   }
 ]
