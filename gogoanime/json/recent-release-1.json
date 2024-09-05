@@ -1,5 +1,19 @@
 [
   {
+    "id": "akuu-daisakusen-srungle",
+    "epId": "akuu-daisakusen-srungle-episode-53",
+    "title": "Akuu Daisakusen Srungle",
+    "img": "https://gogocdn.net/cover/akuu-daisakusen-srungle.png",
+    "episode": "Episode 53"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-22",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 22"
+  },
+  {
     "id": "blue-lock",
     "epId": "blue-lock-episode-nagi-episode-1",
     "title": "Blue Lock: Episode Nagi",
@@ -691,13 +705,6 @@
     "title": "Detective Conan",
     "img": "https://gogocdn.net/cover/detective-conan.png",
     "episode": "Episode 1133"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-20",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 20"
   },
   {
     "id": "fight-da-pyuta",
@@ -2791,12 +2798,5 @@
     "title": "Gowapper 5 Gordam",
     "img": "https://gogocdn.net/cover/gowapper-5-gordam.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "kaitei-shounen-marine",
-    "epId": "kaitei-shounen-marine-episode-1",
-    "title": "Kaitei Shounen Marine",
-    "img": "https://gogocdn.net/cover/kaitei-shounen-marine.png",
-    "episode": "Episode 1"
   }
 ]
