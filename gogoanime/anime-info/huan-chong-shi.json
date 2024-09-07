@@ -13,8 +13,12 @@
   "otherNames": "\u5e7b\u5ba0\u5e08, The Charm of Soul Pets",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/huan-chong-shi.png",
-  "totalEpisodes": "15",
+  "totalEpisodes": "16",
   "episodesList": [
+    {
+      "episodeId": "huan-chong-shi-episode-16",
+      "episodeNum": "Episode 16"
+    },
     {
       "episodeId": "huan-chong-shi-episode-15",
       "episodeNum": "Episode 15"

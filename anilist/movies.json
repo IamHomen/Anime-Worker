@@ -256,18 +256,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 100643,
-    "title": "Made in Abyss: Fukaki Tamashii no Reimei",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
-    "seasonYear": 2020,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 142770,
     "title": "Suzume no Tojimari",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
     "seasonYear": 2022,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 100643,
+    "title": "Made in Abyss: Fukaki Tamashii no Reimei",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100643-fPH9OgEKKvcI.jpg",
+    "seasonYear": 2020,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
