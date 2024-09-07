@@ -11,8 +11,12 @@
   "otherNames": "\u6700\u5f3a\u4ed9\u5c0a\u9648\u5317\u7384",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/the-bestmaestro-season-4.png",
-  "totalEpisodes": "83",
+  "totalEpisodes": "85",
   "episodesList": [
+    {
+      "episodeId": "the-bestmaestro-season-4-episode-85-86-episode-85",
+      "episodeNum": "Episode 85"
+    },
     {
       "episodeId": "the-bestmaestro-season-4-episode-83-84-episode-83",
       "episodeNum": "Episode 83"
