@@ -1,5 +1,47 @@
 [
   {
+    "id": "shikabane-hime-kuro-soredemo-hito-to-shite",
+    "epId": "shikabane-hime-kuro-soredemo-hito-to-shite-episode-1",
+    "title": "Shikabane Hime: Kuro \u2013 Soredemo, Hito to Shite",
+    "img": "https://gogocdn.net/cover/shikabane-hime-kuro-soredemo-hito-to-shite.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "gokuu-no-daibouken",
+    "epId": "gokuu-no-daibouken-episode-16",
+    "title": "Gokuu no Daibouken",
+    "img": "https://gogocdn.net/cover/gokuu-no-daibouken.png",
+    "episode": "Episode 16"
+  },
+  {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-10",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-10",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-9",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-9",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-3rd-season",
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-21",
     "title": "Tensei shitara Slime Datta Ken 3rd Season",
@@ -539,13 +581,6 @@
     "episode": "Episode 15"
   },
   {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-9",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 9"
-  },
-  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-63",
     "title": "Pokemon (Shinsaku Anime)",
@@ -564,27 +599,6 @@
     "epId": "cardfight-vanguard-divinez-season-2-episode-8",
     "title": "Cardfight!! Vanguard: Divinez Season 2",
     "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-9",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-8",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-8",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
     "episode": "Episode 8"
   },
   {
@@ -2784,19 +2798,5 @@
     "title": "Choujin Sentai Baratack",
     "img": "https://gogocdn.net/cover/choujin-sentai-baratack.png",
     "episode": "Episode 16"
-  },
-  {
-    "id": "hoshi-no-ko-chobin",
-    "epId": "hoshi-no-ko-chobin-episode-1",
-    "title": "Hoshi no Ko Chobin",
-    "img": "https://gogocdn.net/cover/hoshi-no-ko-chobin.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "grandeek",
-    "epId": "grandeek-episode-1",
-    "title": "Grandeek",
-    "img": "https://gogocdn.net/cover/grandeek.png",
-    "episode": "Episode 1"
   }
 ]
