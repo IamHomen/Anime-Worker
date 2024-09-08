@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 63777,
+      "anime_id": 4,
+      "anime_title": "One Piece",
+      "anime_session": "4856cba6-82ba-1e1d-a47d-7136006cf7a0",
+      "episode": 1118,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/6828af7d7684cc6ed58cee0197d14a577badf55aaa9610c4d14b0c16d025e669.jpg",
+      "disc": "",
+      "session": "261a01f96fb422af726ec760f5969cf97e634251c71e24ece1155a3711a24016",
+      "filler": 0,
+      "created_at": "2024-09-08 02:06:02",
+      "completed": 0
+    },
+    {
+      "id": 63776,
+      "anime_id": 5495,
+      "anime_title": "Wonderful Precure!",
+      "anime_session": "3d9d881f-12af-46bb-192c-a66f58e6d552",
+      "episode": 32,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/e4decefff74f2aab31f0402541c5ddd331e3ee67004b196367373eabca3bc3a3.jpg",
+      "disc": "",
+      "session": "2f6c8f7e0b23a0db3dc028d17d9e5a627c529747faa4c237dd8b3ad27eacf084",
+      "filler": 0,
+      "created_at": "2024-09-08 01:36:25",
+      "completed": 0
+    },
+    {
       "id": 63775,
       "anime_id": 5550,
       "anime_title": "Karasu wa Aruji wo Erabanai",
@@ -166,38 +198,6 @@
       "session": "d54acf0891e7bb94a5163991fa693841cb6ed53f8ccbfe0f285f927118ddff0b",
       "filler": 0,
       "created_at": "2024-09-07 15:04:33",
-      "completed": 0
-    },
-    {
-      "id": 63765,
-      "anime_id": 5610,
-      "anime_title": "Mob kara Hajimaru Tansaku Eiyuutan",
-      "anime_session": "52de4269-4b65-d590-63bc-e8b3c6c4413d",
-      "episode": 11,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/4f375e1c8126da97b655159feadde85c1231c2899ed5bda6d72bdf1b66fb6734.jpg",
-      "disc": "",
-      "session": "6790f1408d7dc9b876a0a03388eacc1f3d23e83f1caf357af6b0b50bba9b499e",
-      "filler": 0,
-      "created_at": "2024-09-07 14:05:50",
-      "completed": 0
-    },
-    {
-      "id": 63764,
-      "anime_id": 5608,
-      "anime_title": "Madougushi Dahliya wa Utsumukanai",
-      "anime_session": "61e5411b-95d3-9a3a-bcd2-9ab7899b3a19",
-      "episode": 10,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/8ff9fbd7647b68d17dc3caccbcfbd06b656d095187597f482e1fc557a378a9f0.jpg",
-      "disc": "",
-      "session": "7115e9c59039d434759b3f590cc823711fe06ebbef0468552d386bcc365405bd",
-      "filler": 0,
-      "created_at": "2024-09-07 12:35:01",
       "completed": 0
     }
   ]
