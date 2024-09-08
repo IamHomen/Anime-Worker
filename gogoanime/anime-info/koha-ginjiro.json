@@ -1,0 +1,26 @@
+{
+  "animeTitle": "Koha Ginjiro",
+  "type": "OVA",
+  "releasedDate": "1991",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Drama",
+    "School",
+    "Shounen"
+  ],
+  "otherNames": "Trusty Ginjiro, Kouha Ginjirou, \u786c\u6d3e\u9280\u6b21\u90ce",
+  "synopsis": "After the death of his elder brother, Ginjiro Yamazaki appoints himself his parents' protector. After transferring to a new school, he gets into a lot of fights.",
+  "animeImg": "https://gogocdn.net/cover/koha-ginjiro.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "koha-ginjiro-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "koha-ginjiro-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
