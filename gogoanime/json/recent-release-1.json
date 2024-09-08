@@ -1,5 +1,47 @@
 [
   {
+    "id": "koha-ginjiro",
+    "epId": "koha-ginjiro-episode-2",
+    "title": "Koha Ginjiro",
+    "img": "https://gogocdn.net/cover/koha-ginjiro.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-30",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 30"
+  },
+  {
+    "id": "maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou",
+    "epId": "maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou-episode-5",
+    "title": "Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou",
+    "img": "https://gogocdn.net/cover/maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1118",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1118"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai-uncensored",
+    "epId": "elf-san-wa-yaserarenai-uncensored-episode-10",
+    "title": "Elf-san wa Yaserarenai (Uncensored)",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-32",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 32"
+  },
+  {
     "id": "the-snack-world-tv",
     "epId": "the-snack-world-tv-episode-37",
     "title": "The Snack World (TV)",
@@ -329,13 +371,6 @@
     "episode": "Episode 20"
   },
   {
-    "id": "ribbon-no-kishi",
-    "epId": "ribbon-no-kishi-episode-27",
-    "title": "Ribbon no Kishi",
-    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
-    "episode": "Episode 27"
-  },
-  {
     "id": "toushi-gordian",
     "epId": "toushi-gordian-episode-51",
     "title": "Toushi Gordian",
@@ -579,27 +614,6 @@
     "title": "Tsue to Tsurugi no Wistoria",
     "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "elf-san-wa-yaserarenai-uncensored",
-    "epId": "elf-san-wa-yaserarenai-uncensored-episode-9",
-    "title": "Elf-san wa Yaserarenai (Uncensored)",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1117",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1117"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-31",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 31"
   },
   {
     "id": "monogatari-series-off-monster-season",
@@ -2784,19 +2798,5 @@
     "title": "Ishura",
     "img": "https://gogocdn.net/cover/ishura-1708570686.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "dog-signal",
-    "epId": "dog-signal-episode-20",
-    "title": "Dog Signal",
-    "img": "https://gogocdn.net/cover/dog-signal-1690447425.png",
-    "episode": "Episode 20"
-  },
-  {
-    "id": "choujin-sentai-baratack",
-    "epId": "choujin-sentai-baratack-episode-16",
-    "title": "Choujin Sentai Baratack",
-    "img": "https://gogocdn.net/cover/choujin-sentai-baratack.png",
-    "episode": "Episode 16"
   }
 ]
