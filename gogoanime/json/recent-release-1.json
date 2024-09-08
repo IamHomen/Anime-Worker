@@ -1,5 +1,19 @@
 [
   {
+    "id": "chibi-maruko-chan",
+    "epId": "chibi-maruko-chan-episode-1446",
+    "title": "Chibi Maruko-chan",
+    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
+    "episode": "Episode 1446"
+  },
+  {
+    "id": "kami-no-tou-ouji-no-kikan",
+    "epId": "kami-no-tou-ouji-no-kikan-episode-10",
+    "title": "Kami no Tou: Ouji no Kikan",
+    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "tsue-to-tsurugi-no-wistoria",
     "epId": "tsue-to-tsurugi-no-wistoria-episode-9",
     "title": "Tsue to Tsurugi no Wistoria",
@@ -600,20 +614,6 @@
     "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
     "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-1719518635.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "kami-no-tou-ouji-no-kikan",
-    "epId": "kami-no-tou-ouji-no-kikan-episode-9",
-    "title": "Kami no Tou: Ouji no Kikan",
-    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "chibi-maruko-chan",
-    "epId": "chibi-maruko-chan-episode-1445",
-    "title": "Chibi Maruko-chan",
-    "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
-    "episode": "Episode 1445"
   },
   {
     "id": "monogatari-series-off-monster-season",
