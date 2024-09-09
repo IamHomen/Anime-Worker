@@ -11,8 +11,12 @@
   "otherNames": "\u771f\u591c\u4e2d\u3071\u3093\u30c1, Midnight Punch",
   "synopsis": "A comedy about two \"NewTubers\" who are active on NewTube, the world's largest video posting site.",
   "animeImg": "https://gogocdn.net/cover/mayonaka-punch.png",
-  "totalEpisodes": "9",
+  "totalEpisodes": "10",
   "episodesList": [
+    {
+      "episodeId": "mayonaka-punch-episode-10",
+      "episodeNum": "Episode 10"
+    },
     {
       "episodeId": "mayonaka-punch-episode-9",
       "episodeNum": "Episode 9"
