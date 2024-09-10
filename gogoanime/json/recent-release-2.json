@@ -1,5 +1,19 @@
 [
   {
+    "id": "toriko-one-piece-collabo-special-dub",
+    "epId": "toriko-one-piece-collabo-special-dub-episode-1",
+    "title": "Toriko \u00d7 One Piece Collabo Special (Dub)",
+    "img": "https://gogocdn.net/cover/toriko-one-piece-collabo-special-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "pokemon-2023-dub",
+    "epId": "pokemon-2023-dub-episode-45",
+    "title": "Pokemon (2023) (Dub)",
+    "img": "https://gogocdn.net/cover/pokemon-2023-dub-1725936631.png",
+    "episode": "Episode 45"
+  },
+  {
     "id": "konjiki-no-gash-bell-dub",
     "epId": "konjiki-no-gash-bell-dub-episode-125",
     "title": "Konjiki no Gash Bell!! (Dub)",
@@ -467,13 +481,6 @@
     "title": "Ashita no Joe (Movie) (Dub)",
     "img": "https://gogocdn.net/cover/ashita-no-joe-movie-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "pokemon-2023-dub",
-    "epId": "pokemon-2023-dub-episode-40",
-    "title": "Pokemon (2023) (Dub)",
-    "img": "https://gogocdn.net/cover/pokemon-2023-dub.png",
-    "episode": "Episode 40"
   },
   {
     "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-dub",
@@ -2790,13 +2797,6 @@
     "epId": "durararax2-ten-onoroke-chakapoko-dub-episode-1",
     "title": "Durarara!!x2 Ten: Onoroke Chakapoko (Dub)",
     "img": "https://gogocdn.net/cover/durararax2-ten-onoroke-chakapoko-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "durararax2-shou-watashi-no-kokoro-wa-nabe-moyou-dub",
-    "epId": "durararax2-shou-watashi-no-kokoro-wa-nabe-moyou-dub-episode-1",
-    "title": "Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou (Dub)",
-    "img": "https://gogocdn.net/cover/durararax2-shou-watashi-no-kokoro-wa-nabe-moyou-dub.png",
     "episode": "Episode 1"
   }
 ]

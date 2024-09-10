@@ -1,5 +1,40 @@
 [
   {
+    "id": "whats-michael",
+    "epId": "whats-michael-episode-1",
+    "title": "What's Michael?",
+    "img": "https://gogocdn.net/cover/whats-michael.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "12paradise",
+    "epId": "12paradise-episode-2",
+    "title": "1+2=Paradise",
+    "img": "https://gogocdn.net/cover/12paradise.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-32",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 32"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-47",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 47"
+  },
+  {
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-124",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 124"
+  },
+  {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-9",
     "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
@@ -110,13 +145,6 @@
     "title": "Koha Ginjiro",
     "img": "https://gogocdn.net/cover/koha-ginjiro.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "ribbon-no-kishi",
-    "epId": "ribbon-no-kishi-episode-30",
-    "title": "Ribbon no Kishi",
-    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
-    "episode": "Episode 30"
   },
   {
     "id": "maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou",
@@ -348,13 +376,6 @@
     "title": "Dead Dead Demons Dededede Destruction",
     "img": "https://gogocdn.net/cover/dead-dead-demons-dededede-destruction.png",
     "episode": "Episode 15"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-46",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 46"
   },
   {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
@@ -859,13 +880,6 @@
     "title": "Getter Robo Go",
     "img": "https://gogocdn.net/cover/getter-robo-go.png",
     "episode": "Episode 30"
-  },
-  {
-    "id": "yugioh-go-rush",
-    "epId": "yugioh-go-rush-episode-118",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 118"
   },
   {
     "id": "guardian-hearts",
@@ -2784,19 +2798,5 @@
     "title": "Kousoku Denjin Albegus",
     "img": "https://gogocdn.net/cover/kousoku-denjin-albegus.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "ishura",
-    "epId": "ishura-episode-12",
-    "title": "Ishura",
-    "img": "https://gogocdn.net/cover/ishura-1708570686.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "dog-signal",
-    "epId": "dog-signal-episode-20",
-    "title": "Dog Signal",
-    "img": "https://gogocdn.net/cover/dog-signal-1690447425.png",
-    "episode": "Episode 20"
   }
 ]
