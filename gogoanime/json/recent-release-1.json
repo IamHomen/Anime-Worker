@@ -1,5 +1,12 @@
 [
   {
+    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-9",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-23",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
@@ -322,13 +329,6 @@
     "episode": "Episode 10"
   },
   {
-    "id": "code-geass-dakkan-no-roze",
-    "epId": "code-geass-dakkan-no-roze-episode-13",
-    "title": "Code Geass: Dakkan no Roz\u00e9",
-    "img": "https://gogocdn.net/cover/code-geass-dakkan-no-roze.png",
-    "episode": "Episode 13"
-  },
-  {
     "id": "rick-and-morty-the-anime",
     "epId": "rick-and-morty-the-anime-episode-4",
     "title": "Rick and Morty: The Anime",
@@ -586,13 +586,6 @@
     "title": "Eternal Boys Next Stage",
     "img": "https://gogocdn.net/cover/eternal-boys-next-stage.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
-    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-8",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
-    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
-    "episode": "Episode 8"
   },
   {
     "id": "noobow-kieta-medal",
@@ -2798,5 +2791,12 @@
     "title": "Ishura",
     "img": "https://gogocdn.net/cover/ishura-1708570686.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "dog-signal",
+    "epId": "dog-signal-episode-20",
+    "title": "Dog Signal",
+    "img": "https://gogocdn.net/cover/dog-signal-1690447425.png",
+    "episode": "Episode 20"
   }
 ]
