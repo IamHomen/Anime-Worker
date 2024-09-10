@@ -1,5 +1,19 @@
 [
   {
+    "id": "helck-dub",
+    "epId": "helck-dub-episode-24",
+    "title": "Helck (Dub)",
+    "img": "https://gogocdn.net/cover/helck-dub.png",
+    "episode": "Episode 24"
+  },
+  {
+    "id": "lv1-maou-to-one-room-yuusha-dub",
+    "epId": "lv1-maou-to-one-room-yuusha-dub-episode-4",
+    "title": "Lv1 Maou to One Room Yuusha (Dub)",
+    "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "toriko-one-piece-collabo-special-dub",
     "epId": "toriko-one-piece-collabo-special-dub-episode-1",
     "title": "Toriko \u00d7 One Piece Collabo Special (Dub)",
@@ -257,20 +271,6 @@
     "title": "Isekai Shikkaku (Dub)",
     "img": "https://gogocdn.net/cover/isekai-shikkaku-dub.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "lv1-maou-to-one-room-yuusha-dub",
-    "epId": "lv1-maou-to-one-room-yuusha-dub-episode-3",
-    "title": "Lv1 Maou to One Room Yuusha (Dub)",
-    "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "helck-dub",
-    "epId": "helck-dub-episode-23",
-    "title": "Helck (Dub)",
-    "img": "https://gogocdn.net/cover/helck-dub.png",
-    "episode": "Episode 23"
   },
   {
     "id": "kidou-senshi-gundam-seed-freedom-dub",

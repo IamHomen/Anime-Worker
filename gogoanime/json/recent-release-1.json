@@ -1,5 +1,26 @@
 [
   {
+    "id": "egumi-legacy",
+    "epId": "egumi-legacy-episode-10",
+    "title": "Egumi Legacy",
+    "img": "https://gogocdn.net/cover/egumi-legacy.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "isekai-shikkaku",
+    "epId": "isekai-shikkaku-episode-10",
+    "title": "Isekai Shikkaku",
+    "img": "https://gogocdn.net/cover/isekai-shikkaku-1719514036.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
+    "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-10",
+    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+    "img": "https://gogocdn.net/cover/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "whats-michael",
     "epId": "whats-michael-episode-1",
     "title": "What's Michael?",
@@ -579,27 +600,6 @@
     "title": "Tasuuketsu",
     "img": "https://gogocdn.net/cover/tasuuketsu.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "isekai-shikkaku",
-    "epId": "isekai-shikkaku-episode-9",
-    "title": "Isekai Shikkaku",
-    "img": "https://gogocdn.net/cover/isekai-shikkaku-1719514036.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
-    "epId": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-9",
-    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
-    "img": "https://gogocdn.net/cover/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "egumi-legacy",
-    "epId": "egumi-legacy-episode-9",
-    "title": "Egumi Legacy",
-    "img": "https://gogocdn.net/cover/egumi-legacy.png",
-    "episode": "Episode 9"
   },
   {
     "id": "eternal-boys-next-stage",
