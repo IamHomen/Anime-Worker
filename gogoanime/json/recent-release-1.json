@@ -1,5 +1,12 @@
 [
   {
+    "id": "hidamari-no-ki",
+    "epId": "hidamari-no-ki-episode-25",
+    "title": " Hidamari no Ki",
+    "img": "https://gogocdn.net/cover/hidamari-no-ki.png",
+    "episode": "Episode 25"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-9",
     "title": "Tasuuketsu",
@@ -2791,12 +2798,5 @@
     "title": "Lady Georgie",
     "img": "https://gogocdn.net/cover/lady-georgie.png",
     "episode": "Episode 45"
-  },
-  {
-    "id": "kousoku-denjin-albegus",
-    "epId": "kousoku-denjin-albegus-episode-3",
-    "title": "Kousoku Denjin Albegus",
-    "img": "https://gogocdn.net/cover/kousoku-denjin-albegus.png",
-    "episode": "Episode 3"
   }
 ]
