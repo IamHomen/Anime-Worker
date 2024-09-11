@@ -1,5 +1,54 @@
 [
   {
+    "id": "delicos-nursery",
+    "epId": "delicos-nursery-episode-6",
+    "title": "Delico's Nursery",
+    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-9",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai",
+    "epId": "koi-wa-futago-de-warikirenai-episode-10",
+    "title": "Koi wa Futago de Warikirenai",
+    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-11",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "epId": "oshi-no-ko-2nd-season-episode-10",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan",
+    "epId": "shikanoko-nokonoko-koshitantan-episode-11",
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
+    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-12",
+    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
+    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "murai-no-koi",
     "epId": "murai-no-koi-episode-2",
     "title": "Murai no Koi",
@@ -539,53 +588,11 @@
     "episode": "Episode 51"
   },
   {
-    "id": "delicos-nursery",
-    "epId": "delicos-nursery-episode-5",
-    "title": "Delico's Nursery",
-    "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-8",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "koi-wa-futago-de-warikirenai",
-    "epId": "koi-wa-futago-de-warikirenai-episode-9",
-    "title": "Koi wa Futago de Warikirenai",
-    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-10",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-10",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "garden-of-remembrance",
     "epId": "garden-of-remembrance-episode-1",
     "title": "Garden of Remembrance",
     "img": "https://gogocdn.net/cover/garden-of-remembrance-1725461029.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-11",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 11"
   },
   {
     "id": "muu-no-hakugei",
@@ -677,13 +684,6 @@
     "title": "Chiisana Viking Vickie",
     "img": "https://gogocdn.net/cover/chiisana-viking-vickie.png",
     "episode": "Episode 17"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season",
-    "epId": "oshi-no-ko-2nd-season-episode-9",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "episode": "Episode 9"
   },
   {
     "id": "yuru-camp-season-3-specials",
