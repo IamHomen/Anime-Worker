@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-9",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "egumi-legacy",
     "epId": "egumi-legacy-episode-10",
     "title": "Egumi Legacy",
@@ -593,13 +600,6 @@
     "title": "Nanatsu no Umi no Tico",
     "img": "https://gogocdn.net/cover/nanatsu-no-umi-no-tico.png",
     "episode": "Episode 39"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-8",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 8"
   },
   {
     "id": "eternal-boys-next-stage",
