@@ -1,5 +1,12 @@
 [
   {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-34",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 34"
+  },
+  {
     "id": "delicos-nursery",
     "epId": "delicos-nursery-episode-6",
     "title": "Delico's Nursery",
@@ -103,13 +110,6 @@
     "title": "1+2=Paradise",
     "img": "https://gogocdn.net/cover/12paradise.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "ribbon-no-kishi",
-    "epId": "ribbon-no-kishi-episode-32",
-    "title": "Ribbon no Kishi",
-    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
-    "episode": "Episode 32"
   },
   {
     "id": "beyblade-x",
