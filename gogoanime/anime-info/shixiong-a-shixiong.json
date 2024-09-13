@@ -14,8 +14,12 @@
   "otherNames": "\u5e08\u5144\u554a\u5e08\u5144",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/shixiong-a-shixiong.png",
-  "totalEpisodes": "53",
+  "totalEpisodes": "54",
   "episodesList": [
+    {
+      "episodeId": "shixiong-a-shixiong-episode-54",
+      "episodeNum": "Episode 54"
+    },
     {
       "episodeId": "shixiong-a-shixiong-episode-53",
       "episodeNum": "Episode 53"

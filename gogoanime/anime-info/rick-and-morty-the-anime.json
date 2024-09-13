@@ -10,8 +10,12 @@
   "otherNames": "Rick and Morty: The Anime",
   "synopsis": "Rick and Morty: The Anime",
   "animeImg": "https://gogocdn.net/cover/rick-and-morty-the-anime.png",
-  "totalEpisodes": "4",
+  "totalEpisodes": "5",
   "episodesList": [
+    {
+      "episodeId": "rick-and-morty-the-anime-episode-5",
+      "episodeNum": "Episode 5"
+    },
     {
       "episodeId": "rick-and-morty-the-anime-episode-4",
       "episodeNum": "Episode 4"
