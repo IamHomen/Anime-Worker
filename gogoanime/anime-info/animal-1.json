@@ -1,0 +1,19 @@
+{
+  "animeTitle": "Animal 1",
+  "type": "TV Series",
+  "releasedDate": "1968",
+  "status": "Completed",
+  "genres": [
+    "Sports"
+  ],
+  "otherNames": "Animal One, \u30a2\u30cb\u30de\u30eb\uff11",
+  "synopsis": "Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.",
+  "animeImg": "https://gogocdn.net/cover/animal-1.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "animal-1-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

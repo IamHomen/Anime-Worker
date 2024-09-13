@@ -11,8 +11,12 @@
   "otherNames": "The Gourmet, \u7f8e\u5473\u3057\u3093\u307c",
   "synopsis": "Oishinbo is a drama about newspaper reporters. The main character is a cynical food critic named Yamaoka. Oishinbo is a popular mainstream comic for adults in Japan. It is even mentioned in an episode of \"Iron Chef.\"",
   "animeImg": "https://gogocdn.net/cover/oishinbo.png",
-  "totalEpisodes": "52",
+  "totalEpisodes": "53",
   "episodesList": [
+    {
+      "episodeId": "oishinbo-episode-53",
+      "episodeNum": "Episode 53"
+    },
     {
       "episodeId": "oishinbo-episode-52",
       "episodeNum": "Episode 52"

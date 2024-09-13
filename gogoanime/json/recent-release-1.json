@@ -1,5 +1,61 @@
 [
   {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-11",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-10",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-39",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 39"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-10",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete",
+    "epId": "mahou-no-princess-minky-momo-yume-wo-dakishimete-episode-30",
+    "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
+    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-yume-wo-dakishimete.png",
+    "episode": "Episode 30"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-22",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 22"
+  },
+  {
+    "id": "bye-bye-earth",
+    "epId": "bye-bye-earth-episode-10",
+    "title": "Bye Bye, Earth",
+    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-11",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "rick-and-morty-the-anime",
     "epId": "rick-and-morty-the-anime-episode-5",
     "title": "Rick and Morty: The Anime",
@@ -110,13 +166,6 @@
     "title": "Gimai Seikatsu",
     "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "ribbon-no-kishi",
-    "epId": "ribbon-no-kishi-episode-34",
-    "title": "Ribbon no Kishi",
-    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
-    "episode": "Episode 34"
   },
   {
     "id": "delicos-nursery",
@@ -511,52 +560,10 @@
     "episode": "Episode 16"
   },
   {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-10",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "grendizer-u",
     "epId": "grendizer-u-episode-10",
     "title": "Grendizer U",
     "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-9",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-9",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-21",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 21"
-  },
-  {
-    "id": "bye-bye-earth",
-    "epId": "bye-bye-earth-episode-9",
-    "title": "Bye Bye, Earth",
-    "img": "https://gogocdn.net/cover/bye-bye-earth.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-10",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
     "episode": "Episode 10"
   },
   {
@@ -873,13 +880,6 @@
     "title": "Futari Gurashi",
     "img": "https://gogocdn.net/cover/futari-gurashi.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete",
-    "epId": "mahou-no-princess-minky-momo-yume-wo-dakishimete-episode-2",
-    "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
-    "img": "https://gogocdn.net/cover/mahou-no-princess-minky-momo-yume-wo-dakishimete.png",
-    "episode": "Episode 2"
   },
   {
     "id": "bakugan-battle-brawlers",
