@@ -1,5 +1,33 @@
 [
   {
+    "id": "animal-1",
+    "epId": "animal-1-episode-1",
+    "title": "Animal 1",
+    "img": "https://gogocdn.net/cover/animal-1.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-11",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "oishinbo",
+    "epId": "oishinbo-episode-53",
+    "title": "Oishinbo",
+    "img": "https://gogocdn.net/cover/oishinbo.png",
+    "episode": "Episode 53"
+  },
+  {
+    "id": "chikyuu-bouei-kazoku-special",
+    "epId": "chikyuu-bouei-kazoku-special-episode-1",
+    "title": "Chikyuu Bouei Kazoku Special",
+    "img": "https://gogocdn.net/cover/chikyuu-bouei-kazoku-special.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kono-sekai-wa-fukanzen-sugiru",
     "epId": "kono-sekai-wa-fukanzen-sugiru-episode-11",
     "title": "Kono Sekai wa Fukanzen Sugiru",
@@ -560,13 +588,6 @@
     "episode": "Episode 16"
   },
   {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-10",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-21",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -838,13 +859,6 @@
     "title": "Patalliro",
     "img": "https://gogocdn.net/cover/patalliro.png",
     "episode": "Episode 49"
-  },
-  {
-    "id": "oishinbo",
-    "epId": "oishinbo-episode-52",
-    "title": "Oishinbo",
-    "img": "https://gogocdn.net/cover/oishinbo.png",
-    "episode": "Episode 52"
   },
   {
     "id": "kengan-ashura-season-2-part-2",
@@ -2783,20 +2797,6 @@
     "epId": "sasaki-to-pii-chan-episode-12",
     "title": "Sasaki to Pii-chan",
     "img": "https://gogocdn.net/cover/sasaki-to-pii-chan-1704248854.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
-    "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-episode-12",
-    "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-    "img": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-1704250425.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "mato-seihei-no-slave",
-    "epId": "mato-seihei-no-slave-episode-12",
-    "title": "Mato Seihei no Slave",
-    "img": "https://gogocdn.net/cover/mato-seihei-no-slave-1704187347.png",
     "episode": "Episode 12"
   }
 ]
