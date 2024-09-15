@@ -1,5 +1,40 @@
 [
   {
+    "id": "tsue-to-tsurugi-no-wistoria",
+    "epId": "tsue-to-tsurugi-no-wistoria-episode-10",
+    "title": "Tsue to Tsurugi no Wistoria",
+    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen",
+    "epId": "yozakura-san-chi-no-daisakusen-episode-24",
+    "title": "Yozakura-san Chi no Daisakusen",
+    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1725937756.png",
+    "episode": "Episode 24"
+  },
+  {
+    "id": "fairy-tail-100-years-quest",
+    "epId": "fairy-tail-100-years-quest-episode-11",
+    "title": "Fairy Tail: 100 Years Quest",
+    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "ultraman-kids-no-kotowaza-monogatari",
+    "epId": "ultraman-kids-no-kotowaza-monogatari-episode-1",
+    "title": "Ultraman Kids no Kotowaza Monogatari",
+    "img": "https://gogocdn.net/cover/ultraman-kids-no-kotowaza-monogatari.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "dr-slump-arale-chan",
+    "epId": "dr-slump-arale-chan-episode-165",
+    "title": "Dr. Slump: Arale-chan",
+    "img": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
+    "episode": "Episode 165"
+  },
+  {
     "id": "one-piece",
     "epId": "one-piece-episode-1119",
     "title": "One Piece",
@@ -560,27 +595,6 @@
     "episode": "Episode 10"
   },
   {
-    "id": "tsue-to-tsurugi-no-wistoria",
-    "epId": "tsue-to-tsurugi-no-wistoria-episode-9",
-    "title": "Tsue to Tsurugi no Wistoria",
-    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "fairy-tail-100-years-quest",
-    "epId": "fairy-tail-100-years-quest-episode-10",
-    "title": "Fairy Tail: 100 Years Quest",
-    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "yozakura-san-chi-no-daisakusen",
-    "epId": "yozakura-san-chi-no-daisakusen-episode-23",
-    "title": "Yozakura-san Chi no Daisakusen",
-    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1711740690.png",
-    "episode": "Episode 23"
-  },
-  {
     "id": "koha-ginjiro",
     "epId": "koha-ginjiro-episode-2",
     "title": "Koha Ginjiro",
@@ -782,13 +796,6 @@
     "title": "Rainbow Sentai Robin",
     "img": "https://gogocdn.net/cover/rainbow-sentai-robin.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "dr-slump-arale-chan",
-    "epId": "dr-slump-arale-chan-episode-164",
-    "title": "Dr. Slump: Arale-chan",
-    "img": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
-    "episode": "Episode 164"
   },
   {
     "id": "haai-step-jun",
@@ -2791,12 +2798,5 @@
     "title": "Nozomanu Fushi no Boukensha",
     "img": "https://gogocdn.net/cover/nozomanu-fushi-no-boukensha-1704189673.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "tobe-kujira-no-peek",
-    "epId": "tobe-kujira-no-peek-episode-1",
-    "title": "Tobe! Kujira no Peek",
-    "img": "https://gogocdn.net/cover/tobe-kujira-no-peek.png",
-    "episode": "Episode 1"
   }
 ]
