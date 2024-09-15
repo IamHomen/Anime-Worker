@@ -76266,6 +76266,12 @@
     "date": "1991"
   },
   {
+    "id": "skyland",
+    "title": "Skyland",
+    "img": "https://gogocdn.net/cover/skyland.png",
+    "date": "2005"
+  },
+  {
     "id": "precure-all-stars-movie-minna-de-utau-kiseki-no-mahou",
     "title": "Precure All Stars Movie: Minna de Utau\u266a Kiseki no Mahou",
     "img": "https://gogocdn.net/cover/precure-all-stars-movie-minna-de-utau-kiseki-no-mahou.jpg",
@@ -80152,11 +80158,5 @@
     "title": "JoJo no Kimyou na Bouken: Ougon no Kaze (Dub)",
     "img": "https://gogocdn.net/cover/jojo-no-kimyou-na-bouken-ougon-no-kaze-dub.png",
     "date": "2018"
-  },
-  {
-    "id": "shokugeki-no-souma-san-no-sara-dub",
-    "title": "Shokugeki no Souma: San no Sara (Dub)",
-    "img": "https://gogocdn.net/cover/shokugeki-no-souma-san-no-sara-dub.png",
-    "date": "2017"
   }
 ]
