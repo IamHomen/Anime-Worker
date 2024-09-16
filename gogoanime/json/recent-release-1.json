@@ -1,5 +1,26 @@
 [
   {
+    "id": "kankin-kuiki-level-x",
+    "epId": "kankin-kuiki-level-x-episode-2",
+    "title": "Kankin Kuiki Level X",
+    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "dead-heat",
+    "epId": "dead-heat-episode-1",
+    "title": "Dead Heat",
+    "img": "https://gogocdn.net/cover/dead-heat.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
+    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-10",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1725939381.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "yami-shibai-13",
     "epId": "yami-shibai-13-episode-10",
     "title": "Yami Shibai 13",
@@ -551,13 +572,6 @@
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 124"
-  },
-  {
-    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
-    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-9",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
-    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1719514786.png",
-    "episode": "Episode 9"
   },
   {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
@@ -2784,19 +2798,5 @@
     "title": "Sousou no Frieren",
     "img": "https://gogocdn.net/cover/sousou-no-frieren-1696000134.png",
     "episode": "Episode 28"
-  },
-  {
-    "id": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi",
-    "epId": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi-episode-1",
-    "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
-    "img": "https://gogocdn.net/cover/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "nozomanu-fushi-no-boukensha",
-    "epId": "nozomanu-fushi-no-boukensha-episode-12",
-    "title": "Nozomanu Fushi no Boukensha",
-    "img": "https://gogocdn.net/cover/nozomanu-fushi-no-boukensha-1704189673.png",
-    "episode": "Episode 12"
   }
 ]

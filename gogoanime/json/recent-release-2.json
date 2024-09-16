@@ -1,5 +1,19 @@
 [
   {
+    "id": "ni-no-kuni-dub",
+    "epId": "ni-no-kuni-dub-episode-1",
+    "title": "Ni no Kuni (Dub)",
+    "img": "https://gogocdn.net/cover/ni-no-kuni-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "fairy-tail-100-nen-quest-dub",
+    "epId": "fairy-tail-100-nen-quest-dub-episode-9",
+    "title": "Fairy Tail: 100-nen Quest (Dub)",
+    "img": "https://gogocdn.net/cover/fairy-tail-100-nen-quest-dub.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-dub",
     "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-dub-episode-12",
     "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu (Dub)",
@@ -250,13 +264,6 @@
     "title": "Yozakura-san Chi no Daisakusen (Dub)",
     "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "fairy-tail-100-nen-quest-dub",
-    "epId": "fairy-tail-100-nen-quest-dub-episode-8",
-    "title": "Fairy Tail: 100-nen Quest (Dub)",
-    "img": "https://gogocdn.net/cover/fairy-tail-100-nen-quest-dub.png",
-    "episode": "Episode 8"
   },
   {
     "id": "spy-x-family-movie-code-white-dub",
@@ -2791,12 +2798,5 @@
     "title": "Peter Grill to Kenja no Jikan: Super Extra (Dub)",
     "img": "https://gogocdn.net/cover/peter-grill-to-kenja-no-jikan-super-extra-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "durararax2-ketsu-dufufufu-dub",
-    "epId": "durararax2-ketsu-dufufufu-dub-episode-1",
-    "title": "Durarara!!x2 Ketsu: Dufufufu!! (Dub)",
-    "img": "https://gogocdn.net/cover/durararax2-ketsu-dufufufu-dub.png",
-    "episode": "Episode 1"
   }
 ]
