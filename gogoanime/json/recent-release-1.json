@@ -1,5 +1,12 @@
 [
   {
+    "id": "f",
+    "epId": "f-episode-31",
+    "title": "F",
+    "img": "https://gogocdn.net/cover/f.png",
+    "episode": "Episode 31"
+  },
+  {
     "id": "kankin-kuiki-level-x",
     "epId": "kankin-kuiki-level-x-episode-2",
     "title": "Kankin Kuiki Level X",
@@ -2791,12 +2798,5 @@
     "title": "Momochi-san Chi no Ayakashi Ouji",
     "img": "https://gogocdn.net/cover/momochi-san-chi-no-ayakashi-ouji-1709528725.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "sousou-no-frieren",
-    "epId": "sousou-no-frieren-episode-28",
-    "title": "Sousou no Frieren",
-    "img": "https://gogocdn.net/cover/sousou-no-frieren-1696000134.png",
-    "episode": "Episode 28"
   }
 ]
