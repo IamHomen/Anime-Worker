@@ -10,8 +10,12 @@
   "otherNames": "My Heroic Husband, \u8d58\u5a7f \u7b2c\u4e8c\u5b63",
   "synopsis": "The second season of Zhui Xu.",
   "animeImg": "https://gogocdn.net/cover/zhui-xu-2nd-season.png",
-  "totalEpisodes": "8",
+  "totalEpisodes": "9",
   "episodesList": [
+    {
+      "episodeId": "zhui-xu-2nd-season-episode-9",
+      "episodeNum": "Episode 9"
+    },
     {
       "episodeId": "zhui-xu-2nd-season-episode-8",
       "episodeNum": "Episode 8"

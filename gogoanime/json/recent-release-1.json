@@ -1,5 +1,26 @@
 [
   {
+    "id": "gokiburi-tachi-no-tasogare",
+    "epId": "gokiburi-tachi-no-tasogare-episode-1",
+    "title": "Gokiburi-tachi no Tasogare",
+    "img": "https://gogocdn.net/cover/gokiburi-tachi-no-tasogare.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "lupin-viii",
+    "epId": "lupin-viii-episode-1",
+    "title": "Lupin VIII",
+    "img": "https://gogocdn.net/cover/lupin-viii.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-22",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 22"
+  },
+  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-22",
     "title": "Shinkalion: Change the World",
@@ -656,13 +677,6 @@
     "title": "Gokuu no Daibouken",
     "img": "https://gogocdn.net/cover/gokuu-no-daibouken.png",
     "episode": "Episode 16"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-21",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 21"
   },
   {
     "id": "atashinchi-next",
@@ -2783,20 +2797,6 @@
     "epId": "pon-no-michi-episode-12",
     "title": "Pon no Michi",
     "img": "https://gogocdn.net/cover/pon-no-michi-1708915930.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "undead-unluck",
-    "epId": "undead-unluck-episode-24",
-    "title": "Undead Unluck",
-    "img": "https://gogocdn.net/cover/undead-unluck-1708403714.png",
-    "episode": "Episode 24"
-  },
-  {
-    "id": "momochi-san-chi-no-ayakashi-ouji",
-    "epId": "momochi-san-chi-no-ayakashi-ouji-episode-12",
-    "title": "Momochi-san Chi no Ayakashi Ouji",
-    "img": "https://gogocdn.net/cover/momochi-san-chi-no-ayakashi-ouji-1709528725.png",
     "episode": "Episode 12"
   }
 ]
