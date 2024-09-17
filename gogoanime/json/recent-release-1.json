@@ -1,5 +1,19 @@
 [
   {
+    "id": "sanjougattai-transformers-go",
+    "epId": "sanjougattai-transformers-go-episode-10",
+    "title": "Sanjougattai Transformers Go!",
+    "img": "https://gogocdn.net/cover/sanjougattai-transformers-go.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-72",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 72"
+  },
+  {
     "id": "gokiburi-tachi-no-tasogare",
     "epId": "gokiburi-tachi-no-tasogare-episode-1",
     "title": "Gokiburi-tachi no Tasogare",
@@ -432,13 +446,6 @@
     "title": "Sabaku no Kaizoku! Captain Kuppa",
     "img": "https://gogocdn.net/cover/sabaku-no-kaizoku-captain-kuppa.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-71",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 71"
   },
   {
     "id": "senpai-wa-otokonoko",
@@ -2791,12 +2798,5 @@
     "title": "Megumi no Daigo: Kyuukoku no Orange",
     "img": "https://gogocdn.net/cover/megumi-no-daigo-kyuukoku-no-orange-1695095703.png",
     "episode": "Episode 23"
-  },
-  {
-    "id": "pon-no-michi",
-    "epId": "pon-no-michi-episode-12",
-    "title": "Pon no Michi",
-    "img": "https://gogocdn.net/cover/pon-no-michi-1708915930.png",
-    "episode": "Episode 12"
   }
 ]

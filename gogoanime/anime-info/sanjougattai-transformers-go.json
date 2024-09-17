@@ -1,0 +1,57 @@
+{
+  "animeTitle": "Sanjougattai Transformers Go!",
+  "type": "OVA",
+  "releasedDate": "2013",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "otherNames": "\u53c2\u4e57\u5408\u4f53 \u30c8\u30e9\u30f3\u30b9\u30d5\u30a9\u30fc\u30de\u30fcGo!",
+  "synopsis": "Bundled on DVDs with Shogakukan's Terebi-kun (TV-kun) magazine and Kodansha's TV Magazine.\r\nSamurai Chapter: Episode 1,2,4,6,8,10\r\nShinobi Chapter: Episode 3,5,7,9",
+  "animeImg": "https://gogocdn.net/cover/sanjougattai-transformers-go.png",
+  "totalEpisodes": "10",
+  "episodesList": [
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "sanjougattai-transformers-go-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
