@@ -11,8 +11,16 @@
   "otherNames": "Perfect World Movie,  \u5b8c\u7f8e\u4e16\u754c \u5267\u573a\u7248, Perfect World Movie Ashes of Perfect Fire",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/wanmei-shijie-juchang-ban.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "3",
   "episodesList": [
+    {
+      "episodeId": "wanmei-shijie-juchang-ban-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "wanmei-shijie-juchang-ban-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "wanmei-shijie-juchang-ban-episode-1",
       "episodeNum": "Episode 1"
