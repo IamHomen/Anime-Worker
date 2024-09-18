@@ -1,5 +1,12 @@
 [
   {
+    "id": "chinpui-eri-sama-katsudou-daishashin",
+    "epId": "chinpui-eri-sama-katsudou-daishashin-episode-1",
+    "title": "Chinpui: Eri-sama Katsudou Daishashin",
+    "img": "https://gogocdn.net/cover/chinpui-eri-sama-katsudou-daishashin.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-10",
     "title": "Tasuuketsu",
@@ -2791,12 +2798,5 @@
     "title": "Kekkon Yubiwa Monogatari",
     "img": "https://gogocdn.net/cover/kekkon-yubiwa-monogatari-1704186162.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "megumi-no-daigo-kyuukoku-no-orange",
-    "epId": "megumi-no-daigo-kyuukoku-no-orange-episode-23",
-    "title": "Megumi no Daigo: Kyuukoku no Orange",
-    "img": "https://gogocdn.net/cover/megumi-no-daigo-kyuukoku-no-orange-1695095703.png",
-    "episode": "Episode 23"
   }
 ]
