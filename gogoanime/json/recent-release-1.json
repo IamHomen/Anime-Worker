@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-10",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "isekai-shikkaku",
     "epId": "isekai-shikkaku-episode-11",
     "title": "Isekai Shikkaku",
@@ -607,13 +614,6 @@
     "title": " Hidamari no Ki",
     "img": "https://gogocdn.net/cover/hidamari-no-ki.png",
     "episode": "Episode 25"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-9",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu.png",
-    "episode": "Episode 9"
   },
   {
     "id": "whats-michael",
