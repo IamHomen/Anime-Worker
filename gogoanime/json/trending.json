@@ -14,31 +14,6 @@
     ]
   },
   {
-    "animeId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "animeTitle": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "animeImg": "'https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png'",
-    "latestEp": "Episode 11",
-    "animeUrl": "https://anitaku.so/category/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "School"
-    ]
-  },
-  {
-    "animeId": "shikanoko-nokonoko-koshitantan",
-    "animeTitle": "Shikanoko Nokonoko Koshitantan",
-    "animeImg": "'https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png'",
-    "latestEp": "Episode 11",
-    "animeUrl": "https://anitaku.so/category/shikanoko-nokonoko-koshitantan",
-    "genres": [
-      "Comedy",
-      "Gag Humor",
-      "School",
-      "Shounen"
-    ]
-  },
-  {
     "animeId": "nierautomata-ver1-1a-part-2",
     "animeTitle": "NieR:Automata Ver1.1a Part 2",
     "animeImg": "'https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png'",
@@ -123,6 +98,36 @@
       "Ecchi",
       "Harem",
       "School",
+      "Shounen"
+    ]
+  },
+  {
+    "animeId": "oshi-no-ko-2nd-season",
+    "animeTitle": "",
+    "animeImg": "'https://gogocdn.net/cover/oshi-no-ko-2nd-season.png'",
+    "latestEp": "Episode 11",
+    "animeUrl": "https://anitaku.so/category/oshi-no-ko-2nd-season",
+    "genres": [
+      "Drama",
+      "Reincarnation",
+      "Seinen",
+      "Showbiz",
+      "Supernatural"
+    ]
+  },
+  {
+    "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
+    "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
+    "animeImg": "'https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png'",
+    "latestEp": "Episode 22",
+    "animeUrl": "https://anitaku.so/category/tensei-shitara-slime-datta-ken-3rd-season",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Isekai",
+      "Reincarnation",
       "Shounen"
     ]
   }
