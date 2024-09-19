@@ -1,5 +1,19 @@
 [
   {
+    "id": "chuck-shimezou-dub",
+    "epId": "chuck-shimezou-dub-episode-1",
+    "title": "Chuck Shimezou (Dub)",
+    "img": "https://gogocdn.net/cover/chuck-shimezou-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
+    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-10",
+    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
+    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "shikanoko-nokonoko-koshitantan-dub",
     "epId": "shikanoko-nokonoko-koshitantan-dub-episode-12",
     "title": "Shikanoko Nokonoko Koshitantan (Dub)",
@@ -229,13 +243,6 @@
     "title": "Yeosin Gangnim (Dub)",
     "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub-episode-9",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san (Dub)",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dub.png",
-    "episode": "Episode 9"
   },
   {
     "id": "delicos-nursery-dub",
@@ -2790,13 +2797,6 @@
     "epId": "kidou-senshi-gundam-cucuruz-doan-no-shima-dub-episode-1",
     "title": "Kidou Senshi Gundam: Cucuruz Doan no Shima (Dub)",
     "img": "https://gogocdn.net/cover/kidou-senshi-gundam-cucuruz-doan-no-shima-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "5-toubun-no-hanayome-movie-dub",
-    "epId": "5-toubun-no-hanayome-movie-dub-episode-1",
-    "title": "5-toubun no Hanayome Movie (Dub)",
-    "img": "https://gogocdn.net/cover/5-toubun-no-hanayome-movie-dub.png",
     "episode": "Episode 1"
   }
 ]
