@@ -2,7 +2,7 @@
   "animeTitle": "Ramen Akaneko",
   "type": "Summer 2024 Anime",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Anthropomorphic",
     "Comedy",
@@ -12,8 +12,12 @@
   "otherNames": "\u30e9\u30fc\u30e1\u30f3\u8d64\u732b, Red Cat Ramen",
   "synopsis": "Meet Tamako, who's found her way into an interview at a ramen shop run solely by cats. When the feline manager asks if she likes cats, Tamako admits that she's actually more of a dog person...only to be hired on the spot! But her job description isn't quite what she expects \u2014 rather than serving ramen, she's now a dedicated cat caretaker...?!",
   "animeImg": "https://gogocdn.net/cover/ramen-akaneko.png",
-  "totalEpisodes": "11",
+  "totalEpisodes": "12",
   "episodesList": [
+    {
+      "episodeId": "ramen-akaneko-episode-12",
+      "episodeNum": "Episode 12"
+    },
     {
       "episodeId": "ramen-akaneko-episode-11",
       "episodeNum": "Episode 11"
