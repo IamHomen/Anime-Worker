@@ -1,5 +1,33 @@
 [
   {
+    "id": "delicos-nursery-dub",
+    "epId": "delicos-nursery-dub-episode-5",
+    "title": "Delico's Nursery (Dub)",
+    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "boushoku-no-berserk-dub",
+    "epId": "boushoku-no-berserk-dub-episode-8",
+    "title": "Boushoku no Berserk (Dub)",
+    "img": "https://gogocdn.net/cover/boushoku-no-berserk-dub.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "nozomanu-fushi-no-boukensha-dub",
+    "epId": "nozomanu-fushi-no-boukensha-dub-episode-9",
+    "title": "Nozomanu Fushi no Boukensha (Dub)",
+    "img": "https://gogocdn.net/cover/nozomanu-fushi-no-boukensha-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "yeosin-gangnim-dub",
+    "epId": "yeosin-gangnim-dub-episode-5",
+    "title": "Yeosin Gangnim (Dub)",
+    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "chuck-shimezou-dub",
     "epId": "chuck-shimezou-dub-episode-1",
     "title": "Chuck Shimezou (Dub)",
@@ -222,34 +250,6 @@
     "title": "Konjiki no Gash Bell!! (Dub)",
     "img": "https://gogocdn.net/cover/konjiki-no-gash-bell-dub.png",
     "episode": "Episode 128"
-  },
-  {
-    "id": "nozomanu-fushi-no-boukensha-dub",
-    "epId": "nozomanu-fushi-no-boukensha-dub-episode-8",
-    "title": "Nozomanu Fushi no Boukensha (Dub)",
-    "img": "https://gogocdn.net/cover/nozomanu-fushi-no-boukensha-dub.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "boushoku-no-berserk-dub",
-    "epId": "boushoku-no-berserk-dub-episode-7",
-    "title": "Boushoku no Berserk (Dub)",
-    "img": "https://gogocdn.net/cover/boushoku-no-berserk-dub.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "yeosin-gangnim-dub",
-    "epId": "yeosin-gangnim-dub-episode-4",
-    "title": "Yeosin Gangnim (Dub)",
-    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "delicos-nursery-dub",
-    "epId": "delicos-nursery-dub-episode-4",
-    "title": "Delico's Nursery (Dub)",
-    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
-    "episode": "Episode 4"
   },
   {
     "id": "helck-dub",

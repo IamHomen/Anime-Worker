@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-48",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 48"
+  },
+  {
     "id": "sengoku-youko-senma-konton-hen",
     "epId": "sengoku-youko-senma-konton-hen-episode-10",
     "title": "Sengoku Youko: Senma Konton-hen",
@@ -635,13 +642,6 @@
     "title": "1+2=Paradise",
     "img": "https://gogocdn.net/cover/12paradise.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-47",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 47"
   },
   {
     "id": "yugioh-go-rush",
