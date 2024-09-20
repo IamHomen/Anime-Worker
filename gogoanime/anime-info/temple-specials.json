@@ -12,8 +12,12 @@
   "otherNames": "TenPuru: No One Can Live on Loneliness Specials, \u3066\u3093\u3077\u308b, TenPuru Specials",
   "synopsis": "Specials included in the BD/DVD release of Temple.",
   "animeImg": "https://gogocdn.net/cover/temple-specials.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "2",
   "episodesList": [
+    {
+      "episodeId": "temple-specials-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "temple-specials-episode-1",
       "episodeNum": "Episode 1"

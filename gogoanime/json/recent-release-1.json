@@ -1,5 +1,54 @@
 [
   {
+    "id": "temple-specials",
+    "epId": "temple-specials-episode-2",
+    "title": "Temple Specials",
+    "img": "https://gogocdn.net/cover/temple-specials.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-11",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "chibi-maruko-chan-watashi-no-suki-na-uta",
+    "epId": "chibi-maruko-chan-watashi-no-suki-na-uta-episode-1",
+    "title": "Chibi Maruko-chan: Watashi no Suki na Uta",
+    "img": "https://gogocdn.net/cover/chibi-maruko-chan-watashi-no-suki-na-uta.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ojousama-sousamou",
+    "epId": "ojousama-sousamou-episode-1",
+    "title": "Ojousama Sousamou",
+    "img": "https://gogocdn.net/cover/ojousama-sousamou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-11",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-23",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 23"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-12",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-23",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -371,13 +420,6 @@
     "episode": "Episode 19"
   },
   {
-    "id": "shoushimin-series",
-    "epId": "shoushimin-series-episode-10",
-    "title": "Shoushimin Series",
-    "img": "https://gogocdn.net/cover/shoushimin-series.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "make-heroine-ga-oosugiru",
     "epId": "make-heroine-ga-oosugiru-episode-10",
     "title": "Make Heroine ga Oosugiru!",
@@ -532,25 +574,11 @@
     "episode": "Episode 11"
   },
   {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-10",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "ribbon-no-kishi",
     "epId": "ribbon-no-kishi-episode-39",
     "title": "Ribbon no Kishi",
     "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
     "episode": "Episode 39"
-  },
-  {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-10",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
-    "episode": "Episode 10"
   },
   {
     "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete",
@@ -560,25 +588,11 @@
     "episode": "Episode 30"
   },
   {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-22",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 22"
-  },
-  {
     "id": "bye-bye-earth",
     "epId": "bye-bye-earth-episode-10",
     "title": "Bye Bye, Earth",
     "img": "https://gogocdn.net/cover/bye-bye-earth.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-11",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 11"
   },
   {
     "id": "ninjala",
@@ -677,6 +691,13 @@
     "title": "The Snack World (TV)",
     "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
     "episode": "Episode 37"
+  },
+  {
+    "id": "shikabane-hime-kuro-soredemo-hito-to-shite",
+    "epId": "shikabane-hime-kuro-soredemo-hito-to-shite-episode-1",
+    "title": "Shikabane Hime: Kuro \u2013 Soredemo, Hito to Shite",
+    "img": "https://gogocdn.net/cover/shikabane-hime-kuro-soredemo-hito-to-shite.png",
+    "episode": "Episode 1"
   },
   {
     "id": "shikabane-hime-kuro-soredemo-hito-to-shite",
@@ -2777,26 +2798,5 @@
     "title": "Kusuriya no Hitorigoto",
     "img": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
     "episode": "Episode 24"
-  },
-  {
-    "id": "ao-no-exorcist-shimane-illuminati-hen",
-    "epId": "ao-no-exorcist-shimane-illuminati-hen-episode-12",
-    "title": "Ao no Exorcist: Shimane Illuminati-hen",
-    "img": "https://gogocdn.net/cover/ao-no-exorcist-shimane-illuminati-hen-1704168077.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "yubisaki-to-renren",
-    "epId": "yubisaki-to-renren-episode-12",
-    "title": "Yubisaki to Renren",
-    "img": "https://gogocdn.net/cover/yubisaki-to-renren-1704252298.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kekkon-yubiwa-monogatari",
-    "epId": "kekkon-yubiwa-monogatari-episode-12",
-    "title": "Kekkon Yubiwa Monogatari",
-    "img": "https://gogocdn.net/cover/kekkon-yubiwa-monogatari-1704186162.png",
-    "episode": "Episode 12"
   }
 ]
