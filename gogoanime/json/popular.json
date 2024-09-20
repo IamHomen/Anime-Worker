@@ -24,12 +24,6 @@
     "date": "1996"
   },
   {
-    "id": "giji-harem",
-    "title": "Giji Harem",
-    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
-    "date": "2024"
-  },
-  {
     "id": "kaijuu-8-gou",
     "title": "Kaijuu 8-gou",
     "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
@@ -99,12 +93,6 @@
     "id": "tensei-shitara-slime-datta-ken-3rd-season",
     "title": "Tensei shitara Slime Datta Ken 3rd Season",
     "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "date": "2024"
-  },
-  {
-    "id": "gimai-seikatsu",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
     "date": "2024"
   },
   {
@@ -1308,6 +1296,12 @@
     "date": "2016"
   },
   {
+    "id": "giji-harem",
+    "title": "Giji Harem",
+    "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
+    "date": "2024"
+  },
+  {
     "id": "horimiya-piece",
     "title": "Horimiya: Piece",
     "img": "https://gogocdn.net/cover/horimiya-piece.png",
@@ -2488,6 +2482,12 @@
     "title": "Vanitas no Carte",
     "img": "https://gogocdn.net/cover/vanitas-no-carte.png",
     "date": "2021"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "title": "Gimai Seikatsu",
+    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
+    "date": "2024"
   },
   {
     "id": "beastars-2nd-season",
@@ -70440,6 +70440,12 @@
     "date": "2008"
   },
   {
+    "id": "strike-witches-dub",
+    "title": "Strike Witches (Dub)",
+    "img": "https://gogocdn.net/cover/strike-witches-dub.png",
+    "date": "2008"
+  },
+  {
     "id": "donten-ni-warau-dub",
     "title": "Donten ni Warau (Dub)",
     "img": "https://gogocdn.net/cover/donten-ni-warau-dub.png",
@@ -80151,12 +80157,6 @@
     "id": "xiao-lu-he-xiao-lan-5th-season",
     "title": "Xiao Lu He Xiao Lan 5th Season",
     "img": "https://gogocdn.net/cover/xiao-lu-he-xiao-lan-5th-season.png",
-    "date": "2024"
-  },
-  {
-    "id": "t-p-bon-season-2-dub",
-    "title": "T.P BON Season 2 Dub)",
-    "img": "https://gogocdn.net/cover/t-p-bon-season-2-dub.png",
     "date": "2024"
   }
 ]
