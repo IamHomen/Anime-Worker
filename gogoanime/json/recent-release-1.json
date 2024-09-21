@@ -1,5 +1,19 @@
 [
   {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-12",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "shadowverse-flame-arc-hen",
+    "epId": "shadowverse-flame-arc-hen-episode-22",
+    "title": "Shadowverse Flame: Arc-hen",
+    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
+    "episode": "Episode 22"
+  },
+  {
     "id": "ranma-nettou-uta-gassen",
     "epId": "ranma-nettou-uta-gassen-episode-2",
     "title": "Ranma \u00bd: Nettou Uta Gassen",
@@ -553,13 +567,6 @@
     "episode": "Episode 17"
   },
   {
-    "id": "shadowverse-flame-arc-hen",
-    "epId": "shadowverse-flame-arc-hen-episode-21",
-    "title": "Shadowverse Flame: Arc-hen",
-    "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
-    "episode": "Episode 21"
-  },
-  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-65",
     "title": "Pokemon (Shinsaku Anime)",
@@ -586,13 +593,6 @@
     "title": "Animal 1",
     "img": "https://gogocdn.net/cover/animal-1.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-11",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 11"
   },
   {
     "id": "oishinbo",
