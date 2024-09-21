@@ -1,0 +1,24 @@
+{
+  "animeTitle": "Ranma \u00bd: Nettou Uta Gassen",
+  "type": "OVA",
+  "releasedDate": "1990",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "otherNames": "Ranma 1",
+  "synopsis": "A two-part music OVA series never released outside of Japan featuring the main Ranma 1/2 characters. They appear to be having a music contest at a local TV station. As everybody knows, these characters can't get along for more than three minutes and hilarity and hijinks ensue.",
+  "animeImg": "https://gogocdn.net/cover/ranma-nettou-uta-gassen.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "ranma-nettou-uta-gassen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "ranma-nettou-uta-gassen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

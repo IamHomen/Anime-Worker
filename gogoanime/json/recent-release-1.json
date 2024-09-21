@@ -1,5 +1,40 @@
 [
   {
+    "id": "ranma-nettou-uta-gassen",
+    "epId": "ranma-nettou-uta-gassen-episode-2",
+    "title": "Ranma \u00bd: Nettou Uta Gassen",
+    "img": "https://gogocdn.net/cover/ranma-nettou-uta-gassen.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "red-ash-gearworld",
+    "epId": "red-ash-gearworld-episode-1",
+    "title": "Red Ash: Gearworld",
+    "img": "https://gogocdn.net/cover/red-ash-gearworld.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "magic-knight-rayearth-pilot",
+    "epId": "magic-knight-rayearth-pilot-episode-1",
+    "title": "Magic Knight Rayearth Pilot",
+    "img": "https://gogocdn.net/cover/magic-knight-rayearth-pilot.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kono-sekai-wa-fukanzen-sugiru",
+    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-12",
+    "title": "Kono Sekai wa Fukanzen Sugiru",
+    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "make-love",
+    "epId": "make-love-episode-1",
+    "title": "Make Love",
+    "img": "https://gogocdn.net/cover/make-love.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "temple-specials",
     "epId": "temple-specials-episode-2",
     "title": "Temple Specials",
@@ -420,6 +455,13 @@
     "episode": "Episode 19"
   },
   {
+    "id": "shoushimin-series",
+    "epId": "shoushimin-series-episode-10",
+    "title": "Shoushimin Series",
+    "img": "https://gogocdn.net/cover/shoushimin-series.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "make-heroine-ga-oosugiru",
     "epId": "make-heroine-ga-oosugiru-episode-10",
     "title": "Make Heroine ga Oosugiru!",
@@ -567,13 +609,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "kono-sekai-wa-fukanzen-sugiru",
-    "epId": "kono-sekai-wa-fukanzen-sugiru-episode-11",
-    "title": "Kono Sekai wa Fukanzen Sugiru",
-    "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "ribbon-no-kishi",
     "epId": "ribbon-no-kishi-episode-39",
     "title": "Ribbon no Kishi",
@@ -691,13 +726,6 @@
     "title": "The Snack World (TV)",
     "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
     "episode": "Episode 37"
-  },
-  {
-    "id": "shikabane-hime-kuro-soredemo-hito-to-shite",
-    "epId": "shikabane-hime-kuro-soredemo-hito-to-shite-episode-1",
-    "title": "Shikabane Hime: Kuro \u2013 Soredemo, Hito to Shite",
-    "img": "https://gogocdn.net/cover/shikabane-hime-kuro-soredemo-hito-to-shite.png",
-    "episode": "Episode 1"
   },
   {
     "id": "shikabane-hime-kuro-soredemo-hito-to-shite",
@@ -2770,33 +2798,5 @@
     "title": "Chouon Senshi Borgman 2: Shinseiki 2058",
     "img": "https://gogocdn.net/cover/chouon-senshi-borgman-2-shinseiki-2058.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "future-war-198x-nen",
-    "epId": "future-war-198x-nen-episode-1",
-    "title": "Future War 198X-nen",
-    "img": "https://gogocdn.net/cover/future-war-198x-nen.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kyomu-senshi-miroku",
-    "epId": "kyomu-senshi-miroku-episode-6",
-    "title": "Kyomu Senshi Miroku",
-    "img": "https://gogocdn.net/cover/kyomu-senshi-miroku.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru",
-    "epId": "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru-episode-12",
-    "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
-    "img": "https://gogocdn.net/cover/saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru-1704248612.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kusuriya-no-hitorigoto",
-    "epId": "kusuriya-no-hitorigoto-episode-24",
-    "title": "Kusuriya no Hitorigoto",
-    "img": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png",
-    "episode": "Episode 24"
   }
 ]

@@ -56,19 +56,19 @@
     "format": "MOVIE"
   },
   {
-    "id": 9253,
-    "title": "Steins;Gate",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
-    "seasonYear": 2011,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 1535,
     "title": "DEATH NOTE",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-4r88a1tsBEIz.jpg",
     "seasonYear": 2006,
     "totalEpisode": 37,
+    "format": "TV"
+  },
+  {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -104,6 +104,14 @@
     "format": "TV"
   },
   {
+    "id": 20464,
+    "title": "Haikyuu!!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-7fLWc7VvWeVB.png",
+    "seasonYear": 2014,
+    "totalEpisode": 25,
+    "format": "TV"
+  },
+  {
     "id": 21827,
     "title": "Violet Evergarden",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21827-10F6m50H4GJK.png",
@@ -117,14 +125,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg",
     "seasonYear": 2002,
     "totalEpisode": 220,
-    "format": "TV"
-  },
-  {
-    "id": 20464,
-    "title": "Haikyuu!!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-7fLWc7VvWeVB.png",
-    "seasonYear": 2014,
-    "totalEpisode": 25,
     "format": "TV"
   },
   {
@@ -248,19 +248,19 @@
     "format": "TV"
   },
   {
-    "id": 2001,
-    "title": "Tengen Toppa Gurren Lagann",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
-    "seasonYear": 2007,
-    "totalEpisode": 27,
-    "format": "TV"
-  },
-  {
     "id": 21459,
     "title": "Boku no Hero Academia",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-RoPwgrZ32gM3.jpg",
     "seasonYear": 2016,
     "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
+    "id": 2001,
+    "title": "Tengen Toppa Gurren Lagann",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
+    "seasonYear": 2007,
+    "totalEpisode": 27,
     "format": "TV"
   },
   {
@@ -312,6 +312,14 @@
     "format": "TV"
   },
   {
+    "id": 101759,
+    "title": "Yakusoku no Neverland",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-G9I2ymYrFS8o.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
     "id": 21202,
     "title": "Kono Subarashii Sekai ni Shukufuku wo!",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-TfzXuWQf2oLQ.png",
@@ -326,14 +334,6 @@
     "seasonYear": 2022,
     "totalEpisode": 10,
     "format": "ONA"
-  },
-  {
-    "id": 101759,
-    "title": "Yakusoku no Neverland",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-G9I2ymYrFS8o.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 12,
-    "format": "TV"
   },
   {
     "id": 145064,
@@ -360,14 +360,6 @@
     "format": "TV"
   },
   {
-    "id": 101280,
-    "title": "Tensei Shitara Slime Datta Ken",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-ezBXqEHi8pg0.jpg",
-    "seasonYear": 2018,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 21450,
     "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21450-VsNSWuTsHBMR.jpg",
@@ -381,6 +373,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
     "seasonYear": 2004,
     "totalEpisode": 74,
+    "format": "TV"
+  },
+  {
+    "id": 101280,
+    "title": "Tensei Shitara Slime Datta Ken",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-ezBXqEHi8pg0.jpg",
+    "seasonYear": 2018,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
