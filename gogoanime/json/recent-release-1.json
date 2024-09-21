@@ -1,5 +1,75 @@
 [
   {
+    "id": "atri-my-dear-moments",
+    "epId": "atri-my-dear-moments-episode-11",
+    "title": "Atri: My Dear Moments",
+    "img": "https://gogocdn.net/cover/atri-my-dear-moments-1719512812.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "make-heroine-ga-oosugiru",
+    "epId": "make-heroine-ga-oosugiru-episode-11",
+    "title": "Make Heroine ga Oosugiru!",
+    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi",
+    "epId": "nige-jouzu-no-wakagimi-episode-11",
+    "title": "Nige Jouzu no Wakagimi",
+    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-1719516716.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "tensui-no-sakuna-hime",
+    "epId": "tensui-no-sakuna-hime-episode-12",
+    "title": "Tensui no Sakuna-hime",
+    "img": "https://gogocdn.net/cover/tensui-no-sakuna-hime.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
+    "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-episode-11",
+    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+    "img": "https://gogocdn.net/cover/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-1719516524.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai-uncensored",
+    "epId": "elf-san-wa-yaserarenai-uncensored-episode-12",
+    "title": "Elf-san wa Yaserarenai. (Uncensored)",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai",
+    "epId": "elf-san-wa-yaserarenai-episode-12",
+    "title": "Elf-san wa Yaserarenai.",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "monogatari-series-off-monster-season",
+    "epId": "monogatari-series-off-monster-season-episode-10",
+    "title": "Monogatari Series: Off & Monster Season",
+    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1135",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1135"
+  },
+  {
+    "id": "madougushi-dahliya-wa-utsumukanai",
+    "epId": "madougushi-dahliya-wa-utsumukanai-episode-12",
+    "title": "Madougushi Dahliya wa Utsumukanai",
+    "img": "https://gogocdn.net/cover/madougushi-dahliya-wa-utsumukanai.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "boku-no-hero-academia-7th-season",
     "epId": "boku-no-hero-academia-7th-season-episode-18",
     "title": "Boku no Hero Academia 7th Season",
@@ -54,6 +124,20 @@
     "title": "Kono Sekai wa Fukanzen Sugiru",
     "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "make-love",
+    "epId": "make-love-episode-1",
+    "title": "Make Love",
+    "img": "https://gogocdn.net/cover/make-love.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "temple-specials",
+    "epId": "temple-specials-episode-2",
+    "title": "Temple Specials",
+    "img": "https://gogocdn.net/cover/temple-specials.png",
+    "episode": "Episode 2"
   },
   {
     "id": "make-love",
@@ -196,13 +280,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-48",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 48"
-  },
-  {
     "id": "sengoku-youko-senma-konton-hen",
     "epId": "sengoku-youko-senma-konton-hen-episode-10",
     "title": "Sengoku Youko: Senma Konton-hen",
@@ -343,13 +420,6 @@
     "episode": "Episode 11"
   },
   {
-    "id": "f",
-    "epId": "f-episode-31",
-    "title": "F",
-    "img": "https://gogocdn.net/cover/f.png",
-    "episode": "Episode 31"
-  },
-  {
     "id": "kankin-kuiki-level-x",
     "epId": "kankin-kuiki-level-x-episode-2",
     "title": "Kankin Kuiki Level X",
@@ -469,13 +539,6 @@
     "episode": "Episode 23"
   },
   {
-    "id": "elf-san-wa-yaserarenai-uncensored",
-    "epId": "elf-san-wa-yaserarenai-uncensored-episode-11",
-    "title": "Elf-san wa Yaserarenai. (Uncensored)",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "epId": "karasu-wa-aruji-wo-erabanai-episode-19",
     "title": "Karasu wa Aruji wo Erabanai",
@@ -490,53 +553,11 @@
     "episode": "Episode 10"
   },
   {
-    "id": "make-heroine-ga-oosugiru",
-    "epId": "make-heroine-ga-oosugiru-episode-10",
-    "title": "Make Heroine ga Oosugiru!",
-    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "atri-my-dear-moments",
-    "epId": "atri-my-dear-moments-episode-10",
-    "title": "Atri: My Dear Moments",
-    "img": "https://gogocdn.net/cover/atri-my-dear-moments-1719512812.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "nige-jouzu-no-wakagimi",
-    "epId": "nige-jouzu-no-wakagimi-episode-10",
-    "title": "Nige Jouzu no Wakagimi",
-    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-1719516716.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "tensui-no-sakuna-hime",
-    "epId": "tensui-no-sakuna-hime-episode-11",
-    "title": "Tensui no Sakuna-hime",
-    "img": "https://gogocdn.net/cover/tensui-no-sakuna-hime.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-    "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-episode-10",
-    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-    "img": "https://gogocdn.net/cover/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-1719516524.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "boku-no-tsuma-wa-kanjou-ga-nai",
     "epId": "boku-no-tsuma-wa-kanjou-ga-nai-episode-12",
     "title": "Boku no Tsuma wa Kanjou ga Nai",
     "img": "https://gogocdn.net/cover/boku-no-tsuma-wa-kanjou-ga-nai.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "elf-san-wa-yaserarenai",
-    "epId": "elf-san-wa-yaserarenai-episode-11",
-    "title": "Elf-san wa Yaserarenai.",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
-    "episode": "Episode 11"
   },
   {
     "id": "pole-princess-movie",
@@ -546,32 +567,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "monogatari-series-off-monster-season",
-    "epId": "monogatari-series-off-monster-season-episode-9",
-    "title": "Monogatari Series: Off & Monster Season",
-    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
-    "episode": "Episode 9"
-  },
-  {
     "id": "mob-kara-hajimaru-tansaku-eiyuutan",
     "epId": "mob-kara-hajimaru-tansaku-eiyuutan-episode-12",
     "title": "Mob kara Hajimaru Tansaku Eiyuutan",
     "img": "https://gogocdn.net/cover/mob-kara-hajimaru-tansaku-eiyuutan.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "madougushi-dahliya-wa-utsumukanai",
-    "epId": "madougushi-dahliya-wa-utsumukanai-episode-11",
-    "title": "Madougushi Dahliya wa Utsumukanai",
-    "img": "https://gogocdn.net/cover/madougushi-dahliya-wa-utsumukanai.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1134",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1134"
   },
   {
     "id": "himitsu-no-aipri",
