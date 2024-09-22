@@ -1,5 +1,26 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1120",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1120"
+  },
+  {
+    "id": "kankin-kuiki-level-x",
+    "epId": "kankin-kuiki-level-x-episode-3",
+    "title": "Kankin Kuiki Level X",
+    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-34",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 34"
+  },
+  {
     "id": "the-fable",
     "epId": "the-fable-episode-24",
     "title": "The Fable",
@@ -434,13 +455,6 @@
     "episode": "Episode 31"
   },
   {
-    "id": "kankin-kuiki-level-x",
-    "epId": "kankin-kuiki-level-x-episode-2",
-    "title": "Kankin Kuiki Level X",
-    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "dead-heat",
     "epId": "dead-heat-episode-1",
     "title": "Dead Heat",
@@ -530,20 +544,6 @@
     "title": "Dr. Slump: Arale-chan",
     "img": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
     "episode": "Episode 165"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1119",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1119"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-33",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 33"
   },
   {
     "id": "shoushimin-series",
