@@ -11,8 +11,12 @@
   "otherNames": "\u95c7\u829d\u5c45 \u5341\u4e8c\u671f",
   "synopsis": "Thirteenth season of Yami Shibai.",
   "animeImg": "https://gogocdn.net/cover/yami-shibai-13.png",
-  "totalEpisodes": "10",
+  "totalEpisodes": "11",
   "episodesList": [
+    {
+      "episodeId": "yami-shibai-13-episode-11",
+      "episodeNum": "Episode 11"
+    },
     {
       "episodeId": "yami-shibai-13-episode-10",
       "episodeNum": "Episode 10"
