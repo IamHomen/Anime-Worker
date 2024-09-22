@@ -1,5 +1,19 @@
 [
   {
+    "id": "the-fable",
+    "epId": "the-fable-episode-24",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 24"
+  },
+  {
+    "id": "karasu-wa-aruji-wo-erabanai",
+    "epId": "karasu-wa-aruji-wo-erabanai-episode-20",
+    "title": "Karasu wa Aruji wo Erabanai",
+    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
+    "episode": "Episode 20"
+  },
+  {
     "id": "atri-my-dear-moments",
     "epId": "atri-my-dear-moments-episode-11",
     "title": "Atri: My Dear Moments",
@@ -124,20 +138,6 @@
     "title": "Kono Sekai wa Fukanzen Sugiru",
     "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-1719515682.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "make-love",
-    "epId": "make-love-episode-1",
-    "title": "Make Love",
-    "img": "https://gogocdn.net/cover/make-love.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "temple-specials",
-    "epId": "temple-specials-episode-2",
-    "title": "Temple Specials",
-    "img": "https://gogocdn.net/cover/temple-specials.png",
-    "episode": "Episode 2"
   },
   {
     "id": "make-love",
@@ -280,6 +280,13 @@
     "episode": "Episode 12"
   },
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-48",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 48"
+  },
+  {
     "id": "sengoku-youko-senma-konton-hen",
     "epId": "sengoku-youko-senma-konton-hen-episode-10",
     "title": "Sengoku Youko: Senma Konton-hen",
@@ -420,6 +427,13 @@
     "episode": "Episode 11"
   },
   {
+    "id": "f",
+    "epId": "f-episode-31",
+    "title": "F",
+    "img": "https://gogocdn.net/cover/f.png",
+    "episode": "Episode 31"
+  },
+  {
     "id": "kankin-kuiki-level-x",
     "epId": "kankin-kuiki-level-x-episode-2",
     "title": "Kankin Kuiki Level X",
@@ -530,20 +544,6 @@
     "title": "Wonderful Precure!",
     "img": "https://gogocdn.net/cover/wonderful-precure.png",
     "episode": "Episode 33"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-23",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 23"
-  },
-  {
-    "id": "karasu-wa-aruji-wo-erabanai",
-    "epId": "karasu-wa-aruji-wo-erabanai-episode-19",
-    "title": "Karasu wa Aruji wo Erabanai",
-    "img": "https://gogocdn.net/cover/karasu-wa-aruji-wo-erabanai.png",
-    "episode": "Episode 19"
   },
   {
     "id": "shoushimin-series",
