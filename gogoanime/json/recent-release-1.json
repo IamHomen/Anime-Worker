@@ -1,5 +1,12 @@
 [
   {
+    "id": "princess-army-weddingcombat",
+    "epId": "princess-army-weddingcombat-episode-2",
+    "title": "Princess Army: Wedding\u2605Combat",
+    "img": "https://gogocdn.net/cover/princess-army-weddingcombat.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-25",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
@@ -2791,12 +2798,5 @@
     "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
     "img": "https://gogocdn.net/cover/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "chouon-senshi-borgman-2-shinseiki-2058",
-    "epId": "chouon-senshi-borgman-2-shinseiki-2058-episode-3",
-    "title": "Chouon Senshi Borgman 2: Shinseiki 2058",
-    "img": "https://gogocdn.net/cover/chouon-senshi-borgman-2-shinseiki-2058.png",
-    "episode": "Episode 3"
   }
 ]
