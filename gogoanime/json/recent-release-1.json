@@ -1,5 +1,47 @@
 [
   {
+    "id": "poketoon",
+    "epId": "poketoon-episode-10",
+    "title": "Poketoon",
+    "img": "https://gogocdn.net/cover/poketoon.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "epId": "sengoku-youko-senma-konton-hen-episode-10-5",
+    "title": "Sengoku Youko: Senma Konton-hen",
+    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
+    "episode": "Episode 10.5"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-24",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 24"
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai",
+    "epId": "koi-wa-futago-de-warikirenai-episode-12",
+    "title": "Koi wa Futago de Warikirenai",
+    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "epId": "oshi-no-ko-2nd-season-episode-12",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "koume-chan-ga-iku",
+    "epId": "koume-chan-ga-iku-episode-12",
+    "title": "Koume-chan ga Iku!",
+    "img": "https://gogocdn.net/cover/koume-chan-ga-iku.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "murai-no-koi",
     "epId": "murai-no-koi-episode-4",
     "title": "Murai no Koi",
@@ -490,32 +532,11 @@
     "episode": "Episode 48"
   },
   {
-    "id": "sengoku-youko-senma-konton-hen",
-    "epId": "sengoku-youko-senma-konton-hen-episode-10",
-    "title": "Sengoku Youko: Senma Konton-hen",
-    "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "koi-wa-futago-de-warikirenai",
-    "epId": "koi-wa-futago-de-warikirenai-episode-11",
-    "title": "Koi wa Futago de Warikirenai",
-    "img": "https://gogocdn.net/cover/koi-wa-futago-de-warikirenai-1719515616.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
     "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-12",
     "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
     "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season",
-    "epId": "oshi-no-ko-2nd-season-episode-11",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "episode": "Episode 11"
   },
   {
     "id": "shikanoko-nokonoko-koshitantan",
@@ -621,13 +642,6 @@
     "title": "Mob kara Hajimaru Tansaku Eiyuutan",
     "img": "https://gogocdn.net/cover/mob-kara-hajimaru-tansaku-eiyuutan.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-23",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 23"
   },
   {
     "id": "cardfight-vanguard-divinez-season-2",
@@ -1318,14 +1332,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u2606Bakunetsu Jikuu",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2783,20 +2797,6 @@
     "epId": "synduality-noir-part-2-episode-12",
     "title": "Synduality: Noir Part 2",
     "img": "https://gogocdn.net/cover/synduality-noir-part-2-1708400288.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "himesama-goumon-no-jikan-desu",
-    "epId": "himesama-goumon-no-jikan-desu-episode-12",
-    "title": "Himesama ",
-    "img": "https://gogocdn.net/cover/himesama-goumon-no-jikan-desu-1704184795.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "high-card-season-2",
-    "epId": "high-card-season-2-episode-12",
-    "title": "High Card Season 2",
-    "img": "https://gogocdn.net/cover/high-card-season-2.png",
     "episode": "Episode 12"
   }
 ]

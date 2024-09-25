@@ -1,5 +1,12 @@
 [
   {
+    "id": "free-take-your-marks-dub",
+    "epId": "free-take-your-marks-dub-episode-4",
+    "title": "Free! Take Your Marks (Dub)",
+    "img": "https://gogocdn.net/cover/free-take-your-marks-dub.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "yoru-no-kurage-wa-oyogenai-dub",
     "epId": "yoru-no-kurage-wa-oyogenai-dub-episode-2",
     "title": "Yoru no Kurage wa Oyogenai (Dub)",
@@ -2790,13 +2797,6 @@
     "epId": "karakai-jouzu-no-takagi-san-movie-dub-episode-1",
     "title": "Karakai Jouzu no Takagi-san Movie (Dub)",
     "img": "https://gogocdn.net/cover/karakai-jouzu-no-takagi-san-movie-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "eiga-daisuki-pompo-san-dub",
-    "epId": "eiga-daisuki-pompo-san-dub-episode-1",
-    "title": "Eiga Daisuki Pompo-san (Dub)",
-    "img": "https://gogocdn.net/cover/eiga-daisuki-pompo-san-dub.png",
     "episode": "Episode 1"
   }
 ]
