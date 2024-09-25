@@ -1,5 +1,33 @@
 [
   {
+    "id": "time-bokan-series-gyakuten-ippatsuman",
+    "epId": "time-bokan-series-gyakuten-ippatsuman-episode-35",
+    "title": "Time Bokan Series: Gyakuten Ippatsuman",
+    "img": "https://gogocdn.net/cover/time-bokan-series-gyakuten-ippatsuman.png",
+    "episode": "Episode 35"
+  },
+  {
+    "id": "kirara",
+    "epId": "kirara-episode-1",
+    "title": "Kirara",
+    "img": "https://gogocdn.net/cover/kirara.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nijuushi-no-hitomi",
+    "epId": "nijuushi-no-hitomi-episode-1",
+    "title": "Nijuushi no Hitomi",
+    "img": "https://gogocdn.net/cover/nijuushi-no-hitomi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "devadasy",
+    "epId": "devadasy-episode-1-3",
+    "title": "De:vadasy",
+    "img": "https://gogocdn.net/cover/devadasy.png",
+    "episode": "Episode 1.3"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-11",
     "title": "Tasuuketsu",
@@ -1771,13 +1799,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "time-bokan-series-gyakuten-ippatsuman",
-    "epId": "time-bokan-series-gyakuten-ippatsuman-episode-30",
-    "title": "Time Bokan Series: Gyakuten Ippatsuman",
-    "img": "https://gogocdn.net/cover/time-bokan-series-gyakuten-ippatsuman.png",
-    "episode": "Episode 30"
-  },
-  {
     "id": "bartender-kami-no-glass",
     "epId": "bartender-kami-no-glass-episode-12",
     "title": "Bartender: Kami no Glass",
@@ -2776,27 +2797,6 @@
     "epId": "high-card-season-2-episode-12",
     "title": "High Card Season 2",
     "img": "https://gogocdn.net/cover/high-card-season-2.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kyuujitsu-no-warumono-san",
-    "epId": "kyuujitsu-no-warumono-san-episode-12",
-    "title": "Kyuujitsu no Warumono-san",
-    "img": "https://gogocdn.net/cover/kyuujitsu-no-warumono-san-1708915495.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd",
-    "epId": "shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd-episode-12",
-    "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
-    "img": "https://gogocdn.net/cover/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd-1704249955.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru",
-    "epId": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru-episode-12",
-    "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
-    "img": "https://gogocdn.net/cover/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru.png",
     "episode": "Episode 12"
   }
 ]
