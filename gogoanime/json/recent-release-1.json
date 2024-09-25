@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-11",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 11"
+  },
+  {
     "id": "egumi-legacy",
     "epId": "egumi-legacy-episode-12",
     "title": "Egumi Legacy",
@@ -495,13 +502,6 @@
     "title": "Chinpui: Eri-sama Katsudou Daishashin",
     "img": "https://gogocdn.net/cover/chinpui-eri-sama-katsudou-daishashin.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-10",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 10"
   },
   {
     "id": "sanjougattai-transformers-go",
