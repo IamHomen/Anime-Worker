@@ -1,0 +1,22 @@
+{
+  "animeTitle": "Ultraman Graffiti",
+  "type": "OVA",
+  "releasedDate": "1990",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Parody",
+    "Super Power"
+  ],
+  "otherNames": "\u30a6\u30eb\u30c8\u30e9\u30de\u30f3\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
+  "synopsis": "Super deformed Ultraman shorts",
+  "animeImg": "https://gogocdn.net/cover/ultraman-graffiti.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "ultraman-graffiti-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

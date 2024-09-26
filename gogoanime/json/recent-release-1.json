@@ -1,5 +1,33 @@
 [
   {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-111",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 111"
+  },
+  {
+    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
+    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-12",
+    "title": "Hazurewaku no ",
+    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "hitoribocchi-no-isekai-kouryaku",
+    "epId": "hitoribocchi-no-isekai-kouryaku-episode-1",
+    "title": "Hitoribocchi no Isekai Kouryaku",
+    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ultraman-graffiti",
+    "epId": "ultraman-graffiti-episode-1",
+    "title": "Ultraman Graffiti",
+    "img": "https://gogocdn.net/cover/ultraman-graffiti.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-49",
     "title": "Beyblade X",
@@ -481,20 +509,6 @@
     "title": "Senpai wa Otokonoko",
     "img": "https://gogocdn.net/cover/senpai-wa-otokonoko-1719517276.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
-    "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-11",
-    "title": "Hazurewaku no ",
-    "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-110",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 110"
   },
   {
     "id": "megami-no-cafe-terrace-2nd-season",
@@ -2784,19 +2798,5 @@
     "title": "Magnerobo Ga-Keen",
     "img": "https://gogocdn.net/cover/magnerobo-ga-keen.png",
     "episode": "Episode 27"
-  },
-  {
-    "id": "oroka-na-tenshi-wa-akuma-to-odoru",
-    "epId": "oroka-na-tenshi-wa-akuma-to-odoru-episode-12",
-    "title": "Oroka na Tenshi wa Akuma to Odoru",
-    "img": "https://gogocdn.net/cover/oroka-na-tenshi-wa-akuma-to-odoru-1704247848.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "dosanko-gal-wa-namara-menkoi",
-    "epId": "dosanko-gal-wa-namara-menkoi-episode-12",
-    "title": "Dosanko Gal wa Namara Menkoi",
-    "img": "https://gogocdn.net/cover/dosanko-gal-wa-namara-menkoi-1708569614.png",
-    "episode": "Episode 12"
   }
 ]
