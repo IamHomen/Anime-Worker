@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-49",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 49"
+  },
+  {
     "id": "ranma-akumu-shunmin-kou",
     "epId": "ranma-akumu-shunmin-kou-episode-1",
     "title": "Ranma \u00bd: Akumu! Shunmin Kou",
@@ -530,13 +537,6 @@
     "title": "Gimai Seikatsu",
     "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-48",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 48"
   },
   {
     "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
