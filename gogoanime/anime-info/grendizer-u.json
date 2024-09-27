@@ -2,7 +2,7 @@
   "animeTitle": "Grendizer U",
   "type": "Summer 2024 Anime",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Action",
     "Mecha",
@@ -11,8 +11,12 @@
   "otherNames": "\u30b0\u30ec\u30f3\u30c0\u30a4\u30b6\u30fcU",
   "synopsis": "Duke Fleed is a survivor of the Fleed Planet who is escaped to the Earth, onboard a mysterious \"spaceship\", where is raised by Dr. Umon as his adoptive son, and known as Daisuke Umon. Years after his arrival, he's faced with the threat of King Vega and his army, who want to conquer the Earth. With his friends Koji and Hikaru (and later his younger sister Maria Grace), Duke decides to fight back using his best weapon - the almighty Grendizer.",
   "animeImg": "https://gogocdn.net/cover/grendizer-u.png",
-  "totalEpisodes": "12",
+  "totalEpisodes": "13",
   "episodesList": [
+    {
+      "episodeId": "grendizer-u-episode-13",
+      "episodeNum": "Episode 13"
+    },
     {
       "episodeId": "grendizer-u-episode-12",
       "episodeNum": "Episode 12"

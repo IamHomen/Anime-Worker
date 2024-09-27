@@ -14,18 +14,6 @@
     ]
   },
   {
-    "animeId": "nierautomata-ver1-1a-part-2",
-    "animeTitle": "NieR:Automata Ver1.1a Part 2",
-    "animeImg": "'https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png'",
-    "latestEp": "Episode 11",
-    "animeUrl": "https://anitaku.so/category/nierautomata-ver1-1a-part-2",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Sci-Fi"
-    ]
-  },
-  {
     "animeId": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2",
     "animeTitle": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
     "animeImg": "'https://gogocdn.net/cover/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2-1719514641.png'",
@@ -69,7 +57,7 @@
     "animeId": "2-5-jigen-no-ririsa",
     "animeTitle": "2.5-jigen no Ririsa",
     "animeImg": "'https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png'",
-    "latestEp": "Episode 12",
+    "latestEp": "Episode 13",
     "animeUrl": "https://anitaku.so/category/2-5-jigen-no-ririsa",
     "genres": [
       "Comedy",
@@ -91,22 +79,6 @@
       "Seinen",
       "Showbiz",
       "Supernatural"
-    ]
-  },
-  {
-    "animeId": "tensei-shitara-slime-datta-ken-3rd-season",
-    "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
-    "animeImg": "'https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png'",
-    "latestEp": "Episode 23",
-    "animeUrl": "https://anitaku.so/category/tensei-shitara-slime-datta-ken-3rd-season",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Isekai",
-      "Reincarnation",
-      "Shounen"
     ]
   },
   {
@@ -132,6 +104,36 @@
       "School",
       "Shounen",
       "Super Power"
+    ]
+  },
+  {
+    "animeId": "one-piece",
+    "animeTitle": "One Piece",
+    "animeImg": "'https://gogocdn.net/cover/one-piece-1708412053.png'",
+    "latestEp": "Episode 1120",
+    "animeUrl": "https://anitaku.so/category/one-piece",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Shounen",
+      "Super Power"
+    ]
+  },
+  {
+    "animeId": "detective-conan",
+    "animeTitle": "Detective Conan",
+    "animeImg": "'https://gogocdn.net/cover/detective-conan.png'",
+    "latestEp": "Episode 1135",
+    "animeUrl": "https://anitaku.so/category/detective-conan",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Police",
+      "Psychological",
+      "Shounen"
     ]
   }
 ]

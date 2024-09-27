@@ -1,5 +1,47 @@
 [
   {
+    "id": "dungeon-no-naka-no-hito",
+    "epId": "dungeon-no-naka-no-hito-episode-12",
+    "title": "Dungeon no Naka no Hito",
+    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "grendizer-u",
+    "epId": "grendizer-u-episode-13",
+    "title": "Grendizer U",
+    "img": "https://gogocdn.net/cover/grendizer-u.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-12",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-24",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
+    "episode": "Episode 24"
+  },
+  {
+    "id": "nemurenu-yoru-no-chiisana-ohanashi",
+    "epId": "nemurenu-yoru-no-chiisana-ohanashi-episode-3",
+    "title": "Nemurenu Yoru no Chiisana Ohanashi",
+    "img": "https://gogocdn.net/cover/nemurenu-yoru-no-chiisana-ohanashi.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-13",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "rick-and-morty-the-anime",
     "epId": "rick-and-morty-the-anime-episode-7",
     "title": "Rick and Morty: The Anime",
@@ -399,13 +441,6 @@
     "episode": "Episode 66"
   },
   {
-    "id": "grendizer-u",
-    "epId": "grendizer-u-episode-12",
-    "title": "Grendizer U",
-    "img": "https://gogocdn.net/cover/grendizer-u.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-22",
     "title": "Shadowverse Flame: Arc-hen",
@@ -455,13 +490,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "dungeon-no-naka-no-hito",
-    "epId": "dungeon-no-naka-no-hito-episode-11",
-    "title": "Dungeon no Naka no Hito",
-    "img": "https://gogocdn.net/cover/dungeon-no-naka-no-hito-1719513299.png",
-    "episode": "Episode 11"
-  },
-  {
     "id": "chibi-maruko-chan-watashi-no-suki-na-uta",
     "epId": "chibi-maruko-chan-watashi-no-suki-na-uta-episode-1",
     "title": "Chibi Maruko-chan: Watashi no Suki na Uta",
@@ -474,27 +502,6 @@
     "title": "Ojousama Sousamou",
     "img": "https://gogocdn.net/cover/ojousama-sousamou.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "nierautomata-ver1-1a-part-2",
-    "epId": "nierautomata-ver1-1a-part-2-episode-11",
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-episode-23",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season.png",
-    "episode": "Episode 23"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-12",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 12"
   },
   {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
@@ -2791,12 +2798,5 @@
     "title": "Otokogi",
     "img": "https://gogocdn.net/cover/otokogi.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "magnerobo-ga-keen",
-    "epId": "magnerobo-ga-keen-episode-27",
-    "title": "Magnerobo Ga-Keen",
-    "img": "https://gogocdn.net/cover/magnerobo-ga-keen.png",
-    "episode": "Episode 27"
   }
 ]
