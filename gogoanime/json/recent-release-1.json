@@ -1,5 +1,19 @@
 [
   {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1136",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1136"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-19",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 19"
+  },
+  {
     "id": "shadowverse-flame-arc-hen",
     "epId": "shadowverse-flame-arc-hen-episode-23",
     "title": "Shadowverse Flame: Arc-hen",
@@ -441,25 +455,11 @@
     "episode": "Episode 10"
   },
   {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1135",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1135"
-  },
-  {
     "id": "madougushi-dahliya-wa-utsumukanai",
     "epId": "madougushi-dahliya-wa-utsumukanai-episode-12",
     "title": "Madougushi Dahliya wa Utsumukanai",
     "img": "https://gogocdn.net/cover/madougushi-dahliya-wa-utsumukanai.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-18",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 18"
   },
   {
     "id": "ranma-nettou-uta-gassen",
