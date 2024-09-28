@@ -10,8 +10,12 @@
   "otherNames": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9\uff26 \u30a2\u30fc\u30af\u7de8",
   "synopsis": "Third part of Shadowverse Flame.",
   "animeImg": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
-  "totalEpisodes": "22",
+  "totalEpisodes": "23",
   "episodesList": [
+    {
+      "episodeId": "shadowverse-flame-arc-hen-episode-23",
+      "episodeNum": "Episode 23"
+    },
     {
       "episodeId": "shadowverse-flame-arc-hen-episode-22",
       "episodeNum": "Episode 22"
