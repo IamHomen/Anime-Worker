@@ -1,5 +1,26 @@
 [
   {
+    "id": "nageki-no-bourei-wa-intai-shitai",
+    "epId": "nageki-no-bourei-wa-intai-shitai-episode-1",
+    "title": "Nageki no Bourei wa Intai shitai",
+    "img": "https://gogocdn.net/cover/nageki-no-bourei-wa-intai-shitai.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season",
+    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season-episode-1",
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-2nd-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kami-no-tou-ouji-no-kikan",
+    "epId": "kami-no-tou-ouji-no-kikan-episode-13",
+    "title": "Kami no Tou: Ouji no Kikan",
+    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "tousouchuu-great-mission",
     "epId": "tousouchuu-great-mission-episode-73",
     "title": "Tousouchuu: Great Mission",
@@ -460,13 +481,6 @@
     "title": "Chibi Maruko-chan",
     "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
     "episode": "Episode 1448"
-  },
-  {
-    "id": "kami-no-tou-ouji-no-kikan",
-    "epId": "kami-no-tou-ouji-no-kikan-episode-12",
-    "title": "Kami no Tou: Ouji no Kikan",
-    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
-    "episode": "Episode 12"
   },
   {
     "id": "yugioh-go-rush",
@@ -2784,19 +2798,5 @@
     "title": "Jaku-Chara Tomozaki-kun 2nd Stage",
     "img": "https://gogocdn.net/cover/jaku-chara-tomozaki-kun-2nd-stage-1704186096.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "the-borgman-last-battle",
-    "epId": "the-borgman-last-battle-episode-1",
-    "title": "The Borgman: Last Battle",
-    "img": "https://gogocdn.net/cover/the-borgman-last-battle.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "chouon-senshi-borgman-lovers-rain",
-    "epId": "chouon-senshi-borgman-lovers-rain-episode-1",
-    "title": "Chouon Senshi Borgman: Lovers Rain",
-    "img": "https://gogocdn.net/cover/chouon-senshi-borgman-lovers-rain.png",
-    "episode": "Episode 1"
   }
 ]
