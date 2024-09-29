@@ -44,7 +44,7 @@
   {
     "id": "kitarou-tanjou-gegege-no-nazo",
     "title": "Kitarou Tanjou: Gegege no Nazo",
-    "img": "https://gogocdn.net/cover/kitarou-tanjou-gegege-no-nazo-1693988199.png",
+    "img": "https://gogocdn.net/cover/kitarou-tanjou-gegege-no-nazo-1727599278.png",
     "date": "2023"
   },
   {
@@ -7392,6 +7392,12 @@
     "date": "2016"
   },
   {
+    "id": "genma-taisen",
+    "title": "Genma Taisen",
+    "img": "https://gogocdn.net/cover/genma-taisen.png",
+    "date": "1983"
+  },
+  {
     "id": "the-laws-of-eternity-dub",
     "title": "The Laws of Eternity (Dub)",
     "img": "https://gogocdn.net/cover/the-laws-of-eternity-dub.png",
@@ -7426,6 +7432,12 @@
     "title": "Atlantis: The Lost Empire",
     "img": "https://gogocdn.net/cover/atlantis-the-lost-empire.png",
     "date": "2001"
+  },
+  {
+    "id": "dragon-quest-your-story-dub",
+    "title": "Dragon Quest: Your Story (Dub)",
+    "img": "https://gogocdn.net/cover/dragon-quest-your-story-dub.png",
+    "date": "2019"
   },
   {
     "id": "the-laws-of-the-sun-dub",
@@ -7534,6 +7546,12 @@
     "title": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen (Dub)",
     "img": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-movie-1-gurren-hen-dub.png",
     "date": "2008"
+  },
+  {
+    "id": "chuumon-no-ooi-ryouriten-1993",
+    "title": "Chuumon no Ooi Ryouriten (1993)",
+    "img": "https://gogocdn.net/cover/chuumon-no-ooi-ryouriten-1993.png",
+    "date": "1993"
   },
   {
     "id": "pokemon-pikachus-pikaboo-dub",
@@ -13420,23 +13438,5 @@
     "title": "Cyborg 009: Call of Justice 1 (Dub)",
     "img": "https://gogocdn.net/cover/cyborg-009-call-of-justice-1-dub.png",
     "date": "2016"
-  },
-  {
-    "id": "detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train",
-    "title": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
-    "img": "https://gogocdn.net/cover/detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train.png",
-    "date": "2023"
-  },
-  {
-    "id": "dragon-ball-z-movie-13-wrath-of-the-dragon-dub",
-    "title": "Dragon Ball Z Movie 13: Wrath of the Dragon (Dub)",
-    "img": "https://gogocdn.net/cover/dragon-ball-z-movie-13-wrath-of-the-dragon-dub.png",
-    "date": "1995"
-  },
-  {
-    "id": "project-a-ko-4-final-dub",
-    "title": "Project A-Ko 4: Final (Dub)",
-    "img": "https://gogocdn.net/cover/project-a-ko-4-final-dub.png",
-    "date": "1989"
   }
 ]

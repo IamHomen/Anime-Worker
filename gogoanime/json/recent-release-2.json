@@ -1,5 +1,40 @@
 [
   {
+    "id": "uzumaki-dub",
+    "epId": "uzumaki-dub-episode-1",
+    "title": "Uzumaki (Dub)",
+    "img": "https://gogocdn.net/cover/uzumaki-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub",
+    "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub-episode-10",
+    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Dub)",
+    "img": "https://gogocdn.net/cover/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi-dub",
+    "epId": "nige-jouzu-no-wakagimi-dub-episode-9",
+    "title": "Nige Jouzu no Wakagimi (Dub)",
+    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season-dub",
+    "epId": "boku-no-hero-academia-7th-season-dub-episode-17",
+    "title": "Boku no Hero Academia 7th Season (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
+    "episode": "Episode 17"
+  },
+  {
+    "id": "make-heroine-ga-oosugiru-dub",
+    "epId": "make-heroine-ga-oosugiru-dub-episode-10",
+    "title": "Make Heroine ga Oosugiru! (Dub)",
+    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru-dub.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-22",
     "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
@@ -193,34 +228,6 @@
     "epId": "tsue-to-tsurugi-no-wistoria-dub-episode-9",
     "title": "Tsue to Tsurugi no Wistoria (Dub)",
     "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria-dub.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "make-heroine-ga-oosugiru-dub",
-    "epId": "make-heroine-ga-oosugiru-dub-episode-9",
-    "title": "Make Heroine ga Oosugiru! (Dub)",
-    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru-dub.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season-dub",
-    "epId": "boku-no-hero-academia-7th-season-dub-episode-16",
-    "title": "Boku no Hero Academia 7th Season (Dub)",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
-    "episode": "Episode 16"
-  },
-  {
-    "id": "nige-jouzu-no-wakagimi-dub",
-    "epId": "nige-jouzu-no-wakagimi-dub-episode-8",
-    "title": "Nige Jouzu no Wakagimi (Dub)",
-    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub",
-    "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub-episode-9",
-    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Dub)",
-    "img": "https://gogocdn.net/cover/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub.png",
     "episode": "Episode 9"
   },
   {
@@ -1745,7 +1752,7 @@
   {
     "id": "onegaiteacher-dub",
     "epId": "onegaiteacher-dub-episode-13",
-    "title": "Onegai\u2606Teacher (Dub)",
+    "title": "Onegai\u014c\u015b\u00e5Teacher (Dub)",
     "img": "https://gogocdn.net/cover/onegaiteacher-dub.png",
     "episode": "Episode 13"
   },
@@ -2791,12 +2798,5 @@
     "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 (Dub)",
     "img": "https://gogocdn.net/cover/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "karakai-jouzu-no-takagi-san-movie-dub",
-    "epId": "karakai-jouzu-no-takagi-san-movie-dub-episode-1",
-    "title": "Karakai Jouzu no Takagi-san Movie (Dub)",
-    "img": "https://gogocdn.net/cover/karakai-jouzu-no-takagi-san-movie-dub.png",
-    "episode": "Episode 1"
   }
 ]

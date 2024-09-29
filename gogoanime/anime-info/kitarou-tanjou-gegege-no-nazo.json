@@ -2,14 +2,21 @@
   "animeTitle": "Kitarou Tanjou: Gegege no Nazo",
   "type": "Movie",
   "releasedDate": "2023",
-  "status": "Upcoming",
+  "status": "Completed",
   "genres": [
     "Comedy",
+    "Mythology",
+    "Shounen",
     "Supernatural"
   ],
   "otherNames": "\u9b3c\u592a\u90ce\u8a95\u751f \u30b2\u30b2\u30b2\u306e\u8b0e",
-  "synopsis": "",
-  "animeImg": "https://gogocdn.net/cover/kitarou-tanjou-gegege-no-nazo-1693988199.png",
-  "totalEpisodes": "0",
-  "episodesList": []
+  "synopsis": "A completely new feature-length animation commemorating the 100th anniversary of Shigeru Mizuki's birth. The story of Kitaro's father is revealed for the first time.",
+  "animeImg": "https://gogocdn.net/cover/kitarou-tanjou-gegege-no-nazo-1727599278.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "kitarou-tanjou-gegege-no-nazo-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

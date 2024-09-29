@@ -1,5 +1,33 @@
 [
   {
+    "id": "uzumaki",
+    "epId": "uzumaki-episode-1",
+    "title": "Uzumaki",
+    "img": "https://gogocdn.net/cover/uzumaki-1727380142.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log",
+    "epId": "one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log-episode-1",
+    "title": "One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!",
+    "img": "https://gogocdn.net/cover/one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "the-fable",
+    "epId": "the-fable-episode-25",
+    "title": "The Fable",
+    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
+    "episode": "Episode 25"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-35",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 35"
+  },
+  {
     "id": "make-heroine-ga-oosugiru",
     "epId": "make-heroine-ga-oosugiru-episode-12",
     "title": "Make Heroine ga Oosugiru!",
@@ -425,20 +453,6 @@
     "title": "Kankin Kuiki Level X",
     "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-34",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 34"
-  },
-  {
-    "id": "the-fable",
-    "epId": "the-fable-episode-24",
-    "title": "The Fable",
-    "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
-    "episode": "Episode 24"
   },
   {
     "id": "karasu-wa-aruji-wo-erabanai",
@@ -2784,19 +2798,5 @@
     "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
     "img": "https://gogocdn.net/cover/yokohama-meibutsu-otoko-katayama-gumi.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "shin-shounan-bakusouzoku-arakure-knight",
-    "epId": "shin-shounan-bakusouzoku-arakure-knight-episode-2",
-    "title": "Shin Shounan Bakusouzoku Arakure Knight",
-    "img": "https://gogocdn.net/cover/shin-shounan-bakusouzoku-arakure-knight.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "owarimonogatari",
-    "epId": "owarimonogatari-episode-13",
-    "title": "Owarimonogatari",
-    "img": "https://gogocdn.net/images/upload/177264.jpg",
-    "episode": "Episode 13"
   }
 ]
