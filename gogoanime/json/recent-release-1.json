@@ -1,5 +1,61 @@
 [
   {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-73",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 73"
+  },
+  {
+    "id": "tsue-to-tsurugi-no-wistoria",
+    "epId": "tsue-to-tsurugi-no-wistoria-episode-12",
+    "title": "Tsue to Tsurugi no Wistoria",
+    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "chuumon-no-ooi-ryouriten-1993",
+    "epId": "chuumon-no-ooi-ryouriten-1993-episode-1",
+    "title": "Chuumon no Ooi Ryouriten (1993)",
+    "img": "https://gogocdn.net/cover/chuumon-no-ooi-ryouriten-1993.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "fairy-tail-100-years-quest",
+    "epId": "fairy-tail-100-years-quest-episode-13",
+    "title": "Fairy Tail: 100 Years Quest",
+    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen",
+    "epId": "yozakura-san-chi-no-daisakusen-episode-26",
+    "title": "Yozakura-san Chi no Daisakusen",
+    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1725937756.png",
+    "episode": "Episode 26"
+  },
+  {
+    "id": "nakoruru-ano-hito-kara-no-okurimono",
+    "epId": "nakoruru-ano-hito-kara-no-okurimono-episode-1",
+    "title": "Nakoruru: Ano Hito kara no Okurimono",
+    "img": "https://gogocdn.net/cover/nakoruru-ano-hito-kara-no-okurimono.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kitarou-tanjou-gegege-no-nazo",
+    "epId": "kitarou-tanjou-gegege-no-nazo-episode-1",
+    "title": "Kitarou Tanjou: Gegege no Nazo",
+    "img": "https://gogocdn.net/cover/kitarou-tanjou-gegege-no-nazo-1727599278.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "genma-taisen",
+    "epId": "genma-taisen-episode-1",
+    "title": "Genma Taisen",
+    "img": "https://gogocdn.net/cover/genma-taisen.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "uzumaki",
     "epId": "uzumaki-episode-1",
     "title": "Uzumaki",
@@ -406,32 +462,11 @@
     "episode": "Episode 1448"
   },
   {
-    "id": "fairy-tail-100-years-quest",
-    "epId": "fairy-tail-100-years-quest-episode-12",
-    "title": "Fairy Tail: 100 Years Quest",
-    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "kami-no-tou-ouji-no-kikan",
     "epId": "kami-no-tou-ouji-no-kikan-episode-12",
     "title": "Kami no Tou: Ouji no Kikan",
     "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "tsue-to-tsurugi-no-wistoria",
-    "epId": "tsue-to-tsurugi-no-wistoria-episode-11",
-    "title": "Tsue to Tsurugi no Wistoria",
-    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "yozakura-san-chi-no-daisakusen",
-    "epId": "yozakura-san-chi-no-daisakusen-episode-25",
-    "title": "Yozakura-san Chi no Daisakusen",
-    "img": "https://gogocdn.net/cover/yozakura-san-chi-no-daisakusen-1725937756.png",
-    "episode": "Episode 25"
   },
   {
     "id": "yugioh-go-rush",
@@ -614,13 +649,6 @@
     "title": "Sanjougattai Transformers Go!",
     "img": "https://gogocdn.net/cover/sanjougattai-transformers-go.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-72",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 72"
   },
   {
     "id": "gokiburi-tachi-no-tasogare",
@@ -2770,33 +2798,5 @@
     "title": "Chouon Senshi Borgman: Lovers Rain",
     "img": "https://gogocdn.net/cover/chouon-senshi-borgman-lovers-rain.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "hajimete-no-futarikkiri-ryokou",
-    "epId": "hajimete-no-futarikkiri-ryokou-episode-1",
-    "title": "Hajimete no Futarikkiri Ryokou",
-    "img": "https://gogocdn.net/cover/hajimete-no-futarikkiri-ryokou.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "sousou-no-frieren-no-mahou",
-    "epId": "sousou-no-frieren-no-mahou-episode-12",
-    "title": "Sousou no Frieren: \u25cf\u25cf no Mahou",
-    "img": "https://gogocdn.net/cover/sousou-no-frieren-no-mahou.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
-    "epId": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-episode-12",
-    "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
-    "img": "https://gogocdn.net/cover/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-1704167871.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "yokohama-meibutsu-otoko-katayama-gumi",
-    "epId": "yokohama-meibutsu-otoko-katayama-gumi-episode-2",
-    "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
-    "img": "https://gogocdn.net/cover/yokohama-meibutsu-otoko-katayama-gumi.png",
-    "episode": "Episode 2"
   }
 ]

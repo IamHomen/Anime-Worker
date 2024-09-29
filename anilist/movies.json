@@ -112,18 +112,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 21875,
-    "title": "No Game No Life Zero",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21875-ybSgx75MgRMM.png",
-    "seasonYear": 2017,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 102976,
     "title": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-WcNjDFdQbdCv.png",
     "seasonYear": 2019,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 21875,
+    "title": "No Game No Life Zero",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21875-ybSgx75MgRMM.png",
+    "seasonYear": 2017,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
@@ -296,18 +296,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 20791,
-    "title": "Fate/stay night [Heaven's Feel] I. presage flower",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20791-6Ktwmvm5v2Wf.png",
-    "seasonYear": 2017,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 1943,
     "title": "Paprika",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1943-TBNhMVA9VwdI.png",
     "seasonYear": 2006,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 20791,
+    "title": "Fate/stay night [Heaven's Feel] I. presage flower",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20791-6Ktwmvm5v2Wf.png",
+    "seasonYear": 2017,
     "totalEpisode": 1,
     "format": "MOVIE"
   },

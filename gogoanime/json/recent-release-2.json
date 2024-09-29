@@ -1,5 +1,12 @@
 [
   {
+    "id": "dragon-quest-your-story-dub",
+    "epId": "dragon-quest-your-story-dub-episode-1",
+    "title": "Dragon Quest: Your Story (Dub)",
+    "img": "https://gogocdn.net/cover/dragon-quest-your-story-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "uzumaki-dub",
     "epId": "uzumaki-dub-episode-1",
     "title": "Uzumaki (Dub)",
@@ -1752,7 +1759,7 @@
   {
     "id": "onegaiteacher-dub",
     "epId": "onegaiteacher-dub-episode-13",
-    "title": "Onegai\u014c\u015b\u00e5Teacher (Dub)",
+    "title": "Onegai\u2606Teacher (Dub)",
     "img": "https://gogocdn.net/cover/onegaiteacher-dub.png",
     "episode": "Episode 13"
   },
@@ -2791,12 +2798,5 @@
     "title": "Star Wars: Visions Volumn 2 (Dub)",
     "img": "https://gogocdn.net/cover/star-wars-visions-volumn-2-dub.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2-dub",
-    "epId": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2-dub-episode-12",
-    "title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 (Dub)",
-    "img": "https://gogocdn.net/cover/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2-dub.png",
-    "episode": "Episode 12"
   }
 ]
