@@ -27,20 +27,6 @@
     ]
   },
   {
-    "animeId": "kami-no-tou-ouji-no-kikan",
-    "animeTitle": "Kami no Tou: Ouji no Kikan",
-    "animeImg": "'https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png'",
-    "latestEp": "Episode 13",
-    "animeUrl": "https://anitaku.so/category/kami-no-tou-ouji-no-kikan",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Mystery"
-    ]
-  },
-  {
     "animeId": "fairy-tail-100-years-quest",
     "animeTitle": "Fairy Tail: 100 Years Quest",
     "animeImg": "'https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png'",
@@ -134,6 +120,19 @@
       "Police",
       "Psychological",
       "Shounen"
+    ]
+  },
+  {
+    "animeId": "kusuriya-no-hitorigoto",
+    "animeTitle": "Kusuriya no Hitorigoto",
+    "animeImg": "'https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png'",
+    "latestEp": "Episode 24",
+    "animeUrl": "https://anitaku.so/category/kusuriya-no-hitorigoto",
+    "genres": [
+      "Drama",
+      "Historical",
+      "Medical",
+      "Mystery"
     ]
   }
 ]
