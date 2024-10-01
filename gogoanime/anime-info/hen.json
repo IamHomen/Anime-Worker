@@ -1,0 +1,24 @@
+{
+  "animeTitle": "Hen",
+  "type": "OVA",
+  "releasedDate": "1997",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "otherNames": "Strange Love, \u5909",
+  "synopsis": "Yoshida Chizuru is the sexiest co-ed in her class. Secretly, she's been appearing in TV commercials\u2014despite the fact that students are forbidden from working. But one of her professors has uncovered her secret and hopes to use this information to his advantage. Yoshida's got plans of her own, and has no intention of giving up her acting career...",
+  "animeImg": "https://gogocdn.net/cover/hen.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

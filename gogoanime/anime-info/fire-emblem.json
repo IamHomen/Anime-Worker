@@ -1,0 +1,25 @@
+{
+  "animeTitle": "Fire Emblem",
+  "type": "OVA",
+  "releasedDate": "1996",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "otherNames": "\u30d5\u30a1\u30a4\u30a2\u30fc\u30a8\u30e0\u30d6\u30ec\u30e0 \u7d0b\u7ae0\u306e\u8b0e",
+  "synopsis": "The Kingdoms of Dolhr, Grust, and Gra band together to wage war on the rest of the continent Archanea and defeat the Kingdom of Altea. King Cornelius is slain in battle but his son Prince Marth is able to escape the invasion thanks to the sacrifice of his older sister Elice. He and a small group of retainers find refuge on the island nation of Talys, where they spend the next three years in hiding under the royal family's protection.\r\n\r\nMarth lives a peaceful life in Talys, enjoying the beauty of the island and the friendship of its pegasus-riding princess, Caeda. But he is uneasy, knowing soon the day will come that he must take up arms. That day arrives when Caeda comes to Marth and his retainers in a panic, telling him that the castle town has been attacked. After some close calls, they manage to defeat the assailants and save the city.\r\n\r\nRealizing that his presence may bring further danger to his new home, Marth decides that now is the time to set off. He journeys to raise an army with which to reclaim his kingdom.",
+  "animeImg": "https://gogocdn.net/cover/fire-emblem.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "fire-emblem-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "fire-emblem-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

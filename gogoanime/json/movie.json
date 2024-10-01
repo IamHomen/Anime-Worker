@@ -7920,6 +7920,12 @@
     "date": "1993"
   },
   {
+    "id": "kuroi-ame-ni-utarete",
+    "title": "Kuroi Ame ni Utarete",
+    "img": "https://gogocdn.net/cover/kuroi-ame-ni-utarete.png",
+    "date": "1984"
+  },
+  {
     "id": "the-story-of-fifteen-boys-dub",
     "title": "The Story of Fifteen Boys (Dub)",
     "img": "https://gogocdn.net/cover/the-story-of-fifteen-boys-dub.png",
@@ -8062,6 +8068,12 @@
     "title": "Captain Bal",
     "img": "https://gogocdn.net/cover/captain-bal.png",
     "date": "2019"
+  },
+  {
+    "id": "konjiki-no-gash-bell-mecha-vulkan-no-raishuu-dub",
+    "title": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu (Dub)",
+    "img": "https://gogocdn.net/cover/konjiki-no-gash-bell-mecha-vulkan-no-raishuu-dub.png",
+    "date": "2005"
   },
   {
     "id": "this-boy-can-fight-aliens-dub",
@@ -11040,12 +11052,6 @@
     "date": "2020"
   },
   {
-    "id": "kyochuu-rettou-movie",
-    "title": "Kyochuu Rettou Movie",
-    "img": "https://gogocdn.net/cover/kyochuu-rettou-movie.png",
-    "date": "2020"
-  },
-  {
     "id": "ubasuteyama",
     "title": "Ubasuteyama",
     "img": "https://gogocdn.net/cover/ubasuteyama.png",
@@ -13432,11 +13438,5 @@
     "title": "Dragon Ball Z Movie 12: Fusion Reborn (Dub)",
     "img": "https://gogocdn.net/cover/dragon-ball-z-movie-12-fusion-reborn-dub.png",
     "date": "1995"
-  },
-  {
-    "id": "project-a-ko-3-cinderella-rhapsody-dub",
-    "title": "Project A-Ko 3: Cinderella Rhapsody (Dub)",
-    "img": "https://gogocdn.net/cover/project-a-ko-3-cinderella-rhapsody-dub.png",
-    "date": "1988"
   }
 ]

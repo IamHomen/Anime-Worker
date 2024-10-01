@@ -1,5 +1,89 @@
 [
   {
+    "id": "fire-emblem",
+    "epId": "fire-emblem-episode-2",
+    "title": "Fire Emblem",
+    "img": "https://gogocdn.net/cover/fire-emblem.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kuroi-ame-ni-utarete",
+    "epId": "kuroi-ame-ni-utarete-episode-1",
+    "title": "Kuroi Ame ni Utarete",
+    "img": "https://gogocdn.net/cover/kuroi-ame-ni-utarete.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shinkai-no-kantai-submarine-707",
+    "epId": "shinkai-no-kantai-submarine-707-episode-1",
+    "title": "Shinkai no Kantai: Submarine 707",
+    "img": "https://gogocdn.net/cover/shinkai-no-kantai-submarine-707.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kaze-no-matasaburou",
+    "epId": "kaze-no-matasaburou-episode-1",
+    "title": "Kaze no Matasaburou",
+    "img": "https://gogocdn.net/cover/kaze-no-matasaburou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "fushigi-no-kuni-no-miyuki-chan",
+    "epId": "fushigi-no-kuni-no-miyuki-chan-episode-1",
+    "title": "Fushigi no Kuni no Miyuki-chan",
+    "img": "https://gogocdn.net/cover/fushigi-no-kuni-no-miyuki-chan.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "mahoutsukai-tai-vs-shamanic-princess",
+    "epId": "mahoutsukai-tai-vs-shamanic-princess-episode-1",
+    "title": "Mahoutsukai Tai! vs. Shamanic Princess",
+    "img": "https://gogocdn.net/cover/mahoutsukai-tai-vs-shamanic-princess.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "vapor-trail",
+    "epId": "vapor-trail-episode-1",
+    "title": "Vapor Trail",
+    "img": "https://gogocdn.net/cover/vapor-trail.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "majokko-club-yoningumi-a-kuukan-kara-no-alien-x",
+    "epId": "majokko-club-yoningumi-a-kuukan-kara-no-alien-x-episode-1",
+    "title": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
+    "img": "https://gogocdn.net/cover/majokko-club-yoningumi-a-kuukan-kara-no-alien-x.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "gdleen",
+    "epId": "gdleen-episode-1",
+    "title": "Gdleen",
+    "img": "https://gogocdn.net/cover/gdleen.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-25",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 25"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-50",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 50"
+  },
+  {
+    "id": "kankin-kuiki-level-x",
+    "epId": "kankin-kuiki-level-x-episode-4",
+    "title": "Kankin Kuiki Level X",
+    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
     "epId": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episode-1",
     "title": "Saikyou no Shienshoku ",
@@ -301,13 +385,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-49",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 49"
-  },
-  {
     "id": "ranma-akumu-shunmin-kou",
     "epId": "ranma-akumu-shunmin-kou-episode-1",
     "title": "Ranma \u00bd: Akumu! Shunmin Kou",
@@ -327,13 +404,6 @@
     "title": "Sengoku Youko: Senma Konton-hen",
     "img": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
     "episode": "Episode 10.5"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-24",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 24"
   },
   {
     "id": "koi-wa-futago-de-warikirenai",
@@ -509,13 +579,6 @@
     "title": "One Piece",
     "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
     "episode": "Episode 1120"
-  },
-  {
-    "id": "kankin-kuiki-level-x",
-    "epId": "kankin-kuiki-level-x-episode-3",
-    "title": "Kankin Kuiki Level X",
-    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
-    "episode": "Episode 3"
   },
   {
     "id": "karasu-wa-aruji-wo-erabanai",
@@ -1327,6 +1390,13 @@
     "epId": "ariel-visual-episode-2",
     "title": "Ariel Visual",
     "img": "https://gogocdn.net/cover/ariel-visual.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "ariel-deluxe",
+    "epId": "ariel-deluxe-episode-2",
+    "title": "Ariel Deluxe",
+    "img": "https://gogocdn.net/cover/ariel-deluxe.png",
     "episode": "Episode 2"
   },
   {
@@ -2727,76 +2797,6 @@
     "epId": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-episode-12",
     "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
     "img": "https://gogocdn.net/cover/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-1704248035.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "meitantei-conan-vs-kaitou-kid",
-    "epId": "meitantei-conan-vs-kaitou-kid-episode-1",
-    "title": "Meitantei Conan vs. Kaitou Kid",
-    "img": "https://gogocdn.net/cover/meitantei-conan-vs-kaitou-kid.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "seigi-wo-aisuru-mono-gekkou-kamen",
-    "epId": "seigi-wo-aisuru-mono-gekkou-kamen-episode-3",
-    "title": "Seigi wo Aisuru Mono Gekkou Kamen",
-    "img": "https://gogocdn.net/cover/seigi-wo-aisuru-mono-gekkou-kamen.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "yuuki-bakuhatsu-bang-bravern",
-    "epId": "yuuki-bakuhatsu-bang-bravern-episode-12",
-    "title": "Yuuki Bakuhatsu Bang Bravern",
-    "img": "https://gogocdn.net/cover/yuuki-bakuhatsu-bang-bravern-1704252414.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "gekkan-mousou-kagaku",
-    "epId": "gekkan-mousou-kagaku-episode-12",
-    "title": "Gekkan Mousou Kagaku",
-    "img": "https://gogocdn.net/cover/gekkan-mousou-kagaku-1704169853.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "stitch-perfect-memory",
-    "epId": "stitch-perfect-memory-episode-2",
-    "title": "Stitch! Perfect Memory",
-    "img": "https://gogocdn.net/cover/stitch-perfect-memory.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "stitch-to-suna-no-wakusei",
-    "epId": "stitch-to-suna-no-wakusei-episode-2",
-    "title": "Stitch to Suna no Wakusei",
-    "img": "https://gogocdn.net/cover/stitch-to-suna-no-wakusei.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
-    "epId": "30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii-episode-12",
-    "title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
-    "img": "https://gogocdn.net/cover/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "mahou-shoujo-ni-akogarete",
-    "epId": "mahou-shoujo-ni-akogarete-episode-13",
-    "title": "Mahou Shoujo ni Akogarete",
-    "img": "https://gogocdn.net/cover/mahou-shoujo-ni-akogarete-1704187057.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
-    "epId": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-episode-13",
-    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-    "img": "https://gogocdn.net/cover/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-3rd-season-1704252258.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "gekai-elise",
-    "epId": "gekai-elise-episode-12",
-    "title": "Gekai Elise",
-    "img": "https://gogocdn.net/cover/gekai-elise-1708567768.png",
     "episode": "Episode 12"
   }
 ]

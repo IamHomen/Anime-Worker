@@ -1,5 +1,12 @@
 [
   {
+    "id": "natsume-yuujinchou-roku-dub",
+    "epId": "natsume-yuujinchou-roku-dub-episode-13",
+    "title": "Natsume Yuujinchou Roku (Dub)",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-roku-dub.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "shy-2nd-season-dub",
     "epId": "shy-2nd-season-dub-episode-11",
     "title": "Shy 2nd Season (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Kage no Jitsuryokusha ni Naritakute! (Dub)",
     "img": "https://gogocdn.net/cover/kage-no-jitsuryokusha-ni-naritakute-dub.png",
     "episode": "Episode 20"
-  },
-  {
-    "id": "star-wars-visions-volumn-2-dub",
-    "epId": "star-wars-visions-volumn-2-dub-episode-9",
-    "title": "Star Wars: Visions Volumn 2 (Dub)",
-    "img": "https://gogocdn.net/cover/star-wars-visions-volumn-2-dub.png",
-    "episode": "Episode 9"
   }
 ]
