@@ -1,5 +1,26 @@
 [
   {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-74",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 74"
+  },
+  {
+    "id": "hen",
+    "epId": "hen-episode-2",
+    "title": "Hen",
+    "img": "https://gogocdn.net/cover/hen.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "karasu-tengu-kabuto-ougon-no-me-no-kemono",
+    "epId": "karasu-tengu-kabuto-ougon-no-me-no-kemono-episode-1",
+    "title": "Karasu Tengu Kabuto: Ougon no Me no Kemono",
+    "img": "https://gogocdn.net/cover/karasu-tengu-kabuto-ougon-no-me-no-kemono.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "fire-emblem",
     "epId": "fire-emblem-episode-2",
     "title": "Fire Emblem",
@@ -124,13 +145,6 @@
     "title": "Kami no Tou: Ouji no Kikan",
     "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-73",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 73"
   },
   {
     "id": "tsue-to-tsurugi-no-wistoria",
@@ -1390,13 +1404,6 @@
     "epId": "ariel-visual-episode-2",
     "title": "Ariel Visual",
     "img": "https://gogocdn.net/cover/ariel-visual.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "ariel-deluxe",
-    "epId": "ariel-deluxe-episode-2",
-    "title": "Ariel Deluxe",
-    "img": "https://gogocdn.net/cover/ariel-deluxe.png",
     "episode": "Episode 2"
   },
   {
@@ -2791,12 +2798,5 @@
     "title": "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin",
     "img": "https://gogocdn.net/cover/chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-1704169353.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
-    "epId": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-episode-12",
-    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
-    "img": "https://gogocdn.net/cover/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-1704248035.png",
-    "episode": "Episode 12"
   }
 ]
