@@ -7764,6 +7764,12 @@
     "date": "2010"
   },
   {
+    "id": "vapor-trail",
+    "title": "Vapor Trail",
+    "img": "https://gogocdn.net/cover/vapor-trail.png",
+    "date": "2021"
+  },
+  {
     "id": "the-golden-laws-dub",
     "title": "The Golden Laws (Dub)",
     "img": "https://gogocdn.net/cover/the-golden-laws-dub.png",
@@ -11034,6 +11040,12 @@
     "date": "2020"
   },
   {
+    "id": "kyochuu-rettou-movie",
+    "title": "Kyochuu Rettou Movie",
+    "img": "https://gogocdn.net/cover/kyochuu-rettou-movie.png",
+    "date": "2020"
+  },
+  {
     "id": "ubasuteyama",
     "title": "Ubasuteyama",
     "img": "https://gogocdn.net/cover/ubasuteyama.png",
@@ -13426,17 +13438,5 @@
     "title": "Project A-Ko 3: Cinderella Rhapsody (Dub)",
     "img": "https://gogocdn.net/cover/project-a-ko-3-cinderella-rhapsody-dub.png",
     "date": "1988"
-  },
-  {
-    "id": "mobile-suit-gundam-wing-endless-waltz-1998",
-    "title": "Mobile Suit Gundam Wing: Endless Waltz (1998)",
-    "img": "https://gogocdn.net/cover/mobile-suit-gundam-wing-endless-waltz-1998.png",
-    "date": "1998"
-  },
-  {
-    "id": "cyborg-009-call-of-justice-1-dub",
-    "title": "Cyborg 009: Call of Justice 1 (Dub)",
-    "img": "https://gogocdn.net/cover/cyborg-009-call-of-justice-1-dub.png",
-    "date": "2016"
   }
 ]
