@@ -1,5 +1,19 @@
 [
   {
+    "id": "amagami-san-chi-no-enmusubi",
+    "epId": "amagami-san-chi-no-enmusubi-episode-1",
+    "title": "Amagami-san Chi no Enmusubi",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-1",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tousouchuu-great-mission",
     "epId": "tousouchuu-great-mission-episode-74",
     "title": "Tousouchuu: Great Mission",
@@ -2784,19 +2798,5 @@
     "title": "Mashle 2nd Season",
     "img": "https://gogocdn.net/cover/mashle-2nd-season-1708568890.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "detective-conan-kid-vs-komei-the-targeted-lips",
-    "epId": "detective-conan-kid-vs-komei-the-targeted-lips-episode-1",
-    "title": "Detective Conan - Kid vs. Komei - The Targeted Lips",
-    "img": "https://gogocdn.net/cover/detective-conan-kid-vs-komei-the-targeted-lips.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin",
-    "epId": "chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-episode-13",
-    "title": "Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin",
-    "img": "https://gogocdn.net/cover/chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin-1704169353.png",
-    "episode": "Episode 13"
   }
 ]
