@@ -11791,7 +11791,7 @@
   },
   {
     "id": "uchurei",
-    "title": "Uchurei",
+    "title": "Uchurei!",
     "img": "https://gogocdn.net/images/anime/U/flowerwheel.jpg",
     "date": "2009"
   },
@@ -45372,6 +45372,12 @@
     "date": "2024"
   },
   {
+    "id": "kennosuke-sama",
+    "title": "Kennosuke-sama",
+    "img": "https://gogocdn.net/cover/kennosuke-sama.png",
+    "date": "1990"
+  },
+  {
     "id": "onsen-yousei-hakone-chan",
     "title": "Onsen Yousei Hakone-chan",
     "img": "https://gogocdn.net/images/upload/74817.jpg",
@@ -45630,6 +45636,12 @@
     "date": "2024"
   },
   {
+    "id": "handsome-girl",
+    "title": "Handsome Girl",
+    "img": "https://gogocdn.net/cover/handsome-girl.png",
+    "date": "1992"
+  },
+  {
     "id": "kurayami-santa",
     "title": "Kurayami Santa",
     "img": "https://gogocdn.net/images/upload/74464.jpg",
@@ -45880,6 +45892,12 @@
     "title": "Anti-routine system Season 2",
     "img": "https://gogocdn.net/cover/anti-routine-system-season-2.png",
     "date": "2024"
+  },
+  {
+    "id": "battle-royal-high-school",
+    "title": "Battle Royal High School",
+    "img": "https://gogocdn.net/cover/battle-royal-high-school.png",
+    "date": "1987"
   },
   {
     "id": "osomatsu-san",
@@ -46134,6 +46152,12 @@
     "date": "2024"
   },
   {
+    "id": "izumo",
+    "title": "Izumo",
+    "img": "https://gogocdn.net/cover/izumo.png",
+    "date": "1991"
+  },
+  {
     "id": "owari-no-seraph-nagoya-kessen-hen",
     "title": "Owari no Seraph: Nagoya Kessen-hen",
     "img": "https://gogocdn.net/cover/owari-no-seraph-nagoya-kessen-hen.png",
@@ -46386,6 +46410,12 @@
     "date": "1991"
   },
   {
+    "id": "juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya",
+    "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
+    "img": "https://gogocdn.net/cover/juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya.png",
+    "date": "2014"
+  },
+  {
     "id": "carnival-phantasm-ex-season",
     "title": "Carnival Phantasm EX Season",
     "img": "https://gogocdn.net/cover/carnival-phantasm-ex-season.jpg",
@@ -46618,6 +46648,12 @@
     "title": "Emperor Son-in-Law",
     "img": "https://gogocdn.net/cover/emperor-son-in-law.png",
     "date": "2024"
+  },
+  {
+    "id": "love-position-halley-densetsu",
+    "title": "Love Position: Halley Densetsu",
+    "img": "https://gogocdn.net/cover/love-position-halley-densetsu.png",
+    "date": "1985"
   },
   {
     "id": "rakudai-kishi-no-cavalry",
@@ -46858,6 +46894,12 @@
     "title": "Wolf Guy",
     "img": "https://gogocdn.net/cover/wolf-guy.png",
     "date": "1992"
+  },
+  {
+    "id": "planetes-picture-drama",
+    "title": "Planetes Picture Drama",
+    "img": "https://gogocdn.net/cover/planetes-picture-drama.png",
+    "date": "2009"
   },
   {
     "id": "shoujo-tachi-wa-kouya-wo-mezasu-ova",
@@ -47104,6 +47146,12 @@
     "title": "City of Sanctuary",
     "img": "https://gogocdn.net/cover/city-of-sanctuary.png",
     "date": "2024"
+  },
+  {
+    "id": "tottoi",
+    "title": "Tottoi",
+    "img": "https://gogocdn.net/cover/tottoi.png",
+    "date": "1992"
   },
   {
     "id": "shin-atashin-chi",
@@ -80110,53 +80158,5 @@
     "title": "Mahou Shoujo Lyrical Nanoha: Detonation",
     "img": "https://gogocdn.net/cover/mahou-shoujo-lyrical-nanoha-detonation.png",
     "date": "2018"
-  },
-  {
-    "id": "mobile-suit-victory-gundam",
-    "title": "Mobile Suit Victory Gundam",
-    "img": "https://gogocdn.net/cover/mobile-suit-victory-gundam.png",
-    "date": "1993"
-  },
-  {
-    "id": "samurai-spirits-2-asura-zanmaden",
-    "title": "Samurai Spirits 2: Asura Zanmaden",
-    "img": "https://gogocdn.net/cover/samurai-spirits-2-asura-zanmaden.png",
-    "date": "1999"
-  },
-  {
-    "id": "mushikago-no-cagaster-dub",
-    "title": "Mushikago no Cagaster (Dub)",
-    "img": "https://gogocdn.net/cover/mushikago-no-cagaster-dub.png",
-    "date": "2020"
-  },
-  {
-    "id": "onikirimaru",
-    "title": "Onikirimaru",
-    "img": "https://gogocdn.net/cover/onikirimaru.png",
-    "date": "1995"
-  },
-  {
-    "id": "shuten-douji-dub",
-    "title": "Shuten Douji (Dub)",
-    "img": "https://gogocdn.net/cover/shuten-douji-dub.png",
-    "date": "1989"
-  },
-  {
-    "id": "hanada-shounen-shi",
-    "title": "Hanada Shounen-shi",
-    "img": "https://gogocdn.net/cover/hanada-shounen-shi.png",
-    "date": "2002"
-  },
-  {
-    "id": "shin-getter-robo-dub",
-    "title": "Shin Getter Robo (Dub)",
-    "img": "https://gogocdn.net/cover/shin-getter-robo-dub.png",
-    "date": "2004"
-  },
-  {
-    "id": "hetalia-worldstars",
-    "title": "Hetalia World\u2605Stars",
-    "img": "https://gogocdn.net/cover/hetalia-worldstars.png",
-    "date": "2021"
   }
 ]

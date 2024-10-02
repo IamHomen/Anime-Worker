@@ -1,17 +1,52 @@
 [
   {
+    "id": "kennosuke-sama",
+    "epId": "kennosuke-sama-episode-1",
+    "title": "Kennosuke-sama",
+    "img": "https://gogocdn.net/cover/kennosuke-sama.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kamierabi-2nd-season",
+    "epId": "kamierabi-2nd-season-episode-1",
+    "title": "Kamierabi 2nd Season",
+    "img": "https://gogocdn.net/cover/kamierabi-2nd-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal",
+    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-episode-1",
+    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-25",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 25"
+  },
+  {
+    "id": "acro-trip",
+    "epId": "acro-trip-episode-2",
+    "title": "Acro Trip",
+    "img": "https://gogocdn.net/cover/acro-trip-1727372179.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-1",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "murai-no-koi",
     "epId": "murai-no-koi-episode-5",
     "title": "Murai no Koi",
     "img": "https://gogocdn.net/cover/murai-no-koi-1725457733.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-24",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 24"
   },
   {
     "id": "gakuen-tokusou-hikaruon",
@@ -95,6 +130,13 @@
     "epId": "kaze-no-matasaburou-episode-1",
     "title": "Kaze no Matasaburou",
     "img": "https://gogocdn.net/cover/kaze-no-matasaburou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "fushigi-no-kuni-no-miyuki-chan",
+    "epId": "fushigi-no-kuni-no-miyuki-chan-episode-1",
+    "title": "Fushigi no Kuni no Miyuki-chan",
+    "img": "https://gogocdn.net/cover/fushigi-no-kuni-no-miyuki-chan.png",
     "episode": "Episode 1"
   },
   {
@@ -238,13 +280,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "genma-taisen",
-    "epId": "genma-taisen-episode-1",
-    "title": "Genma Taisen",
-    "img": "https://gogocdn.net/cover/genma-taisen.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "uzumaki",
     "epId": "uzumaki-episode-1",
     "title": "Uzumaki",
@@ -376,6 +411,13 @@
     "title": "Grendizer U",
     "img": "https://gogocdn.net/cover/grendizer-u.png",
     "episode": "Episode 13"
+  },
+  {
+    "id": "nierautomata-ver1-1a-part-2",
+    "epId": "nierautomata-ver1-1a-part-2-episode-12",
+    "title": "NieR:Automata Ver1.1a Part 2",
+    "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2.png",
+    "episode": "Episode 12"
   },
   {
     "id": "nierautomata-ver1-1a-part-2",
@@ -798,13 +840,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "f",
-    "epId": "f-episode-31",
-    "title": "F",
-    "img": "https://gogocdn.net/cover/f.png",
-    "episode": "Episode 31"
-  },
-  {
     "id": "dead-heat",
     "epId": "dead-heat-episode-1",
     "title": "Dead Heat",
@@ -936,6 +971,13 @@
     "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
     "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "hidamari-no-ki",
+    "epId": "hidamari-no-ki-episode-25",
+    "title": " Hidamari no Ki",
+    "img": "https://gogocdn.net/cover/hidamari-no-ki.png",
+    "episode": "Episode 25"
   },
   {
     "id": "hidamari-no-ki",
@@ -1218,13 +1260,6 @@
     "episode": "Episode 24"
   },
   {
-    "id": "patalliro",
-    "epId": "patalliro-episode-49",
-    "title": "Patalliro",
-    "img": "https://gogocdn.net/cover/patalliro.png",
-    "episode": "Episode 49"
-  },
-  {
     "id": "kengan-ashura-season-2-part-2",
     "epId": "kengan-ashura-season-2-part-2-episode-16",
     "title": "Kengan Ashura Season 2 Part 2",
@@ -1356,6 +1391,13 @@
     "title": "Youkai Ningen Bem",
     "img": "https://gogocdn.net/cover/youkai-ningen-bem.png",
     "episode": "Episode 26"
+  },
+  {
+    "id": "detective-conan-remastered",
+    "epId": "detective-conan-remastered-episode-490",
+    "title": "Detective Conan Remastered",
+    "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
+    "episode": "Episode 490"
   },
   {
     "id": "detective-conan-remastered",
@@ -2756,47 +2798,5 @@
     "title": "Kingdom 5th Season (Chinese Name)",
     "img": "https://gogocdn.net/cover/kingdom-5th-season-chinese-name.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi",
-    "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-episode-24",
-    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-    "img": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-1708395198.png",
-    "episode": "Episode 24"
-  },
-  {
-    "id": "kingdom-5th-season",
-    "epId": "kingdom-5th-season-episode-13",
-    "title": "Kingdom 5th Season",
-    "img": "https://gogocdn.net/cover/kingdom-5th-season-1704186249.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-    "epId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-episode-25",
-    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-    "img": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-1698288586.png",
-    "episode": "Episode 25"
-  },
-  {
-    "id": "ochibi-san",
-    "epId": "ochibi-san-episode-24",
-    "title": "Ochibi-san",
-    "img": "https://gogocdn.net/cover/ochibi-san.png",
-    "episode": "Episode 24"
-  },
-  {
-    "id": "boku-no-kokoro-no-yabai-yatsu-season-2",
-    "epId": "boku-no-kokoro-no-yabai-yatsu-season-2-episode-13",
-    "title": "Boku no Kokoro no Yabai Yatsu Season 2",
-    "img": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-season-2-1704168450.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "ore-dake-level-up-na-ken",
-    "epId": "ore-dake-level-up-na-ken-episode-12",
-    "title": "Ore dake Level Up na Ken",
-    "img": "https://gogocdn.net/cover/ore-dake-level-up-na-ken-1708917521.png",
-    "episode": "Episode 12"
   }
 ]

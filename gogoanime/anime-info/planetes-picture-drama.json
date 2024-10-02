@@ -1,0 +1,54 @@
+{
+  "animeTitle": "Planetes Picture Drama",
+  "type": "Special",
+  "releasedDate": "2009",
+  "status": "Completed",
+  "genres": [
+    "Adult Cast",
+    "Comedy",
+    "Sci-Fi",
+    "Space"
+  ],
+  "otherNames": "\u30d7\u30e9\u30cd\u30c6\u30b9 \u30aa\u30fc\u30c7\u30a3\u30aa\u30c9\u30e9\u30de",
+  "synopsis": "Planetes picture drama.",
+  "animeImg": "https://gogocdn.net/cover/planetes-picture-drama.png",
+  "totalEpisodes": "9",
+  "episodesList": [
+    {
+      "episodeId": "planetes-picture-drama-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-7",
+      "episodeNum": "Episode 7"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "planetes-picture-drama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

@@ -1,5 +1,20 @@
 [
   {
+    "animeId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "animeImg": "'https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Isekai",
+      "Psychological",
+      "Suspense",
+      "Time Travel"
+    ]
+  },
+  {
     "animeId": "isekai-shikkaku",
     "animeTitle": "Isekai Shikkaku",
     "animeImg": "'https://gogocdn.net/cover/isekai-shikkaku-1726022121.png'",
@@ -120,19 +135,6 @@
       "Police",
       "Psychological",
       "Shounen"
-    ]
-  },
-  {
-    "animeId": "kusuriya-no-hitorigoto",
-    "animeTitle": "Kusuriya no Hitorigoto",
-    "animeImg": "'https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png'",
-    "latestEp": "Episode 24",
-    "animeUrl": "https://anitaku.so/category/kusuriya-no-hitorigoto",
-    "genres": [
-      "Drama",
-      "Historical",
-      "Medical",
-      "Mystery"
     ]
   }
 ]
