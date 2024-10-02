@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-12",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "amagami-san-chi-no-enmusubi",
     "epId": "amagami-san-chi-no-enmusubi-episode-1",
     "title": "Amagami-san Chi no Enmusubi",
@@ -488,13 +495,6 @@
     "title": "De:vadasy",
     "img": "https://gogocdn.net/cover/devadasy.png",
     "episode": "Episode 1.3"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-11",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 11"
   },
   {
     "id": "egumi-legacy",
