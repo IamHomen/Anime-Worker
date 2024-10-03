@@ -11,6 +11,11 @@
   "otherNames": "Kinokoinu, \u304d\u306e\u3053\u3044\u306c",
   "synopsis": "A depressed author. A concerned editor. An eccentric mushroom researcher. And a strange pink mushroom... that turns into a dog?! Put this all together and you get Mushroom Pup.\r\n\r\nMushroom Pup tells a heart-warming tale of the power of friendship, a dog's love, and the dangers of dwelling on regrets. With the help of his friends and the mysterious Mushroom Pup, Hotaru Yuyami, a grieving picture book author, slowly begins to move forward after the tragic loss of his beloved dog, Hanako. Full of laughs and warm moments, Mushroom Pup is sure to find a place in your heart.",
   "animeImg": "https://gogocdn.net/cover/kinoko-inu.png",
-  "totalEpisodes": "0",
-  "episodesList": []
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "kinoko-inu-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }
