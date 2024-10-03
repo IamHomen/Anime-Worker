@@ -1,5 +1,18 @@
 [
   {
+    "animeId": "dandadan",
+    "animeTitle": "Dandadan",
+    "animeImg": "'https://gogocdn.net/cover/dandadan.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/dandadan",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Shounen",
+      "Supernatural"
+    ]
+  },
+  {
     "animeId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
     "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "animeImg": "'https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.png'",
@@ -12,6 +25,32 @@
       "Psychological",
       "Suspense",
       "Time Travel"
+    ]
+  },
+  {
+    "animeId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+    "animeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+    "animeImg": "'https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "animeId": "ao-no-hako",
+    "animeTitle": "Ao no Hako",
+    "animeImg": "'https://gogocdn.net/cover/ao-no-hako.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/ao-no-hako",
+    "genres": [
+      "Romance",
+      "School",
+      "Shounen",
+      "Sports",
+      "Team Sports"
     ]
   },
   {
@@ -92,49 +131,6 @@
       "Romance",
       "School",
       "Yuri"
-    ]
-  },
-  {
-    "animeId": "boku-no-hero-academia-7th-season",
-    "animeTitle": "Boku no Hero Academia 7th Season",
-    "animeImg": "'https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png'",
-    "latestEp": "Episode 19",
-    "animeUrl": "https://anitaku.so/category/boku-no-hero-academia-7th-season",
-    "genres": [
-      "Action",
-      "School",
-      "Shounen",
-      "Super Power"
-    ]
-  },
-  {
-    "animeId": "one-piece",
-    "animeTitle": "One Piece",
-    "animeImg": "'https://gogocdn.net/cover/one-piece-1708412053.png'",
-    "latestEp": "Episode 1120",
-    "animeUrl": "https://anitaku.so/category/one-piece",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Shounen",
-      "Super Power"
-    ]
-  },
-  {
-    "animeId": "detective-conan",
-    "animeTitle": "Detective Conan",
-    "animeImg": "'https://gogocdn.net/cover/detective-conan.png'",
-    "latestEp": "Episode 1136",
-    "animeUrl": "https://anitaku.so/category/detective-conan",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Mystery",
-      "Police",
-      "Psychological",
-      "Shounen"
     ]
   }
 ]

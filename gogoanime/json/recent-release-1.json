@@ -1,5 +1,110 @@
 [
   {
+    "id": "trillion-game",
+    "epId": "trillion-game-episode-2",
+    "title": "Trillion Game",
+    "img": "https://gogocdn.net/cover/trillion-game-1727380017.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-112",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 112"
+  },
+  {
+    "id": "sayounara-ryuusei-konnichiwa-jinsei",
+    "epId": "sayounara-ryuusei-konnichiwa-jinsei-episode-1",
+    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "img": "https://gogocdn.net/cover/sayounara-ryuusei-konnichiwa-jinsei.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored",
+    "epId": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored-episode-12",
+    "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai (Uncensored)",
+    "img": "https://gogocdn.net/cover/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "mecha-ude-tv",
+    "epId": "mecha-ude-tv-episode-1",
+    "title": "Mecha-ude (TV)",
+    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "uji-ni-wa-monogatari-ga-aru",
+    "epId": "uji-ni-wa-monogatari-ga-aru-episode-1",
+    "title": "Uji ni wa Monogatari ga Aru",
+    "img": "https://gogocdn.net/cover/uji-ni-wa-monogatari-ga-aru.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ryokunohara-labyrinth-sparkling-phantom",
+    "epId": "ryokunohara-labyrinth-sparkling-phantom-episode-1",
+    "title": "Ryokunohara Labyrinth: Sparkling Phantom",
+    "img": "https://gogocdn.net/cover/ryokunohara-labyrinth-sparkling-phantom.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "dandadan",
+    "epId": "dandadan-episode-1",
+    "title": "Dandadan",
+    "img": "https://gogocdn.net/cover/dandadan.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ao-no-hako",
+    "epId": "ao-no-hako-episode-1",
+    "title": "Ao no Hako",
+    "img": "https://gogocdn.net/cover/ao-no-hako.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kekkon-suru-tte-hontou-desu-ka",
+    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-1",
+    "title": "Kekkon suru tte, Hontou desu ka",
+    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hitoribocchi-no-isekai-kouryaku",
+    "epId": "hitoribocchi-no-isekai-kouryaku-episode-2",
+    "title": "Hitoribocchi no Isekai Kouryaku",
+    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "negaposi-angler",
+    "epId": "negaposi-angler-episode-1",
+    "title": "NegaPosi Angler",
+    "img": "https://gogocdn.net/cover/negaposi-angler.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kinoko-inu",
+    "epId": "kinoko-inu-episode-1",
+    "title": "Kinoko Inu",
+    "img": "https://gogocdn.net/cover/kinoko-inu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+    "epId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen-episode-1",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-127",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 127"
+  },
+  {
     "id": "tottoi",
     "epId": "tottoi-episode-1",
     "title": "Tottoi",
@@ -511,25 +616,11 @@
     "episode": "Episode 12"
   },
   {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-111",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 111"
-  },
-  {
     "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
     "epId": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-12",
     "title": "Hazurewaku no ",
     "img": "https://gogocdn.net/cover/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "hitoribocchi-no-isekai-kouryaku",
-    "epId": "hitoribocchi-no-isekai-kouryaku-episode-1",
-    "title": "Hitoribocchi no Isekai Kouryaku",
-    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
-    "episode": "Episode 1"
   },
   {
     "id": "ultraman-graffiti",
@@ -705,13 +796,6 @@
     "title": "Chibi Maruko-chan",
     "img": "https://gogocdn.net/cover/chibi-maruko-chan.png",
     "episode": "Episode 1448"
-  },
-  {
-    "id": "yugioh-go-rush",
-    "epId": "yugioh-go-rush-episode-126",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 126"
   },
   {
     "id": "one-piece",
@@ -2714,89 +2798,5 @@
     "title": "Atashin'chi",
     "img": "https://gogocdn.net/cover/atashinchi.png",
     "episode": "Episode 368"
-  },
-  {
-    "id": "junk-boy",
-    "epId": "junk-boy-episode-1",
-    "title": "Junk Boy",
-    "img": "https://gogocdn.net/cover/junk-boy.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "minami-no-niji-no-lucy",
-    "epId": "minami-no-niji-no-lucy-episode-50",
-    "title": "Minami no Niji no Lucy",
-    "img": "https://gogocdn.net/cover/minami-no-niji-no-lucy.png",
-    "episode": "Episode 50"
-  },
-  {
-    "id": "bakugan-battle-brawlers-new-vestroia",
-    "epId": "bakugan-battle-brawlers-new-vestroia-episode-52",
-    "title": "Bakugan Battle Brawlers: New Vestroia",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-new-vestroia.png",
-    "episode": "Episode 52"
-  },
-  {
-    "id": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol",
-    "epId": "one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol-episode-1",
-    "title": "One Piece: Log of Rivalry! The Straw Hats and Cipher Pol",
-    "img": "https://gogocdn.net/cover/one-piece-log-of-rivalry-the-straw-hats-and-cipher-pol.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kurayukaba",
-    "epId": "kurayukaba-episode-1",
-    "title": "Kurayukaba",
-    "img": "https://gogocdn.net/cover/kurayukaba.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kuramerukagari",
-    "epId": "kuramerukagari-episode-1",
-    "title": "Kuramerukagari",
-    "img": "https://gogocdn.net/cover/kuramerukagari.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "geats-extra-geats-anime-another-grand-prix",
-    "epId": "geats-extra-geats-anime-another-grand-prix-episode-8",
-    "title": "Geats Extra: Geats Anime - Another Grand Prix",
-    "img": "https://gogocdn.net/cover/geats-extra-geats-anime-another-grand-prix.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "oomuro-ke-dear-sisters",
-    "epId": "oomuro-ke-dear-sisters-episode-1",
-    "title": "Oomuro-ke: Dear Sisters",
-    "img": "https://gogocdn.net/cover/oomuro-ke-dear-sisters.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "gekai-elise-mini-drama",
-    "epId": "gekai-elise-mini-drama-episode-12",
-    "title": "Gekai Elise - Mini Drama",
-    "img": "https://gogocdn.net/cover/gekai-elise-mini-drama.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "shaman-king-flowers",
-    "epId": "shaman-king-flowers-episode-13",
-    "title": "Shaman King: Flowers",
-    "img": "https://gogocdn.net/cover/shaman-king-flowers-1704249868.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "sf-saiyuuki-starzinger",
-    "epId": "sf-saiyuuki-starzinger-episode-72",
-    "title": "SF Saiyuuki Starzinger",
-    "img": "https://gogocdn.net/cover/sf-saiyuuki-starzinger.png",
-    "episode": "Episode 72"
-  },
-  {
-    "id": "yami-shibai-12",
-    "epId": "yami-shibai-12-episode-13",
-    "title": "Yami Shibai 12",
-    "img": "https://gogocdn.net/cover/yami-shibai-12.png",
-    "episode": "Episode 13"
   }
 ]
