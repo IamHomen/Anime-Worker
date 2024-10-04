@@ -1,5 +1,33 @@
 [
   {
+    "id": "yamakoshi-mura-no-mari-to-sanbiki-no-koinu-dub",
+    "epId": "yamakoshi-mura-no-mari-to-sanbiki-no-koinu-dub-episode-1",
+    "title": "Yamakoshi Mura no Mari to Sanbiki no Koinu (Dub)",
+    "img": "https://gogocdn.net/cover/yamakoshi-mura-no-mari-to-sanbiki-no-koinu-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "sango-no-umi-to-ouji-dub",
+    "epId": "sango-no-umi-to-ouji-dub-episode-1",
+    "title": "Sango no Umi to Ouji (Dub)",
+    "img": "https://gogocdn.net/cover/sango-no-umi-to-ouji-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub",
+    "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub-episode-12",
+    "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. (Dub)",
+    "img": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season-dub",
+    "epId": "oshi-no-ko-2nd-season-dub-episode-4",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season-dub.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "rick-and-morty-the-anime-dub",
     "epId": "rick-and-morty-the-anime-dub-episode-8",
     "title": "Rick and Morty: The Anime (Dub)",
@@ -229,20 +257,6 @@
     "title": "Kono Sekai wa Fukanzen Sugiru (Dub)",
     "img": "https://gogocdn.net/cover/kono-sekai-wa-fukanzen-sugiru-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub",
-    "epId": "sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub-episode-11",
-    "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. (Dub)",
-    "img": "https://gogocdn.net/cover/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-dub.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season-dub",
-    "epId": "oshi-no-ko-2nd-season-dub-episode-3",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season-dub.png",
-    "episode": "Episode 3"
   },
   {
     "id": "konjiki-no-gash-bell-dub",
@@ -2783,20 +2797,6 @@
     "epId": "magikano-dub-episode-13",
     "title": "Magikano (Dub)",
     "img": "https://gogocdn.net/cover/magikano-dub.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "yakitori-dub",
-    "epId": "yakitori-dub-episode-6",
-    "title": "Yakitori (Dub)",
-    "img": "https://gogocdn.net/cover/yakitori-dub.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "mahou-shoujo-lyrical-nanoha-dub",
-    "epId": "mahou-shoujo-lyrical-nanoha-dub-episode-13",
-    "title": "Mahou Shoujo Lyrical Nanoha (Dub)",
-    "img": "https://gogocdn.net/cover/mahou-shoujo-lyrical-nanoha-dub.png",
     "episode": "Episode 13"
   }
 ]
