@@ -1,5 +1,19 @@
 [
   {
+    "id": "ninjala",
+    "epId": "ninjala-episode-137",
+    "title": "Ninjala",
+    "img": "https://gogocdn.net/cover/ninjala.png",
+    "episode": "Episode 137"
+  },
+  {
+    "id": "rick-and-morty-the-anime",
+    "epId": "rick-and-morty-the-anime-episode-8",
+    "title": "Rick and Morty: The Anime",
+    "img": "https://gogocdn.net/cover/rick-and-morty-the-anime.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "the-animatrix",
     "epId": "the-animatrix-episode-9",
     "title": "The Animatrix",
@@ -623,13 +637,6 @@
     "episode": "Episode 13"
   },
   {
-    "id": "rick-and-morty-the-anime",
-    "epId": "rick-and-morty-the-anime-episode-7",
-    "title": "Rick and Morty: The Anime",
-    "img": "https://gogocdn.net/cover/rick-and-morty-the-anime.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "senpai-wa-otokonoko",
     "epId": "senpai-wa-otokonoko-episode-12",
     "title": "Senpai wa Otokonoko",
@@ -775,13 +782,6 @@
     "title": "Mayonaka Punch",
     "img": "https://gogocdn.net/cover/mayonaka-punch.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "ninjala",
-    "epId": "ninjala-episode-135",
-    "title": "Ninjala",
-    "img": "https://gogocdn.net/cover/ninjala.png",
-    "episode": "Episode 135"
   },
   {
     "id": "shinkalion-change-the-world",
