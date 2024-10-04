@@ -1,5 +1,26 @@
 [
   {
+    "id": "the-animatrix",
+    "epId": "the-animatrix-episode-9",
+    "title": "The Animatrix",
+    "img": "https://gogocdn.net/images/anime/T/The-Animatrix.jpg",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "tengen-toppa-gurren-lagann-mitee-mono-wa-miteen-da",
+    "epId": "tengen-toppa-gurren-lagann-mitee-mono-wa-miteen-da-episode-1",
+    "title": "Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!",
+    "img": "https://gogocdn.net/cover/tengen-toppa-gurren-lagann-mitee-mono-wa-miteen-da.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
+    "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-1",
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+    "img": "https://gogocdn.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "trillion-game",
     "epId": "trillion-game-episode-2",
     "title": "Trillion Game",
@@ -2777,26 +2798,5 @@
     "title": "Cardfight!! Vanguard: Divinez",
     "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "grimm-kumikyoku",
-    "epId": "grimm-kumikyoku-episode-6",
-    "title": "Grimm Kumikyoku",
-    "img": "https://gogocdn.net/cover/grimm-kumikyoku.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "iwa-kakeru-sport-climbing-girls",
-    "epId": "iwa-kakeru-sport-climbing-girls-episode-2",
-    "title": "Iwa Kakeru!: Sport Climbing Girls",
-    "img": "https://gogocdn.net/cover/iwa-kakeru-sport-climbing-girls.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "atashinchi",
-    "epId": "atashinchi-episode-368",
-    "title": "Atashin'chi",
-    "img": "https://gogocdn.net/cover/atashinchi.png",
-    "episode": "Episode 368"
   }
 ]
