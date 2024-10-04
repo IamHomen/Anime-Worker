@@ -9096,6 +9096,12 @@
     "date": "2017"
   },
   {
+    "id": "sushi",
+    "title": "Sushi",
+    "img": "https://gogocdn.net/cover/sushi.png",
+    "date": "2011"
+  },
+  {
     "id": "city-hunter-357-magnum-dub",
     "title": "City Hunter: .357 Magnum (Dub)",
     "img": "https://gogocdn.net/cover/city-hunter-357-magnum-dub.png",
@@ -13432,11 +13438,5 @@
     "title": "City Hunter: Ai to Shukumei no Magnum",
     "img": "https://gogocdn.net/cover/city-hunter-ai-to-shukumei-no-magnum.png",
     "date": "1989"
-  },
-  {
-    "id": "cyborg-009-call-of-justice-3",
-    "title": "Cyborg 009: Call of Justice 3",
-    "img": "https://gogocdn.net/cover/cyborg-009-call-of-justice-3.png",
-    "date": "2016"
   }
 ]
