@@ -1,5 +1,12 @@
 [
   {
+    "id": "ranma-2024-dub",
+    "epId": "ranma-2024-dub-episode-1",
+    "title": "Ranma \u00bd (2024) (Dub)",
+    "img": "https://gogocdn.net/cover/ranma-2024-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
     "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-23",
     "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Hokuto no Ken (Dub)",
     "img": "https://gogocdn.net/cover/hokuto-no-ken-dub.png",
     "episode": "Episode 36"
-  },
-  {
-    "id": "magikano-dub",
-    "epId": "magikano-dub-episode-13",
-    "title": "Magikano (Dub)",
-    "img": "https://gogocdn.net/cover/magikano-dub.png",
-    "episode": "Episode 13"
   }
 ]

@@ -1,5 +1,89 @@
 [
   {
+    "id": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+    "epId": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episode-1",
+    "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+    "img": "https://gogocdn.net/cover/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ranma-2024",
+    "epId": "ranma-2024-episode-1",
+    "title": "Ranma \u00bd (2024)",
+    "img": "https://gogocdn.net/cover/ranma-2024.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ao-no-exorcist-yuki-no-hate-hen",
+    "epId": "ao-no-exorcist-yuki-no-hate-hen-episode-1",
+    "title": "Ao no Exorcist: Yuki no Hate-hen",
+    "img": "https://gogocdn.net/cover/ao-no-exorcist-yuki-no-hate-hen.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "atri-my-dear-moments",
+    "epId": "atri-my-dear-moments-episode-13",
+    "title": "Atri: My Dear Moments",
+    "img": "https://gogocdn.net/cover/atri-my-dear-moments-1719512812.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "chi-chikyuu-no-undou-ni-tsuite",
+    "epId": "chi-chikyuu-no-undou-ni-tsuite-episode-2",
+    "title": "Chi.: Chikyuu no Undou ni Tsuite",
+    "img": "https://gogocdn.net/cover/chi-chikyuu-no-undou-ni-tsuite.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "blue-lock-vs-u-20-japan",
+    "epId": "blue-lock-vs-u-20-japan-episode-1",
+    "title": "Blue Lock vs. U-20 Japan",
+    "img": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bleach-sennen-kessen-hen-soukoku-tan",
+    "epId": "bleach-sennen-kessen-hen-soukoku-tan-episode-1",
+    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+    "img": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-soukoku-tan.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai",
+    "epId": "elf-san-wa-yaserarenai-episode-13",
+    "title": "Elf-san wa Yaserarenai.",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "monogatari-series-off-monster-season",
+    "epId": "monogatari-series-off-monster-season-episode-12",
+    "title": "Monogatari Series: Off & Monster Season",
+    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "atashinchi-next",
+    "epId": "atashinchi-next-episode-5",
+    "title": "Atashin'chi NEXT",
+    "img": "https://gogocdn.net/cover/atashinchi-next.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "maou-sama-retry-r",
+    "epId": "maou-sama-retry-r-episode-2",
+    "title": "Maou-sama, Retry! R",
+    "img": "https://gogocdn.net/cover/maou-sama-retry-r.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1137",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1137"
+  },
+  {
     "id": "boku-no-hero-academia-7th-season",
     "epId": "boku-no-hero-academia-7th-season-episode-20",
     "title": "Boku no Hero Academia 7th Season",
@@ -749,13 +833,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "atri-my-dear-moments",
-    "epId": "atri-my-dear-moments-episode-12",
-    "title": "Atri: My Dear Moments",
-    "img": "https://gogocdn.net/cover/atri-my-dear-moments-1719512812.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "nige-jouzu-no-wakagimi",
     "epId": "nige-jouzu-no-wakagimi-episode-12",
     "title": "Nige Jouzu no Wakagimi",
@@ -775,27 +852,6 @@
     "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
     "img": "https://gogocdn.net/cover/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-1719516524.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "monogatari-series-off-monster-season",
-    "epId": "monogatari-series-off-monster-season-episode-11",
-    "title": "Monogatari Series: Off & Monster Season",
-    "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "maou-sama-retry-r",
-    "epId": "maou-sama-retry-r-episode-1",
-    "title": "Maou-sama, Retry! R",
-    "img": "https://gogocdn.net/cover/maou-sama-retry-r.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1136",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1136"
   },
   {
     "id": "shadowverse-flame-arc-hen",
@@ -1054,13 +1110,6 @@
     "epId": "elf-san-wa-yaserarenai-uncensored-episode-12",
     "title": "Elf-san wa Yaserarenai. (Uncensored)",
     "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "elf-san-wa-yaserarenai",
-    "epId": "elf-san-wa-yaserarenai-episode-12",
-    "title": "Elf-san wa Yaserarenai.",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai.png",
     "episode": "Episode 12"
   },
   {
@@ -1412,13 +1461,6 @@
     "title": "Gokuu no Daibouken",
     "img": "https://gogocdn.net/cover/gokuu-no-daibouken.png",
     "episode": "Episode 16"
-  },
-  {
-    "id": "atashinchi-next",
-    "epId": "atashinchi-next-episode-4",
-    "title": "Atashin'chi NEXT",
-    "img": "https://gogocdn.net/cover/atashinchi-next.png",
-    "episode": "Episode 4"
   },
   {
     "id": "i-cinnamoroll-animation",
@@ -2756,47 +2798,5 @@
     "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
     "img": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "ray-the-animation",
-    "epId": "ray-the-animation-episode-13",
-    "title": "Ray The Animation",
-    "img": "https://gogocdn.net/cover/ray-the-animation.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "honoo-no-labyrinth",
-    "epId": "honoo-no-labyrinth-episode-2",
-    "title": "Honoo no Labyrinth",
-    "img": "https://gogocdn.net/cover/honoo-no-labyrinth.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai",
-    "epId": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1",
-    "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO: Mugen no Heiretsu Sekai",
-    "img": "https://gogocdn.net/cover/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "chibi-godzilla-no-gyakushuu",
-    "epId": "chibi-godzilla-no-gyakushuu-episode-13",
-    "title": "Chibi Godzilla no Gyakushuu",
-    "img": "https://gogocdn.net/cover/chibi-godzilla-no-gyakushuu.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "harinezumi-no-luchika",
-    "epId": "harinezumi-no-luchika-episode-1",
-    "title": "Harinezumi no Luchika",
-    "img": "https://gogocdn.net/cover/harinezumi-no-luchika.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "anime-tenchou-movie",
-    "epId": "anime-tenchou-movie-episode-1",
-    "title": "Anime Tenchou Movie",
-    "img": "https://gogocdn.net/cover/anime-tenchou-movie.png",
-    "episode": "Episode 1"
   }
 ]

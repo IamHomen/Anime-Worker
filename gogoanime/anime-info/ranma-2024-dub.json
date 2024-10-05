@@ -1,24 +1,21 @@
 {
-  "animeTitle": "Ranma \u00bd (2024)",
-  "type": "Fall 2024 Anime",
+  "animeTitle": "Ranma \u00bd (2024) (Dub)",
+  "type": "TV Series",
   "releasedDate": "2024",
   "status": "Ongoing",
   "genres": [
+    "Action",
     "Comedy",
     "Ecchi",
-    "Magical Sex Shift",
-    "Martial Arts",
-    "Romance",
-    "School",
-    "Shounen"
+    "Romance"
   ],
-  "otherNames": "Ranma \u00bd, Ranma 1",
+  "otherNames": "Ranma \u00bd, \u3089\u3093\u307e1",
   "synopsis": "Soun Tendou runs the Tendou Martial Arts School accompanied by his three daughters: Akane, Nabiki, and Kasumi. One day, the sisters' lives are turned upside down when their father announces that he has promised one of them to be married to a fellow martial artist's son in hopes of carrying on the family legacy. In addition to their mixed reactions, when the fianc\u00e9 arrives, the last thing the Tendou family expects is Ranma Saotome and his father, Genma.\r\n\r\nRanma has been training in China with his father until an unfortunate accident changed them both. Now, when water touches them, Ranma turns into a girl and Genma into a giant panda. Ranma \u00bd follows Ranma as he attempts to get along with his newly betrothed, the youngest of the Tendou sisters, Akane. As the two begin to attend the same school, they deal with fellow friends and rivals, all of whom have something to say about their engagement.",
-  "animeImg": "https://gogocdn.net/cover/ranma-2024.png",
+  "animeImg": "https://gogocdn.net/cover/ranma-2024-dub.png",
   "totalEpisodes": "1",
   "episodesList": [
     {
-      "episodeId": "ranma-2024-episode-1",
+      "episodeId": "ranma-2024-dub-episode-1",
       "episodeNum": "Episode 1"
     }
   ]
