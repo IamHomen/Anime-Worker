@@ -1,5 +1,33 @@
 [
   {
+    "id": "hyakushou-kizoku-2nd-season",
+    "epId": "hyakushou-kizoku-2nd-season-episode-1",
+    "title": "Hyakushou Kizoku 2nd Season",
+    "img": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ice",
+    "epId": "ice-episode-3",
+    "title": "Ice",
+    "img": "https://gogocdn.net/cover/ice.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
+    "epId": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-1",
+    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
+    "img": "https://gogocdn.net/cover/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-1727374871.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "katasumi-no-uroko",
+    "epId": "katasumi-no-uroko-episode-1",
+    "title": "Katasumi no Uroko",
+    "img": "https://gogocdn.net/cover/katasumi-no-uroko.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tonari-no-801-chan-r",
     "epId": "tonari-no-801-chan-r-episode-1",
     "title": "Tonari no 801-chan R",
@@ -2770,33 +2798,5 @@
     "title": "Shin Hakkenden",
     "img": "https://gogocdn.net/cover/shin-hakkenden.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "virtua-fighter",
-    "epId": "virtua-fighter-episode-35",
-    "title": "Virtua Fighter",
-    "img": "https://gogocdn.net/cover/virtua-fighter.png",
-    "episode": "Episode 35"
-  },
-  {
-    "id": "captain-bal",
-    "epId": "captain-bal-episode-1",
-    "title": "Captain Bal",
-    "img": "https://gogocdn.net/cover/captain-bal.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "odekake-kozame",
-    "epId": "odekake-kozame-episode-60",
-    "title": "Odekake Kozame",
-    "img": "https://gogocdn.net/cover/odekake-kozame.png",
-    "episode": "Episode 60"
-  },
-  {
-    "id": "girls-panzer-saishuushou-part-4-specials",
-    "epId": "girls-panzer-saishuushou-part-4-specials-episode-1",
-    "title": "Girls & Panzer: Saishuushou Part 4 Specials",
-    "img": "https://gogocdn.net/cover/girls-panzer-saishuushou-part-4-specials.png",
-    "episode": "Episode 1"
   }
 ]

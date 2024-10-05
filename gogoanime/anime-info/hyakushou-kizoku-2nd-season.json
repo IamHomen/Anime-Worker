@@ -10,6 +10,11 @@
   "otherNames": "Noble Farmer Season 2, \u767e\u59d3\u8cb4\u65cf 2nd Season",
   "synopsis": "Second season of Hyakushou Kizoku.",
   "animeImg": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
-  "totalEpisodes": "0",
-  "episodesList": []
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "hyakushou-kizoku-2nd-season-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }
