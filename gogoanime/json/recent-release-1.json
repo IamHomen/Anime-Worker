@@ -1,5 +1,26 @@
 [
   {
+    "id": "ooi-tonbo-2nd-season",
+    "epId": "ooi-tonbo-2nd-season-episode-1",
+    "title": "Ooi! Tonbo 2nd Season",
+    "img": "https://gogocdn.net/cover/ooi-tonbo-2nd-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "magicaltaruruuto-kun",
+    "epId": "magicaltaruruuto-kun-episode-63",
+    "title": "Magical\u2605Taruruuto-kun",
+    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
+    "episode": "Episode 63"
+  },
+  {
+    "id": "cardfight-vanguard-divinez-season-2",
+    "epId": "cardfight-vanguard-divinez-season-2-episode-12",
+    "title": "Cardfight!! Vanguard: Divinez Season 2",
+    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "hyakushou-kizoku-2nd-season",
     "epId": "hyakushou-kizoku-2nd-season-episode-1",
     "title": "Hyakushou Kizoku 2nd Season",
@@ -789,13 +810,6 @@
     "title": "Pokemon (Shinsaku Anime)",
     "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
     "episode": "Episode 67"
-  },
-  {
-    "id": "cardfight-vanguard-divinez-season-2",
-    "epId": "cardfight-vanguard-divinez-season-2-episode-11",
-    "title": "Cardfight!! Vanguard: Divinez Season 2",
-    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
-    "episode": "Episode 11"
   },
   {
     "id": "kono-sekai-wa-fukanzen-sugiru",
@@ -2198,13 +2212,6 @@
     "episode": "Episode 13"
   },
   {
-    "id": "magicaltaruruuto-kun",
-    "epId": "magicaltaruruuto-kun-episode-59",
-    "title": "Magical\u2605Taruruuto-kun",
-    "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
-    "episode": "Episode 59"
-  },
-  {
     "id": "kenka-dokugaku",
     "epId": "kenka-dokugaku-episode-12",
     "title": "Kenka Dokugaku",
@@ -2791,12 +2798,5 @@
     "title": "Anime Tenchou Movie",
     "img": "https://gogocdn.net/cover/anime-tenchou-movie.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "shin-hakkenden",
-    "epId": "shin-hakkenden-episode-26",
-    "title": "Shin Hakkenden",
-    "img": "https://gogocdn.net/cover/shin-hakkenden.png",
-    "episode": "Episode 26"
   }
 ]
