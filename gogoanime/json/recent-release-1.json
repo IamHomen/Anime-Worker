@@ -1,5 +1,54 @@
 [
   {
+    "id": "punirunes-2",
+    "epId": "punirunes-2-episode-1",
+    "title": "Punirunes 2",
+    "img": "https://gogocdn.net/cover/punirunes-2.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "uzumaki",
+    "epId": "uzumaki-episode-2",
+    "title": "Uzumaki",
+    "img": "https://gogocdn.net/cover/uzumaki-1727380142.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kotetsu-no-daibouken",
+    "epId": "kotetsu-no-daibouken-episode-2",
+    "title": "Kotetsu no Daibouken",
+    "img": "https://gogocdn.net/cover/kotetsu-no-daibouken.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "whats-michael-2",
+    "epId": "whats-michael-2-episode-1",
+    "title": "What's Michael? 2",
+    "img": "https://gogocdn.net/cover/whats-michael-2.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ribbon-no-kishi",
+    "epId": "ribbon-no-kishi-episode-52",
+    "title": "Ribbon no Kishi",
+    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
+    "episode": "Episode 52"
+  },
+  {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1121",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1121"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-36",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 36"
+  },
+  {
     "id": "kimi-wa-meido-sama",
     "epId": "kimi-wa-meido-sama-episode-1",
     "title": "Kimi wa Meido-sama.",
@@ -464,7 +513,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-127",
-    "title": "Yu\u201a\u0117\u00dcGi\u201a\u0117\u00dcOh!: Go Rush!!",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 127"
   },
@@ -805,13 +854,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "uzumaki",
-    "epId": "uzumaki-episode-1",
-    "title": "Uzumaki",
-    "img": "https://gogocdn.net/cover/uzumaki-1727380142.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log",
     "epId": "one-piece-yuruganu-seigi-kaigun-no-hokoritakaki-log-episode-1",
     "title": "One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!",
@@ -824,13 +866,6 @@
     "title": "The Fable",
     "img": "https://gogocdn.net/cover/the-fable-1711739355.png",
     "episode": "Episode 25"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-35",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 35"
   },
   {
     "id": "make-heroine-ga-oosugiru",
@@ -1099,13 +1134,6 @@
     "episode": "Episode 1448"
   },
   {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1120",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1120"
-  },
-  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "epId": "karasu-wa-aruji-wo-erabanai-episode-20",
     "title": "Karasu wa Aruji wo Erabanai",
@@ -1349,13 +1377,6 @@
     "title": "Chikyuu Bouei Kazoku Special",
     "img": "https://gogocdn.net/cover/chikyuu-bouei-kazoku-special.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "ribbon-no-kishi",
-    "epId": "ribbon-no-kishi-episode-39",
-    "title": "Ribbon no Kishi",
-    "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
-    "episode": "Episode 39"
   },
   {
     "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete",
@@ -2777,26 +2798,5 @@
     "title": "Suki demo Kirai na Amanojaku",
     "img": "https://gogocdn.net/cover/suki-demo-kirai-na-amanojaku.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "bear-bear-bear-kuma-punch-daiundoukai-hen",
-    "epId": "bear-bear-bear-kuma-punch-daiundoukai-hen-episode-3",
-    "title": "Bear Bear Bear Kuma Punch!! Daiundoukai-hen",
-    "img": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch-daiundoukai-hen.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "bear-bear-bear-kuma-punch",
-    "epId": "bear-bear-bear-kuma-punch-episode-5",
-    "title": "Bear Bear Bear Kuma Punch!",
-    "img": "https://gogocdn.net/cover/bear-bear-bear-kuma-punch.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "garouden-the-way-of-the-lone-wolf",
-    "epId": "garouden-the-way-of-the-lone-wolf-episode-8",
-    "title": "Garouden: The Way of the Lone Wolf",
-    "img": "https://gogocdn.net/cover/garouden-the-way-of-the-lone-wolf.png",
-    "episode": "Episode 8"
   }
 ]
