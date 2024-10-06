@@ -2,7 +2,7 @@
   "animeTitle": "Yami Shibai 13",
   "type": "Summer 2024 Anime",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Avant Garde",
     "Horror",
@@ -11,8 +11,12 @@
   "otherNames": "\u95c7\u829d\u5c45 \u5341\u4e8c\u671f",
   "synopsis": "Thirteenth season of Yami Shibai.",
   "animeImg": "https://gogocdn.net/cover/yami-shibai-13.png",
-  "totalEpisodes": "12",
+  "totalEpisodes": "13",
   "episodesList": [
+    {
+      "episodeId": "yami-shibai-13-episode-13",
+      "episodeNum": "Episode 13"
+    },
     {
       "episodeId": "yami-shibai-13-episode-12",
       "episodeNum": "Episode 12"
