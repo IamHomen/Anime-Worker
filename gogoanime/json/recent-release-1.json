@@ -1,5 +1,12 @@
 [
   {
+    "id": "kimi-wa-meido-sama",
+    "epId": "kimi-wa-meido-sama-episode-1",
+    "title": "Kimi wa Meido-sama.",
+    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
     "epId": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episode-1",
     "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
@@ -457,7 +464,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-127",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+    "title": "Yu\u201a\u0117\u00dcGi\u201a\u0117\u00dcOh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 127"
   },
@@ -2790,13 +2797,6 @@
     "epId": "garouden-the-way-of-the-lone-wolf-episode-8",
     "title": "Garouden: The Way of the Lone Wolf",
     "img": "https://gogocdn.net/cover/garouden-the-way-of-the-lone-wolf.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "touken-ranbu-kai-kyoden-moyuru-honnouji",
-    "epId": "touken-ranbu-kai-kyoden-moyuru-honnouji-episode-8",
-    "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
-    "img": "https://gogocdn.net/cover/touken-ranbu-kai-kyoden-moyuru-honnouji.png",
     "episode": "Episode 8"
   }
 ]
