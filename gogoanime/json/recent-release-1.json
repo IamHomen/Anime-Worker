@@ -1,5 +1,40 @@
 [
   {
+    "id": "panyo-panyo-di-gi-charat",
+    "epId": "panyo-panyo-di-gi-charat-episode-12",
+    "title": "Panyo Panyo Di Gi Charat",
+    "img": "https://gogocdn.net/cover/panyo-panyo-di-gi-charat.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "love-live-superstar-3rd-season",
+    "epId": "love-live-superstar-3rd-season-episode-1",
+    "title": "Love Live! Superstar!! 3rd Season",
+    "img": "https://gogocdn.net/cover/love-live-superstar-3rd-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-51",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 51"
+  },
+  {
+    "id": "haai-step-jun",
+    "epId": "haai-step-jun-episode-23",
+    "title": "Haai Step Jun",
+    "img": "https://gogocdn.net/cover/haai-step-jun.png",
+    "episode": "Episode 23"
+  },
+  {
+    "id": "yami-shibai-13",
+    "epId": "yami-shibai-13-episode-13",
+    "title": "Yami Shibai 13",
+    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "mf-ghost-2nd-season",
     "epId": "mf-ghost-2nd-season-episode-1",
     "title": "MF Ghost 2nd Season",
@@ -826,13 +861,6 @@
     "episode": "Episode 25"
   },
   {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-50",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 50"
-  },
-  {
     "id": "kankin-kuiki-level-x",
     "epId": "kankin-kuiki-level-x-episode-4",
     "title": "Kankin Kuiki Level X",
@@ -845,13 +873,6 @@
     "title": "Saikyou no Shienshoku ",
     "img": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "yami-shibai-13",
-    "epId": "yami-shibai-13-episode-12",
-    "title": "Yami Shibai 13",
-    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
-    "episode": "Episode 12"
   },
   {
     "id": "fight-da-pyuta",
@@ -1671,13 +1692,6 @@
     "title": "Rainbow Sentai Robin",
     "img": "https://gogocdn.net/cover/rainbow-sentai-robin.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "haai-step-jun",
-    "epId": "haai-step-jun-episode-22",
-    "title": "Haai Step Jun",
-    "img": "https://gogocdn.net/cover/haai-step-jun.png",
-    "episode": "Episode 22"
   },
   {
     "id": "kaibutsu-kun-1980-specials",
@@ -2783,20 +2797,6 @@
     "epId": "blazblue-continuum-shift-episode-1",
     "title": "BlazBlue Continuum Shift",
     "img": "https://gogocdn.net/cover/blazblue-continuum-shift.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "blazblue-calamity-trigger",
-    "epId": "blazblue-calamity-trigger-episode-1",
-    "title": "BlazBlue Calamity Trigger",
-    "img": "https://gogocdn.net/cover/blazblue-calamity-trigger.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "blazblue-chronophantasma",
-    "epId": "blazblue-chronophantasma-episode-1",
-    "title": "BlazBlue Chronophantasma",
-    "img": "https://gogocdn.net/cover/blazblue-chronophantasma.png",
     "episode": "Episode 1"
   }
 ]
