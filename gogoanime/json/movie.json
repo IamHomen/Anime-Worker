@@ -10614,6 +10614,12 @@
     "date": "1978"
   },
   {
+    "id": "0008",
+    "title": "00:08",
+    "img": "https://gogocdn.net/cover/0008.png",
+    "date": "2014"
+  },
+  {
     "id": "pokemon-movie-20-kimi-ni-kimeta",
     "title": "Pokemon Movie 20: Kimi ni Kimeta!",
     "img": "https://gogocdn.net/cover/pokemon-movie-20-kimi-ni-kimeta.png",
@@ -10650,6 +10656,12 @@
     "date": "2023"
   },
   {
+    "id": "crazy-for-it",
+    "title": "Crazy for It",
+    "img": "https://gogocdn.net/cover/crazy-for-it.png",
+    "date": "2012"
+  },
+  {
     "id": "pokemon-kimi-ni-kimeta-dub",
     "title": "Pokemon Movie 20: Kimi ni Kimeta! (Dub)",
     "img": "https://gogocdn.net/cover/pokemon-kimi-ni-kimeta-dub.png",
@@ -10672,6 +10684,12 @@
     "title": "Robot King (Dub)",
     "img": "https://gogocdn.net/cover/robot-king-dub.png",
     "date": "1980"
+  },
+  {
+    "id": "recorder",
+    "title": "Recorder",
+    "img": "https://gogocdn.net/cover/recorder.png",
+    "date": "2006"
   },
   {
     "id": "fairy-tail-movie-2-dragon-cry",
@@ -10716,6 +10734,12 @@
     "date": "1991"
   },
   {
+    "id": "sakana-no-iu-koto-wo-kiku",
+    "title": "Sakana no Iu Koto wo Kiku",
+    "img": "https://gogocdn.net/cover/sakana-no-iu-koto-wo-kiku.png",
+    "date": "2013"
+  },
+  {
     "id": "mouretsu-pirates-abyss-of-hyperspace-dub",
     "title": "Mouretsu Pirates: Abyss of Hyperspace (Dub)",
     "img": "https://gogocdn.net/cover/mouretsu-pirates-abyss-of-hyperspace-dub.png",
@@ -10752,6 +10776,12 @@
     "date": "1994"
   },
   {
+    "id": "inu-ou-dub",
+    "title": "Inu-Ou (Dub)",
+    "img": "https://gogocdn.net/cover/inu-ou-dub.png",
+    "date": "2022"
+  },
+  {
     "id": "sora-no-otoshimono-tokeijikake-no-angeloid-dub",
     "title": "Sora no Otoshimono: Tokeijikake no Angeloid (Dub)",
     "img": "https://gogocdn.net/cover/sora-no-otoshimono-tokeijikake-no-angeloid-dub.png",
@@ -10780,6 +10810,12 @@
     "title": "Ai no Utagoe wo Kikasete (Dub)",
     "img": "https://gogocdn.net/cover/ai-no-utagoe-wo-kikasete-dub.png",
     "date": "2021"
+  },
+  {
+    "id": "kakurenbo-2012",
+    "title": "Kakurenbo (2012)",
+    "img": "https://gogocdn.net/cover/kakurenbo-2012.png",
+    "date": "2012"
   },
   {
     "id": "pom-poko-dub",
@@ -13402,41 +13438,5 @@
     "title": "Evangelion: 3.0+1.0 Thrice Upon a Time (Dub)",
     "img": "https://gogocdn.net/cover/evangelion-3-01-0-thrice-upon-a-time-dub.png",
     "date": "2021"
-  },
-  {
-    "id": "ryouma-the-prince-of-tennis-shinsei-movie-tennis-no-ouji-sama-dub",
-    "title": "Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Ouji-sama (Dub)",
-    "img": "https://gogocdn.net/cover/ryouma-the-prince-of-tennis-shinsei-movie-tennis-no-ouji-sama-dub.png",
-    "date": "2021"
-  },
-  {
-    "id": "cyborg-009-call-of-justice-2",
-    "title": "Cyborg 009: Call of Justice 2",
-    "img": "https://gogocdn.net/cover/cyborg-009-call-of-justice-2.png",
-    "date": "2016"
-  },
-  {
-    "id": "project-a-ko-2-daitokuji-zaibatsu-no-inbou-dub",
-    "title": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou (Dub)",
-    "img": "https://gogocdn.net/cover/project-a-ko-2-daitokuji-zaibatsu-no-inbou-dub.png",
-    "date": "1987"
-  },
-  {
-    "id": "ginga-tetsudou-no-yoru",
-    "title": "Ginga Tetsudou no Yoru",
-    "img": "https://gogocdn.net/cover/ginga-tetsudou-no-yoru.png",
-    "date": "1985"
-  },
-  {
-    "id": "city-hunter-movie-shinjuku-private-eyes-dub",
-    "title": "City Hunter Movie: Shinjuku Private Eyes (Dub)",
-    "img": "https://gogocdn.net/cover/city-hunter-movie-shinjuku-private-eyes.png",
-    "date": "2019"
-  },
-  {
-    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-dub",
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya (Dub)",
-    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-dub.png",
-    "date": "2019"
   }
 ]

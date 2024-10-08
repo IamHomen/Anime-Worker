@@ -1,5 +1,33 @@
 [
   {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-26",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 26"
+  },
+  {
+    "id": "grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party",
+    "epId": "grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party-episode-1",
+    "title": "Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!",
+    "img": "https://gogocdn.net/cover/grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hamidashi-creative",
+    "epId": "hamidashi-creative-episode-1",
+    "title": "Hamidashi Creative",
+    "img": "https://gogocdn.net/cover/hamidashi-creative-1727373625.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "neko-ni-tensei-shita-ojisan",
+    "epId": "neko-ni-tensei-shita-ojisan-episode-1",
+    "title": "Neko ni Tensei shita Ojisan",
+    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "houkago-shounen-hanako-kun-part-2",
     "epId": "houkago-shounen-hanako-kun-part-2-episode-1",
     "title": "Houkago Shounen Hanako-kun Part 2",
@@ -908,13 +936,6 @@
     "title": "Gdleen",
     "img": "https://gogocdn.net/cover/gdleen.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-25",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 25"
   },
   {
     "id": "kankin-kuiki-level-x",
@@ -2777,26 +2798,5 @@
     "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
     "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "mai-hime-kuro-no-maisaigo-no-bansan",
-    "epId": "mai-hime-kuro-no-maisaigo-no-bansan-episode-1",
-    "title": "Mai-HiME: Kuro no Mai/Saigo no Bansan",
-    "img": "https://gogocdn.net/cover/mai-hime-kuro-no-maisaigo-no-bansan.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "hanma-baki-vs-kengan-ashura",
-    "epId": "hanma-baki-vs-kengan-ashura-episode-1",
-    "title": "Hanma Baki vs. Kengan Ashura",
-    "img": "https://gogocdn.net/cover/hanma-baki-vs-kengan-ashura.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "hyakushou-kizoku",
-    "epId": "hyakushou-kizoku-episode-14",
-    "title": "Hyakushou Kizoku",
-    "img": "https://gogocdn.net/cover/hyakushou-kizoku-1688154650.png",
-    "episode": "Episode 14"
   }
 ]
