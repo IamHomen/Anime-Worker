@@ -1,5 +1,19 @@
 [
   {
+    "id": "shy-2nd-season-dub",
+    "epId": "shy-2nd-season-dub-episode-12",
+    "title": "Shy 2nd Season (Dub)",
+    "img": "https://gogocdn.net/cover/shy-2nd-season-dub-1725938953.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "seirei-gensouki-2-dub",
+    "epId": "seirei-gensouki-2-dub-episode-1",
+    "title": "Seirei Gensouki 2 (Dub)",
+    "img": "https://gogocdn.net/cover/seirei-gensouki-2-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "hoshifuru-oukoku-no-nina-dub",
     "epId": "hoshifuru-oukoku-no-nina-dub-episode-1",
     "title": "Hoshifuru Oukoku no Nina (Dub)",
@@ -229,13 +243,6 @@
     "title": "Natsume Yuujinchou Roku (Dub)",
     "img": "https://gogocdn.net/cover/natsume-yuujinchou-roku-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "shy-2nd-season-dub",
-    "epId": "shy-2nd-season-dub-episode-11",
-    "title": "Shy 2nd Season (Dub)",
-    "img": "https://gogocdn.net/cover/shy-2nd-season-dub-1725938953.png",
-    "episode": "Episode 11"
   },
   {
     "id": "fairy-tail-100-nen-quest-dub",
@@ -2791,12 +2798,5 @@
     "title": "Nande Koko ni Sensei ga!? (Uncensored) (Dub)",
     "img": "https://gogocdn.net/cover/nande-koko-ni-sensei-ga-uncensored-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "mahoromatic-summer-special-dub",
-    "epId": "mahoromatic-summer-special-dub-episode-1",
-    "title": "Mahoromatic Summer Special (Dub)",
-    "img": "https://gogocdn.net/cover/mahoromatic-summer-special-dub.png",
-    "episode": "Episode 1"
   }
 ]
