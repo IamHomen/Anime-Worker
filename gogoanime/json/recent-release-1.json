@@ -1,5 +1,19 @@
 [
   {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-2",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "youkai-gakkou-no-sensei-hajimemashita",
+    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-1",
+    "title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ko-seiki-beast-sanjuushi",
     "epId": "ko-seiki-beast-sanjuushi-episode-7",
     "title": "KO Seiki Beast Sanjuushi",
@@ -900,13 +914,6 @@
     "epId": "amagami-san-chi-no-enmusubi-episode-1",
     "title": "Amagami-san Chi no Enmusubi",
     "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
-    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-1",
-    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
     "episode": "Episode 1"
   },
   {
@@ -2791,12 +2798,5 @@
     "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
     "img": "https://gogocdn.net/cover/toku-touken-ranbu-hanamaru-setsugetsuka.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "soukyuu-no-fafner-behind-the-line",
-    "epId": "soukyuu-no-fafner-behind-the-line-episode-1",
-    "title": "Soukyuu no Fafner: Behind the Line",
-    "img": "https://gogocdn.net/cover/soukyuu-no-fafner-behind-the-line-1718163126.png",
-    "episode": "Episode 1"
   }
 ]
