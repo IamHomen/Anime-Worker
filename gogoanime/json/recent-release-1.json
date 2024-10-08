@@ -1,5 +1,61 @@
 [
   {
+    "id": "ko-seiki-beast-sanjuushi",
+    "epId": "ko-seiki-beast-sanjuushi-episode-7",
+    "title": "KO Seiki Beast Sanjuushi",
+    "img": "https://gogocdn.net/cover/ko-seiki-beast-sanjuushi.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "tokumu-sentai-shinesman",
+    "epId": "tokumu-sentai-shinesman-episode-2",
+    "title": "Tokumu Sentai Shinesman",
+    "img": "https://gogocdn.net/cover/tokumu-sentai-shinesman.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kakurenbo-2012",
+    "epId": "kakurenbo-2012-episode-1",
+    "title": "Kakurenbo (2012)",
+    "img": "https://gogocdn.net/cover/kakurenbo-2012.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "sakana-no-iu-koto-wo-kiku",
+    "epId": "sakana-no-iu-koto-wo-kiku-episode-1",
+    "title": "Sakana no Iu Koto wo Kiku",
+    "img": "https://gogocdn.net/cover/sakana-no-iu-koto-wo-kiku.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "recorder",
+    "epId": "recorder-episode-1",
+    "title": "Recorder",
+    "img": "https://gogocdn.net/cover/recorder.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "crazy-for-it",
+    "epId": "crazy-for-it-episode-1",
+    "title": "Crazy for It",
+    "img": "https://gogocdn.net/cover/crazy-for-it.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "0008",
+    "epId": "0008-episode-1",
+    "title": "00:08",
+    "img": "https://gogocdn.net/cover/0008.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-75",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 75"
+  },
+  {
     "id": "himitsu-no-aipri",
     "epId": "himitsu-no-aipri-episode-26",
     "title": "Himitsu no AiPri",
@@ -852,13 +908,6 @@
     "title": "Rekishi ni Nokoru Akujo ni Naru zo",
     "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-74",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 74"
   },
   {
     "id": "hen",
@@ -2749,54 +2798,5 @@
     "title": "Soukyuu no Fafner: Behind the Line",
     "img": "https://gogocdn.net/cover/soukyuu-no-fafner-behind-the-line-1718163126.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "saint-luminous-jogakuin",
-    "epId": "saint-luminous-jogakuin-episode-13",
-    "title": "Saint Luminous Jogakuin",
-    "img": "https://gogocdn.net/cover/saint-luminous-jogakuin.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "yaneura-no-rudger",
-    "epId": "yaneura-no-rudger-episode-1",
-    "title": "Yaneura no Rudger",
-    "img": "https://gogocdn.net/cover/yaneura-no-rudger-1718100863.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "jishu-seisaku-movie-binchou-tan",
-    "epId": "jishu-seisaku-movie-binchou-tan-episode-1",
-    "title": "Jishu Seisaku Movie Binchou-tan",
-    "img": "https://gogocdn.net/cover/jishu-seisaku-movie-binchou-tan.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "binchou-tan",
-    "epId": "binchou-tan-episode-11-12",
-    "title": "Binchou-tan",
-    "img": "https://gogocdn.net/cover/binchou-tan.png",
-    "episode": "Episode 11.12"
-  },
-  {
-    "id": "kidou-senshi-gundam-seed-freedom",
-    "epId": "kidou-senshi-gundam-seed-freedom-episode-1",
-    "title": "Kidou Senshi Gundam SEED Freedom",
-    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-seed-freedom-1718073134.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita",
-    "epId": "dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-episode-12",
-    "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
-    "img": "https://gogocdn.net/cover/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-1711733239.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2",
-    "epId": "saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2-episode-12",
-    "title": "Saint Seiya: Knights of the Zodiac - Battle Sanctuary Part 2",
-    "img": "https://gogocdn.net/cover/saint-seiya-knights-of-the-zodiac-battle-sanctuary-part-2.png",
-    "episode": "Episode 12"
   }
 ]

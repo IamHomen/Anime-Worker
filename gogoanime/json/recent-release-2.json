@@ -1,5 +1,33 @@
 [
   {
+    "id": "sora-no-aosa-wo-shiru-hito-yo-dub",
+    "epId": "sora-no-aosa-wo-shiru-hito-yo-dub-episode-1",
+    "title": "Sora no Aosa wo Shiru Hito yo (Dub)",
+    "img": "https://gogocdn.net/cover/sora-no-aosa-wo-shiru-hito-yo-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tokumu-sentai-shinesman-dub",
+    "epId": "tokumu-sentai-shinesman-dub-episode-2",
+    "title": "Tokumu Sentai Shinesman (Dub)",
+    "img": "https://gogocdn.net/cover/tokumu-sentai-shinesman-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "inu-ou-dub",
+    "epId": "inu-ou-dub-episode-1",
+    "title": "Inu-Ou (Dub)",
+    "img": "https://gogocdn.net/cover/inu-ou-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "2005-nen-uchuu-no-tabi-dub",
+    "epId": "2005-nen-uchuu-no-tabi-dub-episode-1",
+    "title": "2005-nen Uchuu no Tabi (Dub)",
+    "img": "https://gogocdn.net/cover/2005-nen-uchuu-no-tabi-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub",
     "epId": "ookami-to-koushinryou-merchant-meets-the-wise-wolf-dub-episode-25",
     "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf (Dub)",
@@ -1363,6 +1391,13 @@
     "title": "Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai (Dub)",
     "img": "https://gogocdn.net/cover/boku-wa-tomodachi-ga-sukunai-relay-shousetsu-wa-ketsumatsu-ga-hanpanai-dub.png",
     "episode": "Episode 1"
+  },
+  {
+    "id": "cossette-no-shouzou-dub",
+    "epId": "cossette-no-shouzou-dub-episode-3",
+    "title": "Cossette no Shouzou (Dub)",
+    "img": "https://gogocdn.net/cover/cossette-no-shouzou-dub.png",
+    "episode": "Episode 3"
   },
   {
     "id": "cossette-no-shouzou-dub",
@@ -2763,40 +2798,5 @@
     "title": "Lupin III: Prison of the Past (Dub)",
     "img": "https://gogocdn.net/cover/lupin-iii-prison-of-the-past-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "eien-no-831-dub",
-    "epId": "eien-no-831-dub-episode-1",
-    "title": "Eien no 831 (Dub)",
-    "img": "https://gogocdn.net/cover/eien-no-831-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "relife-dub",
-    "epId": "relife-dub-episode-13",
-    "title": "ReLIFE (Dub)",
-    "img": "https://gogocdn.net/cover/relife-dub.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "mai-otome-dub",
-    "epId": "mai-otome-dub-episode-26",
-    "title": "Mai-Otome (Dub)",
-    "img": "https://gogocdn.net/cover/mai-otome-dub.png",
-    "episode": "Episode 26"
-  },
-  {
-    "id": "nande-koko-ni-sensei-ga-nande-koko-ni-sensei-tachi-ga-dub",
-    "epId": "nande-koko-ni-sensei-ga-nande-koko-ni-sensei-tachi-ga-dub-episode-1",
-    "title": "Nande Koko ni Sensei ga!? Nande Koko ni Sensei-tachi ga!? (Dub)",
-    "img": "https://gogocdn.net/cover/nande-koko-ni-sensei-ga-nande-koko-ni-sensei-tachi-ga-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "nande-koko-ni-sensei-ga-uncensored-dub",
-    "epId": "nande-koko-ni-sensei-ga-uncensored-dub-episode-12",
-    "title": "Nande Koko ni Sensei ga!? (Uncensored) (Dub)",
-    "img": "https://gogocdn.net/cover/nande-koko-ni-sensei-ga-uncensored-dub.png",
-    "episode": "Episode 12"
   }
 ]
