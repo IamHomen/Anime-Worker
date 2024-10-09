@@ -1,5 +1,12 @@
 [
   {
+    "id": "tibet-inu-monogatari-chinsese-dub",
+    "epId": "tibet-inu-monogatari-chinsese-dub-episode-1",
+    "title": "Tibet Inu Monogatari (Chinsese Dub)",
+    "img": "https://gogocdn.net/cover/tibet-inu-monogatari-chinsese-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-13",
     "title": "Tasuuketsu",
@@ -2791,12 +2798,5 @@
     "title": "Dungeon Meshi",
     "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
     "episode": "Episode 24"
-  },
-  {
-    "id": "toku-touken-ranbu-hanamaru-setsugetsuka",
-    "epId": "toku-touken-ranbu-hanamaru-setsugetsuka-episode-3",
-    "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
-    "img": "https://gogocdn.net/cover/toku-touken-ranbu-hanamaru-setsugetsuka.png",
-    "episode": "Episode 3"
   }
 ]
