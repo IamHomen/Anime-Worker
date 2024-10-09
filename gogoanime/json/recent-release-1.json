@@ -1,5 +1,19 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-13",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "amagami-san-chi-no-enmusubi",
+    "epId": "amagami-san-chi-no-enmusubi-episode-2",
+    "title": "Amagami-san Chi no Enmusubi",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
     "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-2",
     "title": "Rekishi ni Nokoru Akujo ni Naru zo",
@@ -900,20 +914,6 @@
     "epId": "kyoufu-no-bio-ningen-saishuu-kyoushi-episode-1",
     "title": "Kyoufu no Bio Ningen Saishuu Kyoushi",
     "img": "https://gogocdn.net/cover/kyoufu-no-bio-ningen-saishuu-kyoushi.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-12",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "amagami-san-chi-no-enmusubi",
-    "epId": "amagami-san-chi-no-enmusubi-episode-1",
-    "title": "Amagami-san Chi no Enmusubi",
-    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
     "episode": "Episode 1"
   },
   {
