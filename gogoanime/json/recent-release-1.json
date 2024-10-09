@@ -1,5 +1,26 @@
 [
   {
+    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-2",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
+    "epId": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-1",
+    "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+    "img": "https://gogocdn.net/cover/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-1727380197.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "acro-trip",
+    "epId": "acro-trip-episode-3",
+    "title": "Acro Trip",
+    "img": "https://gogocdn.net/cover/acro-trip-1727372179.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "murai-no-koi",
     "epId": "murai-no-koi-episode-6",
     "title": "Murai no Koi",
@@ -894,20 +915,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 25"
-  },
-  {
-    "id": "acro-trip",
-    "epId": "acro-trip-episode-2",
-    "title": "Acro Trip",
-    "img": "https://gogocdn.net/cover/acro-trip-1727372179.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
-    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-1",
-    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season.png",
-    "episode": "Episode 1"
   },
   {
     "id": "gakuen-tokusou-hikaruon",
@@ -2791,12 +2798,5 @@
     "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
     "img": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "dungeon-meshi",
-    "epId": "dungeon-meshi-episode-24",
-    "title": "Dungeon Meshi",
-    "img": "https://gogocdn.net/cover/dungeon-meshi-1708405352.png",
-    "episode": "Episode 24"
   }
 ]

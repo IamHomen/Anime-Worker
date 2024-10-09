@@ -1,5 +1,12 @@
 [
   {
+    "id": "saint-seiya-the-lost-canvas-meiou-shinwa-dub",
+    "epId": "saint-seiya-the-lost-canvas-meiou-shinwa-dub-episode-26",
+    "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa (Dub)",
+    "img": "https://gogocdn.net/cover/saint-seiya-the-lost-canvas-meiou-shinwa-dub.png",
+    "episode": "Episode 26"
+  },
+  {
     "id": "dragon-ball-ossu-kaettekita-son-gokuu-to-nakama-tachi-dub",
     "epId": "dragon-ball-ossu-kaettekita-son-gokuu-to-nakama-tachi-dub-episode-1",
     "title": "Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!! (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Future Card Buddyfight Battsu: All-Star Fight (Dub)",
     "img": "https://gogocdn.net/cover/future-card-buddyfight-battsu-all-star-fight-dub.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "ankoku-shinwa-dub",
-    "epId": "ankoku-shinwa-dub-episode-2",
-    "title": "Ankoku Shinwa (Dub)",
-    "img": "https://gogocdn.net/cover/ankoku-shinwa-dub.png",
-    "episode": "Episode 2"
   }
 ]
