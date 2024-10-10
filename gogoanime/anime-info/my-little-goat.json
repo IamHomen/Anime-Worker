@@ -1,0 +1,20 @@
+{
+  "animeTitle": "My Little Goat",
+  "type": "Movie",
+  "releasedDate": "2018",
+  "status": "Completed",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "otherNames": "\u30de\u30a4\u30ea\u30c8\u30eb\u30b4\u30fc\u30c8",
+  "synopsis": "A mother goat rescues her kids from the belly of a wolf, but her eldest son Toruku is missing. One day Toruku shows up home and has to confront his own fears as well as the disfigured bodies of his brothers and sisters. As the wolf once again approaches, secrets of Toruku's absence come to light as the flock fights for survival.",
+  "animeImg": "https://gogocdn.net/cover/my-little-goat.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "my-little-goat-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

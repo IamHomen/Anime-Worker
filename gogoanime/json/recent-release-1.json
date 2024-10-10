@@ -1,5 +1,138 @@
 [
   {
+    "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
+    "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-2",
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+    "img": "https://gogocdn.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-113",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 113"
+  },
+  {
+    "id": "trillion-game",
+    "epId": "trillion-game-episode-3",
+    "title": "Trillion Game",
+    "img": "https://gogocdn.net/cover/trillion-game-1727380017.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "sayounara-ryuusei-konnichiwa-jinsei",
+    "epId": "sayounara-ryuusei-konnichiwa-jinsei-episode-2",
+    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "img": "https://gogocdn.net/cover/sayounara-ryuusei-konnichiwa-jinsei.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "spacy",
+    "epId": "spacy-episode-1",
+    "title": "Spacy",
+    "img": "https://gogocdn.net/cover/spacy.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei",
+    "epId": "ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei-episode-4",
+    "title": "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei",
+    "img": "https://gogocdn.net/cover/ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "mecha-ude-tv",
+    "epId": "mecha-ude-tv-episode-2",
+    "title": "Mecha-ude (TV)",
+    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "dandadan",
+    "epId": "dandadan-episode-2",
+    "title": "Dandadan",
+    "img": "https://gogocdn.net/cover/dandadan.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "wasure-boshi",
+    "epId": "wasure-boshi-episode-1",
+    "title": "Wasure-boshi",
+    "img": "https://gogocdn.net/cover/wasure-boshi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ao-no-hako",
+    "epId": "ao-no-hako-episode-3",
+    "title": "Ao no Hako",
+    "img": "https://gogocdn.net/cover/ao-no-hako.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "karakuri-no-kimi",
+    "epId": "karakuri-no-kimi-episode-1",
+    "title": "Karakuri no Kimi",
+    "img": "https://gogocdn.net/cover/karakuri-no-kimi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kekkon-suru-tte-hontou-desu-ka",
+    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-2",
+    "title": "Kekkon suru tte, Hontou desu ka",
+    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "ningyo-no-kizu",
+    "epId": "ningyo-no-kizu-episode-1",
+    "title": "Ningyo no Kizu",
+    "img": "https://gogocdn.net/cover/ningyo-no-kizu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hitoribocchi-no-isekai-kouryaku",
+    "epId": "hitoribocchi-no-isekai-kouryaku-episode-3",
+    "title": "Hitoribocchi no Isekai Kouryaku",
+    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "natsu-iro-no-sunadokei",
+    "epId": "natsu-iro-no-sunadokei-episode-2",
+    "title": "Natsu-iro no Sunadokei",
+    "img": "https://gogocdn.net/cover/natsu-iro-no-sunadokei.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kimagure-orangeroad-shounen-jump-special",
+    "epId": "kimagure-orangeroad-shounen-jump-special-episode-1",
+    "title": "Kimagure Orange\u2606Road: Shounen Jump Special",
+    "img": "https://gogocdn.net/cover/kimagure-orangeroad-shounen-jump-special.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "negaposi-angler",
+    "epId": "negaposi-angler-episode-2",
+    "title": "NegaPosi Angler",
+    "img": "https://gogocdn.net/cover/negaposi-angler.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kinoko-inu",
+    "epId": "kinoko-inu-episode-2",
+    "title": "Kinoko Inu",
+    "img": "https://gogocdn.net/cover/kinoko-inu.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+    "epId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen-episode-2",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete",
     "epId": "mahou-no-princess-minky-momo-yume-wo-dakishimete-episode-45",
     "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
@@ -497,13 +630,6 @@
     "episode": "Episode 20"
   },
   {
-    "id": "ao-no-hako",
-    "epId": "ao-no-hako-episode-2",
-    "title": "Ao no Hako",
-    "img": "https://gogocdn.net/cover/ao-no-hako.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "ooi-tonbo-2nd-season",
     "epId": "ooi-tonbo-2nd-season-episode-1",
     "title": "Ooi! Tonbo 2nd Season",
@@ -763,46 +889,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
-    "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-1",
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-    "img": "https://gogocdn.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "trillion-game",
-    "epId": "trillion-game-episode-2",
-    "title": "Trillion Game",
-    "img": "https://gogocdn.net/cover/trillion-game-1727380017.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-112",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 112"
-  },
-  {
-    "id": "sayounara-ryuusei-konnichiwa-jinsei",
-    "epId": "sayounara-ryuusei-konnichiwa-jinsei-episode-1",
-    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-    "img": "https://gogocdn.net/cover/sayounara-ryuusei-konnichiwa-jinsei.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored",
     "epId": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored-episode-12",
     "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai (Uncensored)",
     "img": "https://gogocdn.net/cover/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "mecha-ude-tv",
-    "epId": "mecha-ude-tv-episode-1",
-    "title": "Mecha-ude (TV)",
-    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
-    "episode": "Episode 1"
   },
   {
     "id": "uji-ni-wa-monogatari-ga-aru",
@@ -816,48 +907,6 @@
     "epId": "ryokunohara-labyrinth-sparkling-phantom-episode-1",
     "title": "Ryokunohara Labyrinth: Sparkling Phantom",
     "img": "https://gogocdn.net/cover/ryokunohara-labyrinth-sparkling-phantom.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "dandadan",
-    "epId": "dandadan-episode-1",
-    "title": "Dandadan",
-    "img": "https://gogocdn.net/cover/dandadan.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kekkon-suru-tte-hontou-desu-ka",
-    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-1",
-    "title": "Kekkon suru tte, Hontou desu ka",
-    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "hitoribocchi-no-isekai-kouryaku",
-    "epId": "hitoribocchi-no-isekai-kouryaku-episode-2",
-    "title": "Hitoribocchi no Isekai Kouryaku",
-    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "negaposi-angler",
-    "epId": "negaposi-angler-episode-1",
-    "title": "NegaPosi Angler",
-    "img": "https://gogocdn.net/cover/negaposi-angler.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kinoko-inu",
-    "epId": "kinoko-inu-episode-1",
-    "title": "Kinoko Inu",
-    "img": "https://gogocdn.net/cover/kinoko-inu.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
-    "epId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen-episode-1",
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png",
     "episode": "Episode 1"
   },
   {
@@ -2749,54 +2798,5 @@
     "title": "To Heart 2 Special",
     "img": "https://gogocdn.net/cover/to-heart-2-special.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "one-piece-making-history-the-turbulent-old-and-new-four-emperors",
-    "epId": "one-piece-making-history-the-turbulent-old-and-new-four-emperors-episode-1",
-    "title": "One Piece: Making History! The Turbulent Old and New Four Emperors!",
-    "img": "https://gogocdn.net/cover/one-piece-making-history-the-turbulent-old-and-new-four-emperors.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "one-room-hiatari-futsuu-tenshi-tsuki",
-    "epId": "one-room-hiatari-futsuu-tenshi-tsuki-episode-12",
-    "title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
-    "img": "https://gogocdn.net/cover/one-room-hiatari-futsuu-tenshi-tsuki-1711737097.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "ooi-tonbo-dub",
-    "epId": "ooi-tonbo-dub-episode-11",
-    "title": "Ooi! Tonbo (Dub)",
-    "img": "https://gogocdn.net/cover/ooi-tonbo-dub.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "ultraman-rising",
-    "epId": "ultraman-rising-episode-1",
-    "title": "Ultraman: Rising",
-    "img": "https://gogocdn.net/cover/ultraman-rising.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "rec-yurusarezarumono",
-    "epId": "rec-yurusarezarumono-episode-1",
-    "title": "Rec: Yurusarezarumono",
-    "img": "https://gogocdn.net/cover/rec-yurusarezarumono.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "tokimeki-memorial-only-love-specials",
-    "epId": "tokimeki-memorial-only-love-specials-episode-2",
-    "title": "Tokimeki Memorial: Only Love Specials",
-    "img": "https://gogocdn.net/cover/tokimeki-memorial-only-love-specials.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii",
-    "epId": "maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii-episode-12",
-    "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-    "img": "https://gogocdn.net/cover/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.png",
-    "episode": "Episode 12"
   }
 ]
