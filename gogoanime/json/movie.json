@@ -11910,6 +11910,12 @@
     "date": "2023"
   },
   {
+    "id": "spacy",
+    "title": "Spacy",
+    "img": "https://gogocdn.net/cover/spacy.png",
+    "date": "1981"
+  },
+  {
     "id": "whisper-of-the-heart-dub",
     "title": "Whisper of the Heart (Dub)",
     "img": "https://gogocdn.net/cover/whisper-of-the-heart-dub.png",
@@ -13432,11 +13438,5 @@
     "title": "Project A-Ko (Dub)",
     "img": "https://gogocdn.net/cover/project-a-ko-dub.png",
     "date": "1986"
-  },
-  {
-    "id": "kaede-new-town",
-    "title": "Kaede New Town",
-    "img": "https://gogocdn.net/cover/kaede-new-town.png",
-    "date": "2007"
   }
 ]
