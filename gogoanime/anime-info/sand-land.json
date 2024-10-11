@@ -2,16 +2,21 @@
   "animeTitle": "Sand Land",
   "type": "Movie",
   "releasedDate": "2023",
-  "status": "Upcoming",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
     "Fantasy",
-    "Supernatural"
+    "Shounen"
   ],
   "otherNames": "SAND LAND",
   "synopsis": "In the far future, war has destroyed the entire Earth, leaving only a barren wasteland where the supply of water is controlled by the greedy king. In search of a long-lost lake, Sheriff Rao asked the king of the demons for help...and got the king's son, Beelzebub, and his assistant, Thief. Together the unlikely trio sets off across the desert, facing dragons, bandits and the deadliest foe of all... the King's army itself!",
   "animeImg": "https://gogocdn.net/cover/sand-land-1686103454.png",
-  "totalEpisodes": "0",
-  "episodesList": []
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "sand-land-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Tomato Confit",
+  "type": "Movie",
+  "releasedDate": "2012",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "otherNames": "\u30c8\u30de\u30c8\u30b3\u30f3\u30d5\u30a3",
+  "synopsis": "There once lived two brothers in a town. The elder lived alone. The younger lived with his parents. They did not get along well, did neither badly. They called each other occasionally. The elder one was impatient and emotional and does nothing but work. The younger one goes steadily his way. One day the elder brother\u2019s face turned into a tomato\u2026",
+  "animeImg": "https://gogocdn.net/cover/tomato-confit.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "tomato-confit-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

@@ -1,5 +1,54 @@
 [
   {
+    "id": "tomato-confit",
+    "epId": "tomato-confit-episode-1",
+    "title": "Tomato Confit",
+    "img": "https://gogocdn.net/cover/tomato-confit.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "candy-zip",
+    "epId": "candy-zip-episode-1",
+    "title": "Candy.zip",
+    "img": "https://gogocdn.net/cover/candy-zip.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yume-10-yoru",
+    "epId": "yume-10-yoru-episode-1",
+    "title": "Yume 10 Yoru",
+    "img": "https://gogocdn.net/cover/yume-10-yoru.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "no-littering",
+    "epId": "no-littering-episode-1",
+    "title": "No Littering",
+    "img": "https://gogocdn.net/cover/no-littering.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "midnight-vampire",
+    "epId": "midnight-vampire-episode-1",
+    "title": "Midnight Vampire",
+    "img": "https://gogocdn.net/cover/midnight-vampire.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+    "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-1",
+    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+    "img": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-15",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 15"
+  },
+  {
     "id": "rick-and-morty-the-anime",
     "epId": "rick-and-morty-the-anime-episode-9",
     "title": "Rick and Morty: The Anime",
@@ -576,7 +625,7 @@
   {
     "id": "ranma-2024",
     "epId": "ranma-2024-episode-1",
-    "title": "Ranma \u252c\u00a2 (2024)",
+    "title": "Ranma \u00bd (2024)",
     "img": "https://gogocdn.net/cover/ranma-2024.png",
     "episode": "Episode 1"
   },
@@ -667,7 +716,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-63",
-    "title": "Magical\u00d4\u00ff\u00e0Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 63"
   },
@@ -880,13 +929,6 @@
     "title": "Baby\u2606Love",
     "img": "https://gogocdn.net/cover/babylove.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-14",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 14"
   },
   {
     "id": "ninjala",
@@ -2756,47 +2798,5 @@
     "title": "Bartender: Kami no Glass",
     "img": "https://gogocdn.net/cover/bartender-kami-no-glass-1711731609.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
-    "epId": "kono-subarashii-sekai-ni-shukufuku-wo-3-episode-11",
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-    "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-shukufuku-wo-3-1711735625.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "umeboshi-denka-uchuu-no-hate-kara-panparopan",
-    "epId": "umeboshi-denka-uchuu-no-hate-kara-panparopan-episode-1",
-    "title": "Umeboshi Denka: Uchuu no Hate kara Panparopan!",
-    "img": "https://gogocdn.net/cover/umeboshi-denka-uchuu-no-hate-kara-panparopan.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu",
-    "epId": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-12",
-    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
-    "img": "https://gogocdn.net/cover/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "remonster",
-    "epId": "remonster-episode-12",
-    "title": "Re:Monster",
-    "img": "https://gogocdn.net/cover/remonster-1711737486.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "city-hunter-ryou-no-propose",
-    "epId": "city-hunter-ryou-no-propose-episode-1",
-    "title": "City Hunter: Ryou no Propose",
-    "img": "https://gogocdn.net/cover/city-hunter-ryou-no-propose.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "jiisan-baasan-wakagaeru",
-    "epId": "jiisan-baasan-wakagaeru-episode-11",
-    "title": "Jiisan Baasan Wakagaeru",
-    "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
-    "episode": "Episode 11"
   }
 ]

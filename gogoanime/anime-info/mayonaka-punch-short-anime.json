@@ -1,0 +1,37 @@
+{
+  "animeTitle": "Mayonaka Punch Short Anime",
+  "type": "ONA",
+  "releasedDate": "2024",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Supernatural",
+    "Vampire"
+  ],
+  "otherNames": "\u771f\u591c\u4e2d\u3071\u3093\u30c1 \u30b7\u30e7\u30fc\u30c8\u30a2\u30cb\u30e1",
+  "synopsis": "Short episodes aired on the official KADOKAWA Anime YouTube channel.",
+  "animeImg": "https://gogocdn.net/cover/mayonaka-punch-short-anime.png",
+  "totalEpisodes": "5",
+  "episodesList": [
+    {
+      "episodeId": "mayonaka-punch-short-anime-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "mayonaka-punch-short-anime-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "mayonaka-punch-short-anime-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "mayonaka-punch-short-anime-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "mayonaka-punch-short-anime-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

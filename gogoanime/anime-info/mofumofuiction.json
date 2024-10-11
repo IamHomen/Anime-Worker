@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Mofumofuiction",
+  "type": "Movie",
+  "releasedDate": "2018",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Music"
+  ],
+  "otherNames": "Fluffiction",
+  "synopsis": "A cavalcade of heretofore unheard-of critters, great and small, cute and hirsute.",
+  "animeImg": "https://gogocdn.net/cover/mofumofuiction.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "mofumofuiction-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
