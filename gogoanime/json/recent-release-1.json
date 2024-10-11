@@ -1,5 +1,26 @@
 [
   {
+    "id": "my-little-goat",
+    "epId": "my-little-goat-episode-1",
+    "title": "My Little Goat",
+    "img": "https://gogocdn.net/cover/my-little-goat.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "anemone",
+    "epId": "anemone-episode-1",
+    "title": "Anemone",
+    "img": "https://gogocdn.net/cover/anemone.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kanashimi-no-belladonna",
+    "epId": "kanashimi-no-belladonna-episode-1",
+    "title": "Kanashimi no Belladonna",
+    "img": "https://gogocdn.net/cover/kanashimi-no-belladonna.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
     "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-2",
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
@@ -2777,26 +2798,5 @@
     "title": "Jiisan Baasan Wakagaeru",
     "img": "https://gogocdn.net/cover/jiisan-baasan-wakagaeru-1711734501.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "to-heart-2-ad",
-    "epId": "to-heart-2-ad-episode-2",
-    "title": "To Heart 2 AD",
-    "img": "https://gogocdn.net/cover/to-heart-2-ad.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "to-heart-2-ova",
-    "epId": "to-heart-2-ova-episode-3",
-    "title": "To Heart 2 OVA",
-    "img": "https://gogocdn.net/cover/to-heart-2-ova.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "to-heart-2-special",
-    "epId": "to-heart-2-special-episode-1",
-    "title": "To Heart 2 Special",
-    "img": "https://gogocdn.net/cover/to-heart-2-special.png",
-    "episode": "Episode 1"
   }
 ]
