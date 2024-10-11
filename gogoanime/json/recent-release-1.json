@@ -1,5 +1,12 @@
 [
   {
+    "id": "rick-and-morty-the-anime",
+    "epId": "rick-and-morty-the-anime-episode-9",
+    "title": "Rick and Morty: The Anime",
+    "img": "https://gogocdn.net/cover/rick-and-morty-the-anime.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "my-little-goat",
     "epId": "my-little-goat-episode-1",
     "title": "My Little Goat",
@@ -569,7 +576,7 @@
   {
     "id": "ranma-2024",
     "epId": "ranma-2024-episode-1",
-    "title": "Ranma \u00bd (2024)",
+    "title": "Ranma \u252c\u00a2 (2024)",
     "img": "https://gogocdn.net/cover/ranma-2024.png",
     "episode": "Episode 1"
   },
@@ -660,7 +667,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-63",
-    "title": "Magical\u2605Taruruuto-kun",
+    "title": "Magical\u00d4\u00ff\u00e0Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 63"
   },
@@ -887,13 +894,6 @@
     "title": "Ninjala",
     "img": "https://gogocdn.net/cover/ninjala.png",
     "episode": "Episode 137"
-  },
-  {
-    "id": "rick-and-morty-the-anime",
-    "epId": "rick-and-morty-the-anime-episode-8",
-    "title": "Rick and Morty: The Anime",
-    "img": "https://gogocdn.net/cover/rick-and-morty-the-anime.png",
-    "episode": "Episode 8"
   },
   {
     "id": "the-animatrix",
