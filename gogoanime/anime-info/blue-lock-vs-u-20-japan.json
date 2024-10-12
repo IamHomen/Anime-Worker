@@ -10,8 +10,12 @@
   "otherNames": "Blue Lock 2nd Season, \u30d6\u30eb\u30fc\u30ed\u30c3\u30af VS. U-20 JAPAN",
   "synopsis": "Second season of Blue Lock.",
   "animeImg": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "2",
   "episodesList": [
+    {
+      "episodeId": "blue-lock-vs-u-20-japan-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "blue-lock-vs-u-20-japan-episode-1",
       "episodeNum": "Episode 1"
