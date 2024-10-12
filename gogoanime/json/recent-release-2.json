@@ -1,5 +1,19 @@
 [
   {
+    "id": "ooi-tonbo-2nd-season-dub",
+    "epId": "ooi-tonbo-2nd-season-dub-episode-2",
+    "title": "Ooi! Tonbo 2nd Season (Dub)",
+    "img": "https://gogocdn.net/cover/ooi-tonbo-2nd-season-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
+    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-24",
+    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
+    "episode": "Episode 24"
+  },
+  {
     "id": "nierautomata-ver1-1a-part-2-dub",
     "epId": "nierautomata-ver1-1a-part-2-dub-episode-11",
     "title": "NieR:Automata Ver1.1a Part 2 (Dub)",
@@ -243,13 +257,6 @@
     "title": "Ranma \u00bd (2024) (Dub)",
     "img": "https://gogocdn.net/cover/ranma-2024-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season-dub",
-    "epId": "tensei-shitara-slime-datta-ken-3rd-season-dub-episode-23",
-    "title": "Tensei shitara Slime Datta Ken 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/tensei-shitara-slime-datta-ken-3rd-season-dub.png",
-    "episode": "Episode 23"
   },
   {
     "id": "yamakoshi-mura-no-mari-to-sanbiki-no-koinu-dub",
@@ -2791,12 +2798,5 @@
     "title": "Pokemon Season 14: Black and White",
     "img": "https://gogocdn.net/images/anime/Pokemon.jpg",
     "episode": "Episode 23"
-  },
-  {
-    "id": "catch-tiniping-dub",
-    "epId": "catch-tiniping-dub-episode-52",
-    "title": "Catch! Tiniping (Dub)",
-    "img": "https://gogocdn.net/cover/catch-tiniping-dub.png",
-    "episode": "Episode 52"
   }
 ]

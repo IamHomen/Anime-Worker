@@ -1,5 +1,26 @@
 [
   {
+    "id": "pop-pop-city",
+    "epId": "pop-pop-city-episode-1",
+    "title": "Pop Pop City",
+    "img": "https://gogocdn.net/cover/pop-pop-city.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1138",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1138"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season",
+    "epId": "boku-no-hero-academia-7th-season-episode-21",
+    "title": "Boku no Hero Academia 7th Season",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
+    "episode": "Episode 21"
+  },
+  {
     "id": "ooi-tonbo-2nd-season",
     "epId": "ooi-tonbo-2nd-season-episode-2",
     "title": "Ooi! Tonbo 2nd Season",
@@ -824,20 +845,6 @@
     "title": "Maou-sama, Retry! R",
     "img": "https://gogocdn.net/cover/maou-sama-retry-r.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1137",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1137"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season",
-    "epId": "boku-no-hero-academia-7th-season-episode-20",
-    "title": "Boku no Hero Academia 7th Season",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
-    "episode": "Episode 20"
   },
   {
     "id": "magicaltaruruuto-kun",
@@ -2790,13 +2797,6 @@
     "epId": "rising-impact-episode-12",
     "title": "Rising Impact",
     "img": "https://gogocdn.net/cover/rising-impact.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "highspeed-etoile",
-    "epId": "highspeed-etoile-episode-12",
-    "title": "Highspeed Etoile",
-    "img": "https://gogocdn.net/cover/highspeed-etoile-1711734198.png",
     "episode": "Episode 12"
   }
 ]
