@@ -1,5 +1,40 @@
 [
   {
+    "id": "ooi-tonbo-2nd-season",
+    "epId": "ooi-tonbo-2nd-season-episode-2",
+    "title": "Ooi! Tonbo 2nd Season",
+    "img": "https://gogocdn.net/cover/ooi-tonbo-2nd-season.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-68",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 68"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-26",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 26"
+  },
+  {
+    "id": "kankin-kuiki-level-x",
+    "epId": "kankin-kuiki-level-x-episode-5",
+    "title": "Kankin Kuiki Level X",
+    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "cardfight-vanguard-divinez-season-2",
+    "epId": "cardfight-vanguard-divinez-season-2-episode-13",
+    "title": "Cardfight!! Vanguard: Divinez Season 2",
+    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "artiswitch-rurus-episodes-of-memories",
     "epId": "artiswitch-rurus-episodes-of-memories-episode-2",
     "title": "Artiswitch: Ruru's Episodes of Memories",
@@ -805,25 +840,11 @@
     "episode": "Episode 20"
   },
   {
-    "id": "ooi-tonbo-2nd-season",
-    "epId": "ooi-tonbo-2nd-season-episode-1",
-    "title": "Ooi! Tonbo 2nd Season",
-    "img": "https://gogocdn.net/cover/ooi-tonbo-2nd-season.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-63",
     "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 63"
-  },
-  {
-    "id": "cardfight-vanguard-divinez-season-2",
-    "epId": "cardfight-vanguard-divinez-season-2-episode-12",
-    "title": "Cardfight!! Vanguard: Divinez Season 2",
-    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2.png",
-    "episode": "Episode 12"
   },
   {
     "id": "hyakushou-kizoku-2nd-season",
@@ -1106,13 +1127,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-25",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 25"
-  },
-  {
     "id": "gakuen-tokusou-hikaruon",
     "epId": "gakuen-tokusou-hikaruon-episode-1",
     "title": "Gakuen Tokusou Hikaruon",
@@ -1202,13 +1216,6 @@
     "title": "Gdleen",
     "img": "https://gogocdn.net/cover/gdleen.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "kankin-kuiki-level-x",
-    "epId": "kankin-kuiki-level-x-episode-4",
-    "title": "Kankin Kuiki Level X",
-    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
-    "episode": "Episode 4"
   },
   {
     "id": "fight-da-pyuta",
@@ -1307,13 +1314,6 @@
     "title": "Shadowverse Flame: Arc-hen",
     "img": "https://gogocdn.net/cover/shadowverse-flame-arc-hen.png",
     "episode": "Episode 23"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-67",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 67"
   },
   {
     "id": "kono-sekai-wa-fukanzen-sugiru",
