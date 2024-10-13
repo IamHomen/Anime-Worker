@@ -1,5 +1,33 @@
 [
   {
+    "id": "maou-sama-retry-r-dub",
+    "epId": "maou-sama-retry-r-dub-episode-1",
+    "title": "Maou-sama, Retry! R (Dub)",
+    "img": "https://gogocdn.net/cover/maou-sama-retry-r-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi-dub",
+    "epId": "nige-jouzu-no-wakagimi-dub-episode-10",
+    "title": "Nige Jouzu no Wakagimi (Dub)",
+    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "make-heroine-ga-oosugiru-dub",
+    "epId": "make-heroine-ga-oosugiru-dub-episode-12",
+    "title": "Make Heroine ga Oosugiru! (Dub)",
+    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru-dub.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season-dub",
+    "epId": "boku-no-hero-academia-7th-season-dub-episode-19",
+    "title": "Boku no Hero Academia 7th Season (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
+    "episode": "Episode 19"
+  },
+  {
     "id": "ooi-tonbo-2nd-season-dub",
     "epId": "ooi-tonbo-2nd-season-dub-episode-2",
     "title": "Ooi! Tonbo 2nd Season (Dub)",
@@ -238,20 +266,6 @@
     "episode": "Episode 11"
   },
   {
-    "id": "make-heroine-ga-oosugiru-dub",
-    "epId": "make-heroine-ga-oosugiru-dub-episode-11",
-    "title": "Make Heroine ga Oosugiru! (Dub)",
-    "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru-dub.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season-dub",
-    "epId": "boku-no-hero-academia-7th-season-dub-episode-18",
-    "title": "Boku no Hero Academia 7th Season (Dub)",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
-    "episode": "Episode 18"
-  },
-  {
     "id": "ranma-2024-dub",
     "epId": "ranma-2024-dub-episode-1",
     "title": "Ranma \u00bd (2024) (Dub)",
@@ -327,13 +341,6 @@
     "title": "Dragon Quest: Your Story (Dub)",
     "img": "https://gogocdn.net/cover/dragon-quest-your-story-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "nige-jouzu-no-wakagimi-dub",
-    "epId": "nige-jouzu-no-wakagimi-dub-episode-9",
-    "title": "Nige Jouzu no Wakagimi (Dub)",
-    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
-    "episode": "Episode 9"
   },
   {
     "id": "bye-bye-earth-dub",
@@ -1885,7 +1892,7 @@
   {
     "id": "onegaiteacher-dub",
     "epId": "onegaiteacher-dub-episode-13",
-    "title": "Onegai\u2606Teacher (Dub)",
+    "title": "Onegai\u014c\u015b\u00e5Teacher (Dub)",
     "img": "https://gogocdn.net/cover/onegaiteacher-dub.png",
     "episode": "Episode 13"
   },
@@ -2791,12 +2798,5 @@
     "title": "Nanaka 6/17 (Dub)",
     "img": "https://gogocdn.net/cover/nanaka-617-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "pokemon-season-14-black-and-white",
-    "epId": "pokemon-season-14-black-and-white-episode-23",
-    "title": "Pokemon Season 14: Black and White",
-    "img": "https://gogocdn.net/images/anime/Pokemon.jpg",
-    "episode": "Episode 23"
   }
 ]
