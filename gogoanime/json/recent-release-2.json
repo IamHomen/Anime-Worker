@@ -1,5 +1,12 @@
 [
   {
+    "id": "uzumaki-dub",
+    "epId": "uzumaki-dub-episode-3",
+    "title": "Uzumaki (Dub)",
+    "img": "https://gogocdn.net/cover/uzumaki-dub.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub",
     "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub-episode-12",
     "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Dub)",
@@ -257,13 +264,6 @@
     "title": "Kami no Tou: Ouji no Kikan (Dub)",
     "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "uzumaki-dub",
-    "epId": "uzumaki-dub-episode-2",
-    "title": "Uzumaki (Dub)",
-    "img": "https://gogocdn.net/cover/uzumaki-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "ranma-2024-dub",
