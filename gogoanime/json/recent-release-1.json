@@ -1,5 +1,33 @@
 [
   {
+    "id": "one-piece",
+    "epId": "one-piece-episode-1122",
+    "title": "One Piece",
+    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
+    "episode": "Episode 1122"
+  },
+  {
+    "id": "touhai-ura-rate-mahjong-touhai-roku",
+    "epId": "touhai-ura-rate-mahjong-touhai-roku-episode-1",
+    "title": "Touhai: Ura Rate Mahjong Touhai Roku",
+    "img": "https://gogocdn.net/cover/touhai-ura-rate-mahjong-touhai-roku.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-37",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 37"
+  },
+  {
+    "id": "kankin-kuiki-level-x",
+    "epId": "kankin-kuiki-level-x-episode-6",
+    "title": "Kankin Kuiki Level X",
+    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "thunderbolt-fantasy-touriken-yuuki-4",
     "epId": "thunderbolt-fantasy-touriken-yuuki-4-episode-2",
     "title": "Thunderbolt Fantasy: Touriken Yuuki 4",
@@ -117,13 +145,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "kankin-kuiki-level-x",
-    "epId": "kankin-kuiki-level-x-episode-5",
-    "title": "Kankin Kuiki Level X",
-    "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
-    "episode": "Episode 5"
   },
   {
     "id": "cardfight-vanguard-divinez-season-2",
@@ -817,20 +838,6 @@
     "title": "Ribbon no Kishi",
     "img": "https://gogocdn.net/cover/ribbon-no-kishi.png",
     "episode": "Episode 52"
-  },
-  {
-    "id": "one-piece",
-    "epId": "one-piece-episode-1121",
-    "title": "One Piece",
-    "img": "https://gogocdn.net/cover/one-piece-1708412053.png",
-    "episode": "Episode 1121"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-36",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 36"
   },
   {
     "id": "atri-my-dear-moments",
@@ -2791,12 +2798,5 @@
     "title": "Yoru no Kurage wa Oyogenai",
     "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-1711740651.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "kuroshitsuji-kishuku-gakkou-hen",
-    "epId": "kuroshitsuji-kishuku-gakkou-hen-episode-11",
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "img": "https://gogocdn.net/cover/kuroshitsuji-kishuku-gakkou-hen.png",
-    "episode": "Episode 11"
   }
 ]
