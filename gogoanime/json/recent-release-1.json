@@ -1,5 +1,75 @@
 [
   {
+    "id": "bananya-around-the-world",
+    "epId": "bananya-around-the-world-episode-4",
+    "title": "Bananya: Around the World",
+    "img": "https://gogocdn.net/cover/bananya-around-the-world.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "sangsil-ui-jib",
+    "epId": "sangsil-ui-jib-episode-1",
+    "title": "Sangsil-ui Jib",
+    "img": "https://gogocdn.net/cover/sangsil-ui-jib.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "watashi-no-touchika",
+    "epId": "watashi-no-touchika-episode-1",
+    "title": "Watashi no Touchika",
+    "img": "https://gogocdn.net/cover/watashi-no-touchika.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bai-niao-gu",
+    "epId": "bai-niao-gu-episode-1",
+    "title": "Bai Niao Gu",
+    "img": "https://gogocdn.net/cover/bai-niao-gu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ano-chi",
+    "epId": "ano-chi-episode-1",
+    "title": "Ano Chi",
+    "img": "https://gogocdn.net/cover/ano-chi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "scripta-volant",
+    "epId": "scripta-volant-episode-1",
+    "title": "Scripta Volant",
+    "img": "https://gogocdn.net/cover/scripta-volant.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "i-wanna-be-your-friend",
+    "epId": "i-wanna-be-your-friend-episode-1",
+    "title": "I Wanna Be Your Friend",
+    "img": "https://gogocdn.net/cover/i-wanna-be-your-friend.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "pupa-movie",
+    "epId": "pupa-movie-episode-1",
+    "title": "Pupa (Movie)",
+    "img": "https://gogocdn.net/cover/pupa-movie.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shoujo-nosferatu",
+    "epId": "shoujo-nosferatu-episode-1",
+    "title": "Shoujo Nosferatu",
+    "img": "https://gogocdn.net/cover/shoujo-nosferatu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tsukiyo-opal",
+    "epId": "tsukiyo-opal-episode-1",
+    "title": "Tsukiyo & Opal",
+    "img": "https://gogocdn.net/cover/tsukiyo-opal.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "i-think-youre-a-little-confused",
     "epId": "i-think-youre-a-little-confused-episode-1",
     "title": "I Think You're a Little Confused",
@@ -124,13 +194,6 @@
     "title": "Uzumaki",
     "img": "https://gogocdn.net/cover/uzumaki-1727380142.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "god-of-learning",
-    "epId": "god-of-learning-episode-1-3-episode-1",
-    "title": "God of Learning Episode 1-3",
-    "img": "https://gogocdn.net/cover/god-of-learning.png",
-    "episode": "Episode 1"
   },
   {
     "id": "one-piece",
@@ -1120,6 +1183,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored",
+    "epId": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored-episode-12",
+    "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai (Uncensored)",
+    "img": "https://gogocdn.net/cover/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "uji-ni-wa-monogatari-ga-aru",
     "epId": "uji-ni-wa-monogatari-ga-aru-episode-1",
     "title": "Uji ni wa Monogatari ga Aru",
@@ -1250,13 +1320,6 @@
     "epId": "kaze-no-matasaburou-episode-1",
     "title": "Kaze no Matasaburou",
     "img": "https://gogocdn.net/cover/kaze-no-matasaburou.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "fushigi-no-kuni-no-miyuki-chan",
-    "epId": "fushigi-no-kuni-no-miyuki-chan-episode-1",
-    "title": "Fushigi no Kuni no Miyuki-chan",
-    "img": "https://gogocdn.net/cover/fushigi-no-kuni-no-miyuki-chan.png",
     "episode": "Episode 1"
   },
   {
@@ -2735,68 +2798,5 @@
     "title": "Seiyuu Radio no Uraomote",
     "img": "https://gogocdn.net/cover/seiyuu-radio-no-uraomote-1711738542.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "rinkai",
-    "epId": "rinkai-episode-12",
-    "title": "Rinkai!",
-    "img": "https://gogocdn.net/cover/rinkai-1711737551.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "unnamed-memory",
-    "epId": "unnamed-memory-episode-12",
-    "title": "Unnamed Memory",
-    "img": "https://gogocdn.net/cover/unnamed-memory-1711739998.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kimitachi-wa-dou-ikiru-ka",
-    "epId": "kimitachi-wa-dou-ikiru-ka-episode-1",
-    "title": "Kimitachi wa Dou Ikiru ka",
-    "img": "https://gogocdn.net/cover/kimitachi-wa-dou-ikiru-ka-1719292660.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "tadaima-okaeri",
-    "epId": "tadaima-okaeri-episode-12",
-    "title": "Tadaima, Okaeri",
-    "img": "https://gogocdn.net/cover/tadaima-okaeri.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "epId": "tsuki-ga-michibiku-isekai-douchuu-2nd-season-episode-25",
-    "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-    "img": "https://gogocdn.net/cover/tsuki-ga-michibiku-isekai-douchuu-2nd-season-1708569353.png",
-    "episode": "Episode 25"
-  },
-  {
-    "id": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
-    "epId": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-episode-12",
-    "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
-    "img": "https://gogocdn.net/cover/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "shuumatsu-train-doko-e-iku",
-    "epId": "shuumatsu-train-doko-e-iku-episode-12",
-    "title": "Shuumatsu Train Doko e Iku?",
-    "img": "https://gogocdn.net/cover/shuumatsu-train-doko-e-iku-1711738910.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kami-wa-game-ni-ueteiru",
-    "epId": "kami-wa-game-ni-ueteiru-episode-13",
-    "title": "Kami wa Game ni Ueteiru.",
-    "img": "https://gogocdn.net/cover/kami-wa-game-ni-ueteiru-1711735064.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "bosanimal",
-    "epId": "bosanimal-episode-91-96-episode-10",
-    "title": "Bosanimal Episode 91-96",
-    "img": "https://gogocdn.net/cover/bosanimal.png",
-    "episode": "Episode 10"
   }
 ]
