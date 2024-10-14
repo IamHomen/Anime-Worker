@@ -12,8 +12,12 @@
   "otherNames": "After-School Hanako-kun Part 2, \u653e\u8ab2\u5f8c\u5c11\u5e74\u82b1\u5b50\u304f\u3093 \u7d9a\u7de8",
   "synopsis": "Second part of Houkago Shounen Hanako-kun.",
   "animeImg": "https://gogocdn.net/cover/houkago-shounen-hanako-kun-part-2.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "2",
   "episodesList": [
+    {
+      "episodeId": "houkago-shounen-hanako-kun-part-2-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "houkago-shounen-hanako-kun-part-2-episode-1",
       "episodeNum": "Episode 1"

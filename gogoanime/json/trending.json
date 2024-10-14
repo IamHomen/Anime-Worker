@@ -42,7 +42,7 @@
     "animeId": "seirei-gensouki-2",
     "animeTitle": "Seirei Gensouki 2",
     "animeImg": "'https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png'",
-    "latestEp": "Episode 1",
+    "latestEp": "Episode 2",
     "animeUrl": "https://anitaku.so/category/seirei-gensouki-2",
     "genres": [
       "Action",
@@ -107,6 +107,20 @@
     ]
   },
   {
+    "animeId": "arifureta-shokugyou-de-sekai-saikyou-season-3",
+    "animeTitle": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+    "animeImg": "'https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png'",
+    "latestEp": "Episode 1",
+    "animeUrl": "https://anitaku.so/category/arifureta-shokugyou-de-sekai-saikyou-season-3",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Harem",
+      "Isekai"
+    ]
+  },
+  {
     "animeId": "ao-no-hako",
     "animeTitle": "Ao no Hako",
     "animeImg": "'https://gogocdn.net/cover/ao-no-hako.png'",
@@ -118,20 +132,6 @@
       "Shounen",
       "Sports",
       "Team Sports"
-    ]
-  },
-  {
-    "animeId": "isekai-shikkaku",
-    "animeTitle": "Isekai Shikkaku",
-    "animeImg": "'https://gogocdn.net/cover/isekai-shikkaku-1726022121.png'",
-    "latestEp": "Episode 12",
-    "animeUrl": "https://anitaku.so/category/isekai-shikkaku",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Isekai",
-      "Parody"
     ]
   }
 ]
