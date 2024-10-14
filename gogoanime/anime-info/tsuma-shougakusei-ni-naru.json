@@ -1,17 +1,30 @@
 {
   "animeTitle": "Tsuma, Shougakusei ni Naru.",
-  "type": "TV Series",
-  "releasedDate": "0",
-  "status": "Upcoming",
+  "type": "Fall 2024 Anime",
+  "releasedDate": "2024",
+  "status": "Ongoing",
   "genres": [
     "Comedy",
-    "Drama",
+    "Reincarnation",
     "Romance",
-    "Slice of Life"
+    "Seinen"
   ],
-  "otherNames": "\u5c0f\u5b66\u751f\u306b\u306a\u308b\u3002; If my wife became an elementary school student.",
+  "otherNames": "\u5c0f\u5b66\u751f\u306b\u306a\u308b\u3002; If my wife became an elementary school student., TsumaSho",
   "synopsis": "Keisuke Niijima lost his beloved wife, Takae, 10 years ago. Since then, he doesn't feel alive and is seen as a gloomy man. The only family Keisuke is left with is his only daughter, Mai. Keisuke wants Mai to be happy but he has not done anything for his daughter other than providing living expenses. The father and daughter's time stopped 10 years ago. They are living in the same house but live very separate lives and do not communicate well. One day, an elementary school girl appears in front of Niijima's house and claims that she is the reincarnation of Takae.",
-  "animeImg": "https://gogocdn.net/cover/tsuma-shougakusei-ni-naru.png",
-  "totalEpisodes": "0",
-  "episodesList": []
+  "animeImg": "https://gogocdn.net/cover/tsuma-shougakusei-ni-naru-1727380086.png",
+  "totalEpisodes": "3",
+  "episodesList": [
+    {
+      "episodeId": "tsuma-shougakusei-ni-naru-episode-3",
+      "episodeNum": "Episode 3"
+    },
+    {
+      "episodeId": "tsuma-shougakusei-ni-naru-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tsuma-shougakusei-ni-naru-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
 }
