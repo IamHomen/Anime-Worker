@@ -1,5 +1,68 @@
 [
   {
+    "id": "i-think-youre-a-little-confused",
+    "epId": "i-think-youre-a-little-confused-episode-1",
+    "title": "I Think You're a Little Confused",
+    "img": "https://gogocdn.net/cover/i-think-youre-a-little-confused.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yubi-wo-nusunda-onna",
+    "epId": "yubi-wo-nusunda-onna-episode-1",
+    "title": "Yubi wo Nusunda Onna",
+    "img": "https://gogocdn.net/cover/yubi-wo-nusunda-onna.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "high-school-mystery-gakuen-nanafushigi",
+    "epId": "high-school-mystery-gakuen-nanafushigi-episode-16",
+    "title": "High School Mystery: Gakuen Nanafushigi",
+    "img": "https://gogocdn.net/cover/high-school-mystery-gakuen-nanafushigi.png",
+    "episode": "Episode 16"
+  },
+  {
+    "id": "wanpaku-tanteidan",
+    "epId": "wanpaku-tanteidan-episode-5",
+    "title": "Wanpaku Tanteidan",
+    "img": "https://gogocdn.net/cover/wanpaku-tanteidan.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "koha-ginjiro",
+    "epId": "koha-ginjiro-episode-3",
+    "title": "Koha Ginjiro",
+    "img": "https://gogocdn.net/cover/koha-ginjiro.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "googuri-googuri",
+    "epId": "googuri-googuri-episode-1",
+    "title": "Googuri Googuri",
+    "img": "https://gogocdn.net/cover/googuri-googuri.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "love-live-superstar-3rd-season",
+    "epId": "love-live-superstar-3rd-season-episode-2",
+    "title": "Love Live! Superstar!! 3rd Season",
+    "img": "https://gogocdn.net/cover/love-live-superstar-3rd-season.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-27",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 27"
+  },
+  {
+    "id": "punirunes-2",
+    "epId": "punirunes-2-episode-2",
+    "title": "Punirunes 2",
+    "img": "https://gogocdn.net/cover/punirunes-2.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "mf-ghost-2nd-season",
     "epId": "mf-ghost-2nd-season-episode-2",
     "title": "MF Ghost 2nd Season",
@@ -693,13 +756,6 @@
     "episode": "Episode 75"
   },
   {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-26",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 26"
-  },
-  {
     "id": "grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party",
     "epId": "grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party-episode-1",
     "title": "Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!",
@@ -777,13 +833,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "love-live-superstar-3rd-season",
-    "epId": "love-live-superstar-3rd-season-episode-1",
-    "title": "Love Live! Superstar!! 3rd Season",
-    "img": "https://gogocdn.net/cover/love-live-superstar-3rd-season.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-51",
     "title": "Beyblade X",
@@ -824,13 +873,6 @@
     "title": "Shinkalion: Change the World",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 24"
-  },
-  {
-    "id": "punirunes-2",
-    "epId": "punirunes-2-episode-1",
-    "title": "Punirunes 2",
-    "img": "https://gogocdn.net/cover/punirunes-2.png",
-    "episode": "Episode 1"
   },
   {
     "id": "kotetsu-no-daibouken",
@@ -1078,13 +1120,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored",
-    "epId": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored-episode-12",
-    "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai (Uncensored)",
-    "img": "https://gogocdn.net/cover/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-uncensored.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "uji-ni-wa-monogatari-ga-aru",
     "epId": "uji-ni-wa-monogatari-ga-aru-episode-1",
     "title": "Uji ni wa Monogatari ga Aru",
@@ -1215,6 +1250,13 @@
     "epId": "kaze-no-matasaburou-episode-1",
     "title": "Kaze no Matasaburou",
     "img": "https://gogocdn.net/cover/kaze-no-matasaburou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "fushigi-no-kuni-no-miyuki-chan",
+    "epId": "fushigi-no-kuni-no-miyuki-chan-episode-1",
+    "title": "Fushigi no Kuni no Miyuki-chan",
+    "img": "https://gogocdn.net/cover/fushigi-no-kuni-no-miyuki-chan.png",
     "episode": "Episode 1"
   },
   {
@@ -1862,13 +1904,6 @@
     "episode": "Episode 17"
   },
   {
-    "id": "koha-ginjiro",
-    "epId": "koha-ginjiro-episode-2",
-    "title": "Koha Ginjiro",
-    "img": "https://gogocdn.net/cover/koha-ginjiro.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou",
     "epId": "maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou-episode-5",
     "title": "Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou",
@@ -2182,13 +2217,6 @@
     "title": "Kyojin no Hoshi",
     "img": "https://gogocdn.net/cover/kyojin-no-hoshi.png",
     "episode": "Episode 52"
-  },
-  {
-    "id": "wanpaku-tanteidan",
-    "epId": "wanpaku-tanteidan-episode-4",
-    "title": "Wanpaku Tanteidan",
-    "img": "https://gogocdn.net/cover/wanpaku-tanteidan.png",
-    "episode": "Episode 4"
   },
   {
     "id": "mitsume-ga-tooru",
@@ -2770,33 +2798,5 @@
     "title": "Bosanimal Episode 91-96",
     "img": "https://gogocdn.net/cover/bosanimal.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "tondemo-senshi-muteking",
-    "epId": "tondemo-senshi-muteking-episode-3",
-    "title": "Tondemo Senshi Muteking",
-    "img": "https://gogocdn.net/cover/tondemo-senshi-muteking.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "blue-archive-the-animation",
-    "epId": "blue-archive-the-animation-episode-12",
-    "title": "Blue Archive the Animation",
-    "img": "https://gogocdn.net/cover/blue-archive-the-animation-1711732052.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "tensei-kizoku-kantei-skill-de-nariagaru",
-    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-episode-12",
-    "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-1711739105.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "vampire-dormitory",
-    "epId": "vampire-dormitory-episode-12",
-    "title": "Vampire Dormitory",
-    "img": "https://gogocdn.net/cover/vampire-dormitory.png",
-    "episode": "Episode 12"
   }
 ]

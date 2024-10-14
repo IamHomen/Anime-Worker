@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Pupa (Movie)",
+  "type": "Movie",
+  "releasedDate": "2019",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Slice of Life"
+  ],
+  "otherNames": "Pupa",
+  "synopsis": "How long has it been since she lost control of her body? She is completely tapped out and finds herself wishing that she could just shed her body.",
+  "animeImg": "https://gogocdn.net/cover/pupa-movie.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "pupa-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

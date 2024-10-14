@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Ano Chi",
+  "type": "Movie",
+  "releasedDate": "2018",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Psychological"
+  ],
+  "otherNames": "In There",
+  "synopsis": "This story is about a place long ago, before birth and before death, that everyone knows and no one knows.",
+  "animeImg": "https://gogocdn.net/cover/ano-chi.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "ano-chi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

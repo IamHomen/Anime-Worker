@@ -1,5 +1,33 @@
 [
   {
+    "id": "ranma-2024-dub",
+    "epId": "ranma-2024-dub-episode-2",
+    "title": "Ranma \u00bd (2024) (Dub)",
+    "img": "https://gogocdn.net/cover/ranma-2024-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kami-no-tou-ouji-no-kikan-dub",
+    "epId": "kami-no-tou-ouji-no-kikan-dub-episode-13",
+    "title": "Kami no Tou: Ouji no Kikan (Dub)",
+    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan-dub.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "fairy-tail-100-nen-quest-dub",
+    "epId": "fairy-tail-100-nen-quest-dub-episode-13",
+    "title": "Fairy Tail: 100-nen Quest (Dub)",
+    "img": "https://gogocdn.net/cover/fairy-tail-100-nen-quest-dub.png",
+    "episode": "Episode 13"
+  },
+  {
+    "id": "tsue-to-tsurugi-no-wistoria-dub",
+    "epId": "tsue-to-tsurugi-no-wistoria-dub-episode-12",
+    "title": "Tsue to Tsurugi no Wistoria (Dub)",
+    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria-dub.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "uzumaki-dub",
     "epId": "uzumaki-dub-episode-3",
     "title": "Uzumaki (Dub)",
@@ -203,13 +231,6 @@
     "episode": "Episode 25"
   },
   {
-    "id": "fairy-tail-100-nen-quest-dub",
-    "epId": "fairy-tail-100-nen-quest-dub-episode-12",
-    "title": "Fairy Tail: 100-nen Quest (Dub)",
-    "img": "https://gogocdn.net/cover/fairy-tail-100-nen-quest-dub.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "shy-2nd-season-dub",
     "epId": "shy-2nd-season-dub-episode-12",
     "title": "Shy 2nd Season (Dub)",
@@ -250,27 +271,6 @@
     "title": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta (Dub)",
     "img": "https://gogocdn.net/cover/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-dub-1725940649.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "tsue-to-tsurugi-no-wistoria-dub",
-    "epId": "tsue-to-tsurugi-no-wistoria-dub-episode-11",
-    "title": "Tsue to Tsurugi no Wistoria (Dub)",
-    "img": "https://gogocdn.net/cover/tsue-to-tsurugi-no-wistoria-dub.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "kami-no-tou-ouji-no-kikan-dub",
-    "epId": "kami-no-tou-ouji-no-kikan-dub-episode-12",
-    "title": "Kami no Tou: Ouji no Kikan (Dub)",
-    "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "ranma-2024-dub",
-    "epId": "ranma-2024-dub-episode-1",
-    "title": "Ranma \u00bd (2024) (Dub)",
-    "img": "https://gogocdn.net/cover/ranma-2024-dub.png",
-    "episode": "Episode 1"
   },
   {
     "id": "yamakoshi-mura-no-mari-to-sanbiki-no-koinu-dub",

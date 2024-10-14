@@ -1,0 +1,21 @@
+{
+  "animeTitle": "Sangsil-ui Jib",
+  "type": "Movie",
+  "releasedDate": "2022",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Psychological",
+    "Suspense"
+  ],
+  "otherNames": "The House of Loss, \uc0c1\uc2e4\uc758 \uc9d1",
+  "synopsis": "The elderly at the nursing home have their heads shaved. The protagonist who works there sees them but can't read their expressions. However, from one instance, he finds himself looking closely at their faces.",
+  "animeImg": "https://gogocdn.net/cover/sangsil-ui-jib.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "sangsil-ui-jib-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
