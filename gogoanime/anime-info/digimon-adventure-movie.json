@@ -1,0 +1,22 @@
+{
+  "animeTitle": "Digimon Adventure Movie",
+  "type": "Movie",
+  "releasedDate": "1999",
+  "status": "Completed",
+  "genres": [
+    "Fantasy",
+    "Kids",
+    "Sci-Fi",
+    "Shounen"
+  ],
+  "otherNames": "Digimon: The Movie, \u30c7\u30b8\u30e2\u30f3\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc \u5287\u5834\u7248",
+  "synopsis": "This 20-minute motion picture was the original pilot for the Digimon Adventure series, and tells, in more detail, the story that was regaled in Ep. 20 of Adventures. The story of the mysterious Digimon sighting and battle outside the Hieghton Veiw Terrace, where all the Chosen Children live.",
+  "animeImg": "https://gogocdn.net/images/anime/D/35930.jpg",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "digimon-adventure-movie-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

@@ -1,5 +1,75 @@
 [
   {
+    "id": "blink-in-the-desert",
+    "epId": "blink-in-the-desert-episode-1",
+    "title": "Blink in the Desert",
+    "img": "https://gogocdn.net/cover/blink-in-the-desert.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ningyo-no-uta",
+    "epId": "ningyo-no-uta-episode-1",
+    "title": "Ningyo no Uta",
+    "img": "https://gogocdn.net/cover/ningyo-no-uta.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "artiswitch-collection2021",
+    "epId": "artiswitch-collection2021-episode-1",
+    "title": "Artiswitch Collection/2021",
+    "img": "https://gogocdn.net/cover/artiswitch-collection2021.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "artiswitch-collectionruru",
+    "epId": "artiswitch-collectionruru-episode-1",
+    "title": "Artiswitch Collection/Ruru",
+    "img": "https://gogocdn.net/cover/artiswitch-collectionruru.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "a-brightening-life",
+    "epId": "a-brightening-life-episode-1",
+    "title": "A Brightening Life",
+    "img": "https://gogocdn.net/cover/a-brightening-life.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "artiswitch-picture-drama",
+    "epId": "artiswitch-picture-drama-episode-5",
+    "title": "Artiswitch Picture Drama",
+    "img": "https://gogocdn.net/cover/artiswitch-picture-drama.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "zdravstvuite",
+    "epId": "zdravstvuite-episode-1",
+    "title": "Zdravstvuite!",
+    "img": "https://gogocdn.net/cover/zdravstvuite.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-76",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 76"
+  },
+  {
+    "id": "hashire-melos-movie",
+    "epId": "hashire-melos-movie-episode-1",
+    "title": "Hashire Melos (Movie)",
+    "img": "https://gogocdn.net/cover/hashire-melos-movie.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "neko-ni-tensei-shita-ojisan",
+    "epId": "neko-ni-tensei-shita-ojisan-episode-2",
+    "title": "Neko ni Tensei shita Ojisan",
+    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "houkago-shounen-hanako-kun-part-2",
     "epId": "houkago-shounen-hanako-kun-part-2-episode-2",
     "title": "Houkago Shounen Hanako-kun Part 2",
@@ -875,24 +945,10 @@
     "episode": "Episode 1"
   },
   {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-75",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 75"
-  },
-  {
     "id": "grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party",
     "epId": "grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party-episode-1",
     "title": "Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!",
     "img": "https://gogocdn.net/cover/grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "neko-ni-tensei-shita-ojisan",
-    "epId": "neko-ni-tensei-shita-ojisan-episode-1",
-    "title": "Neko ni Tensei shita Ojisan",
-    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
     "episode": "Episode 1"
   },
   {
@@ -2741,62 +2797,6 @@
     "epId": "ooi-tonbo-episode-13",
     "title": "Ooi! Tonbo",
     "img": "https://gogocdn.net/cover/ooi-tonbo-1711737156.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "rail-romanesque-2",
-    "epId": "rail-romanesque-2-episode-4",
-    "title": "Rail Romanesque 2",
-    "img": "https://gogocdn.net/cover/rail-romanesque-2-1696011415.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "girls-band-cry",
-    "epId": "girls-band-cry-episode-13",
-    "title": "Girls Band Cry",
-    "img": "https://gogocdn.net/cover/girls-band-cry-1711733454.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "mahouka-koukou-no-rettousei-3rd-season",
-    "epId": "mahouka-koukou-no-rettousei-3rd-season-episode-13",
-    "title": "Mahouka Koukou no Rettousei 3rd Season",
-    "img": "https://gogocdn.net/cover/mahouka-koukou-no-rettousei-3rd-season.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "wind-breaker",
-    "epId": "wind-breaker-episode-13",
-    "title": "Wind Breaker",
-    "img": "https://gogocdn.net/cover/wind-breaker-1711740617.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "kenka-dokugaku",
-    "epId": "kenka-dokugaku-episode-12",
-    "title": "Kenka Dokugaku",
-    "img": "https://gogocdn.net/cover/kenka-dokugaku.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "date-a-live-v",
-    "epId": "date-a-live-v-episode-12",
-    "title": "Date A Live V",
-    "img": "https://gogocdn.net/cover/date-a-live-v.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kaii-to-otome-to-kamikakushi",
-    "epId": "kaii-to-otome-to-kamikakushi-episode-12",
-    "title": "Kaii to Otome to Kamikakushi",
-    "img": "https://gogocdn.net/cover/kaii-to-otome-to-kamikakushi-1711734543.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "gunma-chan-season-2",
-    "epId": "gunma-chan-season-2-episode-13",
-    "title": "Gunma-chan Season 2",
-    "img": "https://gogocdn.net/cover/gunma-chan-season-2.png",
     "episode": "Episode 13"
   }
 ]
