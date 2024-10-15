@@ -1,0 +1,19 @@
+{
+  "animeTitle": "Zdravstvuite!",
+  "type": "Movie",
+  "releasedDate": "2016",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde"
+  ],
+  "otherNames": "\u30ba\u30c9\u30e9\u30fc\u30b9\u30c8\u30f4\u30a3\u30c1\u30a7!",
+  "synopsis": "On a summer day, a strange man who teaches Russian at the beach took me to the town. The familiar town looked totally fresh from a different point of view. The man should be there at the beach tomorrow.",
+  "animeImg": "https://gogocdn.net/cover/zdravstvuite.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "zdravstvuite-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
