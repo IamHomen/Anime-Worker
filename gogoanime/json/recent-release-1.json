@@ -1,5 +1,12 @@
 [
   {
+    "id": "two-on-the-road-itsumo-futari-de",
+    "epId": "two-on-the-road-itsumo-futari-de-episode-1",
+    "title": "Two on the Road: Itsumo Futari de",
+    "img": "https://gogocdn.net/cover/two-on-the-road-itsumo-futari-de.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-14",
     "title": "Tasuuketsu",
@@ -2790,13 +2797,6 @@
     "epId": "the-new-gate-episode-12",
     "title": "The New Gate",
     "img": "https://gogocdn.net/cover/the-new-gate.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kaijuu-8-gou",
-    "epId": "kaijuu-8-gou-episode-12",
-    "title": "Kaijuu 8-gou",
-    "img": "https://gogocdn.net/cover/kaijuu-8-gou-1711734879.png",
     "episode": "Episode 12"
   }
 ]
