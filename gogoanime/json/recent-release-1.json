@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-14",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 14"
+  },
+  {
     "id": "amagami-san-chi-no-enmusubi",
     "epId": "amagami-san-chi-no-enmusubi-episode-3",
     "title": "Amagami-san Chi no Enmusubi",
@@ -894,13 +901,6 @@
     "title": "Tibet Inu Monogatari (Chinsese Dub)",
     "img": "https://gogocdn.net/cover/tibet-inu-monogatari-chinsese-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-13",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 13"
   },
   {
     "id": "ko-seiki-beast-sanjuushi",

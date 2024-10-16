@@ -1,5 +1,26 @@
 [
   {
+    "id": "amagami-san-chi-no-enmusubi-dub",
+    "epId": "amagami-san-chi-no-enmusubi-dub-episode-1",
+    "title": "Amagami-san Chi no Enmusubi (Dub)",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yoru-no-kurage-wa-oyogenai-dub",
+    "epId": "yoru-no-kurage-wa-oyogenai-dub-episode-5",
+    "title": "Yoru no Kurage wa Oyogenai (Dub)",
+    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "lv1-maou-to-one-room-yuusha-dub",
+    "epId": "lv1-maou-to-one-room-yuusha-dub-episode-9",
+    "title": "Lv1 Maou to One Room Yuusha (Dub)",
+    "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub-1726023167.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "seirei-gensouki-2-dub",
     "epId": "seirei-gensouki-2-dub-episode-2",
     "title": "Seirei Gensouki 2 (Dub)",
@@ -201,20 +222,6 @@
     "title": "Isekai Shikkaku (Dub)",
     "img": "https://gogocdn.net/cover/isekai-shikkaku-dub-1726021971.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "lv1-maou-to-one-room-yuusha-dub",
-    "epId": "lv1-maou-to-one-room-yuusha-dub-episode-8",
-    "title": "Lv1 Maou to One Room Yuusha (Dub)",
-    "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub-1726023167.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "yoru-no-kurage-wa-oyogenai-dub",
-    "epId": "yoru-no-kurage-wa-oyogenai-dub-episode-4",
-    "title": "Yoru no Kurage wa Oyogenai (Dub)",
-    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-dub.png",
-    "episode": "Episode 4"
   },
   {
     "id": "ko-seiki-beast-sanjuushi-dub",
@@ -1892,7 +1899,7 @@
   {
     "id": "onegaiteacher-dub",
     "epId": "onegaiteacher-dub-episode-13",
-    "title": "Onegai\u014c\u015b\u00e5Teacher (Dub)",
+    "title": "Onegai\u2606Teacher (Dub)",
     "img": "https://gogocdn.net/cover/onegaiteacher-dub.png",
     "episode": "Episode 13"
   },
@@ -2791,12 +2798,5 @@
     "title": "Black Clover: Mahou Tei no Ken (Dub)",
     "img": "https://gogocdn.net/cover/black-clover-mahou-tei-no-ken-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "nanaka-617-dub",
-    "epId": "nanaka-617-dub-episode-13",
-    "title": "Nanaka 6/17 (Dub)",
-    "img": "https://gogocdn.net/cover/nanaka-617-dub.png",
-    "episode": "Episode 13"
   }
 ]
