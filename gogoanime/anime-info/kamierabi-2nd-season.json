@@ -11,8 +11,12 @@
   "otherNames": "KamiErabi GOD.app Season 2, \u30ab\u30df\u30a8\u30e9\u30d3 GOD.app",
   "synopsis": "Second season of Kamierabi.",
   "animeImg": "https://gogocdn.net/cover/kamierabi-2nd-season.png",
-  "totalEpisodes": "2",
+  "totalEpisodes": "3",
   "episodesList": [
+    {
+      "episodeId": "kamierabi-2nd-season-episode-3",
+      "episodeNum": "Episode 3"
+    },
     {
       "episodeId": "kamierabi-2nd-season-episode-2",
       "episodeNum": "Episode 2"
