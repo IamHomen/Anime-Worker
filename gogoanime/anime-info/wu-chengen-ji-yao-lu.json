@@ -11,8 +11,16 @@
   "otherNames": "\u5434\u627f\u6069\u7f09\u5996\u5f55, Another Journey to the West",
   "synopsis": "Follow Wu Cheng\u2019en on his own legendary pilgrimage to the \u201cWestern Regions\u201d in search of Enlightenment.",
   "animeImg": "https://gogocdn.net/cover/wu-chengen-ji-yao-lu-1728588011.png",
-  "totalEpisodes": "2",
+  "totalEpisodes": "4",
   "episodesList": [
+    {
+      "episodeId": "wu-chengen-ji-yao-lu-episode-4",
+      "episodeNum": "Episode 4"
+    },
+    {
+      "episodeId": "wu-chengen-ji-yao-lu-episode-3",
+      "episodeNum": "Episode 3"
+    },
     {
       "episodeId": "wu-chengen-ji-yao-lu-episode-2",
       "episodeNum": "Episode 2"

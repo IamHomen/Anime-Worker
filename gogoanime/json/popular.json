@@ -96,12 +96,6 @@
     "date": "2024"
   },
   {
-    "id": "oshi-no-ko-2nd-season",
-    "title": "\"Oshi no Ko\" 2nd Season",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
-    "date": "2024"
-  },
-  {
     "id": "kami-no-tou-ouji-no-kikan",
     "title": "Kami no Tou: Ouji no Kikan",
     "img": "https://gogocdn.net/cover/kami-no-tou-ouji-no-kikan.png",
@@ -1918,6 +1912,12 @@
     "title": "Hai to Gensou no Grimgar",
     "img": "https://gogocdn.net/images/upload/180121.jpg",
     "date": "2016"
+  },
+  {
+    "id": "oshi-no-ko-2nd-season",
+    "title": "\"Oshi no Ko\" 2nd Season",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season.png",
+    "date": "2024"
   },
   {
     "id": "ushio-to-tora-tv-",
@@ -21012,6 +21012,12 @@
     "date": "1992"
   },
   {
+    "id": "kidou-senshi-gundam-fukushuu-no-requiem",
+    "title": "Kidou Senshi Gundam: Fukushuu no Requiem",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-fukushuu-no-requiem.png",
+    "date": "2024"
+  },
+  {
     "id": "bakuretsu-tenshi-dub",
     "title": "Bakuretsu Tenshi (Dub)",
     "img": "https://gogocdn.net/cover/bakuretsu-tenshi-dub.jpg",
@@ -21252,6 +21258,12 @@
     "date": "2020"
   },
   {
+    "id": "kidou-senshi-gundam-fukushuu-no-requiem-dub",
+    "title": "Kidou Senshi Gundam: Fukushuu no Requiem (Dub)",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-fukushuu-no-requiem-dub.png",
+    "date": "2024"
+  },
+  {
     "id": "bakuten-shoot-beyblade-dub",
     "title": "Bakuten Shoot Beyblade (Dub)",
     "img": "https://gogocdn.net/cover/bakuten-shoot-beyblade-dub.jpg",
@@ -21478,6 +21490,12 @@
     "title": "Magic Knight Rayearth Pilot",
     "img": "https://gogocdn.net/cover/magic-knight-rayearth-pilot.png",
     "date": "2014"
+  },
+  {
+    "id": "rezero-kara-hajimeru-break-time-3rd-season",
+    "title": "Re:Zero kara Hajimeru Break Time 3rd Season",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-break-time-3rd-season.png",
+    "date": "2024"
   },
   {
     "id": "drifters-ova",
@@ -45094,6 +45112,12 @@
     "title": "Yoroiden Samurai Troopers Kikoutei Densetsu",
     "img": "https://gogocdn.net/cover/yoroiden-samurai-troopers-kikoutei-densetsu-1708531832.png",
     "date": "1989"
+  },
+  {
+    "id": "metropolis-dub",
+    "title": "Metropolis (Dub)",
+    "img": "https://gogocdn.net/cover/metropolis-dub.png",
+    "date": "2001"
   },
   {
     "id": "metropolis-dub",
@@ -80134,29 +80158,5 @@
     "title": "Hibike! Euphonium Specials",
     "img": "https://gogocdn.net/images/upload/hibike.jpg",
     "date": "2015"
-  },
-  {
-    "id": "abenobashi-mahou-shoutengai-dub",
-    "title": "Abenobashi Mahou Shoutengai (Dub)",
-    "img": "https://gogocdn.net/cover/abenobashi-mahou-shoutengai-dub.jpg",
-    "date": "2002"
-  },
-  {
-    "id": "saiyuki-requiem-dub",
-    "title": "Saiyuki: Requiem (Dub)",
-    "img": "https://gogocdn.net/cover/saiyuki-requiem-dub.png",
-    "date": "2001"
-  },
-  {
-    "id": "mobile-suit-gundam-ii-soldiers-of-sorrow-dub",
-    "title": "Mobile Suit Gundam II: Soldiers of Sorrow (Dub)",
-    "img": "https://gogocdn.net/cover/mobile-suit-gundam-ii-soldiers-of-sorrow-dub.png",
-    "date": "1981"
-  },
-  {
-    "id": "chain-chronicle-haecceitas-no-hikari-part-1",
-    "title": "Chain Chronicle: Haecceitas no Hikari Part 1",
-    "img": "https://gogocdn.net/cover/chain-chronicle-haecceitas-no-hikari-part-1.png",
-    "date": "2016"
   }
 ]
