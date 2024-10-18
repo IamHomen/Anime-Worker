@@ -1,5 +1,19 @@
 [
   {
+    "id": "evangelion-3-0-46h",
+    "epId": "evangelion-3-0-46h-episode-1",
+    "title": "Evangelion: 3.0 (-46h)",
+    "img": "https://gogocdn.net/cover/evangelion-3-0-46h.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-16",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 16"
+  },
+  {
     "id": "rick-and-morty-the-anime",
     "epId": "rick-and-morty-the-anime-episode-10",
     "title": "Rick and Morty: The Anime",
@@ -875,13 +889,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-15",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 15"
-  },
-  {
     "id": "my-little-goat",
     "epId": "my-little-goat-episode-1",
     "title": "My Little Goat",
@@ -1724,7 +1731,7 @@
   {
     "id": "princess-army-weddingcombat",
     "epId": "princess-army-weddingcombat-episode-2",
-    "title": "Princess Army: Wedding\u2605Combat",
+    "title": "Princess Army: Wedding\u014c\u015b\u0123Combat",
     "img": "https://gogocdn.net/cover/princess-army-weddingcombat.png",
     "episode": "Episode 2"
   },
@@ -1766,7 +1773,7 @@
   {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-11",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
+    "title": "Kinnikuman: Kanpeki Ch\u0105\u0160ujin Shiso-hen",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1725939381.png",
     "episode": "Episode 11"
   },
@@ -1808,7 +1815,7 @@
   {
     "id": "ranma-nettou-uta-gassen",
     "epId": "ranma-nettou-uta-gassen-episode-2",
-    "title": "Ranma \u00bd: Nettou Uta Gassen",
+    "title": "Ranma \u252c\u012e: Nettou Uta Gassen",
     "img": "https://gogocdn.net/cover/ranma-nettou-uta-gassen.png",
     "episode": "Episode 2"
   },
@@ -2791,12 +2798,5 @@
     "title": "Captain Tsubasa Season 2: Junior Youth-hen",
     "img": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
     "episode": "Episode 39"
-  },
-  {
-    "id": "sentai-daishikkaku",
-    "epId": "sentai-daishikkaku-episode-12",
-    "title": "Sentai Daishikkaku",
-    "img": "https://gogocdn.net/cover/sentai-daishikkaku-1711738588.png",
-    "episode": "Episode 12"
   }
 ]

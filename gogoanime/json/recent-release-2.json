@@ -1,5 +1,12 @@
 [
   {
+    "id": "blue-lock",
+    "epId": "blue-lock-episode-nagi-dub-episode-1",
+    "title": "Blue Lock: Episode Nagi (Dub)",
+    "img": "https://gogocdn.net/cover/blue-lock-episode-nagi-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "rick-and-morty-the-anime-dub",
     "epId": "rick-and-morty-the-anime-dub-episode-10",
     "title": "Rick and Morty: The Anime (Dub)",
@@ -2790,13 +2797,6 @@
     "epId": "top-wo-nerae-kagaku-kouza-dub-episode-6",
     "title": "Top wo Nerae! Kagaku Kouza (Dub)",
     "img": "https://gogocdn.net/cover/top-wo-nerae-kagaku-kouza-dub.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "top-wo-nerae-gunbuster-dub",
-    "epId": "top-wo-nerae-gunbuster-dub-episode-6",
-    "title": "Top wo Nerae! Gunbuster (Dub)",
-    "img": "https://gogocdn.net/cover/top-wo-nerae-gunbuster-dub.png",
     "episode": "Episode 6"
   }
 ]
