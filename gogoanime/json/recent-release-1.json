@@ -1,5 +1,19 @@
 [
   {
+    "id": "ao-no-miburo",
+    "epId": "ao-no-miburo-episode-1",
+    "title": "Ao no Miburo",
+    "img": "https://gogocdn.net/cover/ao-no-miburo-1727372596.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1139",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1139"
+  },
+  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-69",
     "title": "Pokemon (Shinsaku Anime)",
@@ -768,13 +782,6 @@
     "title": "Pop Pop City",
     "img": "https://gogocdn.net/cover/pop-pop-city.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1138",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1138"
   },
   {
     "id": "boku-no-hero-academia-7th-season",
@@ -1731,7 +1738,7 @@
   {
     "id": "princess-army-weddingcombat",
     "epId": "princess-army-weddingcombat-episode-2",
-    "title": "Princess Army: Wedding\u014c\u015b\u0123Combat",
+    "title": "Princess Army: Wedding\u2605Combat",
     "img": "https://gogocdn.net/cover/princess-army-weddingcombat.png",
     "episode": "Episode 2"
   },
@@ -1773,7 +1780,7 @@
   {
     "id": "kinnikuman-kanpeki-choujin-shiso-hen",
     "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-11",
-    "title": "Kinnikuman: Kanpeki Ch\u0105\u0160ujin Shiso-hen",
+    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen",
     "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-1725939381.png",
     "episode": "Episode 11"
   },
@@ -1815,7 +1822,7 @@
   {
     "id": "ranma-nettou-uta-gassen",
     "epId": "ranma-nettou-uta-gassen-episode-2",
-    "title": "Ranma \u252c\u012e: Nettou Uta Gassen",
+    "title": "Ranma \u00bd: Nettou Uta Gassen",
     "img": "https://gogocdn.net/cover/ranma-nettou-uta-gassen.png",
     "episode": "Episode 2"
   },
@@ -2791,12 +2798,5 @@
     "title": "Hibike! Euphonium 3",
     "img": "https://gogocdn.net/cover/hibike-euphonium-3.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "captain-tsubasa-season-2-junior-youth-hen",
-    "epId": "captain-tsubasa-season-2-junior-youth-hen-episode-39",
-    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-    "img": "https://gogocdn.net/cover/captain-tsubasa-season-2-junior-youth-hen.png",
-    "episode": "Episode 39"
   }
 ]
