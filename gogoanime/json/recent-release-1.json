@@ -1,5 +1,54 @@
 [
   {
+    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
+    "epId": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-3",
+    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
+    "img": "https://gogocdn.net/cover/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-1727374871.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "hyakushou-kizoku-2nd-season",
+    "epId": "hyakushou-kizoku-2nd-season-episode-3",
+    "title": "Hyakushou Kizoku 2nd Season",
+    "img": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
+    "epId": "goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-3",
+    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "img": "https://gogocdn.net/cover/goukon-ni-ittara-onna-ga-inakatta-hanashi-1727373529.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "the-idolmster-shiny-colors-2nd-season",
+    "epId": "the-idolmster-shiny-colors-2nd-season-episode-3",
+    "title": "The iDOLM@STER Shiny Colors 2nd Season",
+    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-2nd-season.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "dragon-ball-daima",
+    "epId": "dragon-ball-daima-episode-2",
+    "title": "Dragon Ball Daima",
+    "img": "https://gogocdn.net/cover/dragon-ball-daima.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "sword-art-online-alternative-gun-gale-online-ii",
+    "epId": "sword-art-online-alternative-gun-gale-online-ii-episode-3",
+    "title": "Sword Art Online Alternative: Gun Gale Online II",
+    "img": "https://gogocdn.net/cover/sword-art-online-alternative-gun-gale-online-ii.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "kabushikigaisha-magi-lumiere",
+    "epId": "kabushikigaisha-magi-lumiere-episode-3",
+    "title": "Kabushikigaisha Magi-Lumi\u00e8re",
+    "img": "https://gogocdn.net/cover/kabushikigaisha-magi-lumiere.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "evangelion-3-0-46h",
     "epId": "evangelion-3-0-46h-episode-1",
     "title": "Evangelion: 3.0 (-46h)",
@@ -763,32 +812,11 @@
     "episode": "Episode 2"
   },
   {
-    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
-    "epId": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-2",
-    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
-    "img": "https://gogocdn.net/cover/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-1727374871.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "muu-no-hakugei",
     "epId": "muu-no-hakugei-episode-6",
     "title": "Muu no Hakugei",
     "img": "https://gogocdn.net/cover/muu-no-hakugei.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
-    "epId": "goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-2",
-    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-    "img": "https://gogocdn.net/cover/goukon-ni-ittara-onna-ga-inakatta-hanashi-1727373529.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "the-idolmster-shiny-colors-2nd-season",
-    "epId": "the-idolmster-shiny-colors-2nd-season-episode-2",
-    "title": "The iDOLM@STER Shiny Colors 2nd Season",
-    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-2nd-season.png",
-    "episode": "Episode 2"
   },
   {
     "id": "mayonaka-punch-short-anime",
@@ -805,25 +833,11 @@
     "episode": "Episode 2"
   },
   {
-    "id": "dragon-ball-daima",
-    "epId": "dragon-ball-daima-episode-1",
-    "title": "Dragon Ball Daima",
-    "img": "https://gogocdn.net/cover/dragon-ball-daima.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "arara",
     "epId": "arara-episode-1",
     "title": "Arara",
     "img": "https://gogocdn.net/cover/arara.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "sword-art-online-alternative-gun-gale-online-ii",
-    "epId": "sword-art-online-alternative-gun-gale-online-ii-episode-2",
-    "title": "Sword Art Online Alternative: Gun Gale Online II",
-    "img": "https://gogocdn.net/cover/sword-art-online-alternative-gun-gale-online-ii.png",
-    "episode": "Episode 2"
   },
   {
     "id": "mofumofuiction",
@@ -838,13 +852,6 @@
     "title": "Ihatov Gensou: Kenji no Haru",
     "img": "https://gogocdn.net/cover/ihatov-gensou-kenji-no-haru.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "kabushikigaisha-magi-lumiere",
-    "epId": "kabushikigaisha-magi-lumiere-episode-2",
-    "title": "Kabushikigaisha Magi-Lumi\u00e8re",
-    "img": "https://gogocdn.net/cover/kabushikigaisha-magi-lumiere.png",
-    "episode": "Episode 2"
   },
   {
     "id": "sand-land",
@@ -1118,13 +1125,6 @@
     "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 63"
-  },
-  {
-    "id": "hyakushou-kizoku-2nd-season",
-    "epId": "hyakushou-kizoku-2nd-season-episode-1",
-    "title": "Hyakushou Kizoku 2nd Season",
-    "img": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
-    "episode": "Episode 1"
   },
   {
     "id": "ice",
