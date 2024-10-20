@@ -1,5 +1,33 @@
 [
   {
+    "id": "uzumaki-dub",
+    "epId": "uzumaki-dub-episode-4",
+    "title": "Uzumaki (Dub)",
+    "img": "https://gogocdn.net/cover/uzumaki-dub.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "blue-lock-vs-u-20-japan-dub",
+    "epId": "blue-lock-vs-u-20-japan-dub-episode-1",
+    "title": "Blue Lock vs. U-20 Japan (Dub)",
+    "img": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kimi-wa-meido-sama-dub",
+    "epId": "kimi-wa-meido-sama-dub-episode-1",
+    "title": "Kimi wa Meido-sama. (Dub)",
+    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season-dub",
+    "epId": "boku-no-hero-academia-7th-season-dub-episode-20",
+    "title": "Boku no Hero Academia 7th Season (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
+    "episode": "Episode 20"
+  },
+  {
     "id": "maou-sama-retry-r-dub",
     "epId": "maou-sama-retry-r-dub-episode-2",
     "title": "Maou-sama, Retry! R (Dub)",
@@ -182,13 +210,6 @@
     "episode": "Episode 12"
   },
   {
-    "id": "uzumaki-dub",
-    "epId": "uzumaki-dub-episode-3",
-    "title": "Uzumaki (Dub)",
-    "img": "https://gogocdn.net/cover/uzumaki-dub.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub",
     "epId": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-dub-episode-12",
     "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka? (Dub)",
@@ -201,13 +222,6 @@
     "title": "Make Heroine ga Oosugiru! (Dub)",
     "img": "https://gogocdn.net/cover/make-heroine-ga-oosugiru-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season-dub",
-    "epId": "boku-no-hero-academia-7th-season-dub-episode-19",
-    "title": "Boku no Hero Academia 7th Season (Dub)",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
-    "episode": "Episode 19"
   },
   {
     "id": "ooi-tonbo-2nd-season-dub",
@@ -2784,19 +2798,5 @@
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen (Dub)",
     "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou-yakusai-hen-dub.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "oooku-dub",
-    "epId": "oooku-dub-episode-10",
-    "title": "Oooku (Dub)",
-    "img": "https://gogocdn.net/cover/oooku-dub.png",
-    "episode": "Episode 10"
-  },
-  {
-    "id": "top-wo-nerae-kagaku-kouza-dub",
-    "epId": "top-wo-nerae-kagaku-kouza-dub-episode-6",
-    "title": "Top wo Nerae! Kagaku Kouza (Dub)",
-    "img": "https://gogocdn.net/cover/top-wo-nerae-kagaku-kouza-dub.png",
-    "episode": "Episode 6"
   }
 ]

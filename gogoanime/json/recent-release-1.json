@@ -1,5 +1,33 @@
 [
   {
+    "id": "uzumaki",
+    "epId": "uzumaki-episode-4",
+    "title": "Uzumaki",
+    "img": "https://gogocdn.net/cover/uzumaki-1727380142.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "one-piece-fan-letter",
+    "epId": "one-piece-fan-letter-episode-1",
+    "title": "One Piece Fan Letter",
+    "img": "https://gogocdn.net/cover/one-piece-fan-letter.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai-uncensored",
+    "epId": "elf-san-wa-yaserarenai-uncensored-episode-14",
+    "title": "Elf-san wa Yaserarenai. (Uncensored)",
+    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
+    "episode": "Episode 14"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-38",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 38"
+  },
+  {
     "id": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
     "epId": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episode-3",
     "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
@@ -742,13 +770,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "uzumaki",
-    "epId": "uzumaki-episode-3",
-    "title": "Uzumaki",
-    "img": "https://gogocdn.net/cover/uzumaki-1727380142.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "one-piece",
     "epId": "one-piece-episode-1122",
     "title": "One Piece",
@@ -761,13 +782,6 @@
     "title": "Touhai: Ura Rate Mahjong Touhai Roku",
     "img": "https://gogocdn.net/cover/touhai-ura-rate-mahjong-touhai-roku.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-37",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 37"
   },
   {
     "id": "kankin-kuiki-level-x",
@@ -1806,13 +1820,6 @@
     "episode": "Episode 20"
   },
   {
-    "id": "elf-san-wa-yaserarenai-uncensored",
-    "epId": "elf-san-wa-yaserarenai-uncensored-episode-12",
-    "title": "Elf-san wa Yaserarenai. (Uncensored)",
-    "img": "https://gogocdn.net/cover/elf-san-wa-yaserarenai-uncensored.png",
-    "episode": "Episode 12"
-  },
-  {
     "id": "madougushi-dahliya-wa-utsumukanai",
     "epId": "madougushi-dahliya-wa-utsumukanai-episode-12",
     "title": "Madougushi Dahliya wa Utsumukanai",
@@ -2791,12 +2798,5 @@
     "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
     "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "hibike-euphonium-3",
-    "epId": "hibike-euphonium-3-episode-13",
-    "title": "Hibike! Euphonium 3",
-    "img": "https://gogocdn.net/cover/hibike-euphonium-3.png",
-    "episode": "Episode 13"
   }
 ]
