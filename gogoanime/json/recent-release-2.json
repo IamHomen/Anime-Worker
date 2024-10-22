@@ -1,5 +1,26 @@
 [
   {
+    "id": "natsume-yuujinchou-shichi-dub",
+    "epId": "natsume-yuujinchou-shichi-dub-episode-1",
+    "title": "Natsume Yuujinchou Shichi (Dub)",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "seirei-gensouki-2-dub",
+    "epId": "seirei-gensouki-2-dub-episode-3",
+    "title": "Seirei Gensouki 2 (Dub)",
+    "img": "https://gogocdn.net/cover/seirei-gensouki-2-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "hoshifuru-oukoku-no-nina-dub",
+    "epId": "hoshifuru-oukoku-no-nina-dub-episode-3",
+    "title": "Hoshifuru Oukoku no Nina (Dub)",
+    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina-dub.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "beyblade-x-dub",
     "epId": "beyblade-x-dub-episode-35",
     "title": "Beyblade X (Dub)",
@@ -189,25 +210,11 @@
     "episode": "Episode 9"
   },
   {
-    "id": "seirei-gensouki-2-dub",
-    "epId": "seirei-gensouki-2-dub-episode-2",
-    "title": "Seirei Gensouki 2 (Dub)",
-    "img": "https://gogocdn.net/cover/seirei-gensouki-2-dub.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "mato-seihei-no-slave-dub",
     "epId": "mato-seihei-no-slave-dub-episode-12",
     "title": "Mato Seihei no Slave (Dub)",
     "img": "https://gogocdn.net/cover/mato-seihei-no-slave-dub-1725938417.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "hoshifuru-oukoku-no-nina-dub",
-    "epId": "hoshifuru-oukoku-no-nina-dub-episode-2",
-    "title": "Hoshifuru Oukoku no Nina (Dub)",
-    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "kami-no-tou-ouji-no-kikan-dub",
@@ -2791,12 +2798,5 @@
     "title": "Rockman Hoshi ni Negai wo (Dub)",
     "img": "https://gogocdn.net/cover/rockman-hoshi-ni-negai-wo-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "dr-stone-new-world-dub",
-    "epId": "dr-stone-new-world-dub-episode-11",
-    "title": "Dr. Stone: New World (Dub)",
-    "img": "https://gogocdn.net/cover/dr-stone-new-world-dub.png",
-    "episode": "Episode 11"
   }
 ]

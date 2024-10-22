@@ -11,8 +11,12 @@
   "otherNames": "\u3077\u306b\u308b\u3093\u305a 2",
   "synopsis": "Second season of Punirunes.",
   "animeImg": "https://gogocdn.net/cover/punirunes-2.png",
-  "totalEpisodes": "2",
+  "totalEpisodes": "3",
   "episodesList": [
+    {
+      "episodeId": "punirunes-2-episode-3",
+      "episodeNum": "Episode 3"
+    },
     {
       "episodeId": "punirunes-2-episode-2",
       "episodeNum": "Episode 2"
