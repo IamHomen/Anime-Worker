@@ -5544,6 +5544,12 @@
     "date": "1982"
   },
   {
+    "id": "rokudenashi-blues-1993",
+    "title": "Rokudenashi Blues 1993",
+    "img": "https://gogocdn.net/cover/rokudenashi-blues-1993.png",
+    "date": "1993"
+  },
+  {
     "id": "rurouni-kenshin-seisouhen-dub",
     "title": "Rurouni Kenshin: Seisouhen (Dub)",
     "img": "https://gogocdn.net/cover/rurouni-kenshin-seisouhen-dub.png",
@@ -5866,6 +5872,12 @@
     "title": "Tokyo 7th Sisters: Bokura wa Aozora ni Naru",
     "img": "https://gogocdn.net/cover/tokyo-7th-sisters-bokura-wa-aozora-ni-naru.png",
     "date": "2021"
+  },
+  {
+    "id": "taneyamagahara-no-yoru",
+    "title": "Taneyamagahara no Yoru",
+    "img": "https://gogocdn.net/cover/taneyamagahara-no-yoru.png",
+    "date": "2006"
   },
   {
     "id": "welcome-to-the-space-show-dub",
@@ -13426,17 +13438,5 @@
     "title": "Inu-Ou",
     "img": "https://gogocdn.net/cover/inu-ou.png",
     "date": "2022"
-  },
-  {
-    "id": "dragon-ball-z-movie-07-super-android-13-dub",
-    "title": "Dragon Ball Z Movie 07: Super Android 13 (Dub)",
-    "img": "https://gogocdn.net/cover/dragon-ball-z-movie-07-super-android-13-dub.png",
-    "date": "1992"
-  },
-  {
-    "id": "gundam-g-no-reconguista-movie-i-ike-core-fighter",
-    "title": "Gundam: G no Reconguista Movie I - Ike! Core Fighter",
-    "img": "https://gogocdn.net/cover/gundam-g-no-reconguista-movie-i-ike-core-fighter.png",
-    "date": "2019"
   }
 ]

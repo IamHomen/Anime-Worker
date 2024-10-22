@@ -1,5 +1,96 @@
 [
   {
+    "id": "shiratori-reiko-de-gozaimasu",
+    "epId": "shiratori-reiko-de-gozaimasu-episode-1",
+    "title": "Shiratori Reiko de Gozaimasu!",
+    "img": "https://gogocdn.net/cover/shiratori-reiko-de-gozaimasu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tenshi-nanka-ja-nai",
+    "epId": "tenshi-nanka-ja-nai-episode-1",
+    "title": "Tenshi Nanka ja Nai",
+    "img": "https://gogocdn.net/cover/tenshi-nanka-ja-nai.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shin-kabukichou-story-hana-no-asukagumi",
+    "epId": "shin-kabukichou-story-hana-no-asukagumi-episode-1",
+    "title": "Shin Kabukichou Story Hana no Asukagumi!",
+    "img": "https://gogocdn.net/cover/shin-kabukichou-story-hana-no-asukagumi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "rokudenashi-blues-1993",
+    "epId": "rokudenashi-blues-1993-episode-1",
+    "title": "Rokudenashi Blues 1993",
+    "img": "https://gogocdn.net/cover/rokudenashi-blues-1993.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yurumates-wa",
+    "epId": "yurumates-wa-episode-1",
+    "title": "Yurumates wa?",
+    "img": "https://gogocdn.net/cover/yurumates-wa.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yurumates",
+    "epId": "yurumates-episode-1",
+    "title": "Yurumates",
+    "img": "https://gogocdn.net/cover/yurumates.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hypersonic-music-club",
+    "epId": "hypersonic-music-club-episode-1",
+    "title": "Hypersonic Music Club",
+    "img": "https://gogocdn.net/cover/hypersonic-music-club.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kigyou-senshi-yamazaki-long-distance-call",
+    "epId": "kigyou-senshi-yamazaki-long-distance-call-episode-1",
+    "title": "Kigyou Senshi Yamazaki: Long Distance Call",
+    "img": "https://gogocdn.net/cover/kigyou-senshi-yamazaki-long-distance-call.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hello-kitty-no-london-ni-orita-uchuujin",
+    "epId": "hello-kitty-no-london-ni-orita-uchuujin-episode-1",
+    "title": "Hello Kitty no London ni Orita Uchuujin",
+    "img": "https://gogocdn.net/cover/hello-kitty-no-london-ni-orita-uchuujin.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bad-badtz-maru-no-otoko-dokyou-no-omoiyari",
+    "epId": "bad-badtz-maru-no-otoko-dokyou-no-omoiyari-episode-1",
+    "title": "Bad Badtz-Maru no Otoko Dokyou no Omoiyari",
+    "img": "https://gogocdn.net/cover/bad-badtz-maru-no-otoko-dokyou-no-omoiyari.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "neko-ni-tensei-shita-ojisan",
+    "epId": "neko-ni-tensei-shita-ojisan-episode-3",
+    "title": "Neko ni Tensei shita Ojisan",
+    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-27",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 27"
+  },
+  {
+    "id": "punirunes-2",
+    "epId": "punirunes-2-episode-3",
+    "title": "Punirunes 2",
+    "img": "https://gogocdn.net/cover/punirunes-2.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "houkago-shounen-hanako-kun-part-2",
     "epId": "houkago-shounen-hanako-kun-part-2-episode-3",
     "title": "Houkago Shounen Hanako-kun Part 2",
@@ -630,13 +721,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "neko-ni-tensei-shita-ojisan",
-    "epId": "neko-ni-tensei-shita-ojisan-episode-2",
-    "title": "Neko ni Tensei shita Ojisan",
-    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "haigakura",
     "epId": "haigakura-episode-2",
     "title": "Haigakura",
@@ -763,13 +847,6 @@
     "episode": "Episode 27"
   },
   {
-    "id": "punirunes-2",
-    "epId": "punirunes-2-episode-2",
-    "title": "Punirunes 2",
-    "img": "https://gogocdn.net/cover/punirunes-2.png",
-    "episode": "Episode 2"
-  },
-  {
     "id": "one-piece",
     "epId": "one-piece-episode-1122",
     "title": "One Piece",
@@ -810,13 +887,6 @@
     "title": "Boku no Hero Academia 7th Season",
     "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season.png",
     "episode": "Episode 21"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-26",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 26"
   },
   {
     "id": "cardfight-vanguard-divinez-season-2",
@@ -2728,75 +2798,5 @@
     "title": "Kyou no 5 no 2 Kagai Jugyou: Mizukake",
     "img": "https://gogocdn.net/cover/kyou-no-5-no-2-kagai-jugyou-mizukake.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round",
-    "epId": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round-episode-1",
-    "title": "Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round",
-    "img": "https://gogocdn.net/cover/marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "manga-sekai-mukashibanashi",
-    "epId": "manga-sekai-mukashibanashi-episode-18",
-    "title": "Manga Sekai Mukashibanashi",
-    "img": "https://gogocdn.net/cover/manga-sekai-mukashibanashi.png",
-    "episode": "Episode 18"
-  },
-  {
-    "id": "boukyaku-battery-tv",
-    "epId": "boukyaku-battery-tv-episode-12",
-    "title": "Boukyaku Battery (TV)",
-    "img": "https://gogocdn.net/cover/boukyaku-battery-tv-1711732883.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "touch-3-kimi-ga-toorisugita-ato-ni-dont-pass-me-by",
-    "epId": "touch-3-kimi-ga-toorisugita-ato-ni-dont-pass-me-by-episode-1",
-    "title": "Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By",
-    "img": "https://gogocdn.net/cover/touch-3-kimi-ga-toorisugita-ato-ni-dont-pass-me-by.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "touch-2-sayonara-no-okurimono",
-    "epId": "touch-2-sayonara-no-okurimono-episode-1",
-    "title": "Touch 2: Sayonara no Okurimono",
-    "img": "https://gogocdn.net/cover/touch-2-sayonara-no-okurimono.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "touch-sebangou-no-nai-ace",
-    "epId": "touch-sebangou-no-nai-ace-episode-1",
-    "title": "Touch: Sebangou no Nai Ace",
-    "img": "https://gogocdn.net/cover/touch-sebangou-no-nai-ace.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "sukuwareru-ramiris",
-    "epId": "sukuwareru-ramiris-episode-2",
-    "title": "Sukuwareru Ramiris",
-    "img": "https://gogocdn.net/cover/sukuwareru-ramiris.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai",
-    "epId": "seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai-episode-1",
-    "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
-    "img": "https://gogocdn.net/cover/seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
-    "epId": "kimetsu-no-yaiba-hashira-geiko-hen-episode-8",
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "img": "https://gogocdn.net/cover/kimetsu-no-yaiba-hashira-geiko-hen.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
-    "epId": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2-episode-12",
-    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
-    "img": "https://gogocdn.net/cover/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.png",
-    "episode": "Episode 12"
   }
 ]

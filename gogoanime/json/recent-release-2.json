@@ -1,5 +1,26 @@
 [
   {
+    "id": "tekken-dub",
+    "epId": "tekken-dub-episode-1",
+    "title": "Tekken (Dub)",
+    "img": "https://gogocdn.net/cover/tekken-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "the-flying-luna-clipper-dub",
+    "epId": "the-flying-luna-clipper-dub-episode-1",
+    "title": "The Flying Luna Clipper (Dub)",
+    "img": "https://gogocdn.net/cover/the-flying-luna-clipper-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "beyblade-x-dub",
+    "epId": "beyblade-x-dub-episode-36",
+    "title": "Beyblade X (Dub)",
+    "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
+    "episode": "Episode 36"
+  },
+  {
     "id": "natsume-yuujinchou-shichi-dub",
     "epId": "natsume-yuujinchou-shichi-dub-episode-1",
     "title": "Natsume Yuujinchou Shichi (Dub)",
@@ -19,13 +40,6 @@
     "title": "Hoshifuru Oukoku no Nina (Dub)",
     "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "beyblade-x-dub",
-    "epId": "beyblade-x-dub-episode-35",
-    "title": "Beyblade X (Dub)",
-    "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
-    "episode": "Episode 35"
   },
   {
     "id": "yozakura-san-chi-no-daisakusen-dub",
@@ -2784,19 +2798,5 @@
     "title": "Fate/strange Fake: Whispers of Dawn (Dub)",
     "img": "https://gogocdn.net/cover/fatestrange-fake-whispers-of-dawn-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "dragon-quest-dai-no-daibouken-2020-dub",
-    "epId": "dragon-quest-dai-no-daibouken-2020-dub-episode-100",
-    "title": "Dragon Quest: Dai no Daibouken (2020) (Dub)",
-    "img": "https://gogocdn.net/cover/dragon-quest-dai-no-daibouken-2020-dub.png",
-    "episode": "Episode 100"
-  },
-  {
-    "id": "rockman-hoshi-ni-negai-wo-dub",
-    "epId": "rockman-hoshi-ni-negai-wo-dub-episode-3",
-    "title": "Rockman Hoshi ni Negai wo (Dub)",
-    "img": "https://gogocdn.net/cover/rockman-hoshi-ni-negai-wo-dub.png",
-    "episode": "Episode 3"
   }
 ]
