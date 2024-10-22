@@ -1,5 +1,47 @@
 [
   {
+    "id": "space-fantasia-2001-nights",
+    "epId": "space-fantasia-2001-nights-episode-1",
+    "title": "Space Fantasia 2001 Nights",
+    "img": "https://gogocdn.net/cover/space-fantasia-2001-nights.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ogami-matsugorou",
+    "epId": "ogami-matsugorou-episode-1",
+    "title": "Ogami Matsugorou",
+    "img": "https://gogocdn.net/cover/ogami-matsugorou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nineteen-19",
+    "epId": "nineteen-19-episode-1",
+    "title": "Nineteen 19",
+    "img": "https://gogocdn.net/cover/nineteen-19.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "seikimatsudarling",
+    "epId": "seikimatsudarling-episode-1",
+    "title": "Seikimatsu\u2605Darling",
+    "img": "https://gogocdn.net/cover/seikimatsudarling.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "h-p-lovecrafts-the-dunwich-horror-and-other-stories",
+    "epId": "h-p-lovecrafts-the-dunwich-horror-and-other-stories-episode-1",
+    "title": "H. P. Lovecraft's The Dunwich Horror and Other Stories",
+    "img": "https://gogocdn.net/cover/h-p-lovecrafts-the-dunwich-horror-and-other-stories.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "haigakura",
+    "epId": "haigakura-episode-3",
+    "title": "Haigakura",
+    "img": "https://gogocdn.net/cover/haigakura-1727373567.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "shiratori-reiko-de-gozaimasu",
     "epId": "shiratori-reiko-de-gozaimasu-episode-1",
     "title": "Shiratori Reiko de Gozaimasu!",
@@ -719,13 +761,6 @@
     "title": "Hashire Melos (Movie)",
     "img": "https://gogocdn.net/cover/hashire-melos-movie.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "haigakura",
-    "epId": "haigakura-episode-2",
-    "title": "Haigakura",
-    "img": "https://gogocdn.net/cover/haigakura-1727373567.png",
-    "episode": "Episode 2"
   },
   {
     "id": "bananya-around-the-world",
@@ -2697,14 +2732,14 @@
   {
     "id": "mazebakunetsu-jikuu",
     "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u2606Bakunetsu Jikuu",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
     "episode": "Episode 2"
   },
   {
     "id": "mazebakunetsu-jikuu-hot-springs",
     "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u2606Bakunetsu Jikuu: Hot Springs",
+    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
     "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
     "episode": "Episode 1"
   },
@@ -2762,41 +2797,6 @@
     "epId": "chuck-shimezou-episode-1",
     "title": "Chuck Shimezou",
     "img": "https://gogocdn.net/cover/chuck-shimezou.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kinnikuman-kanpeki-choujin-shiso-hen",
-    "epId": "kinnikuman-kanpeki-choujin-shiso-hen-episode-0",
-    "title": "Kinnikuman: Kanpeki Ch\u043eujin Shiso-hen Episode 0",
-    "img": "https://gogocdn.net/cover/kinnikuman-kanpeki-choujin-shiso-hen-episode-0.png",
-    "episode": "Episode 0"
-  },
-  {
-    "id": "abashiri-ikka",
-    "epId": "abashiri-ikka-episode-1",
-    "title": "Abashiri Ikka",
-    "img": "https://gogocdn.net/cover/abashiri-ikka.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "nyaaaanvy",
-    "epId": "nyaaaanvy-episode-6",
-    "title": "Nyaaaanvy",
-    "img": "https://gogocdn.net/cover/nyaaaanvy.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "kyou-no-5-no-2-tv-takarabako",
-    "epId": "kyou-no-5-no-2-tv-takarabako-episode-1",
-    "title": "Kyou no 5 no 2 (TV): Takarabako",
-    "img": "https://gogocdn.net/cover/kyou-no-5-no-2-tv-takarabako.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kyou-no-5-no-2-kagai-jugyou-mizukake",
-    "epId": "kyou-no-5-no-2-kagai-jugyou-mizukake-episode-1",
-    "title": "Kyou no 5 no 2 Kagai Jugyou: Mizukake",
-    "img": "https://gogocdn.net/cover/kyou-no-5-no-2-kagai-jugyou-mizukake.png",
     "episode": "Episode 1"
   }
 ]
