@@ -1,0 +1,19 @@
+{
+  "animeTitle": "Venus",
+  "type": "Movie",
+  "releasedDate": "1990",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde"
+  ],
+  "otherNames": "\u30d3\u30fc\u30ca\u30b9",
+  "synopsis": "Film by Takashi Ito.",
+  "animeImg": "https://gogocdn.net/cover/venus.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "venus-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

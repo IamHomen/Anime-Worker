@@ -1,0 +1,19 @@
+{
+  "animeTitle": "Coffee Break",
+  "type": "Movie",
+  "releasedDate": "1977",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde"
+  ],
+  "otherNames": "\u30b3\u30fc\u30d2\u30fc\u30d6\u30ec\u30a4\u30af",
+  "synopsis": "People often consume caffeine to improve their mood, but for one salaryman, it is like a rocket ship blasting him off\u2014away from the monotony of his desk to a world full of color, inspiration, and life.",
+  "animeImg": "https://gogocdn.net/cover/coffee-break.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "coffee-break-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

@@ -1,5 +1,40 @@
 [
   {
+    "id": "andersen-douwa-ningyohime-dub",
+    "epId": "andersen-douwa-ningyohime-dub-episode-1",
+    "title": "Andersen Douwa: Ningyohime (Dub)",
+    "img": "https://gogocdn.net/cover/andersen-douwa-ningyohime-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "long-zhi-gu-jingling-wangzuo-dub",
+    "epId": "long-zhi-gu-jingling-wangzuo-dub-episode-1",
+    "title": "Long Zhi Gu: Jingling Wangzuo (Dub)",
+    "img": "https://gogocdn.net/cover/long-zhi-gu-jingling-wangzuo-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "long-zhi-gu-poxiao-qibing-dub",
+    "epId": "long-zhi-gu-poxiao-qibing-dub-episode-1",
+    "title": "Long Zhi Gu: Poxiao Qibing (Dub)",
+    "img": "https://gogocdn.net/cover/long-zhi-gu-poxiao-qibing-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo-dub",
+    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-dub-episode-2",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo (Dub)",
+    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "amagami-san-chi-no-enmusubi-dub",
+    "epId": "amagami-san-chi-no-enmusubi-dub-episode-2",
+    "title": "Amagami-san Chi no Enmusubi (Dub)",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-dub.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "lv1-maou-to-one-room-yuusha-dub",
     "epId": "lv1-maou-to-one-room-yuusha-dub-episode-10",
     "title": "Lv1 Maou to One Room Yuusha (Dub)",
@@ -203,25 +238,11 @@
     "episode": "Episode 9"
   },
   {
-    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo-dub",
-    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-dub-episode-1",
-    "title": "Rekishi ni Nokoru Akujo ni Naru zo (Dub)",
-    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-dub.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "isekai-shikkaku-dub",
     "epId": "isekai-shikkaku-dub-episode-12",
     "title": "Isekai Shikkaku (Dub)",
     "img": "https://gogocdn.net/cover/isekai-shikkaku-dub-1726021971.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "amagami-san-chi-no-enmusubi-dub",
-    "epId": "amagami-san-chi-no-enmusubi-dub-episode-1",
-    "title": "Amagami-san Chi no Enmusubi (Dub)",
-    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-dub.png",
-    "episode": "Episode 1"
   },
   {
     "id": "mato-seihei-no-slave-dub",
@@ -2777,26 +2798,5 @@
     "title": "My Home Hero (Dub)",
     "img": "https://gogocdn.net/cover/my-home-hero-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-dub",
-    "epId": "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-dub-episode-12",
-    "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito (Dub)",
-    "img": "https://gogocdn.net/cover/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "digimon-adventure-2020-dub",
-    "epId": "digimon-adventure-2020-dub-episode-67",
-    "title": "Digimon Adventure (2020) (Dub)",
-    "img": "https://gogocdn.net/cover/digimon-adventure-2020-dub.png",
-    "episode": "Episode 67"
-  },
-  {
-    "id": "fatestrange-fake-whispers-of-dawn-dub",
-    "epId": "fatestrange-fake-whispers-of-dawn-dub-episode-1",
-    "title": "Fate/strange Fake: Whispers of Dawn (Dub)",
-    "img": "https://gogocdn.net/cover/fatestrange-fake-whispers-of-dawn-dub.png",
-    "episode": "Episode 1"
   }
 ]

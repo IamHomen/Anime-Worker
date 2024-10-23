@@ -1,0 +1,21 @@
+{
+  "animeTitle": "Kuroi Neko",
+  "type": "Movie",
+  "releasedDate": "2015",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Music",
+    "Pets"
+  ],
+  "otherNames": "A Black Cat, \u9ed2\u3044\u732b",
+  "synopsis": "A woman repeatedly strokes her cat while it moves around in her arms.",
+  "animeImg": "https://gogocdn.net/cover/kuroi-neko.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "kuroi-neko-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

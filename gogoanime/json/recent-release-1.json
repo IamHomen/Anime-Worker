@@ -1,5 +1,75 @@
 [
   {
+    "id": "andersen-douwa-ningyohime",
+    "epId": "andersen-douwa-ningyohime-episode-1",
+    "title": "Andersen Douwa: Ningyohime",
+    "img": "https://gogocdn.net/cover/andersen-douwa-ningyohime.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "neko-hiki-no-oruorane",
+    "epId": "neko-hiki-no-oruorane-episode-1",
+    "title": "Neko Hiki no Oruorane",
+    "img": "https://gogocdn.net/cover/neko-hiki-no-oruorane.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tsumamareru-koma",
+    "epId": "tsumamareru-koma-episode-1",
+    "title": "Tsumamareru Koma",
+    "img": "https://gogocdn.net/cover/tsumamareru-koma.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "coffee-break",
+    "epId": "coffee-break-episode-1",
+    "title": "Coffee Break",
+    "img": "https://gogocdn.net/cover/coffee-break.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shijin-no-shougai",
+    "epId": "shijin-no-shougai-episode-1",
+    "title": "Shijin no Shougai",
+    "img": "https://gogocdn.net/cover/shijin-no-shougai.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "wanpaku-tanteidan",
+    "epId": "wanpaku-tanteidan-episode-6",
+    "title": "Wanpaku Tanteidan",
+    "img": "https://gogocdn.net/cover/wanpaku-tanteidan.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "venus",
+    "epId": "venus-episode-1",
+    "title": "Venus",
+    "img": "https://gogocdn.net/cover/venus.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yami-wo-mitsumeru-hane",
+    "epId": "yami-wo-mitsumeru-hane-episode-1",
+    "title": "Yami wo Mitsumeru Hane",
+    "img": "https://gogocdn.net/cover/yami-wo-mitsumeru-hane.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yoru-no-hi",
+    "epId": "yoru-no-hi-episode-1",
+    "title": "Yoru no Hi",
+    "img": "https://gogocdn.net/cover/yoru-no-hi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "dorami-chan-wow-the-kid-gang-of-bandits",
+    "epId": "dorami-chan-wow-the-kid-gang-of-bandits-episode-1",
+    "title": "Dorami-chan: Wow, The Kid Gang of Bandits",
+    "img": "https://gogocdn.net/cover/dorami-chan-wow-the-kid-gang-of-bandits.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-15",
     "title": "Tasuuketsu",
@@ -210,6 +280,13 @@
     "episode": "Episode 3"
   },
   {
+    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
+    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-3",
+    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "hoshifuru-oukoku-no-nina",
     "epId": "hoshifuru-oukoku-no-nina-episode-3",
     "title": "Hoshifuru Oukoku no Nina",
@@ -341,13 +418,6 @@
     "title": "Maou 2099",
     "img": "https://gogocdn.net/cover/maou-2099-1727374937.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "chi-chikyuu-no-undou-ni-tsuite",
-    "epId": "chi-chikyuu-no-undou-ni-tsuite-episode-4",
-    "title": "Chi.: Chikyuu no Undou ni Tsuite",
-    "img": "https://gogocdn.net/cover/chi-chikyuu-no-undou-ni-tsuite.png",
-    "episode": "Episode 4"
   },
   {
     "id": "blue-lock-vs-u-20-japan",
@@ -490,6 +560,13 @@
     "episode": "Episode 4"
   },
   {
+    "id": "kingdom-of-chaos-born-to-kill",
+    "epId": "kingdom-of-chaos-born-to-kill-episode-4",
+    "title": "Kingdom of Chaos: Born to Kill",
+    "img": "https://gogocdn.net/cover/kingdom-of-chaos-born-to-kill.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
     "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-3",
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
@@ -621,13 +698,6 @@
     "title": "Dr. Slump: Arale-chan",
     "img": "https://gogocdn.net/cover/dr-slump-arale-chan.png",
     "episode": "Episode 166"
-  },
-  {
-    "id": "kamierabi-2nd-season",
-    "epId": "kamierabi-2nd-season-episode-3",
-    "title": "Kamierabi 2nd Season",
-    "img": "https://gogocdn.net/cover/kamierabi-2nd-season.png",
-    "episode": "Episode 3"
   },
   {
     "id": "delicos-nursery",
@@ -854,13 +924,6 @@
     "episode": "Episode 16"
   },
   {
-    "id": "wanpaku-tanteidan",
-    "epId": "wanpaku-tanteidan-episode-5",
-    "title": "Wanpaku Tanteidan",
-    "img": "https://gogocdn.net/cover/wanpaku-tanteidan.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "koha-ginjiro",
     "epId": "koha-ginjiro-episode-3",
     "title": "Koha Ginjiro",
@@ -908,6 +971,13 @@
     "title": "Thunderbolt Fantasy: Touriken Yuuki 4",
     "img": "https://gogocdn.net/cover/thunderbolt-fantasy-touriken-yuuki-4.png",
     "episode": "Episode 2"
+  },
+  {
+    "id": "pop-pop-city",
+    "epId": "pop-pop-city-episode-1",
+    "title": "Pop Pop City",
+    "img": "https://gogocdn.net/cover/pop-pop-city.png",
+    "episode": "Episode 1"
   },
   {
     "id": "pop-pop-city",
@@ -1050,13 +1120,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "spacy",
-    "epId": "spacy-episode-1",
-    "title": "Spacy",
-    "img": "https://gogocdn.net/cover/spacy.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei",
     "epId": "ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei-episode-4",
     "title": "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei",
@@ -1188,6 +1251,13 @@
     "title": "Haai Step Jun",
     "img": "https://gogocdn.net/cover/haai-step-jun.png",
     "episode": "Episode 23"
+  },
+  {
+    "id": "yami-shibai-13",
+    "epId": "yami-shibai-13-episode-13",
+    "title": "Yami Shibai 13",
+    "img": "https://gogocdn.net/cover/yami-shibai-13.png",
+    "episode": "Episode 13"
   },
   {
     "id": "yami-shibai-13",
@@ -2727,76 +2797,6 @@
     "epId": "yawara-zutto-kimi-no-koto-ga-episode-1",
     "title": "Yawara!: Zutto Kimi no Koto ga...",
     "img": "https://gogocdn.net/cover/yawara-zutto-kimi-no-koto-ga.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "mazebakunetsu-jikuu",
-    "epId": "mazebakunetsu-jikuu-episode-2",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu",
-    "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "mazebakunetsu-jikuu-hot-springs",
-    "epId": "mazebakunetsu-jikuu-hot-springs-episode-1",
-    "title": "Maze\u014c\u015b\u00e5Bakunetsu Jikuu: Hot Springs",
-    "img": "https://gogocdn.net/cover/mazebakunetsu-jikuu-hot-springs.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "jantama-kan",
-    "epId": "jantama-kan-episode-13",
-    "title": "Jantama Kan!!",
-    "img": "https://gogocdn.net/cover/jantama-kan.png",
-    "episode": "Episode 13"
-  },
-  {
-    "id": "t-p-bon-season-2",
-    "epId": "t-p-bon-season-2-episode-12",
-    "title": "T.P BON Season 2",
-    "img": "https://gogocdn.net/cover/t-p-bon-season-2.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "perman-birdman-ga-yatte-kita",
-    "epId": "perman-birdman-ga-yatte-kita-episode-1",
-    "title": "Perman: Birdman ga Yatte Kita!!",
-    "img": "https://gogocdn.net/cover/perman-birdman-ga-yatte-kita.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "araiguma-rascal",
-    "epId": "araiguma-rascal-episode-52",
-    "title": "Araiguma Rascal",
-    "img": "https://gogocdn.net/cover/araiguma-rascal.png",
-    "episode": "Episode 52"
-  },
-  {
-    "id": "lily-c-a-t",
-    "epId": "lily-c-a-t-episode-1",
-    "title": "Lily C.A.T.",
-    "img": "https://gogocdn.net/cover/lily-c-a-t.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "shinkalion-change-the-world-ushinawareta-kioku",
-    "epId": "shinkalion-change-the-world-ushinawareta-kioku-episode-1",
-    "title": "Shinkalion: Change the World - Ushinawareta Kioku",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world-ushinawareta-kioku.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "ani-x-para-anata-no-hero-wa-dare-desu-ka",
-    "epId": "ani-x-para-anata-no-hero-wa-dare-desu-ka-episode-18",
-    "title": "Ani x Para: Anata no Hero wa Dare desu ka",
-    "img": "https://gogocdn.net/cover/ani-x-para-anata-no-hero-wa-dare-desu-ka.png",
-    "episode": "Episode 18"
-  },
-  {
-    "id": "chuck-shimezou",
-    "epId": "chuck-shimezou-episode-1",
-    "title": "Chuck Shimezou",
-    "img": "https://gogocdn.net/cover/chuck-shimezou.png",
     "episode": "Episode 1"
   }
 ]
