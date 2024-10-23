@@ -2,7 +2,7 @@
   "animeTitle": "You Shou Yan 4th Season",
   "type": "ONA",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Comedy",
     "Fantasy"
@@ -10,8 +10,12 @@
   "otherNames": "\u6709\u517d\u7109 \u7b2c\u56db\u5b63, Fabulous Beasts 4th Season",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/you-shou-yan-4th-season.png",
-  "totalEpisodes": "11",
+  "totalEpisodes": "12",
   "episodesList": [
+    {
+      "episodeId": "you-shou-yan-4th-season-episode-12",
+      "episodeNum": "Episode 12"
+    },
     {
       "episodeId": "you-shou-yan-4th-season-episode-11",
       "episodeNum": "Episode 11"
@@ -21,12 +25,28 @@
       "episodeNum": "Episode 10"
     },
     {
+      "episodeId": "you-shou-yan-4th-season-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "you-shou-yan-4th-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
       "episodeId": "you-shou-yan-4th-season-episode-7",
       "episodeNum": "Episode 7"
     },
     {
       "episodeId": "you-shou-yan-4th-season-episode-6",
       "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "you-shou-yan-4th-season-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "you-shou-yan-4th-season-episode-4",
+      "episodeNum": "Episode 4"
     },
     {
       "episodeId": "you-shou-yan-4th-season-episode-3",

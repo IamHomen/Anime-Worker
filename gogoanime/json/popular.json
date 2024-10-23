@@ -34104,6 +34104,12 @@
     "date": "2024"
   },
   {
+    "id": "kishin-heidan",
+    "title": "Kishin Heidan",
+    "img": "https://gogocdn.net/cover/kishin-heidan.png",
+    "date": "1993"
+  },
+  {
     "id": "binbougami-ga-dub",
     "title": "Binbougami ga! (Dub)",
     "img": "https://gogocdn.net/cover/binbougami-ga-dub.jpg",
@@ -34342,6 +34348,12 @@
     "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
     "img": "https://gogocdn.net/cover/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki.png",
     "date": "2024"
+  },
+  {
+    "id": "kishin-heidan-dub",
+    "title": "Kishin Heidan (Dub)",
+    "img": "https://gogocdn.net/cover/kishin-heidan-dub.png",
+    "date": "1993"
   },
   {
     "id": "aikatsu-movie",
@@ -51828,6 +51840,12 @@
     "date": "2016"
   },
   {
+    "id": "ao-no-kanata-no-four-rhythm-dub",
+    "title": "Ao no Kanata no Four Rhythm (Dub)",
+    "img": "https://gogocdn.net/cover/ao-no-kanata-no-four-rhythm-dub.png",
+    "date": "2016"
+  },
+  {
     "id": "qi-jie-diyi-xian",
     "title": "Qi Jie Diyi Xian",
     "img": "https://gogocdn.net/cover/qi-jie-diyi-xian.png",
@@ -53854,6 +53872,12 @@
     "title": "PJ Berri no Mogumogu Munyamunya Season 2",
     "img": "https://gogocdn.net/cover/pj-berri-no-mogumogu-munyamunya-season-2.png",
     "date": "2017"
+  },
+  {
+    "id": "cap-kakumei-bottleman-dx",
+    "title": "Cap Kakumei Bottleman DX",
+    "img": "https://gogocdn.net/cover/cap-kakumei-bottleman-dx.png",
+    "date": "2022"
   },
   {
     "id": "cap-kakumei-bottleman-dx",
@@ -59512,12 +59536,6 @@
     "title": "Ratatouille (Dub)",
     "img": "https://gogocdn.net/cover/ratatouille-dub.png",
     "date": "2007"
-  },
-  {
-    "id": "donten-ni-warau-gaiden-shukumei-soutou-no-fuuma",
-    "title": "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
-    "img": "https://gogocdn.net/cover/donten-ni-warau-gaiden-shukumei-soutou-no-fuuma.png",
-    "date": "2018"
   },
   {
     "id": "donten-ni-warau-gaiden-shukumei-soutou-no-fuuma",
@@ -80140,23 +80158,5 @@
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
     "img": "https://gogocdn.net/cover/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-1696009187.png",
     "date": "2023"
-  },
-  {
-    "id": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
-    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
-    "img": "https://gogocdn.net/cover/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-1704248035.png",
-    "date": "2024"
-  },
-  {
-    "id": "buffett-shenmi-julebu-dub",
-    "title": "Buffett Shenmi Julebu (Dub)",
-    "img": "https://gogocdn.net/cover/buffett-shenmi-julebu-dub.png",
-    "date": "2011"
-  },
-  {
-    "id": "shining-star-2nd-season",
-    "title": "Shining Star 2nd Season",
-    "img": "https://gogocdn.net/cover/shining-star-2nd-season.png",
-    "date": "2018"
   }
 ]
