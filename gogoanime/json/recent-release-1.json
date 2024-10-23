@@ -1,5 +1,19 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-15",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 15"
+  },
+  {
+    "id": "amagami-san-chi-no-enmusubi",
+    "epId": "amagami-san-chi-no-enmusubi-episode-4",
+    "title": "Amagami-san Chi no Enmusubi",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
     "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-4",
     "title": "Rekishi ni Nokoru Akujo ni Naru zo",
@@ -677,20 +691,6 @@
     "title": "Two on the Road: Itsumo Futari de",
     "img": "https://gogocdn.net/cover/two-on-the-road-itsumo-futari-de.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-14",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 14"
-  },
-  {
-    "id": "amagami-san-chi-no-enmusubi",
-    "epId": "amagami-san-chi-no-enmusubi-episode-3",
-    "title": "Amagami-san Chi no Enmusubi",
-    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
-    "episode": "Episode 3"
   },
   {
     "id": "digimon-adventure-02-diablomon-no-gyakushuu",
