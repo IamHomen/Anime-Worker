@@ -1,0 +1,26 @@
+{
+  "animeTitle": "Doctor Chichibuyama",
+  "type": "TV Series",
+  "releasedDate": "1988",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Parody",
+    "Seinen"
+  ],
+  "otherNames": "\u30c9\u30af\u30bf\u30fc\u79e9\u7236\u5c71",
+  "synopsis": "Based on the manga by Tanaka Keiichi.\r\n\r\nDr. Chichibuyama is the perverse head of a hospital way out in the mountains and terrorises patients with the help of his lover and a sexy young nurse.",
+  "animeImg": "https://gogocdn.net/cover/doctor-chichibuyama.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "doctor-chichibuyama-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "doctor-chichibuyama-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

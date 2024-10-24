@@ -1,0 +1,24 @@
+{
+  "animeTitle": "Tengai Makyou: Ziria Oboro-hen",
+  "type": "OVA",
+  "releasedDate": "1990",
+  "status": "Completed",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "otherNames": "\u5929\u5916\u9b54\u5883 \u81ea\u6765\u4e5f\u304a\u307c\u308d\u5909",
+  "synopsis": "Based on the first Tengai Makyou game, that initially came out in 1989 as one of the first titles for NEC's PC Engine CD-ROM.",
+  "animeImg": "https://gogocdn.net/cover/tengai-makyou-ziria-oboro-hen.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "tengai-makyou-ziria-oboro-hen-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "tengai-makyou-ziria-oboro-hen-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
