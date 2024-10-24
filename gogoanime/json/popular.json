@@ -35364,6 +35364,12 @@
     "date": "2024"
   },
   {
+    "id": "age-of-terror",
+    "title": "Age of Terror",
+    "img": "https://gogocdn.net/cover/age-of-terror.png",
+    "date": "2024"
+  },
+  {
     "id": "black-blood-brothers-dub",
     "title": "Black Blood Brothers (Dub)",
     "img": "https://gogocdn.net/cover/black-blood-brothers-dub.jpg",
@@ -39114,6 +39120,12 @@
     "date": "2020"
   },
   {
+    "id": "kakushigoto-tv",
+    "title": "Kakushigoto (TV)",
+    "img": "https://gogocdn.net/cover/kakushigoto-tv.png",
+    "date": "2020"
+  },
+  {
     "id": "super-fishing-grander-musashi",
     "title": "Super Fishing Grander Musashi",
     "img": "https://gogocdn.net/cover/super-fishing-grander-musashi.png",
@@ -42220,6 +42232,12 @@
     "title": "Vapor Trail",
     "img": "https://gogocdn.net/cover/vapor-trail.png",
     "date": "2021"
+  },
+  {
+    "id": "rezero-kara-hajimeru-break-time",
+    "title": "Re:Zero kara Hajimeru Break Time",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-break-time.jpg",
+    "date": "2016"
   },
   {
     "id": "rezero-kara-hajimeru-break-time",
@@ -58182,6 +58200,12 @@
     "date": "2011"
   },
   {
+    "id": "maria-holic-alive-dub",
+    "title": "Maria Holic Alive (Dub)",
+    "img": "https://gogocdn.net/cover/maria-holic-alive-dub.png",
+    "date": "2011"
+  },
+  {
     "id": "yakusai-kochou-dub",
     "title": "Yakusai Kochou (Dub)",
     "img": "https://gogocdn.net/cover/yakusai-kochou-dub.png",
@@ -59728,6 +59752,12 @@
     "title": "Wellber no Monogatari: Sisters of Wellber",
     "img": "https://gogocdn.net/cover/wellber-no-monogatari-sisters-of-wellber.png",
     "date": "2007"
+  },
+  {
+    "id": "taiyou-no-kiba-dagram",
+    "title": "Taiyou no Kiba Dagram",
+    "img": "https://gogocdn.net/cover/taiyou-no-kiba-dagram.png",
+    "date": "1981"
   },
   {
     "id": "taiyou-no-kiba-dagram",
@@ -61882,6 +61912,12 @@
     "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho (Dub)",
     "img": "https://gogocdn.net/cover/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-dub.png",
     "date": "2018"
+  },
+  {
+    "id": "cyborg-009-1979",
+    "title": "Cyborg 009 (1979)",
+    "img": "https://gogocdn.net/cover/cyborg-009-1979.png",
+    "date": "1979"
   },
   {
     "id": "cyborg-009-1979",
@@ -70764,6 +70800,12 @@
     "date": "2004"
   },
   {
+    "id": "tales-of-phantasia-the-animation-dub",
+    "title": "Tales of Phantasia The Animation (Dub)",
+    "img": "https://gogocdn.net/cover/tales-of-phantasia-the-animation-dub.png",
+    "date": "2004"
+  },
+  {
     "id": "whisper-of-the-heart-dub",
     "title": "Whisper of the Heart (Dub)",
     "img": "https://gogocdn.net/cover/whisper-of-the-heart-dub.png",
@@ -72592,12 +72634,6 @@
     "title": "Interlude",
     "img": "https://gogocdn.net/cover/interlude.png",
     "date": "2004"
-  },
-  {
-    "id": "transformers-animated-season-03",
-    "title": "Transformers: Animated Season 03 (Dub)",
-    "img": "https://gogocdn.net/cover/transformers-animated-season-03.png",
-    "date": "2009"
   },
   {
     "id": "transformers-animated-season-03",
@@ -80122,41 +80158,5 @@
     "title": "Kouya no Kotobuki Hikoutai Gaiden: Oozora no Harukaze Hikoutai",
     "img": "https://gogocdn.net/cover/kouya-no-kotobuki-hikoutai-gaiden-oozora-no-harukaze-hikoutai.png",
     "date": "2019"
-  },
-  {
-    "id": "teekyuu-6-specials",
-    "title": "Teekyuu 6 Specials",
-    "img": "https://gogocdn.net/cover/teekyuu-6-specials.png",
-    "date": ""
-  },
-  {
-    "id": "kishin-houkou-demonbane",
-    "title": "Kishin Houkou Demonbane",
-    "img": "https://gogocdn.net/cover/kishin-houkou-demonbane.png",
-    "date": "2004"
-  },
-  {
-    "id": "kekes-story-dub",
-    "title": "KeKe's Story (Dub)",
-    "img": "https://gogocdn.net/cover/kekes-story-dub.png",
-    "date": "2008"
-  },
-  {
-    "id": "nijuuseiki-denki-mokuroku",
-    "title": "Nijuuseiki Denki Mokuroku",
-    "img": "https://gogocdn.net/cover/nijuuseiki-denki-mokuroku.png",
-    "date": ""
-  },
-  {
-    "id": "da-li-si-rizhi-2nd-season",
-    "title": "Da Li Si Rizhi 2nd Season",
-    "img": "https://gogocdn.net/cover/da-li-si-rizhi-2nd-season.png",
-    "date": "2022"
-  },
-  {
-    "id": "dreamworks-dragons-season-2-dub",
-    "title": "DreamWorks Dragons Season 2 (Dub)",
-    "img": "https://gogocdn.net/cover/dreamworks-dragons-season-2-dub-1663557978.png",
-    "date": "2012"
   }
 ]
