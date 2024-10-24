@@ -1,5 +1,26 @@
 [
   {
+    "id": "yuru-camp-season-3-specials-dub",
+    "epId": "yuru-camp-season-3-specials-dub-episode-3",
+    "title": "Yuru Camp\u25b3 Season 3 Specials (Dub)",
+    "img": "https://gogocdn.net/cover/yuru-camp-season-3-specials-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "yeosin-gangnim-dub",
+    "epId": "yeosin-gangnim-dub-episode-10",
+    "title": "Yeosin Gangnim (Dub)",
+    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub",
+    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub-episode-2",
+    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
+    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
     "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-1",
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
@@ -231,25 +252,11 @@
     "episode": "Episode 6"
   },
   {
-    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub",
-    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub-episode-1",
-    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
-    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "boushoku-no-berserk-dub",
     "epId": "boushoku-no-berserk-dub-episode-12",
     "title": "Boushoku no Berserk (Dub)",
     "img": "https://gogocdn.net/cover/boushoku-no-berserk-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "yeosin-gangnim-dub",
-    "epId": "yeosin-gangnim-dub-episode-9",
-    "title": "Yeosin Gangnim (Dub)",
-    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
-    "episode": "Episode 9"
   },
   {
     "id": "isekai-shikkaku-dub",
@@ -2791,12 +2798,5 @@
     "title": "Vinland Saga Season 2 (Dub)",
     "img": "https://gogocdn.net/cover/vinland-saga-season-2-dub.png",
     "episode": "Episode 24"
-  },
-  {
-    "id": "isekai-wa-smartphone-to-tomo-ni-2-dub",
-    "epId": "isekai-wa-smartphone-to-tomo-ni-2-dub-episode-12",
-    "title": "Isekai wa Smartphone to Tomo ni. 2 (Dub)",
-    "img": "https://gogocdn.net/cover/isekai-wa-smartphone-to-tomo-ni-2-dub.png",
-    "episode": "Episode 12"
   }
 ]
