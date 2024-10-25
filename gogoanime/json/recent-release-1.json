@@ -1,5 +1,33 @@
 [
   {
+    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+    "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-3",
+    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+    "img": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "mokei-senshi-gunpla-builders-beginning-g",
+    "epId": "mokei-senshi-gunpla-builders-beginning-g-episode-1",
+    "title": "Mokei Senshi Gunpla Builders Beginning G",
+    "img": "https://gogocdn.net/cover/mokei-senshi-gunpla-builders-beginning-g.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kidou-senshi-gundam-seed-hoshi-no-hazama-de",
+    "epId": "kidou-senshi-gundam-seed-hoshi-no-hazama-de-episode-1",
+    "title": "Kidou Senshi Gundam SEED: Hoshi no Hazama de",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-seed-hoshi-no-hazama-de.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kidou-senshi-gundam-seed-msv-astray",
+    "epId": "kidou-senshi-gundam-seed-msv-astray-episode-2",
+    "title": "Kidou Senshi Gundam SEED MSV Astray",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-seed-msv-astray.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
     "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-4",
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
@@ -838,13 +866,6 @@
     "title": "Kidou Senshi Gundam: Fukushuu no Requiem",
     "img": "https://gogocdn.net/cover/kidou-senshi-gundam-fukushuu-no-requiem.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
-    "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-2",
-    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
-    "img": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season.png",
-    "episode": "Episode 2"
   },
   {
     "id": "oishinbo",
@@ -2777,26 +2798,5 @@
     "title": "Project A-Ko",
     "img": "https://gogocdn.net/cover/project-a-ko.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "project-a-ko-3-cinderella-rhapsody",
-    "epId": "project-a-ko-3-cinderella-rhapsody-episode-1",
-    "title": "Project A-Ko 3: Cinderella Rhapsody",
-    "img": "https://gogocdn.net/cover/project-a-ko-3-cinderella-rhapsody.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "1000-nen-joou-queen-millennia",
-    "epId": "1000-nen-joou-queen-millennia-episode-1",
-    "title": "1000-nen Joou: Queen Millennia",
-    "img": "https://gogocdn.net/cover/1000-nen-joou-queen-millennia.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "ariel-visual",
-    "epId": "ariel-visual-episode-2",
-    "title": "Ariel Visual",
-    "img": "https://gogocdn.net/cover/ariel-visual.png",
-    "episode": "Episode 2"
   }
 ]
