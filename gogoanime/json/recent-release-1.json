@@ -1,5 +1,12 @@
 [
   {
+    "id": "jewelpet-attack-travel",
+    "epId": "jewelpet-attack-travel-episode-1",
+    "title": "Jewelpet: Attack Travel!",
+    "img": "https://gogocdn.net/cover/jewelpet-attack-travel.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
     "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-3",
     "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
@@ -2791,12 +2798,5 @@
     "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
     "img": "https://gogocdn.net/cover/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2-1719514641.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "project-a-ko",
-    "epId": "project-a-ko-episode-1",
-    "title": "Project A-Ko",
-    "img": "https://gogocdn.net/cover/project-a-ko.png",
-    "episode": "Episode 1"
   }
 ]
