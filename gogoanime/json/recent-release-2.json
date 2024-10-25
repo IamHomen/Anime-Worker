@@ -1,5 +1,19 @@
 [
   {
+    "id": "oshi-no-ko-2nd-season-dub",
+    "epId": "oshi-no-ko-2nd-season-dub-episode-7",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season-dub.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "gundam-mission-to-the-rise-dub",
+    "epId": "gundam-mission-to-the-rise-dub-episode-1",
+    "title": "Gundam: Mission to the Rise (Dub)",
+    "img": "https://gogocdn.net/cover/gundam-mission-to-the-rise-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "trillion-game-dub",
     "epId": "trillion-game-dub-episode-3",
     "title": "Trillion Game (Dub)",
@@ -229,13 +243,6 @@
     "title": "NieR:Automata Ver1.1a Part 2 (Dub)",
     "img": "https://gogocdn.net/cover/nierautomata-ver1-1a-part-2-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season-dub",
-    "epId": "oshi-no-ko-2nd-season-dub-episode-6",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season-dub.png",
-    "episode": "Episode 6"
   },
   {
     "id": "blue-lock",
@@ -2032,7 +2039,7 @@
   {
     "id": "onegaiteacher-dub",
     "epId": "onegaiteacher-dub-episode-13",
-    "title": "Onegai\u014c\u015b\u00e5Teacher (Dub)",
+    "title": "Onegai\u2606Teacher (Dub)",
     "img": "https://gogocdn.net/cover/onegaiteacher-dub.png",
     "episode": "Episode 13"
   },
@@ -2790,13 +2797,6 @@
     "epId": "kono-subarashii-sekai-ni-bakuen-wo-dub-episode-12",
     "title": "Kono Subarashii Sekai ni Bakuen wo! (Dub)",
     "img": "https://gogocdn.net/cover/kono-subarashii-sekai-ni-bakuen-wo-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "kuma-kuma-kuma-bear-punch-dub",
-    "epId": "kuma-kuma-kuma-bear-punch-dub-episode-12",
-    "title": "Kuma Kuma Kuma Bear Punch! (Dub)",
-    "img": "https://gogocdn.net/cover/kuma-kuma-kuma-bear-punch-dub.png",
     "episode": "Episode 12"
   }
 ]
