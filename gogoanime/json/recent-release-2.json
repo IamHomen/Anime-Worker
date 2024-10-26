@@ -1,5 +1,19 @@
 [
   {
+    "id": "attacker-you",
+    "epId": "attacker-you-episode-54",
+    "title": "Attacker You!",
+    "img": "https://gogocdn.net/images/upload/55755.jpg",
+    "episode": "Episode 54"
+  },
+  {
+    "id": "ranma-2024-dub",
+    "epId": "ranma-2024-dub-episode-4",
+    "title": "Ranma \u00bd (2024) (Dub)",
+    "img": "https://gogocdn.net/cover/ranma-2024-dub.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "ooi-tonbo-2nd-season-dub",
     "epId": "ooi-tonbo-2nd-season-dub-episode-4",
     "title": "Ooi! Tonbo 2nd Season (Dub)",
@@ -250,13 +264,6 @@
     "title": "Nige Jouzu no Wakagimi (Dub)",
     "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
     "episode": "Episode 11"
-  },
-  {
-    "id": "ranma-2024-dub",
-    "epId": "ranma-2024-dub-episode-3",
-    "title": "Ranma \u00bd (2024) (Dub)",
-    "img": "https://gogocdn.net/cover/ranma-2024-dub.png",
-    "episode": "Episode 3"
   },
   {
     "id": "nierautomata-ver1-1a-part-2-dub",
@@ -2791,12 +2798,5 @@
     "title": "Otonari ni Ginga (Dub)",
     "img": "https://gogocdn.net/cover/otonari-ni-ginga-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "kaitou-saint-tail-dub",
-    "epId": "kaitou-saint-tail-dub-episode-15",
-    "title": "Kaitou Saint Tail (Dub)",
-    "img": "https://gogocdn.net/cover/kaitou-saint-tail-dub.png",
-    "episode": "Episode 15"
   }
 ]
