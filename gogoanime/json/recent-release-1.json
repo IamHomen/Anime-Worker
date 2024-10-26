@@ -1,5 +1,26 @@
 [
   {
+    "id": "kidou-senshi-gundam-ms-igloo-mokushiroku-0079",
+    "epId": "kidou-senshi-gundam-ms-igloo-mokushiroku-0079-episode-3",
+    "title": "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-ms-igloo-mokushiroku-0079.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "kidou-senshi-gundam-ms-igloo-1-nen-sensou-hiroku",
+    "epId": "kidou-senshi-gundam-ms-igloo-1-nen-sensou-hiroku-episode-3",
+    "title": "Kidou Senshi Gundam MS IGLOO: 1-nen Sensou Hiroku",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-ms-igloo-1-nen-sensou-hiroku.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
+    "epId": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-4",
+    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
+    "img": "https://gogocdn.net/cover/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-1727374871.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
     "epId": "goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-4",
     "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
@@ -858,13 +879,6 @@
     "epId": "ooi-tonbo-2nd-season-episode-3",
     "title": "Ooi! Tonbo 2nd Season",
     "img": "https://gogocdn.net/cover/ooi-tonbo-2nd-season.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
-    "epId": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-3",
-    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
-    "img": "https://gogocdn.net/cover/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-1727374871.png",
     "episode": "Episode 3"
   },
   {
@@ -2784,19 +2798,5 @@
     "title": "Youkai Ningen Bem (2006)",
     "img": "https://gogocdn.net/cover/youkai-ningen-bem-2006.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "youkai-ningen-bem",
-    "epId": "youkai-ningen-bem-episode-26",
-    "title": "Youkai Ningen Bem",
-    "img": "https://gogocdn.net/cover/youkai-ningen-bem.png",
-    "episode": "Episode 26"
-  },
-  {
-    "id": "detective-conan-remastered",
-    "epId": "detective-conan-remastered-episode-490",
-    "title": "Detective Conan Remastered",
-    "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
-    "episode": "Episode 490"
   }
 ]
