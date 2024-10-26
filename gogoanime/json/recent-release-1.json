@@ -1,5 +1,19 @@
 [
   {
+    "id": "ao-no-miburo",
+    "epId": "ao-no-miburo-episode-2",
+    "title": "Ao no Miburo",
+    "img": "https://gogocdn.net/cover/ao-no-miburo-1727372596.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-52",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 52"
+  },
+  {
     "id": "ooi-tonbo-2nd-season",
     "epId": "ooi-tonbo-2nd-season-episode-4",
     "title": "Ooi! Tonbo 2nd Season",
@@ -868,13 +882,6 @@
     "episode": "Episode 4"
   },
   {
-    "id": "ao-no-miburo",
-    "epId": "ao-no-miburo-episode-1",
-    "title": "Ao no Miburo",
-    "img": "https://gogocdn.net/cover/ao-no-miburo-1727372596.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "detective-conan",
     "epId": "detective-conan-episode-1139",
     "title": "Detective Conan",
@@ -1426,13 +1433,6 @@
     "title": "Panyo Panyo Di Gi Charat",
     "img": "https://gogocdn.net/cover/panyo-panyo-di-gi-charat.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-51",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 51"
   },
   {
     "id": "haai-step-jun",
