@@ -1,5 +1,47 @@
 [
   {
+    "id": "maou-2099-dub",
+    "epId": "maou-2099-dub-episode-1",
+    "title": "Maou 2099 (Dub)",
+    "img": "https://gogocdn.net/cover/maou-2099-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi-dub",
+    "epId": "nige-jouzu-no-wakagimi-dub-episode-12",
+    "title": "Nige Jouzu no Wakagimi (Dub)",
+    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "kimi-wa-meido-sama-dub",
+    "epId": "kimi-wa-meido-sama-dub-episode-2",
+    "title": "Kimi wa Meido-sama. (Dub)",
+    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "blue-lock-vs-u-20-japan-dub",
+    "epId": "blue-lock-vs-u-20-japan-dub-episode-2",
+    "title": "Blue Lock vs. U-20 Japan (Dub)",
+    "img": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "maou-sama-retry-r-dub",
+    "epId": "maou-sama-retry-r-dub-episode-3",
+    "title": "Maou-sama, Retry! R (Dub)",
+    "img": "https://gogocdn.net/cover/maou-sama-retry-r-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "boku-no-hero-academia-7th-season-dub",
+    "epId": "boku-no-hero-academia-7th-season-dub-episode-21",
+    "title": "Boku no Hero Academia 7th Season (Dub)",
+    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
+    "episode": "Episode 21"
+  },
+  {
     "id": "attacker-you",
     "epId": "attacker-you-episode-54",
     "title": "Attacker You!",
@@ -229,41 +271,6 @@
     "title": "Uzumaki (Dub)",
     "img": "https://gogocdn.net/cover/uzumaki-dub.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "blue-lock-vs-u-20-japan-dub",
-    "epId": "blue-lock-vs-u-20-japan-dub-episode-1",
-    "title": "Blue Lock vs. U-20 Japan (Dub)",
-    "img": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "kimi-wa-meido-sama-dub",
-    "epId": "kimi-wa-meido-sama-dub-episode-1",
-    "title": "Kimi wa Meido-sama. (Dub)",
-    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama-dub.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "boku-no-hero-academia-7th-season-dub",
-    "epId": "boku-no-hero-academia-7th-season-dub-episode-20",
-    "title": "Boku no Hero Academia 7th Season (Dub)",
-    "img": "https://gogocdn.net/cover/boku-no-hero-academia-7th-season-dub.png",
-    "episode": "Episode 20"
-  },
-  {
-    "id": "maou-sama-retry-r-dub",
-    "epId": "maou-sama-retry-r-dub-episode-2",
-    "title": "Maou-sama, Retry! R (Dub)",
-    "img": "https://gogocdn.net/cover/maou-sama-retry-r-dub.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "nige-jouzu-no-wakagimi-dub",
-    "epId": "nige-jouzu-no-wakagimi-dub-episode-11",
-    "title": "Nige Jouzu no Wakagimi (Dub)",
-    "img": "https://gogocdn.net/cover/nige-jouzu-no-wakagimi-dub.png",
-    "episode": "Episode 11"
   },
   {
     "id": "nierautomata-ver1-1a-part-2-dub",
@@ -2791,12 +2798,5 @@
     "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru. (Dub)",
     "img": "https://gogocdn.net/cover/jijou-wo-shiranai-tenkousei-ga-guigui-kuru-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "otonari-ni-ginga-dub",
-    "epId": "otonari-ni-ginga-dub-episode-12",
-    "title": "Otonari ni Ginga (Dub)",
-    "img": "https://gogocdn.net/cover/otonari-ni-ginga-dub.png",
-    "episode": "Episode 12"
   }
 ]
