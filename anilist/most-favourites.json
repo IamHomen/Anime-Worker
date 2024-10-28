@@ -168,19 +168,19 @@
     "format": "TV"
   },
   {
-    "id": 1,
-    "title": "Cowboy Bebop",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-CXtrrkMpJ8Zq.png",
-    "seasonYear": 1998,
-    "totalEpisode": 26,
-    "format": "TV"
-  },
-  {
     "id": 21355,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-IHaS50pvLYd0.jpg",
     "seasonYear": 2016,
     "totalEpisode": 25,
+    "format": "TV"
+  },
+  {
+    "id": 1,
+    "title": "Cowboy Bebop",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-CXtrrkMpJ8Zq.png",
+    "seasonYear": 1998,
+    "totalEpisode": 26,
     "format": "TV"
   },
   {
@@ -216,19 +216,19 @@
     "format": "TV"
   },
   {
-    "id": 101921,
-    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 97940,
     "title": "Black Clover",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
     "seasonYear": 2017,
     "totalEpisode": 170,
+    "format": "TV"
+  },
+  {
+    "id": 101921,
+    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -304,20 +304,20 @@
     "format": "TV"
   },
   {
-    "id": 105333,
-    "title": "Dr. STONE",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-02NGkx1vey2C.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 120377,
     "title": "Cyberpunk: Edgerunners",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-GdoVPT4ZVxJn.jpg",
     "seasonYear": 2022,
     "totalEpisode": 10,
     "format": "ONA"
+  },
+  {
+    "id": 105333,
+    "title": "Dr. STONE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-02NGkx1vey2C.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 24,
+    "format": "TV"
   },
   {
     "id": 101759,
