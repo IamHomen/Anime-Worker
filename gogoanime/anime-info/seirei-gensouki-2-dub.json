@@ -12,8 +12,12 @@
   "otherNames": "Seirei Gensouki: Spirit Chronicles Season 2, \u7cbe\u970a\u5e7b\u60f3\u8a182",
   "synopsis": "Second season of Seirei Gensouki.",
   "animeImg": "https://gogocdn.net/cover/seirei-gensouki-2-dub.png",
-  "totalEpisodes": "3",
+  "totalEpisodes": "4",
   "episodesList": [
+    {
+      "episodeId": "seirei-gensouki-2-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
     {
       "episodeId": "seirei-gensouki-2-dub-episode-3",
       "episodeNum": "Episode 3"

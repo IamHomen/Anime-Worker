@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 64711,
+      "anime_id": 5675,
+      "anime_title": "Houkago Shounen Hanako-kun Part 2",
+      "anime_session": "d0ebdfed-2852-ac6b-8ff6-bcde335b5ff1",
+      "episode": 8,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/3f4c61915a09a8e6cde90df77f91fe6355606537c9baac6138ab5a83fb4d5b70.jpg",
+      "disc": "",
+      "session": "649dae18cb810e67a01b48a5e49a974968d4e4287e131dc509fa6147ff455fd6",
+      "filler": 0,
+      "created_at": "2024-10-28 18:05:50",
+      "completed": 0
+    },
+    {
       "id": 64710,
       "anime_id": 5650,
       "anime_title": "Seirei Gensouki 2",
@@ -182,22 +198,6 @@
       "session": "dd53a80d2a5ed2cf4da217ebf35dd4e99c5cd6c1f99b32c162a7bae61b437cbe",
       "filler": 0,
       "created_at": "2024-10-28 09:45:46",
-      "completed": 1
-    },
-    {
-      "id": 48204,
-      "anime_id": 4273,
-      "anime_title": "Heya Camp\u25b3: Sauna to Gohan to Sanrin Bike",
-      "anime_session": "fa5cafcf-263e-d6a4-c8e3-ae8dadf380fd",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Pog42",
-      "snapshot": "https://i.animepahe.ru/snapshots/3e85b5edd85433c764e0ebf6408b93450f3c2fff357155ffbefe765d78a4ddf2.jpg",
-      "disc": "BD",
-      "session": "71bcbf15d62025ddcb67bfa58ed5167578875b2903a9da1f6a9b4caadda5c4eb",
-      "filler": 0,
-      "created_at": "2021-03-03 03:34:19",
       "completed": 1
     }
   ]
