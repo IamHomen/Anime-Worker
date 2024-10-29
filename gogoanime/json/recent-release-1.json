@@ -1,5 +1,19 @@
 [
   {
+    "id": "kidou-senshi-gundam-zz-gundam-frag",
+    "epId": "kidou-senshi-gundam-zz-gundam-frag-episode-2",
+    "title": "Kidou Senshi Gundam ZZ: Gundam Frag.",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-zz-gundam-frag.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "mobile-suit-sd-gundam-festival",
+    "epId": "mobile-suit-sd-gundam-festival-episode-3",
+    "title": "Mobile Suit SD Gundam Festival",
+    "img": "https://gogocdn.net/cover/mobile-suit-sd-gundam-festival.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "flanders-no-inu-movie",
     "epId": "flanders-no-inu-movie-episode-1",
     "title": "Flanders no Inu (Movie)",
@@ -2784,19 +2798,5 @@
     "title": "Kyojin no Hoshi",
     "img": "https://gogocdn.net/cover/kyojin-no-hoshi.png",
     "episode": "Episode 52"
-  },
-  {
-    "id": "mitsume-ga-tooru",
-    "epId": "mitsume-ga-tooru-episode-48",
-    "title": "Mitsume ga Tooru",
-    "img": "https://gogocdn.net/cover/mitsume-ga-tooru.png",
-    "episode": "Episode 48"
-  },
-  {
-    "id": "rising-impact-season-2",
-    "epId": "rising-impact-season-2-episode-14",
-    "title": "Rising Impact Season 2",
-    "img": "https://gogocdn.net/cover/rising-impact-season-2.png",
-    "episode": "Episode 14"
   }
 ]
