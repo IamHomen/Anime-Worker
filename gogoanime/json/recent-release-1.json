@@ -1,5 +1,33 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-53",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 53"
+  },
+  {
+    "id": "amagami-san-chi-no-enmusubi",
+    "epId": "amagami-san-chi-no-enmusubi-episode-5",
+    "title": "Amagami-san Chi no Enmusubi",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-5",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "youkai-gakkou-no-sensei-hajimemashita",
+    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-4",
+    "title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "kidou-senshi-gundam-zz-gundam-frag",
     "epId": "kidou-senshi-gundam-zz-gundam-frag-episode-2",
     "title": "Kidou Senshi Gundam ZZ: Gundam Frag.",
@@ -257,13 +285,6 @@
     "title": "Ao no Miburo",
     "img": "https://gogocdn.net/cover/ao-no-miburo-1727372596.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-52",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 52"
   },
   {
     "id": "ooi-tonbo-2nd-season",
@@ -754,27 +775,6 @@
     "title": "Tasuuketsu",
     "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
     "episode": "Episode 15"
-  },
-  {
-    "id": "amagami-san-chi-no-enmusubi",
-    "epId": "amagami-san-chi-no-enmusubi-episode-4",
-    "title": "Amagami-san Chi no Enmusubi",
-    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
-    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-4",
-    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "youkai-gakkou-no-sensei-hajimemashita",
-    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-3",
-    "title": "Youkai Gakkou no Sensei Hajimemashita!",
-    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
-    "episode": "Episode 3"
   },
   {
     "id": "space-fantasia-2001-nights",

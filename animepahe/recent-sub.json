@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 64717,
+      "anime_id": 5596,
+      "anime_title": "Tasuuketsu",
+      "anime_session": "2183cedb-ba98-e932-5d1f-34f60031933d",
+      "episode": 16,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/8128a20ea77d04ea8b042602d2022e7263216473aac7572df7f0755e076d9538.jpg",
+      "disc": "",
+      "session": "7bb38be9fc8cdfbda0157c128a9401757180fe827160248a15d093bea264a52b",
+      "filler": 0,
+      "created_at": "2024-10-29 19:06:50",
+      "completed": 0
+    },
+    {
       "id": 64716,
       "anime_id": 5481,
       "anime_title": "Beyblade X",
@@ -182,22 +198,6 @@
       "session": "6734c115d8cc28f5f436ca973b892b87428492cff77456f8469707a0ed19810b",
       "filler": 0,
       "created_at": "2024-10-28 16:10:26",
-      "completed": 0
-    },
-    {
-      "id": 64707,
-      "anime_id": 5651,
-      "anime_title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-      "anime_session": "022b5245-93f2-891b-a408-6cce0fd4651a",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/1e44399c090bbc47789f9cf2cba62318be9ab5fa88b4f62fe400af2fd287043e.jpg",
-      "disc": "",
-      "session": "f027d3adfa2d89bb5344d6ba8bc77952d8fb60509087eafa55dd4d38c3a8aa67",
-      "filler": 0,
-      "created_at": "2024-10-28 15:11:43",
       "completed": 0
     }
   ]
