@@ -1,5 +1,26 @@
 [
   {
+    "id": "natsume-yuujinchou-shichi-dub",
+    "epId": "natsume-yuujinchou-shichi-dub-episode-2",
+    "title": "Natsume Yuujinchou Shichi (Dub)",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3-dub",
+    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-dub-episode-1",
+    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3 (Dub)",
+    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "cardfight-vanguard-divinez-season-2-dub",
+    "epId": "cardfight-vanguard-divinez-season-2-dub-episode-1",
+    "title": "Cardfight!! Vanguard: Divinez Season 2 (Dub)",
+    "img": "https://gogocdn.net/cover/cardfight-vanguard-divinez-season-2-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "seirei-gensouki-2-dub",
     "epId": "seirei-gensouki-2-dub-episode-4",
     "title": "Seirei Gensouki 2 (Dub)",
@@ -271,13 +292,6 @@
     "title": "Beyblade X (Dub)",
     "img": "https://gogocdn.net/cover/beyblade-x-dub.png",
     "episode": "Episode 36"
-  },
-  {
-    "id": "natsume-yuujinchou-shichi-dub",
-    "epId": "natsume-yuujinchou-shichi-dub-episode-1",
-    "title": "Natsume Yuujinchou Shichi (Dub)",
-    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi-dub.png",
-    "episode": "Episode 1"
   },
   {
     "id": "uzumaki-dub",
@@ -2784,19 +2798,5 @@
     "title": "Shuumatsu no Walk\u00fcre II Part 2 (Dub)",
     "img": "https://gogocdn.net/cover/shuumatsu-no-walkure-ii-part-2-dub.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "dead-mount-death-play-dub",
-    "epId": "dead-mount-death-play-dub-episode-12",
-    "title": "Dead Mount Death Play (Dub)",
-    "img": "https://gogocdn.net/cover/dead-mount-death-play-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "golden-kamuy-4th-season-dub",
-    "epId": "golden-kamuy-4th-season-dub-episode-13",
-    "title": "Golden Kamuy 4th Season (Dub)",
-    "img": "https://gogocdn.net/cover/golden-kamuy-4th-season-dub.png",
-    "episode": "Episode 13"
   }
 ]

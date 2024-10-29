@@ -6507,7 +6507,7 @@
     "id": "ghost-in-the-shell-sac-2nd-gig",
     "title": "Ghost in the Shell: S.A.C. 2nd GIG",
     "img": "https://gogocdn.net/images/anime/G/ghost-in-the-shell-sac.jpg",
-    "date": "2008"
+    "date": "2004"
   },
   {
     "id": "fate-zero-season-2",
@@ -7077,7 +7077,7 @@
     "id": "ghost-in-the-shell-sac",
     "title": "Ghost in the Shell SAC",
     "img": "https://gogocdn.net/images/anime/G/ghost-in-the-shell-sac.jpg",
-    "date": "2008"
+    "date": "2002"
   },
   {
     "id": "silver-spoon",
@@ -44658,6 +44658,12 @@
     "date": "2005"
   },
   {
+    "id": "chang-sheng-jie",
+    "title": "Chang Sheng Jie",
+    "img": "https://gogocdn.net/cover/chang-sheng-jie.png",
+    "date": "2024"
+  },
+  {
     "id": "kowabon",
     "title": "Kowabon",
     "img": "https://gogocdn.net/images/upload/74465.jpg",
@@ -44920,6 +44926,12 @@
     "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
     "img": "https://gogocdn.net/cover/shi-cao-lao-long-bei-guan-yi-e-long-zhi-ming-2nd-season.png",
     "date": "2024"
+  },
+  {
+    "id": "flanders-no-inu-movie",
+    "title": "Flanders no Inu (Movie)",
+    "img": "https://gogocdn.net/cover/flanders-no-inu-movie.png",
+    "date": "1997"
   },
   {
     "id": "flowering-heart",
@@ -45472,12 +45484,6 @@
     "title": "Mahou Shoujo Site",
     "img": "https://gogocdn.net/cover/mahou-shoujo-site.png",
     "date": "2018"
-  },
-  {
-    "id": "harmagedon-dub",
-    "title": "Harmagedon (Dub)",
-    "img": "https://gogocdn.net/cover/harmagedon-dub.png",
-    "date": "1983"
   },
   {
     "id": "harmagedon-dub",
@@ -50880,12 +50886,6 @@
     "date": "2023"
   },
   {
-    "id": "nitian-xie-shen-2nd-season",
-    "title": "Nitian Xie Shen 2nd Season",
-    "img": "https://gogocdn.net/cover/nitian-xie-shen-2nd-season.png",
-    "date": "2023"
-  },
-  {
     "id": "ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo",
     "title": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
     "img": "https://gogocdn.net/cover/ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo.png",
@@ -55672,6 +55672,12 @@
     "title": "Itsudatte My Santa! (Dub)",
     "img": "https://gogocdn.net/cover/itsudatte-my-santa-dub.png",
     "date": "2005"
+  },
+  {
+    "id": "mobile-suit-gundam-the-08th-ms-team-millers-report-dub",
+    "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report (Dub)",
+    "img": "https://gogocdn.net/cover/mobile-suit-gundam-the-08th-ms-team-millers-report-dub.png",
+    "date": "1998"
   },
   {
     "id": "mobile-suit-gundam-the-08th-ms-team-millers-report-dub",
@@ -80152,11 +80158,5 @@
     "title": "Xu Jing Zhong Gou",
     "img": "https://gogocdn.net/cover/xu-jing-zhong-gou.png",
     "date": "2022"
-  },
-  {
-    "id": "5-toubun-no-hanayome",
-    "title": "5-toubun no Hanayome\u223d",
-    "img": "https://gogocdn.net/cover/5-toubun-no-hanayome.png",
-    "date": "2023"
   }
 ]

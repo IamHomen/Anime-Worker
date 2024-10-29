@@ -13,8 +13,12 @@
   "otherNames": "Kidou Senshi SD Gundam Matsuri, \u6a5f\u52d5\u6226\u58ebSD\u30ac\u30f3\u30c0\u30e0\u307e\u3064\u308a",
   "synopsis": "The movie is divided into 3 different parts:\r\n1) The Tale of the SD Warring States: World Peace Chapter\r\n2) SD Gundam Sidestory: The Legend of the Holy Machine Soldiers\r\n3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza",
   "animeImg": "https://gogocdn.net/cover/mobile-suit-sd-gundam-festival.png",
-  "totalEpisodes": "2",
+  "totalEpisodes": "3",
   "episodesList": [
+    {
+      "episodeId": "mobile-suit-sd-gundam-festival-episode-3",
+      "episodeNum": "Episode 3"
+    },
     {
       "episodeId": "mobile-suit-sd-gundam-festival-episode-2",
       "episodeNum": "Episode 2"
