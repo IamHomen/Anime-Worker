@@ -1,5 +1,12 @@
 [
   {
+    "id": "murai-no-koi",
+    "epId": "murai-no-koi-episode-9",
+    "title": "Murai no Koi",
+    "img": "https://gogocdn.net/cover/murai-no-koi-1725457733.png",
+    "episode": "Episode 9"
+  },
+  {
     "id": "neko-ni-tensei-shita-ojisan",
     "epId": "neko-ni-tensei-shita-ojisan-episode-4",
     "title": "Neko ni Tensei shita Ojisan",
@@ -691,13 +698,6 @@
     "title": "Acro Trip",
     "img": "https://gogocdn.net/cover/acro-trip-1727372179.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "murai-no-koi",
-    "epId": "murai-no-koi-episode-8",
-    "title": "Murai no Koi",
-    "img": "https://gogocdn.net/cover/murai-no-koi-1725457733.png",
-    "episode": "Episode 8"
   },
   {
     "id": "hokori-inu-no-hanashi",
