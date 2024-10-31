@@ -1,10 +1,24 @@
 [
   {
+    "id": "himitsu-no-aipri",
+    "epId": "himitsu-no-aipri-episode-30",
+    "title": "Himitsu no AiPri",
+    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
+    "episode": "Episode 30"
+  },
+  {
     "id": "detective-conan-remastered",
-    "epId": "detective-conan-remastered-episode-510",
+    "epId": "detective-conan-remastered-episode-561",
     "title": "Detective Conan Remastered",
     "img": "https://gogocdn.net/cover/detective-conan-remastered.png",
-    "episode": "Episode 510"
+    "episode": "Episode 561"
+  },
+  {
+    "id": "haikyuu-movie-gomisuteba-no-kessen",
+    "epId": "haikyuu-movie-gomisuteba-no-kessen-episode-1",
+    "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
+    "img": "https://gogocdn.net/cover/haikyuu-movie-gomisuteba-no-kessen.png",
+    "episode": "Episode 1"
   },
   {
     "id": "kamierabi-2nd-season",
@@ -1195,13 +1209,6 @@
     "title": "Googuri Googuri",
     "img": "https://gogocdn.net/cover/googuri-googuri.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "himitsu-no-aipri",
-    "epId": "himitsu-no-aipri-episode-27",
-    "title": "Himitsu no AiPri",
-    "img": "https://gogocdn.net/cover/himitsu-no-aipri.png",
-    "episode": "Episode 27"
   },
   {
     "id": "one-piece",
@@ -2791,12 +2798,5 @@
     "title": "Guardian Hearts",
     "img": "https://gogocdn.net/cover/guardian-hearts.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "super-dragon-ball-heroes-meteor-mission",
-    "epId": "super-dragon-ball-heroes-meteor-mission-episode-6",
-    "title": "Super Dragon Ball Heroes Meteor Mission",
-    "img": "https://gogocdn.net/cover/super-dragon-ball-heroes-meteor-mission.png",
-    "episode": "Episode 6"
   }
 ]

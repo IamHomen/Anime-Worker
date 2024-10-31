@@ -1,5 +1,26 @@
 [
   {
+    "id": "yeosin-gangnim-dub",
+    "epId": "yeosin-gangnim-dub-episode-11",
+    "title": "Yeosin Gangnim (Dub)",
+    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
+    "episode": "Episode 11"
+  },
+  {
+    "id": "delicos-nursery-dub",
+    "epId": "delicos-nursery-dub-episode-7",
+    "title": "Delico's Nursery (Dub)",
+    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
+    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-2",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "amagami-san-chi-no-enmusubi-dub",
     "epId": "amagami-san-chi-no-enmusubi-dub-episode-3",
     "title": "Amagami-san Chi no Enmusubi (Dub)",
@@ -217,25 +238,11 @@
     "episode": "Episode 3"
   },
   {
-    "id": "yeosin-gangnim-dub",
-    "epId": "yeosin-gangnim-dub-episode-10",
-    "title": "Yeosin Gangnim (Dub)",
-    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub",
     "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub-episode-2",
     "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
     "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
-    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-1",
-    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub.png",
-    "episode": "Episode 1"
   },
   {
     "id": "kishin-heidan-dub",
@@ -565,13 +572,6 @@
     "title": "Konjiki no Gash Bell!! (Dub)",
     "img": "https://gogocdn.net/cover/konjiki-no-gash-bell-dub.png",
     "episode": "Episode 129"
-  },
-  {
-    "id": "delicos-nursery-dub",
-    "epId": "delicos-nursery-dub-episode-6",
-    "title": "Delico's Nursery (Dub)",
-    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
-    "episode": "Episode 6"
   },
   {
     "id": "free-take-your-marks-dub",
