@@ -1,0 +1,21 @@
+{
+  "animeTitle": "Mayumi",
+  "type": "Movie",
+  "releasedDate": "2016",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Psychological",
+    "Suspense"
+  ],
+  "otherNames": "\u307e\u3086\u307f",
+  "synopsis": "Mayumi is a spoiled girl whose parents buy her everything she wants. She names her name \"Mayumi\" to everything she receives, and her room is gradually filled with many Mayumis. Mayumi herself gets swallowed by the characters of her name.",
+  "animeImg": "https://gogocdn.net/cover/mayumi.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "mayumi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
