@@ -1,5 +1,117 @@
 [
   {
+    "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
+    "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-5",
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+    "img": "https://gogocdn.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-116",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 116"
+  },
+  {
+    "id": "trillion-game",
+    "epId": "trillion-game-episode-6",
+    "title": "Trillion Game",
+    "img": "https://gogocdn.net/cover/trillion-game-1727380017.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "sayounara-ryuusei-konnichiwa-jinsei",
+    "epId": "sayounara-ryuusei-konnichiwa-jinsei-episode-5",
+    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "img": "https://gogocdn.net/cover/sayounara-ryuusei-konnichiwa-jinsei.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "mecha-ude-tv",
+    "epId": "mecha-ude-tv-episode-5",
+    "title": "Mecha-ude (TV)",
+    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "dandadan",
+    "epId": "dandadan-episode-5",
+    "title": "Dandadan",
+    "img": "https://gogocdn.net/cover/dandadan.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "ao-no-hako",
+    "epId": "ao-no-hako-episode-6",
+    "title": "Ao no Hako",
+    "img": "https://gogocdn.net/cover/ao-no-hako.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "kekkon-suru-tte-hontou-desu-ka",
+    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-5",
+    "title": "Kekkon suru tte, Hontou desu ka",
+    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "akuma-kun",
+    "epId": "akuma-kun-episode-15",
+    "title": "Akuma-kun",
+    "img": "https://gogocdn.net/cover/akuma-kun.png",
+    "episode": "Episode 15"
+  },
+  {
+    "id": "hitoribocchi-no-isekai-kouryaku",
+    "epId": "hitoribocchi-no-isekai-kouryaku-episode-6",
+    "title": "Hitoribocchi no Isekai Kouryaku",
+    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "nandodemo-wasureyou",
+    "epId": "nandodemo-wasureyou-episode-1",
+    "title": "Nandodemo Wasureyou",
+    "img": "https://gogocdn.net/cover/nandodemo-wasureyou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "mayumi",
+    "epId": "mayumi-episode-1",
+    "title": "Mayumi",
+    "img": "https://gogocdn.net/cover/mayumi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "cairn-no-kubi-tachi",
+    "epId": "cairn-no-kubi-tachi-episode-1",
+    "title": "Cairn no Kubi-tachi",
+    "img": "https://gogocdn.net/cover/cairn-no-kubi-tachi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "negaposi-angler",
+    "epId": "negaposi-angler-episode-5",
+    "title": "NegaPosi Angler",
+    "img": "https://gogocdn.net/cover/negaposi-angler.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "kinoko-inu",
+    "epId": "kinoko-inu-episode-5",
+    "title": "Kinoko Inu",
+    "img": "https://gogocdn.net/cover/kinoko-inu.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+    "epId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen-episode-5",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "himitsu-no-aipri",
     "epId": "himitsu-no-aipri-episode-30",
     "title": "Himitsu no AiPri",
@@ -532,39 +644,11 @@
     "episode": "Episode 2"
   },
   {
-    "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
-    "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-4",
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-    "img": "https://gogocdn.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "doctor-chichibuyama",
     "epId": "doctor-chichibuyama-episode-2",
     "title": "Doctor Chichibuyama",
     "img": "https://gogocdn.net/cover/doctor-chichibuyama.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-115",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 115"
-  },
-  {
-    "id": "trillion-game",
-    "epId": "trillion-game-episode-5",
-    "title": "Trillion Game",
-    "img": "https://gogocdn.net/cover/trillion-game-1727380017.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "sayounara-ryuusei-konnichiwa-jinsei",
-    "epId": "sayounara-ryuusei-konnichiwa-jinsei-episode-4",
-    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-    "img": "https://gogocdn.net/cover/sayounara-ryuusei-konnichiwa-jinsei.png",
-    "episode": "Episode 4"
   },
   {
     "id": "sex-prologue",
@@ -595,34 +679,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "mecha-ude-tv",
-    "epId": "mecha-ude-tv-episode-4",
-    "title": "Mecha-ude (TV)",
-    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "ao-no-hako",
-    "epId": "ao-no-hako-episode-5",
-    "title": "Ao no Hako",
-    "img": "https://gogocdn.net/cover/ao-no-hako.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "dandadan",
-    "epId": "dandadan-episode-4",
-    "title": "Dandadan",
-    "img": "https://gogocdn.net/cover/dandadan.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "kekkon-suru-tte-hontou-desu-ka",
-    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-4",
-    "title": "Kekkon suru tte, Hontou desu ka",
-    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "sakura-capsule",
     "epId": "sakura-capsule-episode-1",
     "title": "Sakura Capsule",
@@ -635,13 +691,6 @@
     "title": "Transformers Zone",
     "img": "https://gogocdn.net/cover/transformers-zone.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "hitoribocchi-no-isekai-kouryaku",
-    "epId": "hitoribocchi-no-isekai-kouryaku-episode-5",
-    "title": "Hitoribocchi no Isekai Kouryaku",
-    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
-    "episode": "Episode 5"
   },
   {
     "id": "lesson-xx",
@@ -670,27 +719,6 @@
     "title": "Watt Poe to Bokura no Ohanashi",
     "img": "https://gogocdn.net/cover/watt-poe-to-bokura-no-ohanashi.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "negaposi-angler",
-    "epId": "negaposi-angler-episode-4",
-    "title": "NegaPosi Angler",
-    "img": "https://gogocdn.net/cover/negaposi-angler.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "kinoko-inu",
-    "epId": "kinoko-inu-episode-4",
-    "title": "Kinoko Inu",
-    "img": "https://gogocdn.net/cover/kinoko-inu.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
-    "epId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen-episode-4",
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png",
-    "episode": "Episode 4"
   },
   {
     "id": "elf-17",
@@ -2611,13 +2639,6 @@
     "episode": "Episode 15"
   },
   {
-    "id": "akuma-kun",
-    "epId": "akuma-kun-episode-14",
-    "title": "Akuma-kun",
-    "img": "https://gogocdn.net/cover/akuma-kun.png",
-    "episode": "Episode 14"
-  },
-  {
     "id": "ohayou-spank",
     "epId": "ohayou-spank-episode-48",
     "title": "Ohayou! Spank",
@@ -2777,26 +2798,5 @@
     "title": "Shoukoushi Cedie",
     "img": "https://gogocdn.net/cover/shoukoushi-cedie.png",
     "episode": "Episode 43"
-  },
-  {
-    "id": "super-zugan",
-    "epId": "super-zugan-episode-21",
-    "title": "Super Zugan",
-    "img": "https://gogocdn.net/cover/super-zugan.png",
-    "episode": "Episode 21"
-  },
-  {
-    "id": "getter-robo-go",
-    "epId": "getter-robo-go-episode-30",
-    "title": "Getter Robo Go",
-    "img": "https://gogocdn.net/cover/getter-robo-go.png",
-    "episode": "Episode 30"
-  },
-  {
-    "id": "guardian-hearts",
-    "epId": "guardian-hearts-episode-3",
-    "title": "Guardian Hearts",
-    "img": "https://gogocdn.net/cover/guardian-hearts.png",
-    "episode": "Episode 3"
   }
 ]

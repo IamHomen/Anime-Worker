@@ -1,5 +1,19 @@
 [
   {
+    "id": "dandadan-dub",
+    "epId": "dandadan-dub-episode-5",
+    "title": "Dandadan (Dub)",
+    "img": "https://gogocdn.net/cover/dandadan-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub",
+    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub-episode-3",
+    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
+    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
     "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-3",
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
@@ -224,25 +238,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "dandadan-dub",
-    "epId": "dandadan-dub-episode-4",
-    "title": "Dandadan (Dub)",
-    "img": "https://gogocdn.net/cover/dandadan-dub.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "yuru-camp-season-3-specials-dub",
     "epId": "yuru-camp-season-3-specials-dub-episode-3",
     "title": "Yuru Camp\u25b3 Season 3 Specials (Dub)",
     "img": "https://gogocdn.net/cover/yuru-camp-season-3-specials-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub",
-    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub-episode-2",
-    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
-    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "kishin-heidan-dub",
