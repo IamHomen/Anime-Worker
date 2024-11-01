@@ -1,5 +1,26 @@
 [
   {
+    "id": "oshi-no-ko-2nd-season-dub",
+    "epId": "oshi-no-ko-2nd-season-dub-episode-8",
+    "title": "",
+    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season-dub.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu-dub",
+    "epId": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu-dub-episode-1",
+    "title": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu! (Dub)",
+    "img": "https://gogocdn.net/cover/kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kuromis-pretty-journey-dub",
+    "epId": "kuromis-pretty-journey-dub-episode-21",
+    "title": "Kuromi's Pretty Journey (Dub)",
+    "img": "https://gogocdn.net/cover/kuromis-pretty-journey-dub.png",
+    "episode": "Episode 21"
+  },
+  {
     "id": "trillion-game-dub",
     "epId": "trillion-game-dub-episode-4",
     "title": "Trillion Game (Dub)",
@@ -208,13 +229,6 @@
     "title": "Kidou Senshi Gundam MS IGLOO: 1-nen Sensou Hiroku (Dub)",
     "img": "https://gogocdn.net/cover/kidou-senshi-gundam-ms-igloo-1-nen-sensou-hiroku-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "oshi-no-ko-2nd-season-dub",
-    "epId": "oshi-no-ko-2nd-season-dub-episode-7",
-    "title": "",
-    "img": "https://gogocdn.net/cover/oshi-no-ko-2nd-season-dub.png",
-    "episode": "Episode 7"
   },
   {
     "id": "gundam-mission-to-the-rise-dub",
@@ -2464,13 +2478,6 @@
     "episode": "Episode 3"
   },
   {
-    "id": "kuromis-pretty-journey-dub",
-    "epId": "kuromis-pretty-journey-dub-episode-15",
-    "title": "Kuromi's Pretty Journey (Dub)",
-    "img": "https://gogocdn.net/cover/kuromis-pretty-journey-dub.png",
-    "episode": "Episode 15"
-  },
-  {
     "id": "kengan-ashura-season-2-dub",
     "epId": "kengan-ashura-season-2-dub-episode-12",
     "title": "Kengan Ashura Season 2 (Dub)",
@@ -2791,12 +2798,5 @@
     "title": "Chou Shounen Tanteidan Neo (Dub)",
     "img": "https://gogocdn.net/cover/chou-shounen-tanteidan-neo-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "shuumatsu-no-walkure-ii-part-2-dub",
-    "epId": "shuumatsu-no-walkure-ii-part-2-dub-episode-5",
-    "title": "Shuumatsu no Walk\u00fcre II Part 2 (Dub)",
-    "img": "https://gogocdn.net/cover/shuumatsu-no-walkure-ii-part-2-dub.png",
-    "episode": "Episode 5"
   }
 ]
