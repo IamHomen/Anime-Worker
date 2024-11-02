@@ -1,5 +1,26 @@
 [
   {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1140",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1140"
+  },
+  {
+    "id": "ao-no-miburo",
+    "epId": "ao-no-miburo-episode-3",
+    "title": "Ao no Miburo",
+    "img": "https://gogocdn.net/cover/ao-no-miburo-1727372596.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "pokemon-shinsaku-anime",
+    "epId": "pokemon-shinsaku-anime-episode-71",
+    "title": "Pokemon (Shinsaku Anime)",
+    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
+    "episode": "Episode 71"
+  },
+  {
     "id": "ooi-tonbo-2nd-season",
     "epId": "ooi-tonbo-2nd-season-episode-5",
     "title": "Ooi! Tonbo 2nd Season",
@@ -560,20 +581,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "ao-no-miburo",
-    "epId": "ao-no-miburo-episode-2",
-    "title": "Ao no Miburo",
-    "img": "https://gogocdn.net/cover/ao-no-miburo-1727372596.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "pokemon-shinsaku-anime",
-    "epId": "pokemon-shinsaku-anime-episode-70",
-    "title": "Pokemon (Shinsaku Anime)",
-    "img": "https://gogocdn.net/cover/pokemon-shinsaku-anime-1680202985.png",
-    "episode": "Episode 70"
-  },
-  {
     "id": "kidou-senshi-gundam-ms-igloo-mokushiroku-0079",
     "epId": "kidou-senshi-gundam-ms-igloo-mokushiroku-0079-episode-3",
     "title": "Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079",
@@ -992,13 +999,6 @@
     "title": "Monogatari Series: Off & Monster Season",
     "img": "https://gogocdn.net/cover/monogatari-series-off-monster-season.png",
     "episode": "Episode 14"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1139",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1139"
   },
   {
     "id": "hyakushou-kizoku-2nd-season",
