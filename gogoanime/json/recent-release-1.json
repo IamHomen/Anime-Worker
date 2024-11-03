@@ -1,5 +1,12 @@
 [
   {
+    "id": "kimi-wa-meido-sama",
+    "epId": "kimi-wa-meido-sama-episode-5",
+    "title": "Kimi wa Meido-sama.",
+    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
     "epId": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episode-5",
     "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
@@ -565,13 +572,6 @@
     "title": "Wonderful Precure!",
     "img": "https://gogocdn.net/cover/wonderful-precure.png",
     "episode": "Episode 39"
-  },
-  {
-    "id": "kimi-wa-meido-sama",
-    "epId": "kimi-wa-meido-sama-episode-4",
-    "title": "Kimi wa Meido-sama.",
-    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama.png",
-    "episode": "Episode 4"
   },
   {
     "id": "attacker-you",
