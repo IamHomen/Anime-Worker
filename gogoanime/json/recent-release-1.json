@@ -1,5 +1,33 @@
 [
   {
+    "id": "futari-gurashi",
+    "epId": "futari-gurashi-episode-12",
+    "title": "Futari Gurashi",
+    "img": "https://gogocdn.net/cover/futari-gurashi.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "nanako-sos",
+    "epId": "nanako-sos-episode-16",
+    "title": "Nanako SOS",
+    "img": "https://gogocdn.net/cover/nanako-sos.png",
+    "episode": "Episode 16"
+  },
+  {
+    "id": "thunderbolt-fantasy-touriken-yuuki-4",
+    "epId": "thunderbolt-fantasy-touriken-yuuki-4-episode-5",
+    "title": "Thunderbolt Fantasy: Touriken Yuuki 4",
+    "img": "https://gogocdn.net/cover/thunderbolt-fantasy-touriken-yuuki-4.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "one-piece-gyojin-tou-hen",
+    "epId": "one-piece-gyojin-tou-hen-episode-1",
+    "title": "One Piece: Gyojin Tou-hen",
+    "img": "https://gogocdn.net/cover/one-piece-gyojin-tou-hen.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kimi-wa-meido-sama",
     "epId": "kimi-wa-meido-sama-episode-5",
     "title": "Kimi wa Meido-sama.",
@@ -1258,13 +1286,6 @@
     "title": "Kankin Kuiki Level X",
     "img": "https://gogocdn.net/cover/kankin-kuiki-level-x.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "thunderbolt-fantasy-touriken-yuuki-4",
-    "epId": "thunderbolt-fantasy-touriken-yuuki-4-episode-2",
-    "title": "Thunderbolt Fantasy: Touriken Yuuki 4",
-    "img": "https://gogocdn.net/cover/thunderbolt-fantasy-touriken-yuuki-4.png",
-    "episode": "Episode 2"
   },
   {
     "id": "pop-pop-city",
@@ -2681,13 +2702,6 @@
     "episode": "Episode 4"
   },
   {
-    "id": "nanako-sos",
-    "epId": "nanako-sos-episode-15",
-    "title": "Nanako SOS",
-    "img": "https://gogocdn.net/cover/nanako-sos.png",
-    "episode": "Episode 15"
-  },
-  {
     "id": "rainbow-sentai-robin",
     "epId": "rainbow-sentai-robin-episode-4",
     "title": "Rainbow Sentai Robin",
@@ -2784,19 +2798,5 @@
     "title": "Wolf Guy",
     "img": "https://gogocdn.net/cover/wolf-guy.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "futari-gurashi",
-    "epId": "futari-gurashi-episode-11",
-    "title": "Futari Gurashi",
-    "img": "https://gogocdn.net/cover/futari-gurashi.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "bakugan-battle-brawlers",
-    "epId": "bakugan-battle-brawlers-episode-17",
-    "title": "Bakugan Battle Brawlers\t",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers.png",
-    "episode": "Episode 17"
   }
 ]

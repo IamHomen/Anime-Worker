@@ -1,5 +1,26 @@
 [
   {
+    "id": "maou-sama-retry-r-dub",
+    "epId": "maou-sama-retry-r-dub-episode-4",
+    "title": "Maou-sama, Retry! R (Dub)",
+    "img": "https://gogocdn.net/cover/maou-sama-retry-r-dub.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "maou-2099-dub",
+    "epId": "maou-2099-dub-episode-2",
+    "title": "Maou 2099 (Dub)",
+    "img": "https://gogocdn.net/cover/maou-2099-dub.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "ao-no-exorcist-yuki-no-hate-hen-dub",
+    "epId": "ao-no-exorcist-yuki-no-hate-hen-dub-episode-1",
+    "title": "Ao no Exorcist: Yuki no Hate-hen (Dub)",
+    "img": "https://gogocdn.net/cover/ao-no-exorcist-yuki-no-hate-hen-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "blue-lock-vs-u-20-japan-dub",
     "epId": "blue-lock-vs-u-20-japan-dub-episode-3",
     "title": "Blue Lock vs. U-20 Japan (Dub)",
@@ -175,13 +196,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "maou-2099-dub",
-    "epId": "maou-2099-dub-episode-1",
-    "title": "Maou 2099 (Dub)",
-    "img": "https://gogocdn.net/cover/maou-2099-dub.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "nige-jouzu-no-wakagimi-dub",
     "epId": "nige-jouzu-no-wakagimi-dub-episode-12",
     "title": "Nige Jouzu no Wakagimi (Dub)",
@@ -194,13 +208,6 @@
     "title": "Kimi wa Meido-sama. (Dub)",
     "img": "https://gogocdn.net/cover/kimi-wa-meido-sama-dub.png",
     "episode": "Episode 2"
-  },
-  {
-    "id": "maou-sama-retry-r-dub",
-    "epId": "maou-sama-retry-r-dub-episode-3",
-    "title": "Maou-sama, Retry! R (Dub)",
-    "img": "https://gogocdn.net/cover/maou-sama-retry-r-dub.png",
-    "episode": "Episode 3"
   },
   {
     "id": "boku-no-hero-academia-7th-season-dub",
@@ -2791,12 +2798,5 @@
     "title": "Cardfight!! Vanguard: will+Dress Season 2 (Dub)",
     "img": "https://gogocdn.net/cover/cardfight-vanguard-willdress-season-2-dub.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "chou-shounen-tanteidan-neo-dub",
-    "epId": "chou-shounen-tanteidan-neo-dub-episode-13",
-    "title": "Chou Shounen Tanteidan Neo (Dub)",
-    "img": "https://gogocdn.net/cover/chou-shounen-tanteidan-neo-dub.png",
-    "episode": "Episode 13"
   }
 ]
