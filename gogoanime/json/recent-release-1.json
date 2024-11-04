@@ -1,5 +1,68 @@
 [
   {
+    "id": "natsume-yuujinchou-shichi",
+    "epId": "natsume-yuujinchou-shichi-episode-5",
+    "title": "Natsume Yuujinchou Shichi",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "seirei-gensouki-2",
+    "epId": "seirei-gensouki-2-episode-5",
+    "title": "Seirei Gensouki 2",
+    "img": "https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "asatir-2-mirai-no-mukashi-banashi",
+    "epId": "asatir-2-mirai-no-mukashi-banashi-episode-1",
+    "title": "Asatir 2: Mirai no Mukashi Banashi",
+    "img": "https://gogocdn.net/cover/asatir-2-mirai-no-mukashi-banashi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
+    "epId": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episode-6",
+    "title": "Saikyou no Shienshoku ",
+    "img": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3",
+    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-episode-4",
+    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "hoshifuru-oukoku-no-nina",
+    "epId": "hoshifuru-oukoku-no-nina-episode-5",
+    "title": "Hoshifuru Oukoku no Nina",
+    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "raise-wa-tanin-ga-ii",
+    "epId": "raise-wa-tanin-ga-ii-episode-5",
+    "title": "Raise wa Tanin ga Ii",
+    "img": "https://gogocdn.net/cover/raise-wa-tanin-ga-ii.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "haigakura",
+    "epId": "haigakura-episode-5",
+    "title": "Haigakura",
+    "img": "https://gogocdn.net/cover/haigakura-1727373567.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
+    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-5",
+    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "puniru-wa-kawaii-slime",
     "epId": "puniru-wa-kawaii-slime-episode-5",
     "title": "Puniru wa Kawaii Slime",
@@ -75,13 +138,6 @@
     "title": "Nanako SOS",
     "img": "https://gogocdn.net/cover/nanako-sos.png",
     "episode": "Episode 16"
-  },
-  {
-    "id": "thunderbolt-fantasy-touriken-yuuki-4",
-    "epId": "thunderbolt-fantasy-touriken-yuuki-4-episode-5",
-    "title": "Thunderbolt Fantasy: Touriken Yuuki 4",
-    "img": "https://gogocdn.net/cover/thunderbolt-fantasy-touriken-yuuki-4.png",
-    "episode": "Episode 5"
   },
   {
     "id": "one-piece-gyojin-tou-hen",
@@ -504,6 +560,13 @@
     "episode": "Episode 2"
   },
   {
+    "id": "kidou-senshi-gundam-zz-gundam-frag",
+    "epId": "kidou-senshi-gundam-zz-gundam-frag-episode-2",
+    "title": "Kidou Senshi Gundam ZZ: Gundam Frag.",
+    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-zz-gundam-frag.png",
+    "episode": "Episode 2"
+  },
+  {
     "id": "mobile-suit-sd-gundam-festival",
     "epId": "mobile-suit-sd-gundam-festival-episode-3",
     "title": "Mobile Suit SD Gundam Festival",
@@ -543,62 +606,6 @@
     "epId": "houkago-shounen-hanako-kun-part-2-episode-4",
     "title": "Houkago Shounen Hanako-kun Part 2",
     "img": "https://gogocdn.net/cover/houkago-shounen-hanako-kun-part-2.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "seirei-gensouki-2",
-    "epId": "seirei-gensouki-2-episode-4",
-    "title": "Seirei Gensouki 2",
-    "img": "https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "natsume-yuujinchou-shichi",
-    "epId": "natsume-yuujinchou-shichi-episode-4",
-    "title": "Natsume Yuujinchou Shichi",
-    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
-    "epId": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episode-5",
-    "title": "Saikyou no Shienshoku ",
-    "img": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3",
-    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-episode-3",
-    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "raise-wa-tanin-ga-ii",
-    "epId": "raise-wa-tanin-ga-ii-episode-4",
-    "title": "Raise wa Tanin ga Ii",
-    "img": "https://gogocdn.net/cover/raise-wa-tanin-ga-ii.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "haigakura",
-    "epId": "haigakura-episode-4",
-    "title": "Haigakura",
-    "img": "https://gogocdn.net/cover/haigakura-1727373567.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "hoshifuru-oukoku-no-nina",
-    "epId": "hoshifuru-oukoku-no-nina-episode-4",
-    "title": "Hoshifuru Oukoku no Nina",
-    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
-    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-4",
-    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
-    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
     "episode": "Episode 4"
   },
   {
@@ -2791,12 +2798,5 @@
     "title": "Isekai Suicide Squad",
     "img": "https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "mirai-kara-kita-shounen-super-jetter",
-    "epId": "mirai-kara-kita-shounen-super-jetter-episode-30",
-    "title": "Mirai Kara Kita Shounen Super Jetter",
-    "img": "https://gogocdn.net/cover/mirai-kara-kita-shounen-super-jetter.png",
-    "episode": "Episode 30"
   }
 ]
