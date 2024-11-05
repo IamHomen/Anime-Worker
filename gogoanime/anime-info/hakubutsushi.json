@@ -1,0 +1,19 @@
+{
+  "animeTitle": "Hakubutsushi",
+  "type": "Movie",
+  "releasedDate": "1985",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde"
+  ],
+  "otherNames": "Natural History, \u535a\u7269\u8a8c",
+  "synopsis": "Short film by Yamamura Kouji.",
+  "animeImg": "https://gogocdn.net/cover/hakubutsushi.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "hakubutsushi-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

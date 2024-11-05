@@ -2,7 +2,7 @@
   "animeTitle": "Zhui Xu 2nd Season",
   "type": "ONA",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Drama",
     "Historical"
@@ -10,8 +10,12 @@
   "otherNames": "My Heroic Husband, \u8d58\u5a7f \u7b2c\u4e8c\u5b63",
   "synopsis": "The second season of Zhui Xu.",
   "animeImg": "https://gogocdn.net/cover/zhui-xu-2nd-season.png",
-  "totalEpisodes": "15",
+  "totalEpisodes": "16",
   "episodesList": [
+    {
+      "episodeId": "zhui-xu-2nd-season-episode-16",
+      "episodeNum": "Episode 16"
+    },
     {
       "episodeId": "zhui-xu-2nd-season-episode-15",
       "episodeNum": "Episode 15"

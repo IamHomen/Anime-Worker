@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Beluga",
+  "type": "Movie",
+  "releasedDate": "2011",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Horror"
+  ],
+  "otherNames": "\u30d9\u30fc\u30eb\u30ac",
+  "synopsis": "A horror spin on the classic tale of \"The Little Match Girl\".",
+  "animeImg": "https://gogocdn.net/cover/beluga.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "beluga-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "animeTitle": "Tansui",
+  "type": "Movie",
+  "releasedDate": "1986",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde"
+  ],
+  "otherNames": "Freshwater, \u6de1\u6c34",
+  "synopsis": "Early experimental film by Koji Yamamura.",
+  "animeImg": "https://gogocdn.net/cover/tansui.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "tansui-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

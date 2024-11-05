@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Suisei",
+  "type": "Movie",
+  "releasedDate": "1987",
+  "status": "Completed",
+  "genres": [
+    "Avant Garde",
+    "Comedy"
+  ],
+  "otherNames": "Aquatic, \u6c34\u68f2",
+  "synopsis": "The stream of a mil, an apple flows down through the stream, where innumerable illusion of fish appears and disappears in the sky reflected in the water.",
+  "animeImg": "https://gogocdn.net/cover/suisei.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "suisei-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

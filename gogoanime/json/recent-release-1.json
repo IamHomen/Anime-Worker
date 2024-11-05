@@ -1,5 +1,40 @@
 [
   {
+    "id": "tousouchuu-great-mission",
+    "epId": "tousouchuu-great-mission-episode-78",
+    "title": "Tousouchuu: Great Mission",
+    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
+    "episode": "Episode 78"
+  },
+  {
+    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+    "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-4",
+    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+    "img": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "rezero-kara-hajimeru-break-time-3rd-season",
+    "epId": "rezero-kara-hajimeru-break-time-3rd-season-episode-5",
+    "title": "Re:Zero kara Hajimeru Break Time 3rd Season",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-break-time-3rd-season.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "natsume-yuujinchou-shichi-dub",
+    "epId": "natsume-yuujinchou-shichi-dub-episode-3",
+    "title": "Natsume Yuujinchou Shichi (Dub)",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "love-live-superstar-3rd-season",
+    "epId": "love-live-superstar-3rd-season-episode-5",
+    "title": "Love Live! Superstar!! 3rd Season",
+    "img": "https://gogocdn.net/cover/love-live-superstar-3rd-season.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "natsume-yuujinchou-shichi",
     "epId": "natsume-yuujinchou-shichi-episode-5",
     "title": "Natsume Yuujinchou Shichi",
@@ -483,13 +518,6 @@
     "episode": "Episode 14"
   },
   {
-    "id": "rezero-kara-hajimeru-break-time-3rd-season",
-    "epId": "rezero-kara-hajimeru-break-time-3rd-season-episode-4",
-    "title": "Re:Zero kara Hajimeru Break Time 3rd Season",
-    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-break-time-3rd-season.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
     "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-5",
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
@@ -588,13 +616,6 @@
     "episode": "Episode 28"
   },
   {
-    "id": "love-live-superstar-3rd-season",
-    "epId": "love-live-superstar-3rd-season-episode-4",
-    "title": "Love Live! Superstar!! 3rd Season",
-    "img": "https://gogocdn.net/cover/love-live-superstar-3rd-season.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-70",
     "title": "Magical\u2605Taruruuto-kun",
@@ -684,13 +705,6 @@
     "title": "Jewelpet: Attack Travel!",
     "img": "https://gogocdn.net/cover/jewelpet-attack-travel.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
-    "epId": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-3",
-    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
-    "img": "https://gogocdn.net/cover/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season.png",
-    "episode": "Episode 3"
   },
   {
     "id": "mokei-senshi-gunpla-builders-beginning-g",
@@ -1167,13 +1181,6 @@
     "title": "Zdravstvuite!",
     "img": "https://gogocdn.net/cover/zdravstvuite.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "tousouchuu-great-mission",
-    "epId": "tousouchuu-great-mission-episode-76",
-    "title": "Tousouchuu: Great Mission",
-    "img": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png",
-    "episode": "Episode 76"
   },
   {
     "id": "hashire-melos-movie",
@@ -2791,12 +2798,5 @@
     "title": "Kengan Ashura Season 2 Part 2",
     "img": "https://gogocdn.net/cover/kengan-ashura-season-2-part-2.png",
     "episode": "Episode 16"
-  },
-  {
-    "id": "isekai-suicide-squad",
-    "epId": "isekai-suicide-squad-episode-10",
-    "title": "Isekai Suicide Squad",
-    "img": "https://gogocdn.net/cover/isekai-suicide-squad-1719514133.png",
-    "episode": "Episode 10"
   }
 ]
