@@ -1,5 +1,40 @@
 [
   {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-6",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "high-card-the-flowers-bloom",
+    "epId": "high-card-the-flowers-bloom-episode-1",
+    "title": "High Card: The Flowers Bloom",
+    "img": "https://gogocdn.net/cover/high-card-the-flowers-bloom.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "amagami-san-chi-no-enmusubi",
+    "epId": "amagami-san-chi-no-enmusubi-episode-6",
+    "title": "Amagami-san Chi no Enmusubi",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "shinkalion-change-the-world",
+    "epId": "shinkalion-change-the-world-episode-28",
+    "title": "Shinkalion: Change the World",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "episode": "Episode 28"
+  },
+  {
+    "id": "youkai-gakkou-no-sensei-hajimemashita",
+    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-5",
+    "title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "shiroi-unabara",
     "epId": "shiroi-unabara-episode-1",
     "title": "Shiroi Unabara",
@@ -651,27 +686,6 @@
     "episode": "Episode 53"
   },
   {
-    "id": "amagami-san-chi-no-enmusubi",
-    "epId": "amagami-san-chi-no-enmusubi-episode-5",
-    "title": "Amagami-san Chi no Enmusubi",
-    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
-    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-5",
-    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "youkai-gakkou-no-sensei-hajimemashita",
-    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-4",
-    "title": "Youkai Gakkou no Sensei Hajimemashita!",
-    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "kidou-senshi-gundam-zz-gundam-frag",
     "epId": "kidou-senshi-gundam-zz-gundam-frag-episode-2",
     "title": "Kidou Senshi Gundam ZZ: Gundam Frag.",
@@ -908,13 +922,6 @@
     "title": "Kishin Heidan",
     "img": "https://gogocdn.net/cover/kishin-heidan.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "shinkalion-change-the-world",
-    "epId": "shinkalion-change-the-world-episode-27",
-    "title": "Shinkalion: Change the World",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 27"
   },
   {
     "id": "hokori-inu-no-hanashi",
@@ -2791,12 +2798,5 @@
     "title": "Tenshi ni Narumon!",
     "img": "https://gogocdn.net/cover/tenshi-ni-narumon.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "0-saiji-start-dash-monogatari",
-    "epId": "0-saiji-start-dash-monogatari-episode-4",
-    "title": "0-saiji Start Dash Monogatari",
-    "img": "https://gogocdn.net/cover/0-saiji-start-dash-monogatari.png",
-    "episode": "Episode 4"
   }
 ]
