@@ -1,5 +1,89 @@
 [
   {
+    "id": "shiroi-unabara",
+    "epId": "shiroi-unabara-episode-1",
+    "title": "Shiroi Unabara",
+    "img": "https://gogocdn.net/cover/shiroi-unabara.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "wanna-bes",
+    "epId": "wanna-bes-episode-1",
+    "title": "Wanna-Be's",
+    "img": "https://gogocdn.net/cover/wanna-bes.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tentai-fu",
+    "epId": "tentai-fu-episode-1",
+    "title": "Tentai Fu",
+    "img": "https://gogocdn.net/cover/tentai-fu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tansui",
+    "epId": "tansui-episode-1",
+    "title": "Tansui",
+    "img": "https://gogocdn.net/cover/tansui.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "suisei",
+    "epId": "suisei-episode-1",
+    "title": "Suisei",
+    "img": "https://gogocdn.net/cover/suisei.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hakubutsushi",
+    "epId": "hakubutsushi-episode-1",
+    "title": "Hakubutsushi",
+    "img": "https://gogocdn.net/cover/hakubutsushi.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "beluga",
+    "epId": "beluga-episode-1",
+    "title": "Beluga",
+    "img": "https://gogocdn.net/cover/beluga.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "chicken-papa",
+    "epId": "chicken-papa-episode-1",
+    "title": "Chicken Papa",
+    "img": "https://gogocdn.net/cover/chicken-papa.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "youkaiden-nekome-kozou",
+    "epId": "youkaiden-nekome-kozou-episode-6",
+    "title": "Youkaiden Nekome Kozou",
+    "img": "https://gogocdn.net/cover/youkaiden-nekome-kozou.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "duel-masters-lost-tsuioku-no-suishou",
+    "epId": "duel-masters-lost-tsuioku-no-suishou-episode-1",
+    "title": "Duel Masters LOST: Tsuioku no Suishou",
+    "img": "https://gogocdn.net/cover/duel-masters-lost-tsuioku-no-suishou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "look-back",
+    "epId": "look-back-episode-1",
+    "title": "Look Back",
+    "img": "https://gogocdn.net/cover/look-back.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ohayou-spank",
+    "epId": "ohayou-spank-episode-50",
+    "title": "Ohayou! Spank",
+    "img": "https://gogocdn.net/cover/ohayou-spank.png",
+    "episode": "Episode 50"
+  },
+  {
     "id": "tousouchuu-great-mission",
     "epId": "tousouchuu-great-mission-episode-78",
     "title": "Tousouchuu: Great Mission",
@@ -2688,13 +2772,6 @@
     "episode": "Episode 15"
   },
   {
-    "id": "ohayou-spank",
-    "epId": "ohayou-spank-episode-48",
-    "title": "Ohayou! Spank",
-    "img": "https://gogocdn.net/cover/ohayou-spank.png",
-    "episode": "Episode 48"
-  },
-  {
     "id": "terminator-0",
     "epId": "terminator-0-episode-8",
     "title": "Terminator 0",
@@ -2721,82 +2798,5 @@
     "title": "0-saiji Start Dash Monogatari",
     "img": "https://gogocdn.net/cover/0-saiji-start-dash-monogatari.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "rainbow-sentai-robin",
-    "epId": "rainbow-sentai-robin-episode-4",
-    "title": "Rainbow Sentai Robin",
-    "img": "https://gogocdn.net/cover/rainbow-sentai-robin.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "kaibutsu-kun-1980-specials",
-    "epId": "kaibutsu-kun-1980-specials-episode-2",
-    "title": "Kaibutsu-kun (1980) Specials",
-    "img": "https://gogocdn.net/cover/kaibutsu-kun-1980-specials.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "zannen-onna-kanbu-black-general-san",
-    "epId": "zannen-onna-kanbu-black-general-san-episode-3",
-    "title": "Zannen Onna Kanbu Black General-san",
-    "img": "https://gogocdn.net/cover/zannen-onna-kanbu-black-general-san.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "uchuu-ace",
-    "epId": "uchuu-ace-episode-41",
-    "title": "Uchuu Ace",
-    "img": "https://gogocdn.net/cover/uchuu-ace.png",
-    "episode": "Episode 41"
-  },
-  {
-    "id": "one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun",
-    "epId": "one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun-episode-1",
-    "title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
-    "img": "https://gogocdn.net/cover/one-piece-araburu-henkaku-no-log-anyaku-suru-kakumeigun.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "idol-land-pripara",
-    "epId": "idol-land-pripara-episode-9",
-    "title": "Idol Land PriPara",
-    "img": "https://gogocdn.net/cover/idol-land-pripara.png",
-    "episode": "Episode 9"
-  },
-  {
-    "id": "tiger-mask",
-    "epId": "tiger-mask-episode-105",
-    "title": "Tiger Mask",
-    "img": "https://gogocdn.net/cover/tiger-mask.png",
-    "episode": "Episode 105"
-  },
-  {
-    "id": "kidou-senshi-gundam-san-ona",
-    "epId": "kidou-senshi-gundam-san-ona-episode-6",
-    "title": "Kidou Senshi Gundam-san (ONA)",
-    "img": "https://gogocdn.net/cover/kidou-senshi-gundam-san-ona.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "rerere-no-tensai-bakabon",
-    "epId": "rerere-no-tensai-bakabon-episode-24",
-    "title": "Rerere no Tensai Bakabon",
-    "img": "https://gogocdn.net/cover/rerere-no-tensai-bakabon.png",
-    "episode": "Episode 24"
-  },
-  {
-    "id": "patalliro",
-    "epId": "patalliro-episode-49",
-    "title": "Patalliro",
-    "img": "https://gogocdn.net/cover/patalliro.png",
-    "episode": "Episode 49"
-  },
-  {
-    "id": "kengan-ashura-season-2-part-2",
-    "epId": "kengan-ashura-season-2-part-2-episode-16",
-    "title": "Kengan Ashura Season 2 Part 2",
-    "img": "https://gogocdn.net/cover/kengan-ashura-season-2-part-2.png",
-    "episode": "Episode 16"
   }
 ]
