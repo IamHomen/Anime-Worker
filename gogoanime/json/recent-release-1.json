@@ -1,5 +1,12 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-17",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 17"
+  },
+  {
     "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
     "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-6",
     "title": "Rekishi ni Nokoru Akujo ni Naru zo",
@@ -670,13 +677,6 @@
     "title": "Neko ni Tensei shita Ojisan",
     "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
     "episode": "Episode 4"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-16",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 16"
   },
   {
     "id": "beyblade-x",
