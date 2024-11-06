@@ -1,5 +1,26 @@
 [
   {
+    "id": "eiji",
+    "epId": "eiji-episode-1",
+    "title": "",
+    "img": "https://gogocdn.net/cover/eiji.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "bakugan-battle-brawlers-gundalian-invaders",
+    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-29",
+    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
+    "episode": "Episode 29"
+  },
+  {
+    "id": "neko-ni-tensei-shita-ojisan",
+    "epId": "neko-ni-tensei-shita-ojisan-episode-5",
+    "title": "Neko ni Tensei shita Ojisan",
+    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-17",
     "title": "Tasuuketsu",
@@ -672,13 +693,6 @@
     "episode": "Episode 9"
   },
   {
-    "id": "neko-ni-tensei-shita-ojisan",
-    "epId": "neko-ni-tensei-shita-ojisan-episode-4",
-    "title": "Neko ni Tensei shita Ojisan",
-    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
-    "episode": "Episode 4"
-  },
-  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-53",
     "title": "Beyblade X",
@@ -705,13 +719,6 @@
     "title": "Flanders no Inu (Movie)",
     "img": "https://gogocdn.net/cover/flanders-no-inu-movie.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "bakugan-battle-brawlers-gundalian-invaders",
-    "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-28",
-    "title": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
-    "episode": "Episode 28"
   },
   {
     "id": "magicaltaruruuto-kun",
@@ -2791,12 +2798,5 @@
     "title": "Chiisana Viking Vickie",
     "img": "https://gogocdn.net/cover/chiisana-viking-vickie.png",
     "episode": "Episode 17"
-  },
-  {
-    "id": "tenshi-ni-narumon",
-    "epId": "tenshi-ni-narumon-episode-26",
-    "title": "Tenshi ni Narumon!",
-    "img": "https://gogocdn.net/cover/tenshi-ni-narumon.png",
-    "episode": "Episode 26"
   }
 ]
