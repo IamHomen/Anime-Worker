@@ -1,5 +1,33 @@
 [
   {
+    "id": "bleach-sennen-kessen-hen-soukoku-tan-dub",
+    "epId": "bleach-sennen-kessen-hen-soukoku-tan-dub-episode-1",
+    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan (Dub)",
+    "img": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-soukoku-tan-dub.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
+    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-4",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "yeosin-gangnim-dub",
+    "epId": "yeosin-gangnim-dub-episode-12",
+    "title": "Yeosin Gangnim (Dub)",
+    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
+    "episode": "Episode 12"
+  },
+  {
+    "id": "delicos-nursery-dub",
+    "epId": "delicos-nursery-dub-episode-8",
+    "title": "Delico's Nursery (Dub)",
+    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "rekishi-ni-nokoru-akujo-ni-naru-zo-dub",
     "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-dub-episode-4",
     "title": "Rekishi ni Nokoru Akujo ni Naru zo (Dub)",
@@ -180,27 +208,6 @@
     "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
     "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
-    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-3",
-    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "yeosin-gangnim-dub",
-    "epId": "yeosin-gangnim-dub-episode-11",
-    "title": "Yeosin Gangnim (Dub)",
-    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
-    "episode": "Episode 11"
-  },
-  {
-    "id": "delicos-nursery-dub",
-    "epId": "delicos-nursery-dub-episode-7",
-    "title": "Delico's Nursery (Dub)",
-    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
-    "episode": "Episode 7"
   },
   {
     "id": "natsume-yuujinchou-shichi-dub",
@@ -2791,12 +2798,5 @@
     "title": "Jigokuraku (Dub)",
     "img": "https://gogocdn.net/cover/jigokuraku-dub.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "cardfight-vanguard-willdress-season-2-dub",
-    "epId": "cardfight-vanguard-willdress-season-2-dub-episode-12",
-    "title": "Cardfight!! Vanguard: will+Dress Season 2 (Dub)",
-    "img": "https://gogocdn.net/cover/cardfight-vanguard-willdress-season-2-dub.png",
-    "episode": "Episode 12"
   }
 ]
