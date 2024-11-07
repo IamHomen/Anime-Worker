@@ -55902,6 +55902,12 @@
     "date": "1987"
   },
   {
+    "id": "okaimono-panda",
+    "title": "Okaimono Panda!",
+    "img": "https://gogocdn.net/cover/okaimono-panda.png",
+    "date": "2024"
+  },
+  {
     "id": "gunslinger-girl-il-teatrino-dub",
     "title": "Gunslinger Girl: Il Teatrino (Dub)",
     "img": "https://gogocdn.net/cover/gunslinger-girl-il-teatrino-dub.png",
@@ -57106,6 +57112,12 @@
     "title": "Tonari no 801-chan R",
     "img": "https://gogocdn.net/cover/tonari-no-801-chan-r.png",
     "date": "2009"
+  },
+  {
+    "id": "shigatsu-wa-kimi-no-uso-ova",
+    "title": "Shigatsu wa Kimi no Uso OVA",
+    "img": "https://gogocdn.net/images/upload/Shigatsu wa Kimi no Uso OVA.jpg",
+    "date": "2015"
   },
   {
     "id": "shigatsu-wa-kimi-no-uso-ova",
@@ -80146,17 +80158,5 @@
     "title": "Migi to Dali",
     "img": "https://gogocdn.net/cover/migi-to-dali-1696010832.png",
     "date": "2023"
-  },
-  {
-    "id": "xi-xing-ji-qiong-qi-didong",
-    "title": "Xi Xing Ji: Qiong Qi Didong",
-    "img": "https://gogocdn.net/cover/xi-xing-ji-qiong-qi-didong.png",
-    "date": "2022"
-  },
-  {
-    "id": "ai-no-kusabi-2012-dub",
-    "title": "Ai no Kusabi (2012) (Dub)",
-    "img": "https://gogocdn.net/cover/ai-no-kusabi-2012-dub.png",
-    "date": "2012"
   }
 ]
