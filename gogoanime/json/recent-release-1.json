@@ -1,5 +1,26 @@
 [
   {
+    "id": "dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen",
+    "epId": "dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen-episode-1",
+    "title": "Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen",
+    "img": "https://gogocdn.net/cover/dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ao-no-hako",
+    "epId": "ao-no-hako-episode-7",
+    "title": "Ao no Hako",
+    "img": "https://gogocdn.net/cover/ao-no-hako.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-19",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 19"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-117",
     "title": "Chiikawa",
@@ -642,20 +663,6 @@
     "title": "Yeosin Gangnim (Japanese Dub)",
     "img": "https://gogocdn.net/cover/yeosin-gangnim-japanese-dub.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-18",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 18"
-  },
-  {
-    "id": "ao-no-hako",
-    "epId": "ao-no-hako-episode-6",
-    "title": "Ao no Hako",
-    "img": "https://gogocdn.net/cover/ao-no-hako.png",
-    "episode": "Episode 6"
   },
   {
     "id": "akuma-kun",
@@ -2791,12 +2798,5 @@
     "title": "Ochamegami Monogatari: Korokoro Pollon",
     "img": "https://gogocdn.net/cover/ochamegami-monogatari-korokoro-pollon.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "fushigiboshi-nofutagohime-gyu",
-    "epId": "fushigiboshi-nofutagohime-gyu-episode-15",
-    "title": "Fushigiboshi no\u2606Futagohime Gyu!",
-    "img": "https://gogocdn.net/cover/fushigiboshi-nofutagohime-gyu.png",
-    "episode": "Episode 15"
   }
 ]
