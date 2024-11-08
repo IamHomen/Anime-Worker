@@ -8,11 +8,19 @@
     "Comedy",
     "Fantasy"
   ],
-  "otherNames": "\u5434\u627f\u6069\u7f09\u5996\u5f55, Another Journey to the West",
+  "otherNames": "\u5434\u627f\u6069\u7f09\u5996\u5f55, Another Journey to the West, Ji Yao Lu: Qicheng Pian",
   "synopsis": "Follow Wu Cheng\u2019en on his own legendary pilgrimage to the \u201cWestern Regions\u201d in search of Enlightenment.",
   "animeImg": "https://gogocdn.net/cover/wu-chengen-ji-yao-lu-1728588011.png",
-  "totalEpisodes": "8",
+  "totalEpisodes": "10",
   "episodesList": [
+    {
+      "episodeId": "wu-chengen-ji-yao-lu-episode-10",
+      "episodeNum": "Episode 10"
+    },
+    {
+      "episodeId": "wu-chengen-ji-yao-lu-episode-9",
+      "episodeNum": "Episode 9"
+    },
     {
       "episodeId": "wu-chengen-ji-yao-lu-episode-8",
       "episodeNum": "Episode 8"
