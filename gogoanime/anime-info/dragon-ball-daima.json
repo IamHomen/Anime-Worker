@@ -15,8 +15,12 @@
   "otherNames": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30c0\u30a4\u30de",
   "synopsis": "New Dragon Ball series.",
   "animeImg": "https://gogocdn.net/cover/dragon-ball-daima.png",
-  "totalEpisodes": "4",
+  "totalEpisodes": "5",
   "episodesList": [
+    {
+      "episodeId": "dragon-ball-daima-episode-5",
+      "episodeNum": "Episode 5"
+    },
     {
       "episodeId": "dragon-ball-daima-episode-4",
       "episodeNum": "Episode 4"

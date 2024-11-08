@@ -11,8 +11,12 @@
   "otherNames": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba 2nd season",
   "synopsis": "Second season of The iDOLM@STER Shiny Colors.",
   "animeImg": "https://gogocdn.net/cover/the-idolmster-shiny-colors-2nd-season.png",
-  "totalEpisodes": "5",
+  "totalEpisodes": "6",
   "episodesList": [
+    {
+      "episodeId": "the-idolmster-shiny-colors-2nd-season-episode-6",
+      "episodeNum": "Episode 6"
+    },
     {
       "episodeId": "the-idolmster-shiny-colors-2nd-season-episode-5",
       "episodeNum": "Episode 5"

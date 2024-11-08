@@ -1,0 +1,28 @@
+{
+  "animeTitle": "Madonna",
+  "type": "OVA",
+  "releasedDate": "1988",
+  "status": "Completed",
+  "genres": [
+    "Comedy",
+    "Delinquents",
+    "School",
+    "Sports",
+    "Team Sports",
+    "Workplace"
+  ],
+  "otherNames": "\u30de\u30c9\u30f3\u30ca",
+  "synopsis": "Mako, a sexy young teacher, comes to Gyunabe high school to enlighten young minds. What she wasn't counting on was a class full of misfits lead by the delinquent Obayashi. If their never ending quest to see her underwear and embarrass her in front of the whole school doesn't force her to quit, then her principal's brilliant idea of making her the new rugby coach will.",
+  "animeImg": "https://gogocdn.net/cover/madonna.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "madonna-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "madonna-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
