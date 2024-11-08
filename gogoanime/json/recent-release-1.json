@@ -1,5 +1,12 @@
 [
   {
+    "id": "kabushikigaisha-magi-lumiere",
+    "epId": "kabushikigaisha-magi-lumiere-episode-6",
+    "title": "Kabushikigaisha Magi-Lumi\u00e8re",
+    "img": "https://gogocdn.net/cover/kabushikigaisha-magi-lumiere.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "hamidashi-creative",
     "epId": "hamidashi-creative-episode-3",
     "title": "Hamidashi Creative",
@@ -131,13 +138,6 @@
     "title": "Delico's Nursery",
     "img": "https://gogocdn.net/cover/delicos-nursery-1719513224.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal",
-    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-episode-6",
-    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
-    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal.png",
-    "episode": "Episode 6"
   },
   {
     "id": "sengoku-youko-senma-konton-hen",
@@ -420,6 +420,13 @@
     "episode": "Episode 5"
   },
   {
+    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
+    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-5",
+    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
+    "episode": "Episode 5"
+  },
+  {
     "id": "puniru-wa-kawaii-slime",
     "epId": "puniru-wa-kawaii-slime-episode-5",
     "title": "Puniru wa Kawaii Slime",
@@ -551,13 +558,6 @@
     "title": "Touhai: Ura Rate Mahjong Touhai Roku",
     "img": "https://gogocdn.net/cover/touhai-ura-rate-mahjong-touhai-roku.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "maou-2099",
-    "epId": "maou-2099-episode-4",
-    "title": "Maou 2099",
-    "img": "https://gogocdn.net/cover/maou-2099-1727374937.png",
-    "episode": "Episode 4"
   },
   {
     "id": "chi-chikyuu-no-undou-ni-tsuite",
