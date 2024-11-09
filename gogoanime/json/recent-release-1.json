@@ -1,5 +1,54 @@
 [
   {
+    "id": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu",
+    "epId": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-3",
+    "title": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu!",
+    "img": "https://gogocdn.net/cover/kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "nessa-no-haou-gandalla",
+    "epId": "nessa-no-haou-gandalla-episode-1",
+    "title": "Nessa no Haou Gandalla",
+    "img": "https://gogocdn.net/cover/nessa-no-haou-gandalla.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "madonna",
+    "epId": "madonna-episode-2",
+    "title": "Madonna",
+    "img": "https://gogocdn.net/cover/madonna.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "chiisana-viking-vickie",
+    "epId": "chiisana-viking-vickie-episode-18",
+    "title": "Chiisana Viking Vickie",
+    "img": "https://gogocdn.net/cover/chiisana-viking-vickie.png",
+    "episode": "Episode 18"
+  },
+  {
+    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
+    "epId": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-6",
+    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
+    "img": "https://gogocdn.net/cover/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-1727374871.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "doraemon-movie-43-nobita-no-chikyuu-symphony",
+    "epId": "doraemon-movie-43-nobita-no-chikyuu-symphony-episode-1",
+    "title": "Doraemon Movie 43: Nobita no Chikyuu Symphony",
+    "img": "https://gogocdn.net/cover/doraemon-movie-43-nobita-no-chikyuu-symphony-1731092783.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "the-idolmster-shiny-colors-2nd-season",
+    "epId": "the-idolmster-shiny-colors-2nd-season-episode-6",
+    "title": "The iDOLM@STER Shiny Colors 2nd Season",
+    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-2nd-season.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
     "epId": "goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-6",
     "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
@@ -651,25 +700,11 @@
     "episode": "Episode 5"
   },
   {
-    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
-    "epId": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-5",
-    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
-    "img": "https://gogocdn.net/cover/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-1727374871.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "douwa-revenger",
     "epId": "douwa-revenger-episode-1",
     "title": "Douwa Revenger",
     "img": "https://gogocdn.net/cover/douwa-revenger.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "the-idolmster-shiny-colors-2nd-season",
-    "epId": "the-idolmster-shiny-colors-2nd-season-episode-5",
-    "title": "The iDOLM@STER Shiny Colors 2nd Season",
-    "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-2nd-season.png",
-    "episode": "Episode 5"
   },
   {
     "id": "akuma-kun",
@@ -2763,40 +2798,5 @@
     "title": "Garden of Remembrance",
     "img": "https://gogocdn.net/cover/garden-of-remembrance-1725461029.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "ganbare-genki",
-    "epId": "ganbare-genki-episode-8",
-    "title": "Ganbare Genki",
-    "img": "https://gogocdn.net/cover/ganbare-genki.png",
-    "episode": "Episode 8"
-  },
-  {
-    "id": "nanatsu-no-umi-no-tico",
-    "epId": "nanatsu-no-umi-no-tico-episode-39",
-    "title": "Nanatsu no Umi no Tico",
-    "img": "https://gogocdn.net/cover/nanatsu-no-umi-no-tico.png",
-    "episode": "Episode 39"
-  },
-  {
-    "id": "eternal-boys-next-stage",
-    "epId": "eternal-boys-next-stage-episode-3",
-    "title": "Eternal Boys Next Stage",
-    "img": "https://gogocdn.net/cover/eternal-boys-next-stage.png",
-    "episode": "Episode 3"
-  },
-  {
-    "id": "noobow-kieta-medal",
-    "epId": "noobow-kieta-medal-episode-1",
-    "title": "Noobow: Kieta Medal",
-    "img": "https://gogocdn.net/cover/noobow-kieta-medal.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "ochamegami-monogatari-korokoro-pollon",
-    "epId": "ochamegami-monogatari-korokoro-pollon-episode-10",
-    "title": "Ochamegami Monogatari: Korokoro Pollon",
-    "img": "https://gogocdn.net/cover/ochamegami-monogatari-korokoro-pollon.png",
-    "episode": "Episode 10"
   }
 ]

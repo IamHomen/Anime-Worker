@@ -232,19 +232,19 @@
     "format": "TV"
   },
   {
-    "id": 140960,
-    "title": "SPY\u00d7FAMILY",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
-    "seasonYear": 2022,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 269,
     "title": "BLEACH",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
     "seasonYear": 2004,
     "totalEpisode": 366,
+    "format": "TV"
+  },
+  {
+    "id": 140960,
+    "title": "SPY\u00d7FAMILY",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
+    "seasonYear": 2022,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
