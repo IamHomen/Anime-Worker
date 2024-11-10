@@ -1,5 +1,26 @@
 [
   {
+    "id": "one-piece-gyojin-tou-hen",
+    "epId": "one-piece-gyojin-tou-hen-episode-2",
+    "title": "One Piece: Gyojin Tou-hen",
+    "img": "https://gogocdn.net/cover/one-piece-gyojin-tou-hen.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-40",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 40"
+  },
+  {
+    "id": "touhai-ura-rate-mahjong-touhai-roku",
+    "epId": "touhai-ura-rate-mahjong-touhai-roku-episode-6",
+    "title": "Touhai: Ura Rate Mahjong Touhai Roku",
+    "img": "https://gogocdn.net/cover/touhai-ura-rate-mahjong-touhai-roku.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "ranma-2024",
     "epId": "ranma-2024-episode-6",
     "title": "Ranma \u00bd (2024)",
@@ -686,24 +707,10 @@
     "episode": "Episode 5"
   },
   {
-    "id": "one-piece-gyojin-tou-hen",
-    "epId": "one-piece-gyojin-tou-hen-episode-1",
-    "title": "One Piece: Gyojin Tou-hen",
-    "img": "https://gogocdn.net/cover/one-piece-gyojin-tou-hen.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "hyakushou-kizoku-2nd-season",
     "epId": "hyakushou-kizoku-2nd-season-episode-5",
     "title": "Hyakushou Kizoku 2nd Season",
     "img": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "touhai-ura-rate-mahjong-touhai-roku",
-    "epId": "touhai-ura-rate-mahjong-touhai-roku-episode-5",
-    "title": "Touhai: Ura Rate Mahjong Touhai Roku",
-    "img": "https://gogocdn.net/cover/touhai-ura-rate-mahjong-touhai-roku.png",
     "episode": "Episode 5"
   },
   {
@@ -810,13 +817,6 @@
     "title": "Delicious Party\u2661Precure (Fansub)",
     "img": "https://gogocdn.net/cover/delicious-partyprecure-fansub.png",
     "episode": "Episode 45"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-39",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 39"
   },
   {
     "id": "attacker-you",
