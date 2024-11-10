@@ -1,5 +1,19 @@
 [
   {
+    "id": "tsuma-shougakusei-ni-naru",
+    "epId": "tsuma-shougakusei-ni-naru-episode-7",
+    "title": "Tsuma, Shougakusei ni Naru.",
+    "img": "https://gogocdn.net/cover/tsuma-shougakusei-ni-naru-1727380086.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "fairy-tail-100-years-quest",
+    "epId": "fairy-tail-100-years-quest-episode-18",
+    "title": "Fairy Tail: 100 Years Quest",
+    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
+    "episode": "Episode 18"
+  },
+  {
     "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
     "epId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-5",
     "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
@@ -406,6 +420,13 @@
     "episode": "Episode 10"
   },
   {
+    "id": "murai-no-koi",
+    "epId": "murai-no-koi-episode-10",
+    "title": "Murai no Koi",
+    "img": "https://gogocdn.net/cover/murai-no-koi-1725457733.png",
+    "episode": "Episode 10"
+  },
+  {
     "id": "eiji",
     "epId": "eiji-episode-1",
     "title": "",
@@ -536,13 +557,6 @@
     "epId": "duel-masters-lost-tsuioku-no-suishou-episode-1",
     "title": "Duel Masters LOST: Tsuioku no Suishou",
     "img": "https://gogocdn.net/cover/duel-masters-lost-tsuioku-no-suishou.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "look-back",
-    "epId": "look-back-episode-1",
-    "title": "Look Back",
-    "img": "https://gogocdn.net/cover/look-back.png",
     "episode": "Episode 1"
   },
   {
@@ -686,25 +700,11 @@
     "episode": "Episode 5"
   },
   {
-    "id": "tsuma-shougakusei-ni-naru",
-    "epId": "tsuma-shougakusei-ni-naru-episode-6",
-    "title": "Tsuma, Shougakusei ni Naru.",
-    "img": "https://gogocdn.net/cover/tsuma-shougakusei-ni-naru-1727380086.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "blue-lock",
     "epId": "blue-lock-episode-nagi-additional-time-episode-1",
     "title": "Blue Lock: Episode Nagi - Additional Time!",
     "img": "https://gogocdn.net/cover/blue-lock-episode-nagi-additional-time.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "fairy-tail-100-years-quest",
-    "epId": "fairy-tail-100-years-quest-episode-17",
-    "title": "Fairy Tail: 100 Years Quest",
-    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
-    "episode": "Episode 17"
   },
   {
     "id": "futari-gurashi",
@@ -807,7 +807,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-70",
-    "title": "Magical\u014c\u015b\u0123Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 70"
   },
@@ -821,7 +821,7 @@
   {
     "id": "delicious-partyprecure-fansub",
     "epId": "delicious-partyprecure-fansub-episode-45",
-    "title": "Delicious Party\u014c\u00d6\u012aPrecure (Fansub)",
+    "title": "Delicious Party\u2661Precure (Fansub)",
     "img": "https://gogocdn.net/cover/delicious-partyprecure-fansub.png",
     "episode": "Episode 45"
   },
