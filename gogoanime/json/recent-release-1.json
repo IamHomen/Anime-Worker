@@ -1,5 +1,54 @@
 [
   {
+    "id": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
+    "epId": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episode-7",
+    "title": "Saikyou no Shienshoku ",
+    "img": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3",
+    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-episode-5",
+    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "hoshifuru-oukoku-no-nina",
+    "epId": "hoshifuru-oukoku-no-nina-episode-6",
+    "title": "Hoshifuru Oukoku no Nina",
+    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "asatir-2-mirai-no-mukashi-banashi",
+    "epId": "asatir-2-mirai-no-mukashi-banashi-episode-2",
+    "title": "Asatir 2: Mirai no Mukashi Banashi",
+    "img": "https://gogocdn.net/cover/asatir-2-mirai-no-mukashi-banashi.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
+    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-6",
+    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "raise-wa-tanin-ga-ii",
+    "epId": "raise-wa-tanin-ga-ii-episode-6",
+    "title": "Raise wa Tanin ga Ii",
+    "img": "https://gogocdn.net/cover/raise-wa-tanin-ga-ii.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "bananya-around-the-world",
+    "epId": "bananya-around-the-world-episode-8",
+    "title": "Bananya: Around the World",
+    "img": "https://gogocdn.net/cover/bananya-around-the-world.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "love-live-superstar-3rd-season",
     "epId": "love-live-superstar-3rd-season-episode-6",
     "title": "Love Live! Superstar!! 3rd Season",
@@ -651,52 +700,10 @@
     "episode": "Episode 5"
   },
   {
-    "id": "asatir-2-mirai-no-mukashi-banashi",
-    "epId": "asatir-2-mirai-no-mukashi-banashi-episode-1",
-    "title": "Asatir 2: Mirai no Mukashi Banashi",
-    "img": "https://gogocdn.net/cover/asatir-2-mirai-no-mukashi-banashi.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
-    "epId": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episode-6",
-    "title": "Saikyou no Shienshoku ",
-    "img": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3",
-    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-episode-4",
-    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "hoshifuru-oukoku-no-nina",
-    "epId": "hoshifuru-oukoku-no-nina-episode-5",
-    "title": "Hoshifuru Oukoku no Nina",
-    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "raise-wa-tanin-ga-ii",
-    "epId": "raise-wa-tanin-ga-ii-episode-5",
-    "title": "Raise wa Tanin ga Ii",
-    "img": "https://gogocdn.net/cover/raise-wa-tanin-ga-ii.png",
-    "episode": "Episode 5"
-  },
-  {
     "id": "haigakura",
     "epId": "haigakura-episode-5",
     "title": "Haigakura",
     "img": "https://gogocdn.net/cover/haigakura-1727373567.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
-    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-5",
-    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
-    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
     "episode": "Episode 5"
   },
   {
@@ -1363,13 +1370,6 @@
     "title": "Hashire Melos (Movie)",
     "img": "https://gogocdn.net/cover/hashire-melos-movie.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "bananya-around-the-world",
-    "epId": "bananya-around-the-world-episode-4",
-    "title": "Bananya: Around the World",
-    "img": "https://gogocdn.net/cover/bananya-around-the-world.png",
-    "episode": "Episode 4"
   },
   {
     "id": "sangsil-ui-jib",

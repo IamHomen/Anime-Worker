@@ -9,8 +9,12 @@
   "otherNames": "Future's Folktales 2, \u30a2\u30b5\u30c6\u30a3\u30fc\u30eb2 \u672a\u6765\u306e\u6614\u3070\u306a\u3057",
   "synopsis": "Sequel to Asatir: Mirai no Mukashi Banashi.",
   "animeImg": "https://gogocdn.net/cover/asatir-2-mirai-no-mukashi-banashi.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "2",
   "episodesList": [
+    {
+      "episodeId": "asatir-2-mirai-no-mukashi-banashi-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "asatir-2-mirai-no-mukashi-banashi-episode-1",
       "episodeNum": "Episode 1"
