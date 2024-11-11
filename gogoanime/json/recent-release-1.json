@@ -1,5 +1,47 @@
 [
   {
+    "id": "love-live-superstar-3rd-season",
+    "epId": "love-live-superstar-3rd-season-episode-6",
+    "title": "Love Live! Superstar!! 3rd Season",
+    "img": "https://gogocdn.net/cover/love-live-superstar-3rd-season.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "mf-ghost-2nd-season",
+    "epId": "mf-ghost-2nd-season-episode-6",
+    "title": "MF Ghost 2nd Season",
+    "img": "https://gogocdn.net/cover/mf-ghost-2nd-season.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "puniru-wa-kawaii-slime",
+    "epId": "puniru-wa-kawaii-slime-episode-6",
+    "title": "Puniru wa Kawaii Slime",
+    "img": "https://gogocdn.net/cover/puniru-wa-kawaii-slime.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "nageki-no-bourei-wa-intai-shitai",
+    "epId": "nageki-no-bourei-wa-intai-shitai-episode-7",
+    "title": "Nageki no Bourei wa Intai shitai",
+    "img": "https://gogocdn.net/cover/nageki-no-bourei-wa-intai-shitai.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season",
+    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season-episode-6",
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-2nd-season.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "kami-no-tou-koubou-sen",
+    "epId": "kami-no-tou-koubou-sen-episode-6",
+    "title": "Kami no Tou: Koubou-sen",
+    "img": "https://gogocdn.net/cover/kami-no-tou-koubou-sen.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "tsuma-shougakusei-ni-naru",
     "epId": "tsuma-shougakusei-ni-naru-episode-7",
     "title": "Tsuma, Shougakusei ni Naru.",
@@ -420,13 +462,6 @@
     "episode": "Episode 10"
   },
   {
-    "id": "murai-no-koi",
-    "epId": "murai-no-koi-episode-10",
-    "title": "Murai no Koi",
-    "img": "https://gogocdn.net/cover/murai-no-koi-1725457733.png",
-    "episode": "Episode 10"
-  },
-  {
     "id": "eiji",
     "epId": "eiji-episode-1",
     "title": "",
@@ -560,6 +595,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "look-back",
+    "epId": "look-back-episode-1",
+    "title": "Look Back",
+    "img": "https://gogocdn.net/cover/look-back.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "ohayou-spank",
     "epId": "ohayou-spank-episode-50",
     "title": "Ohayou! Spank",
@@ -593,13 +635,6 @@
     "title": "Natsume Yuujinchou Shichi (Dub)",
     "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "love-live-superstar-3rd-season",
-    "epId": "love-live-superstar-3rd-season-episode-5",
-    "title": "Love Live! Superstar!! 3rd Season",
-    "img": "https://gogocdn.net/cover/love-live-superstar-3rd-season.png",
-    "episode": "Episode 5"
   },
   {
     "id": "natsume-yuujinchou-shichi",
@@ -662,41 +697,6 @@
     "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-5",
     "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
     "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "puniru-wa-kawaii-slime",
-    "epId": "puniru-wa-kawaii-slime-episode-5",
-    "title": "Puniru wa Kawaii Slime",
-    "img": "https://gogocdn.net/cover/puniru-wa-kawaii-slime.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "mf-ghost-2nd-season",
-    "epId": "mf-ghost-2nd-season-episode-5",
-    "title": "MF Ghost 2nd Season",
-    "img": "https://gogocdn.net/cover/mf-ghost-2nd-season.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "nageki-no-bourei-wa-intai-shitai",
-    "epId": "nageki-no-bourei-wa-intai-shitai-episode-6",
-    "title": "Nageki no Bourei wa Intai shitai",
-    "img": "https://gogocdn.net/cover/nageki-no-bourei-wa-intai-shitai.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season",
-    "epId": "tensei-kizoku-kantei-skill-de-nariagaru-2nd-season-episode-5",
-    "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-    "img": "https://gogocdn.net/cover/tensei-kizoku-kantei-skill-de-nariagaru-2nd-season.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "kami-no-tou-koubou-sen",
-    "epId": "kami-no-tou-koubou-sen-episode-5",
-    "title": "Kami no Tou: Koubou-sen",
-    "img": "https://gogocdn.net/cover/kami-no-tou-koubou-sen.png",
     "episode": "Episode 5"
   },
   {
