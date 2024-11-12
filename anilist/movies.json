@@ -320,18 +320,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 11577,
-    "title": "Steins;Gate: Fuka Ryouiki no D\u00e9j\u00e0 vu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png",
-    "seasonYear": 2013,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 99457,
     "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99457-yLAalBQ2Srkh.png",
     "seasonYear": 2018,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 11577,
+    "title": "Steins;Gate: Fuka Ryouiki no D\u00e9j\u00e0 vu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png",
+    "seasonYear": 2013,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
@@ -384,18 +384,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 5681,
-    "title": "Summer Wars",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5681-3DmxUVn3grD0.jpg",
-    "seasonYear": 2009,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 20519,
     "title": "Tamako Love Story",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20519-YdNUizVJJIWI.png",
     "seasonYear": 2014,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 5681,
+    "title": "Summer Wars",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5681-3DmxUVn3grD0.jpg",
+    "seasonYear": 2009,
     "totalEpisode": 1,
     "format": "MOVIE"
   }
