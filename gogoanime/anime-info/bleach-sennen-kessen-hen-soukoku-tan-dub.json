@@ -12,8 +12,12 @@
   "otherNames": "Bleach: Thousand-Year Blood War - The Conflict, BLEACH \u5343\u5e74\u8840\u6226\u7bc7-\u76f8\u524b\u8b5a-",
   "synopsis": "Third part of Bleach: Sennen Kessen-hen.",
   "animeImg": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-soukoku-tan-dub.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "2",
   "episodesList": [
+    {
+      "episodeId": "bleach-sennen-kessen-hen-soukoku-tan-dub-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "bleach-sennen-kessen-hen-soukoku-tan-dub-episode-1",
       "episodeNum": "Episode 1"
