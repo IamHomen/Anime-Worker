@@ -1,5 +1,33 @@
 [
   {
+    "id": "hokkyoku-hyakkaten-no-concierge-san",
+    "epId": "hokkyoku-hyakkaten-no-concierge-san-episode-1",
+    "title": "Hokkyoku Hyakkaten no Concierge-san",
+    "img": "https://gogocdn.net/cover/hokkyoku-hyakkaten-no-concierge-san.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yoru-no-kurage-wa-oyogenai-dub",
+    "epId": "yoru-no-kurage-wa-oyogenai-dub-episode-9",
+    "title": "Yoru no Kurage wa Oyogenai (Dub)",
+    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3-dub",
+    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-dub-episode-3",
+    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3 (Dub)",
+    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3-dub.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "natsume-yuujinchou-shichi-dub",
+    "epId": "natsume-yuujinchou-shichi-dub-episode-4",
+    "title": "Natsume Yuujinchou Shichi (Dub)",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi-dub.png",
+    "episode": "Episode 4"
+  },
+  {
     "id": "seirei-gensouki-2-dub",
     "epId": "seirei-gensouki-2-dub-episode-6",
     "title": "Seirei Gensouki 2 (Dub)",
@@ -182,25 +210,11 @@
     "episode": "Episode 4"
   },
   {
-    "id": "yoru-no-kurage-wa-oyogenai-dub",
-    "epId": "yoru-no-kurage-wa-oyogenai-dub-episode-8",
-    "title": "Yoru no Kurage wa Oyogenai (Dub)",
-    "img": "https://gogocdn.net/cover/yoru-no-kurage-wa-oyogenai-dub.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "lv1-maou-to-one-room-yuusha-dub",
     "epId": "lv1-maou-to-one-room-yuusha-dub-episode-12",
     "title": "Lv1 Maou to One Room Yuusha (Dub)",
     "img": "https://gogocdn.net/cover/lv1-maou-to-one-room-yuusha-dub-1726023167.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3-dub",
-    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-dub-episode-2",
-    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3 (Dub)",
-    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-dub",
@@ -222,13 +236,6 @@
     "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
     "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
     "episode": "Episode 3"
-  },
-  {
-    "id": "natsume-yuujinchou-shichi-dub",
-    "epId": "natsume-yuujinchou-shichi-dub-episode-2",
-    "title": "Natsume Yuujinchou Shichi (Dub)",
-    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi-dub.png",
-    "episode": "Episode 2"
   },
   {
     "id": "nige-jouzu-no-wakagimi-dub",
@@ -2791,12 +2798,5 @@
     "title": "One Piece: Densetsu no Log! Akagami no Shanks! (Dub)",
     "img": "https://gogocdn.net/cover/one-piece-densetsu-no-log-akagami-no-shanks-dub.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "utawarerumono-futari-no-hakuoro-dub",
-    "epId": "utawarerumono-futari-no-hakuoro-dub-episode-28",
-    "title": "Utawarerumono: Futari no Hakuoro (Dub)",
-    "img": "https://gogocdn.net/cover/utawarerumono-futari-no-hakuoro-dub.png",
-    "episode": "Episode 28"
   }
 ]

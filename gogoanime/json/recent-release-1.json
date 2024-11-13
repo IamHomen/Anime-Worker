@@ -1,8 +1,57 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-18",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 18"
+  },
+  {
+    "id": "neko-ni-tensei-shita-ojisan",
+    "epId": "neko-ni-tensei-shita-ojisan-episode-6",
+    "title": "Neko ni Tensei shita Ojisan",
+    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "hamidashi-creative",
+    "epId": "hamidashi-creative-episode-6",
+    "title": "Hamidashi Creative",
+    "img": "https://gogocdn.net/cover/hamidashi-creative-1727373625.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "yugioh-go-rush",
+    "epId": "yugioh-go-rush-episode-130",
+    "title": "Yu\u201a\u0117\u00dcGi\u201a\u0117\u00dcOh!: Go Rush!!",
+    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
+    "episode": "Episode 130"
+  },
+  {
+    "id": "youkai-gakkou-no-sensei-hajimemashita",
+    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-6",
+    "title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "amagami-san-chi-no-enmusubi",
+    "epId": "amagami-san-chi-no-enmusubi-episode-7",
+    "title": "Amagami-san Chi no Enmusubi",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-7",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-80",
-    "title": "Magical\u2605Taruruuto-kun",
+    "title": "Magical\u201a\u0117\u00d6Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 80"
   },
@@ -364,13 +413,6 @@
     "episode": "Episode 6"
   },
   {
-    "id": "hamidashi-creative",
-    "epId": "hamidashi-creative-episode-3",
-    "title": "Hamidashi Creative",
-    "img": "https://gogocdn.net/cover/hamidashi-creative-1727373625.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen",
     "epId": "dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen-episode-1",
     "title": "Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen",
@@ -553,27 +595,6 @@
     "episode": "Episode 29"
   },
   {
-    "id": "neko-ni-tensei-shita-ojisan",
-    "epId": "neko-ni-tensei-shita-ojisan-episode-5",
-    "title": "Neko ni Tensei shita Ojisan",
-    "img": "https://gogocdn.net/cover/neko-ni-tensei-shita-ojisan.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-17",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 17"
-  },
-  {
-    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
-    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-6",
-    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "high-card-the-flowers-bloom",
     "epId": "high-card-the-flowers-bloom-episode-1",
     "title": "High Card: The Flowers Bloom",
@@ -581,25 +602,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "amagami-san-chi-no-enmusubi",
-    "epId": "amagami-san-chi-no-enmusubi-episode-6",
-    "title": "Amagami-san Chi no Enmusubi",
-    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "shinkalion-change-the-world",
     "epId": "shinkalion-change-the-world-episode-28",
     "title": "Shinkalion: Change the World",
     "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
     "episode": "Episode 28"
-  },
-  {
-    "id": "youkai-gakkou-no-sensei-hajimemashita",
-    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-5",
-    "title": "Youkai Gakkou no Sensei Hajimemashita!",
-    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
-    "episode": "Episode 5"
   },
   {
     "id": "shiroi-unabara",
@@ -2007,13 +2014,6 @@
     "title": "Ryokunohara Labyrinth: Sparkling Phantom",
     "img": "https://gogocdn.net/cover/ryokunohara-labyrinth-sparkling-phantom.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "yugioh-go-rush",
-    "epId": "yugioh-go-rush-episode-127",
-    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
-    "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
-    "episode": "Episode 127"
   },
   {
     "id": "tottoi",
