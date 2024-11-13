@@ -1,0 +1,20 @@
+{
+  "animeTitle": "Tsui no Hane",
+  "type": "Movie",
+  "releasedDate": "2021",
+  "status": "Completed",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "otherNames": "Pair of Feather, \u5bfe\u306e\u7fbd",
+  "synopsis": "Graduate Work 2021 by Tomoka Hiroshige, Tama Art University.",
+  "animeImg": "https://gogocdn.net/cover/tsui-no-hane.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "tsui-no-hane-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

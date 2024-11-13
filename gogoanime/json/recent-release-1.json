@@ -1,5 +1,33 @@
 [
   {
+    "id": "tsui-no-hane",
+    "epId": "tsui-no-hane-episode-1",
+    "title": "Tsui no Hane",
+    "img": "https://gogocdn.net/cover/tsui-no-hane.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "milkyhighway",
+    "epId": "milkyhighway-episode-1",
+    "title": "Milky\u2606Highway",
+    "img": "https://gogocdn.net/cover/milkyhighway.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "blame-special",
+    "epId": "blame-special-episode-1",
+    "title": "Blame! Special",
+    "img": "https://gogocdn.net/cover/blame-special.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "fairy-tail-movie-1-houou-no-miko-hajimari-no-asa",
+    "epId": "fairy-tail-movie-1-houou-no-miko-hajimari-no-asa-episode-1",
+    "title": "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
+    "img": "https://gogocdn.net/cover/fairy-tail-movie-1-houou-no-miko-hajimari-no-asa.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "akakichi-no-eleven",
     "epId": "akakichi-no-eleven-episode-1",
     "title": "Akakichi no Eleven",
@@ -2770,33 +2798,5 @@
     "title": "Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou",
     "img": "https://gogocdn.net/cover/maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "the-snack-world-tv",
-    "epId": "the-snack-world-tv-episode-37",
-    "title": "The Snack World (TV)",
-    "img": "https://gogocdn.net/cover/the-snack-world-tv.png",
-    "episode": "Episode 37"
-  },
-  {
-    "id": "shikabane-hime-kuro-soredemo-hito-to-shite",
-    "epId": "shikabane-hime-kuro-soredemo-hito-to-shite-episode-1",
-    "title": "Shikabane Hime: Kuro \u2013 Soredemo, Hito to Shite",
-    "img": "https://gogocdn.net/cover/shikabane-hime-kuro-soredemo-hito-to-shite.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "gokuu-no-daibouken",
-    "epId": "gokuu-no-daibouken-episode-16",
-    "title": "Gokuu no Daibouken",
-    "img": "https://gogocdn.net/cover/gokuu-no-daibouken.png",
-    "episode": "Episode 16"
-  },
-  {
-    "id": "i-cinnamoroll-animation",
-    "epId": "i-cinnamoroll-animation-episode-40",
-    "title": "I.Cinnamoroll Animation",
-    "img": "https://gogocdn.net/cover/i-cinnamoroll-animation.png",
-    "episode": "Episode 40"
   }
 ]

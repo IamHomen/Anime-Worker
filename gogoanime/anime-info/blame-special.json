@@ -1,0 +1,21 @@
+{
+  "animeTitle": "Blame! Special",
+  "type": "Special",
+  "releasedDate": "2003",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "otherNames": "Blame! Extra Log: Collapsed Data",
+  "synopsis": "Based on the Blame! manga series by Tsutomu Nihei.",
+  "animeImg": "https://gogocdn.net/cover/blame-special.png",
+  "totalEpisodes": "1",
+  "episodesList": [
+    {
+      "episodeId": "blame-special-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}
