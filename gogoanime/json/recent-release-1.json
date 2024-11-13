@@ -1,5 +1,26 @@
 [
   {
+    "id": "akakichi-no-eleven",
+    "epId": "akakichi-no-eleven-episode-1",
+    "title": "Akakichi no Eleven",
+    "img": "https://gogocdn.net/cover/akakichi-no-eleven.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "yat-anshin-uchuu-ryokou",
+    "epId": "yat-anshin-uchuu-ryokou-episode-1",
+    "title": "YAT Anshin! Uchuu Ryokou",
+    "img": "https://gogocdn.net/cover/yat-anshin-uchuu-ryokou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "tank-s-w-a-t-01",
+    "epId": "tank-s-w-a-t-01-episode-1",
+    "title": "TANK S.W.A.T. 01",
+    "img": "https://gogocdn.net/cover/tank-s-w-a-t-01.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-18",
     "title": "Tasuuketsu",
@@ -23,7 +44,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-130",
-    "title": "Yu\u201a\u0117\u00dcGi\u201a\u0117\u00dcOh!: Go Rush!!",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 130"
   },
@@ -51,7 +72,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-80",
-    "title": "Magical\u201a\u0117\u00d6Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 80"
   },
@@ -2777,26 +2798,5 @@
     "title": "I.Cinnamoroll Animation",
     "img": "https://gogocdn.net/cover/i-cinnamoroll-animation.png",
     "episode": "Episode 40"
-  },
-  {
-    "id": "akuu-daisakusen-srungle",
-    "epId": "akuu-daisakusen-srungle-episode-53",
-    "title": "Akuu Daisakusen Srungle",
-    "img": "https://gogocdn.net/cover/akuu-daisakusen-srungle.png",
-    "episode": "Episode 53"
-  },
-  {
-    "id": "blue-lock",
-    "epId": "blue-lock-episode-nagi-episode-1",
-    "title": "Blue Lock: Episode Nagi",
-    "img": "https://gogocdn.net/cover/blue-lock-episode-nagi.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "toushi-gordian",
-    "epId": "toushi-gordian-episode-51",
-    "title": "Toushi Gordian",
-    "img": "https://gogocdn.net/cover/toushi-gordian.png",
-    "episode": "Episode 51"
   }
 ]
