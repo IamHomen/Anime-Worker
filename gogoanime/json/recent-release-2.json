@@ -1,5 +1,33 @@
 [
   {
+    "id": "delicos-nursery-dub",
+    "epId": "delicos-nursery-dub-episode-9",
+    "title": "Delico's Nursery (Dub)",
+    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
+    "episode": "Episode 9"
+  },
+  {
+    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
+    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-5",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub",
+    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub-episode-4",
+    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
+    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "yeosin-gangnim-dub",
+    "epId": "yeosin-gangnim-dub-episode-13",
+    "title": "Yeosin Gangnim (Dub)",
+    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
+    "episode": "Episode 13"
+  },
+  {
     "id": "kimi-wa-houkago-insomnia-dub",
     "epId": "kimi-wa-houkago-insomnia-dub-episode-1",
     "title": "Kimi wa Houkago Insomnia (Dub)",
@@ -210,27 +238,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub",
-    "epId": "rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub-episode-4",
-    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season (Dub)",
-    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-dub.png",
-    "episode": "Episode 4"
-  },
-  {
-    "id": "yeosin-gangnim-dub",
-    "epId": "yeosin-gangnim-dub-episode-12",
-    "title": "Yeosin Gangnim (Dub)",
-    "img": "https://gogocdn.net/cover/yeosin-gangnim-dub.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "delicos-nursery-dub",
-    "epId": "delicos-nursery-dub-episode-8",
-    "title": "Delico's Nursery (Dub)",
-    "img": "https://gogocdn.net/cover/delicos-nursery-dub.png",
-    "episode": "Episode 8"
-  },
-  {
     "id": "lv1-maou-to-one-room-yuusha-dub",
     "epId": "lv1-maou-to-one-room-yuusha-dub-episode-12",
     "title": "Lv1 Maou to One Room Yuusha (Dub)",
@@ -250,13 +257,6 @@
     "title": "Kuromi's Pretty Journey (Dub)",
     "img": "https://gogocdn.net/cover/kuromis-pretty-journey-dub.png",
     "episode": "Episode 21"
-  },
-  {
-    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub",
-    "epId": "shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub-episode-3",
-    "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal (Dub)",
-    "img": "https://gogocdn.net/cover/shin-tennis-no-oujisama-u-17-world-cup-semifinal-dub.png",
-    "episode": "Episode 3"
   },
   {
     "id": "nige-jouzu-no-wakagimi-dub",
