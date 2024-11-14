@@ -9,8 +9,12 @@
   "otherNames": "\u304a\u8cb7\u3044\u3082\u306e\u30d1\u30f3\u30c0\uff01",
   "synopsis": "TV anime of Okaimono Panda! to celebrate its 11th anniversary.",
   "animeImg": "https://gogocdn.net/cover/okaimono-panda.png",
-  "totalEpisodes": "1",
+  "totalEpisodes": "2",
   "episodesList": [
+    {
+      "episodeId": "okaimono-panda-episode-2",
+      "episodeNum": "Episode 2"
+    },
     {
       "episodeId": "okaimono-panda-episode-1",
       "episodeNum": "Episode 1"

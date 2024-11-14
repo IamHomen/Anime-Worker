@@ -1,5 +1,47 @@
 [
   {
+    "id": "hitoribocchi-no-isekai-kouryaku",
+    "epId": "hitoribocchi-no-isekai-kouryaku-episode-8",
+    "title": "Hitoribocchi no Isekai Kouryaku",
+    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "negaposi-angler",
+    "epId": "negaposi-angler-episode-7",
+    "title": "NegaPosi Angler",
+    "img": "https://gogocdn.net/cover/negaposi-angler.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "kinoko-inu",
+    "epId": "kinoko-inu-episode-7",
+    "title": "Kinoko Inu",
+    "img": "https://gogocdn.net/cover/kinoko-inu.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "okaimono-panda",
+    "epId": "okaimono-panda-episode-2",
+    "title": "Okaimono Panda!",
+    "img": "https://gogocdn.net/cover/okaimono-panda.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "lemon-angel-yj-ban",
+    "epId": "lemon-angel-yj-ban-episode-1",
+    "title": "Lemon Angel YJ-ban",
+    "img": "https://gogocdn.net/cover/lemon-angel-yj-ban.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+    "epId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen-episode-7",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "kamierabi-2nd-season",
     "epId": "kamierabi-2nd-season-episode-7",
     "title": "Kamierabi 2nd Season",
@@ -595,46 +637,11 @@
     "episode": "Episode 6"
   },
   {
-    "id": "hitoribocchi-no-isekai-kouryaku",
-    "epId": "hitoribocchi-no-isekai-kouryaku-episode-7",
-    "title": "Hitoribocchi no Isekai Kouryaku",
-    "img": "https://gogocdn.net/cover/hitoribocchi-no-isekai-kouryaku.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "negaposi-angler",
-    "epId": "negaposi-angler-episode-6",
-    "title": "NegaPosi Angler",
-    "img": "https://gogocdn.net/cover/negaposi-angler.png",
-    "episode": "Episode 6"
-  },
-  {
     "id": "jetter-mars",
     "epId": "jetter-mars-episode-27",
     "title": "Jetter Mars",
     "img": "https://gogocdn.net/cover/jetter-mars.png",
     "episode": "Episode 27"
-  },
-  {
-    "id": "kinoko-inu",
-    "epId": "kinoko-inu-episode-6",
-    "title": "Kinoko Inu",
-    "img": "https://gogocdn.net/cover/kinoko-inu.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
-    "epId": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen-episode-6",
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "okaimono-panda",
-    "epId": "okaimono-panda-episode-1",
-    "title": "Okaimono Panda!",
-    "img": "https://gogocdn.net/cover/okaimono-panda.png",
-    "episode": "Episode 1"
   },
   {
     "id": "eiji",
@@ -2791,12 +2798,5 @@
     "title": "Linetown",
     "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
     "episode": "Episode 17"
-  },
-  {
-    "id": "maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou",
-    "epId": "maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou-episode-5",
-    "title": "Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou",
-    "img": "https://gogocdn.net/cover/maeterlinck-no-aoi-tori-tyltyl-mytyl-no-bouken-ryokou.png",
-    "episode": "Episode 5"
   }
 ]
