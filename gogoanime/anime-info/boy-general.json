@@ -1,0 +1,25 @@
+{
+  "animeTitle": "Boy General",
+  "type": "TV Series",
+  "releasedDate": "1982",
+  "status": "Completed",
+  "genres": [
+    "Action",
+    "Drama",
+    "Historical"
+  ],
+  "otherNames": "Sonionjangsu, \uc18c\ub144\uc7a5\uc218",
+  "synopsis": "During the ancient kingdom of Goguryeo, a brave young soldier named Soe-Me goes to war against the evil Japanese and Chinese invaders.",
+  "animeImg": "https://gogocdn.net/cover/boy-general.png",
+  "totalEpisodes": "2",
+  "episodesList": [
+    {
+      "episodeId": "boy-general-episode-2",
+      "episodeNum": "Episode 2"
+    },
+    {
+      "episodeId": "boy-general-episode-1",
+      "episodeNum": "Episode 1"
+    }
+  ]
+}

@@ -1,5 +1,12 @@
 [
   {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-20",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 20"
+  },
+  {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
     "epId": "bakugan-battle-brawlers-gundalian-invaders-episode-31",
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -303,7 +310,7 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-130",
-    "title": "Yu\u201a\u0117\u00dcGi\u201a\u0117\u00dcOh!: Go Rush!!",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 130"
   },
@@ -331,7 +338,7 @@
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-80",
-    "title": "Magical\u201a\u0117\u00d6Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 80"
   },
@@ -684,13 +691,6 @@
     "title": "Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen",
     "img": "https://gogocdn.net/cover/dakaretai-otoko-1-i-ni-odosarete-imasu-movie-spain-hen.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-19",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 19"
   },
   {
     "id": "jetter-mars",
