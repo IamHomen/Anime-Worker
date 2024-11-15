@@ -11,8 +11,16 @@
   "otherNames": "Ya She, Silent House, \u54d1\u820d",
   "synopsis": "In a busy and bustling city, history is soundlessly scattered throughout. Those legends that speak of rare treasures, lost in the flowing river of time. At this place, in this time, they are here--in an antique shop named \"Ya She\".",
   "animeImg": "https://gogocdn.net/cover/silent-house.png",
-  "totalEpisodes": "7",
+  "totalEpisodes": "9",
   "episodesList": [
+    {
+      "episodeId": "silent-house-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "silent-house-episode-8",
+      "episodeNum": "Episode 8"
+    },
     {
       "episodeId": "silent-house-episode-7",
       "episodeNum": "Episode 7"
