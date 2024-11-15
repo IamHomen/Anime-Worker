@@ -61014,12 +61014,6 @@
     "date": "2024"
   },
   {
-    "id": "another-journey-to-the-west",
-    "title": "Another Journey to the West",
-    "img": "https://gogocdn.net/cover/another-journey-to-the-west.png",
-    "date": "2024"
-  },
-  {
     "id": "miniforce-animaltron-dub",
     "title": "Miniforce Animaltron (Dub)",
     "img": "https://gogocdn.net/cover/miniforce-animaltron-dub.png",
@@ -63666,6 +63660,12 @@
     "date": "2013"
   },
   {
+    "id": "pink-mizu-dorobou-ame-dorobou",
+    "title": "Pink Mizu Dorobou Ame Dorobou",
+    "img": "https://gogocdn.net/cover/pink-mizu-dorobou-ame-dorobou.png",
+    "date": "1990"
+  },
+  {
     "id": "babel-ii-dub",
     "title": "Babel II (Dub)",
     "img": "https://gogocdn.net/cover/babel-ii-dub.jpg",
@@ -63909,6 +63909,12 @@
     "id": "inu-ou-dub",
     "title": "Inu-Ou (Dub)",
     "img": "https://gogocdn.net/cover/inu-ou-dub.png",
+    "date": "2022"
+  },
+  {
+    "id": "yangguang-shai-pigu",
+    "title": "Yangguang Shai Pigu",
+    "img": "https://gogocdn.net/cover/yangguang-shai-pigu.png",
     "date": "2022"
   },
   {
@@ -64170,6 +64176,12 @@
     "date": "2012"
   },
   {
+    "id": "uchuu-senkan-yamato-pilot-film",
+    "title": "Uchuu Senkan Yamato Pilot Film",
+    "img": "https://gogocdn.net/cover/uchuu-senkan-yamato-pilot-film.png",
+    "date": "1990"
+  },
+  {
     "id": "the-disappearance-of-conan-edogawa-the-worst-two-days-in-history",
     "title": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
     "img": "https://gogocdn.net/images/upload/67289.jpg",
@@ -64420,6 +64432,12 @@
     "title": "Tokumu Sentai Shinesman",
     "img": "https://gogocdn.net/cover/tokumu-sentai-shinesman.png",
     "date": "1996"
+  },
+  {
+    "id": "onkyou-seimeitai-noiseman",
+    "title": "Onkyou Seimeitai Noiseman",
+    "img": "https://gogocdn.net/cover/onkyou-seimeitai-noiseman.png",
+    "date": "1997"
   },
   {
     "id": "robot-girls-z-plus",
@@ -64678,6 +64696,12 @@
     "title": "Tokumu Sentai Shinesman (Dub)",
     "img": "https://gogocdn.net/cover/tokumu-sentai-shinesman-dub.png",
     "date": "1996"
+  },
+  {
+    "id": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku",
+    "title": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+    "img": "https://gogocdn.net/cover/dragon-ball-super-saiya-jin-zetsumetsu-keikaku.png",
+    "date": "2010"
   },
   {
     "id": "ranpo-kitan-game-of-laplace",
@@ -80134,29 +80158,5 @@
     "title": "Watashi no Touchika",
     "img": "https://gogocdn.net/cover/watashi-no-touchika.png",
     "date": "2021"
-  },
-  {
-    "id": "a-tree-of-palme-dub",
-    "title": "A Tree of Palme (Dub)",
-    "img": "https://gogocdn.net/cover/a-tree-of-palme-dub.jpg",
-    "date": "2003"
-  },
-  {
-    "id": "fushigi-yuugi-dub",
-    "title": "Fushigi Yuugi (Dub)",
-    "img": "https://gogocdn.net/cover/fushigi-yuugi-dub.png",
-    "date": "1995"
-  },
-  {
-    "id": "legend-of-crystania-the-motion-picture-dub",
-    "title": "Legend of Crystania: The Motion Picture (Dub)",
-    "img": "https://gogocdn.net/cover/legend-of-crystania-the-motion-picture-dub.png",
-    "date": "1995"
-  },
-  {
-    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova",
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA",
-    "img": "https://gogocdn.net/cover/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova.png",
-    "date": "2016"
   }
 ]

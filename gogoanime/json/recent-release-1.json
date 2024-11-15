@@ -1,5 +1,110 @@
 [
   {
+    "id": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku",
+    "epId": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku-episode-1",
+    "title": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+    "img": "https://gogocdn.net/cover/dragon-ball-super-saiya-jin-zetsumetsu-keikaku.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "onkyou-seimeitai-noiseman",
+    "epId": "onkyou-seimeitai-noiseman-episode-1",
+    "title": "Onkyou Seimeitai Noiseman",
+    "img": "https://gogocdn.net/cover/onkyou-seimeitai-noiseman.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "idol-land-pripara",
+    "epId": "idol-land-pripara-episode-10",
+    "title": "Idol Land PriPara",
+    "img": "https://gogocdn.net/cover/idol-land-pripara.png",
+    "episode": "Episode 10"
+  },
+  {
+    "id": "uchuu-senkan-yamato-pilot-film",
+    "epId": "uchuu-senkan-yamato-pilot-film-episode-1",
+    "title": "Uchuu Senkan Yamato Pilot Film",
+    "img": "https://gogocdn.net/cover/uchuu-senkan-yamato-pilot-film.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "pink-mizu-dorobou-ame-dorobou",
+    "epId": "pink-mizu-dorobou-ame-dorobou-episode-1",
+    "title": "Pink Mizu Dorobou Ame Dorobou",
+    "img": "https://gogocdn.net/cover/pink-mizu-dorobou-ame-dorobou.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "ao-no-hako",
+    "epId": "ao-no-hako-episode-8",
+    "title": "Ao no Hako",
+    "img": "https://gogocdn.net/cover/ao-no-hako.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "dragon-ball-z-saiya-jin-zetsumetsu-keikaku",
+    "epId": "dragon-ball-z-saiya-jin-zetsumetsu-keikaku-episode-2",
+    "title": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku",
+    "img": "https://gogocdn.net/cover/dragon-ball-z-saiya-jin-zetsumetsu-keikaku.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "chiikawa",
+    "epId": "chiikawa-episode-118",
+    "title": "Chiikawa",
+    "img": "https://gogocdn.net/cover/chiikawa.png",
+    "episode": "Episode 118"
+  },
+  {
+    "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
+    "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-7",
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+    "img": "https://gogocdn.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "trillion-game",
+    "epId": "trillion-game-episode-8",
+    "title": "Trillion Game",
+    "img": "https://gogocdn.net/cover/trillion-game-1727380017.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "sayounara-ryuusei-konnichiwa-jinsei",
+    "epId": "sayounara-ryuusei-konnichiwa-jinsei-episode-7",
+    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "img": "https://gogocdn.net/cover/sayounara-ryuusei-konnichiwa-jinsei.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu",
+    "epId": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-8-5",
+    "title": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu!",
+    "img": "https://gogocdn.net/cover/kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu.png",
+    "episode": "Episode 8.5"
+  },
+  {
+    "id": "kekkon-suru-tte-hontou-desu-ka",
+    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-7",
+    "title": "Kekkon suru tte, Hontou desu ka",
+    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "mecha-ude-tv",
+    "epId": "mecha-ude-tv-episode-7",
+    "title": "Mecha-ude (TV)",
+    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "dandadan",
+    "epId": "dandadan-episode-7",
+    "title": "Dandadan",
+    "img": "https://gogocdn.net/cover/dandadan.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "hitoribocchi-no-isekai-kouryaku",
     "epId": "hitoribocchi-no-isekai-kouryaku-episode-8",
     "title": "Hitoribocchi no Isekai Kouryaku",
@@ -483,13 +588,6 @@
     "episode": "Episode 7"
   },
   {
-    "id": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu",
-    "epId": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-3",
-    "title": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu!",
-    "img": "https://gogocdn.net/cover/kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu.png",
-    "episode": "Episode 3"
-  },
-  {
     "id": "nessa-no-haou-gandalla",
     "epId": "nessa-no-haou-gandalla-episode-1",
     "title": "Nessa no Haou Gandalla",
@@ -574,67 +672,11 @@
     "episode": "Episode 1"
   },
   {
-    "id": "ao-no-hako",
-    "epId": "ao-no-hako-episode-7",
-    "title": "Ao no Hako",
-    "img": "https://gogocdn.net/cover/ao-no-hako.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "2-5-jigen-no-ririsa",
     "epId": "2-5-jigen-no-ririsa-episode-19",
     "title": "2.5-jigen no Ririsa",
     "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
     "episode": "Episode 19"
-  },
-  {
-    "id": "chiikawa",
-    "epId": "chiikawa-episode-117",
-    "title": "Chiikawa",
-    "img": "https://gogocdn.net/cover/chiikawa.png",
-    "episode": "Episode 117"
-  },
-  {
-    "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
-    "epId": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-episode-6",
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-    "img": "https://gogocdn.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "trillion-game",
-    "epId": "trillion-game-episode-7",
-    "title": "Trillion Game",
-    "img": "https://gogocdn.net/cover/trillion-game-1727380017.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "sayounara-ryuusei-konnichiwa-jinsei",
-    "epId": "sayounara-ryuusei-konnichiwa-jinsei-episode-6",
-    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
-    "img": "https://gogocdn.net/cover/sayounara-ryuusei-konnichiwa-jinsei.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "mecha-ude-tv",
-    "epId": "mecha-ude-tv-episode-6",
-    "title": "Mecha-ude (TV)",
-    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "kekkon-suru-tte-hontou-desu-ka",
-    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-6",
-    "title": "Kekkon suru tte, Hontou desu ka",
-    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "dandadan",
-    "epId": "dandadan-episode-6",
-    "title": "Dandadan",
-    "img": "https://gogocdn.net/cover/dandadan.png",
-    "episode": "Episode 6"
   },
   {
     "id": "jetter-mars",
@@ -2756,47 +2798,5 @@
     "title": "Yuusei Kamen",
     "img": "https://gogocdn.net/cover/yuusei-kamen.png",
     "episode": "Episode 13"
-  },
-  {
-    "id": "michitekuru-toki-no-mukou-ni",
-    "epId": "michitekuru-toki-no-mukou-ni-episode-1",
-    "title": "Michitekuru Toki no Mukou ni",
-    "img": "https://gogocdn.net/cover/michitekuru-toki-no-mukou-ni.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "maougun-saikyou-no-majutsushi-wa-ningen-datta",
-    "epId": "maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-12",
-    "title": "Maougun Saikyou no Majutsushi wa Ningen datta",
-    "img": "https://gogocdn.net/cover/maougun-saikyou-no-majutsushi-wa-ningen-datta.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "hidamari-no-ki",
-    "epId": "hidamari-no-ki-episode-25",
-    "title": " Hidamari no Ki",
-    "img": "https://gogocdn.net/cover/hidamari-no-ki.png",
-    "episode": "Episode 25"
-  },
-  {
-    "id": "whats-michael",
-    "epId": "whats-michael-episode-1",
-    "title": "What's Michael?",
-    "img": "https://gogocdn.net/cover/whats-michael.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "12paradise",
-    "epId": "12paradise-episode-2",
-    "title": "1+2=Paradise",
-    "img": "https://gogocdn.net/cover/12paradise.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "linetown",
-    "epId": "linetown-episode-17",
-    "title": "Linetown",
-    "img": "https://gogocdn.net/images/anime/L/Linetown.jpg",
-    "episode": "Episode 17"
   }
 ]

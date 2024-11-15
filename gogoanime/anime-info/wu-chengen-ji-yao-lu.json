@@ -2,7 +2,7 @@
   "animeTitle": "Wu Chengen Ji Yao Lu",
   "type": "ONA",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Adventure",
     "Comedy",
@@ -11,8 +11,16 @@
   "otherNames": "\u5434\u627f\u6069\u7f09\u5996\u5f55, Another Journey to the West, Ji Yao Lu: Qicheng Pian",
   "synopsis": "Follow Wu Cheng\u2019en on his own legendary pilgrimage to the \u201cWestern Regions\u201d in search of Enlightenment.",
   "animeImg": "https://gogocdn.net/cover/wu-chengen-ji-yao-lu-1728588011.png",
-  "totalEpisodes": "10",
+  "totalEpisodes": "12",
   "episodesList": [
+    {
+      "episodeId": "wu-chengen-ji-yao-lu-episode-12",
+      "episodeNum": "Episode 12"
+    },
+    {
+      "episodeId": "wu-chengen-ji-yao-lu-episode-11",
+      "episodeNum": "Episode 11"
+    },
     {
       "episodeId": "wu-chengen-ji-yao-lu-episode-10",
       "episodeNum": "Episode 10"
