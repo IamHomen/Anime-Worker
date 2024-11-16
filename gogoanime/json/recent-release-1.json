@@ -1,5 +1,12 @@
 [
   {
+    "id": "detective-conan",
+    "epId": "detective-conan-episode-1141",
+    "title": "Detective Conan",
+    "img": "https://gogocdn.net/cover/detective-conan.png",
+    "episode": "Episode 1141"
+  },
+  {
     "id": "pokemon-shinsaku-anime",
     "epId": "pokemon-shinsaku-anime-episode-73",
     "title": "Pokemon (Shinsaku Anime)",
@@ -873,13 +880,6 @@
     "title": "Hyakushou Kizoku 2nd Season",
     "img": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
     "episode": "Episode 5"
-  },
-  {
-    "id": "detective-conan",
-    "epId": "detective-conan-episode-1140",
-    "title": "Detective Conan",
-    "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1140"
   },
   {
     "id": "akuma-kun",
