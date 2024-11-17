@@ -1,10 +1,80 @@
 [
   {
+    "id": "oishinbo",
+    "epId": "oishinbo-episode-55",
+    "title": "Oishinbo",
+    "img": "https://gogocdn.net/cover/oishinbo.png",
+    "episode": "Episode 55"
+  },
+  {
+    "id": "kimi-wa-meido-sama",
+    "epId": "kimi-wa-meido-sama-episode-7",
+    "title": "Kimi wa Meido-sama.",
+    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+    "epId": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episode-7",
+    "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+    "img": "https://gogocdn.net/cover/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "ao-no-exorcist-yuki-no-hate-hen",
+    "epId": "ao-no-exorcist-yuki-no-hate-hen-episode-7",
+    "title": "Ao no Exorcist: Yuki no Hate-hen",
+    "img": "https://gogocdn.net/cover/ao-no-exorcist-yuki-no-hate-hen.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "ranma-2024",
+    "epId": "ranma-2024-episode-7",
+    "title": "Ranma \u00bd (2024)",
+    "img": "https://gogocdn.net/cover/ranma-2024.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "maou-2099",
+    "epId": "maou-2099-episode-6",
+    "title": "Maou 2099",
+    "img": "https://gogocdn.net/cover/maou-2099-1727374937.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "detective-conan",
-    "epId": "detective-conan-episode-1141",
+    "epId": "detective-conan-episode-1142",
     "title": "Detective Conan",
     "img": "https://gogocdn.net/cover/detective-conan.png",
-    "episode": "Episode 1141"
+    "episode": "Episode 1142"
+  },
+  {
+    "id": "chi-chikyuu-no-undou-ni-tsuite",
+    "epId": "chi-chikyuu-no-undou-ni-tsuite-episode-8",
+    "title": "Chi.: Chikyuu no Undou ni Tsuite",
+    "img": "https://gogocdn.net/cover/chi-chikyuu-no-undou-ni-tsuite.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "maou-sama-retry-r",
+    "epId": "maou-sama-retry-r-episode-8",
+    "title": "Maou-sama, Retry! R",
+    "img": "https://gogocdn.net/cover/maou-sama-retry-r.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "blue-lock-vs-u-20-japan",
+    "epId": "blue-lock-vs-u-20-japan-episode-7",
+    "title": "Blue Lock vs. U-20 Japan",
+    "img": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "bleach-sennen-kessen-hen-soukoku-tan",
+    "epId": "bleach-sennen-kessen-hen-soukoku-tan-episode-7",
+    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+    "img": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-soukoku-tan.png",
+    "episode": "Episode 7"
   },
   {
     "id": "pokemon-shinsaku-anime",
@@ -607,69 +677,6 @@
     "title": "Touhai: Ura Rate Mahjong Touhai Roku",
     "img": "https://gogocdn.net/cover/touhai-ura-rate-mahjong-touhai-roku.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "ranma-2024",
-    "epId": "ranma-2024-episode-6",
-    "title": "Ranma \u00bd (2024)",
-    "img": "https://gogocdn.net/cover/ranma-2024.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "kimi-wa-meido-sama",
-    "epId": "kimi-wa-meido-sama-episode-6",
-    "title": "Kimi wa Meido-sama.",
-    "img": "https://gogocdn.net/cover/kimi-wa-meido-sama.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
-    "epId": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episode-6",
-    "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
-    "img": "https://gogocdn.net/cover/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "ao-no-exorcist-yuki-no-hate-hen",
-    "epId": "ao-no-exorcist-yuki-no-hate-hen-episode-6",
-    "title": "Ao no Exorcist: Yuki no Hate-hen",
-    "img": "https://gogocdn.net/cover/ao-no-exorcist-yuki-no-hate-hen.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "maou-2099",
-    "epId": "maou-2099-episode-5",
-    "title": "Maou 2099",
-    "img": "https://gogocdn.net/cover/maou-2099-1727374937.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "chi-chikyuu-no-undou-ni-tsuite",
-    "epId": "chi-chikyuu-no-undou-ni-tsuite-episode-7",
-    "title": "Chi.: Chikyuu no Undou ni Tsuite",
-    "img": "https://gogocdn.net/cover/chi-chikyuu-no-undou-ni-tsuite.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "blue-lock-vs-u-20-japan",
-    "epId": "blue-lock-vs-u-20-japan-episode-6",
-    "title": "Blue Lock vs. U-20 Japan",
-    "img": "https://gogocdn.net/cover/blue-lock-vs-u-20-japan.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "bleach-sennen-kessen-hen-soukoku-tan",
-    "epId": "bleach-sennen-kessen-hen-soukoku-tan-episode-6",
-    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
-    "img": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-soukoku-tan.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "maou-sama-retry-r",
-    "epId": "maou-sama-retry-r-episode-7",
-    "title": "Maou-sama, Retry! R",
-    "img": "https://gogocdn.net/cover/maou-sama-retry-r.png",
-    "episode": "Episode 7"
   },
   {
     "id": "ao-no-miburo",
@@ -1405,13 +1412,6 @@
     "title": "Kidou Senshi Gundam: Fukushuu no Requiem",
     "img": "https://gogocdn.net/cover/kidou-senshi-gundam-fukushuu-no-requiem.png",
     "episode": "Episode 6"
-  },
-  {
-    "id": "oishinbo",
-    "epId": "oishinbo-episode-54",
-    "title": "Oishinbo",
-    "img": "https://gogocdn.net/cover/oishinbo.png",
-    "episode": "Episode 54"
   },
   {
     "id": "dr-slump-arale-chan",
