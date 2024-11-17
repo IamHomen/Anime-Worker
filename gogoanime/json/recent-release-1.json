@@ -1,5 +1,26 @@
 [
   {
+    "id": "one-piece-gyojin-tou-hen",
+    "epId": "one-piece-gyojin-tou-hen-episode-3",
+    "title": "One Piece: Gyojin Tou-hen",
+    "img": "https://gogocdn.net/cover/one-piece-gyojin-tou-hen.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "wonderful-precure",
+    "epId": "wonderful-precure-episode-41",
+    "title": "Wonderful Precure!",
+    "img": "https://gogocdn.net/cover/wonderful-precure.png",
+    "episode": "Episode 41"
+  },
+  {
+    "id": "ao-no-exorcist-yuki-no-hate-hen-dub",
+    "epId": "ao-no-exorcist-yuki-no-hate-hen-dub-episode-3",
+    "title": "Ao no Exorcist: Yuki no Hate-hen (Dub)",
+    "img": "https://gogocdn.net/cover/ao-no-exorcist-yuki-no-hate-hen-dub.png",
+    "episode": "Episode 3"
+  },
+  {
     "id": "oishinbo",
     "epId": "oishinbo-episode-55",
     "title": "Oishinbo",
@@ -656,20 +677,6 @@
     "title": "Moero! Top Striker",
     "img": "https://gogocdn.net/cover/moero-top-striker.png",
     "episode": "Episode 9"
-  },
-  {
-    "id": "one-piece-gyojin-tou-hen",
-    "epId": "one-piece-gyojin-tou-hen-episode-2",
-    "title": "One Piece: Gyojin Tou-hen",
-    "img": "https://gogocdn.net/cover/one-piece-gyojin-tou-hen.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "wonderful-precure",
-    "epId": "wonderful-precure-episode-40",
-    "title": "Wonderful Precure!",
-    "img": "https://gogocdn.net/cover/wonderful-precure.png",
-    "episode": "Episode 40"
   },
   {
     "id": "touhai-ura-rate-mahjong-touhai-roku",
@@ -2790,13 +2797,6 @@
     "epId": "animal-1-episode-1",
     "title": "Animal 1",
     "img": "https://gogocdn.net/cover/animal-1.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "chikyuu-bouei-kazoku-special",
-    "epId": "chikyuu-bouei-kazoku-special-episode-1",
-    "title": "Chikyuu Bouei Kazoku Special",
-    "img": "https://gogocdn.net/cover/chikyuu-bouei-kazoku-special.png",
     "episode": "Episode 1"
   }
 ]
