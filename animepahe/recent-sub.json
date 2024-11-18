@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 65259,
+      "anime_id": 5655,
+      "anime_title": "Blue Box",
+      "anime_session": "8c4d3d81-e75f-9586-4314-280b722ddb04",
+      "episode": 8,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "KawaSubs",
+      "snapshot": "https://i.animepahe.ru/snapshots/fab2e56d1a8dffdeaaf8eff0665461224a34725568000723a6b8408af9953a11.jpg",
+      "disc": "",
+      "session": "1bf27d4e7a2ca601e5fa1befdd34ea7ce9def400e30dbf5ab611849c59ae2539",
+      "filler": 0,
+      "created_at": "2024-11-17 22:20:13",
+      "completed": 0
+    },
+    {
+      "id": 65258,
+      "anime_id": 5143,
+      "anime_title": "Haai Step Jun",
+      "anime_session": "9fb02c5b-fee3-a7c1-0010-e9164bbdfbea",
+      "episode": 24,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "MaruChanSubs",
+      "snapshot": "https://i.animepahe.ru/snapshots/f768a7c4bbb6db879fcdf3fb09972a65c37d15866858fe474973ba10a9c73bf1.jpg",
+      "disc": "DVD",
+      "session": "650d7a741c8f0c861694ec114e94bd47897500c36a8619601c485d1415716a6d",
+      "filler": 0,
+      "created_at": "2024-11-17 19:44:09",
+      "completed": 0
+    },
+    {
       "id": 65257,
       "anime_id": 5735,
       "anime_title": "Punirunes: Puni 2",
@@ -166,38 +198,6 @@
       "session": "691649be39ab9579e0b94191542d7c0027db37eebdff8263aa6e3b2d673680c1",
       "filler": 0,
       "created_at": "2019-01-31 14:28:48",
-      "completed": 1
-    },
-    {
-      "id": 59292,
-      "anime_id": 5194,
-      "anime_title": "Kuma Kuma Kuma Bear Punch!",
-      "anime_session": "1b7595ed-22e7-e3ba-bc65-6a4aa45a52ea",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "YURASUKA",
-      "snapshot": "https://i.animepahe.ru/snapshots/3af555ba826434dbe044a89cbce355e670b2fd61a66a01016708161f00272bf1.jpg",
-      "disc": "BD",
-      "session": "70df4b27c505848277c758d2330dce4a20ed52786c2e6cf6264b91a52003b82b",
-      "filler": 0,
-      "created_at": "2023-06-19 14:05:19",
-      "completed": 1
-    },
-    {
-      "id": 42727,
-      "anime_id": 3662,
-      "anime_title": "Runway de Waratte",
-      "anime_session": "63ff3284-026d-8413-ec4a-41c629cd8552",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "sam",
-      "snapshot": "https://i.animepahe.ru/snapshots/302ef3820ee5a88300c4066d892138457c8c152f881d77de4fcad5467a02c023.jpg",
-      "disc": "BD",
-      "session": "6bdd710a89282bda1f1591d76f599a156abe92a8c583daf8d62a094b88b5b587",
-      "filler": 0,
-      "created_at": "2020-03-27 19:09:46",
       "completed": 1
     }
   ]

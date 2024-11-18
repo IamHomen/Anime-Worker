@@ -11,8 +11,12 @@
   "otherNames": "Xian Ji Xun Zong, \u4ed9\u8ff9\u5bfb\u8e2a, Searching For The Immortals",
   "synopsis": "",
   "animeImg": "https://gogocdn.net/cover/searching-for-the-immortals.png",
-  "totalEpisodes": "24",
+  "totalEpisodes": "25",
   "episodesList": [
+    {
+      "episodeId": "searching-for-the-immortals-episode-25",
+      "episodeNum": "Episode 25"
+    },
     {
       "episodeId": "searching-for-the-immortals-episode-24",
       "episodeNum": "Episode 24"
