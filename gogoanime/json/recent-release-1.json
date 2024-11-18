@@ -1,5 +1,12 @@
 [
   {
+    "id": "haigakura",
+    "epId": "haigakura-episode-7",
+    "title": "Haigakura",
+    "img": "https://gogocdn.net/cover/haigakura-1727373567.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "haai-step-jun",
     "epId": "haai-step-jun-episode-24",
     "title": "Haai Step Jun",
@@ -627,13 +634,6 @@
     "epId": "natsume-yuujinchou-shichi-episode-6",
     "title": "Natsume Yuujinchou Shichi",
     "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "haigakura",
-    "epId": "haigakura-episode-6",
-    "title": "Haigakura",
-    "img": "https://gogocdn.net/cover/haigakura-1727373567.png",
     "episode": "Episode 6"
   },
   {

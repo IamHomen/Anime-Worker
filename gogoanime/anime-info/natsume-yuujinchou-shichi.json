@@ -13,8 +13,12 @@
   "otherNames": "Natsume's Book of Friends Season 7, \u590f\u76ee\u53cb\u4eba\u5e33 \u6f06",
   "synopsis": "Seventh season of Natsume Yuujinchou.",
   "animeImg": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png",
-  "totalEpisodes": "6",
+  "totalEpisodes": "7",
   "episodesList": [
+    {
+      "episodeId": "natsume-yuujinchou-shichi-episode-7",
+      "episodeNum": "Episode 7"
+    },
     {
       "episodeId": "natsume-yuujinchou-shichi-episode-6",
       "episodeNum": "Episode 6"
