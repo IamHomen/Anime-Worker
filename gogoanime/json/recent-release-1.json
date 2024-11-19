@@ -1,5 +1,68 @@
 [
   {
+    "id": "natsume-yuujinchou-shichi",
+    "epId": "natsume-yuujinchou-shichi-episode-7",
+    "title": "Natsume Yuujinchou Shichi",
+    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
+    "epId": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episode-8",
+    "title": "Saikyou no Shienshoku ",
+    "img": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "seirei-gensouki-2",
+    "epId": "seirei-gensouki-2-episode-7",
+    "title": "Seirei Gensouki 2",
+    "img": "https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3",
+    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-episode-6",
+    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "shinkalion-change-the-world",
+    "epId": "shinkalion-change-the-world-episode-30",
+    "title": "Shinkalion: Change the World",
+    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
+    "episode": "Episode 30"
+  },
+  {
+    "id": "raise-wa-tanin-ga-ii",
+    "epId": "raise-wa-tanin-ga-ii-episode-7",
+    "title": "Raise wa Tanin ga Ii",
+    "img": "https://gogocdn.net/cover/raise-wa-tanin-ga-ii.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
+    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-7",
+    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "asatir-2-mirai-no-mukashi-banashi",
+    "epId": "asatir-2-mirai-no-mukashi-banashi-episode-3",
+    "title": "Asatir 2: Mirai no Mukashi Banashi",
+    "img": "https://gogocdn.net/cover/asatir-2-mirai-no-mukashi-banashi.png",
+    "episode": "Episode 3"
+  },
+  {
+    "id": "hoshifuru-oukoku-no-nina",
+    "epId": "hoshifuru-oukoku-no-nina-episode-7",
+    "title": "Hoshifuru Oukoku no Nina",
+    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "haigakura",
     "epId": "haigakura-episode-7",
     "title": "Haigakura",
@@ -306,13 +369,6 @@
     "title": "Beyblade X",
     "img": "https://gogocdn.net/cover/beyblade-x.png",
     "episode": "Episode 55"
-  },
-  {
-    "id": "shinkalion-change-the-world",
-    "epId": "shinkalion-change-the-world-episode-29",
-    "title": "Shinkalion: Change the World",
-    "img": "https://gogocdn.net/cover/shinkalion-change-the-world.png",
-    "episode": "Episode 29"
   },
   {
     "id": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku",
@@ -628,62 +684,6 @@
     "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 80"
-  },
-  {
-    "id": "natsume-yuujinchou-shichi",
-    "epId": "natsume-yuujinchou-shichi-episode-6",
-    "title": "Natsume Yuujinchou Shichi",
-    "img": "https://gogocdn.net/cover/natsume-yuujinchou-shichi.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "seirei-gensouki-2",
-    "epId": "seirei-gensouki-2-episode-6",
-    "title": "Seirei Gensouki 2",
-    "img": "https://gogocdn.net/cover/seirei-gensouki-2-1727379332.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
-    "epId": "saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru-episode-7",
-    "title": "Saikyou no Shienshoku ",
-    "img": "https://gogocdn.net/cover/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "arifureta-shokugyou-de-sekai-saikyou-season-3",
-    "epId": "arifureta-shokugyou-de-sekai-saikyou-season-3-episode-5",
-    "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-    "img": "https://gogocdn.net/cover/arifureta-shokugyou-de-sekai-saikyou-season-3.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "hoshifuru-oukoku-no-nina",
-    "epId": "hoshifuru-oukoku-no-nina-episode-6",
-    "title": "Hoshifuru Oukoku no Nina",
-    "img": "https://gogocdn.net/cover/hoshifuru-oukoku-no-nina.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "asatir-2-mirai-no-mukashi-banashi",
-    "epId": "asatir-2-mirai-no-mukashi-banashi-episode-2",
-    "title": "Asatir 2: Mirai no Mukashi Banashi",
-    "img": "https://gogocdn.net/cover/asatir-2-mirai-no-mukashi-banashi.png",
-    "episode": "Episode 2"
-  },
-  {
-    "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
-    "epId": "kamonohashi-ron-no-kindan-suiri-2nd-season-episode-6",
-    "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
-    "img": "https://gogocdn.net/cover/kamonohashi-ron-no-kindan-suiri-2nd-season.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "raise-wa-tanin-ga-ii",
-    "epId": "raise-wa-tanin-ga-ii-episode-6",
-    "title": "Raise wa Tanin ga Ii",
-    "img": "https://gogocdn.net/cover/raise-wa-tanin-ga-ii.png",
-    "episode": "Episode 6"
   },
   {
     "id": "bananya-around-the-world",
