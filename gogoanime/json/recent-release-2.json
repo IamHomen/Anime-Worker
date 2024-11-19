@@ -217,13 +217,6 @@
     "episode": "Episode 5"
   },
   {
-    "id": "hokkyoku-hyakkaten-no-concierge-san",
-    "epId": "hokkyoku-hyakkaten-no-concierge-san-episode-1",
-    "title": "Hokkyoku Hyakkaten no Concierge-san",
-    "img": "https://gogocdn.net/cover/hokkyoku-hyakkaten-no-concierge-san.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "yoru-no-kurage-wa-oyogenai-dub",
     "epId": "yoru-no-kurage-wa-oyogenai-dub-episode-9",
     "title": "Yoru no Kurage wa Oyogenai (Dub)",
@@ -2798,5 +2791,12 @@
     "title": "Kaminaki Sekai no Kamisama Katsudou (Dub)",
     "img": "https://gogocdn.net/cover/kaminaki-sekai-no-kamisama-katsudou-dub.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-dub",
+    "epId": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-dub-episode-13",
+    "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (Dub)",
+    "img": "https://gogocdn.net/cover/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-dub.png",
+    "episode": "Episode 13"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "nasu-suitcase-no-wataridori",
+    "epId": "nasu-suitcase-no-wataridori-episode-1",
+    "title": "Nasu: Suitcase no Wataridori",
+    "img": "https://gogocdn.net/cover/nasu-suitcase-no-wataridori.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "hokkyoku-hyakkaten-no-concierge-san",
+    "epId": "hokkyoku-hyakkaten-no-concierge-san-episode-1",
+    "title": "Hokkyoku Hyakkaten no Concierge-san",
+    "img": "https://gogocdn.net/cover/hokkyoku-hyakkaten-no-concierge-san.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "chou-tokkyuu-hikarian",
+    "epId": "chou-tokkyuu-hikarian-episode-1",
+    "title": "Chou Tokkyuu Hikarian",
+    "img": "https://gogocdn.net/cover/chou-tokkyuu-hikarian.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "shin-yaranai-ka",
+    "epId": "shin-yaranai-ka-episode-1",
+    "title": "Shin Yaranai ka",
+    "img": "https://gogocdn.net/cover/shin-yaranai-ka.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "touhai-ura-rate-mahjong-touhai-roku",
     "epId": "touhai-ura-rate-mahjong-touhai-roku-episode-7",
     "title": "Touhai: Ura Rate Mahjong Touhai Roku",
@@ -2770,33 +2798,5 @@
     "title": "F",
     "img": "https://gogocdn.net/cover/f.png",
     "episode": "Episode 31"
-  },
-  {
-    "id": "dead-heat",
-    "epId": "dead-heat-episode-1",
-    "title": "Dead Heat",
-    "img": "https://gogocdn.net/cover/dead-heat.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu",
-    "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-episode-12",
-    "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
-    "img": "https://gogocdn.net/cover/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "ultraman-kids-no-kotowaza-monogatari",
-    "epId": "ultraman-kids-no-kotowaza-monogatari-episode-1",
-    "title": "Ultraman Kids no Kotowaza Monogatari",
-    "img": "https://gogocdn.net/cover/ultraman-kids-no-kotowaza-monogatari.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "shoushimin-series",
-    "epId": "shoushimin-series-episode-10",
-    "title": "Shoushimin Series",
-    "img": "https://gogocdn.net/cover/shoushimin-series.png",
-    "episode": "Episode 10"
   }
 ]
