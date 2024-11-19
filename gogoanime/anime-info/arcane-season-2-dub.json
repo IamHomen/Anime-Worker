@@ -13,8 +13,20 @@
   "otherNames": "Arcane: League of Legends",
   "synopsis": "2nd season of Arcane: League of Legends.",
   "animeImg": "https://gogocdn.net/cover/arcane-season-2-dub.png",
-  "totalEpisodes": "3",
+  "totalEpisodes": "6",
   "episodesList": [
+    {
+      "episodeId": "arcane-season-2-dub-episode-6",
+      "episodeNum": "Episode 6"
+    },
+    {
+      "episodeId": "arcane-season-2-dub-episode-5",
+      "episodeNum": "Episode 5"
+    },
+    {
+      "episodeId": "arcane-season-2-dub-episode-4",
+      "episodeNum": "Episode 4"
+    },
     {
       "episodeId": "arcane-season-2-dub-episode-3",
       "episodeNum": "Episode 3"
