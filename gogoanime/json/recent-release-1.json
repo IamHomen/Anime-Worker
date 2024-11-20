@@ -1,5 +1,12 @@
 [
   {
+    "id": "murai-no-koi",
+    "epId": "murai-no-koi-episode-12",
+    "title": "Murai no Koi",
+    "img": "https://gogocdn.net/cover/murai-no-koi-1725457733.png",
+    "episode": "Episode 12"
+  },
+  {
     "id": "kinnikuman-new-york-kiki-ippatsu",
     "epId": "kinnikuman-new-york-kiki-ippatsu-episode-1",
     "title": "Kinnikuman: New York Kiki Ippatsu!",
@@ -677,13 +684,6 @@
     "title": "Acro Trip",
     "img": "https://gogocdn.net/cover/acro-trip-1727372179.png",
     "episode": "Episode 8"
-  },
-  {
-    "id": "murai-no-koi",
-    "epId": "murai-no-koi-episode-11",
-    "title": "Murai no Koi",
-    "img": "https://gogocdn.net/cover/murai-no-koi-1725457733.png",
-    "episode": "Episode 11"
   },
   {
     "id": "tsui-no-hane",

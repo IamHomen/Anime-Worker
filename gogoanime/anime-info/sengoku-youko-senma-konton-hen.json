@@ -14,8 +14,12 @@
   "otherNames": "Sengoku Youko 2nd Season, \u6226\u56fd\u5996\u72d0 \u5343\u9b54\u6df7\u6c8c\u7de8",
   "synopsis": "Second part of Sengoku Youko.",
   "animeImg": "https://gogocdn.net/cover/sengoku-youko-senma-konton-hen.png",
-  "totalEpisodes": "16",
+  "totalEpisodes": "17",
   "episodesList": [
+    {
+      "episodeId": "sengoku-youko-senma-konton-hen-episode-17",
+      "episodeNum": "Episode 17"
+    },
     {
       "episodeId": "sengoku-youko-senma-konton-hen-episode-16",
       "episodeNum": "Episode 16"
