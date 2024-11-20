@@ -1,5 +1,26 @@
 [
   {
+    "id": "kinnikuman-new-york-kiki-ippatsu",
+    "epId": "kinnikuman-new-york-kiki-ippatsu-episode-1",
+    "title": "Kinnikuman: New York Kiki Ippatsu!",
+    "img": "https://gogocdn.net/cover/kinnikuman-new-york-kiki-ippatsu.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kinnikuman-haresugata-seigi-choujin",
+    "epId": "kinnikuman-haresugata-seigi-choujin-episode-1",
+    "title": "Kinnikuman: Haresugata! Seigi Choujin",
+    "img": "https://gogocdn.net/cover/kinnikuman-haresugata-seigi-choujin.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kinnikuman-no-koutsuu-anzen",
+    "epId": "kinnikuman-no-koutsuu-anzen-episode-1",
+    "title": "Kinnikuman no Koutsuu Anzen",
+    "img": "https://gogocdn.net/cover/kinnikuman-no-koutsuu-anzen.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kinnikuman",
     "epId": "kinnikuman-episode-132",
     "title": "Kinnikuman",
@@ -560,13 +581,6 @@
     "episode": "Episode 7"
   },
   {
-    "id": "mecha-ude-tv",
-    "epId": "mecha-ude-tv-episode-7",
-    "title": "Mecha-ude (TV)",
-    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "dandadan",
     "epId": "dandadan-episode-7",
     "title": "Dandadan",
@@ -840,6 +854,13 @@
     "episode": "Episode 1"
   },
   {
+    "id": "high-card-the-flowers-bloom",
+    "epId": "high-card-the-flowers-bloom-episode-1",
+    "title": "High Card: The Flowers Bloom",
+    "img": "https://gogocdn.net/cover/high-card-the-flowers-bloom.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "shiroi-unabara",
     "epId": "shiroi-unabara-episode-1",
     "title": "Shiroi Unabara",
@@ -970,13 +991,6 @@
     "epId": "thunderbolt-fantasy-touriken-yuuki-4-episode-5",
     "title": "Thunderbolt Fantasy: Touriken Yuuki 4",
     "img": "https://gogocdn.net/cover/thunderbolt-fantasy-touriken-yuuki-4.png",
-    "episode": "Episode 5"
-  },
-  {
-    "id": "hyakushou-kizoku-2nd-season",
-    "epId": "hyakushou-kizoku-2nd-season-episode-5",
-    "title": "Hyakushou Kizoku 2nd Season",
-    "img": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
     "episode": "Episode 5"
   },
   {
@@ -2784,19 +2798,5 @@
     "title": "Shikanoko Nokonoko Koshitantan",
     "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
     "episode": "Episode 12"
-  },
-  {
-    "id": "chinpui-eri-sama-katsudou-daishashin",
-    "epId": "chinpui-eri-sama-katsudou-daishashin-episode-1",
-    "title": "Chinpui: Eri-sama Katsudou Daishashin",
-    "img": "https://gogocdn.net/cover/chinpui-eri-sama-katsudou-daishashin.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "sanjougattai-transformers-go",
-    "epId": "sanjougattai-transformers-go-episode-10",
-    "title": "Sanjougattai Transformers Go!",
-    "img": "https://gogocdn.net/cover/sanjougattai-transformers-go.png",
-    "episode": "Episode 10"
   }
 ]

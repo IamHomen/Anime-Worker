@@ -11868,6 +11868,12 @@
     "date": "2011"
   },
   {
+    "id": "kinnikuman-haresugata-seigi-choujin",
+    "title": "Kinnikuman: Haresugata! Seigi Choujin",
+    "img": "https://gogocdn.net/cover/kinnikuman-haresugata-seigi-choujin.png",
+    "date": "1985"
+  },
+  {
     "id": "mobile-suit-gundam-f91-dub",
     "title": "Mobile Suit Gundam F91 (Dub)",
     "img": "https://gogocdn.net/cover/mobile-suit-gundam-f91-dub.png",
@@ -11902,6 +11908,12 @@
     "title": "Harmony (Dub)",
     "img": "https://gogocdn.net/cover/harmony-dub.png",
     "date": "2015"
+  },
+  {
+    "id": "kinnikuman-new-york-kiki-ippatsu",
+    "title": "Kinnikuman: New York Kiki Ippatsu!",
+    "img": "https://gogocdn.net/cover/kinnikuman-new-york-kiki-ippatsu.png",
+    "date": "1986"
   },
   {
     "id": "lupin-iii-fuuma-ichizoku-no-inbou",
@@ -12870,12 +12882,6 @@
     "date": "2018"
   },
   {
-    "id": "rakudai-majo",
-    "title": "Rakudai Majo",
-    "img": "https://gogocdn.net/cover/rakudai-majo.png",
-    "date": "2023"
-  },
-  {
     "id": "touch-sebangou-no-nai-ace",
     "title": "Touch: Sebangou no Nai Ace",
     "img": "https://gogocdn.net/cover/touch-sebangou-no-nai-ace.png",
@@ -13432,11 +13438,5 @@
     "title": "Cocolors",
     "img": "https://gogocdn.net/cover/cocolors.png",
     "date": "2017"
-  },
-  {
-    "id": "youtai-nuhai-zai-shanghai",
-    "title": "Youtai Nuhai Zai Shanghai",
-    "img": "https://gogocdn.net/cover/youtai-nuhai-zai-shanghai.png",
-    "date": "2010"
   }
 ]
