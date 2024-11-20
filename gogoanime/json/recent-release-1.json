@@ -1,5 +1,19 @@
 [
   {
+    "id": "kinnikuman",
+    "epId": "kinnikuman-episode-132",
+    "title": "Kinnikuman",
+    "img": "https://gogocdn.net/cover/kinnikuman.png",
+    "episode": "Episode 132"
+  },
+  {
+    "id": "rezero-kara-hajimeru-break-time-3rd-season",
+    "epId": "rezero-kara-hajimeru-break-time-3rd-season-episode-7",
+    "title": "Re:Zero kara Hajimeru Break Time 3rd Season",
+    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-break-time-3rd-season.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "tasuuketsu",
     "epId": "tasuuketsu-episode-19",
     "title": "Tasuuketsu",
@@ -26,6 +40,13 @@
     "title": "Youkai Gakkou no Sensei Hajimemashita!",
     "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
     "episode": "Episode 7"
+  },
+  {
+    "id": "flag-directors-edition-issenman-no-kufura-no-kiroku",
+    "epId": "flag-directors-edition-issenman-no-kufura-no-kiroku-episode-1",
+    "title": "Flag Director's Edition: Issenman no Kufura no Kiroku",
+    "img": "https://gogocdn.net/cover/flag-directors-edition-issenman-no-kufura-no-kiroku.png",
+    "episode": "Episode 1"
   },
   {
     "id": "nasu-suitcase-no-wataridori",
@@ -539,6 +560,13 @@
     "episode": "Episode 7"
   },
   {
+    "id": "mecha-ude-tv",
+    "epId": "mecha-ude-tv-episode-7",
+    "title": "Mecha-ude (TV)",
+    "img": "https://gogocdn.net/cover/mecha-ude-tv.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "dandadan",
     "epId": "dandadan-episode-7",
     "title": "Dandadan",
@@ -593,13 +621,6 @@
     "title": "Kamierabi 2nd Season",
     "img": "https://gogocdn.net/cover/kamierabi-2nd-season.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "rezero-kara-hajimeru-break-time-3rd-season",
-    "epId": "rezero-kara-hajimeru-break-time-3rd-season-episode-6",
-    "title": "Re:Zero kara Hajimeru Break Time 3rd Season",
-    "img": "https://gogocdn.net/cover/rezero-kara-hajimeru-break-time-3rd-season.png",
-    "episode": "Episode 6"
   },
   {
     "id": "delicos-nursery",
@@ -819,13 +840,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "high-card-the-flowers-bloom",
-    "epId": "high-card-the-flowers-bloom-episode-1",
-    "title": "High Card: The Flowers Bloom",
-    "img": "https://gogocdn.net/cover/high-card-the-flowers-bloom.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "shiroi-unabara",
     "epId": "shiroi-unabara-episode-1",
     "title": "Shiroi Unabara",
@@ -956,6 +970,13 @@
     "epId": "thunderbolt-fantasy-touriken-yuuki-4-episode-5",
     "title": "Thunderbolt Fantasy: Touriken Yuuki 4",
     "img": "https://gogocdn.net/cover/thunderbolt-fantasy-touriken-yuuki-4.png",
+    "episode": "Episode 5"
+  },
+  {
+    "id": "hyakushou-kizoku-2nd-season",
+    "epId": "hyakushou-kizoku-2nd-season-episode-5",
+    "title": "Hyakushou Kizoku 2nd Season",
+    "img": "https://gogocdn.net/cover/hyakushou-kizoku-2nd-season.png",
     "episode": "Episode 5"
   },
   {
@@ -2777,26 +2798,5 @@
     "title": "Sanjougattai Transformers Go!",
     "img": "https://gogocdn.net/cover/sanjougattai-transformers-go.png",
     "episode": "Episode 10"
-  },
-  {
-    "id": "gokiburi-tachi-no-tasogare",
-    "epId": "gokiburi-tachi-no-tasogare-episode-1",
-    "title": "Gokiburi-tachi no Tasogare",
-    "img": "https://gogocdn.net/cover/gokiburi-tachi-no-tasogare.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "lupin-viii",
-    "epId": "lupin-viii-episode-1",
-    "title": "Lupin VIII",
-    "img": "https://gogocdn.net/cover/lupin-viii.png",
-    "episode": "Episode 1"
-  },
-  {
-    "id": "f",
-    "epId": "f-episode-31",
-    "title": "F",
-    "img": "https://gogocdn.net/cover/f.png",
-    "episode": "Episode 31"
   }
 ]
