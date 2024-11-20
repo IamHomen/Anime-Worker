@@ -1,5 +1,33 @@
 [
   {
+    "id": "tasuuketsu",
+    "epId": "tasuuketsu-episode-19",
+    "title": "Tasuuketsu",
+    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
+    "episode": "Episode 19"
+  },
+  {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-8",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "amagami-san-chi-no-enmusubi",
+    "epId": "amagami-san-chi-no-enmusubi-episode-8",
+    "title": "Amagami-san Chi no Enmusubi",
+    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "youkai-gakkou-no-sensei-hajimemashita",
+    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-7",
+    "title": "Youkai Gakkou no Sensei Hajimemashita!",
+    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
+    "episode": "Episode 7"
+  },
+  {
     "id": "nasu-suitcase-no-wataridori",
     "epId": "nasu-suitcase-no-wataridori-episode-1",
     "title": "Nasu: Suitcase no Wataridori",
@@ -672,13 +700,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "tasuuketsu",
-    "epId": "tasuuketsu-episode-18",
-    "title": "Tasuuketsu",
-    "img": "https://gogocdn.net/cover/tasuuketsu-1726024403.png",
-    "episode": "Episode 18"
-  },
-  {
     "id": "neko-ni-tensei-shita-ojisan",
     "epId": "neko-ni-tensei-shita-ojisan-episode-6",
     "title": "Neko ni Tensei shita Ojisan",
@@ -698,27 +719,6 @@
     "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 130"
-  },
-  {
-    "id": "youkai-gakkou-no-sensei-hajimemashita",
-    "epId": "youkai-gakkou-no-sensei-hajimemashita-episode-6",
-    "title": "Youkai Gakkou no Sensei Hajimemashita!",
-    "img": "https://gogocdn.net/cover/youkai-gakkou-no-sensei-hajimemashita.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "amagami-san-chi-no-enmusubi",
-    "epId": "amagami-san-chi-no-enmusubi-episode-7",
-    "title": "Amagami-san Chi no Enmusubi",
-    "img": "https://gogocdn.net/cover/amagami-san-chi-no-enmusubi-1727372260.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
-    "epId": "rekishi-ni-nokoru-akujo-ni-naru-zo-episode-7",
-    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
-    "img": "https://gogocdn.net/cover/rekishi-ni-nokoru-akujo-ni-naru-zo-1727376849.png",
-    "episode": "Episode 7"
   },
   {
     "id": "magicaltaruruuto-kun",
