@@ -1,5 +1,54 @@
 [
   {
+    "id": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
+    "epId": "goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-8",
+    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "img": "https://gogocdn.net/cover/goukon-ni-ittara-onna-ga-inakatta-hanashi-1727373529.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "tokyo-override",
+    "epId": "tokyo-override-episode-6",
+    "title": "Tokyo Override",
+    "img": "https://gogocdn.net/cover/tokyo-override.png",
+    "episode": "Episode 6"
+  },
+  {
+    "id": "dragon-ball-daima",
+    "epId": "dragon-ball-daima-episode-7",
+    "title": "Dragon Ball Daima",
+    "img": "https://gogocdn.net/cover/dragon-ball-daima.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "sword-art-online-alternative-gun-gale-online-ii",
+    "epId": "sword-art-online-alternative-gun-gale-online-ii-episode-8",
+    "title": "Sword Art Online Alternative: Gun Gale Online II",
+    "img": "https://gogocdn.net/cover/sword-art-online-alternative-gun-gale-online-ii.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "yeosin-gangnim-japanese-dub",
+    "epId": "yeosin-gangnim-japanese-dub-episode-8",
+    "title": "Yeosin Gangnim (Japanese Dub)",
+    "img": "https://gogocdn.net/cover/yeosin-gangnim-japanese-dub.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "kabushikigaisha-magi-lumiere",
+    "epId": "kabushikigaisha-magi-lumiere-episode-8",
+    "title": "Kabushikigaisha Magi-Lumi\u00e8re",
+    "img": "https://gogocdn.net/cover/kabushikigaisha-magi-lumiere.png",
+    "episode": "Episode 8"
+  },
+  {
+    "id": "2-5-jigen-no-ririsa",
+    "epId": "2-5-jigen-no-ririsa-episode-21",
+    "title": "2.5-jigen no Ririsa",
+    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
+    "episode": "Episode 21"
+  },
+  {
     "id": "beyblade-x",
     "epId": "beyblade-x-episode-56",
     "title": "Beyblade X",
@@ -614,48 +663,6 @@
     "title": "The iDOLM@STER Shiny Colors 2nd Season",
     "img": "https://gogocdn.net/cover/the-idolmster-shiny-colors-2nd-season.png",
     "episode": "Episode 7"
-  },
-  {
-    "id": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
-    "epId": "goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-7",
-    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-    "img": "https://gogocdn.net/cover/goukon-ni-ittara-onna-ga-inakatta-hanashi-1727373529.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "dragon-ball-daima",
-    "epId": "dragon-ball-daima-episode-6",
-    "title": "Dragon Ball Daima",
-    "img": "https://gogocdn.net/cover/dragon-ball-daima.png",
-    "episode": "Episode 6"
-  },
-  {
-    "id": "sword-art-online-alternative-gun-gale-online-ii",
-    "epId": "sword-art-online-alternative-gun-gale-online-ii-episode-7",
-    "title": "Sword Art Online Alternative: Gun Gale Online II",
-    "img": "https://gogocdn.net/cover/sword-art-online-alternative-gun-gale-online-ii.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "yeosin-gangnim-japanese-dub",
-    "epId": "yeosin-gangnim-japanese-dub-episode-7",
-    "title": "Yeosin Gangnim (Japanese Dub)",
-    "img": "https://gogocdn.net/cover/yeosin-gangnim-japanese-dub.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "kabushikigaisha-magi-lumiere",
-    "epId": "kabushikigaisha-magi-lumiere-episode-7",
-    "title": "Kabushikigaisha Magi-Lumi\u00e8re",
-    "img": "https://gogocdn.net/cover/kabushikigaisha-magi-lumiere.png",
-    "episode": "Episode 7"
-  },
-  {
-    "id": "2-5-jigen-no-ririsa",
-    "epId": "2-5-jigen-no-ririsa-episode-20",
-    "title": "2.5-jigen no Ririsa",
-    "img": "https://gogocdn.net/cover/2-5-jigen-no-ririsa-1719512728.png",
-    "episode": "Episode 20"
   },
   {
     "id": "bakugan-battle-brawlers-gundalian-invaders",
@@ -2790,13 +2797,6 @@
     "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-12",
     "title": "Ore wa Subete wo ",
     "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "gimai-seikatsu",
-    "epId": "gimai-seikatsu-episode-12",
-    "title": "Gimai Seikatsu",
-    "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
     "episode": "Episode 12"
   }
 ]
