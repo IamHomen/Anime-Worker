@@ -1,5 +1,12 @@
 [
   {
+    "id": "beyblade-x",
+    "epId": "beyblade-x-episode-56",
+    "title": "Beyblade X",
+    "img": "https://gogocdn.net/cover/beyblade-x.png",
+    "episode": "Episode 56"
+  },
+  {
     "id": "yugioh-zexal-special",
     "epId": "yugioh-zexal-special-episode-1",
     "title": "Yu\u2606Gi\u2606Oh! Zexal Special",
@@ -656,13 +663,6 @@
     "title": "Bakugan Battle Brawlers: Gundalian Invaders",
     "img": "https://gogocdn.net/cover/bakugan-battle-brawlers-gundalian-invaders.png",
     "episode": "Episode 31"
-  },
-  {
-    "id": "beyblade-x",
-    "epId": "beyblade-x-episode-55",
-    "title": "Beyblade X",
-    "img": "https://gogocdn.net/cover/beyblade-x.png",
-    "episode": "Episode 55"
   },
   {
     "id": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku",
