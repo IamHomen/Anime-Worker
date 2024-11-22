@@ -1,5 +1,26 @@
 [
   {
+    "id": "yugioh-zexal-special",
+    "epId": "yugioh-zexal-special-episode-1",
+    "title": "Yu\u2606Gi\u2606Oh! Zexal Special",
+    "img": "https://gogocdn.net/cover/yugioh-zexal-special.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "zunda-horizon",
+    "epId": "zunda-horizon-episode-1",
+    "title": "Zunda Horizon",
+    "img": "https://gogocdn.net/cover/zunda-horizon.png",
+    "episode": "Episode 1"
+  },
+  {
+    "id": "kekkon-suru-tte-hontou-desu-ka",
+    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-8",
+    "title": "Kekkon suru tte, Hontou desu ka",
+    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "chiikawa",
     "epId": "chiikawa-episode-119",
     "title": "Chiikawa",
@@ -693,13 +714,6 @@
     "episode": "Episode 2"
   },
   {
-    "id": "kekkon-suru-tte-hontou-desu-ka",
-    "epId": "kekkon-suru-tte-hontou-desu-ka-episode-7",
-    "title": "Kekkon suru tte, Hontou desu ka",
-    "img": "https://gogocdn.net/cover/kekkon-suru-tte-hontou-desu-ka-1727374513.png",
-    "episode": "Episode 7"
-  },
-  {
     "id": "lemon-angel-yj-ban",
     "epId": "lemon-angel-yj-ban-episode-1",
     "title": "Lemon Angel YJ-ban",
@@ -716,7 +730,7 @@
   {
     "id": "milkyhighway",
     "epId": "milkyhighway-episode-1",
-    "title": "Milky\u014c\u015b\u00e5Highway",
+    "title": "Milky\u2606Highway",
     "img": "https://gogocdn.net/cover/milkyhighway.png",
     "episode": "Episode 1"
   },
@@ -772,14 +786,14 @@
   {
     "id": "yugioh-go-rush",
     "epId": "yugioh-go-rush-episode-130",
-    "title": "Yu\u014c\u015b\u00e5Gi\u014c\u015b\u00e5Oh!: Go Rush!!",
+    "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
     "img": "https://gogocdn.net/cover/yugioh-go-rush.png",
     "episode": "Episode 130"
   },
   {
     "id": "magicaltaruruuto-kun",
     "epId": "magicaltaruruuto-kun-episode-80",
-    "title": "Magical\u014c\u015b\u0123Taruruuto-kun",
+    "title": "Magical\u2605Taruruuto-kun",
     "img": "https://gogocdn.net/cover/magicaltaruruuto-kun.png",
     "episode": "Episode 80"
   },
@@ -2783,20 +2797,6 @@
     "epId": "gimai-seikatsu-episode-12",
     "title": "Gimai Seikatsu",
     "img": "https://gogocdn.net/cover/gimai-seikatsu-1719513692.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
-    "epId": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-episode-12",
-    "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
-    "img": "https://gogocdn.net/cover/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "shikanoko-nokonoko-koshitantan",
-    "epId": "shikanoko-nokonoko-koshitantan-episode-12",
-    "title": "Shikanoko Nokonoko Koshitantan",
-    "img": "https://gogocdn.net/cover/shikanoko-nokonoko-koshitantan.png",
     "episode": "Episode 12"
   }
 ]
