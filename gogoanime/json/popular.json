@@ -71580,6 +71580,12 @@
     "date": "1981"
   },
   {
+    "id": "rise-from-the-rubble",
+    "title": "Rise From the Rubble",
+    "img": "https://gogocdn.net/cover/rise-from-the-rubble.png",
+    "date": "2023"
+  },
+  {
     "id": "fire-emblem-dub",
     "title": "Fire Emblem (Dub)",
     "img": "https://gogocdn.net/cover/fire-emblem-dub.jpg",
@@ -71818,6 +71824,12 @@
     "title": "Kanashimi no Belladonna",
     "img": "https://gogocdn.net/cover/kanashimi-no-belladonna.png",
     "date": "1973"
+  },
+  {
+    "id": "zhen-hun-jie-4th-season",
+    "title": "Zhen Hun Jie 4th Season",
+    "img": "https://gogocdn.net/cover/zhen-hun-jie-4th-season.png",
+    "date": "2024"
   },
   {
     "id": "flint-the-time-detective-dub",
@@ -80146,17 +80158,5 @@
     "title": "Compiler Festa",
     "img": "https://gogocdn.net/cover/compiler-festa.png",
     "date": "1995"
-  },
-  {
-    "id": "kyouryuu-shoujo-gauko-dub",
-    "title": "Kyouryuu Shoujo Gauko (Dub)",
-    "img": "https://gogocdn.net/cover/kyouryuu-shoujo-gauko-dub.png",
-    "date": "2019"
-  },
-  {
-    "id": "speed-grapher",
-    "title": "Speed Grapher",
-    "img": "https://gogocdn.net/cover/speed-grapher.png",
-    "date": "2005"
   }
 ]
