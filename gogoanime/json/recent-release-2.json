@@ -1,5 +1,12 @@
 [
   {
+    "id": "tokyo-override-dub",
+    "epId": "tokyo-override-dub-episode-6",
+    "title": "Tokyo Override (Dub)",
+    "img": "https://gogocdn.net/cover/tokyo-override-dub.png",
+    "episode": "Episode 6"
+  },
+  {
     "id": "oshi-no-ko-2nd-season-dub",
     "epId": "oshi-no-ko-2nd-season-dub-episode-11",
     "title": "",
@@ -2791,12 +2798,5 @@
     "title": "Buffett Shenmi Julebu (Dub)",
     "img": "https://gogocdn.net/cover/buffett-shenmi-julebu-dub.png",
     "episode": "Episode 26"
-  },
-  {
-    "id": "kaminaki-sekai-no-kamisama-katsudou-dub",
-    "epId": "kaminaki-sekai-no-kamisama-katsudou-dub-episode-12",
-    "title": "Kaminaki Sekai no Kamisama Katsudou (Dub)",
-    "img": "https://gogocdn.net/cover/kaminaki-sekai-no-kamisama-katsudou-dub.png",
-    "episode": "Episode 12"
   }
 ]
