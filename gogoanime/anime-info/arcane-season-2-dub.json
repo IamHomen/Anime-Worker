@@ -2,7 +2,7 @@
   "animeTitle": "Arcane Season 2 (Dub)",
   "type": "ONA",
   "releasedDate": "2024",
-  "status": "Ongoing",
+  "status": "Completed",
   "genres": [
     "Action",
     "Adventure",
@@ -13,8 +13,20 @@
   "otherNames": "Arcane: League of Legends",
   "synopsis": "2nd season of Arcane: League of Legends.",
   "animeImg": "https://gogocdn.net/cover/arcane-season-2-dub.png",
-  "totalEpisodes": "6",
+  "totalEpisodes": "9",
   "episodesList": [
+    {
+      "episodeId": "arcane-season-2-dub-episode-9",
+      "episodeNum": "Episode 9"
+    },
+    {
+      "episodeId": "arcane-season-2-dub-episode-8",
+      "episodeNum": "Episode 8"
+    },
+    {
+      "episodeId": "arcane-season-2-dub-episode-7",
+      "episodeNum": "Episode 7"
+    },
     {
       "episodeId": "arcane-season-2-dub-episode-6",
       "episodeNum": "Episode 6"

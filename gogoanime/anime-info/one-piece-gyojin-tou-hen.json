@@ -12,8 +12,12 @@
   "otherNames": "One Piece Log: Fish-Man Island Saga, SPECIAL EDITED VERSION\u300eONE PIECE\u300f\u9b5a\u4eba\u5cf6\u7de8",
   "synopsis": "A special edited version of the Fish-Man Island arc from One Piece with an enhanced contemporary visual look.",
   "animeImg": "https://gogocdn.net/cover/one-piece-gyojin-tou-hen.png",
-  "totalEpisodes": "3",
+  "totalEpisodes": "4",
   "episodesList": [
+    {
+      "episodeId": "one-piece-gyojin-tou-hen-episode-4",
+      "episodeNum": "Episode 4"
+    },
     {
       "episodeId": "one-piece-gyojin-tou-hen-episode-3",
       "episodeNum": "Episode 3"
