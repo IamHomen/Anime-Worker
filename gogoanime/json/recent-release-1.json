@@ -1,5 +1,40 @@
 [
   {
+    "id": "fairy-tail-100-years-quest",
+    "epId": "fairy-tail-100-years-quest-episode-20",
+    "title": "Fairy Tail: 100 Years Quest",
+    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
+    "episode": "Episode 20"
+  },
+  {
+    "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
+    "epId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-7",
+    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+    "img": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season.png",
+    "episode": "Episode 7"
+  },
+  {
+    "id": "tennis-no-oujisama-another-story-ii-ano-toki-no-bokura-specials",
+    "epId": "tennis-no-oujisama-another-story-ii-ano-toki-no-bokura-specials-episode-2",
+    "title": "Tennis no Oujisama: Another Story II - Ano Toki no Bokura Specials",
+    "img": "https://gogocdn.net/cover/tennis-no-oujisama-another-story-ii-ano-toki-no-bokura-specials.png",
+    "episode": "Episode 2"
+  },
+  {
+    "id": "the-prince-of-tennis-another-story-ii",
+    "epId": "the-prince-of-tennis-another-story-ii-episode-4",
+    "title": "The Prince of Tennis Another Story II",
+    "img": "https://gogocdn.net/cover/the-prince-of-tennis-another-story-ii.png",
+    "episode": "Episode 4"
+  },
+  {
+    "id": "punirunes-2",
+    "epId": "punirunes-2-episode-8",
+    "title": "Punirunes 2",
+    "img": "https://gogocdn.net/cover/punirunes-2.png",
+    "episode": "Episode 8"
+  },
+  {
     "id": "duel-masters-lost-tsuioku-no-suishou",
     "epId": "duel-masters-lost-tsuioku-no-suishou-episode-2",
     "title": "Duel Masters LOST: Tsuioku no Suishou",
@@ -609,25 +644,11 @@
     "episode": "Episode 8"
   },
   {
-    "id": "fairy-tail-100-years-quest",
-    "epId": "fairy-tail-100-years-quest-episode-19",
-    "title": "Fairy Tail: 100 Years Quest",
-    "img": "https://gogocdn.net/cover/fairy-tail-100-years-quest-1719513557.png",
-    "episode": "Episode 19"
-  },
-  {
     "id": "tatakae-osper",
     "epId": "tatakae-osper-episode-41",
     "title": "Tatakae! Osper",
     "img": "https://gogocdn.net/cover/tatakae-osper.png",
     "episode": "Episode 41"
-  },
-  {
-    "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
-    "epId": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season-episode-6",
-    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
-    "img": "https://gogocdn.net/cover/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season.png",
-    "episode": "Episode 6"
   },
   {
     "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete-specials",
@@ -1475,13 +1496,6 @@
     "title": "Bad Badtz-Maru no Otoko Dokyou no Omoiyari",
     "img": "https://gogocdn.net/cover/bad-badtz-maru-no-otoko-dokyou-no-omoiyari.png",
     "episode": "Episode 1"
-  },
-  {
-    "id": "punirunes-2",
-    "epId": "punirunes-2-episode-3",
-    "title": "Punirunes 2",
-    "img": "https://gogocdn.net/cover/punirunes-2.png",
-    "episode": "Episode 3"
   },
   {
     "id": "uzumaki",
@@ -2783,20 +2797,6 @@
     "epId": "giji-harem-episode-12",
     "title": "Giji Harem",
     "img": "https://gogocdn.net/cover/giji-harem-1719513630.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "tasogare-out-focus",
-    "epId": "tasogare-out-focus-episode-12",
-    "title": "Tasogare Out Focus",
-    "img": "https://gogocdn.net/cover/tasogare-out-focus.png",
-    "episode": "Episode 12"
-  },
-  {
-    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
-    "epId": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-12",
-    "title": "Ore wa Subete wo ",
-    "img": "https://gogocdn.net/cover/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.png",
     "episode": "Episode 12"
   }
 ]
