@@ -1,5 +1,12 @@
 [
   {
+    "id": "fatestrange-fake-dub",
+    "epId": "fatestrange-fake-dub-episode-1",
+    "title": "Fate/strange Fake (Dub)",
+    "img": "https://gogocdn.net/cover/fatestrange-fake-dub.png",
+    "episode": "Episode 1"
+  },
+  {
     "id": "kimi-wa-meido-sama-dub",
     "epId": "kimi-wa-meido-sama-dub-episode-6",
     "title": "Kimi wa Meido-sama. (Dub)",
@@ -700,13 +707,6 @@
     "episode": "Episode 1"
   },
   {
-    "id": "ni-no-kuni-dub",
-    "epId": "ni-no-kuni-dub-episode-1",
-    "title": "Ni no Kuni (Dub)",
-    "img": "https://gogocdn.net/cover/ni-no-kuni-dub.png",
-    "episode": "Episode 1"
-  },
-  {
     "id": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-dub",
     "epId": "isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-dub-episode-12",
     "title": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu (Dub)",
@@ -838,6 +838,13 @@
     "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 (Dub)",
     "img": "https://gogocdn.net/cover/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii-part-2-dub.png",
     "episode": "Episode 12"
+  },
+  {
+    "id": "boruto-naruto-next-generations-dub",
+    "epId": "boruto-naruto-next-generations-dub-episode-293",
+    "title": "Boruto: Naruto Next Generations (Dub)",
+    "img": "https://gogocdn.net/cover/boruto-naruto-next-generations-dub.png",
+    "episode": "Episode 293"
   },
   {
     "id": "bishoujo-senshi-sailor-moon-cosmos-movie-dub",
@@ -1251,13 +1258,6 @@
     "title": "Mai-HiME Specials (Dub)",
     "img": "https://gogocdn.net/cover/mai-hime-specials-dub.png",
     "episode": "Episode 27"
-  },
-  {
-    "id": "hanma-baki-vs-kengan-ashura-dub",
-    "epId": "hanma-baki-vs-kengan-ashura-dub-episode-1",
-    "title": "Hanma Baki vs. Kengan Ashura (Dub)",
-    "img": "https://gogocdn.net/cover/hanma-baki-vs-kengan-ashura-dub.png",
-    "episode": "Episode 1"
   },
   {
     "id": "hanma-baki-vs-kengan-ashura-dub",

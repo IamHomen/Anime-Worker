@@ -10,8 +10,12 @@
   "otherNames": "MF Ghost Season 2, MF\u30b4\u30fc\u30b9\u30c8 2nd Season",
   "synopsis": "Second season of MF Ghost.",
   "animeImg": "https://gogocdn.net/cover/mf-ghost-2nd-season.png",
-  "totalEpisodes": "7",
+  "totalEpisodes": "8",
   "episodesList": [
+    {
+      "episodeId": "mf-ghost-2nd-season-episode-8",
+      "episodeNum": "Episode 8"
+    },
     {
       "episodeId": "mf-ghost-2nd-season-episode-7",
       "episodeNum": "Episode 7"
