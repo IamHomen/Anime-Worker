@@ -88,19 +88,19 @@
     "format": "TV"
   },
   {
-    "id": 30,
-    "title": "Shin Seiki Evangelion",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-wmNoX3m2qTzz.jpg",
-    "seasonYear": 1995,
-    "totalEpisode": 26,
-    "format": "TV"
-  },
-  {
     "id": 154587,
     "title": "Sousou no Frieren",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
     "seasonYear": 2023,
     "totalEpisode": 28,
+    "format": "TV"
+  },
+  {
+    "id": 30,
+    "title": "Shin Seiki Evangelion",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-wmNoX3m2qTzz.jpg",
+    "seasonYear": 1995,
+    "totalEpisode": 26,
     "format": "TV"
   },
   {
