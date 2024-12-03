@@ -200,18 +200,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 2236,
-    "title": "Toki wo Kakeru Shoujo",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2236-SZf9JYAQ3pyc.png",
-    "seasonYear": 2006,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 2890,
     "title": "Gake no Ue no Ponyo",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2890-wcNtFr6aUYOR.jpg",
     "seasonYear": 2008,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 2236,
+    "title": "Toki wo Kakeru Shoujo",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2236-SZf9JYAQ3pyc.png",
+    "seasonYear": 2006,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
