@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 66100,
+      "anime_id": 5709,
+      "anime_title": "Tower of God Season 2: Workshop Battle",
+      "anime_session": "278f6b75-3be5-15e5-ff67-7b642e6fc3bd",
+      "episode": 23,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/f4470cb72c62e599947d65d0fcc9b17be541bcb2030a9a72d52e07010515b4f2.jpg",
+      "disc": "",
+      "session": "37d3887621f31d6527f7d9d8e258ad9ce51d03c7c0a84fd23d89f2896fc83b08",
+      "filler": 0,
+      "created_at": "2024-12-08 15:07:49",
+      "completed": 0
+    },
+    {
+      "id": 66099,
+      "anime_id": 5671,
+      "anime_title": "TsumaSho",
+      "anime_session": "4bdc262b-6b45-3fbf-67e7-75dcccaf1d54",
+      "episode": 11,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/cf2fc39b9bbd714d7c24874589ba34f0b8b53825ed8e64678134eb6e97f15503.jpg",
+      "disc": "",
+      "session": "e0eaead63475a973cbe68d1503260cf10b6f881953b2564082b340866865f28a",
+      "filler": 0,
+      "created_at": "2024-12-08 14:50:36",
+      "completed": 0
+    },
+    {
       "id": 66098,
       "anime_id": 5653,
       "anime_title": "Shangri-La Frontier Season 2",
@@ -166,38 +198,6 @@
       "session": "1b0358ccce29ca9e1fd47ce766405a8d35c50156168520a898939528ae9d5924",
       "filler": 0,
       "created_at": "2024-12-07 17:18:05",
-      "completed": 0
-    },
-    {
-      "id": 66088,
-      "anime_id": 5648,
-      "anime_title": "Blue Lock vs. U-20 Japan",
-      "anime_session": "f3e20f07-69b8-9034-9b76-4259191875bf",
-      "episode": 34,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/d3aefbbb5b512d2b9d81e2aa6818476a8fec434a17ac22cdc6499703cab31e92.jpg",
-      "disc": "",
-      "session": "7ac75d515674c889539cf8e5f2ed58138cfa0c8dacf2159f396d0cb171339191",
-      "filler": 0,
-      "created_at": "2024-12-07 17:13:14",
-      "completed": 0
-    },
-    {
-      "id": 66087,
-      "anime_id": 5679,
-      "anime_title": "Orb: On the Movements of the Earth",
-      "anime_session": "672f9086-5312-1c89-5e4f-b4ea6051c578",
-      "episode": 11,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Netflix",
-      "snapshot": "https://i.animepahe.ru/snapshots/6926baaa0748dc581ee8f352c77c3cc0e53c55c4c417ffb1f0dada4ca2ed8f91.jpg",
-      "disc": "",
-      "session": "935981cf69526c5c2122e9d87fbb1177bc6ff13c21210521fa6d324c20057edc",
-      "filler": 0,
-      "created_at": "2024-12-07 16:09:04",
       "completed": 0
     }
   ]
