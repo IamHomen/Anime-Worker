@@ -1,5 +1,334 @@
 [
   {
+    "mangaId": "26c4a83f-4078-431b-b862-820c452bb278",
+    "title": {
+      "en": "Misoshiru de Kanpai!"
+    },
+    "updatedAt": "2024-11-17T00:32:32+00:00",
+    "coverArt": "https://mangadex.org/covers/26c4a83f-4078-431b-b862-820c452bb278/9c0e0cb7-2b1f-434a-a9ab-8bb79c6c956c.jpg",
+    "altTitles": [
+      {
+        "en": "Let's Have a Toast With Miso Soup!"
+      },
+      {
+        "ja": "\u5473\u564c\u6c41\u3067\u30ab\u30f3\u30d1\u30a4\uff01"
+      },
+      {
+        "ko": "\ubbf8\uc18c\ub41c\uc7a5\uad6d\uc73c\ub85c \uac74\ubc30!"
+      }
+    ],
+    "description": {
+      "en": "Zenichirou is a middle school student raised in a motherless family. His breakfast always consists of onigiri and instant miso soup from the convenience store. Yae, a childhood friend of Zenichirou, cannot stand to see him eat such an innutritious breakfast, so she decides to make him breakfast every morning\u2026  \n  \nThis story conveys a simple message: eating with another person makes miso soup taste more delicious and hearty!"
+    },
+    "status": "completed",
+    "releaseDate": 2015,
+    "contentRating": "safe",
+    "lastVolume": "14",
+    "lastChapter": "84"
+  },
+  {
+    "mangaId": "986fff4e-7ed9-4ad8-9b98-69da338c0ed8",
+    "title": {
+      "en": "Mitsuboshi Colors"
+    },
+    "updatedAt": "2023-07-30T09:17:23+00:00",
+    "coverArt": "https://mangadex.org/covers/986fff4e-7ed9-4ad8-9b98-69da338c0ed8/11e28d85-06f1-42a2-8cfd-6d8782da8ecd.jpg",
+    "altTitles": [
+      {
+        "ja": "\u4e09\u30c4\u661f\u30ab\u30e9\u30fc\u30ba"
+      },
+      {
+        "zh-hk": "\u4e09\u661f\u2605\u2605\u2605colors"
+      }
+    ],
+    "description": {
+      "en": "Hark! The city is in peril! Who you gonna call? Colors! Sacchan, Yui and Kotoha are here to protect the city, solving mysteries and battling enemies with help from their friends. But their quest isn't an easy one as their arch-nemesis Saitou, the violent police officer of Ueno, meets them at every turn.",
+      "pt-br": "A hist\u00f3ria do mang\u00e1 se passa em um certo canto de um certo parque em uma certa \u00e1rea de Ueno, em T\u00f3quio. Neste parque existe a base secreta da \"organiza\u00e7\u00e3o da justi\u00e7a\" chamada \"Colors\". Um grupo de tr\u00eas garotas da escola prim\u00e1ria lidera a \"organiza\u00e7\u00e3o\", e os membros do grupo vigiam o local dia e noite (na verdade apenas at\u00e9 o anoitecer) para proteger a paz da cidade.\n\n[ 1\u00b0 TEMP. DO ANIME ADAPTOU AT\u00c9: Vol. 4, Cap 32. ]"
+    },
+    "status": "completed",
+    "releaseDate": 2014,
+    "contentRating": "safe",
+    "lastVolume": "8",
+    "lastChapter": "72"
+  },
+  {
+    "mangaId": "a71e9594-6269-447f-99fa-3d4c8e1fff6f",
+    "title": {
+      "en": "Hakumei & Mikochi: Tiny Little Life in the Woods"
+    },
+    "updatedAt": "2024-12-07T18:24:45+00:00",
+    "coverArt": "https://mangadex.org/covers/a71e9594-6269-447f-99fa-3d4c8e1fff6f/78dc640c-6db3-4414-a8db-0ba9be8c80b1.jpg",
+    "altTitles": [
+      {
+        "fr": "Minuscule"
+      },
+      {
+        "en": "Hakumei and Mikochi"
+      },
+      {
+        "ru": "\u0425\u0430\u043a\u0443\u043c\u044d\u0439 \u0438 \u041c\u0438\u043a\u043e\u0442\u0438"
+      },
+      {
+        "ja": "\u30cf\u30af\u30e1\u30a4\u3068\u30df\u30b3\u30c1"
+      },
+      {
+        "zh": "\u54c8\u5e93\u6885\u4f0a\u4e0e\u871c\u73c2\u6790"
+      },
+      {
+        "ko": "\ud669\ud63c\uacfc \ubbf8\ucf54\ucc0c"
+      },
+      {
+        "ja-ro": "Hakumei to Mikochi"
+      },
+      {
+        "th": "\u0e2e\u0e32\u0e04\u0e38\u0e40\u0e21\u0e01\u0e31\u0e1a\u0e21\u0e34\u0e42\u0e04\u0e08\u0e34"
+      },
+      {
+        "zh-hk": "\u54c8\u5eab\u6885\u4f0a\u8207\u871c\u73c2\u6790"
+      },
+      {
+        "ja-ro": "Kobito Hiyori"
+      },
+      {
+        "it": "Hakumei e Mikochi"
+      },
+      {
+        "es": "Hakumei y Mikochi"
+      },
+      {
+        "ru": "\u0425\u0430\u043a\u0443\u043c\u044d\u0439 \u0442\u043e \u041c\u0438\u043a\u043e\u0442\u0438"
+      },
+      {
+        "zh": "\u5996\u7cbe\u68ee\u6797\u7684\u5c0f\u4e0d\u70b9"
+      },
+      {
+        "zh-hk": "\u5996\u7cbe\u68ee\u6797\u7684\u5c0f\u4e0d\u9ede"
+      }
+    ],
+    "description": {
+      "en": "Nine centimeters (3.5 inches) tall, the tiny girls Hakumei and Mikochi live in the forest. \nLiving in a house in a tree, riding insects and birds, and making umbrellas out of leaves, they live a happy and comfortable life. \nFollow their tiny but lovely lives as they live their day to day in a fantastic world of inchlings, animals, and strange happenings.  \n  \n**#EverydayHeroes Scans Note:**  \nChapter 39 is next after 34. No chapters were skipped, as we switched to using Harta magazine raws, and the chapters from the magazine use a different numbering system."
+    },
+    "status": "ongoing",
+    "releaseDate": 2011,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477",
+    "title": {
+      "en": "Green WorldZ"
+    },
+    "updatedAt": "2024-11-18T15:16:00+00:00",
+    "coverArt": "https://mangadex.org/covers/098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477/6801d19f-a8d9-40ee-b787-86b53bae6ece.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30b0\u30ea\u30fc\u30f3\u30ef\u30fc\u30eb\u30ba"
+      }
+    ],
+    "description": {
+      "en": "Plants have taken over the planet.  \n  \nIn 2017, the vegetation in Tokyo rose up and toppled human society in moments.  \nThe few survivors are forced to live in the relative safety of a subway network, but supplies are running low.  \nJoin an average high school student named Akira as he challenges the plants in a struggle for survival!"
+    },
+    "status": "completed",
+    "releaseDate": 2013,
+    "contentRating": "suggestive",
+    "lastVolume": "8",
+    "lastChapter": "112"
+  },
+  {
+    "mangaId": "6be9ef87-51cc-4064-b414-630f672b2bc9",
+    "title": {
+      "en": "Three Years Apart"
+    },
+    "updatedAt": "2024-10-11T20:02:23+00:00",
+    "coverArt": "https://mangadex.org/covers/6be9ef87-51cc-4064-b414-630f672b2bc9/0a4a3335-fbd1-4bac-b821-cd9dceaf54d7.jpg",
+    "altTitles": [
+      {
+        "en": "3 Years Apart"
+      },
+      {
+        "en": "3-nen sa"
+      },
+      {
+        "en": "San Nen Sa"
+      },
+      {
+        "en": "Sannensa"
+      },
+      {
+        "en": "\u4e09\u5e74\u5dee"
+      },
+      {
+        "pt-br": "Tr\u00eas anos separados"
+      },
+      {
+        "vi": "C\u00e1ch nhau 3 tu\u1ed5i"
+      }
+    ],
+    "description": {
+      "en": "Mizuki and Kazuya, childhood friends, are 3 years apart.  \nIt's not really a so-called \"Age Gap\" but that makes some distance between them during their youth.  \nFrom their childhood to the present, the story will be told about these two who are 3 years apart.  \n  \n\n\n---\n\n**Links:**  \n- [![](https://i.imgur.com/oiVINmy.png) Artist\u2019s Pixiv](https://www.pixiv.net/member.php?id=596062)  \n- [![](https://i.imgur.com/dQCXZkU.png) Artist\u2019s Twitter](https://twitter.com/shimazakikazumi)"
+    },
+    "status": "completed",
+    "releaseDate": 2018,
+    "contentRating": "safe",
+    "lastVolume": "3",
+    "lastChapter": "74"
+  },
+  {
+    "mangaId": "010a8ee8-847b-44dd-a269-9ac472e9f91a",
+    "title": {
+      "en": "Happiness"
+    },
+    "updatedAt": "2024-10-25T21:28:36+00:00",
+    "coverArt": "https://mangadex.org/covers/010a8ee8-847b-44dd-a269-9ac472e9f91a/d39174a3-c68a-400f-9d5c-3891dd86cfa2.jpg",
+    "altTitles": [
+      {
+        "id": "Kebahagiaan"
+      },
+      {
+        "tr": "Mutluluk"
+      },
+      {
+        "fa": "\u062e\u0648\u0634\u0628\u062e\u062a\u06cc"
+      },
+      {
+        "ja": "\u30cf\u30d4\u30cd\u30b9"
+      },
+      {
+        "ko": "\ud574\ud53c\ub2c8\uc2a4"
+      },
+      {
+        "uk": "\u0429\u0430\u0441\u0442\u044f"
+      },
+      {
+        "ar": "\u0633\u0639\u0627\u062f\u0629"
+      },
+      {
+        "pt-br": "Felicidade"
+      }
+    ],
+    "description": {
+      "ar": "\u0623\u0648\u0643\u0627\u0632\u0627\u0643\u064a \u0645\u0627\u0643\u0648\u062a\u0648 \u062a\u0644\u0645\u064a\u0630 \u0641\u064a \u0627\u0644\u062b\u0627\u0646\u0648\u064a\u0629\u060c \u0647\u062f\u0641 \u0633\u0647\u0644 \u0644\u0644\u0645\u062a\u0646\u0645\u0631\u064a\u0646\u060c \u064a\u0642\u0631\u0631 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0644\u064a\u0627\u0644\u064a \u0625\u0631\u062c\u0627\u0639 \u0634\u0631\u064a\u0637 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0644\u0644\u0645\u062a\u062c\u0631\u060c \u0641\u064a\u0644\u0645\u062d \u0639\u0644\u0649 \u0623\u062d\u062f \u0627\u0644\u0633\u0637\u0648\u062d \u0634\u062e\u0635\u0627\u064f \u0645\u0627 \u0648\u0642\u0628\u0644 \u0623\u0646 \u064a\u0644\u0627\u062d\u0638 \u062d\u062a\u0649\u060c \u0642\u0641\u0632 \u0630\u0644\u0643 \u0627\u0644\u0634\u062e\u0635 \u0645\u0646 \u0623\u0639\u0644\u0649 \u0627\u0644\u0645\u0628\u0646\u0649 \u0639\u0644\u064a\u0647 \u0648 \u0623\u062e\u0630 \u0641\u064a \u0645\u0635 \u062f\u0645\u0647...\u060c \u0645\u0646 \u0630\u0644\u0643 \u0627\u0644\u0634\u062e\u0635\u061f!! \u0645\u0627 \u0627\u0644\u0630\u064a \u0633\u064a\u062d\u062f\u062b \u0644\u0645\u0627\u0643\u0648\u062a\u0648...\u061f .",
+      "en": "Makoto Okazaki is your run of the mill high-schooler, a perfect bullying target and a closet pervert. One night he decides to return a DVD to a friend of his and ventures out into the darkness. He notices a person on a nearby rooftop. The person lunges at him before he is able to make sense of this, and bites into his neck, drinking his blood. The attacker stops. At this point Makoto notices that the attacker is a beautiful girl. She asks him: \"Do you want to die or become like me?\" He decides to live\u2026",
+      "fa": "\u0645\u0627\u06a9\u0648\u062a\u0648 \u0686\u06cc\u0632\u06cc \u0631\u0627 \u062f\u0631 \u062a\u0627\u0631\u06cc\u06a9\u06cc \u0631\u0648\u06cc \u067e\u0634\u062a \u0628\u0627\u0645 \u062e\u0627\u0646\u0647\u200c\u0627\u06cc \u062f\u06cc\u062f. \u062f\u062e\u062a\u0631\u06cc \u0632\u06cc\u0628\u0627 \u0631\u0648\u06cc \u0628\u0647 \u0633\u0645\u062a\u0634 \u0647\u062c\u0648\u0645 \u0628\u0631\u062f \u0648 \u0646\u06cc\u0634\u0634 \u0631\u0627 \u062f\u0631 \u06af\u0644\u0648\u06cc\u0634 \u0641\u0631\u0648 \u06a9\u0631\u062f \u0648 \u062e\u0648\u0646\u0634 \u0631\u0627 \u0646\u0648\u0634\u06cc\u062f. \u0633\u067e\u0633 \u062f\u062e\u062a\u0631 \u0632\u06cc\u0628\u0627 \u0631\u0648\u06cc \u0633\u0631\u0634 \u0631\u0627 \u0646\u0632\u062f\u06cc\u06a9 \u0635\u0648\u0631\u062a \u0645\u0627\u06a9\u0648\u062a\u0648 \u0628\u0631\u062f \u0648 \u067e\u0631\u0633\u06cc\u062f:\u00ab \u0645\u06cc\u062e\u0648\u0627\u06cc \u0628\u0645\u06cc\u0631\u06cc \u06cc\u0627\u2026 \u0645\u06cc\u062e\u0648\u0627\u06cc \u0645\u062b\u0644 \u0645\u0646 \u0628\u0627\u0634\u06cc\u061f\u00bb\u00a0  \n\u062c\u0648\u0627\u0628\u06cc \u06a9\u0647 \u0645\u0627\u06a9\u0648\u062a\u0648 \u062f\u0627\u062f \u0632\u0646\u062f\u06af\u06cc\u200c\u0634 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0647\u0645\u06cc\u0634\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0627\u062f.",
+      "es-la": "Makoto Okazaki es el t\u00edpico chico tonto, el objetivo perfecto de los bravucones; adem\u00e1s de ser el cl\u00e1sico pervertido. Una noche, camino a casa de un amigo para regresar un DVD, divisa una persona en el techo de una casa. Esta persona lo embiste y muerde su cuello, succionando as\u00ed su sangre. Y entonces la atacante, una hermosa chica, le pregunta: \u00ab\u00bfQuieres morir as\u00ed o\u2026 prefieres ser como yo?\u00bb Y Makoto elige la opci\u00f3n que le permitir\u00e1 seguir con vida\u2026",
+      "pt-br": "Makoto Okazaki \u00e9 um estudante comum do ensino m\u00e9dio, um alvo perfeito de bullying e um pervertido enrustido. Uma noite ele decide devolver um DVD a um amigo e se aventura na escurid\u00e3o. Ele percebe uma pessoa em um telhado pr\u00f3ximo. A pessoa ataca ele antes que ele consiga entender isso e morde seu pesco\u00e7o, bebendo seu sangue. O atacante para. Neste ponto Makoto percebe que o agressor \u00e9 uma linda garota. Ela pergunta a ele: \"Voc\u00ea quer morrer ou se tornar como eu?\" Ele decide viver..."
+    },
+    "status": "completed",
+    "releaseDate": 2015,
+    "contentRating": "safe",
+    "lastVolume": "10",
+    "lastChapter": "50"
+  },
+  {
+    "mangaId": "bd84df12-4fd0-4ea1-9082-d4a708f27b67",
+    "title": {
+      "en": "Gal to Bocchi"
+    },
+    "updatedAt": "2024-01-03T01:31:20+00:00",
+    "coverArt": "https://mangadex.org/covers/bd84df12-4fd0-4ea1-9082-d4a708f27b67/1eedcff7-fcf6-4e09-8add-7b01df999de5.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30ae\u30e3\u30eb\u304c\u82e6\u624b\u306a\u30dc\u30c3\u30c1\u5973\u5b50\u306e\u8a71"
+      },
+      {
+        "en": "A Story About a Lone Girl Who's Not Good with Gyarus"
+      },
+      {
+        "ja": "\u30ae\u30e3\u30eb\u3068\u30dc\u30c3\u30c1"
+      },
+      {
+        "ja-ro": "Gyaru ga Nigate na Bocchi Joshi no Hanashi"
+      }
+    ],
+    "description": {
+      "en": "Stone-faced Hina Kawai says she is not good with gyarus... but that's not an impediment for Hayashibara, her classroom's most noticeable gyaru."
+    },
+    "status": "completed",
+    "releaseDate": 2020,
+    "contentRating": "safe",
+    "lastVolume": "2",
+    "lastChapter": "38"
+  },
+  {
+    "mangaId": "fbf326f7-ccbd-4d54-bbad-852d76e46523",
+    "title": {
+      "en": "Revenge of the Baskerville Bloodhound"
+    },
+    "updatedAt": "2024-11-12T21:51:23+00:00",
+    "coverArt": "https://mangadex.org/covers/fbf326f7-ccbd-4d54-bbad-852d76e46523/1084eda4-b6f9-46de-96b8-a3898c4819a0.jpg",
+    "altTitles": [
+      {
+        "ko": "\ucca0\ud608\uac80\uac00 \uc0ac\ub0e5\uac1c\uc758 \ud68c\uadc0"
+      },
+      {
+        "ko-ro": "Cheolhyeolgeomga Sanyanggaeui Hoegwi"
+      },
+      {
+        "en": "Revenge of the Sword Clan's Hound"
+      },
+      {
+        "en": "Revenge of the Iron-Blooded Sword Hound"
+      },
+      {
+        "en": "Regression of the Ironblade Hound"
+      },
+      {
+        "en": "Return of the Iron-Blooded Hound"
+      },
+      {
+        "en": "Return of the Iron-Blooded Sword Hound"
+      },
+      {
+        "en": "The Return of the Iron-Blood Sword Hound"
+      },
+      {
+        "fr": "La revanche du limier des Baskerville"
+      },
+      {
+        "pt-br": "O retorno do c\u00e3o de ca\u00e7a dos Baskerville"
+      },
+      {
+        "pt-br": "A vingan\u00e7a do c\u00e3o de ca\u00e7a de sangue de ferro Baskerville"
+      },
+      {
+        "es": "El perro de metal"
+      },
+      {
+        "es": "La venganza del sabueso de la espada sangrienta"
+      },
+      {
+        "es-la": "La venganza del sabueso de sangre de hierro"
+      },
+      {
+        "th": "\u0e01\u0e32\u0e23\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e02\u0e2d\u0e07\u0e2b\u0e21\u0e32\u0e25\u0e48\u0e32\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e15\u0e23\u0e30\u0e01\u0e39\u0e25\u0e14\u0e32\u0e1a\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e40\u0e2b\u0e25\u0e47\u0e01"
+      },
+      {
+        "ja": "\u56de\u5e30\u3057\u305f\u9244\u8840\u306e\u731f\u72ac"
+      },
+      {
+        "zh": "\u94c1\u8840\u5251\u5bb6\u730e\u72ac\u7684\u56de\u5f52"
+      },
+      {
+        "tr": "Demir kanl\u0131 k\u0131l\u0131\u00e7 taz\u0131s\u0131n\u0131n i\u0307ntikam\u0131"
+      },
+      {
+        "ar": "\u0639\u0648\u062f\u0629 \u0627\u0644\u0643\u0644\u0628 \u0630\u064a \u0627\u0644\u062f\u0645 \u0627\u0644\u062d\u062f\u064a\u062f\u064a"
+      },
+      {
+        "bn": "\u09ac\u09be\u09b8\u09cd\u0995\u09c7\u09b0\u09ad\u09bf\u09b2\u09c7\u09b0 \u09b6\u09bf\u0995\u09be\u09b0\u09c0 \u0995\u09c1\u0995\u09c1\u09b0\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b6\u09cb\u09a7"
+      }
+    ],
+    "description": {
+      "en": "Raised to kill like a pack of loyal hounds, the Baskerville children took countless lives as a band of fearsome assassins.\n\nDespite being the shunned illegitimate son of the brood, Vikir served his family faithfully, only to meet his untimely demise at his father\u2019s hands. But when he is inexplicably reborn with a second chance at life, Vikir, armed with the memories and knowledge of his past, swears to rise above the pack and take his revenge.\n\nThis time, he's ready to bite the hand that feeds."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "a530d911-f535-4ab4-acbf-c090920b27f9",
     "title": {
       "en": "Extra but the Duke's only daughter"
@@ -17,6 +346,147 @@
     "status": "ongoing",
     "releaseDate": null,
     "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "cbf174ca-af25-4410-82fa-498a6df9ad3c",
+    "title": {
+      "en": "BE BLUES ~Ao ni Nare~"
+    },
+    "updatedAt": "2024-10-11T17:40:02+00:00",
+    "coverArt": "https://mangadex.org/covers/cbf174ca-af25-4410-82fa-498a6df9ad3c/793ba37f-6b51-4293-b13c-6e8afa968197.png",
+    "altTitles": [
+      {
+        "en": "Be Blues!"
+      },
+      {
+        "ja-ro": "Be Blues! - Ao ni Nare"
+      },
+      {
+        "ar": "BE BLUES! ~\u0e19\u0e31\u0e01\u0e40\u0e15\u0e30\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e0b\u0e32\u0e21\u0e39\u0e44\u0e23~"
+      },
+      {
+        "zh": "BE BLUES!\uff5e\u5316\u8eab\u4e3a\u9752\uff5e"
+      },
+      {
+        "zh": "BE BLUES!~\u5316\u8eab\u70ba\u9752~"
+      },
+      {
+        "ja": "BE BLUES!\uff5e\u9752\u306b\u306a\u308c\uff5e"
+      },
+      {
+        "ko": "BE BLUES!~\ud30c\ub791\uc218~"
+      },
+      {
+        "ru": "\u0412\u043f\u0435\u0440\u0451\u0434, \u0421\u0438\u043d\u0438\u0435!"
+      },
+      {
+        "ja": "\u30d3\u30fc\u30d6\u30eb\u30fc\u30ba!\u3000\u301c\u3042\u304a\u306b\u306a\u308c\u301c"
+      }
+    ],
+    "description": {
+      "en": "If you're born in Japan and you play football, you'll eventually want to wear the national team uniform! It's the same for everyone! Ichijou Ryuu is a boy whose dream is to become a Japan national team player. With his twin childhood friends, Yuuto and Yuki, their first goal is to win the Japan Under-12 Football Championship!  \nThe excitement of a one-on-one! The tension in front of goal! The elation from pulling off the perfect link up play! The essence of what makes football enjoyable is here.  \n  \nWon the Shogakukan Manga Award for Best Shonen Manga in 2014.  \n\n\n---",
+      "ru": "\u0420\u0438\u044e \u0418\u0447\u0438\u0434\u0436\u043e \u043c\u0430\u043b\u044c\u0447\u0438\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u0435\u0447\u0442\u0430\u0435\u0442 \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443. \u0412\u043c\u0435\u0441\u0442\u0435 \u0441\u043e \u0441\u0432\u043e\u0438\u043c\u0438 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438, \u0431\u0440\u0430\u0442\u044c\u044f\u043c\u0438-\u0431\u043b\u0438\u0437\u043d\u0435\u0446\u0430\u043c\u0438 \u042e\u0442\u043e \u0438 \u042e\u043a\u0438, \u043e\u043d \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0441\u0442\u0440\u0435\u043c\u0438\u0442\u0441\u044f \u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442\u0435 \u043c\u043b\u0430\u0434\u0448\u0435\u0439 \u043b\u0438\u0433\u0438. \u0412 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0448\u043a\u043e\u043b\u0435 \u0435\u0433\u043e \u0441\u0431\u0438\u0432\u0430\u0435\u0442 \u043c\u0430\u0448\u0438\u043d\u0430, \u043a\u043e\u0433\u0434\u0430 \u043e\u043d \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043e\u0442 \u043d\u0435\u0451 \u0441\u0432\u043e\u0435\u0433\u043e \u0434\u0440\u0443\u0433\u0430. \u041f\u043e\u043f\u0430\u0432 \u0432 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0443 \u043d\u0430 2 \u0433\u043e\u0434\u0430, \u0420\u0438\u044e \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0432\u0430\u0435\u0442 \u0436\u0451\u0441\u0442\u043a\u0443\u044e \u0440\u0435\u0430\u0431\u0438\u043b\u0438\u0442\u0430\u0446\u0438\u044e. \u0418 \u0432\u043e\u0442 \u043e\u043d \u043f\u043e\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u0432 \u0441\u0442\u0430\u0440\u0448\u0443\u044e \u0448\u043a\u043e\u043b\u0443 \u0438 \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0435\u0442\u0441\u044f \u043a \u0448\u043a\u043e\u043b\u044c\u043d\u043e\u0439 \u0444\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u043e\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u0435. \u041d\u0430 \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0430\u0445 \u043d\u0435 \u0436\u0430\u043b\u0435\u0435\u0442 \u0441\u0435\u0431\u044f, \u0445\u043e\u0442\u044f \u0442\u0440\u0430\u0432\u043c\u044b \u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u044e\u0442 \u043e \u0441\u0435\u0431\u0435. \u0421\u043c\u043e\u0436\u0435\u0442 \u043b\u0438 \u043e\u043d \u043f\u043e\u043f\u0430\u0441\u0442\u044c \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 \u043c\u0435\u0447\u0442\u044b \u0438\u043b\u0438 \u043e\u043d \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c \u043e\u0431\u044b\u0447\u043d\u044b\u043c \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u043c?",
+      "vi": "Ichijou Ryu l\u00e0 m\u1ed9t c\u1eadu b\u00e9 mang trong m\u00ecnh \u01b0\u1edbc m\u01a1 \u0111\u01b0\u1ee3c kho\u00e1c l\u00ean m\u00ecnh m\u00e0u \u00e1o c\u1ee7a \u0111\u1ed9i tuy\u1ec3n qu\u1ed1c gia Nh\u1eadt B\u1ea3n. C\u00f9ng v\u1edbi hai ng\u01b0\u1eddi b\u1ea1n t\u1eeb thu\u1edf thi\u1ebfu th\u1eddi c\u1ee7a m\u00ecnh l\u00e0 c\u1eb7p song sinh Yuto v\u00e0 Yuki, c\u1ea3 ba ng\u01b0\u1eddi \u0111\u1ec1u h\u1ea1 quy\u1ebft t\u00e2m th\u1ef1c hi\u1ec7n cho b\u1eb1ng \u0111\u01b0\u1ee3c m\u1ee5c ti\u00eau \u0111\u00f3 c\u1ee7a Ichijou Ryu. Tr\u00ean chuy\u1ebfn h\u00e0nh tr\u00ecnh c\u1ee7a m\u00ecnh, Ichijou Ryu \u0111\u00e3 g\u1eb7p ph\u1ea3i nh\u1eefng kh\u00f3 kh\u0103n nh\u01b0ng c\u1eadu v\u1eabn kh\u00f4ng n\u1ea3n ch\u00ed m\u00e0 v\u1eabn ti\u1ebfp t\u1ee5c b\u01b0\u1edbc \u0111i. M\u1ed9t b\u1ed9 manga c\u1ef1c hay v\u1ec1 b\u00f3ng \u0111\u00e1 v\u00e0 nh\u1eefng nh\u00e2n v\u1eadt d\u00e0nh h\u1ebft ni\u1ec1m \u0111am m\u00ea v\u00e0o n\u00f3.  \n\n\n---"
+    },
+    "status": "completed",
+    "releaseDate": 2011,
+    "contentRating": "safe",
+    "lastVolume": "49",
+    "lastChapter": "489"
+  },
+  {
+    "mangaId": "66a4dfe0-09dd-41ab-9be8-e8b837af04fe",
+    "title": {
+      "en": "Waters"
+    },
+    "updatedAt": "2022-03-16T13:30:31+00:00",
+    "coverArt": "https://mangadex.org/covers/66a4dfe0-09dd-41ab-9be8-e8b837af04fe/ca51956f-f16a-466c-af1b-3d39bd5ce801.jpg",
+    "altTitles": [
+      {
+        "ja": "Suiiki"
+      },
+      {
+        "en": "Underwater"
+      },
+      {
+        "ja": "\u6c34\u57df"
+      },
+      {
+        "fr": "Le Village immerg\u00e9"
+      }
+    ],
+    "description": {
+      "en": "In the midst of a blazing hot summer beset by water shortages, middle-school girl Chinami faints from heat exhaustion. Upon waking up, she finds herself in a mysterious town by a beautifully pristine river whose waters hide many secrets\u2026"
+    },
+    "status": "completed",
+    "releaseDate": 2009,
+    "contentRating": "safe",
+    "lastVolume": "2",
+    "lastChapter": "12"
+  },
+  {
+    "mangaId": "e1e38166-20e4-4468-9370-187f985c550e",
+    "title": {
+      "en": "Mato Seihei no Slave"
+    },
+    "updatedAt": "2024-11-22T16:06:26+00:00",
+    "coverArt": "https://mangadex.org/covers/e1e38166-20e4-4468-9370-187f985c550e/78d0c2a9-08fb-4d3c-904a-d9dae23debc7.jpg",
+    "altTitles": [
+      {
+        "en": "Chained Soldier"
+      },
+      {
+        "es": "El esclavo de la \u00e9lite de soldados de Mato"
+      },
+      {
+        "en": "Slave of the Hell Soldiers"
+      },
+      {
+        "en": "Slave of the Magic Capital's Elite Troops"
+      },
+      {
+        "ru": "\u0420\u0430\u0431 \u0441\u043f\u0435\u0446\u043e\u0442\u0440\u044f\u0434\u0430 \u0434\u0435\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0433\u043e\u0440\u043e\u0434\u0430"
+      },
+      {
+        "ja": "\u9b54\u90fd\u7cbe\u5175\u306e\u30b9\u30ec\u30a4\u30d6"
+      },
+      {
+        "zh": "\u9b54\u90fd\u7cbe\u5175\u7684\u5974\u96b6"
+      },
+      {
+        "uk": "\u0420\u0430\u0431 \u0435\u043b\u0456\u0442\u043d\u0438\u0445 \u0432\u0456\u0439\u0441\u044c\u043a \u043c\u0430\u0433\u0456\u0447\u043d\u043e\u0433\u043e \u043c\u0456\u0441\u0442\u0430"
+      },
+      {
+        "fr": "Demon slave"
+      },
+      {
+        "de": "Demon Slave"
+      },
+      {
+        "es": "Demon Slave"
+      },
+      {
+        "tr": "Cehennem Askerlerinin K\u00f6lesi"
+      },
+      {
+        "id": "Budak Korps Elite Kota Iblis"
+      },
+      {
+        "vi": "N\u00f4 l\u1ec7 c\u1ee7a \u0111\u1ed9i tinh nhu\u1ec7 Ma \u0111\u00f4"
+      }
+    ],
+    "description": {
+      "en": "The demon-filled dimension known as \"Mato\" has opened to threaten humanity, and a type of \"peach\" tree that grows there yields fruit that confers special powers to those who eat it, giving humanity a fighting chance, but this only works for women. As such, as protectors of humanity, women rise in social status while men are relegated to second-class citizens scraping for basic occupation and acknowledgment.   \n  \nCue Yuuki Wakura, a domestically crafty and laborious high school senior whose older sister was taken during a Mato event 5 years before; while lamenting the hardships of the life ahead of him, an event opens before him, and while being rescued from demons by Captain Kyouka of the Anti-Demon Corps, she confers him powers as her \"slave\" and turns him into a mighty beast mount that mows down the demons.   \n  \nHowever, there is a surprising price to pay for being her \"slave\"\u2026 and it's not him who has to pay it.",
+      "fr": "La dimension d\u00e9moniaque connue sous le nom de \"Mato\" s'est ouverte pour menacer l'humanit\u00e9, et une sorte de \"p\u00eacher\" qui y pousse donne des fruits qui conf\u00e8rent des pouvoirs sp\u00e9ciaux \u00e0 ceux qui les mangent, donnant \u00e0 l'humanit\u00e9 une chance de se battre, mais cela ne fonctionne que pour les femmes. Ainsi, en tant que protectrices de l'humanit\u00e9, les femmes gagnent en statut social tandis que les hommes sont rel\u00e9gu\u00e9s \u00e0 des citoyens de seconde zone qui se battent pour une occupation et une reconnaissance de base.  \r\n  \r\nCue Yuuki Wakura, une lyc\u00e9enne rus\u00e9e et laborieuse dont la s\u0153ur a\u00een\u00e9e a \u00e9t\u00e9 enlev\u00e9e lors d'un \u00e9v\u00e9nement du Mato 5 ans auparavant ; alors qu'elle se lamente sur les difficult\u00e9s de la vie qui l'attend, un \u00e9v\u00e9nement s'ouvre devant elle, et alors qu'elle est sauv\u00e9e des d\u00e9mons par le capitaine Kyouka du Corps Anti-D\u00e9mon, elle lui conf\u00e8re ses pouvoirs d'\"esclave\" et le transforme en un puissant monticule animal qui fauche les d\u00e9mons.  \r\n  \r\nCependant, il y a un prix surprenant \u00e0 payer pour \u00eatre son \"esclave\"\u2026 et ce n'est pas lui qui doit le payer.  \r\n\r\n\r\n---\r\n\r\n**Links:**  \r\n- [Artist's Twitter](https://twitter.com/takemura4hey/)",
+      "ru": "\u042d\u0442\u0430 \u0431\u043e\u0435\u0432\u0430\u044f \u0444\u0435\u043d\u0442\u0435\u0437\u0438\u0439\u043d\u0430\u044f \u043c\u0430\u043d\u0433\u0430 \u043f\u043e\u0432\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0433\u0435\u0440\u043e\u0438\u043d\u044f\u0445, \u0447\u0442\u043e \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0442 \u043b\u044e\u0434\u0435\u0439 \u0432 \u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u043e\u043c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435, \u0438\u043c\u0435\u043d\u0443\u0435\u043c\u043e\u043c \u041c\u0430\u0442\u043e (\u0413\u043e\u0440\u043e\u0434 \u0414\u0435\u043c\u043e\u043d\u043e\u0432).  \r\n\r\n\r\n---",
+      "vi": "Chi\u1ec1u kh\u00f4ng gian \u0111\u1ea7y qu\u1ef7 d\u1eef \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 \"Ma \u0111\u00f4\" \u0111\u00e3 m\u1edf ra \u0111e d\u1ecda \u0111\u1ed1i v\u1edbi lo\u00e0i ng\u01b0\u1eddi. T\u1ea1i \u0111\u00f3, c\u00f3 m\u1ed9t lo\u00e0i  \"\u0111\u00e0o\" ban cho k\u1ebb \u0103n s\u1ee9c m\u1ea1nh \u0111\u1eb7c bi\u1ec7t, gi\u00fap nh\u00e2n lo\u1ea1i c\u00f3 c\u01a1 h\u1ed9i chi\u1ebfn \u0111\u1ea5u, tuy nhi\u00ean, ch\u1ec9 c\u00f3 n\u1eef gi\u1edbi m\u1edbi c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng th\u1ee9 s\u1ee9c m\u1ea1nh \"tr\u00e1i \u0111\u00e0o\" \u1ea5y. B\u1edfi v\u1eady m\u00e0 ph\u1ee5 n\u1eef tr\u1edf th\u00e0nh nh\u1eefng ng\u01b0\u1eddi b\u1ea3o v\u1ec7 lo\u00e0i ng\u01b0\u1eddi, \u0111\u1ecba v\u1ecb x\u00e3 h\u1ed9i t\u0103ng cao, trong khi nam gi\u1edbi b\u1ecb gi\u00e1ng xu\u1ed1ng t\u1ea7ng l\u1edbp c\u00f4ng d\u00e2n h\u1ea1ng hai, gi\u00e0nh gi\u1eadt nhau nh\u1eefng c\u00f4ng vi\u1ec7c c\u01a1 b\u1ea3n v\u00e0 s\u1ef1 th\u1eeba nh\u1eadn.\n\nNh\u00e2n v\u1eadt ch\u00ednh Yuuki Wakura, m\u1ed9t nam sinh ch\u0103m ch\u1ec9 y\u00eau n\u1ed9i tr\u1ee3, ch\u1ecb g\u00e1i c\u1eadu \u0111\u00e3 b\u1ecb b\u1eaft trong m\u1ed9t s\u1ef1 ki\u1ec7n c\u1ee7a Ma \u0111\u00f4 5 n\u0103m v\u1ec1 tr\u01b0\u1edbc. Khi \u0111ang than th\u1edf v\u1ec1 nh\u1eefng kh\u00f3 kh\u0103n g\u1eb7p ph\u1ea3i, c\u1eadu \u0111\u00e3 b\u1ecb l\u0169 qu\u1ef7 t\u1ea5n c\u00f4ng. Nh\u1edd \u0111\u01b0\u1ee3c \u0111\u1ed9i tr\u01b0\u1edfng Kyouka c\u1ee7a \u0110\u1ed9i ch\u1ed1ng Qu\u1ef7 k\u1ecbp th\u1eddi \u1ee9ng c\u1ee9u, c\u1eadu ch\u1ea5p nh\u1eadn tr\u1edf th\u00e0nh \"n\u00f4 l\u1ec7\" c\u1ee7a c\u00f4 \u0111\u1ec3 c\u00f3 th\u1ec3 s\u1edf h\u1eefu s\u1ee9c m\u1ea1nh ti\u00eau di\u1ec7t b\u1ea7y qu\u1ef7.\n\nB\u1ea5t ng\u1edd thay, vi\u1ec7c l\u00e0m \"n\u00f4 l\u1ec7\" \u0111\u00f2i h\u1ecfi m\u1ed9t c\u00e1i gi\u00e1 t\u01b0\u01a1ng x\u1ee9ng...v\u00e0 ng\u01b0\u1eddi ph\u1ea3i tr\u1ea3 gi\u00e1 l\u1ea1i kh\u00f4ng ph\u1ea3i l\u00e0 c\u1eadu.",
+      "pt-br": "A dimens\u00e3o cheia de dem\u00f4nios conhecida como \"Mato\" se abriu para amea\u00e7ar a humanidade, e uma esp\u00e9cie de \"pessegueiro\" que ali cresce produz frutos que conferem poderes especiais a quem os come, dando \u00e0 humanidade uma chance de lutar, mas isso s\u00f3 funciona para mulheres. Como tal, como protetoras da humanidade, as mulheres ascendem no estatuto social, enquanto os homens s\u00e3o relegados a cidad\u00e3os de segunda classe, em busca de uma ocupa\u00e7\u00e3o b\u00e1sica e de reconhecimento.\n\n Yuuki Wakura \u00e9 um estudante do \u00faltimo ano do ensino m\u00e9dio, astuto e trabalhoso, cuja irm\u00e3 mais velha foi raptada durante um evento em Mato, 5 anos antes; enquanto lamenta as dificuldades da vida que tem pela frente, um evento se abre diante dele, e ao ser resgatado dos dem\u00f4nios pela Capit\u00e3 Kyouka do Corpo Anti-Dem\u00f4nio, ela confere a ele poderes como seu \"escravo\" e o transforma em uma poderosa montaria bestial. que destr\u00f3i os dem\u00f4nios.\n\nNo entanto, h\u00e1 um pre\u00e7o surpreendente a pagar por ele ser seu \u201cescravo\u201d\u2026 e n\u00e3o \u00e9 ele quem tem que pagar."
+    },
+    "status": "ongoing",
+    "releaseDate": 2019,
+    "contentRating": "erotica",
     "lastVolume": "",
     "lastChapter": ""
   },
@@ -78,6 +548,28 @@
     "lastChapter": "206"
   },
   {
+    "mangaId": "9bf55e63-4128-4457-a955-5cdbaf5179c3",
+    "title": {
+      "en": "Off-Nature Museum"
+    },
+    "updatedAt": "2024-12-02T12:48:27+00:00",
+    "coverArt": "https://mangadex.org/covers/9bf55e63-4128-4457-a955-5cdbaf5179c3/d70d03b9-93b8-46b6-b45c-77db3c18a8d5.png",
+    "altTitles": [
+      {
+        "zh": "\u4e0d\u81ea\u7136\u535a\u7269\u9986"
+      }
+    ],
+    "description": {
+      "en": "This museum's treasured collection is a slew of strange comics!",
+      "zh": "\u8fd9\u4e2a\u535a\u7269\u9986\uff0c\u73cd\u85cf\u7740\u8bb8\u591a\u5947\u602a\u7684\u6f2b\u753b\uff01"
+    },
+    "status": "completed",
+    "releaseDate": 2015,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "25"
+  },
+  {
     "mangaId": "449f58e2-3a33-4df5-9d9b-62e867e7f918",
     "title": {
       "en": "Ataerareta Skill wo Tsukatte Kasei de Isekai Bijotachi to Ichaicha shitai"
@@ -112,28 +604,6 @@
     "contentRating": "erotica",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "9bf55e63-4128-4457-a955-5cdbaf5179c3",
-    "title": {
-      "en": "Off-Nature Museum"
-    },
-    "updatedAt": "2024-12-02T12:48:27+00:00",
-    "coverArt": "https://mangadex.org/covers/9bf55e63-4128-4457-a955-5cdbaf5179c3/d70d03b9-93b8-46b6-b45c-77db3c18a8d5.png",
-    "altTitles": [
-      {
-        "zh": "\u4e0d\u81ea\u7136\u535a\u7269\u9986"
-      }
-    ],
-    "description": {
-      "en": "This museum's treasured collection is a slew of strange comics!",
-      "zh": "\u8fd9\u4e2a\u535a\u7269\u9986\uff0c\u73cd\u85cf\u7740\u8bb8\u591a\u5947\u602a\u7684\u6f2b\u753b\uff01"
-    },
-    "status": "completed",
-    "releaseDate": 2015,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "25"
   },
   {
     "mangaId": "a86a2dae-e38a-4603-a518-503db8d5e369",
@@ -202,57 +672,6 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477",
-    "title": {
-      "en": "Green WorldZ"
-    },
-    "updatedAt": "2024-11-18T15:16:00+00:00",
-    "coverArt": "https://mangadex.org/covers/098fbaa8-e4c3-4b6d-9e0a-84ddbcc1e477/6801d19f-a8d9-40ee-b787-86b53bae6ece.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30b0\u30ea\u30fc\u30f3\u30ef\u30fc\u30eb\u30ba"
-      }
-    ],
-    "description": {
-      "en": "Plants have taken over the planet.  \n  \nIn 2017, the vegetation in Tokyo rose up and toppled human society in moments.  \nThe few survivors are forced to live in the relative safety of a subway network, but supplies are running low.  \nJoin an average high school student named Akira as he challenges the plants in a struggle for survival!"
-    },
-    "status": "completed",
-    "releaseDate": 2013,
-    "contentRating": "suggestive",
-    "lastVolume": "8",
-    "lastChapter": "112"
-  },
-  {
-    "mangaId": "66a4dfe0-09dd-41ab-9be8-e8b837af04fe",
-    "title": {
-      "en": "Waters"
-    },
-    "updatedAt": "2022-03-16T13:30:31+00:00",
-    "coverArt": "https://mangadex.org/covers/66a4dfe0-09dd-41ab-9be8-e8b837af04fe/ca51956f-f16a-466c-af1b-3d39bd5ce801.jpg",
-    "altTitles": [
-      {
-        "ja": "Suiiki"
-      },
-      {
-        "en": "Underwater"
-      },
-      {
-        "ja": "\u6c34\u57df"
-      },
-      {
-        "fr": "Le Village immerg\u00e9"
-      }
-    ],
-    "description": {
-      "en": "In the midst of a blazing hot summer beset by water shortages, middle-school girl Chinami faints from heat exhaustion. Upon waking up, she finds herself in a mysterious town by a beautifully pristine river whose waters hide many secrets\u2026"
-    },
-    "status": "completed",
-    "releaseDate": 2009,
-    "contentRating": "safe",
-    "lastVolume": "2",
-    "lastChapter": "12"
   },
   {
     "mangaId": "1c0cc946-ff5b-4374-9ddf-f8872db112e9",
@@ -484,52 +903,6 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "010a8ee8-847b-44dd-a269-9ac472e9f91a",
-    "title": {
-      "en": "Happiness"
-    },
-    "updatedAt": "2024-10-25T21:28:36+00:00",
-    "coverArt": "https://mangadex.org/covers/010a8ee8-847b-44dd-a269-9ac472e9f91a/d39174a3-c68a-400f-9d5c-3891dd86cfa2.jpg",
-    "altTitles": [
-      {
-        "id": "Kebahagiaan"
-      },
-      {
-        "tr": "Mutluluk"
-      },
-      {
-        "fa": "\u062e\u0648\u0634\u0628\u062e\u062a\u06cc"
-      },
-      {
-        "ja": "\u30cf\u30d4\u30cd\u30b9"
-      },
-      {
-        "ko": "\ud574\ud53c\ub2c8\uc2a4"
-      },
-      {
-        "uk": "\u0429\u0430\u0441\u0442\u044f"
-      },
-      {
-        "ar": "\u0633\u0639\u0627\u062f\u0629"
-      },
-      {
-        "pt-br": "Felicidade"
-      }
-    ],
-    "description": {
-      "ar": "\u0623\u0648\u0643\u0627\u0632\u0627\u0643\u064a \u0645\u0627\u0643\u0648\u062a\u0648 \u062a\u0644\u0645\u064a\u0630 \u0641\u064a \u0627\u0644\u062b\u0627\u0646\u0648\u064a\u0629\u060c \u0647\u062f\u0641 \u0633\u0647\u0644 \u0644\u0644\u0645\u062a\u0646\u0645\u0631\u064a\u0646\u060c \u064a\u0642\u0631\u0631 \u0641\u064a \u0623\u062d\u062f \u0627\u0644\u0644\u064a\u0627\u0644\u064a \u0625\u0631\u062c\u0627\u0639 \u0634\u0631\u064a\u0637 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0644\u0644\u0645\u062a\u062c\u0631\u060c \u0641\u064a\u0644\u0645\u062d \u0639\u0644\u0649 \u0623\u062d\u062f \u0627\u0644\u0633\u0637\u0648\u062d \u0634\u062e\u0635\u0627\u064f \u0645\u0627 \u0648\u0642\u0628\u0644 \u0623\u0646 \u064a\u0644\u0627\u062d\u0638 \u062d\u062a\u0649\u060c \u0642\u0641\u0632 \u0630\u0644\u0643 \u0627\u0644\u0634\u062e\u0635 \u0645\u0646 \u0623\u0639\u0644\u0649 \u0627\u0644\u0645\u0628\u0646\u0649 \u0639\u0644\u064a\u0647 \u0648 \u0623\u062e\u0630 \u0641\u064a \u0645\u0635 \u062f\u0645\u0647...\u060c \u0645\u0646 \u0630\u0644\u0643 \u0627\u0644\u0634\u062e\u0635\u061f!! \u0645\u0627 \u0627\u0644\u0630\u064a \u0633\u064a\u062d\u062f\u062b \u0644\u0645\u0627\u0643\u0648\u062a\u0648...\u061f .",
-      "en": "Makoto Okazaki is your run of the mill high-schooler, a perfect bullying target and a closet pervert. One night he decides to return a DVD to a friend of his and ventures out into the darkness. He notices a person on a nearby rooftop. The person lunges at him before he is able to make sense of this, and bites into his neck, drinking his blood. The attacker stops. At this point Makoto notices that the attacker is a beautiful girl. She asks him: \"Do you want to die or become like me?\" He decides to live\u2026",
-      "fa": "\u0645\u0627\u06a9\u0648\u062a\u0648 \u0686\u06cc\u0632\u06cc \u0631\u0627 \u062f\u0631 \u062a\u0627\u0631\u06cc\u06a9\u06cc \u0631\u0648\u06cc \u067e\u0634\u062a \u0628\u0627\u0645 \u062e\u0627\u0646\u0647\u200c\u0627\u06cc \u062f\u06cc\u062f. \u062f\u062e\u062a\u0631\u06cc \u0632\u06cc\u0628\u0627 \u0631\u0648\u06cc \u0628\u0647 \u0633\u0645\u062a\u0634 \u0647\u062c\u0648\u0645 \u0628\u0631\u062f \u0648 \u0646\u06cc\u0634\u0634 \u0631\u0627 \u062f\u0631 \u06af\u0644\u0648\u06cc\u0634 \u0641\u0631\u0648 \u06a9\u0631\u062f \u0648 \u062e\u0648\u0646\u0634 \u0631\u0627 \u0646\u0648\u0634\u06cc\u062f. \u0633\u067e\u0633 \u062f\u062e\u062a\u0631 \u0632\u06cc\u0628\u0627 \u0631\u0648\u06cc \u0633\u0631\u0634 \u0631\u0627 \u0646\u0632\u062f\u06cc\u06a9 \u0635\u0648\u0631\u062a \u0645\u0627\u06a9\u0648\u062a\u0648 \u0628\u0631\u062f \u0648 \u067e\u0631\u0633\u06cc\u062f:\u00ab \u0645\u06cc\u062e\u0648\u0627\u06cc \u0628\u0645\u06cc\u0631\u06cc \u06cc\u0627\u2026 \u0645\u06cc\u062e\u0648\u0627\u06cc \u0645\u062b\u0644 \u0645\u0646 \u0628\u0627\u0634\u06cc\u061f\u00bb\u00a0  \n\u062c\u0648\u0627\u0628\u06cc \u06a9\u0647 \u0645\u0627\u06a9\u0648\u062a\u0648 \u062f\u0627\u062f \u0632\u0646\u062f\u06af\u06cc\u200c\u0634 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0647\u0645\u06cc\u0634\u0647 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0627\u062f.",
-      "es-la": "Makoto Okazaki es el t\u00edpico chico tonto, el objetivo perfecto de los bravucones; adem\u00e1s de ser el cl\u00e1sico pervertido. Una noche, camino a casa de un amigo para regresar un DVD, divisa una persona en el techo de una casa. Esta persona lo embiste y muerde su cuello, succionando as\u00ed su sangre. Y entonces la atacante, una hermosa chica, le pregunta: \u00ab\u00bfQuieres morir as\u00ed o\u2026 prefieres ser como yo?\u00bb Y Makoto elige la opci\u00f3n que le permitir\u00e1 seguir con vida\u2026",
-      "pt-br": "Makoto Okazaki \u00e9 um estudante comum do ensino m\u00e9dio, um alvo perfeito de bullying e um pervertido enrustido. Uma noite ele decide devolver um DVD a um amigo e se aventura na escurid\u00e3o. Ele percebe uma pessoa em um telhado pr\u00f3ximo. A pessoa ataca ele antes que ele consiga entender isso e morde seu pesco\u00e7o, bebendo seu sangue. O atacante para. Neste ponto Makoto percebe que o agressor \u00e9 uma linda garota. Ela pergunta a ele: \"Voc\u00ea quer morrer ou se tornar como eu?\" Ele decide viver..."
-    },
-    "status": "completed",
-    "releaseDate": 2015,
-    "contentRating": "safe",
-    "lastVolume": "10",
-    "lastChapter": "50"
   },
   {
     "mangaId": "58b09ce2-ea05-405e-8e1c-a9361df9bdd9",
@@ -983,6 +1356,44 @@
     },
     "status": "ongoing",
     "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "d65c0332-3764-4c89-84bd-b1a4e7278ad7",
+    "title": {
+      "en": "Kagurabachi"
+    },
+    "updatedAt": "2024-11-18T15:29:18+00:00",
+    "coverArt": "https://mangadex.org/covers/d65c0332-3764-4c89-84bd-b1a4e7278ad7/3b57c7da-d877-4268-8a82-df56a1f9e9ca.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30ab\u30b0\u30e9\u30d0\u30c1"
+      },
+      {
+        "ja-ro": "Kagura-bachi"
+      },
+      {
+        "en": "Kagura Bowl"
+      },
+      {
+        "cs": "Kagurabachi"
+      },
+      {
+        "ru": "\u041a\u0430\u0433\u0443\u0440\u0430\u0431\u0430\u0442\u0438"
+      }
+    ],
+    "description": {
+      "cs": "Mlad\u00fd Chihiro tr\u00e1v\u00ed dny tr\u00e9ninkem pod veden\u00edm sv\u00e9ho slavn\u00e9ho otce kov\u00e1\u0159e. Douf\u00e1, \u017ee jednoho dne s\u00e1m stane slavn\u00fdm kov\u00e1\u0159em me\u010d\u016f. Pra\u0161t\u011bn\u00fd otec a v\u00e1\u017en\u00fd syn \u2013 mysleli si, \u017ee tyto dny budou trvat v\u011b\u010dn\u011b. Najednou v\u0161ak dojde k trag\u00e9dii. Temn\u00fd den pln\u00fd krve. Chihiro a jeho \u010depel nyn\u00ed \u017eij\u00ed jen pro pomstu. Epick\u00e1 bitevn\u00ed akce s katanou!",
+      "en": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge.",
+      "ja": "\u5200\u5320\u3092\u5fd7\u3059\u5c11\u5e74\u30c1\u30d2\u30ed\u306f\u3001\u7236\u306e\u4e0b\u3067\u65e5\u3005\u4fee\u884c\u306b\u52b1\u3093\u3067\u3044\u305f\u3002\u304a\u3061\u3083\u3089\u3051\u305f\u7236\u3068\u5be1\u9ed9\u306a\u606f\u5b50\u3002\u7b11\u3044\u306e\u7d76\u3048\u306a\u3044\u6bce\u65e5\u304c\u3044\u3064\u307e\u3067\u3082\u7d9a\u304f\u3068\u601d\u3063\u3066\u3044\u305f\u304c\u2026\u3042\u308b\u65e5\u60b2\u5287\u304c\u8a2a\u308c\u308b\u2026\u3002\u8840\u5857\u3089\u308c\u305f\u7d46\u3068\u5e30\u3089\u306a\u3044\u65e5\u5e38\u3002\u5c11\u5e74\u306f\u618e\u3057\u307f\u3092\u711a\u3079\u3001\u6c7a\u610f\u306e\u708e\u3092\u5fc3\u306b\u5bbf\u3059\u2026\u3002",
+      "ru": "\u042e\u043d\u044b\u0439 \u0422\u0438\u0445\u0438\u0440\u043e \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442 \u0434\u043d\u0438, \u0442\u0440\u0435\u043d\u0438\u0440\u0443\u044f\u0441\u044c \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e\u043c \u0441\u0432\u043e\u0435\u0433\u043e \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0433\u043e \u043e\u0442\u0446\u0430-\u043c\u0435\u0447\u043d\u0438\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0437\u0434\u0430\u0432\u043d\u0430 \u0438\u0437\u0433\u043e\u0442\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043a\u0430\u0442\u0430\u043d\u044b \u0434\u043b\u044f \u043d\u0430\u0447\u0430\u043b\u0430 \u0438 \u043a\u043e\u043d\u0446\u0430 \u0432\u043e\u0439\u043d. \u041e\u0434\u043d\u0430\u0436\u0434\u044b \u0422\u0438\u0445\u0438\u0440\u043e \u043d\u0430\u0434\u0435\u0435\u0442\u0441\u044f \u0441\u0430\u043c \u0441\u0442\u0430\u0442\u044c \u0432\u0435\u043b\u0438\u043a\u0438\u043c \u043c\u0430\u0441\u0442\u0435\u0440\u043e\u043c \u043c\u0435\u0447\u0435\u0439. \u041b\u0435\u0433\u043a\u043e\u043c\u044b\u0441\u043b\u0435\u043d\u043d\u044b\u0439 \u043e\u0442\u0435\u0446 \u0438 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u044b\u0439 \u0441\u044b\u043d \u2014 \u043e\u043d\u0438 \u0434\u0443\u043c\u0430\u043b\u0438, \u0447\u0442\u043e \u044d\u0442\u0438 \u0441\u043f\u043e\u043a\u043e\u0439\u043d\u044b\u0435 \u0434\u043d\u0438 \u0431\u0443\u0434\u0443\u0442 \u0434\u043b\u0438\u0442\u044c\u0441\u044f \u0432\u0435\u0447\u043d\u043e. \u041d\u043e \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u043e \u0441\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u0442\u0440\u0430\u0433\u0435\u0434\u0438\u044f. \u0422\u0435\u043c\u043d\u044b\u0439 \u0434\u0435\u043d\u044c, \u043f\u0440\u043e\u043f\u0438\u0442\u0430\u043d\u043d\u044b\u0439 \u043a\u0440\u043e\u0432\u044c\u044e. \u0422\u0438\u0445\u0438\u0440\u043e \u0438 \u0435\u0433\u043e \u043a\u043b\u0438\u043d\u043e\u043a \u0442\u0435\u043f\u0435\u0440\u044c \u0436\u0438\u0432\u0443\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0434\u0438 \u043c\u0435\u0441\u0442\u0438...",
+      "tr": "Gen\u00e7 Chihiro g\u00fcnlerini \u00fcnl\u00fc k\u0131l\u0131\u00e7 ustas\u0131 babas\u0131n\u0131n yan\u0131nda e\u011fitim alarak ge\u00e7irmektedir. Bir g\u00fcn kendisi de b\u00fcy\u00fck bir k\u0131l\u0131\u00e7 ustas\u0131 olmay\u0131 ummaktad\u0131r. \u015eap\u015fal baba ve ciddi o\u011ful, bug\u00fcnlerin sonsuza dek s\u00fcrece\u011fini d\u00fc\u015f\u00fcnmektedirler. Ama aniden bir trajedi ya\u015fan\u0131r. Kana bulanm\u0131\u015f karanl\u0131k bir g\u00fcn. Chihiro ve k\u0131l\u0131c\u0131 art\u0131k sadece intikam i\u00e7in ya\u015famaktad\u0131r. Destans\u0131 k\u0131l\u0131\u00e7 sava\u015f\u0131 aksiyonu!",
+      "pt-br": "O jovem Chihiro passa seus dias treinando com seu famoso pai ferreiro. Um dia ele espera se tornar um grande fabricante de espadas. O pai bobo e o filho s\u00e9rio \u2013 eles pensavam que esses dias durariam para sempre. Mas de repente, a trag\u00e9dia acontece. Um dia escuro, encharcado de sangue. Chihiro e sua l\u00e2mina agora vivem apenas para vingan\u00e7a. A\u00e7\u00e3o \u00e9pica de batalha de espadas!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
@@ -1522,291 +1933,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "8d423b7d-d129-4de0-9411-7eec670a097c",
-    "title": {
-      "en": "Officer, Your Tail is Showing"
-    },
-    "updatedAt": "2024-12-02T01:35:46+00:00",
-    "coverArt": "https://mangadex.org/covers/8d423b7d-d129-4de0-9411-7eec670a097c/41a0ce05-3a48-4747-8b70-333a84d03a2e.png",
-    "altTitles": [
-      {
-        "zh": "\u957f\u5b98\uff0c\u4f60\u7684\u5c3e\u5df4\u85cf\u4e0d\u4f4f\u4e86"
-      },
-      {
-        "en": "Officer, You Can No Longer Hide Your Tail"
-      }
-    ],
-    "description": {
-      "en": "In the aftermath of the war, the world's hierarchy had been shaken up and enforced with an iron fist.\nOnce a high-ranking officer among the beastkin, Qing Ti ends up at very bottom\u2014reduced to a mere plaything\u2014and falls into the hands of her nemesis, Chen Xilan.\nJust when people thought Qing Ti would be tormented to the point of wishing for her own death, the game of taming and being tamed had only started to begin."
-    },
-    "status": "ongoing",
-    "releaseDate": null,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "e2871022-0fe3-4942-a190-9f300756b921",
-    "title": {
-      "en": "Vanta Black"
-    },
-    "updatedAt": "2024-11-18T20:05:14+00:00",
-    "coverArt": "https://mangadex.org/covers/e2871022-0fe3-4942-a190-9f300756b921/2cbd72e8-a70d-4cf1-bec7-2fb9bc97f6d4.png",
-    "altTitles": [
-      {
-        "ko": "\ubca4\ud0c0\ube14\ub799"
-      }
-    ],
-    "description": {
-      "en": "\"You've disturbed something that should have been left alone.\"\nLee Shin-hyuk, codenamed \"Ventablack,\" is the Korean leader of \"55\" - an elite special operations unit selected from the world's top black agents. One day, his younger sister Sumin, who dreamed of becoming a K-pop idol trainee, is murdered in South America... and the world tries to cover up this fact.\nAfter abandoning everything to investigate his sister's death, Shin-hyuk confirms that the international drug cartel \"XICA\" is likely behind it. Subsequently, for his revenge, he deliberately approaches his targets by becoming a bodyguard for \"Yoo Chae-won,\" a global K-pop star whom they were originally targeting.\nFinally, he plunges into Brazil's \"Favela\" - a land of death forsaken even by God...",
-      "pt-br": "\"Voc\u00ea mexeu com algo que n\u00e3o devia.\"\n\nShin Hyuk, o l\u00edder coreano da unidade de elite das for\u00e7as especiais \"55\", composta pelos melhores agentes do mundo, fica devastado quando sua irm\u00e3 mais nova, Soo Min, que sonhava em se tornar uma trainee de idol, \u00e9 assassinada na Am\u00e9rica do Sul. O mundo tenta encobrir a verdade. Abandonando tudo para investigar a morte de sua irm\u00e3, Shin Hyuk descobre que o cartel internacional de drogas \"XICA\" \u00e9 o prov\u00e1vel culpado. Em busca de vingan\u00e7a, ele se aproxima deliberadamente da estrela global do K-pop \"Yoo Chae-won\", que era o alvo original deles, como seu guarda-costas. No final, ele mergulha na mortal \"favela\" brasileira, uma terra onde at\u00e9 os deuses viraram as costas..."
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "9afb3424-4a71-4fc9-a3ab-60bb87aa9ed8",
-    "title": {
-      "en": "Tsurenai Kanojo no Hitorijime"
-    },
-    "updatedAt": "2024-10-11T20:38:10+00:00",
-    "coverArt": "https://mangadex.org/covers/9afb3424-4a71-4fc9-a3ab-60bb87aa9ed8/4c2099fb-c075-494d-b7b4-1580718b870d.jpg",
-    "altTitles": [
-      {
-        "ja": "\u3064\u308c\u306a\u3044\u5f7c\u5973\u306e\u3072\u3068\u308a\u3058\u3081"
-      },
-      {
-        "zh": "\u72ec\u5360\u51b7\u6de1\u7684\u5979"
-      },
-      {
-        "ja-ro": "Tsurenai Kanojo no Hitorijime"
-      }
-    ],
-    "description": {
-      "en": "A story of youth and sensuality. A thrilling real high school love story! High schooler Nachi Shinohara is a social butterfly. He can get along with anyone. On the other hand, there's the lone wolf, Takizawa Yuuri. A chance exchange of words leads to a relationship that no one knows about.",
-      "ja": "\u307c\u304f\u3089\u304c\u5473\u308f\u3046\u3001\u9752\u3044\u5b98\u80fd\n\n\u30ce\u30ea\u304c\u826f\u304f\u3066\u30af\u30e9\u30b9\u306e\u4eba\u6c17\u8005\u306e\u7be0\u539f\u6210\u667a\u3068\u3001\u4e00\u5339\u72fc\u306e\u7f8e\u5c11\u5973\u30fb\u6edd\u6ca2\u512a\u51db\u3002\n\u6559\u5ba4\u306e\u7aef\u3068\u7aef\u304f\u3089\u3044\u9060\u304b\u3063\u305f\u3075\u305f\u308a\u3060\u3051\u3069\u3001\u3075\u3068\u3057\u305f\u304d\u3063\u304b\u3051\u3067\u8a00\u8449\u3092\u4ea4\u308f\u3057\u305f\u3053\u3068\u304b\u3089\u3001\u8ab0\u306b\u3082\u79d8\u5bc6\u3067\u4ed8\u304d\u5408\u3046\u3053\u3068\u306b\u2026\uff01\uff01\u3000\n\n\u597d\u304d\u3060\u304b\u3089\u3072\u3068\u308a\u3058\u3081\u3057\u305f\u3044\uff01\n\u3068\u306b\u304b\u304f\u7518\u304f\u3066\u3001\u5c11\u3057\u3060\u3051\u523a\u6fc0\u7684\u306a\u3001\u30ea\u30a2\u30eb\u9ad8\u6821\u751f\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc\uff01",
-      "pt-br": "Shinohara Nachi, \u00e9 um cara popular do ensino m\u00e9dio que se d\u00e1 bem com qualquer uma, mas se sentiu atra\u00eddo por Takizawa Yuuri, uma linda garota solit\u00e1ria. Uma troca casual de palavras leva a um relacionamento que ningu\u00e9m mais conhece."
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "8cc788c2-e988-4288-b351-769e10429905",
-    "title": {
-      "en": "Blade of Retribution"
-    },
-    "updatedAt": "2024-11-14T21:14:40+00:00",
-    "coverArt": "https://mangadex.org/covers/8cc788c2-e988-4288-b351-769e10429905/bc863c2d-1970-457f-ac1b-3cfded24fd91.jpg",
-    "altTitles": [
-      {
-        "ko": "\ud3ed\ub825\uc758 \ub300\uac00"
-      },
-      {
-        "en": "The Cost of Violence"
-      },
-      {
-        "en": "Price of Violence"
-      },
-      {
-        "ru": "\u0426\u0435\u043d\u0430 \u0436\u0435\u0441\u0442\u043e\u043a\u043e\u0441\u0442\u0438"
-      },
-      {
-        "fr": "La lame de la vengeance"
-      }
-    ],
-    "description": {
-      "en": "On the day that Kendo Champion Shiho decided to help out his single mother run a Gukbap restaurant, he received news that his sister, Shiyeon, committed suicide. During the funeral, Shiho realizes that something was wrong. It wasn't a suicide, she was murdered. In order to learn the truth and get revenge for his sister's death, Shiho lifts up his sword once more to begin a war of his own.",
-      "fr": "Le jour o\u00f9 Shiho, champion de kendo d\u00e9cide d\u2019aider sa m\u00e8re c\u00e9libataire \u00e0 tenir un restaurant de gukbap, il apprend que sa s\u0153ur, Shiyeon, s\u2019est suicid\u00e9e. Pendant les fun\u00e9railles, Shiho se rend compte que quelque chose cloche. Ce n\u2019\u00e9tait pas un suicide, elle a \u00e9t\u00e9 assassin\u00e9e. Pour d\u00e9couvrir la v\u00e9rit\u00e9 et venger la mort de sa s\u0153ur, Shiho reprend son sabre et entame sa propre guerre.",
-      "ru": "\u0412 \u0434\u0435\u043d\u044c, \u043a\u043e\u0433\u0434\u0430 \u043c\u0430\u0441\u0442\u0435\u0440 \u043a\u0435\u043d\u0434\u043e \u0428\u0438\u0445\u043e \u0440\u0435\u0448\u0430\u0435\u0442 \u0432\u0441\u0451 \u0431\u0440\u043e\u0441\u0438\u0442\u044c \u0438 \u043f\u043e\u043c\u043e\u0447\u044c \u0441\u0432\u043e\u0435\u0439 \u043c\u0430\u0442\u0435\u0440\u0438-\u043e\u0434\u0438\u043d\u043e\u0447\u043a\u0435 \u0432 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u043c \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0447\u0438\u043a\u043e\u043c, \u043e\u043d \u0443\u0437\u043d\u0430\u0451\u0442 \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u0435\u0433\u043e \u043c\u043b\u0430\u0434\u0448\u0430\u044f \u0441\u0435\u0441\u0442\u0440\u0430 \u0428\u0438\u0451\u043d, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0443\u0447\u0438\u043b\u0430\u0441\u044c \u0432 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0435 \u0421\u0435\u0443\u043b\u0430, \u043f\u043e\u043a\u043e\u043d\u0447\u0438\u043b\u0430 \u0441 \u0441\u043e\u0431\u043e\u0439. \n\u0412\u043e \u0432\u0440\u0435\u043c\u044f \u043f\u043e\u0445\u043e\u0440\u043e\u043d \u0428\u0438\u0445\u043e \u0437\u0430\u043c\u0435\u0447\u0430\u0435\u0442 \u043a\u043e\u0435-\u0447\u0442\u043e \u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0435. \n\u0427\u0442\u043e\u0431\u044b \u0443\u0437\u043d\u0430\u0442\u044c \u043f\u0440\u0430\u0432\u0434\u0443 \u0438 \u043e\u0442\u043e\u043c\u0441\u0442\u0438\u0442\u044c \u0437\u0430 \u0441\u043c\u0435\u0440\u0442\u044c \u0441\u0435\u0441\u0442\u0440\u044b, \u0428\u0438\u0445\u043e \u0441\u043d\u043e\u0432\u0430 \u0431\u0435\u0440\u0451\u0442 \u0432 \u0440\u0443\u043a\u0438 \u0443\u0436\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u044b\u0439 \u043c\u0435\u0447 \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442 \u0441\u0432\u043e\u044e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u0443\u044e \u0432\u043e\u0439\u043d\u0443."
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "f7b7aebe-b98b-49a2-a392-79a58b5d756e",
-    "title": {
-      "en": "Return of a Crazy Genius Composer"
-    },
-    "updatedAt": "2024-11-09T14:46:49+00:00",
-    "coverArt": "https://mangadex.org/covers/f7b7aebe-b98b-49a2-a392-79a58b5d756e/996da07d-8e84-4bdc-a645-06d7d41b2496.jpg",
-    "altTitles": [
-      {
-        "ko": "\ub9dd\ub098\ub2c8 \ucc9c\uc7ac \uc791\uace1\uac00 \ud68c\uadc0\ud558\ub2e4"
-      },
-      {
-        "en": "Return of the Genius Composer"
-      }
-    ],
-    "description": {
-      "en": "Success, fame, family\u2026 In an instant, the genius composer, Min Hyunseung, lost it all. On the brink of death\u2026 he wanted to live a different life, one where all those continuous misfortunes couldn\u2019t just be claimed as karma.\n\n\u201cHow did this happen\u2026?\u201d\n\nHe was given another chance to live."
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "960e28fa-31de-4de0-bd62-a91c0243ed0e",
-    "title": {
-      "en": "Dead Mount Death Play"
-    },
-    "updatedAt": "2024-10-30T13:15:20+00:00",
-    "coverArt": "https://mangadex.org/covers/960e28fa-31de-4de0-bd62-a91c0243ed0e/b3db39c6-0209-40a4-bbb4-a560fa8ae735.jpg",
-    "altTitles": [
-      {
-        "ru": "\u0421\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u043c\u0451\u0440\u0442\u0432\u043e\u0439 \u0433\u043e\u0440\u044b"
-      },
-      {
-        "ja": "\u30c7\u30c3\u30c9\u30de\u30a6\u30f3\u30c8\u30fb\u30c7\u30b9\u30d7\u30ec\u30a4"
-      },
-      {
-        "vi": "Cu\u1ed9c ch\u01a1i tr\u00ean n\u00fai t\u1eed th\u1ea7n"
-      },
-      {
-        "zh": "\u4ea1\u9ab8\u6e38\u620f"
-      },
-      {
-        "zh": "\u5c38\u4f53\u5982\u5c71\u7684\u6b7b\u4ea1\u6e38\u620f"
-      }
-    ],
-    "description": {
-      "en": "A Necromancer called The Corpse God is fighting against the Church, that is trying to subjugate him. Using his last ounce of power against the Calamity Crusher, he gets defeated, but his reincarnation magic activates.  \n Suddenly, he got transported in a world of modern society and in a body of kid Polka Shinoyama. What is gonna happen to him in this world? What will he do?",
-      "ru": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 \u0444\u044d\u043d\u0442\u0435\u0437\u0438-\u043c\u0438\u0440. \u0413\u0435\u0440\u043e\u0439, \u0421\u043e\u043a\u0440\u0443\u0448\u0438\u0442\u0435\u043b\u044c \u0411\u0435\u0434\u0441\u0442\u0432\u0438\u0439 \u0432\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u0432 \u0432\u0435\u043b\u0438\u043a\u0443\u044e \u0431\u0438\u0442\u0432\u0443 \u0441 \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043d\u0435\u043a\u0440\u043e\u043c\u0430\u043d\u0442\u043e\u043c, \u0411\u043e\u0433\u043e\u043c-\u041c\u0435\u0440\u0442\u0432\u0435\u0446\u043e\u043c. \u0418 \u0442\u0443\u0442 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u043a\u0443\u043b\u044c\u043c\u0438\u043d\u0430\u0446\u0438\u0438 \u0432\u0441\u0435\u0433\u043e \u0441\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0411\u043e\u0433-\u041c\u0435\u0440\u0442\u0432\u0435\u0446 \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u0435\u0442 \u043d\u0435\u0432\u0438\u0434\u0430\u043d\u043d\u0443\u044e \u0440\u0430\u043d\u0435\u0435 \u0442\u0435\u0445\u043d\u0438\u043a\u0443. \u0412\u0441\u043f\u044b\u0448\u043a\u0430 \u0441\u0432\u0435\u0442\u0430 \u0438 \u043f\u0443\u0444, \u043d\u0430\u0448 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0433\u0435\u0440\u043e\u0439 \u043f\u0440\u043e\u0441\u044b\u043f\u0430\u0435\u0442\u0441\u044f \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u042f\u043f\u043e\u043d\u0438\u0438. \u0414\u0430 \u0438 \u043e\u043d \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0435 \u043e\u043d, \u0430 \u043a\u0430\u043a\u043e\u0439-\u0442\u043e \u043d\u0435\u043f\u043e\u043d\u044f\u0442\u043d\u044b\u0439 \u043c\u0430\u043b\u044c\u0447\u0438\u0448\u043a\u0430, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u0441\u043e\u0432\u0441\u0435\u043c \u043d\u0435\u0434\u0430\u0432\u043d\u043e \u043f\u0435\u0440\u0435\u0440\u0435\u0437\u0430\u043b\u0438 \u0433\u043b\u043e\u0442\u043a\u0443. \u0422\u0443\u0442 \u0443\u0436\u0435 \u0432\u043f\u043e\u0440\u0443 \u0433\u0430\u0440\u0435\u043c \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c, \u0434\u0430 \u0441\u043f\u0430\u0441\u0430\u0442\u044c \u043c\u0438\u0440 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u0432\u043e\u0438\u0445 \u0441\u0438\u043b, \u0434\u0430 \u0432\u043e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u043d\u2026",
-      "vi": "M\u1ed9t Chi\u00eau h\u1ed3n s\u01b0 \u0111\u01b0\u1ee3c bi\u1ebft \u0111\u1ebfn v\u1edbi c\u00e1i t\u00ean Ch\u00faa t\u1ec3 Th\u00e2y ma \u0111ang chi\u1ebfn \u0111\u00e2u v\u1edbi Gi\u00e1o h\u1ed9i, d\u1eabn \u0111\u1ea7u b\u1edfi Anh h\u00f9ng trong c\u00f4ng cu\u1ed9c ti\u00eau di\u1ec7t h\u1eafn. V\u1edbi m\u1ed9t ch\u00fat ma thu\u1eadt \u00edt \u1ecfi c\u00f2n l\u1ea1i, Ch\u00faa t\u1ec3 Th\u00e2y ma \u0111\u00e3 kh\u00f4ng th\u1ec3 b\u1ea3o to\u00e0n m\u1ea1ng s\u1ed1ng, nh\u01b0ng may m\u1eafn l\u00e0 ph\u00e9p chuy\u1ec3n sinh c\u1ee7a h\u1eafn \u0111\u00e3 \u0111\u01b0\u1ee3c k\u00edch ho\u1ea1t k\u1ecbp l\u00fac.\n\nM\u1edf m\u1eaft ra, Ch\u00faa t\u1ec3 Th\u00e2y ma gi\u1edd \u0111\u00e3 \u1edf m\u1ed9t th\u1ebf gi\u1edbi hi\u1ec7n \u0111\u1ea1i v\u00e0 c\u01a1 th\u1ec3 m\u00e0 h\u1eafn \u0111ang chi\u1ebfm h\u1eefu l\u00e0 c\u1ee7a m\u1ed9t c\u1eadu b\u00e9 t\u00ean Shinoyama Polka. Nh\u1eefng g\u00ec s\u1ebd x\u1ea3y \u0111\u1ebfn v\u1edbi h\u1eafn trong th\u1ebf gi\u1edbi n\u00e0y? V\u00e0 h\u1eafn s\u1ebd l\u00e0m g\u00ec?",
-      "pt-br": "Um necromante chamado \u2018Rei dos Cad\u00e1veres\u2019 est\u00e1 lutando contra a igreja, tentando subjug\u00e1-la. Mas, ao usar \u00faltimo resqu\u00edcio de poder contra o \u2018Destruidor de Calamidades\u2019, ele \u00e9 derrotado, mas sua magia de reencarna\u00e7\u00e3o \u00e9 ativada. Repentinamente ele foi transportado para o mundo da sociedade moderna, tomando o corpo de uma crian\u00e7a chamada Polka Shinoyama. O que ser\u00e1 que vai acontecer com ele nesse mundo?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2017,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "bdf7eb9b-ed05-447b-aa6c-2d4a6652016a",
-    "title": {
-      "en": "Why the Hell Are You Here, Teacher?!"
-    },
-    "updatedAt": "2024-10-23T20:00:08+00:00",
-    "coverArt": "https://mangadex.org/covers/bdf7eb9b-ed05-447b-aa6c-2d4a6652016a/34e90500-5439-4394-9920-756f449b6aa7.jpg",
-    "altTitles": [
-      {
-        "ja": "\u306a\u3093\u3067\u3053\u3053\u306b\u5148\u751f\u304c\uff01\uff1f"
-      },
-      {
-        "ja-ro": "Nande Koko ni Sensei ga!?"
-      },
-      {
-        "ja": "Why the hell are you here, Teacher!?"
-      },
-      {
-        "en": "Why Are You Here, Sensei!?"
-      },
-      {
-        "en": "Why The Hell Are You Here, Sensei!?"
-      },
-      {
-        "en": "Sensei Why Are You Here!?"
-      },
-      {
-        "ru": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0412\u044b \u0437\u0434\u0435\u0441\u044c, \u0443\u0447\u0438\u0442\u0435\u043b\u044c!?"
-      },
-      {
-        "zh-hk": "\u70ba\u4ec0\u9ebc\u8001\u5e2b\u6703\u5728\u9019\u88e1\uff01\uff1f"
-      },
-      {
-        "fr": "Professeure, pourquoi \u00eates-vous l\u00e0 ?!"
-      }
-    ],
-    "description": {
-      "en": "17-year-old Ichirou Satou always happens to find himself in perverted situations with his teacher, Kana Kojima. Follow this erotic love comedy about how student and teacher handle their mishaps.\n\nOriginally started as four oneshot chapters titled \u201cGolden Times\u201d, this manga was later serialized under the title \u201cWhy the Hell Are You Here, Teacher?!\u201d, starring a new pair of teacher-student each volume.",
-      "pt": "Ichirou Satou, de 17 anos, sempre se encontra em situa\u00e7\u00f5es pervertidas com sua professora, Kana Kojima. Siga esta com\u00e9dia amorosa er\u00f3tica sobre como o aluno o professor lidam com os seus acidentes.   \n  \n**Notas:**  \nNande koko ni sensei ga !? Come\u00e7ou como uma s\u00e9rie de quatro cap\u00edtulos intitulados \"Golden Times\".   \nOs prequels do oneshot s\u00e3o inclu\u00eddos como os cap\u00edtulos 1-4 no volume 1 tankobon.   \nSeguindo os cap\u00edtulos, a s\u00e9rie continua com o cap\u00edtulo 5.  \nCada volume do mang\u00e1 \u00e9 focado em um par de estudante-professor diferente.  \n\n\n---\n\n**Links:**  \n- [Author's Twitter](https://twitter.com/soborou01)  \n- [Anime on ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21469)",
-      "pt-br": "Ichirou Satou, de 17 anos, sempre se encontra em situa\u00e7\u00f5es pervertidas com sua professora, Kana Kojima. Siga esta com\u00e9dia amorosa er\u00f3tica sobre como o aluno e a professora lidam com os seus acidentes.   \n  \n**Notas:**  \nNande koko ni sensei ga !? Come\u00e7ou como uma s\u00e9rie de quatro cap\u00edtulos intitulados \"Golden Times\".   \nOs prequels do oneshot s\u00e3o inclu\u00eddos como os cap\u00edtulos 1-4 no volume 1 tankobon.   \nSeguindo os cap\u00edtulos, a s\u00e9rie continua com o cap\u00edtulo 5.  \nCada volume do mang\u00e1 \u00e9 focado em um par de estudante-professor diferente.  \n\n\n---\n\n**Links:**  \n- [Author's Twitter](https://twitter.com/soborou01)  \n- [Anime on ANN](https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21469)"
-    },
-    "status": "completed",
-    "releaseDate": 2018,
-    "contentRating": "erotica",
-    "lastVolume": "12",
-    "lastChapter": "120"
-  },
-  {
-    "mangaId": "b29da26e-39f2-4e64-b96f-62818b209d73",
-    "title": {
-      "en": "Maigo no Onnanoko o Ie Made Todoketara, Genkan kara Detekita no wa Gakunen Ichi no Bishoujo deshita"
-    },
-    "updatedAt": "2024-11-03T15:01:44+00:00",
-    "coverArt": "https://mangadex.org/covers/b29da26e-39f2-4e64-b96f-62818b209d73/3dbdf282-ca6c-4df0-9dea-90dea713c5a4.png",
-    "altTitles": [
-      {
-        "ja": "\u8ff7\u5b50\u306e\u5973\u306e\u5b50\u3092\u5bb6\u307e\u3067\u5c4a\u3051\u305f\u3089\u3001\u7384\u95a2\u304b\u3089\u51fa\u3066\u6765\u305f\u306e\u306f\u5b66\u5e74\u4e00\u306e\u7f8e\u5c11\u5973\u3067\u3057\u305f"
-      },
-      {
-        "ja-ro": "Maigo no Onnanoko wo Ie Made Todoketara, Genkan kara Detekita no wa Gakunen Ichi no Bishoujo deshita"
-      },
-      {
-        "en": "When I Brought a Lost Girl Home, the Most Beautiful Girl in My Grade Came Out the Front Door"
-      },
-      {
-        "en": "She Is the Beautiful Girl in the School Year"
-      },
-      {
-        "vi": "\u0110\u01b0a b\u00e9 g\u00e1i b\u1ecb l\u1ea1c tr\u1edf v\u1ec1, ng\u01b0\u1eddi m\u1edf c\u1eeda l\u00e0 hoa kh\u00f4i c\u1ee7a kh\u1ed1i"
-      }
-    ],
-    "description": {
-      "en": "One day, Kuroda Yusei, an introverted high school student with zero dating experience, returns a lost little girl to her house... when the most beautiful girl in his grade, Shirakawa Ayano, appears! \n\n\"As thanks for saving my sister,\" she begins to approach him boldly for some reason, and every day is filled with mishaps!? On top of that, a busty otaku classmate and an attention-seeking junior girl also appear, and his daily life suddenly becomes more glamorous!? \n\nA school romance comedy where fate changes as you suddenly become close to \"the girl of your dreams\"!",
-      "ja": "\u604b\u611b\u7d4c\u9a13\u30bc\u30ed\u306e\u9670\u30ad\u30e3\u9ad8\u6821\u751f\u30fb\u9ed2\u7530\u96c4\u661f\u304c\u3042\u308b\u65e5\u3001\u8ff7\u5b50\u306b\u306a\u3063\u3066\u3044\u305f\u5e7c\u5973\u3092\u5bb6\u307e\u3067\u5c4a\u3051\u308b\u3068\u2026 \u5b66\u5e74\u4e00\u306e\u7f8e\u5c11\u5973\u30fb\u767d\u6cb3\u7dbe\u4e43\u304c\u51fa\u73fe!!\n\n\u300c\u59b9\u3092\u52a9\u3051\u3066\u304f\u308c\u305f\u304a\u793c\u306b\u300d\u3068\u3001\u306a\u305c\u304b\u5f7c\u5973\u304c\u5927\u80c6\u306b\u8feb\u3063\u3066\u304f\u308b\u3088\u3046\u306b\u306a\u308a\u3001\u6bce\u65e5\u304c\u30cf\u30d7\u30cb\u30f3\u30b0\u72b6\u614b!?\n\u66f4\u306b\u5de8\u4e73\u30aa\u30bf\u30af\u540c\u7d1a\u751f\u3084\u3001\u304b\u307e\u3063\u3066\u3061\u3083\u3093\u306a\u5f8c\u8f29\u5973\u5b50\u3082\u767b\u5834\u3057\u3001\u4e00\u6c17\u306b\u83ef\u3084\u304b\u306a\u65e5\u5e38\u306b\u2015\u2015!?\n\n\u201c\u61a7\u308c\u306e\u3042\u306e\u5b50\u201d\u3068\u6025\u63a5\u8fd1\u3057\u3066\u3001\u904b\u547d\u304c\u5909\u308f\u308b\u5b66\u5712\u30e9\u30d6\u30b3\u30e1\uff01"
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "7a27b83a-002c-41f3-96a6-e57b6cc9a222",
-    "title": {
-      "en": "Satsudou"
-    },
-    "updatedAt": "2024-11-02T12:54:30+00:00",
-    "coverArt": "https://mangadex.org/covers/7a27b83a-002c-41f3-96a6-e57b6cc9a222/bbbc53f2-9abe-4ac6-b6d8-6a480baac4ac.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30b5\u30c4\u30c9\u30a6"
-      },
-      {
-        "en": "The path of murder"
-      },
-      {
-        "vi": "S\u00e1t \u0110\u1ea1o"
-      },
-      {
-        "fr": "La voie du meurtre"
-      },
-      {
-        "ru": "\u041f\u0443\u0442\u044c \u0443\u0431\u0438\u0439\u0446\u044b"
-      }
-    ],
-    "description": {
-      "en": "Akamori Mitsuo wants to be an ordinary salaryman but... He is a genius murderer born into a family that has been practising the ancient art of killing for centuries. Akamori faces obstacles like Yakuza, fighters and gangs in the path that goes to his want.",
-      "fr": "Akamori Mitsuo veut \u00eatre un salari\u00e9 ordinaire mais... C\u2019est un meurtrier de g\u00e9nie n\u00e9 dans une famille qui pratique l\u2019art ancien de tuer depuis des si\u00e8cles. Akamori fait face \u00e0 des obstacles comme Yakuza, des combattants et des gangs sur le chemin qui m\u00e8ne \u00e0 son besoin.",
-      "vi": "M\u1ed9t seri m\u1edbi t\u1eeb t\u00e1c gi\u1ea3 c\u1ee7a Rocopon. Akamori Rikuo, con trai th\u1ee9 6 v\u00e0 l\u00e0 m\u1ed9t v\u00f5 s\u0129 thi\u00ean t\u00e0i trong m\u1ed9t gia t\u1ed9c s\u1edf h\u1eefu m\u00f4n v\u00f5 s\u00e1t nh\u00e2n gia truy\u1ec1n t\u1eeb th\u1eddi xa x\u01b0a. V\u1eady nh\u01b0ng Rikuo l\u1ea1i mu\u1ed1n \u0111\u01b0\u1ee3c tr\u1edf th\u00e0nh m\u1ed9t anh nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng b\u00ecnh th\u01b0\u1eddng v\u00e0 gi\u1edd \u0111\u00e2y cu\u1ed9c s\u1ed1ng c\u1ee7a c\u1eadu s\u1ebd b\u1ecb l\u0169 l\u01b0u manh, \u0111\u00e1m x\u00e3 h\u1ed9i \u0111en v\u00e0 nh\u1eefng tay v\u00f5 s\u0129 kh\u00e1c l\u00e0m \u0111\u1ea3o l\u1ed9n kh\u00f4ng ng\u1eebng."
-    },
-    "status": "cancelled",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "4",
-    "lastChapter": "39"
   }
 ]
