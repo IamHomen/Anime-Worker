@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 66105,
+      "anime_id": 5140,
+      "anime_title": "Chibi Maruko-chan",
+      "anime_session": "bc7e8472-b7ef-70ec-c876-8fb744370fe6",
+      "episode": 138,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "MaruChanSubs",
+      "snapshot": "https://i.animepahe.ru/snapshots/eba97a9a503c40d58b50be8dd773969cb659ff12b224d3dcae9b11fe9c17d8ad.jpg",
+      "disc": "BD",
+      "session": "1e21933791bdf88d11841fda48e5b851f7f850602e5c08919d3a339c1d740b8e",
+      "filler": 0,
+      "created_at": "2024-12-08 20:01:44",
+      "completed": 0
+    },
+    {
       "id": 66104,
       "anime_id": 5673,
       "anime_title": "MF Ghost Season 2",
@@ -182,22 +198,6 @@
       "session": "a2ab4754129546b533756573a6c25149835bedec38d067013bb4853457a1556b",
       "filler": 0,
       "created_at": "2024-12-08 01:37:03",
-      "completed": 0
-    },
-    {
-      "id": 66093,
-      "anime_id": 5660,
-      "anime_title": "You are Ms. Servant.",
-      "anime_session": "94931464-4470-bc79-cb42-7d15b8f51263",
-      "episode": 10,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/201f7220a600a723d12b00d963d720e421ef058d3c1a9be735cbf8d7e9e262c6.jpg",
-      "disc": "",
-      "session": "2adf6e0225580b6662d294361c051f7f7754eacca55b90c9e6da6a21d7d491b6",
-      "filler": 0,
-      "created_at": "2024-12-07 19:51:49",
       "completed": 0
     }
   ]
