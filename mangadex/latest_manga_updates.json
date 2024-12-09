@@ -1,5 +1,59 @@
 [
   {
+    "mangaId": "cd4bc067-d8f0-43e2-8945-6df37fc27dde",
+    "title": {
+      "en": "Cockroa-chan"
+    },
+    "updatedAt": "2024-09-15T02:00:19+00:00",
+    "coverArt": "https://mangadex.org/covers/cd4bc067-d8f0-43e2-8945-6df37fc27dde/8ebdd402-c366-48e9-b686-450a10bb6759.jpg",
+    "altTitles": [
+      {
+        "es-la": "Cucara-chan"
+      },
+      {
+        "ja": "G\u30d6\u30ea\u3061\u3083\u3093"
+      },
+      {
+        "ja-ro": "G-buri chan"
+      }
+    ],
+    "description": {
+      "es-la": "En un mundo donde las apariencias suelen enga\u00f1ar, vive una cucaracha muy especial. Con su aspecto adorable, esta peque\u00f1a cucaracha se destaca entre las dem\u00e1s. A diferencia de sus cong\u00e9neres, a ella le encanta estar cerca de los humanos, a pesar de que no siempre la traten de la mejor manera."
+    },
+    "status": "ongoing",
+    "releaseDate": null,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "0a4915d7-e84e-4d14-b7bf-c14a3a0995e0",
+    "title": {
+      "en": "Confession Attack"
+    },
+    "updatedAt": "2024-07-13T16:55:20+00:00",
+    "coverArt": "https://mangadex.org/covers/0a4915d7-e84e-4d14-b7bf-c14a3a0995e0/a4de6a55-92c6-485a-aeb1-c8cde9feecf5.png",
+    "altTitles": [
+      {
+        "ko": "\uace0\ubc31\uc5b4\ud0dd"
+      },
+      {
+        "ko-ro": "Gobaek Attack"
+      },
+      {
+        "es-la": "Ataque de confesi\u00f3n"
+      }
+    ],
+    "description": {
+      "en": "Hana was never first. Always because Han Geon Woo came in first every time!\nHana would do anything to best Geon Woo, even though she can't figure him out.\nThis time, she tried to shock him by confessing...\nHe believed and accepted the confession though? \nDoes he like me?"
+    },
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": "63"
+  },
+  {
     "mangaId": "7a3ac50c-4ec6-475d-81e7-c96607a7d1f0",
     "title": {
       "en": "Blue Blood Vampire"
@@ -1760,52 +1814,6 @@
       "en": "A vow was made in a place where stars are not visible, to carve one\u2019s own star into that night sky. Promotional comic for the novel."
     },
     "status": "completed",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "8b7af8c8-6e09-4863-81f2-d55dc2ae8815",
-    "title": {
-      "en": "Insomnia"
-    },
-    "updatedAt": "2024-11-29T06:40:30+00:00",
-    "coverArt": "https://mangadex.org/covers/8b7af8c8-6e09-4863-81f2-d55dc2ae8815/e7b85387-ab85-4471-95f9-e85543f8d9fc.jpg",
-    "altTitles": [
-      {
-        "ja": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2"
-      }
-    ],
-    "description": {
-      "en": "20 nights, 20 terrifying stories. Masaya Hokazono tells us the horrific stories he has experienced as well as those that have been told to him. Even in a technologically advanced modern Japan, traditional spirits never cease to torment the living.\n\nIncluded oneshots:\nVolume 1: Hanashicha Ikenai (Don't Tell), Kengai Imouto Kaidan (Out of Bounds: Sister Ghost Story) [Story: Kihara Hirokatsu]",
-      "ja": "\u8d64\u3044\u59b9\u30fb\u30cd\u30c3\u30c8\u306e\u5996\u602a\u30fb\u5b87\u5b99\u4eba\u30fb\u96fb\u8eca\u3092\u5f98\u5f8a\u3059\u308b\u5973\u30fb\u6df1\u591c\u306e\u30b3\u30f3\u30d3\u30cb\u306b\u96c6\u307e\u308b\u4ea1\u8005\u305f\u3061\u304c\u3042\u306a\u305f\u3092\u4eca\u591c\u3082\u201c\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2(\u4e0d\u7720\u75c7)\u201d\u306b\u3059\u308b\uff01\n\n\u5916\u8597\u660c\u4e5f\u5f85\u671b\u306e\u30db\u30e9\u30fc\u77ed\u7de8\u96c6!"
-    },
-    "status": "completed",
-    "releaseDate": 2011,
-    "contentRating": "safe",
-    "lastVolume": "2",
-    "lastChapter": "22"
-  },
-  {
-    "mangaId": "fa8936b6-52f2-4392-a3ad-fc17a19a796d",
-    "title": {
-      "en": "Mr. Magical Girl"
-    },
-    "updatedAt": "2024-12-09T03:13:30+00:00",
-    "coverArt": "https://mangadex.org/covers/fa8936b6-52f2-4392-a3ad-fc17a19a796d/247a7cec-8a62-4a23-981f-7920c5b2aa33.jpg",
-    "altTitles": [
-      {
-        "ko": "\ub9c8\ubc95\uc18c\ub140 \uc544\uc800\uc528"
-      },
-      {
-        "en": "Magical Girl Ajussi"
-      }
-    ],
-    "description": {
-      "en": "202X.\n\nIn the back alleys of Seoul, South Korea\u2026 He looked down at the heroes under his feet\u2014the heroes who adorned themselves in a variety of colorful clothes, as if they were K-pop idols on TV. Those heroes? They were crawling beneath him, their gaudy outfits smeared with dirt. That was the true nature of being a hero. He hoped the individuals before him learned that lesson well. It was time to ensure they never forgot it. As a magical girl, he swung his hammer down. This is a bright story. The story of a man reclaiming his light."
-    },
-    "status": "ongoing",
     "releaseDate": 2024,
     "contentRating": "safe",
     "lastVolume": "",
