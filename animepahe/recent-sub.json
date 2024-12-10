@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 66141,
+      "anime_id": 5596,
+      "anime_title": "Tasuketsu: Fate of the Majority",
+      "anime_session": "3a23927d-7ec7-3609-0618-cc0169a9d5e4",
+      "episode": 22,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/b80aed474983ce3691c866f66d4617af22e5f99581af7f0b34aac79d3d1cb34a.jpg",
+      "disc": "",
+      "session": "e682cc2e978511077dee1033108836df555f3fe496f5f074cdce192025ff382e",
+      "filler": 0,
+      "created_at": "2024-12-10 20:11:03",
+      "completed": 0
+    },
+    {
       "id": 66140,
       "anime_id": 5830,
       "anime_title": "Komada: A Whisky Family",
@@ -182,22 +198,6 @@
       "session": "80705d8e86cd2d5053cb3f53c0eb32ea851b69b54b9b697f4528d4d867809108",
       "filler": 0,
       "created_at": "2024-12-09 16:06:49",
-      "completed": 0
-    },
-    {
-      "id": 66110,
-      "anime_id": 5665,
-      "anime_title": "Yakuza Fianc\u00e9: Raise wa Tanin ga Ii",
-      "anime_session": "0fc90d12-eb32-aa0b-a3ce-55b7360ec8ab",
-      "episode": 10,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/3daa8c95b5d5c64172fb3f9ec0df947582edeab345226813c9d90f842de1a56e.jpg",
-      "disc": "",
-      "session": "7de20aad98346bd87ee68fe42a077892ed569c5f6149efb855b1e76696687f44",
-      "filler": 0,
-      "created_at": "2024-12-09 15:52:17",
       "completed": 0
     }
   ]
