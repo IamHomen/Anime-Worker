@@ -8,6 +8,14 @@
     "format": "TV"
   },
   {
+    "id": 176508,
+    "title": "Shangri-La Frontier 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
+    "seasonYear": 2024,
+    "totalEpisode": 25,
+    "format": "TV"
+  },
+  {
     "id": 163146,
     "title": "Blue Lock VS. U-20 JAPAN",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-f2vYhmiGn6dM.png",
@@ -40,14 +48,6 @@
     "format": "TV"
   },
   {
-    "id": 174043,
-    "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 163135,
     "title": "Maou 2099",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163135-NjvXyXvTYSHH.jpg",
@@ -56,11 +56,11 @@
     "format": "TV"
   },
   {
-    "id": 185736,
-    "title": "Vigilante: Boku no Hero Academia ILLEGALS",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-R64icHXPnDsz.jpg",
-    "seasonYear": 2025,
-    "totalEpisode": null,
+    "id": 174043,
+    "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174043-Hh9mvGibvoVb.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -72,11 +72,11 @@
     "format": "TV"
   },
   {
-    "id": 185660,
-    "title": "Dandadan 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185660-4AlO6t78Bp3j.png",
-    "seasonYear": 2025,
-    "totalEpisode": null,
+    "id": 139095,
+    "title": "FAIRY TAIL: 100 YEARS QUEST",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 25,
     "format": "TV"
   },
   {
@@ -84,6 +84,22 @@
     "title": "ONE PIECE",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg",
     "seasonYear": 1999,
+    "totalEpisode": null,
+    "format": "TV"
+  },
+  {
+    "id": 185736,
+    "title": "Vigilante: Boku no Hero Academia ILLEGALS",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-R64icHXPnDsz.jpg",
+    "seasonYear": 2025,
+    "totalEpisode": null,
+    "format": "TV"
+  },
+  {
+    "id": 185660,
+    "title": "Dandadan 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185660-4AlO6t78Bp3j.png",
+    "seasonYear": 2025,
     "totalEpisode": null,
     "format": "TV"
   },
@@ -96,6 +112,22 @@
     "format": "TV"
   },
   {
+    "id": 170942,
+    "title": "Ao no Hako",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 25,
+    "format": "ONA"
+  },
+  {
+    "id": 170083,
+    "title": "Dragon Ball DAIMA",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": null,
+    "format": "TV"
+  },
+  {
     "id": 176311,
     "title": "Ao no Exorcist: Yuki no Hate-hen",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-OZudERHrpJJ0.jpg",
@@ -104,19 +136,11 @@
     "format": "TV"
   },
   {
-    "id": 171627,
-    "title": "Chainsaw Man: Reze-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-6m1t9Y5JPE9u.jpg",
-    "seasonYear": null,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
-    "id": 170083,
-    "title": "Dragon Ball DAIMA",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg",
+    "id": 183423,
+    "title": "ONE PIECE: Gyojin Tou-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
     "seasonYear": 2024,
-    "totalEpisode": null,
+    "totalEpisode": 21,
     "format": "TV"
   },
   {
@@ -128,20 +152,20 @@
     "format": "ONA"
   },
   {
-    "id": 170942,
-    "title": "Ao no Hako",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 25,
-    "format": "ONA"
+    "id": 269,
+    "title": "BLEACH",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
+    "seasonYear": 2004,
+    "totalEpisode": 366,
+    "format": "TV"
   },
   {
-    "id": 167141,
-    "title": "Sword Art Online Alternative: Gun Gale Online II",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-m8eOYiDpeN4R.jpg",
+    "id": 177104,
+    "title": "Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
-    "format": "TV"
+    "format": "ONA"
   },
   {
     "id": 165790,
@@ -149,6 +173,38 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165790-OwIZI9ArGR4Q.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 171627,
+    "title": "Chainsaw Man: Reze-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-6m1t9Y5JPE9u.jpg",
+    "seasonYear": null,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 169931,
+    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "ONA"
+  },
+  {
+    "id": 153406,
+    "title": "Kami no Tou: Tower of God 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 26,
+    "format": "TV"
+  },
+  {
+    "id": 185657,
+    "title": "Skip to Loafer 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185657-A0aog1C8G3OF.jpg",
+    "seasonYear": null,
+    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -160,11 +216,19 @@
     "format": "TV"
   },
   {
-    "id": 269,
-    "title": "BLEACH",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
-    "seasonYear": 2004,
-    "totalEpisode": 366,
+    "id": 173693,
+    "title": "Hitoribocchi no Isekai Kouryaku",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "ONA"
+  },
+  {
+    "id": 178434,
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -176,27 +240,19 @@
     "format": null
   },
   {
-    "id": 177104,
-    "title": "Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "ONA"
-  },
-  {
-    "id": 183423,
-    "title": "ONE PIECE: Gyojin Tou-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 21,
+    "id": 176496,
+    "title": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-xCNtU4llsUpu.png",
+    "seasonYear": 2025,
+    "totalEpisode": null,
     "format": "TV"
   },
   {
-    "id": 153406,
-    "title": "Kami no Tou: Tower of God 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg",
+    "id": 167141,
+    "title": "Sword Art Online Alternative: Gun Gale Online II",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-m8eOYiDpeN4R.jpg",
     "seasonYear": 2024,
-    "totalEpisode": 26,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -208,99 +264,11 @@
     "format": "TV"
   },
   {
-    "id": 154587,
-    "title": "Sousou no Frieren",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
-    "seasonYear": 2023,
-    "totalEpisode": 28,
-    "format": "TV"
-  },
-  {
-    "id": 11061,
-    "title": "HUNTER\u00d7HUNTER (2011)",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
-    "seasonYear": 2011,
-    "totalEpisode": 148,
-    "format": "TV"
-  },
-  {
-    "id": 179919,
-    "title": "NegaPosi Angler",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179919-KLuGsnqnhkPb.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 175019,
     "title": "Nageki no Bourei wa Intai Shitai",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg",
     "seasonYear": 2024,
     "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
-    "id": 170468,
-    "title": "Raise wa Tanin ga Ii",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170468-kD2X9O2XM9KH.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 177709,
-    "title": "SAKAMOTO DAYS",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-jBQ965JZG0l8.png",
-    "seasonYear": 2025,
-    "totalEpisode": null,
-    "format": "ONA"
-  },
-  {
-    "id": 176508,
-    "title": "Shangri-La Frontier 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
-    "seasonYear": 2024,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
-    "id": 1735,
-    "title": "NARUTO: Shippuuden",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png",
-    "seasonYear": 2007,
-    "totalEpisode": 500,
-    "format": "TV"
-  },
-  {
-    "id": 173693,
-    "title": "Hitoribocchi no Isekai Kouryaku",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "ONA"
-  },
-  {
-    "id": 169931,
-    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "ONA"
-  },
-  {
-    "id": 158559,
-    "title": "2.5 Jigen no Ririsa",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158559-eVc9cNSmcUix.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
-    "id": 176496,
-    "title": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-xCNtU4llsUpu.png",
-    "seasonYear": 2025,
-    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -312,6 +280,14 @@
     "format": "TV"
   },
   {
+    "id": 158559,
+    "title": "2.5 Jigen no Ririsa",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158559-eVc9cNSmcUix.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
     "id": 151807,
     "title": "Ore dake Level Up na Ken",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png",
@@ -320,81 +296,105 @@
     "format": "TV"
   },
   {
-    "id": 141182,
-    "title": "Seirei Gensouki 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg",
+    "id": 1735,
+    "title": "NARUTO: Shippuuden",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png",
+    "seasonYear": 2007,
+    "totalEpisode": 500,
+    "format": "TV"
+  },
+  {
+    "id": 179919,
+    "title": "NegaPosi Angler",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179919-KLuGsnqnhkPb.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 171457,
-    "title": "Make Heroine ga Oosugiru!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171457-Z8tZRk7LhcZk.jpg",
+    "id": 163134,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 16,
+    "format": "TV"
+  },
+  {
+    "id": 97940,
+    "title": "Black Clover",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
+    "seasonYear": 2017,
+    "totalEpisode": 170,
+    "format": "TV"
+  },
+  {
+    "id": 11061,
+    "title": "HUNTER\u00d7HUNTER (2011)",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
+    "seasonYear": 2011,
+    "totalEpisode": 148,
+    "format": "TV"
+  },
+  {
+    "id": 170468,
+    "title": "Raise wa Tanin ga Ii",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170468-kD2X9O2XM9KH.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
   },
   {
-    "id": 153518,
-    "title": "Dungeon Meshi",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153518-LEK6pAXtI03D.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
-    "id": 137822,
-    "title": "Blue Lock",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-1JgEIoQ081G8.png",
-    "seasonYear": 2022,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
-    "id": 136880,
-    "title": "BEASTARS FINAL SEASON Part 1",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136880-9rhDUCsDfcJ1.jpg",
+    "id": 164299,
+    "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164299-j4yHiK4j1ON7.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
-    "format": "ONA"
+    "format": "TV"
   },
   {
-    "id": 171637,
-    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
+    "id": 174576,
+    "title": "Tsue to Tsurugi no Wistoria",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174576-tpKcHG0eO6CS.jpg",
     "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 154587,
+    "title": "Sousou no Frieren",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
+    "seasonYear": 2023,
+    "totalEpisode": 28,
+    "format": "TV"
+  },
+  {
+    "id": 154473,
+    "title": "Arifureta Shokugyou de Sekai Saikyou 3rd season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg",
+    "seasonYear": 2024,
+    "totalEpisode": 16,
+    "format": "TV"
+  },
+  {
+    "id": 145064,
+    "title": "Jujutsu Kaisen 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5U30gu2LSOv8.jpg",
+    "seasonYear": 2023,
     "totalEpisode": 23,
     "format": "TV"
   },
   {
-    "id": 163139,
-    "title": "Boku no Hero Academia 7",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 21,
-    "format": "TV"
-  },
-  {
-    "id": 154673,
-    "title": "Mecha-ude (TV)",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154673-SCp0Qo62N1Q6.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
-    "id": 136430,
-    "title": "VINLAND SAGA SEASON 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136430-YrQ8nBDW7gT0.jpg",
-    "seasonYear": 2023,
+    "id": 101348,
+    "title": "VINLAND SAGA",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
+    "seasonYear": 2019,
     "totalEpisode": 24,
     "format": "TV"
   },
   {
-    "id": 178434,
-    "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png",
+    "id": 141182,
+    "title": "Seirei Gensouki 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg",
     "seasonYear": 2024,
     "totalEpisode": 12,
     "format": "TV"
