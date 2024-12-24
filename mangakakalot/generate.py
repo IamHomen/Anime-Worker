@@ -6,7 +6,7 @@ LATEST_MANGA_URL = 'https://mangakakalot.com/manga_list?type=latest&category=all
 BASE_URL = 'https://mangakakalot.com/'
 HOT_MANGA_URL = 'https://mangakakalot.com/manga_list?type=topview&category=all&state=all&page=1'
 
-def scrape_latest_update_manga():
+'''def scrape_latest_update_manga():
     anime_list = []
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
@@ -31,7 +31,44 @@ def scrape_latest_update_manga():
     except Exception as e:
         print(e)
         return {'error': str(e)}
+'''
 
+def scrape_latest_update_manga():
+    anime_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
+        page_number = 1
+
+        while page_number <= 100:  # Stop when page_number reaches 100
+            print(f"Scraping page {page_number}...")
+            response = requests.get(f"{LATEST_MANGA_URL}?page={page_number}", headers=headers)
+            soup = BeautifulSoup(response.content, 'html.parser')
+
+            # Check if the page contains manga entries
+            if not soup.select('div.truyen-list > .list-truyen-item-wrap'):
+                break  # No more pages to scrape
+
+            for el in soup.select('div.truyen-list > .list-truyen-item-wrap'):
+                anime_list.append({
+                    'mangaId': el.select_one('a.list-story-item.bookmark_check')['href'],
+                    'mangaTitle': el.select_one('a.list-story-item.bookmark_check')['title'],
+                    'mangaImg': el.select_one('a.list-story-item.bookmark_check > img')['src'],
+                    'chapter': el.select_one('a.list-story-item-wrap-chapter').text.strip(),
+                    'mangaUrl': el.select_one('a.list-story-item.bookmark_check')['href'],
+                    'views': el.select_one('span.aye_icon').text.strip()
+                })
+
+            page_number += 1
+
+        with open('./mangakakalot/latest-update.json', 'w') as f:
+            json.dump(anime_list, f, indent=2)
+        print('Data saved to mangakakalot/latest-update.json')
+
+        return anime_list
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return {'error': str(e)}
     
 def scrape_hot_manga():
     hot_manga_list = []
