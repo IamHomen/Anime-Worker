@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 66810,
+      "anime_id": 5702,
+      "anime_title": "A Terrified Teacher at Ghoul School!",
+      "anime_session": "8bc83506-8c2c-1aac-0450-c370910d85c3",
+      "episode": 12,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/3f2d828b1253ce53d0ac46967d7bc643bd8d890586b9d86fb4f4e7218e6180ec.jpg",
+      "disc": "",
+      "session": "cbb7e066cc399a17a972aad45e5a519bc10503047948cd5ccc91bdcb5f9e3bdf",
+      "filler": 0,
+      "created_at": "2024-12-24 15:36:32",
+      "completed": 0
+    },
+    {
       "id": 66806,
       "anime_id": 5922,
       "anime_title": "The Quintessential Quintuplets Specials 2",
@@ -183,22 +199,6 @@
       "filler": 0,
       "created_at": "2024-12-22 22:09:11",
       "completed": 0
-    },
-    {
-      "id": 66642,
-      "anime_id": 5673,
-      "anime_title": "MF Ghost Season 2",
-      "anime_session": "f8fb64ae-4a6d-e342-8830-c6c82f73f6b2",
-      "episode": 24,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/4b271b7131a89c580b421113a1b98c7f2f6a6e61b90928a82e88bddd5e883c9d.jpg",
-      "disc": "",
-      "session": "e9a7516e74089e24d1c766a449eb8d6561cac707e3a6e66c9f5a977286a24fd6",
-      "filler": 0,
-      "created_at": "2024-12-22 17:07:11",
-      "completed": 1
     }
   ]
 }
