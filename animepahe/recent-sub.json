@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 66812,
+      "anime_id": 5667,
+      "anime_title": "Tying the Knot with an Amagami Sister",
+      "anime_session": "f209ec96-04fd-a705-a6bd-fba374da5698",
+      "episode": 13,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/c657eb41c52af5eada8c3d64cf46476df3a988f4f4dfdbd297b846914092f871.jpg",
+      "disc": "",
+      "session": "123ad1c8cf7734a9f012a7b3de98448dcdbc9302c3608e55dfa071178be9ea27",
+      "filler": 0,
+      "created_at": "2024-12-24 16:35:43",
+      "completed": 0
+    },
+    {
+      "id": 66811,
+      "anime_id": 5663,
+      "anime_title": "I'll Become a Villainess Who Goes Down in History",
+      "anime_session": "347d546c-7873-0186-c447-37b7a525ca26",
+      "episode": 13,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/714163579a023f393891a7207832b10fed397052801eeb0bcb43fc992a829394.jpg",
+      "disc": "",
+      "session": "c3dd060b85502539dd2799e64bb6fff7918c87b79e5943d92140488e5b18c1e3",
+      "filler": 0,
+      "created_at": "2024-12-24 16:05:37",
+      "completed": 1
+    },
+    {
       "id": 66810,
       "anime_id": 5702,
       "anime_title": "A Terrified Teacher at Ghoul School!",
@@ -166,38 +198,6 @@
       "session": "3d4ac3fc0e08145e5acd90414b54cff0e1afd9ee7f77cb34c293e28213543915",
       "filler": 0,
       "created_at": "2024-12-23 15:05:59",
-      "completed": 0
-    },
-    {
-      "id": 66655,
-      "anime_id": 5703,
-      "anime_title": "Magilumiere Magical Girls Inc.",
-      "anime_session": "699ec8f7-a84b-ef77-a231-239b152cea85",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Amazon",
-      "snapshot": "https://i.animepahe.ru/snapshots/5d1c79ddc3deca77843367640eaf1875214115e92aef71d51c3eae5d70ec44ed.jpg",
-      "disc": "",
-      "session": "0da513d821884b631317b1be276daa750ad19cc89ffbda06b32c63ef049fa411",
-      "filler": 0,
-      "created_at": "2024-12-23 02:45:51",
-      "completed": 1
-    },
-    {
-      "id": 66643,
-      "anime_id": 5140,
-      "anime_title": "Chibi Maruko-chan",
-      "anime_session": "b4effd93-bf8a-69d1-763c-8f4f9d4b00f6",
-      "episode": 140,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "MaruChanSubs",
-      "snapshot": "https://i.animepahe.ru/snapshots/16244a37f75125464ca357c89597dc9fda978349477ae1af34b4da6368a1e8bf.jpg",
-      "disc": "BD",
-      "session": "5e2a71d7e7e8707b5f1c3cc61301072e54b774b9e8d39156b41aeee65a12df11",
-      "filler": 0,
-      "created_at": "2024-12-22 22:09:11",
       "completed": 0
     }
   ]
