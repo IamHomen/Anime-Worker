@@ -1,5 +1,5 @@
 {
-  "total": 5403,
+  "total": 5412,
   "per_page": 12,
   "current_page": 1,
   "last_page": 451,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 66868,
+      "anime_id": 5596,
+      "anime_title": "Tasuketsu: Fate of the Majority",
+      "anime_session": "2a5149ed-0704-a7b2-d2e5-9cd83f7c43c4",
+      "episode": 24,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/a13b1411b61d384df7e6e8afda74fbb041376d58460355bfa592a9611d6766ef.jpg",
+      "disc": "",
+      "session": "60a29c36e8ba41b9f0669a3bd89c7441f4531565729224e365e48fb2f6c0308e",
+      "filler": 0,
+      "created_at": "2024-12-24 20:05:37",
+      "completed": 1
+    },
     {
       "id": 66812,
       "anime_id": 5667,
@@ -183,22 +199,6 @@
       "filler": 0,
       "created_at": "2024-12-23 15:06:56",
       "completed": 1
-    },
-    {
-      "id": 66668,
-      "anime_id": 5781,
-      "anime_title": "Future Folktales 2",
-      "anime_session": "5838ca70-7d38-3f45-3eb7-c1883b6ea073",
-      "episode": 8,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/8df1bb3bd6967e280865ce375b446e4b3700ec52bc2fa8794eb587fc94869239.jpg",
-      "disc": "",
-      "session": "3d4ac3fc0e08145e5acd90414b54cff0e1afd9ee7f77cb34c293e28213543915",
-      "filler": 0,
-      "created_at": "2024-12-23 15:05:59",
-      "completed": 0
     }
   ]
 }
