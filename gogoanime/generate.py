@@ -60,7 +60,7 @@ def scrape_popular_anime():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
-        while page_number <= 668:  # Stop scraping at page 668
+        while page_number <= 20:  # Stop scraping at page 20
             popular_page = requests.get(POPULAR_URL + f"?page={page_number}", headers=headers)
             soup = BeautifulSoup(popular_page.content, 'html.parser')
 
@@ -189,7 +189,7 @@ def scrape_movie_anime():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36'}
         page_number = 1
-        while page_number <= 112:  # Stop scraping at page 112
+        while page_number <= 20:  # Stop scraping at page 20
             popular_page = requests.get(MOVIE_URL + f"?page={page_number}", headers=headers)
             soup = BeautifulSoup(popular_page.content, 'html.parser')
 
