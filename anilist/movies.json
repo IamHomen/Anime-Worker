@@ -208,18 +208,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 2236,
-    "title": "Toki wo Kakeru Shoujo",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2236-SZf9JYAQ3pyc.png",
-    "seasonYear": 2006,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 512,
     "title": "Majo no Takkyuubin",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-cHbcJH0bT0iY.png",
     "seasonYear": 1989,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 2236,
+    "title": "Toki wo Kakeru Shoujo",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2236-SZf9JYAQ3pyc.png",
+    "seasonYear": 2006,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
