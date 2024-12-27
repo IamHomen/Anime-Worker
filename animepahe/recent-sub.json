@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67041,
+      "anime_id": 5672,
+      "anime_title": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
+      "anime_session": "544aebf2-b55a-7f18-43d7-37b06df61588",
+      "episode": 34,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Passerby-ApocalypticSubs",
+      "snapshot": "https://i.animepahe.ru/snapshots/8f3c91bd68283b89b75a77a3a8fc1817f869df97e93b8e0fc2d96b77b4f568ef.jpg",
+      "disc": "",
+      "session": "69a1062d81a0b4f6584baf9875c6c057adb43f110a954f8a55e9ffa5d9ac4184",
+      "filler": 0,
+      "created_at": "2024-12-27 07:39:23",
+      "completed": 0
+    },
+    {
       "id": 67040,
       "anime_id": 5951,
       "anime_title": "In The Beginning: The Bible Stories",
@@ -182,22 +198,6 @@
       "session": "a621f5547dda6cd89aed8d1c24fa57083c9aee2e94dd3f954eb45374bcade211",
       "filler": 0,
       "created_at": "2024-12-26 20:27:58",
-      "completed": 1
-    },
-    {
-      "id": 66872,
-      "anime_id": 5694,
-      "anime_title": "The Prince of Tennis II U-17 World Cup Semifinal",
-      "anime_session": "ef700013-05d3-3400-4744-ac1ab33c8c44",
-      "episode": 13,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/e4fad3fb9ee7a571c34616cc7e6bee45f36315e510aae4898365ba8afaa9a561.jpg",
-      "disc": "",
-      "session": "b3d50d46635d3f009cad9122c38b5cc6b08b9d2720ac353546704708a4a171d8",
-      "filler": 0,
-      "created_at": "2024-12-25 17:06:47",
       "completed": 1
     }
   ]
