@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67431,
+      "anime_id": 5709,
+      "anime_title": "Tower of God Season 2: Workshop Battle",
+      "anime_session": "f7097b95-788f-e0fd-f0e6-da7eadf0cffe",
+      "episode": 26,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/a73e8cf6ff44f25e6cfae484dc6df6da0b93f8fa5d2fd20ef1acac5369436820.jpg",
+      "disc": "",
+      "session": "d5bc218e0cdf50aa6fd83d0f0668249f238b7632d621f3ae937ffbfb3ed64860",
+      "filler": 0,
+      "created_at": "2024-12-29 15:05:38",
+      "completed": 1
+    },
+    {
       "id": 67430,
       "anime_id": 5653,
       "anime_title": "Shangri-La Frontier Season 2",
@@ -182,22 +198,6 @@
       "session": "280a0722c7e76e1fa6415328ec09741682ae06db398d55eef6e6d934c78e3f65",
       "filler": 0,
       "created_at": "2024-12-28 06:01:56",
-      "completed": 1
-    },
-    {
-      "id": 67226,
-      "anime_id": 5953,
-      "anime_title": "Laughing Salesman",
-      "anime_session": "05c52ff6-022a-0d6e-90d5-6b68eda1d780",
-      "episode": 103,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Evil-Saizen",
-      "snapshot": "https://i.animepahe.ru/snapshots/afec549df50c0114e9f7877b9f2e93953a5dac71f68046150c97478f73727c1b.jpg",
-      "disc": "",
-      "session": "32c6909dc509088530f83801607796399c7c6b0ed3f4cd0f4e2ae06aa0898993",
-      "filler": 0,
-      "created_at": "2024-12-28 06:00:10",
       "completed": 1
     }
   ]
