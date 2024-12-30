@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67468,
+      "anime_id": 5651,
+      "anime_title": "Arifureta: From Commonplace to World's Strongest Season 3",
+      "anime_session": "062e77f3-2015-2345-6ddd-e9144a86c9be",
+      "episode": 11,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/5a1058b1c8dc1f8be245c295046d0606e4d12c5d3d05bcd9c66e291ca3c41f56.jpg",
+      "disc": "",
+      "session": "6deaeaab7dddab856863d6c311c0d6d5f59d3152e540bda025bb15344bb0b94c",
+      "filler": 0,
+      "created_at": "2024-12-30 16:09:24",
+      "completed": 0
+    },
+    {
       "id": 67465,
       "anime_id": 5517,
       "anime_title": "Whisper Me a Love Song",
@@ -183,22 +199,6 @@
       "filler": 0,
       "created_at": "2024-12-28 16:02:58",
       "completed": 1
-    },
-    {
-      "id": 67422,
-      "anime_id": 5679,
-      "anime_title": "Orb: On the Movements of the Earth",
-      "anime_session": "d18fa30d-9148-6ed2-d3bc-c8e6fa73718b",
-      "episode": 14,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Netflix",
-      "snapshot": "https://i.animepahe.ru/snapshots/cef098db28d698f58d7e9e3794e9b2eb9592d19aa6d17d27b142eb478b4a2afe.jpg",
-      "disc": "",
-      "session": "d5e66b3977be0d396b70043217321087ee2c6171a52e395952e561c1e3f9a06c",
-      "filler": 0,
-      "created_at": "2024-12-28 15:46:50",
-      "completed": 0
     }
   ]
 }
