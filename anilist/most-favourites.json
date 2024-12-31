@@ -48,6 +48,14 @@
     "format": "MOVIE"
   },
   {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
     "id": 101922,
     "title": "Kimetsu no Yaiba",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
@@ -61,14 +69,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-4r88a1tsBEIz.jpg",
     "seasonYear": 2006,
     "totalEpisode": 37,
-    "format": "TV"
-  },
-  {
-    "id": 9253,
-    "title": "Steins;Gate",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
-    "seasonYear": 2011,
-    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -288,19 +288,19 @@
     "format": "TV"
   },
   {
-    "id": 110277,
-    "title": "Shingeki no Kyojin: The Final Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-8KkJy3Cvj9aO.jpg",
-    "seasonYear": 2021,
-    "totalEpisode": 16,
-    "format": "TV"
-  },
-  {
     "id": 21234,
     "title": "Boku dake ga Inai Machi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21234-bCvWk2f58LCv.jpg",
     "seasonYear": 2016,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 110277,
+    "title": "Shingeki no Kyojin: The Final Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-8KkJy3Cvj9aO.jpg",
+    "seasonYear": 2021,
+    "totalEpisode": 16,
     "format": "TV"
   },
   {
