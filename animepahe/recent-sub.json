@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67502,
+      "anime_id": 5976,
+      "anime_title": "A Few Moments of Cheers",
+      "anime_session": "07f54b8d-f41e-6c62-b5e6-77162375586d",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "MovingLines",
+      "snapshot": "https://i.animepahe.ru/snapshots/90d08808e36712bcb470b8e1da08e00011307e48887a46c02379df52c27be537.jpg",
+      "disc": "",
+      "session": "9944d17aecbbc974656f9b24e7d75c54704447f095d39ef7bb68f6bb97ba35cf",
+      "filler": 0,
+      "created_at": "2025-01-01 10:39:14",
+      "completed": 1
+    },
+    {
       "id": 67507,
       "anime_id": 5881,
       "anime_title": "Ameku M.D.: Doctor Detective",
@@ -182,22 +198,6 @@
       "session": "63ff6f268c9455ceaf2288c976e7f67a489bb4fea5875a7aa633aa8ac14f185c",
       "filler": 0,
       "created_at": "2024-12-30 06:37:30",
-      "completed": 1
-    },
-    {
-      "id": 67437,
-      "anime_id": 5974,
-      "anime_title": "All Purpose Cultural Cat Girl Nuku Nuku",
-      "anime_session": "80d1762e-6718-a95e-6800-e606ee816ce4",
-      "episode": 6,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Obscurerips",
-      "snapshot": "https://i.animepahe.ru/snapshots/9c796664943bec41840327d59909c6a7cf1e55c21fb58367ca2dd6b94db6814f.jpg",
-      "disc": "DVD",
-      "session": "e74c8e6c60243352a19fcd523e2cce0dc13dda4124fc5badfc575c27fa53a2cc",
-      "filler": 0,
-      "created_at": "2024-12-30 06:36:31",
       "completed": 1
     }
   ]
