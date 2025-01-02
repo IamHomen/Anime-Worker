@@ -1,5 +1,5 @@
 {
-  "total": 5483,
+  "total": 5484,
   "per_page": 12,
   "current_page": 1,
   "last_page": 457,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67510,
+      "anime_id": 5481,
+      "anime_title": "Beyblade X",
+      "anime_session": "2ae617b5-7b61-3646-5919-fccbdf183dd5",
+      "episode": 62,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "HnY",
+      "snapshot": "https://i.animepahe.ru/snapshots/2e01237f038c537079fc06ef728d576a11a6236b24e9680d179ab048e4bae8a4.jpg",
+      "disc": "",
+      "session": "59d894aa9f37ebb1c4912fc2eae03ddc067e33f09fdfa6ec71a536bc925903d9",
+      "filler": 0,
+      "created_at": "2025-01-02 06:04:17",
+      "completed": 0
+    },
     {
       "id": 67502,
       "anime_id": 5976,
@@ -182,22 +198,6 @@
       "session": "cfe1a852e4a44d0a6992bc8be9c9eb393d140fc0ed139920ffc8f74bd5beabad",
       "filler": 0,
       "created_at": "2024-12-30 06:38:44",
-      "completed": 1
-    },
-    {
-      "id": 67451,
-      "anime_id": 5975,
-      "anime_title": "All Purpose Cultural Cat Girl Nuku Nuku TV",
-      "anime_session": "dff3f1fa-ae9a-db94-817e-f3ff4d16e8ea",
-      "episode": 14,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Obscurerips",
-      "snapshot": "https://i.animepahe.ru/snapshots/397c03a1cd905de6acd6042de64707f6a75daca3743104ebcdf4fd1ea80e5ec3.jpg",
-      "disc": "DVD",
-      "session": "63ff6f268c9455ceaf2288c976e7f67a489bb4fea5875a7aa633aa8ac14f185c",
-      "filler": 0,
-      "created_at": "2024-12-30 06:37:30",
       "completed": 1
     }
   ]
