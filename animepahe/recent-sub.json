@@ -1,13 +1,45 @@
 {
-  "total": 5484,
+  "total": 5486,
   "per_page": 12,
   "current_page": 1,
-  "last_page": 457,
+  "last_page": 458,
   "next_page_url": "https://animepahe.ru/api?page=2",
   "prev_page_url": null,
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67512,
+      "anime_id": 5895,
+      "anime_title": "Momentary Lily",
+      "anime_session": "0f865bb2-cdc4-68f6-5e0b-6d1f6e4d5ac1",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/c2f2034179ca09285e2b08a103e1de9001b6f510dad8fbc1a3d73af121d3ea02.jpg",
+      "disc": "",
+      "session": "f9a2aa38c097c5bc72867953eddd7c794c0a4c4c5b451b9a50396ace7908b009",
+      "filler": 0,
+      "created_at": "2025-01-02 18:31:42",
+      "completed": 0
+    },
+    {
+      "id": 67511,
+      "anime_id": 5893,
+      "anime_title": "BanG Dream! Ave Mujica",
+      "anime_session": "b0cfb493-f125-4516-48e6-9f8aef114569",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/fea0fc59fee84e63f14dd457536c6793fabb98d2106b64e29790ef28edcffb10.jpg",
+      "disc": "",
+      "session": "c08c044ebc79bcbc2ccac9cd313cb2937338fc46cbc1159b7f75609980d779a6",
+      "filler": 0,
+      "created_at": "2025-01-02 16:04:20",
+      "completed": 0
+    },
     {
       "id": 67510,
       "anime_id": 5481,
@@ -167,38 +199,6 @@
       "filler": 0,
       "created_at": "2024-12-30 16:09:24",
       "completed": 0
-    },
-    {
-      "id": 67465,
-      "anime_id": 5517,
-      "anime_title": "Whisper Me a Love Song",
-      "anime_session": "46cd235a-810a-6ef9-3b10-de77882bccb1",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/6615005581bfa4151a65116dad424a7184cc2808071c54dc7fbc7bb1776aed0a.jpg",
-      "disc": "",
-      "session": "048011c75cd5cda6370793ec8d1177a181cee6960efeea329b49c707303bd0ea",
-      "filler": 0,
-      "created_at": "2024-12-30 07:34:14",
-      "completed": 1
-    },
-    {
-      "id": 67463,
-      "anime_id": 1862,
-      "anime_title": "All Purpose Cultural Cat Girl Nuku Nuku Dash!",
-      "anime_session": "e2804c5d-76fc-c399-31db-033768a7b7f6",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Obscurerips",
-      "snapshot": "https://i.animepahe.ru/snapshots/e86eaedc473bffa65f1f64e4532c029b53b76eb0b4f5796e0f9a19741ed2aae1.jpg",
-      "disc": "DVD",
-      "session": "cfe1a852e4a44d0a6992bc8be9c9eb393d140fc0ed139920ffc8f74bd5beabad",
-      "filler": 0,
-      "created_at": "2024-12-30 06:38:44",
-      "completed": 1
     }
   ]
 }
