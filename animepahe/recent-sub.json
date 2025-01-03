@@ -1,5 +1,5 @@
 {
-  "total": 5490,
+  "total": 5491,
   "per_page": 12,
   "current_page": 1,
   "last_page": 458,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67604,
+      "anime_id": 5894,
+      "anime_title": "Sorairo Utility (TV)",
+      "anime_session": "08f447b2-2998-6129-4c53-fe479e2b96a8",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/bd7ef86d81de1247e646d40c5c197bfa06a8c2186c61c576616c0ba8094846a3.jpg",
+      "disc": "",
+      "session": "1daf711e4740045c772784dc3b885e5368c2323cca52554d0e113bddde75ca11",
+      "filler": 0,
+      "created_at": "2025-01-03 17:47:11",
+      "completed": 0
+    },
     {
       "id": 67603,
       "anime_id": 5957,
@@ -182,22 +198,6 @@
       "session": "6fffe994892c3e6d478ae897921681e9acddcaf8d082f8db8705bb6fbcc497c2",
       "filler": 0,
       "created_at": "2024-12-31 16:25:51",
-      "completed": 0
-    },
-    {
-      "id": 67500,
-      "anime_id": 5859,
-      "anime_title": "Fate/strange Fake",
-      "anime_session": "0534147e-24d4-6847-af07-24939151cac1",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Yameii",
-      "snapshot": "https://i.animepahe.ru/snapshots/0b7eb3d9ece570c40b99b4c9835864b6ca645a4673ab15db0c1d3af3f392a6dd.jpg",
-      "disc": "",
-      "session": "3de5bbc053fb4e9eca420742bf34e0d1401be508b3e4ae5a99f85229cca51832",
-      "filler": 0,
-      "created_at": "2024-12-31 14:05:39",
       "completed": 0
     }
   ]
