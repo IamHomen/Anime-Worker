@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67603,
+      "anime_id": 5957,
+      "anime_title": "Link Click: Bridon Arc",
+      "anime_session": "79bf0ec2-d240-4f4e-f863-4062d9f075c8",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/0f098d0500eae98554c1234bbd941b900de5a391efb1146184b442fcb244d00c.jpg",
+      "disc": "",
+      "session": "7fb24547550e3e28d2638d8d1f544bcc5d954fe36ea461bdad3ee87792d84405",
+      "filler": 0,
+      "created_at": "2025-01-03 05:10:04",
+      "completed": 0
+    },
+    {
       "id": 67599,
       "anime_id": 5404,
       "anime_title": "Magical\u2605Taruruuto-kun",
@@ -183,22 +199,6 @@
       "filler": 0,
       "created_at": "2024-12-31 14:05:39",
       "completed": 0
-    },
-    {
-      "id": 67499,
-      "anime_id": 5659,
-      "anime_title": "Ron Kamonohashi's Forbidden Deductions Season 2",
-      "anime_session": "5f09aebc-abca-d868-17d0-d88bca172007",
-      "episode": 26,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/c1fe0c683307c2db8ce6fc45b2bf0f95baa8272b37fcada5d0f7210ddbf080f6.jpg",
-      "disc": "",
-      "session": "1ca55fa6061df78a8b126499ae28f015d765724930849a08e0376fdf4899bbba",
-      "filler": 0,
-      "created_at": "2024-12-31 09:20:11",
-      "completed": 1
     }
   ]
 }
