@@ -1,13 +1,29 @@
 {
-  "total": 5496,
+  "total": 5497,
   "per_page": 12,
   "current_page": 1,
-  "last_page": 458,
+  "last_page": 459,
   "next_page_url": "https://animepahe.ru/api?page=2",
   "prev_page_url": null,
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67621,
+      "anime_id": 5889,
+      "anime_title": "I Want to Escape from Princess Lessons",
+      "anime_session": "5d86d564-b0df-d118-7380-6c5ce2eb959c",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/c7918bb3732b53eb6d9322d3e234dde97901920f831da670370168d64876a423.jpg",
+      "disc": "",
+      "session": "05f491bd5f04804a7b16001c489f0d5b50512a12a5540f595d422d26be3ea018",
+      "filler": 0,
+      "created_at": "2025-01-05 14:20:43",
+      "completed": 0
+    },
     {
       "id": 67620,
       "anime_id": 5653,
@@ -182,22 +198,6 @@
       "session": "7fe3f071f8cc504e11096c45cdba6166926002042711359d179293b91b44e519",
       "filler": 0,
       "created_at": "2025-01-04 14:04:53",
-      "completed": 0
-    },
-    {
-      "id": 67609,
-      "anime_id": 3,
-      "anime_title": "Meitantei Conan",
-      "anime_session": "64bead20-5eaf-09d4-24b3-57afa9b9c365",
-      "episode": 1148,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/6c715ac56cb38e6bf424efaf1ac6db014cfe225dbfd9979fd0dcd1e6014995ac.jpg",
-      "disc": "",
-      "session": "b001259910b6d413c37d00674aae232102fc6805063076e66c288210a76d701c",
-      "filler": 0,
-      "created_at": "2025-01-04 12:33:49",
       "completed": 0
     }
   ]
