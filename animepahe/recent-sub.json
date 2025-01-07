@@ -1,5 +1,5 @@
 {
-  "total": 5506,
+  "total": 5507,
   "per_page": 12,
   "current_page": 1,
   "last_page": 459,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67644,
+      "anime_id": 5883,
+      "anime_title": "Flower and Asura",
+      "anime_session": "464264d6-bf08-ea34-3885-5b5195fab5fc",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/010912a37026969533d2ecacd29ab311041d21e67c8706dc845bb8f37e044fb5.jpg",
+      "disc": "",
+      "session": "73dc6d65d8dbd7e4a3c8722b7e2269c370dc05dabc27ecf55d03b32c4961d9d7",
+      "filler": 0,
+      "created_at": "2025-01-07 20:00:02",
+      "completed": 0
+    },
     {
       "id": 67643,
       "anime_id": 5863,
@@ -182,22 +198,6 @@
       "session": "970328c0bdcb5555d6747bbe39ebcd4cf11a9978e2acfde577d272d7f7e62af6",
       "filler": 0,
       "created_at": "2025-01-06 01:12:05",
-      "completed": 0
-    },
-    {
-      "id": 67623,
-      "anime_id": 5140,
-      "anime_title": "Chibi Maruko-chan",
-      "anime_session": "4c395bf6-1e05-bedc-e7af-d9cffad80411",
-      "episode": 141,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "MaruChanSubs",
-      "snapshot": "https://i.animepahe.ru/snapshots/b8a9637a25963a7d125a8f6e0c945e550ff8a51301544e5bfa98f4cdf33c03a9.jpg",
-      "disc": "BD",
-      "session": "a005410f0b7c82eaab3da88185e3816fd05768b207cabdb16f13a6a63c9e9d61",
-      "filler": 0,
-      "created_at": "2025-01-05 20:41:00",
       "completed": 0
     }
   ]
