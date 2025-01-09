@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67664,
+      "anime_id": 5669,
+      "anime_title": "Rurouni Kenshin: Kyoto Disturbance",
+      "anime_session": "0789c6c0-3370-45d0-fb6f-2112cb9d4465",
+      "episode": 37,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/74bc057fba9137795d74e63bd4df137d110e89c185dd5a29df84c1483c81e2c0.jpg",
+      "disc": "",
+      "session": "0e61d86b22c13f8b3e41ac5de1c9660b09c5794cd107ee7c04d02ba020830904",
+      "filler": 0,
+      "created_at": "2025-01-09 19:05:35",
+      "completed": 0
+    },
+    {
       "id": 67663,
       "anime_id": 5698,
       "anime_title": "Trillion Game",
@@ -182,22 +198,6 @@
       "session": "52f2a4b50d93740a0f4f7579fafad651d68c52a735c3c33f145ab00c5a93e4d2",
       "filler": 0,
       "created_at": "2020-09-25 16:51:54",
-      "completed": 1
-    },
-    {
-      "id": 38208,
-      "anime_id": 3431,
-      "anime_title": "Food Wars! The Fourth Plate",
-      "anime_session": "cb78364d-e986-b388-28c2-c05a31192dd7",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "DB",
-      "snapshot": "https://i.animepahe.ru/snapshots/a1444b6b782a36fa8351ed0f7b351576ebd4d4688339bd9b0ca78fec7ce5e6f9.jpg",
-      "disc": "BD",
-      "session": "e7e8bea5168be6eaa14e0435837ec57f5323309783c52d5d48f1d3cda9df4ffa",
-      "filler": 0,
-      "created_at": "2019-12-27 17:46:37",
       "completed": 1
     }
   ]
