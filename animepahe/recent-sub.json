@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67753,
+      "anime_id": 5735,
+      "anime_title": "Punirunes: Puni 2",
+      "anime_session": "03a43a6d-bf1a-a30f-2fa3-cb64273cb841",
+      "episode": 14,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Seigyoku",
+      "snapshot": "https://i.animepahe.ru/snapshots/ee1f2acfb3dd2917a71d1f01d82ba73bdc691540c33a9bde635d3a0660630e95.jpg",
+      "disc": "",
+      "session": "925e1abec93b2e25381bcfab92c6acca06b81b28c12c8c355db8dfa3cb7739b3",
+      "filler": 0,
+      "created_at": "2025-01-12 15:44:54",
+      "completed": 0
+    },
+    {
       "id": 67752,
       "anime_id": 5794,
       "anime_title": "My Happy Marriage Season 2",
@@ -182,22 +198,6 @@
       "session": "660e0b2325cdcdbcf53bbdd81a56210def9abb741f4d4a31ae5467b79523c5ab",
       "filler": 0,
       "created_at": "2025-01-11 17:11:32",
-      "completed": 0
-    },
-    {
-      "id": 67741,
-      "anime_id": 5899,
-      "anime_title": "UniteUp! -Uni:Birth-",
-      "anime_session": "c74869b3-70d2-44be-6926-a6a982459770",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/4c7de2921821b93c87ace65a76b3b13bf702038202fb90c069d9a02fc0592569.jpg",
-      "disc": "",
-      "session": "9cda07e8bd12092afeb64a79a540393939fdb696f04f067fd0b0631ad9e3bfd3",
-      "filler": 0,
-      "created_at": "2025-01-11 17:06:01",
       "completed": 0
     }
   ]
