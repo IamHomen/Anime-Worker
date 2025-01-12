@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67749,
+      "anime_id": 5653,
+      "anime_title": "Shangri-La Frontier Season 2",
+      "anime_session": "254b90da-1e90-4b12-e4b1-0245f80da641",
+      "episode": 39,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/f284ce3795c77c3782971074f7a3dd9ffac130372b3f2563c8456f69006be893.jpg",
+      "disc": "",
+      "session": "57f6483bf7616a9a950a6e93e33cffeab9ffca3baa731b96080fadc022c0fba5",
+      "filler": 0,
+      "created_at": "2025-01-12 10:36:13",
+      "completed": 0
+    },
+    {
       "id": 67748,
       "anime_id": 5779,
       "anime_title": "One Piece Log: Fish-Man Island Saga",
@@ -182,22 +198,6 @@
       "session": "650c57db53716123ebe0be57cae89386e5e8438a3c0499c5ae30f4101fcf1eb8",
       "filler": 0,
       "created_at": "2025-01-11 15:37:31",
-      "completed": 0
-    },
-    {
-      "id": 67737,
-      "anime_id": 5857,
-      "anime_title": "Sakamoto Days",
-      "anime_session": "43f64868-8a4e-76cb-fad5-80fc3ba17d84",
-      "episode": 2,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Netflix",
-      "snapshot": "https://i.animepahe.ru/snapshots/4290409f7b74744327aaf615e69cf5ac87c20ac9eab71f0d8c6b45eafa9893f1.jpg",
-      "disc": "",
-      "session": "fefd603a75c490acf4d24a42d460bdb468f5d404f41cdfdb28a107d27a743da4",
-      "filler": 0,
-      "created_at": "2025-01-11 14:37:29",
       "completed": 0
     }
   ]
