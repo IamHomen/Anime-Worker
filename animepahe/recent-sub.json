@@ -1,5 +1,5 @@
 {
-  "total": 5534,
+  "total": 5535,
   "per_page": 12,
   "current_page": 1,
   "last_page": 462,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67750,
+      "anime_id": 5860,
+      "anime_title": "Toilet-Bound Hanako-kun Season 2",
+      "anime_session": "c5ddfc20-f00a-d5e6-9044-a574b88b6b58",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/002565c5e5afaba9d1071794ef59ef1666fa9ace9d0784f3d4b64c9bc4954346.jpg",
+      "disc": "",
+      "session": "58d72c2516bdf4e3b8cdc2e1c23c3db8edb92e6a09b31842ec013efae478345f",
+      "filler": 0,
+      "created_at": "2025-01-12 12:50:09",
+      "completed": 0
+    },
     {
       "id": 67749,
       "anime_id": 5653,
@@ -182,22 +198,6 @@
       "session": "2a3da80fff88d138807c97f67f22f5a2525c77ec2b64617cf6b5cdee98d046a2",
       "filler": 0,
       "created_at": "2025-01-11 15:58:56",
-      "completed": 0
-    },
-    {
-      "id": 67738,
-      "anime_id": 5679,
-      "anime_title": "Orb: On the Movements of the Earth",
-      "anime_session": "24e0c81e-e02e-7bca-09f4-368689ff69ee",
-      "episode": 16,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Netflix",
-      "snapshot": "https://i.animepahe.ru/snapshots/3491a9003807924c315011a47b8150dc193eea2c8cce10a5205c5c33a7509819.jpg",
-      "disc": "",
-      "session": "650c57db53716123ebe0be57cae89386e5e8438a3c0499c5ae30f4101fcf1eb8",
-      "filler": 0,
-      "created_at": "2025-01-11 15:37:31",
       "completed": 0
     }
   ]
