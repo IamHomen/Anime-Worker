@@ -1,5 +1,5 @@
 {
-  "total": 5535,
+  "total": 5536,
   "per_page": 12,
   "current_page": 1,
   "last_page": 462,
@@ -8,6 +8,38 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67752,
+      "anime_id": 5794,
+      "anime_title": "My Happy Marriage Season 2",
+      "anime_session": "3327d917-b6dd-8099-e3ef-a183c72c1e0a",
+      "episode": 14,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Disney_Plus",
+      "snapshot": "https://i.animepahe.ru/snapshots/71b3bedaebabce13fd6ea3a4c4071d95d5d1cf6f403a66c03e77cb86aba33f59.jpg",
+      "disc": "",
+      "session": "5e812704f28fc9237140a6812de38d82e5e08818352a066b62ccc6add345e394",
+      "filler": 0,
+      "created_at": "2025-01-12 15:00:02",
+      "completed": 0
+    },
+    {
+      "id": 67751,
+      "anime_id": 5889,
+      "anime_title": "I Want to Escape from Princess Lessons",
+      "anime_session": "8260cb3d-f1ab-02c3-c742-6f926af90172",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/c3fec7c18016a5e96103b9fba1fefd576af07ea844fbfde17f078017e763385a.jpg",
+      "disc": "",
+      "session": "c01f6c8d1a3e6a621409afb5d2b0aead93960813bc847b297069c10af343c143",
+      "filler": 0,
+      "created_at": "2025-01-12 14:24:25",
+      "completed": 0
+    },
     {
       "id": 67750,
       "anime_id": 5860,
@@ -166,38 +198,6 @@
       "session": "9cda07e8bd12092afeb64a79a540393939fdb696f04f067fd0b0631ad9e3bfd3",
       "filler": 0,
       "created_at": "2025-01-11 17:06:01",
-      "completed": 0
-    },
-    {
-      "id": 67740,
-      "anime_id": 5876,
-      "anime_title": "I'm Living with an Otaku NEET Kunoichi!?",
-      "anime_session": "e9269ead-d8f9-6061-2735-aeabf2c9d283",
-      "episode": 2,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/2f75305684ef284d228d427e29b593148c8bc2bc70058f2c2ad76e0023e02212.jpg",
-      "disc": "",
-      "session": "04a6c23ad301a00dd710d9e7ed4f6b632f392b1c5bdbb3d1cae2e0feecdeddb7",
-      "filler": 0,
-      "created_at": "2025-01-11 16:36:25",
-      "completed": 0
-    },
-    {
-      "id": 67739,
-      "anime_id": 5891,
-      "anime_title": "Babanbabanban Vampire",
-      "anime_session": "e8d9ba7f-122e-f8ce-c8ce-e525aac91740",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Netflix",
-      "snapshot": "https://i.animepahe.ru/snapshots/dcf3b18d94356d88aa8d88a6df223b37daded7202299c6471e480528d24163c6.jpg",
-      "disc": "",
-      "session": "2a3da80fff88d138807c97f67f22f5a2525c77ec2b64617cf6b5cdee98d046a2",
-      "filler": 0,
-      "created_at": "2025-01-11 15:58:56",
       "completed": 0
     }
   ]
