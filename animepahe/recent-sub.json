@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67756,
+      "anime_id": 5902,
+      "anime_title": "Theatre of Darkness: Yamishibai 14",
+      "anime_session": "0207398d-aeb6-53d5-0c45-9b7df050bafd",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/3dab4faaa98d0dc877f40a71465196ec08e63f24480f4dd31b15be68e0f7b9eb.jpg",
+      "disc": "",
+      "session": "47ee58822ee773640e9f4aea8a4e14cf42de2ab9432b0015defadf2c8731ad97",
+      "filler": 0,
+      "created_at": "2025-01-12 20:48:35",
+      "completed": 0
+    },
+    {
       "id": 67755,
       "anime_id": 5868,
       "anime_title": "Zenshu",
@@ -182,22 +198,6 @@
       "session": "ade7fb292a83029db718ec00bb2fa725c8d4505fe4c6fa36ad6a7f922f590f2e",
       "filler": 0,
       "created_at": "2025-01-11 18:06:01",
-      "completed": 0
-    },
-    {
-      "id": 67744,
-      "anime_id": 5884,
-      "anime_title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
-      "anime_session": "e3a9c206-85e8-0132-c628-812542730b82",
-      "episode": 1,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/88f034a429ad6a60ce77a4ad54b1ca5baec60ce9b9267e29657a42cb3e15f287.jpg",
-      "disc": "",
-      "session": "03b3af41db8c417b34edb281d777417c7b61bd35e40b079a6280e8950b8b832b",
-      "filler": 0,
-      "created_at": "2025-01-11 17:50:44",
       "completed": 0
     }
   ]
