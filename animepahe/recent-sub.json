@@ -1,5 +1,5 @@
 {
-  "total": 5536,
+  "total": 5537,
   "per_page": 12,
   "current_page": 1,
   "last_page": 462,
@@ -8,6 +8,38 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67755,
+      "anime_id": 5868,
+      "anime_title": "Zenshu",
+      "anime_session": "011f0923-f3ba-f6cd-94f9-68bdcf741399",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Yameii",
+      "snapshot": "https://i.animepahe.ru/snapshots/cdce4b1dbc54306ec73401a182f49f670082c6ce0f806121ce9ab38f2e225752.jpg",
+      "disc": "",
+      "session": "31667cf5a3e320eb35fe07a629d17d6b960c3b15f2cff5282c8b66c6add79a0e",
+      "filler": 0,
+      "created_at": "2025-01-12 17:21:26",
+      "completed": 0
+    },
+    {
+      "id": 67754,
+      "anime_id": 5886,
+      "anime_title": "The Red Ranger Becomes an Adventurer in Another World",
+      "anime_session": "363e918d-9804-76cb-7275-19e9b93d0bf8",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/143f88aab7d43c1010fd4e9af33c4d933059866ecf6232f9bae461668be0b86f.jpg",
+      "disc": "",
+      "session": "1faec36e87121c57a9be4840bd53e013059b4ea2054a40e9e84c8b2020e8ecfb",
+      "filler": 0,
+      "created_at": "2025-01-12 16:05:40",
+      "completed": 0
+    },
     {
       "id": 67753,
       "anime_id": 5735,
@@ -166,38 +198,6 @@
       "session": "03b3af41db8c417b34edb281d777417c7b61bd35e40b079a6280e8950b8b832b",
       "filler": 0,
       "created_at": "2025-01-11 17:50:44",
-      "completed": 0
-    },
-    {
-      "id": 67743,
-      "anime_id": 5833,
-      "anime_title": "Solo Leveling Season 2: Arise from the Shadow",
-      "anime_session": "2537aa94-d296-8bb7-b9fc-35ddfc013be8",
-      "episode": 14,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/6b8abcd41ce5e63ab116e65492e1892e58230568e7802c094b513a9e282f6557.jpg",
-      "disc": "",
-      "session": "117492c00f76f9297a69782ee15e554f72cda462dc903397585d1c41a40a8e3f",
-      "filler": 0,
-      "created_at": "2025-01-11 17:35:44",
-      "completed": 0
-    },
-    {
-      "id": 67742,
-      "anime_id": 5879,
-      "anime_title": "Medalist",
-      "anime_session": "639195b5-8fe4-75dc-86c7-8526fb0e40d9",
-      "episode": 2,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Disney_Plus",
-      "snapshot": "https://i.animepahe.ru/snapshots/696b36be9c18bb431724927f77f5a8ba4b881660dea8e1f08ba029f444ab56d0.jpg",
-      "disc": "",
-      "session": "660e0b2325cdcdbcf53bbdd81a56210def9abb741f4d4a31ae5467b79523c5ab",
-      "filler": 0,
-      "created_at": "2025-01-11 17:11:32",
       "completed": 0
     }
   ]
