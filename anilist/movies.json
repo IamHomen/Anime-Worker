@@ -128,18 +128,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 437,
-    "title": "PERFECT BLUE",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-moJoeSWPuAIS.jpg",
-    "seasonYear": 1998,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 100723,
     "title": "Boku no Hero Academia THE MOVIE: Futari no Hero",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
     "seasonYear": 2018,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 437,
+    "title": "PERFECT BLUE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-moJoeSWPuAIS.jpg",
+    "seasonYear": 1998,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
