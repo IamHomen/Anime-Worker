@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67795,
+      "anime_id": 5883,
+      "anime_title": "Flower and Asura",
+      "anime_session": "3a908aa9-4966-9eee-02c9-8cb3bbcad92a",
+      "episode": 2,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/7c8764c04debcf5d605451c6e183cf18ab7f6ce8289507549ca44a954a7155f7.jpg",
+      "disc": "",
+      "session": "4e0222b01e0f35eecaaf4842354123ed2c2fa08c473a6e0d17f054f230de4c40",
+      "filler": 0,
+      "created_at": "2025-01-14 17:40:48",
+      "completed": 0
+    },
+    {
       "id": 67794,
       "anime_id": 5667,
       "anime_title": "Tying the Knot with an Amagami Sister",
@@ -182,22 +198,6 @@
       "session": "2ee85e4d6347db3f81a6c29aba2d26fb5d473c5995d1b566ef0dc1f6f88abb66",
       "filler": 0,
       "created_at": "2025-01-13 15:08:26",
-      "completed": 0
-    },
-    {
-      "id": 67757,
-      "anime_id": 5858,
-      "anime_title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
-      "anime_session": "e1877495-c633-95e3-921b-55dafc3e7328",
-      "episode": 13,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/aab0972bcc7429e2dbf4edb57d98f6e525eeedbf55ab68ffa01e1a449c6843ab.jpg",
-      "disc": "",
-      "session": "349145c88a2f8419b48d4b40751cf921e8d1dded8efbd1e8658636350a40ddd2",
-      "filler": 0,
-      "created_at": "2025-01-13 01:26:22",
       "completed": 0
     }
   ]
