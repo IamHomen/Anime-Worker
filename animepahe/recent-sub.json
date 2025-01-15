@@ -1,5 +1,5 @@
 {
-  "total": 5541,
+  "total": 5544,
   "per_page": 12,
   "current_page": 1,
   "last_page": 462,
@@ -185,20 +185,20 @@
       "completed": 1
     },
     {
-      "id": 67789,
-      "anime_id": 5794,
-      "anime_title": "My Happy Marriage Season 2",
-      "anime_session": "9787ce46-7a63-ec80-e434-fef4494b5b3e",
-      "episode": 15,
+      "id": 67803,
+      "anime_id": 5988,
+      "anime_title": "Ariel Visual",
+      "anime_session": "b2d51635-79f8-e219-e45a-d77e4113ae9e",
+      "episode": 2,
       "episode2": 0,
       "edition": "",
-      "fansub": "Disney_Plus",
-      "snapshot": "https://i.animepahe.ru/snapshots/0399048035ad65cbf4efee47362ce66753cc96526a773f27072151afe9ee767e.jpg",
-      "disc": "",
-      "session": "033117edb17396ca2e3709749bd78d093b6a446ddc2b8dfdd3d08aef731785ef",
+      "fansub": "Pachinko",
+      "snapshot": "https://i.animepahe.ru/snapshots/a011bcaa2e0505cd560c3317e68ac9fedf65f3d53094f8004b19461068e52acf.jpg",
+      "disc": "BD",
+      "session": "9d329bdb8ffbb0615f0301c473948073944523e0bb93d6cae1280a889e3e4743",
       "filler": 0,
-      "created_at": "2025-01-14 10:12:40",
-      "completed": 0
+      "created_at": "2025-01-15 20:21:48",
+      "completed": 1
     }
   ]
 }
