@@ -1,5 +1,5 @@
 {
-  "total": 5557,
+  "total": 5558,
   "per_page": 12,
   "current_page": 1,
   "last_page": 464,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67927,
+      "anime_id": 5897,
+      "anime_title": "Witchy Pretty Cure! Season 2",
+      "anime_session": "11b9c017-7fd6-879f-9e39-47411f2a518a",
+      "episode": 1,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/af2febc6947d250f31308d25e1535a8280be53b9827c3ecac29cc684bbf1e687.jpg",
+      "disc": "",
+      "session": "9f57558fd7e3b167872be88f5bfbd7ef39e567432ad8628e79bd111c037c3d3c",
+      "filler": 0,
+      "created_at": "2025-01-18 20:27:11",
+      "completed": 0
+    },
     {
       "id": 67926,
       "anime_id": 5871,
@@ -182,22 +198,6 @@
       "session": "80898b93424dc197ebec5f910e42e0fb606fc0d4a4c924ea9b903d3135949380",
       "filler": 0,
       "created_at": "2025-01-18 14:05:09",
-      "completed": 0
-    },
-    {
-      "id": 67915,
-      "anime_id": 5655,
-      "anime_title": "Blue Box",
-      "anime_session": "782c5146-3571-aedb-75a0-2ca0d88f2a84",
-      "episode": 16,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "KawaSubs",
-      "snapshot": "https://i.animepahe.ru/snapshots/44dda2928b9fff65c2f35ab7427f62ad26adeefa6a7b677d8b8fce59a3710ad9.jpg",
-      "disc": "",
-      "session": "7dd0beaeeea07b9ae480f0e69f4a58328b21d23997c4638b9a5e8b879d0258ad",
-      "filler": 0,
-      "created_at": "2025-01-18 13:09:22",
       "completed": 0
     }
   ]
