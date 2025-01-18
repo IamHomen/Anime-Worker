@@ -288,18 +288,18 @@
     "format": "MOVIE"
   },
   {
-    "id": 21399,
-    "title": "Kizumonogatari II: Nekketsu-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21399-VTAdAqc8u5AE.png",
-    "seasonYear": 2016,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 1943,
     "title": "Paprika",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1943-TBNhMVA9VwdI.png",
     "seasonYear": 2006,
+    "totalEpisode": 1,
+    "format": "MOVIE"
+  },
+  {
+    "id": 21399,
+    "title": "Kizumonogatari II: Nekketsu-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21399-VTAdAqc8u5AE.png",
+    "seasonYear": 2016,
     "totalEpisode": 1,
     "format": "MOVIE"
   },
