@@ -1,5 +1,100 @@
 [
   {
+    "mangaId": "b093bc50-be43-470c-8594-d79ab9fa5b90",
+    "title": {
+      "en": "Youkai Gakkou no Sensei Hajimemashita!"
+    },
+    "updatedAt": "2024-10-01T00:37:26+00:00",
+    "coverArt": "https://mangadex.org/covers/b093bc50-be43-470c-8594-d79ab9fa5b90/afc3681c-cf8d-4c5e-927d-ab3097a9f9de.jpg",
+    "altTitles": [
+      {
+        "en": "A Terrified Teacher at Ghoul School!"
+      },
+      {
+        "ja": "\u5996\u602a\u5b66\u6821\u306e\u5148\u751f\u306f\u3058\u3081\u307e\u3057\u305f\uff01"
+      },
+      {
+        "zh": "\u5996\u602a\u5b66\u6821\u7684\u65b0\u4eba\u6559\u5e08"
+      },
+      {
+        "tr": "Ghoul Okulunda Deh\u015fete D\u00fc\u015fm\u00fc\u015f Bir \u00d6\u011fretmen"
+      },
+      {
+        "ja-ro": "Youkai Gakkou no Sensei Hajimemashita!"
+      }
+    ],
+    "description": {
+      "en": "Haruaki is a scaredy-cat with a fetish for girls' school uniforms, but he also wants to be a good teacher. However, his new school isn\u2019t exactly what he thought it would be: it's an academy for monsters, demons, ghosts and all sorts of supernatural creatures!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2014,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "f738c64a-8050-4ff7-85f3-a0bba314d176",
+    "title": {
+      "en": "Youkai Gakkou no Seito Hajimemashita!"
+    },
+    "updatedAt": "2024-11-03T15:20:43+00:00",
+    "coverArt": "https://mangadex.org/covers/f738c64a-8050-4ff7-85f3-a0bba314d176/c121bc96-add8-44fe-8bba-4f0a3e5916f5.jpg",
+    "altTitles": [
+      {
+        "ja": "\u5996\u602a\u5b66\u6821\u306e\u751f\u5f92\u306f\u3058\u3081\u307e\u3057\u305f\uff01"
+      },
+      {
+        "en": "A New Student at Ghoul School!"
+      }
+    ],
+    "description": {
+      "en": "As the cherry blossoms fall, a new school year kicks off at Hyakki Academy\u2014a school attracting youkai from all over Japan! Unfortunately, the first years are far from model students, especially the troublemaking idiot duo, Mamekichi Maizuka (a mame-danuki) and Tamao Akisame (a nekomata). It\u2019s time for the lovable but rambunctious animal youkai to steal the spotlight in this spinoff comedy, set a year before the events of \"A Terrified Teacher at Ghoul School!\"\n\n(Source: Manga UP! Global)\n\nSerialized on Pixiv Comic."
+    },
+    "status": "ongoing",
+    "releaseDate": 2018,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "114b37e4-57c2-4010-bc4a-19fb6ca2cd85",
+    "title": {
+      "en": "Beastmaster: I can see the complete encyclopedia of evolution"
+    },
+    "updatedAt": "2025-01-20T09:33:39+00:00",
+    "coverArt": "https://mangadex.org/covers/114b37e4-57c2-4010-bc4a-19fb6ca2cd85/0a5544ad-4479-43c6-975d-0ea62b02d4b8.jpg",
+    "altTitles": [
+      {
+        "zh": "\u5fa1\u517d\uff1a\u6211\u80fd\u770b\u89c1\u8fdb\u5316\u5168\u56fe\u9274"
+      }
+    ],
+    "description": {
+      "en": "An awakening in a desperate situation, Li Wenxuan, an ordinary college student, was pushed into the era of fantasy beast masters by fate. Starting from the lowest level fantasy beast, he groped forward in revenge and protection, pursuing his own power and beliefs. This is a golden age where fantasy beasts and humans coexist, and Li Wenxuan is destined to embark on a unique path of rise."
+    },
+    "status": "ongoing",
+    "releaseDate": 2025,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "b0f98e30-b509-4560-ab3a-701a64d52257",
+    "title": {
+      "en": "My Hero Academia - Rondo of Opalus (Doujinshi)"
+    },
+    "updatedAt": "2024-09-24T18:01:09+00:00",
+    "coverArt": "https://mangadex.org/covers/b0f98e30-b509-4560-ab3a-701a64d52257/23803701-37ca-41d4-8604-43312014a2b5.png",
+    "altTitles": [],
+    "description": {
+      "en": "Inspired by the fantasy AU illustrations.\nTodoroki Shouto x Bakugou Katsuki"
+    },
+    "status": "completed",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "1",
+    "lastChapter": "21"
+  },
+  {
     "mangaId": "394398f2-6287-48c7-9713-cd1759c97291",
     "title": {
       "en": "The Blood Princess and the Knight"
@@ -1527,11 +1622,11 @@
     "title": {
       "en": "Tyranno"
     },
-    "updatedAt": "2025-01-20T03:54:16+00:00",
+    "updatedAt": "2025-01-20T09:36:08+00:00",
     "coverArt": "https://mangadex.org/covers/d706a9a4-654d-4adc-9773-ff6fede3fc69/ede4297a-d13a-4bb2-8a4c-29ea86c40ce9.jpg",
     "altTitles": [
       {
-        "ja": "\u30b9\u30c8\u30fc\u30ea\u30fc"
+        "ja": "\u30c6\u30a3\u30e9\u30ce"
       }
     ],
     "description": {
@@ -1618,130 +1713,6 @@
     "description": {},
     "status": "ongoing",
     "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "deb0cef0-4129-4899-939c-6f044589e2ea",
-    "title": {
-      "en": "Regression of the Close Combat Mage"
-    },
-    "updatedAt": "2024-11-20T19:35:55+00:00",
-    "coverArt": "https://mangadex.org/covers/deb0cef0-4129-4899-939c-6f044589e2ea/68a0e702-2827-4696-81d4-d67f925160a1.png",
-    "altTitles": [
-      {
-        "ja": "2\u5468\u76ee\u306e\u5927\u9b54\u5c0e\u58eb\u306f\u8fd1\u63a5\u9b54\u6cd5\u3067\u7121\u53cc\u3059\u308b"
-      },
-      {
-        "ja-ro": "2-Shuume no Daimadoushi wa Kinsetsu Mahou de Musou Suru"
-      },
-      {
-        "en": "The Second Life of the Archmage Dominates with Close-Range Magic"
-      },
-      {
-        "pt-br": "A Regress\u00e3o de um Mago Combatente"
-      }
-    ],
-    "description": {
-      "en": "When Vidrak the Death God invades and the fate of humanity hangs in the balance, the greatest mages of the realm stand in defiance\u2026 only to find that their spells have no effect, as the dark overlord effortlessly picks apart their attacks. Overwhelmed by a horde of monsters, long-range mage Setsuna Cromwell uses his last resort, the Amulet of Resurgence, to travel 10 years into the past. Now a freshman twice over, Setsuna must go against the grain by studying melee magic, known as the least prestigious domain \u2013 and the only one with a chance of defeating Vidrak.",
-      "pt-br": "**\u201cDessa vez, o ramo da magia que vou escolher \u00e9 a magia de combate!\u201d**\n\nDepois de ver a humanidade ser dizimada pelas m\u00e3os do deus maligno Vindrake, Setsuna Cronwell se v\u00ea sem esperan\u00e7as quando todas as magias dos melhores magos s\u00e3o ineficazes contra o monstro, at\u00e9 que... Uma magia faz efeito e machuca Vindrake. Se pelo menos Setsuna tivesse se especializado nesse ramo da magia... Voltando 10 anos ao passado, Setsuna Cronwell recebe mais uma chance de fazer a escolha certa, se fortalecer e salvar a humanidade!"
-    },
-    "status": "ongoing",
-    "releaseDate": 2024,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "2de8ffd3-25b7-42cd-80e8-32148478c40c",
-    "title": {
-      "en": "Kimi to Warui Koto ga Shitai"
-    },
-    "updatedAt": "2024-10-17T03:28:48+00:00",
-    "coverArt": "https://mangadex.org/covers/2de8ffd3-25b7-42cd-80e8-32148478c40c/bef5ac88-6368-4705-8e79-0fd131b673f7.jpg",
-    "altTitles": [
-      {
-        "en": "I Wanna Do Bad Things with You"
-      },
-      {
-        "ja": "\u541b\u3068\u60aa\u3044\u3053\u3068\u304c\u3057\u305f\u3044"
-      },
-      {
-        "zh-hk": "\u60f3\u548c\u4f60\u4e00\u8d77\u505a\u58de\u4e8b"
-      }
-    ],
-    "description": {
-      "en": "Mamori Wataya is a tall but dark, plain, and shady high school girl. One day she meets Soushi Fuji, who has a small, thin body and an evil-looking smile. A supporting character that no one can find and a villain that no one likes. This encounter turns their gray days blue.",
-      "ja": "\u80cc\u306f\u9ad8\u3044\u3051\u3069\u5730\u5473\u3067\u6697\u3044\u8107\u5f79\u5973\u5b50\u30fb\u307e\u3082\u308a\u3002\u5acc\u3044\u3060\u304b\u3089\u3068\u30d7\u30fc\u30eb\u306e\u6c34\u3092\u629c\u304f\u3001\u5b66\u6821\u4e00\u306e\u5acc\u308f\u308c\u8005\u306e\u60aa\u5f79\u7537\u5b50\u30fb\u85e4\u3002\u60aa\u3044\u30e4\u30c4\u306e\u3001\u4e0d\u601d\u8b70\u306a\u5f37\u3055\u306b\u60f9\u304b\u308c\u3066\u3044\u3063\u305f\u305d\u306e\u5148\u306b\u3042\u3063\u305f\u306e\u306f\u3001\u900f\u304d\u901a\u308b\u3088\u3046\u306a\u9752\u3044\u65e5\u3005\u3002"
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "7",
-    "lastChapter": "67"
-  },
-  {
-    "mangaId": "2b56f8d2-4596-4fc1-ac56-0343f7e3f07d",
-    "title": {
-      "ja": "Revenge"
-    },
-    "updatedAt": "2025-01-20T05:40:52+00:00",
-    "coverArt": "https://mangadex.org/covers/2b56f8d2-4596-4fc1-ac56-0343f7e3f07d/af798c86-510d-4a3a-920a-2e55bb32416e.jpg",
-    "altTitles": [
-      {
-        "en": "Revenge \uff5eYakimochi Yaitara Dame Desu ka?\uff5e"
-      },
-      {
-        "ja": "Revenge \uff5e\u30e4\u30ad\u30e2\u30c1\u59ac\u3044\u305f\u3089\u30c0\u30e1\u3067\u3059\u304b\uff1f\uff5e"
-      }
-    ],
-    "description": {
-      "en": "Rintarou is a middle-aged actor, recently gaining popularity thanks to a BL part. How will Sonoda, his manager, react when a titty monster actress appears and tries to seduce the man he loves?"
-    },
-    "status": "ongoing",
-    "releaseDate": 2021,
-    "contentRating": "erotica",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "c1c408f6-3dec-4d62-b6b3-b57e615d933c",
-    "title": {
-      "en": "Wind Breaker"
-    },
-    "updatedAt": "2025-01-08T09:32:46+00:00",
-    "coverArt": "https://mangadex.org/covers/c1c408f6-3dec-4d62-b6b3-b57e615d933c/8b279428-fa32-49b2-bd51-4f8d4db7d420.jpg",
-    "altTitles": [
-      {
-        "ru": "\u0412\u0435\u0442\u0440\u043e\u043b\u043e\u043c"
-      },
-      {
-        "ko": "\uc708\ub4dc\ube0c\ub808\uc774\ucee4"
-      },
-      {
-        "fa": "\u0628\u0627\u062f\u0634\u06a9\u0646"
-      },
-      {
-        "fr": "Wind Breaker \u2013 V\u00e9lo"
-      },
-      {
-        "kk": "\u0416\u0435\u043b \u0443\u0430\u0442\u049b\u044b\u0448"
-      },
-      {
-        "pt-br": "Quebra Vento"
-      },
-      {
-        "uk": "\u0412\u0456\u0442\u0440\u043e\u043b\u043e\u043c"
-      }
-    ],
-    "description": {
-      "en": "Jo Ja-Hyun (Jay) is the student president of Taeyang (Sunny) High. He is not just a smart student but an extreme biker with high techniques. As you follow his bike, you will meet his friends, love, and adventures.\n\n---\n\n**Contents:**\n- **Season 1:** 65 Chapters + Prologue + Special (0-65)\n- **Season 2.1:** 65 Chapters + Prologue (66-130)\n- **Season 2.2:** 117 Chapters (131-257)\n- **Season 3:** 128 Chapters (258-375)\n- **Season 4:** 53 Chapters (Ongoing) (376-)",
-      "fr": "Nous suivons l\u2019histoire de Jay un jeune lyc\u00e9en \u00e9tudiant et pr\u00e9sident du conseil des \u00e9l\u00e8ves de la Sunny High.\n\nAlors qu\u2019il \u00e9tait en train de faire du v\u00e9lo, ce dernier se fera rapidement rep\u00e9rer par Minu, membre de la Zephyrus Crew, un groupe de cycliste. Le jeune homme ayant \u00e9t\u00e9 impressionn\u00e9 par les comp\u00e9tences de Jay tentera de le recruter dans son \u00e9quipe, chose que le pr\u00e9sident du conseil des \u00e9l\u00e8ves refusera cat\u00e9goriquement.\n\nVoyant les nombreux refus de ce dernier, Minu abandonnera l\u2019id\u00e9e de le recruter et lui proposera simplement de faire une course contre TJ, \u00e9galement membre de la Zephyrus Crew. Alors que Jay s\u2019appr\u00eatait \u00e0 d\u00e9clin\u00e9 son offre, Minu lui dira que ce fameux TJ a insult\u00e9 son v\u00e9lo, disant qu\u2019il ne s\u2019agissait que d\u2019un tas de ferraille. Fou de rage, Jay acceptera finalement de prendre part \u00e0 la course\u2026",
-      "pt": "Jo Ja-Hyun (Jay) \u00e9 o Presidente do Conselho estudantil da Taeyang (Sunny) High. ele n\u00e3o \u00e9 somente um aluno inletigente mas um ciclista incr\u00edvel com \u00f3timas t\u00e9cnicas. enquanto voc\u00ea segue a bicicleta dele, ir\u00e1 conhecer seus amigos, amor e as aventuras."
-    },
-    "status": "ongoing",
-    "releaseDate": 2013,
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
