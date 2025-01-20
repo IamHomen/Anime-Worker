@@ -1,5 +1,5 @@
 {
-  "total": 5559,
+  "total": 5560,
   "per_page": 12,
   "current_page": 1,
   "last_page": 464,
@@ -8,6 +8,38 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 67949,
+      "anime_id": 5882,
+      "anime_title": "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+      "anime_session": "6bf4189f-ce98-7e5f-1ac3-8dd57a53af15",
+      "episode": 4,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/3cfc3e13051675953fd3691a5786659bd106be49b088641e5ff4a2f1e2f228a2.jpg",
+      "disc": "",
+      "session": "a01ddc5aa5ec472d8c1404f4b664da9f2079875196a4bb8f3c2b8734f6a57b6d",
+      "filler": 0,
+      "created_at": "2025-01-20 18:22:56",
+      "completed": 0
+    },
+    {
+      "id": 67948,
+      "anime_id": 5865,
+      "anime_title": "Medaka Kuroiwa is Impervious to My Charms",
+      "anime_session": "ceaafcd9-ae6e-9d0b-db9a-9d5f80a5383d",
+      "episode": 3,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/164ad09243147df5aab071708b0b5168fe9a1fe1ab392dd189c3f4eb7409b084.jpg",
+      "disc": "",
+      "session": "520d8cd342618241a76e95fa86615c835db17ab083e237b94579334a72d8f285",
+      "filler": 0,
+      "created_at": "2025-01-20 17:06:59",
+      "completed": 0
+    },
     {
       "id": 67946,
       "anime_id": 5651,
@@ -167,38 +199,6 @@
       "filler": 0,
       "created_at": "2025-01-19 22:42:38",
       "completed": 0
-    },
-    {
-      "id": 67939,
-      "anime_id": 5902,
-      "anime_title": "Theatre of Darkness: Yamishibai 14",
-      "anime_session": "5568e1c0-ec66-a666-3960-7464466c5406",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/9ad04aa732752bdad895c2226e6113cc27215e8b3ab976d92ff5e3a38bff3977.jpg",
-      "disc": "",
-      "session": "ad9726e616b36d1bac9834758488abac489893b09f7310154f729aae72225ed6",
-      "filler": 0,
-      "created_at": "2025-01-19 20:46:55",
-      "completed": 0
-    },
-    {
-      "id": 67938,
-      "anime_id": 5140,
-      "anime_title": "Chibi Maruko-chan",
-      "anime_session": "02b860f7-9da8-3041-afb7-90e45df12131",
-      "episode": 142,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "MaruChanSubs",
-      "snapshot": "https://i.animepahe.ru/snapshots/c18114f6e541b2a857ab828502cbf31bda9530c4d8ef206403372f695b3d6243.jpg",
-      "disc": "BD",
-      "session": "ba1a9e6cb6640097c731a0a2cf6549e8663de4bdce83999f62494c058c129624",
-      "filler": 0,
-      "created_at": "2025-01-19 19:18:55",
-      "completed": 1
     }
   ]
 }
