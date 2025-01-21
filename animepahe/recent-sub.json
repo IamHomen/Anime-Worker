@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 67983,
+      "anime_id": 5883,
+      "anime_title": "Flower and Asura",
+      "anime_session": "3b064e8a-de91-3073-6734-5c58d955e90c",
+      "episode": 3,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/fe588be03174bc7f6d8b32cac1d789787d25021e984a7e92a25dbec0c971b11a.jpg",
+      "disc": "",
+      "session": "ac5f41b70ee02cf3a921a50ae30b9249ead6bf3763ff6b1bbefcd936b7b99dcc",
+      "filler": 0,
+      "created_at": "2025-01-21 20:23:59",
+      "completed": 0
+    },
+    {
       "id": 67978,
       "anime_id": 5863,
       "anime_title": "Unnamed Memory Act.2",
@@ -182,22 +198,6 @@
       "session": "c80f173465fe1c87876da2f701c74dbc709c94b11e10e6f9f4432c8ab6751f19",
       "filler": 0,
       "created_at": "2025-01-20 17:06:59",
-      "completed": 0
-    },
-    {
-      "id": 67946,
-      "anime_id": 5651,
-      "anime_title": "Arifureta: From Commonplace to World's Strongest Season 3",
-      "anime_session": "48231048-7d26-25c2-e5d5-83415f63710a",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/6e32d50f7cf8231f5afddb055d57d4e1e9e7222961bb2f38506c77c84c148679.jpg",
-      "disc": "",
-      "session": "cded09e11b3fd16505628d27d199645f9fc199577a2cfa8b5b121a5fbc267cab",
-      "filler": 0,
-      "created_at": "2025-01-20 16:06:29",
       "completed": 0
     }
   ]
