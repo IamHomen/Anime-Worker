@@ -360,19 +360,19 @@
     "format": "TV"
   },
   {
-    "id": 11757,
-    "title": "Sword Art Online",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg",
-    "seasonYear": 2012,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 21450,
     "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21450-VsNSWuTsHBMR.jpg",
     "seasonYear": 2016,
     "totalEpisode": 39,
+    "format": "TV"
+  },
+  {
+    "id": 11757,
+    "title": "Sword Art Online",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg",
+    "seasonYear": 2012,
+    "totalEpisode": 25,
     "format": "TV"
   },
   {
