@@ -1,5 +1,5 @@
 {
-  "total": 5564,
+  "total": 5565,
   "per_page": 12,
   "current_page": 1,
   "last_page": 464,
@@ -22,6 +22,38 @@
       "session": "5cc97e95daf801bcd39c9427c289bfa9df9d7c26cbe82a526f50544e62a18cf6",
       "filler": 0,
       "created_at": "2025-01-21 16:05:44",
+      "completed": 0
+    },
+    {
+      "id": 67982,
+      "anime_id": 5667,
+      "anime_title": "Tying the Knot with an Amagami Sister",
+      "anime_session": "194be057-42dc-4a5f-21ba-610cd440f119",
+      "episode": 15,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/195d20da0048f6daae8cb6e0d5ffb57a435d05b2c5be1ac5b6a2d1e5b294aea3.jpg",
+      "disc": "",
+      "session": "4040d612e9168e543aa2eec6db40a7ece1c00e11ec3ef0cc6aa47b164d92ba86",
+      "filler": 0,
+      "created_at": "2025-01-21 16:34:15",
+      "completed": 0
+    },
+    {
+      "id": 67981,
+      "anime_id": 5887,
+      "anime_title": "Bogus Skill \"Fruit Master\": About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)",
+      "anime_session": "87ce1d9b-95d0-0e86-0b3e-139cd6ab82e8",
+      "episode": 4,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/808da38edd8f5b72f92be37a9474ef92a1bfbbacb40413df0456d417ef8cb2f8.jpg",
+      "disc": "",
+      "session": "4c0b6f00a9253df283dd5e09e5363a1818347512c2cce6810aefb12e0eed69d3",
+      "filler": 0,
+      "created_at": "2025-01-21 16:21:09",
       "completed": 0
     },
     {
@@ -166,38 +198,6 @@
       "session": "cded09e11b3fd16505628d27d199645f9fc199577a2cfa8b5b121a5fbc267cab",
       "filler": 0,
       "created_at": "2025-01-20 16:06:29",
-      "completed": 0
-    },
-    {
-      "id": 67945,
-      "anime_id": 5877,
-      "anime_title": "Headhunted to Another World: From Salaryman to Big Four!",
-      "anime_session": "a20efb26-3631-d4b4-fa74-5567aa1150f5",
-      "episode": 4,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/a3bc285da30d10000e7986a2f5d89a8ff37e0efd616208cbbca6b961add47143.jpg",
-      "disc": "",
-      "session": "3ba979a3f3ccd277b6483bb138de05d6dd9ea91cf4a154e93b1c8e2b9f6c262b",
-      "filler": 0,
-      "created_at": "2025-01-20 15:52:40",
-      "completed": 0
-    },
-    {
-      "id": 67944,
-      "anime_id": 5888,
-      "anime_title": "Promise of Wizard",
-      "anime_session": "7ac28ce3-7b98-bca9-84be-f2cc6f51a036",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/1bed4b3f0873c9cbdd208318e5330d10025854a90df2e843c7f62d578a7bbe10.jpg",
-      "disc": "",
-      "session": "5cc655c028ce393268be4e9a8d152003a5ba48bfc56d8bf5fd25c861f080732f",
-      "filler": 0,
-      "created_at": "2025-01-20 15:36:58",
       "completed": 0
     }
   ]
