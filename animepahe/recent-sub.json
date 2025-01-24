@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 68101,
+      "anime_id": 5957,
+      "anime_title": "Link Click: Bridon Arc",
+      "anime_session": "058b0eb3-bd09-69c6-362f-cffae133a3e9",
+      "episode": 5,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/14615b77f8359f461744f2117cf130a0091ea660672103c4d7a18c9c66b91b94.jpg",
+      "disc": "",
+      "session": "678d0e6b99db6035f93a7b142b44503833bf7331549e2a06bc48e0533bac30d8",
+      "filler": 0,
+      "created_at": "2025-01-24 05:06:46",
+      "completed": 0
+    },
+    {
+      "id": 68100,
+      "anime_id": 5557,
+      "anime_title": "Himitsu no AiPri",
+      "anime_session": "2ad8de4e-945d-98b2-c7f6-b3a424c4617c",
+      "episode": 41,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Piyoko",
+      "snapshot": "https://i.animepahe.ru/snapshots/317dd1f2b5b77cf263b0d5069363813c5dbefbb8b08f526c19bc0abcc046417f.jpg",
+      "disc": "",
+      "session": "693a1541e9d8e9de3850b9ee1118e957d9aa0a98afcedcb0bcaa3694ceaab2c9",
+      "filler": 0,
+      "created_at": "2025-01-24 00:10:26",
+      "completed": 0
+    },
+    {
       "id": 68099,
       "anime_id": 5669,
       "anime_title": "Rurouni Kenshin: Kyoto Disturbance",
@@ -167,38 +199,6 @@
       "filler": 0,
       "created_at": "2025-01-23 13:36:40",
       "completed": 0
-    },
-    {
-      "id": 68090,
-      "anime_id": 6016,
-      "anime_title": "Rune Soldier",
-      "anime_session": "6ec3bc72-8302-076b-e420-4be3519e59ec",
-      "episode": 24,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "mitchevan",
-      "snapshot": "https://i.animepahe.ru/snapshots/5940bd1661845ef19bc610a6d2234ea1fd846767fb9bd32e2af6a420adf8d21a.jpg",
-      "disc": "DVD",
-      "session": "5428cd3ee6a90918846b8d6e318676feda7a183d00534dd0b7b39a5a554eebcc",
-      "filler": 0,
-      "created_at": "2025-01-23 14:01:34",
-      "completed": 1
-    },
-    {
-      "id": 68066,
-      "anime_id": 6015,
-      "anime_title": "Legend of Crystania",
-      "anime_session": "6a9de4b4-2de3-91e3-2f96-2370131a175a",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "PH13",
-      "snapshot": "https://i.animepahe.ru/snapshots/455978c927473446aafa1f48962c344f5aa0dcd439396a76ce4bf02481d2cd8b.jpg",
-      "disc": "DVD",
-      "session": "3b37889f99f28d2e2c857cbb26624896fe136411f1bad4e390ce3d6ba2669e63",
-      "filler": 0,
-      "created_at": "2025-01-23 13:58:21",
-      "completed": 1
     }
   ]
 }
