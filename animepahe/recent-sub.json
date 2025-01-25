@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 68114,
+      "anime_id": 3,
+      "anime_title": "Meitantei Conan",
+      "anime_session": "57ac4218-c252-8a07-9826-892757692c19",
+      "episode": 1151,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/d2f9706ba4c26495a75f19b2ea62f8e37b09302efd9357e7bf336a7d7627872b.jpg",
+      "disc": "",
+      "session": "5b833c26fdd0a8909a1b357d22d56b1ee8304decd46684093c9128c39cadfd2f",
+      "filler": 0,
+      "created_at": "2025-01-25 12:40:53",
+      "completed": 0
+    },
+    {
+      "id": 68113,
+      "anime_id": 5680,
+      "anime_title": "Blue Miburo",
+      "anime_session": "714efcf9-3907-4350-886c-2a2fffa29aa5",
+      "episode": 15,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/c7d799a10aa3fc38a0f8d715d4f0956dc87b5c66c383c7fdb5e6c852fc670d09.jpg",
+      "disc": "",
+      "session": "671556a1aa2ab6ddf6c8bd5e85d63d341965d93cc410187a43a38ef9047b2ac7",
+      "filler": 0,
+      "created_at": "2025-01-25 11:09:27",
+      "completed": 0
+    },
+    {
       "id": 68112,
       "anime_id": 5255,
       "anime_title": "Pok\u00e9mon Horizons: The Series",
@@ -166,38 +198,6 @@
       "session": "373992d23ce0fbba3ec83f86c35e0ce512605578bad6802c45e0d77584940818",
       "filler": 0,
       "created_at": "2025-01-24 15:05:30",
-      "completed": 0
-    },
-    {
-      "id": 68102,
-      "anime_id": 5896,
-      "anime_title": "Tasokare Hotel",
-      "anime_session": "59092fd4-37c5-28eb-fd4a-664eb6d6d743",
-      "episode": 4,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Amazon",
-      "snapshot": "https://i.animepahe.ru/snapshots/f9880fbed22fcfcdff7dc310d80548be825c686a53bac2bdc6976f76b62b4d5e.jpg",
-      "disc": "",
-      "session": "e6c32fba4582b7d2cd3240138b308518000224295e818b88530086772eea1c42",
-      "filler": 0,
-      "created_at": "2025-01-24 14:39:05",
-      "completed": 0
-    },
-    {
-      "id": 68101,
-      "anime_id": 5957,
-      "anime_title": "Link Click: Bridon Arc",
-      "anime_session": "827dc374-5621-af4b-bc60-099ef3999dde",
-      "episode": 5,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/14615b77f8359f461744f2117cf130a0091ea660672103c4d7a18c9c66b91b94.jpg",
-      "disc": "",
-      "session": "6e81042c8a9537bbb0410bcaf4f09b177c486d22838f4d6110232f3923090975",
-      "filler": 0,
-      "created_at": "2025-01-24 05:06:46",
       "completed": 0
     }
   ]
