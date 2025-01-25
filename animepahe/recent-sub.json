@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 68118,
+      "anime_id": 5679,
+      "anime_title": "Orb: On the Movements of the Earth",
+      "anime_session": "9aa9e172-74be-3f7f-7500-350881a585ee",
+      "episode": 18,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Netflix",
+      "snapshot": "https://i.animepahe.ru/snapshots/43c7cb5c56d97ad3f5dd0eea019693614e796d44f369eba3fc0309ca93bb9143.jpg",
+      "disc": "",
+      "session": "abb7625669369fee33b8b7308825adad60f7b25666f921506481b2304c3e0ca2",
+      "filler": 0,
+      "created_at": "2025-01-25 15:40:27",
+      "completed": 0
+    },
+    {
       "id": 68117,
       "anime_id": 5891,
       "anime_title": "Babanbabanban Vampire",
@@ -182,22 +198,6 @@
       "session": "a69830898479d2d22aa58784604b9e250cacc98648029d243b583a59d85934da",
       "filler": 0,
       "created_at": "2025-01-24 16:50:17",
-      "completed": 0
-    },
-    {
-      "id": 68106,
-      "anime_id": 5869,
-      "anime_title": "\u00dcbel Blatt",
-      "anime_session": "5712f0a0-c352-7db2-6aa1-041605ba7b0a",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Amazon",
-      "snapshot": "https://i.animepahe.ru/snapshots/7895e4caf594ea05226df72b704f6a546204b0e7a4d2d2348d728fad17f76455.jpg",
-      "disc": "",
-      "session": "7f3b617d51ad700848412e3bd8aca264bb8922fb7fde098bc5715c6b20006b49",
-      "filler": 0,
-      "created_at": "2025-01-24 16:39:20",
       "completed": 0
     }
   ]
