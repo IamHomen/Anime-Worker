@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 68136,
+      "anime_id": 5868,
+      "anime_title": "Zenshu",
+      "anime_session": "26204f37-3a6f-05ce-ced9-a3d0e919aba1",
+      "episode": 4,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Yameii",
+      "snapshot": "https://i.animepahe.ru/snapshots/0e2a30ff55c574267c83f631558aee4feab216ad404e572862b6b7cd230e5fa5.jpg",
+      "disc": "",
+      "session": "7039f1053f85209c195f5fceba7bdba14e9acdbb1aad87d9b691201fbc6f8bc9",
+      "filler": 0,
+      "created_at": "2025-01-26 17:20:16",
+      "completed": 0
+    },
+    {
       "id": 68135,
       "anime_id": 5886,
       "anime_title": "The Red Ranger Becomes an Adventurer in Another World",
@@ -182,22 +198,6 @@
       "session": "dfa5d6adf2a853aba5051b27eeb6200ce44b10896a21c69cc0438ff5cb8c8845",
       "filler": 0,
       "created_at": "2025-01-25 18:38:10",
-      "completed": 0
-    },
-    {
-      "id": 68124,
-      "anime_id": 5871,
-      "anime_title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
-      "anime_session": "331b151d-f343-e503-26f4-85a1ae79094c",
-      "episode": 4,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/ada8efcfb9d513809be19d9dd4a4f52f70318993b866d1e9f1445c16546e4a65.jpg",
-      "disc": "",
-      "session": "b0959862e68414b36976d9f04c7dfa88781e4770502f53dc7f21a3b313f6d5e7",
-      "filler": 0,
-      "created_at": "2025-01-25 18:19:59",
       "completed": 0
     }
   ]
