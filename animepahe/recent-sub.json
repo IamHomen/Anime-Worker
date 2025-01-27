@@ -1,5 +1,5 @@
 {
-  "total": 5572,
+  "total": 5573,
   "per_page": 12,
   "current_page": 1,
   "last_page": 465,
@@ -8,6 +8,22 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 68140,
+      "anime_id": 5781,
+      "anime_title": "Future Folktales 2",
+      "anime_session": "2c1da2ff-6df6-66bf-2e48-bd37d4e6465f",
+      "episode": 12,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/de919b5047b2421bfa763b4f6a0b229e3e11c03367ce6947480f1e2d54ec20f3.jpg",
+      "disc": "",
+      "session": "226c0c2e9c80d9c941b12f9ed4ebb5290fd011210a834772486a314f72a027b7",
+      "filler": 0,
+      "created_at": "2025-01-27 15:04:44",
+      "completed": 0
+    },
     {
       "id": 68137,
       "anime_id": 5902,
@@ -182,22 +198,6 @@
       "session": "58024df56d35a4d9ba8d3ca4242452cf8fe3a481c3b09f9bcddb9a12bd8cef29",
       "filler": 0,
       "created_at": "2025-01-25 22:41:49",
-      "completed": 0
-    },
-    {
-      "id": 68126,
-      "anime_id": 5897,
-      "anime_title": "Witchy Pretty Cure!! Mirai Days",
-      "anime_session": "f4ae01e0-5fe8-154b-7c82-4c5a348a8958",
-      "episode": 3,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/1c3a09c730818c2c8d0dc2571fd94e46c29017c4b75aeda2904c1f8784918a15.jpg",
-      "disc": "",
-      "session": "1f2d25e50995a48f1e2c7e96e7534b68ed80004d2aca577da0203cb716e77e55",
-      "filler": 0,
-      "created_at": "2025-01-25 20:04:23",
       "completed": 0
     }
   ]
