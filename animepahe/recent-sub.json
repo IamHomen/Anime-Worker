@@ -1,5 +1,5 @@
 {
-  "total": 5573,
+  "total": 5572,
   "per_page": 12,
   "current_page": 1,
   "last_page": 465,
@@ -8,6 +8,38 @@
   "from": 1,
   "to": 12,
   "data": [
+    {
+      "id": 68142,
+      "anime_id": 5877,
+      "anime_title": "Headhunted to Another World: From Salaryman to Big Four!",
+      "anime_session": "60bc7f09-c153-6030-fb1f-a19ddea1e75f",
+      "episode": 5,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/44bbc8d6180cd40ec37dea6db12fcea056a9f426b646910a615ef22c2881697a.jpg",
+      "disc": "",
+      "session": "f3b1c3b763edc75678c4e837d2a46fc287b43efaf6dc54383f52695d4ac3bc8d",
+      "filler": 0,
+      "created_at": "2025-01-27 15:51:06",
+      "completed": 0
+    },
+    {
+      "id": 68141,
+      "anime_id": 5888,
+      "anime_title": "Promise of Wizard",
+      "anime_session": "a15eba3b-f463-0295-2a8f-1a108606e015",
+      "episode": 4,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/59486ba331cf6a38329d164cc38939a02333fad6fb9edb6d345dd027558f004a.jpg",
+      "disc": "",
+      "session": "7387b1b7bc0b91df900006e56941a703e200fa3d611d8efee8a0d455b8fa53b4",
+      "filler": 0,
+      "created_at": "2025-01-27 15:34:53",
+      "completed": 0
+    },
     {
       "id": 68140,
       "anime_id": 5781,
@@ -166,38 +198,6 @@
       "session": "12211a9ddc764cf8a2b4674375818d1d38b486d7acc9cdd5e8e69066410f91be",
       "filler": 0,
       "created_at": "2025-01-26 02:04:45",
-      "completed": 0
-    },
-    {
-      "id": 68128,
-      "anime_id": 5495,
-      "anime_title": "Wonderful Precure!",
-      "anime_session": "f802fb00-fbdb-ea86-77d5-1b5e44436ce9",
-      "episode": 50,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/ba623d9e1ef326346b2aa8e151aa9019e1316119bc426a394649a20bd04c9514.jpg",
-      "disc": "",
-      "session": "e719b078c124f3c0993d0c67db74a1303517547cd025d529c5bcf6358832244c",
-      "filler": 0,
-      "created_at": "2025-01-26 01:34:24",
-      "completed": 1
-    },
-    {
-      "id": 68127,
-      "anime_id": 5701,
-      "anime_title": "Touhai: Ura Rate Mahjong Touhairoku",
-      "anime_session": "0483a105-37da-11f1-8416-e819b322721e",
-      "episode": 15,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Anon",
-      "snapshot": "https://i.animepahe.ru/snapshots/df830321ff39e23374e06fcaa5dcd8637671a59f7a3e7925f2d3d287ae244383.jpg",
-      "disc": "",
-      "session": "58024df56d35a4d9ba8d3ca4242452cf8fe3a481c3b09f9bcddb9a12bd8cef29",
-      "filler": 0,
-      "created_at": "2025-01-25 22:41:49",
       "completed": 0
     }
   ]
