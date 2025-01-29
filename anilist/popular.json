@@ -160,19 +160,19 @@
     "format": "TV"
   },
   {
-    "id": 100166,
-    "title": "Boku no Hero Academia 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100166-jUCZYbzn2XLw.jpg",
-    "seasonYear": 2018,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 21507,
     "title": "Mob Psycho 100",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
     "seasonYear": 2016,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 100166,
+    "title": "Boku no Hero Academia 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100166-jUCZYbzn2XLw.jpg",
+    "seasonYear": 2018,
+    "totalEpisode": 25,
     "format": "TV"
   },
   {
@@ -216,14 +216,6 @@
     "format": "TV"
   },
   {
-    "id": 9253,
-    "title": "Steins;Gate",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
-    "seasonYear": 2011,
-    "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
     "id": 21355,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-IHaS50pvLYd0.jpg",
@@ -232,11 +224,11 @@
     "format": "TV"
   },
   {
-    "id": 20447,
-    "title": "Noragami",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
-    "seasonYear": 2014,
-    "totalEpisode": 12,
+    "id": 9253,
+    "title": "Steins;Gate",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg",
+    "seasonYear": 2011,
+    "totalEpisode": 24,
     "format": "TV"
   },
   {
@@ -245,6 +237,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-L71WpAkZPtgm.jpg",
     "seasonYear": 2018,
     "totalEpisode": 13,
+    "format": "TV"
+  },
+  {
+    "id": 20447,
+    "title": "Noragami",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
+    "seasonYear": 2014,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -368,19 +368,19 @@
     "format": "MOVIE"
   },
   {
-    "id": 124080,
-    "title": "Horimiya",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
-    "seasonYear": 2021,
-    "totalEpisode": 13,
-    "format": "TV"
-  },
-  {
     "id": 101348,
     "title": "VINLAND SAGA",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
     "seasonYear": 2019,
     "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 124080,
+    "title": "Horimiya",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
+    "seasonYear": 2021,
+    "totalEpisode": 13,
     "format": "TV"
   },
   {
