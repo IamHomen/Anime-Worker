@@ -1,5 +1,40 @@
 [
   {
+    "mangaId": "b24d2c22-5b28-44d4-a77f-0e920cd960a6",
+    "title": {
+      "en": "Wolf-chan wa Sumashitai"
+    },
+    "updatedAt": "2024-09-30T16:33:42+00:00",
+    "coverArt": "https://mangadex.org/covers/b24d2c22-5b28-44d4-a77f-0e920cd960a6/d93a5c33-dee7-476a-941a-51ea5b7ff574.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30a6\u30eb\u30d5\u3061\u3083\u3093\u306f\u6f84\u307e\u3057\u305f\u3044"
+      },
+      {
+        "en": "Wolf-chan Wants to Be Clear"
+      },
+      {
+        "id": "Gadis Serigala Mencoba Untuk Berpura pura Tidak Peduli"
+      },
+      {
+        "ja-ro": "Wolf chan wa Sumashitai"
+      },
+      {
+        "en": "Wolf-chan Is Trying to Feign Indifference"
+      }
+    ],
+    "description": {
+      "en": "The cool, lone-wolf girl and her precious, unrequited crush!\n\n(Source: Ganma!, translated)",
+      "ja": "\u30a6\u30eb\u30d5\u30ab\u30c3\u30c8\u3067\u4e00\u5339\u72fc\u306a\u30af\u30fc\u30eb\u7cfb\u5973\u5b50\u306e\u5c0a\u3044\u7247\u60f3\u3044\uff01",
+      "pt-br": "A loba solit\u00e1ria fria, e seu precioso amor n\u00e3o correspondido!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "13df5a6e-1cee-466c-9f06-09f38fb012b7",
     "title": {
       "en": "Renai no Jugyou"
@@ -1514,32 +1549,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "bfb60848-1245-4d1e-9cb2-bf2ad2f9df4f",
-    "title": {
-      "en": "Rokujouma no Shinryakusha!?"
-    },
-    "updatedAt": "2022-02-08T12:01:51+00:00",
-    "coverArt": "https://mangadex.org/covers/bfb60848-1245-4d1e-9cb2-bf2ad2f9df4f/12d0e03c-2ccc-4a95-a476-a8267c0cc73f.jpg",
-    "altTitles": [
-      {
-        "zh-hk": "\u4e09\u576a\u623f\u95f4\u7684\u4fb5\u7565\u8005\uff01"
-      },
-      {
-        "ja": "\u516d\u7573\u9593\u306e\u4fb5\u7565\u8005!?"
-      },
-      {
-        "en": "Invaders of the Rokujouma!?"
-      }
-    ],
-    "description": {
-      "en": "From MangaHelpers:  \n  \nNow that he enters his high school career, Satomi Koutaro begins his life living alone in an apartment that only costs him 5000 yen per month, an extremely cheap deal even for this small apartment. There's a catch: the apartment is apparently haunted by a cute ghost that has driven its prior occupants away. Next thing he knows, not only is there a ghost trying to drive him out of his new home, but magical girls and other unique female characters turn this small apartment into a battleground of sorts. [DrCoke]"
-    },
-    "status": "completed",
-    "releaseDate": 2013,
-    "contentRating": "safe",
-    "lastVolume": "5",
-    "lastChapter": "30"
   }
 ]
