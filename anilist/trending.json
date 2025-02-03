@@ -8,20 +8,20 @@
     "format": "TV"
   },
   {
-    "id": 176508,
-    "title": "Shangri-La Frontier 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
-    "seasonYear": 2024,
-    "totalEpisode": 25,
-    "format": "TV"
-  },
-  {
     "id": 177709,
     "title": "SAKAMOTO DAYS",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-jBQ965JZG0l8.png",
     "seasonYear": 2025,
     "totalEpisode": 11,
     "format": "ONA"
+  },
+  {
+    "id": 176508,
+    "title": "Shangri-La Frontier 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
+    "seasonYear": 2024,
+    "totalEpisode": 25,
+    "format": "TV"
   },
   {
     "id": 172258,
@@ -88,18 +88,18 @@
     "format": "TV"
   },
   {
-    "id": 167143,
-    "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-SoFo5kOvlkbO.jpg",
-    "seasonYear": 2025,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 171018,
     "title": "Dandadan",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-2ldCj6QywuOa.jpg",
     "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 167143,
+    "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-SoFo5kOvlkbO.jpg",
+    "seasonYear": 2025,
     "totalEpisode": 12,
     "format": "TV"
   },
@@ -133,14 +133,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
     "seasonYear": 2025,
     "totalEpisode": 24,
-    "format": "TV"
-  },
-  {
-    "id": 170083,
-    "title": "Dragon Ball DAIMA",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png",
-    "seasonYear": 2024,
-    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -216,14 +208,6 @@
     "format": "TV"
   },
   {
-    "id": 185880,
-    "title": "Ao no Exorcist: Yosuga-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185880-efBIcDBzPiHP.jpg",
-    "seasonYear": 2025,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 177506,
     "title": "Izure Saikyou no Renkinjutsushi?",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
@@ -232,11 +216,11 @@
     "format": "TV"
   },
   {
-    "id": 151807,
-    "title": "Ore dake Level Up na Ken",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png",
+    "id": 170083,
+    "title": "Dragon Ball DAIMA",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png",
     "seasonYear": 2024,
-    "totalEpisode": 12,
+    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -272,6 +256,22 @@
     "format": "TV"
   },
   {
+    "id": 97940,
+    "title": "Black Clover",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
+    "seasonYear": 2017,
+    "totalEpisode": 170,
+    "format": "TV"
+  },
+  {
+    "id": 185880,
+    "title": "Ao no Exorcist: Yosuga-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185880-efBIcDBzPiHP.jpg",
+    "seasonYear": 2025,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
     "id": 180292,
     "title": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
@@ -304,6 +304,14 @@
     "format": "TV"
   },
   {
+    "id": 151807,
+    "title": "Ore dake Level Up na Ken",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png",
+    "seasonYear": 2024,
+    "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
     "id": 169441,
     "title": "Watashi no Shiawase na Kekkon 2nd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-wIQe1xfCc1XS.jpg",
@@ -312,19 +320,19 @@
     "format": "TV"
   },
   {
-    "id": 97940,
-    "title": "Black Clover",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
-    "seasonYear": 2017,
-    "totalEpisode": 170,
-    "format": "TV"
-  },
-  {
     "id": 11061,
     "title": "HUNTER\u00d7HUNTER (2011)",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png",
     "seasonYear": 2011,
     "totalEpisode": 148,
+    "format": "TV"
+  },
+  {
+    "id": 185073,
+    "title": "Kimi to Idol Precure\u266a",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185073-qxDBOwjnK3wN.png",
+    "seasonYear": 2025,
+    "totalEpisode": null,
     "format": "TV"
   },
   {
@@ -389,14 +397,6 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
     "seasonYear": 2024,
     "totalEpisode": 14,
-    "format": "TV"
-  },
-  {
-    "id": 156822,
-    "title": "Tensei Shitara Slime Datta Ken 3rd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
-    "seasonYear": 2024,
-    "totalEpisode": 24,
     "format": "TV"
   }
 ]
