@@ -72,20 +72,20 @@
     "format": "TV"
   },
   {
-    "id": 21519,
-    "title": "Kimi no Na wa.",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-fPhvy69vnQqS.png",
-    "seasonYear": 2016,
-    "totalEpisode": 1,
-    "format": "MOVIE"
-  },
-  {
     "id": 154587,
     "title": "Sousou no Frieren",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-gHSraOSa0nBG.jpg",
     "seasonYear": 2023,
     "totalEpisode": 28,
     "format": "TV"
+  },
+  {
+    "id": 21519,
+    "title": "Kimi no Na wa.",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21519-fPhvy69vnQqS.png",
+    "seasonYear": 2016,
+    "totalEpisode": 1,
+    "format": "MOVIE"
   },
   {
     "id": 1735,
@@ -144,19 +144,19 @@
     "format": "TV"
   },
   {
-    "id": 20665,
-    "title": "Shigatsu wa Kimi no Uso",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-zuhC5OO6XgZ7.png",
-    "seasonYear": 2014,
-    "totalEpisode": 22,
-    "format": "TV"
-  },
-  {
     "id": 127230,
     "title": "Chainsaw Man",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-NuHM32a3VJsb.png",
     "seasonYear": 2022,
     "totalEpisode": 12,
+    "format": "TV"
+  },
+  {
+    "id": 20665,
+    "title": "Shigatsu wa Kimi no Uso",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-zuhC5OO6XgZ7.png",
+    "seasonYear": 2014,
+    "totalEpisode": 22,
     "format": "TV"
   },
   {
@@ -224,19 +224,19 @@
     "format": "TV"
   },
   {
-    "id": 101921,
-    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 269,
     "title": "BLEACH",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png",
     "seasonYear": 2004,
     "totalEpisode": 366,
+    "format": "TV"
+  },
+  {
+    "id": 101921,
+    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -336,14 +336,6 @@
     "format": "TV"
   },
   {
-    "id": 101759,
-    "title": "Yakusoku no Neverland",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-G9I2ymYrFS8o.jpg",
-    "seasonYear": 2019,
-    "totalEpisode": 12,
-    "format": "TV"
-  },
-  {
     "id": 145064,
     "title": "Jujutsu Kaisen 2nd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5U30gu2LSOv8.jpg",
@@ -360,11 +352,11 @@
     "format": "TV"
   },
   {
-    "id": 21450,
-    "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21450-VsNSWuTsHBMR.jpg",
-    "seasonYear": 2016,
-    "totalEpisode": 39,
+    "id": 101759,
+    "title": "Yakusoku no Neverland",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-G9I2ymYrFS8o.jpg",
+    "seasonYear": 2019,
+    "totalEpisode": 12,
     "format": "TV"
   },
   {
@@ -373,6 +365,14 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-ezBXqEHi8pg0.jpg",
     "seasonYear": 2018,
     "totalEpisode": 24,
+    "format": "TV"
+  },
+  {
+    "id": 21450,
+    "title": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21450-VsNSWuTsHBMR.jpg",
+    "seasonYear": 2016,
+    "totalEpisode": 39,
     "format": "TV"
   },
   {
