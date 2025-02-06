@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 68363,
+      "anime_id": 5669,
+      "anime_title": "Rurouni Kenshin: Kyoto Disturbance",
+      "anime_session": "90cad6cd-d210-6ad8-9f4b-0fa34ff2904c",
+      "episode": 41,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/1286b0e50f27acacef10936256d15241d28155b75f2ecc02cb7d3a0aea655efd.jpg",
+      "disc": "",
+      "session": "d6a57dae89ec482d0efae91f8e868e1976a63283d5701fbfa463ce0cd7d12028",
+      "filler": 0,
+      "created_at": "2025-02-06 19:05:19",
+      "completed": 0
+    },
+    {
+      "id": 68362,
+      "anime_id": 5698,
+      "anime_title": "Trillion Game",
+      "anime_session": "a84fa47b-246d-82f7-f094-7bb1533864ed",
+      "episode": 18,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/fe237e302a76efcb7205abb17a64c924674cc9e890c778fa4833731135c59daf.jpg",
+      "disc": "",
+      "session": "1bf3260d226df071ef8d47b8a8ca30edc8712769d97971c5f295f370a767134a",
+      "filler": 0,
+      "created_at": "2025-02-06 18:51:00",
+      "completed": 0
+    },
+    {
       "id": 68361,
       "anime_id": 5885,
       "anime_title": "Anyway, I'm Falling in Love with You.",
@@ -166,38 +198,6 @@
       "session": "76c1f10d465735af36bd880d2f958ad5f6b14301bc5e0bc10f89d33d36f4f999",
       "filler": 0,
       "created_at": "2025-02-05 18:04:25",
-      "completed": 0
-    },
-    {
-      "id": 68300,
-      "anime_id": 5892,
-      "anime_title": "Magic Maker: How to Make Magic in Another World",
-      "anime_session": "d854858c-2b21-1305-f137-242a7354ef4f",
-      "episode": 5,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Yameii",
-      "snapshot": "https://i.animepahe.ru/snapshots/d03d0728d310604e0b55b7e6f9fe1dcbfacaf8adb1c97d6a667d2ca79a346b6d.jpg",
-      "disc": "",
-      "session": "b9929b3153b8992cd2482bb1087f675fd45ac22fb8335b52dfbe284d338517f2",
-      "filler": 0,
-      "created_at": "2025-02-05 17:05:00",
-      "completed": 0
-    },
-    {
-      "id": 68299,
-      "anime_id": 5870,
-      "anime_title": "Grisaia: Phantom Trigger",
-      "anime_session": "5b17b56b-e6d3-029d-14f2-c151009c1ba5",
-      "episode": 6,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/8deaea4d15b5406982fda656abd2da7f161df411be5260d98d616d359014cb04.jpg",
-      "disc": "",
-      "session": "efbd310e59340e8df028b731b24848d5a62d1a66bb43478f82536e4084c1dc45",
-      "filler": 0,
-      "created_at": "2025-02-05 16:34:04",
       "completed": 0
     }
   ]
