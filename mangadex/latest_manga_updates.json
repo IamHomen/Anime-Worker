@@ -1,5 +1,102 @@
 [
   {
+    "mangaId": "d0f9e331-e022-4b49-8399-e14091d8b703",
+    "title": {
+      "en": "Listening to the Stars"
+    },
+    "updatedAt": "2023-11-02T18:59:00+00:00",
+    "coverArt": "https://mangadex.org/covers/d0f9e331-e022-4b49-8399-e14091d8b703/85d8c7f0-e029-4810-b76d-a51a338d47dc.jpg",
+    "altTitles": [
+      {
+        "zh": "\u542c\u661f"
+      },
+      {
+        "zh-hk": "\u807d\u661f"
+      },
+      {
+        "ru": "\u0421\u043b\u0443\u0448\u0430\u044f \u0437\u0432\u0451\u0437\u0434\u044b"
+      },
+      {
+        "zh-ro": "T\u012bng X\u012bng"
+      },
+      {
+        "pl": "Ws\u0142uchana w gwiazdy"
+      }
+    ],
+    "description": {
+      "en": "Having suffered several setbacks in her attempt to be a voice actor, Chi Yu no longer dares to bring up her hobby of dubbing in front of others. Instead, she covertly tunes in to voice drama broadcasts on Lily Radio. One day, during a public lecture at her university, she discovers that Yu Chen from the neighboring college shares a strikingly similar voice to the host of Lily Radio."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "68da21ba-6875-4b3e-b79f-8e3492fc1260",
+    "title": {
+      "en": "Blue Archive x Kamen Rider Decade - Story of Tsukasa Kadoya Sensei in Schale (Doujinshi)"
+    },
+    "updatedAt": "2025-01-01T12:48:42+00:00",
+    "coverArt": "https://mangadex.org/covers/68da21ba-6875-4b3e-b79f-8e3492fc1260/6483db44-f1cd-48d7-936c-96734e608bdd.jpg",
+    "altTitles": [
+      {
+        "ja": "\u30b7\u30e3\u30fc\u30ec\u306e\u9580\u77e2\u58eb\u5148\u751f\u6982\u5ff5"
+      },
+      {
+        "vi": "Blue Archive x Kamen Rider Decade - C\u00e2u chuy\u1ec7n v\u1ec1 th\u1ea7y gi\u00e1o Schale Kadoya Tsukasa"
+      }
+    ],
+    "description": {
+      "en": "Anyone who is a fan of the Kamen Rider genre probably knows Kamen Rider Decade, also known as Kadoya Tsukasa;  world destroyer... The story is about Decade working as a sensei in the Blue Archive world"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "bc8f71a4-49d8-498b-a231-10faa0d53ab6",
+    "title": {
+      "en": "Stardust Telepath"
+    },
+    "updatedAt": "2024-03-07T00:49:39+00:00",
+    "coverArt": "https://mangadex.org/covers/bc8f71a4-49d8-498b-a231-10faa0d53ab6/77302f0c-54bc-430e-b29f-6cee377517a7.jpg",
+    "altTitles": [
+      {
+        "ja": "\u661f\u5c51\u30c6\u30ec\u30d1\u30b9"
+      },
+      {
+        "zh": "\u661f\u7075\u611f\u5e94"
+      },
+      {
+        "ja-ro": "Hoshikuzu Telepath"
+      },
+      {
+        "pt-br": "Telepata de Poeira Estelar"
+      },
+      {
+        "ko": "\ubcc4\ubb34\ub9ac \ud154\ub808\ud328\uc2a4"
+      },
+      {
+        "th": "\u0e42\u0e17\u0e23\u0e08\u0e34\u0e15\u0e25\u0e30\u0e2d\u0e2d\u0e07\u0e14\u0e32\u0e27"
+      },
+      {
+        "zh-hk": "\u661f\u9748\u611f\u61c9"
+      }
+    ],
+    "description": {
+      "en": "Umika is a very shy girl who has always been very bad at communicating with others. Over time she gave up on making any friends, until one day she meets the transfer student Yuu. Yuu claims to be an alien with the power of \"Foreheadelepathy\" - being able to read people's emotions by pressing her forehead to theirs.    From the up-and-coming author Okuma Rasuko, a dazzling story about yuri, space and youth.",
+      "pt-br": "Umika \u00e9 uma estudante muito gentil e t\u00edmida. Ela acha dif\u00edcil falar com outras pessoas e sonha em um dia conhecer algu\u00e9m de outro planeta. Mas sua solit\u00e1ria vida escolar toma um rumo c\u00f3smico quando ela conhece a nova aluna transferida chamada Yu, uma alien\u00edgena com poderes telep\u00e1ticos! As duas se aproximam e prometem um dia irem ao espa\u00e7o. \u00c9 assim que elas decidem construir um foguete e disparar em dire\u00e7\u00e3o \u00e0s estrelas, fazendo novas amizades pelo caminho."
+    },
+    "status": "ongoing",
+    "releaseDate": 2019,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "400e349a-0432-44cc-912b-b5162385b59e",
     "title": {
       "en": "Kyouryuu-chan to Kaseki-kun"
@@ -775,39 +872,6 @@
     "contentRating": "safe",
     "lastVolume": "1",
     "lastChapter": "4"
-  },
-  {
-    "mangaId": "d0f9e331-e022-4b49-8399-e14091d8b703",
-    "title": {
-      "en": "Listening to the Stars"
-    },
-    "updatedAt": "2023-11-02T18:59:00+00:00",
-    "coverArt": "https://mangadex.org/covers/d0f9e331-e022-4b49-8399-e14091d8b703/85d8c7f0-e029-4810-b76d-a51a338d47dc.jpg",
-    "altTitles": [
-      {
-        "zh": "\u542c\u661f"
-      },
-      {
-        "zh-hk": "\u807d\u661f"
-      },
-      {
-        "ru": "\u0421\u043b\u0443\u0448\u0430\u044f \u0437\u0432\u0451\u0437\u0434\u044b"
-      },
-      {
-        "zh-ro": "T\u012bng X\u012bng"
-      },
-      {
-        "pl": "Ws\u0142uchana w gwiazdy"
-      }
-    ],
-    "description": {
-      "en": "Having suffered several setbacks in her attempt to be a voice actor, Chi Yu no longer dares to bring up her hobby of dubbing in front of others. Instead, she covertly tunes in to voice drama broadcasts on Lily Radio. One day, during a public lecture at her university, she discovers that Yu Chen from the neighboring college shares a strikingly similar voice to the host of Lily Radio."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "suggestive",
-    "lastVolume": "",
-    "lastChapter": ""
   },
   {
     "mangaId": "18dec7db-76a0-48f2-8d22-f7e330bcdf20",
@@ -1902,49 +1966,5 @@
     "contentRating": "safe",
     "lastVolume": null,
     "lastChapter": null
-  },
-  {
-    "mangaId": "0b1d5fe1-5942-402e-91ad-94dd99a96fdc",
-    "title": {
-      "en": "Oshiegoto"
-    },
-    "updatedAt": "2025-01-04T04:43:33+00:00",
-    "coverArt": "https://mangadex.org/covers/0b1d5fe1-5942-402e-91ad-94dd99a96fdc/5436085f-59b6-4579-bea3-3f21502dfc3b.jpg",
-    "altTitles": [
-      {
-        "ja-ro": "Oshiegoto"
-      },
-      {
-        "ja": "\u304a\u3057\u3048\u3054\u3068"
-      },
-      {
-        "ja": "\u304a\u3057\u3048\u3054\u3068 \u540c\u4eba\u6559\u5e2b\u3068\u5929\u624d\u30ae\u30e3\u30eb"
-      }
-    ],
-    "description": {
-      "en": "A female art teacher who creates doujinshi meets a high school student gyaru who is a talented artist.\n\n(Source: MangaUpdates)"
-    },
-    "status": "completed",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "3",
-    "lastChapter": "15"
-  },
-  {
-    "mangaId": "e7b6ea19-6bb1-4fac-a795-921f4bd16512",
-    "title": {
-      "en": "Touhou - MEAT MATE MEET (Doujinshi)"
-    },
-    "updatedAt": "2025-02-07T02:59:43+00:00",
-    "coverArt": "https://mangadex.org/covers/e7b6ea19-6bb1-4fac-a795-921f4bd16512/a1ed2161-908b-4ffa-a968-f93c9ae55b93.jpg",
-    "altTitles": [],
-    "description": {
-      "en": "Human meat is back on the menu, and mass-produced this time. However, the youkai seem to be displeased with the bad taste of the food they enjoy so much. This dissatisfaction has reached the ears of a group that aims to improve the rationed food. At the same time, there is a new group that plans to release the humans used as ingredients."
-    },
-    "status": "completed",
-    "releaseDate": 2021,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
   }
 ]
