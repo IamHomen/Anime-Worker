@@ -9,6 +9,38 @@
   "to": 12,
   "data": [
     {
+      "id": 68444,
+      "anime_id": 5680,
+      "anime_title": "Blue Miburo",
+      "anime_session": "ce7e1a6e-3f2e-0b3c-a42c-f485afea3dad",
+      "episode": 17,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/ec22b6a64dd2f819e7578250d677cb72d55bf34ecfd2cbc47932c1e06a55ca36.jpg",
+      "disc": "",
+      "session": "ea04c6778cee4d57b30cef75bc51514deb9d2057d0bc7a375ff534c8d6bbccd4",
+      "filler": 0,
+      "created_at": "2025-02-08 21:29:50",
+      "completed": 0
+    },
+    {
+      "id": 68443,
+      "anime_id": 5897,
+      "anime_title": "Witchy Pretty Cure!! Mirai Days",
+      "anime_session": "3540a6dd-d713-d769-35e8-ba3d2cfd6bc3",
+      "episode": 5,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/f8da29beff20a08847dacd297290695830747ab027b875bef700a9d5eb6a0c79.jpg",
+      "disc": "",
+      "session": "2f2881537f117bd6faf5ae9612bbc24e593b958735a7a1e124ce3d3d90321dac",
+      "filler": 0,
+      "created_at": "2025-02-08 20:04:55",
+      "completed": 0
+    },
+    {
       "id": 68442,
       "anime_id": 5871,
       "anime_title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
@@ -166,38 +198,6 @@
       "session": "3f657877a66ae39099b5a7ef76061d39bddcd6db1b3e58c7ac45ff71ebe77b32",
       "filler": 0,
       "created_at": "2025-02-08 14:48:04",
-      "completed": 0
-    },
-    {
-      "id": 68432,
-      "anime_id": 5874,
-      "anime_title": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
-      "anime_session": "0576893b-1e6e-fdb5-afdc-2d8176ff9415",
-      "episode": 7,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/2a3bff6e013625f89b148b8aaddf502f10ac1b5aff416d4bdccddc18a04ef6d4.jpg",
-      "disc": "",
-      "session": "b5245772579c676536c1cc6edacc5a5ebe9f30cbd9fadf10f08cc7f226dc1bfd",
-      "filler": 0,
-      "created_at": "2025-02-08 14:05:21",
-      "completed": 0
-    },
-    {
-      "id": 68431,
-      "anime_id": 3,
-      "anime_title": "Meitantei Conan",
-      "anime_session": "094c6046-9dc5-270b-2ae5-3a4f2972a415",
-      "episode": 1152,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/62aa132c449dce17fa284b7a249bf2c746091b88f3af126ab8cb34c4e31fd448.jpg",
-      "disc": "",
-      "session": "53bb1b36c4582760ee79cd349ec06bf2de9e3dee2c4e252377d915ebc1e69e59",
-      "filler": 0,
-      "created_at": "2025-02-08 12:32:56",
       "completed": 0
     }
   ]
