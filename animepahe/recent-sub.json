@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 68452,
+      "anime_id": 5889,
+      "anime_title": "I Want to Escape from Princess Lessons",
+      "anime_session": "fc848c6d-4619-0e92-932a-d8701942d8b8",
+      "episode": 6,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/1a811e5a8a60b192711ba489db5ba196e6a3b4104e6d50ee6e79e7c65787817a.jpg",
+      "disc": "",
+      "session": "0e8ce5b1a12248a9f0be3b2688c5b226d5a1bc607e3eff04d3b3e9700be63709",
+      "filler": 0,
+      "created_at": "2025-02-09 14:20:57",
+      "completed": 0
+    },
+    {
       "id": 68451,
       "anime_id": 5653,
       "anime_title": "Shangri-La Frontier Season 2",
@@ -182,22 +198,6 @@
       "session": "b421613db19dc8f6dbf6ab10ccd557cb9662b7e2cb4b10cef92dc210e56289f3",
       "filler": 0,
       "created_at": "2025-02-08 17:37:21",
-      "completed": 0
-    },
-    {
-      "id": 68438,
-      "anime_id": 5879,
-      "anime_title": "Medalist",
-      "anime_session": "594e483c-f6db-a612-847e-afc049b417ea",
-      "episode": 6,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Disney_Plus",
-      "snapshot": "https://i.animepahe.ru/snapshots/d83508e56f9d353b1a81da630233fc07173b556ae0aee17c2915ab32f6badd33.jpg",
-      "disc": "",
-      "session": "188df09cd3dc1b051f675c14e1987be6bfb63b7f2dcb650e746f3103e611f496",
-      "filler": 0,
-      "created_at": "2025-02-08 17:11:40",
       "completed": 0
     }
   ]
