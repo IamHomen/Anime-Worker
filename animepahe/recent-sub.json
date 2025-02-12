@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 68497,
+      "anime_id": 5872,
+      "anime_title": "Ishura 2nd Season",
+      "anime_session": "e2f1d78f-0a7e-b969-6bfd-4013bb21b02e",
+      "episode": 18,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "Disney_Plus",
+      "snapshot": "https://i.animepahe.ru/snapshots/458cefb381b9de5b0096513f6928e991ceb41ef018de81888e43fb354ca35066.jpg",
+      "disc": "",
+      "session": "013641635d9bcfc3ef0baaf4fb9559b4c06863a72443d7d33bb829586d0acea5",
+      "filler": 0,
+      "created_at": "2025-02-12 14:10:04",
+      "completed": 0
+    },
+    {
       "id": 68496,
       "anime_id": 5883,
       "anime_title": "Flower and Asura",
@@ -183,22 +199,6 @@
       "filler": 0,
       "created_at": "2025-02-10 15:43:54",
       "completed": 0
-    },
-    {
-      "id": 59302,
-      "anime_id": 5205,
-      "anime_title": "Skip and Loafer",
-      "anime_session": "ef38ea20-ee57-4cc9-8894-31011dce9774",
-      "episode": 12,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "sam",
-      "snapshot": "https://i.animepahe.ru/snapshots/76d997ebae86d9b8d6e4879a2c27780d27d58f6c668df99ca7e25449b5ae7a2c.jpg",
-      "disc": "BD",
-      "session": "8f321d96239f9e69582fd531c91b619c693a15f0fa98df0493fa01310bca1171",
-      "filler": 0,
-      "created_at": "2023-06-20 15:34:16",
-      "completed": 1
     }
   ]
 }
