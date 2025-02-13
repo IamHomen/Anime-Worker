@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 68513,
+      "anime_id": 5698,
+      "anime_title": "Trillion Game",
+      "anime_session": "c9e60ad1-8da5-202f-d53e-83f36ff013b1",
+      "episode": 19,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/ca0e3207a90a92025a8eb165e2b355527e3f5ee1fcf89dce43deb3b41a5094d6.jpg",
+      "disc": "",
+      "session": "b2457fb764627269de2ba11e4d4f2761915535affee9b6835aa4ab30e1873e5a",
+      "filler": 0,
+      "created_at": "2025-02-13 18:51:13",
+      "completed": 0
+    },
+    {
       "id": 68512,
       "anime_id": 5885,
       "anime_title": "Anyway, I'm Falling in Love with You.",
@@ -182,22 +198,6 @@
       "session": "7543616e9beaf9d1d067d07be81d741409958424825e69c6d29e354d2579f003",
       "filler": 0,
       "created_at": "2025-02-12 18:29:38",
-      "completed": 0
-    },
-    {
-      "id": 68501,
-      "anime_id": 5892,
-      "anime_title": "Magic Maker: How to Make Magic in Another World",
-      "anime_session": "270e2302-8e66-c863-1fba-6d157026e672",
-      "episode": 6,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "Yameii",
-      "snapshot": "https://i.animepahe.ru/snapshots/e74566610f5e22e5a8e20e1f165f4f03a42cb5518396bcc9d503ff9a67c3496a.jpg",
-      "disc": "",
-      "session": "e51ae346440cb6a0d907efc0de935bd300a7e78820baa77f63dffef47640e684",
-      "filler": 0,
-      "created_at": "2025-02-12 17:07:45",
       "completed": 0
     }
   ]
