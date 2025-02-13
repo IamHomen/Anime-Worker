@@ -1,5 +1,110 @@
 [
   {
+    "mangaId": "f349008f-0896-4ec8-bc37-56733525dfc7",
+    "title": {
+      "en": "Girls \u00d7 Vampire"
+    },
+    "updatedAt": "2025-02-07T20:41:40+00:00",
+    "coverArt": "https://mangadex.org/covers/f349008f-0896-4ec8-bc37-56733525dfc7/e04eb3c0-1264-41f4-b7a9-850481803cbf.png",
+    "altTitles": [
+      {
+        "ja": "\u30ac\u30fc\u30eb\u30ba\u00d7\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2"
+      },
+      {
+        "en": "Girls x Vampire"
+      },
+      {
+        "uk": "\u0414\u0456\u0432\u0447\u0430\u0442\u0430 \u00d7 \u0412\u0430\u043c\u043f\u0456\u0440"
+      },
+      {
+        "ar": "\u0628\u0646\u0627\u062a \u00d7 \u0645\u0635\u0627\u0635\u064a \u0627\u0644\u062f\u0645\u0627\u0621"
+      }
+    ],
+    "description": {
+      "en": "**Alt Official Raw:** [note](https://note.com/girls_vampire)"
+    },
+    "status": "ongoing",
+    "releaseDate": 2025,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "c3b168a0-2f0c-4f2b-b75a-17b081866c64",
+    "title": {
+      "en": "Magabanashi: Ghost Stories Spreading on Social Media"
+    },
+    "updatedAt": "2025-01-31T22:10:40+00:00",
+    "coverArt": "https://mangadex.org/covers/c3b168a0-2f0c-4f2b-b75a-17b081866c64/fa82af29-357e-46ef-8b8b-925838f7e4d1.jpg",
+    "altTitles": [
+      {
+        "ja": "\u798d\u8a71: SNS\u3067\u4f1d\u64ad\u3059\u308b\u4ee4\u548c\u602a\u8ac7"
+      },
+      {
+        "ja-ro": "Magabanashi: SNS de Denpa suru Reiwa Kaidan"
+      }
+    ],
+    "description": {
+      "en": "Based on the popular horror radio show Magabanashi, this anthology captures supernatural stories that have taken on a life of their own across social media. Readers are cautioned that these tales come with risks, as they tap into deep-seated fears and blur the line between reality and the supernatural."
+    },
+    "status": "ongoing",
+    "releaseDate": 2023,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "7382dfe5-d645-4b58-a576-7a2ee179cce7",
+    "title": {
+      "en": "Watashi Dake ga Miyaji Miyuki wo Aishiteiru"
+    },
+    "updatedAt": "2025-01-05T08:53:41+00:00",
+    "coverArt": "https://mangadex.org/covers/7382dfe5-d645-4b58-a576-7a2ee179cce7/d8b1a235-a938-43fe-8f7f-95bfb725eabf.jpg",
+    "altTitles": [
+      {
+        "ja": "\u79c1\u3060\u3051\u304c\u5bae\u5730\u7f8e\u96ea\u3092\u611b\u3057\u3066\u3044\u308b"
+      },
+      {
+        "ja-ro": "Watashi Dake ga Miyaji Miyuki wo Aishiteiru"
+      },
+      {
+        "en": "I'm the Only One for Miyaji Miyuki"
+      }
+    ],
+    "description": {
+      "en": "Miyaji Miyuki (16) moved away when she was little, not long after going on a spree of proposing to several different girls in kindergarten.\n\nYears later, she returns to her hometown and transfers to a new high school, where she is forced to reckon with her past..."
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "suggestive",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
+    "mangaId": "65936513-d6aa-4aeb-ae16-6afb00c3d8c3",
+    "title": {
+      "en": "Liu Sui Kaishi Chengwei Nvwang"
+    },
+    "updatedAt": "2025-01-09T22:51:57+00:00",
+    "coverArt": "https://mangadex.org/covers/65936513-d6aa-4aeb-ae16-6afb00c3d8c3/2ab1b80c-9e7c-4c58-b7a6-51dfb8cf1b21.png",
+    "altTitles": [
+      {
+        "zh": "\u516d\u5c81\u5f00\u59cb\u6210\u4e3a\u5973\u738b"
+      },
+      {
+        "en": "Becoming the Queen at the Age of Six"
+      }
+    ],
+    "description": {
+      "en": "I woke up to find myself transmigrated into a novel as the \u201cbackground character that's doomed to die.\u201d Now stuck in the body of a six-year-old, I\u2019ve got some serious challenges ahead of me. But I\u2019m not about to let fate have its way. Even if I have to become the villain, I\u2019ll do whatever it takes to survive!"
+    },
+    "status": "ongoing",
+    "releaseDate": 2024,
+    "contentRating": "safe",
+    "lastVolume": "",
+    "lastChapter": ""
+  },
+  {
     "mangaId": "64113fcd-4f8c-41bc-8fa4-18a83076da2e",
     "title": {
       "en": "The Last Human"
@@ -194,40 +299,6 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "765d584a-5471-4da1-a384-b4df252da29b",
-    "title": {
-      "en": "Dragon King\u2019s Palace: The Richest Son-in-Law"
-    },
-    "updatedAt": "2025-01-30T20:13:51+00:00",
-    "coverArt": "https://mangadex.org/covers/765d584a-5471-4da1-a384-b4df252da29b/933acab9-df3e-43f9-9a1e-311e7baadf7a.jpg",
-    "altTitles": [
-      {
-        "zh": "\u6700\u8c6a\u8d05\u5a7f \u9f8d\u738b\u6bbf"
-      },
-      {
-        "zh-ro": "Zu\u00ec H\u00e1o Zh\u00f9i X\u00f9 L\u00f3ng W\u00e1ng Di\u00e0n"
-      },
-      {
-        "en": "The Most Heroic Son-in-Law King"
-      },
-      {
-        "en": "The Most Luxurious Son-in-Law: Dragon King's Palace"
-      },
-      {
-        "vi": "Long V\u01b0\u01a1ng \u0110i\u1ec7n: Ng\u01b0\u1eddi \u1ede R\u1ec3 Gi\u00e0u Nh\u1ea5t"
-      }
-    ],
-    "description": {
-      "en": "I am nothing in the eyes of others; my mother-in-law despises me, thinking I just rely on my wife and spend her money. And then there\u2019s a group of lowlifes who are constantly coveting my wife. Who says a man marrying into his wife\u2019s family can\u2019t rise to greatness? Ji Xueyu! From now on, I\u2019ll be the one to protect you",
-      "vi": "Ta ch\u1eb3ng l\u00e0 g\u00ec trong m\u1eaft ng\u01b0\u1eddi kh\u00e1c, m\u1eb9 v\u1ee3 khinh th\u01b0\u1eddng v\u00ec ngh\u0129 ta \u0103n b\u00e1m v\u1ee3, ti\u00eau ti\u1ec1n c\u1ee7a v\u1ee3. Ngo\u00e0i ra c\u00f2n c\u00f3 m\u1ed9t l\u0169 c\u1eb7n b\u00e3 lu\u00f4n th\u00e8m mu\u1ed1n v\u1ee3 ta. Ai n\u00f3i l\u00e0 v\u00e0o c\u1eeda nh\u00e0 v\u1ee3 th\u00ec kh\u00f4ng th\u1ec3 bay l\u00ean 9 t\u1ea7ng m\u00e2y? K\u1ef7 Tuy\u1ebft V\u0169! Sau n\u00e0y s\u1ebd do ta b\u1ea3o v\u1ec7 em"
-    },
-    "status": "completed",
-    "releaseDate": 2020,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "256"
   },
   {
     "mangaId": "ad75039d-686c-457f-b478-e56fc3b3c069",
@@ -1535,78 +1606,5 @@
     "contentRating": "safe",
     "lastVolume": "",
     "lastChapter": ""
-  },
-  {
-    "mangaId": "9ad4148b-8c9e-48d5-89ec-e7b98a660e42",
-    "title": {
-      "en": "Oomuro-ke"
-    },
-    "updatedAt": "2025-01-29T01:06:13+00:00",
-    "coverArt": "https://mangadex.org/covers/9ad4148b-8c9e-48d5-89ec-e7b98a660e42/57886a93-6c2f-4bbd-b78b-9b32805f9199.jpg",
-    "altTitles": [
-      {
-        "ja": "\u5927\u5ba4\u5bb6"
-      },
-      {
-        "ja-ro": "Oomuroke"
-      },
-      {
-        "en": "Oomuro Family"
-      },
-      {
-        "en": "Oomuro House"
-      }
-    ],
-    "description": {
-      "en": "*A spin-off of the YuruYuri series featuring the Oomuro family of sisters!*\n\nFrom oldest to youngest, there's **Nadeshiko**, the cool and serious high schooler; **Sakurako**, the silly, lazy, and (slightly) dimwitted middle schooler; and **Hanako**, the intelligent and mature elementary schooler! \n\nThis story focuses on these three sisters, their friends. and the many fun and wild adventures they have together!",
-      "ja": "\u512a\u79c0\u306a\u9577\u5973\u30fb\u64ab\u5b50\u3001\u6b8b\u5ff5\u306a\u6b21\u5973\u30fb\u6afb\u5b50\u3001\u512a\u79c0\u306a\u4e09\u5973\u30fb\u82b1\u5b50\u304b\u3089\u306a\u308b\u5927\u5ba4\u5bb6\uff13\u59c9\u59b9\u3002\u81ea\u7531\u5954\u653e\u306a\u6afb\u5b50\u3092\u4e2d\u5fc3\u306b\u4eca\u65e5\u3082\u5927\u5ba4\u3055\u3093\u5bb6\u306f\u8cd1\u3084\u304b\u3067\u3059\u266a"
-    },
-    "status": "ongoing",
-    "releaseDate": 2012,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "cb3b4af2-9a97-4858-b074-46985e8b9fb4",
-    "title": {
-      "en": "I Want to Live a Good Life"
-    },
-    "updatedAt": "2024-12-31T06:21:08+00:00",
-    "coverArt": "https://mangadex.org/covers/cb3b4af2-9a97-4858-b074-46985e8b9fb4/11d2f3bb-0fb5-47b8-a68c-3e60e1a848bd.jpg",
-    "altTitles": [
-      {
-        "ko": "\ucc29\ud558\uac8c \uc0b4\uace0 \uc2f6\uc5c8\ub2f5\ub2c8\ub2e4"
-      }
-    ],
-    "description": {
-      "en": "The best in the world, excellent martial arts, overflowing money and pleasure----the center of the magical world, Black Astronomy. Kang Hee-ran, the granddaughter of the owner of Heukcheonmun, lives a life that has nothing to lack and nothing to be envied of, but dies at the hands of her stepmother. And for some reason, Heeran reverted to her younger self! In the life that started again, she goes down quietly and kindly with her warm nanny. The first step of revenge begins with making the third Confucius, Kang Lun, the king of the underworld who will soon rule Black Astronomy, into a man of Heiran...!!  I was trying to live...  Heeran's stepmother didn't like the way he looked and started to kill all of Heeran's people.  And Heeran went to the bottom of the Dark Astronomical Gate to the realm of the deep hell for revenge."
-    },
-    "status": "ongoing",
-    "releaseDate": 2023,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": ""
-  },
-  {
-    "mangaId": "dc541cb9-0037-45ac-a3e9-4189a42afb6c",
-    "title": {
-      "en": "Musician Genius Who Lives Twice"
-    },
-    "updatedAt": "2024-11-12T04:07:25+00:00",
-    "coverArt": "https://mangadex.org/covers/dc541cb9-0037-45ac-a3e9-4189a42afb6c/7c256b2b-b68f-4149-a0e3-f48fe3b3e07a.jpg",
-    "altTitles": [
-      {
-        "ko": "\ub450 \ubc88 \uc0ac\ub294 \uc74c\uc545\ucc9c\uc7ac"
-      }
-    ],
-    "description": {
-      "en": "Even if a musician dies, he never dies. It's just covered. Singer-songwriter Kim Han-seok, who became a legend in Korea with just a guitar... Waking up as a college student in the streaming era 30 years after his death!"
-    },
-    "status": "completed",
-    "releaseDate": 2022,
-    "contentRating": "safe",
-    "lastVolume": "",
-    "lastChapter": "75"
   }
 ]
