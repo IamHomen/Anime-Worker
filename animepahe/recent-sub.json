@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 68514,
+      "anime_id": 5669,
+      "anime_title": "Rurouni Kenshin: Kyoto Disturbance",
+      "anime_session": "702ea22f-b889-24d5-5634-eeb62df8a61e",
+      "episode": 42,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/aa79f4cc716f41163aa7c721f2bbd58d2af0b5d89c5780a30dce178fcc2078a2.jpg",
+      "disc": "",
+      "session": "4a1939084c096e060331f7b8d153854211f3af7ad852dd181fc826708fc1c910",
+      "filler": 0,
+      "created_at": "2025-02-13 19:05:55",
+      "completed": 0
+    },
+    {
       "id": 68513,
       "anime_id": 5698,
       "anime_title": "Trillion Game",
@@ -182,22 +198,6 @@
       "session": "ada65075e440083a817dd15c36a8255fd89e51f59729ab68e448f88f7d45b584",
       "filler": 0,
       "created_at": "2025-02-12 20:25:19",
-      "completed": 0
-    },
-    {
-      "id": 68502,
-      "anime_id": 5861,
-      "anime_title": "Honey Lemon Soda",
-      "anime_session": "e14ed9b6-02fc-3cb9-b2c7-a5e954d55593",
-      "episode": 6,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/994d7c4fd4ddc1ecb113885ac26d783a35cbb7522fa644e0e73d49638f96ffb2.jpg",
-      "disc": "",
-      "session": "7543616e9beaf9d1d067d07be81d741409958424825e69c6d29e354d2579f003",
-      "filler": 0,
-      "created_at": "2025-02-12 18:29:38",
       "completed": 0
     }
   ]
