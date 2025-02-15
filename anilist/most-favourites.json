@@ -336,19 +336,19 @@
     "format": "TV"
   },
   {
-    "id": 19,
-    "title": "MONSTER",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
-    "seasonYear": 2004,
-    "totalEpisode": 74,
-    "format": "TV"
-  },
-  {
     "id": 145064,
     "title": "Jujutsu Kaisen 2nd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5U30gu2LSOv8.jpg",
     "seasonYear": 2023,
     "totalEpisode": 23,
+    "format": "TV"
+  },
+  {
+    "id": 19,
+    "title": "MONSTER",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-8Iz8KB1pJNil.jpg",
+    "seasonYear": 2004,
+    "totalEpisode": 74,
     "format": "TV"
   },
   {
