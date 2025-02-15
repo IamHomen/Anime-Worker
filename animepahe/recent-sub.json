@@ -9,6 +9,22 @@
   "to": 12,
   "data": [
     {
+      "id": 68541,
+      "anime_id": 5897,
+      "anime_title": "Witchy Pretty Cure!! Mirai Days",
+      "anime_session": "b2824b11-e6d4-f06a-23b3-f576d209d2b1",
+      "episode": 6,
+      "episode2": 0,
+      "edition": "",
+      "fansub": "SubsPlease",
+      "snapshot": "https://i.animepahe.ru/snapshots/f186826376a33eca773e3f7f4041684354be647a9eac3ed64cae31f1b5333520.jpg",
+      "disc": "",
+      "session": "6b8c3bdab43f3ad3ab9a9a554d0aa6773a9b97ab4794ca45e525aee58272ee0b",
+      "filler": 0,
+      "created_at": "2025-02-15 20:04:29",
+      "completed": 0
+    },
+    {
       "id": 68540,
       "anime_id": 5871,
       "anime_title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
@@ -182,22 +198,6 @@
       "session": "dc2bf0c28c327c38de962d203a23929cc65a10641c3bd127d6b13c9d452f9319",
       "filler": 0,
       "created_at": "2025-02-15 14:04:37",
-      "completed": 0
-    },
-    {
-      "id": 68529,
-      "anime_id": 3,
-      "anime_title": "Meitantei Conan",
-      "anime_session": "f4fd317a-6233-a018-8b6e-e632bf750bdb",
-      "episode": 1153,
-      "episode2": 0,
-      "edition": "",
-      "fansub": "SubsPlease",
-      "snapshot": "https://i.animepahe.ru/snapshots/ffd8e8edd88c04dcd0a088785b16b3f3c4f947f9e562150828301fe08e770434.jpg",
-      "disc": "",
-      "session": "7788768e4a1262df4b401e1eb61bff1628efddb2e8ce6f40d0de71ea62df12d4",
-      "filler": 0,
-      "created_at": "2025-02-15 12:40:51",
       "completed": 0
     }
   ]
