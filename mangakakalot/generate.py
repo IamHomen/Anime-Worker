@@ -37,27 +37,35 @@ def scrape_latest_update_manga():
     anime_list = []
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+        }
         page_number = 1
 
-        while page_number <= 100:  # Stop when page_number reaches 100
+        while page_number <= 100:
             print(f"Scraping page {page_number}...")
-            url = f"{LATEST_MANGA_URL}{page_number}"  # Corrected URL formatting
+            url = f"{LATEST_MANGA_URL}{page_number}"
             response = requests.get(url, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
 
-            # Check if the page contains manga entries
-            if not soup.select('div.panel-content-genres > .content-genres-item'):
-                break  # No more pages to scrape
+            manga_items = soup.select('div.content-genres-item')  # Fix selector
+            if not manga_items:
+                break  # Stop if no more pages
 
-            for el in soup.select('div.panel-content-genres > .content-genres-item'):
+            for el in manga_items:
+                title = el.select_one('a.genres-item-img.bookmark_check')['title']
+                img = el.select_one('a.genres-item-img.bookmark_check > img')['src']
+                chapter = el.select_one('a.genres-item-chap').text.strip()
+                chapter_url = el.select_one('a.genres-item-chap')['href'].split("/")[-1]
+                manga_url = el.select_one('a.genres-item-img.bookmark_check')['href'].split("/")[-1]
+                views = el.select_one('.genres-item-view').text.strip()
+
                 anime_list.append({
-                    'mangaTitle': el.select_one('a.genres-item-img.bookmark_check')['title'],
-                    'mangaImg': el.select_one('a.list-story-item.bookmark_check > img')['src'],
-                    'chapter': el.select_one('div.genres-item-info > .genres-item-chap').text.strip(),
-                    'chapterUrl': el.select_one('div.genres-item-info > a.genres-item-chap')['href'].split("/")[-1],
-                    'mangaUrl': el.select_one('a.list-story-item.bookmark_check')['href'].split("/")[-1],
-                    'views': el.select_one('div.genres-item-info > .genres-item-view-time > .genres-item-view').text.strip()
+                    'mangaTitle': title,
+                    'mangaImg': img,
+                    'chapter': chapter,
+                    'chapterUrl': chapter_url,
+                    'mangaUrl': manga_url,
+                    'views': views
                 })
 
             page_number += 1
