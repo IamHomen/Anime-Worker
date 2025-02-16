@@ -64,6 +64,9 @@ def scrape_latest_update_manga():
 
                 views_element = el.select_one('.genres-item-view')
                 views = views_element.text.strip() if views_element else "Unknown"
+                
+                time_element = el.select_one('.genres-item-time')
+                time = time_element.text.strip() if time_element else "Unknown"
 
                 anime_list.append({
                     'mangaTitle': title,
@@ -71,7 +74,8 @@ def scrape_latest_update_manga():
                     'chapter': chapter,
                     'chapterUrl': chapter_url,
                     'mangaUrl': manga_url,
-                    'views': views
+                    'views': views,
+                    'time': time
                 })
 
             page_number += 1
