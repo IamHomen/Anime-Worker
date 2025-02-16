@@ -47,18 +47,23 @@ def scrape_latest_update_manga():
             response = requests.get(url, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
 
-            manga_items = soup.select('div.content-genres-item')  # Fix selector
+            manga_items = soup.select('div.content-genres-item')
             if not manga_items:
                 break  # Stop if no more pages
 
             for el in manga_items:
                 title = el.select_one('a.genres-item-img.bookmark_check')['title']
                 img = el.select_one('a.genres-item-img.bookmark_check > img')['src']
+                
                 chapter_element = el.select_one('a.genres-item-chap')
                 chapter = chapter_element.text.strip() if chapter_element else "No chapter"
-                chapter_url = el.select_one('a.genres-item-chap')['href'].split("/")[-1]
-                manga_url = el.select_one('a.genres-item-img.bookmark_check')['href'].split("/")[-1]
-                views = el.select_one('.genres-item-view').text.strip()
+                chapter_url = chapter_element.get('href', 'No URL').split("/")[-1] if chapter_element else "No URL"
+
+                manga_element = el.select_one('a.genres-item-img.bookmark_check')
+                manga_url = manga_element.get('href', 'No URL').split("/")[-1] if manga_element else "No URL"
+
+                views_element = el.select_one('.genres-item-view')
+                views = views_element.text.strip() if views_element else "Unknown"
 
                 anime_list.append({
                     'mangaTitle': title,
