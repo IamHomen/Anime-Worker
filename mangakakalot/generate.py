@@ -41,7 +41,7 @@ def scrape_latest_update_manga():
         }
         page_number = 1
 
-        while page_number <= 100:
+        while page_number <= 1968:
             print(f"Scraping page {page_number}...")
             url = f"{LATEST_MANGA_URL}{page_number}"
             response = requests.get(url, headers=headers)
