@@ -54,7 +54,8 @@ def scrape_latest_update_manga():
             for el in manga_items:
                 title = el.select_one('a.genres-item-img.bookmark_check')['title']
                 img = el.select_one('a.genres-item-img.bookmark_check > img')['src']
-                chapter = el.select_one('a.genres-item-chap').text.strip()
+                chapter_element = el.select_one('a.genres-item-chap')
+                chapter = chapter_element.text.strip() if chapter_element else "No chapter"
                 chapter_url = el.select_one('a.genres-item-chap')['href'].split("/")[-1]
                 manga_url = el.select_one('a.genres-item-img.bookmark_check')['href'].split("/")[-1]
                 views = el.select_one('.genres-item-view').text.strip()
