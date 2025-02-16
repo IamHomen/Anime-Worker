@@ -118,6 +118,52 @@ def scrape_hot_manga():
     except Exception as e:
         print(e)
         return {'error': str(e)}
+
+def scrape_most_viewed_manga():
+    anime_list = []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+        }
+        url = "https://manganato.com/"  # Change to the correct homepage or section URL
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Selecting items inside the most viewed manga section
+        manga_items = soup.select('div.owl-item > div.item')  
+        if not manga_items:
+            print("No most-viewed manga found!")
+            return {'error': 'No most-viewed manga found'}
+
+        for el in manga_items:
+            title_element = el.select_one('.slide-caption h3 a')
+            title = title_element.text.strip() if title_element else "No title"
+            manga_url = title_element['href'] if title_element else "No URL"
+
+            img_element = el.select_one('img.img-loading')
+            img = img_element['src'] if img_element else "No image"
+
+            chapter_element = el.select_one('.slide-caption > a')
+            chapter = chapter_element.text.strip() if chapter_element else "No chapter"
+            chapter_url = chapter_element['href'] if chapter_element else "No URL"
+
+            anime_list.append({
+                'mangaTitle': title,
+                'mangaImg': img,
+                'chapter': chapter,
+                'chapterUrl': chapter_url,
+                'mangaUrl': manga_url
+            })
+
+        with open('./mangakakalot/most-viewed.json', 'w') as f:
+            json.dump(anime_list, f, indent=2)
+        print('Data saved to mangakakalot/most-viewed.json')
+
+        return anime_list
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return {'error': str(e)}
     
 scrape_latest_update_manga()
 scrape_hot_manga()
+scrape_most_viewed_manga()
