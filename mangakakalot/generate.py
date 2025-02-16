@@ -62,6 +62,9 @@ def scrape_latest_update_manga():
                 manga_element = el.select_one('a.genres-item-img.bookmark_check')
                 manga_url = manga_element.get('href', 'No URL').split("/")[-1] if manga_element else "No URL"
 
+                description_element = el.select_one('.genres-item-description')
+                description = description_element.text.strip() if description_element else "Unknown"
+
                 views_element = el.select_one('.genres-item-view')
                 views = views_element.text.strip() if views_element else "Unknown"
                 
@@ -74,6 +77,7 @@ def scrape_latest_update_manga():
                     'chapter': chapter,
                     'chapterUrl': chapter_url,
                     'mangaUrl': manga_url,
+                    'description': description,
                     'views': views,
                     'time': time
                 })
