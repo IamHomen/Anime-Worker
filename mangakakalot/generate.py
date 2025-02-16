@@ -1,40 +1,52 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+import requests
 from bs4 import BeautifulSoup
 import json
-import time
 
 LATEST_MANGA_URL = 'https://manganato.com/genre-all/'
-HOT_MANGA_URL = 'https://mangakakalot.com/manga_list?type=topview&category=all&state=all&page=1'
 BASE_URL = 'https://manganato.com/'
+HOT_MANGA_URL = 'https://mangakakalot.com/manga_list?type=topview&category=all&state=all&page=1'
 
-# Configure Selenium WebDriver
-chrome_options = Options()
-chrome_options.add_argument("--headless")  # Run in headless mode
-chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
-chrome_options.add_argument("window-size=1920x1080")  # Force desktop mode
+'''def scrape_latest_update_manga():
+    anime_list = []
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
+        response = requests.get(LATEST_MANGA_URL, headers=headers)
+        soup = BeautifulSoup(response.content, 'html.parser')
 
-service = Service('/path/to/chromedriver')  # Update this path!
-driver = webdriver.Chrome(service=service, options=chrome_options)
+        for el in soup.select('div.truyen-list > .list-truyen-item-wrap'):
+            anime_list.append({
+                'mangaId': el.select_one('a.list-story-item.bookmark_check')['href'],
+                'mangaTitle': el.select_one('a.list-story-item.bookmark_check')['title'],
+                'mangaImg': el.select_one('a.list-story-item.bookmark_check > img')['src'],
+                'chapter': el.select_one('a.list-story-item-wrap-chapter').text.strip(),
+                'mangaUrl': el.select_one('a.list-story-item.bookmark_check')['href'],
+                'views': el.select_one('span.aye_icon').text.strip()
+            })
+
+        with open('./mangakakalot/latest-update.json', 'w') as f:
+            json.dump(anime_list, f, indent=2)
+        print('Data saved to mangakakalot/latest-update.json')
+
+        return anime_list
+    except Exception as e:
+        print(e)
+        return {'error': str(e)}
+'''
 
 def scrape_latest_update_manga():
     anime_list = []
     try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+        }
         page_number = 1
 
         while page_number <= 100:
             print(f"Scraping page {page_number}...")
             url = f"{LATEST_MANGA_URL}{page_number}"
-            driver.get(url)
-            time.sleep(2)  # Give time for elements to load
+            response = requests.get(url, headers=headers)
+            soup = BeautifulSoup(response.content, 'html.parser')
 
-            soup = BeautifulSoup(driver.page_source, 'html.parser')
             manga_items = soup.select('div.content-genres-item')
             if not manga_items:
                 break  # Stop if no more pages
@@ -57,7 +69,7 @@ def scrape_latest_update_manga():
                 views = views_element.text.strip() if views_element else "Unknown"
                 
                 time_element = el.select_one('.genres-item-time')
-                time_text = time_element.text.strip() if time_element else "Unknown"
+                time = time_element.text.strip() if time_element else "Unknown"
 
                 anime_list.append({
                     'mangaTitle': title,
@@ -67,7 +79,7 @@ def scrape_latest_update_manga():
                     'mangaUrl': manga_url,
                     'description': description,
                     'views': views,
-                    'time': time_text
+                    'time': time
                 })
 
             page_number += 1
@@ -76,16 +88,17 @@ def scrape_latest_update_manga():
             json.dump(anime_list, f, indent=2)
         print('Data saved to mangakakalot/latest-update.json')
 
+        return anime_list
     except Exception as e:
         print(f"An error occurred: {e}")
-
+        return {'error': str(e)}
+    
 def scrape_hot_manga():
     hot_manga_list = []
     try:
-        driver.get(HOT_MANGA_URL)
-        time.sleep(2)  # Allow time for content to load
-
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
+        response = requests.get(HOT_MANGA_URL, headers=headers)
+        soup = BeautifulSoup(response.content, 'html.parser')
 
         for el in soup.select('div.truyen-list > .list-truyen-item-wrap'):
             hot_manga_list.append({
@@ -101,27 +114,31 @@ def scrape_hot_manga():
             json.dump(hot_manga_list, f, indent=2)
         print('Data saved to mangakakalot/hot-manga.json')
 
+        return hot_manga_list
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(e)
+        return {'error': str(e)}
 
 def scrape_most_viewed_manga():
     anime_list = []
     try:
-        driver.get(BASE_URL)
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'div.owl-wrapper')))
-        time.sleep(2)  # Allow more time for JavaScript to load elements
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36'
+        }
+        url = "https://manganato.com/"  # Change to the correct URL if needed
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.content, 'html.parser')
 
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        # Select the most-viewed manga section inside `.owl-wrapper`
         wrapper = soup.select_one('div.owl-wrapper')
-
         if not wrapper:
-            print("❌ No owl-wrapper found!")
-            return
+            print("No owl-wrapper found!")
+            return {'error': 'No owl-wrapper found'}
 
-        manga_items = wrapper.select('div.owl-item > div.item')
+        manga_items = wrapper.select('div.owl-item > div.item')  # Selecting items inside `.owl-wrapper`
         if not manga_items:
-            print("❌ No most-viewed manga found!")
-            return
+            print("No most-viewed manga found!")
+            return {'error': 'No most-viewed manga found'}
 
         for el in manga_items:
             title_element = el.select_one('.slide-caption h3 a')
@@ -145,15 +162,13 @@ def scrape_most_viewed_manga():
 
         with open('./mangakakalot/most-viewed.json', 'w') as f:
             json.dump(anime_list, f, indent=2)
-        print('✅ Data saved to mangakakalot/most-viewed.json')
+        print('Data saved to mangakakalot/most-viewed.json')
 
+        return anime_list
     except Exception as e:
-        print(f"❌ An error occurred: {e}")
-
-# Run the scrapers
+        print(f"An error occurred: {e}")
+        return {'error': str(e)}
+    
 scrape_latest_update_manga()
 scrape_hot_manga()
 scrape_most_viewed_manga()
-
-# Close the driver
-driver.quit()
