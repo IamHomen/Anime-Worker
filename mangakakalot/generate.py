@@ -55,6 +55,7 @@ def scrape_latest_update_manga():
                     'mangaTitle': el.select_one('a.list-story-item.bookmark_check')['title'],
                     'mangaImg': el.select_one('a.list-story-item.bookmark_check > img')['src'],
                     'chapter': el.select_one('a.list-story-item-wrap-chapter').text.strip(),
+                    'chapterUrl': el.select_one('a.list-story-item-wrap-chapter')['href'],
                     'mangaUrl': el.select_one('a.list-story-item.bookmark_check')['href'],
                     'views': el.select_one('span.aye_icon').text.strip()
                 })
