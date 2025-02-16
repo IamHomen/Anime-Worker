@@ -54,7 +54,7 @@ def scrape_latest_update_manga():
                     'mangaTitle': el.select_one('a.genres-item-img.bookmark_check')['title'],
                     'mangaImg': el.select_one('a.list-story-item.bookmark_check > img')['src'],
                     'chapter': el.select_one('div.genres-item-info > .genres-item-chap').text.strip(),
-                    'chapterUrl': "/".join(el.select_one('div.genres-item-info > a.genres-item-chap')['href'].split("/")[-2:]),
+                    'chapterUrl': el.select_one('div.genres-item-info > a.genres-item-chap')['href'].split("/")[-1],
                     'mangaUrl': el.select_one('a.list-story-item.bookmark_check')['href'].split("/")[-1],
                     'views': el.select_one('div.genres-item-info > .genres-item-view-time > .genres-item-view').text.strip()
                 })
