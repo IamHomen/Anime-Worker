@@ -43,7 +43,7 @@ def scrape_latest_update_manga():
         while page_number <= 100:  # Stop when page_number reaches 100
             print(f"Scraping page {page_number}...")
             url = f"{LATEST_MANGA_URL}{page_number}"  # Corrected URL formatting
-            response = requests.get(f"{url}", headers=headers)
+            response = requests.get(url, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
 
             # Check if the page contains manga entries
