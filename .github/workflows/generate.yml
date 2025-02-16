@@ -2,7 +2,7 @@ name: Generate Anime List
 on:
   push:
   schedule:
-    - cron: "* */3 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   build:
@@ -26,43 +26,43 @@ jobs:
         python -m pip install -r requirements.txt
         pip install firebase-admin
 
-    - name: Generate (GogoAnime)
-      run: |
-        python ./gogoanime/generate.py
+    #- name: Generate (GogoAnime)
+     # run: |
+      #  python ./gogoanime/generate.py
 
-    - name: Generate (AnimePahe)
-      run: |
-        python ./animepahe/generate.py
+    #- name: Generate (AnimePahe)
+    #  run: |
+     #   python ./animepahe/generate.py
 
-    - name: Generate (Anilist)
-      run: |
-        python ./anilist/generate.py
+   # - name: Generate (Anilist)
+   #   run: |
+    #    python ./anilist/generate.py
 
-    - name: Generate (MangaDex)
-      run: |
-        python ./mangadex/generate.py
+    #- name: Generate (MangaDex)
+     # run: |
+    #    python ./mangadex/generate.py
         
     - name: Generate (Mangakakalot)
       run: |
         python ./mangakakalot/generate.py
 
-    - name: Generate (AsuraScans)
-      run: |
-        python ./asurascans/generate.py
+   # - name: Generate (AsuraScans)
+    #  run: |
+   #     python ./asurascans/generate.py
 
-    - name: Upload JSON to Firebase 
-      env:
-        FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-      run: |
-        python upload_to_firebase.py
+   # - name: Upload JSON to Firebase 
+   #   env:
+    #    FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+    #  run: |
+    #    python upload_to_firebase.py
 
-    - name: Upload JSON files to Firebase (Anime Info)
-      run: python gogoanime_info.py
-      env:
-          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
-          FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
-          JSON_FILES_PATH: './gogoanime/anime-info/'
+    #- name: Upload JSON files to Firebase (Anime Info)
+   #   run: python gogoanime_info.py
+   #   env:
+    #      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+    #      FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+    #      FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
+    #      JSON_FILES_PATH: './gogoanime/anime-info/'
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
