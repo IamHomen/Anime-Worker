@@ -125,12 +125,17 @@ def scrape_most_viewed_manga():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
         }
-        url = "https://manganato.com/"  # Change to the correct homepage or section URL
+        url = "https://manganato.com/"  # Change to the correct URL if needed
         response = requests.get(url, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # Selecting items inside the most viewed manga section
-        manga_items = soup.select('div.owl-item > div.item')  
+        # Select the most-viewed manga section inside `.owl-wrapper`
+        wrapper = soup.select_one('div.owl-wrapper')
+        if not wrapper:
+            print("No owl-wrapper found!")
+            return {'error': 'No owl-wrapper found'}
+
+        manga_items = wrapper.select('div.owl-item > div.item')  # Selecting items inside `.owl-wrapper`
         if not manga_items:
             print("No most-viewed manga found!")
             return {'error': 'No most-viewed manga found'}
