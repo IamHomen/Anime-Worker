@@ -4,6 +4,7 @@ import json
 
 LATEST_MANGA_URL = 'https://manganato.com/genre-all/'
 BASE_URL = 'https://manganato.com/'
+MANGA_BASE_URL = 'https://chapmanganelo.com/'
 HOT_MANGA_URL = 'https://mangakakalot.com/manga_list?type=topview&category=all&state=all&page=1'
 NEWEST_MANGA_URL = 'https://m.manganelo.com/genre-all/'
 
@@ -71,6 +72,8 @@ def scrape_latest_update_manga():
                 
                 time_element = el.select_one('.genres-item-time')
                 time = time_element.text.strip() if time_element else "Unknown"
+
+                scrape_manga_details(manga_url)
 
                 anime_list.append({
                     'mangaTitle': title,
@@ -229,8 +232,92 @@ def scrape_newest_manga():
     except Exception as e:
         print(f"An error occurred: {e}")
         return {'error': str(e)}
+
+def scrape_manga_details(manga_url):
+    manga_details = {}
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+        }
+        url = f"{MANGA_BASE_URL}{manga_url}"  # Replace with the correct manga URL
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Find the chapter list
+        chapter_list = soup.select('ul#row-content-chapter li')
+
+        # Extracting manga details
+        manga_info = soup.select_one('.container-main-left')
+
+        # Title
+        title = manga_info.select_one('h1').text.strip()
+
+        # Image
+        img = manga_info.select_one('.info-image img')['src']
+
+        # Alternative Title
+        alternative_title = manga_info.select_one('.table-value h2').text.strip()
+
+        # Authors
+        authors = [author.text for author in manga_info.select('.table-value a')]
+
+        # Status
+        status = manga_info.select_one('.table-value').text.strip()
+
+        # Genres
+        genres = [genre.text for genre in manga_info.select('.table-value a')]
+
+        # Updated time
+        updated_time = manga_info.select_one('.stre-value').text.strip()
+
+        # Rating
+        rating_value = manga_info.select_one('.rate_row input')['value']
+
+        # Description
+        description = manga_info.select_one('.panel-story-info-description').text.strip()
+
+        chapters = []
+        for chapter in chapter_list:
+            # Extract chapter details
+            chapter_name = chapter.select_one('a.chapter-name').text.strip()
+            chapter_url = chapter.select_one('a.chapter-name')['href']
+            views = chapter.select_one('span.chapter-view').text.strip()
+            uploaded_time = chapter.select_one('span.chapter-time').text.strip()
+
+            chapters.append({
+                'chapter_name': chapter_name,
+                'chapter_url': chapter_url,
+                'views': views,
+                'uploaded_time': uploaded_time
+            })
+
+        # Storing data in dictionary
+        manga_details = {
+            'title': title,
+            'img': img,
+            'alternative_title': alternative_title,
+            'authors': authors,
+            'status': status,
+            'genres': genres,
+            'updated_time': updated_time,
+            'rating_value': rating_value,
+            'description': description,
+            'chapters': chapters
+        }
+
+        # Saving the data to a JSON file
+        with open(f"./mangakakalot/{manga_url}.json", 'w') as f:
+            json.dump(manga_details, f, indent=2)
+
+        print(f"Manga details saved to {manga_url}.json")
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+    return manga_details
     
 scrape_latest_update_manga()
 scrape_hot_manga()
 scrape_most_viewed_manga()
 scrape_newest_manga()
+
