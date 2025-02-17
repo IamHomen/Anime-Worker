@@ -193,11 +193,11 @@ def scrape_newest_manga():
                 img = el.select_one('a.genres-item-img.bookmark_check > img')['src']
                 
                 chapter_element = el.select_one('a.genres-item-chap')
-                chapter = chapter_element.text.strip() if chapter_element else "No chapter"
-                chapter_url = chapter_element.get('href', 'No URL').split("/")[-1] if chapter_element else "No URL"
+                chapter = chapter_element.text.strip() if chapter_element else "chapter-404.php"
+                chapter_url = chapter_element.get('href', 'chapter-404.php').split("/")[-1] if chapter_element else "chapter-404.php"
 
                 manga_element = el.select_one('a.genres-item-img.bookmark_check')
-                manga_url = manga_element.get('href', 'No URL').split("/")[-1] if manga_element else "No URL"
+                manga_url = manga_element.get('href', 'manga-404.php').split("/")[-1] if manga_element else "manga-404.php"
 
                 description_element = el.select_one('.genres-item-description')
                 description = description_element.text.strip() if description_element else "N/A"
