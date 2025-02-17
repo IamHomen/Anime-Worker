@@ -259,8 +259,11 @@ def scrape_manga_details(manga_url):
         alternative_title = manga_info.select_one('div.story-info-right .variations-tableInfo .table-value h2').text.strip()
 
         # Authors
-        authors = [author.text for author in manga_info.select('div.story-info-right .variations-tableInfo .table-value a')]
+        second_tr = soup.select_one('div.div.story-info-right .variations-tableInfo tbody tr:nth-of-type(2)')
 
+        if second_tr:
+            authors = [a.text for a in second_tr.select('.table-value a')]
+   
         # Status
         status = manga_info.select_one('div.story-info-right .variations-tableInfo .table-value').text.strip()
 
