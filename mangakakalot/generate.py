@@ -250,31 +250,28 @@ def scrape_manga_details(manga_url):
         manga_info = soup.select_one('.container-main-left')
 
         # Title
-        title = manga_info.select_one('h1').text.strip()
+        title = manga_info.select_one('div.story-info-right h1').text.strip()
 
         # Image
-        img = manga_info.select_one('.info-image img')['src']
+        img = manga_info.select_one('div.story-info-left .info-image img')['src']
 
         # Alternative Title
-        alternative_title = manga_info.select_one('.table-value h2').text.strip()
+        alternative_title = manga_info.select_one('div.story-info-right .variations-tableInfo .table-value h2').text.strip()
 
         # Authors
-        authors = [author.text for author in manga_info.select('.table-value a')]
+        authors = [author.text for author in manga_info.select('div.story-info-right .variations-tableInfo .table-value a')]
 
         # Status
-        status = manga_info.select_one('.table-value').text.strip()
+        status = manga_info.select_one('div.story-info-right .variations-tableInfo .table-value').text.strip()
 
         # Genres
-        genres = [genre.text for genre in manga_info.select('.table-value a')]
+        genres = [genre.text for genre in manga_info.select('div.story-info-right .variations-tableInfo .table-value a')]
 
         # Updated time
-        updated_time = manga_info.select_one('.stre-value').text.strip()
-
-        # Rating
-        rating_value = manga_info.select_one('.rate_row input')['value']
+        updated_time = manga_info.select_one('div.story-info-right .story-info-right-extent .stre-value').text.strip()
 
         # Description
-        description = manga_info.select_one('.panel-story-info-description').text.strip()
+        description = manga_info.select_one('div.panel-story-info .panel-story-info-description').text.strip()
 
         chapters = []
         for chapter in chapter_list:
@@ -300,7 +297,6 @@ def scrape_manga_details(manga_url):
             'status': status,
             'genres': genres,
             'updated_time': updated_time,
-            'rating_value': rating_value,
             'description': description,
             'chapters': chapters
         }
