@@ -302,7 +302,7 @@ def scrape_manga_details(manga_url):
         }
 
         # Saving the data to a JSON file
-        with open(f"./mangakakalot/{manga_url}.json", 'w') as f:
+        with open(f"./mangakakalot/info/{manga_url}.json", 'w') as f:
             json.dump(manga_details, f, indent=2)
 
         print(f"Manga details saved to {manga_url}.json")
