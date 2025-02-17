@@ -260,9 +260,9 @@ def scrape_manga_details(manga_url):
 
         # Authors
         second_tr = soup.select_one('div.div.story-info-right .variations-tableInfo tbody tr:nth-of-type(2)')
-
+        authors = []
         if second_tr:
-            authors = [a.text for a in second_tr.select('.table-value a')]
+           authors = [a.text for a in second_tr.select('.table-value a')]
    
         # Status
         status = manga_info.select_one('div.story-info-right .variations-tableInfo .table-value').text.strip()
