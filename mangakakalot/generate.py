@@ -2,11 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-LATEST_MANGA_URL = 'https://m.manganelo.com/genre-all/'
-BASE_URL = 'https://m.manganelo.com/'
-MANGA_BASE_URL = 'https://chapmanganelo.com/'
+LATEST_MANGA_URL = 'https://manganato.com/genre-all/'
+BASE_URL = 'https://manganato.com/'
+MANGA_BASE_URL = 'https://chapmanganato.com/'
 HOT_MANGA_URL = 'https://mangakakalot.com/manga_list?type=topview&category=all&state=all&page=1'
-NEWEST_MANGA_URL = 'https://m.manganelo.com/genre-all/'
+NEWEST_MANGA_URL = 'https://manganato.com/genre-all/'
 
 '''def scrape_latest_update_manga():
     anime_list = []
