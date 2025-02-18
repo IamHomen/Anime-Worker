@@ -73,7 +73,7 @@ def scrape_latest_update_manga():
                 time_element = el.select_one('.genres-item-time')
                 time = time_element.text.strip() if time_element else "Unknown"
 
-                scrape_manga_details(manga_url)
+                #scrape_manga_details(manga_url)
 
                 anime_list.append({
                     'mangaTitle': title,
@@ -259,11 +259,8 @@ def scrape_manga_details(manga_url):
         alternative_title = manga_info.select_one('div.story-info-right .variations-tableInfo .table-value h2').text.strip()
 
         # Authors
-        second_tr = soup.select_one('div.div.story-info-right .variations-tableInfo tbody tr:nth-of-type(2)')
-        authors = []
-        if second_tr:
-           authors = [a.text for a in second_tr.select('.table-value a')]
-   
+        authors = [author.text for author in manga_info.select('div.story-info-right .variations-tableInfo .table-value a')]
+        
         # Status
         status = manga_info.select_one('div.story-info-right .variations-tableInfo .table-value').text.strip()
 
