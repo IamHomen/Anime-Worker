@@ -5,7 +5,7 @@ import json
 LATEST_MANGA_URL = 'https://manganato.com/genre-all/'
 BASE_URL = 'https://manganato.com/'
 MANGA_BASE_URL = 'https://chapmanganato.com/'
-HOT_MANGA_URL = 'https://manganato.com/genre-all?type=topview'
+HOT_MANGA_URL = 'https://mangakakalot.com/manga_list?type=topview&category=all&state=all&page=1'
 NEWEST_MANGA_URL = 'https://manganato.com/genre-all/'
 
 '''def scrape_latest_update_manga():
@@ -134,25 +134,25 @@ def scrape_most_viewed_manga():
         soup = BeautifulSoup(response.content, 'html.parser')
 
         # Select the most-viewed manga section inside `.owl-wrapper`
-        wrapper = soup.select_one('div.panel-content-genres')
+        wrapper = soup.select_one('div.owl-wrapper')
         if not wrapper:
             print("No owl-wrapper found!")
             return {'error': 'No owl-wrapper found'}
 
-        manga_items = wrapper.select('div.content-genres-item')  # Selecting items inside `.owl-wrapper`
+        manga_items = wrapper.select('div.owl-item > div.item')  # Selecting items inside `.owl-wrapper`
         if not manga_items:
             print("No most-viewed manga found!")
             return {'error': 'No most-viewed manga found'}
 
         for el in manga_items:
-            title_element = el.select_one('div.genres-item-info h3 a')
+           title_element = el.select_one('.slide-caption h3 a')
             title = title_element.text.strip() if title_element else "No title"
             manga_url = title_element['href'] if title_element else "No URL"
 
-            img_element = el.select_one('a.genres-item-img.bookmark_check .img-loading')
+             img_element = el.select_one('img.img-loading')
             img = img_element['src'] if img_element else "No image"
 
-            chapter_element = el.select_one('div.genres-item-info a.genres-item-chap.text-nowrap.a-h')
+            chapter_element = el.select_one('.slide-caption > a')
             chapter = chapter_element.text.strip() if chapter_element else "No chapter"
             chapter_url = chapter_element['href'] if chapter_element else "No URL"
 
