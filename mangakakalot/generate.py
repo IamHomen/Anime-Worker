@@ -145,11 +145,11 @@ def scrape_most_viewed_manga():
             return {'error': 'No most-viewed manga found'}
 
         for el in manga_items:
-           title_element = el.select_one('.slide-caption h3 a')
+            title_element = el.select_one('.slide-caption h3 a')
             title = title_element.text.strip() if title_element else "No title"
             manga_url = title_element['href'] if title_element else "No URL"
 
-             img_element = el.select_one('img.img-loading')
+            img_element = el.select_one('img.img-loading')
             img = img_element['src'] if img_element else "No image"
 
             chapter_element = el.select_one('.slide-caption > a')
