@@ -6,7 +6,7 @@ LATEST_MANGA_URL = 'https://www.natomanga.com/manga-list/latest-manga?page='
 BASE_URL = 'https://manganato.com/'
 MANGA_BASE_URL = 'https://chapmanganato.com/'
 HOT_MANGA_URL = 'https://www.natomanga.com/manga-list/hot-manga?page='
-NEWEST_MANGA_URL = 'https://manganato.com/genre-all/'
+NEWEST_MANGA_URL = 'https://www.natomanga.com/manga-list/new-manga?page='
 
 '''def scrape_latest_update_manga():
     anime_list = []
@@ -62,7 +62,7 @@ def scrape_latest_update_manga():
                 chapter_url = chapter_element.get('href', 'No URL').split("/")[-1] if chapter_element else "No URL"
 
                 manga_element = el.select_one('a.list-story-item.bookmark_check')
-                manga_url = manga_element.get('href', 'No URL').split("/")[-1] if manga_element else "No URL"
+                manga_url = manga_element.get('href', 'No URL').split("/manga/")[-1] if manga_element else "No Manga ID"
 
                 description_element = el.select_one('p')
                 description = description_element.text.strip() if description_element else "Unknown"
