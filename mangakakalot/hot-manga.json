@@ -48,14 +48,6 @@
     "views": "276,400,000"
   },
   {
-    "mangaId": "https://www.natomanga.com/manga/star-martial-god-technique",
-    "mangaTitle": "Star Martial God Technique",
-    "mangaImg": "https://www.natomanga.com/images/404-avatar.webp",
-    "chapter": "Chapter 785",
-    "mangaUrl": "https://www.natomanga.com/manga/star-martial-god-technique",
-    "views": "263,200,000"
-  },
-  {
     "mangaId": "https://www.natomanga.com/manga/one-piece",
     "mangaTitle": "One Piece",
     "mangaImg": "https://www.natomanga.com/images/404-avatar.webp",
@@ -190,5 +182,13 @@
     "chapter": "Chapter 643",
     "mangaUrl": "https://www.natomanga.com/manga/release-that-witch",
     "views": "176,700,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
+    "mangaTitle": "The Great Mage Returns After 4000 Years",
+    "mangaImg": "https://www.natomanga.com/images/404-avatar.webp",
+    "chapter": "Chapter 189.5",
+    "mangaUrl": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
+    "views": "175,600,000"
   }
 ]
