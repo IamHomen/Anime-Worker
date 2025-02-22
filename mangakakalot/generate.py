@@ -2,10 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-LATEST_MANGA_URL = 'https://manganato.com/genre-all/'
+LATEST_MANGA_URL = 'https://www.natomanga.com/manga-list/latest-manga?page='
 BASE_URL = 'https://manganato.com/'
 MANGA_BASE_URL = 'https://chapmanganato.com/'
-HOT_MANGA_URL = 'https://mangakakalot.com/manga_list?type=topview&category=all&state=all&page=1'
+HOT_MANGA_URL = 'https://www.natomanga.com/manga-list/hot-manga?page='
 NEWEST_MANGA_URL = 'https://manganato.com/genre-all/'
 
 '''def scrape_latest_update_manga():
@@ -43,35 +43,32 @@ def scrape_latest_update_manga():
         }
         page_number = 1
 
-        while page_number <= 1968:
+        while page_number <= 2156:
             print(f"Scraping page {page_number}...")
             url = f"{LATEST_MANGA_URL}{page_number}"
             response = requests.get(url, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
 
-            manga_items = soup.select('div.content-genres-item')
+            manga_items = soup.select('div.list-truyen-item-wrap')
             if not manga_items:
                 break  # Stop if no more pages
 
             for el in manga_items:
-                title = el.select_one('a.genres-item-img.bookmark_check')['title']
+                title = el.select_one('a.list-story-item.bookmark_check')['title']
                 img = el.select_one('a.genres-item-img.bookmark_check > img')['src']
                 
-                chapter_element = el.select_one('a.genres-item-chap')
+                chapter_element = el.select_one('a.list-story-item-wrap-chapter')
                 chapter = chapter_element.text.strip() if chapter_element else "No chapter"
                 chapter_url = chapter_element.get('href', 'No URL').split("/")[-1] if chapter_element else "No URL"
 
-                manga_element = el.select_one('a.genres-item-img.bookmark_check')
+                manga_element = el.select_one('a.list-story-item.bookmark_check')
                 manga_url = manga_element.get('href', 'No URL').split("/")[-1] if manga_element else "No URL"
 
-                description_element = el.select_one('.genres-item-description')
+                description_element = el.select_one('p')
                 description = description_element.text.strip() if description_element else "Unknown"
 
-                views_element = el.select_one('.genres-item-view')
+                views_element = el.select_one('span.aye_icon')
                 views = views_element.text.strip() if views_element else "Unknown"
-                
-                time_element = el.select_one('.genres-item-time')
-                time = time_element.text.strip() if time_element else "Unknown"
 
                 #scrape_manga_details(manga_url)
 
@@ -82,8 +79,7 @@ def scrape_latest_update_manga():
                     'chapterUrl': chapter_url,
                     'mangaUrl': manga_url,
                     'description': description,
-                    'views': views,
-                    'time': time
+                    'views': views
                 })
 
             page_number += 1
