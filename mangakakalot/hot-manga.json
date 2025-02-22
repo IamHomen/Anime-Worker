@@ -16,6 +16,22 @@
     "views": "488,000,000"
   },
   {
+    "mangaId": "https://www.natomanga.com/manga/martial-peak",
+    "mangaTitle": "Martial Peak",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/martial-peak.webp",
+    "chapter": "Chapter 3822",
+    "mangaUrl": "https://www.natomanga.com/manga/martial-peak",
+    "views": "433,100,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/apotheosis",
+    "mangaTitle": "Apotheosis",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/apotheosis.webp",
+    "chapter": "Chapter 1274",
+    "mangaUrl": "https://www.natomanga.com/manga/apotheosis",
+    "views": "302,900,000"
+  },
+  {
     "mangaId": "https://www.natomanga.com/manga/versatile-mage",
     "mangaTitle": "Versatile Mage",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/versatile-mage.webp",
@@ -174,21 +190,5 @@
     "chapter": "Chapter 643",
     "mangaUrl": "https://www.natomanga.com/manga/release-that-witch",
     "views": "176,700,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
-    "mangaTitle": "The Great Mage Returns After 4000 Years",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/the-great-mage-returns-after-4000-years.webp",
-    "chapter": "Chapter 189.5",
-    "mangaUrl": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
-    "views": "175,600,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/tomb-raider-king",
-    "mangaTitle": "Tomb Raider King",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/tomb-raider-king.webp",
-    "chapter": "Chapter 411",
-    "mangaUrl": "https://www.natomanga.com/manga/tomb-raider-king",
-    "views": "170,900,000"
   }
 ]
