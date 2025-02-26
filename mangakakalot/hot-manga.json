@@ -152,14 +152,6 @@
     "views": "200,900,000"
   },
   {
-    "mangaId": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
-    "mangaTitle": "Mairimashita! Iruma-Kun",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/mairimashita-iruma-kun.webp",
-    "chapter": "Chapter 384",
-    "mangaUrl": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
-    "views": "194,500,000"
-  },
-  {
     "mangaId": "https://www.natomanga.com/manga/survival-story-of-a-sword-king-in-a-fantasy-world",
     "mangaTitle": "Survival Story Of A Sword King In A Fantasy World",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/survival-story-of-a-sword-king-in-a-fantasy-world.webp",
@@ -190,5 +182,13 @@
     "chapter": "Chapter 826",
     "mangaUrl": "https://www.natomanga.com/manga/kingdom",
     "views": "183,500,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/release-that-witch",
+    "mangaTitle": "Release That Witch",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/release-that-witch.webp",
+    "chapter": "Chapter 5478",
+    "mangaUrl": "https://www.natomanga.com/manga/release-that-witch",
+    "views": "176,700,000"
   }
 ]
