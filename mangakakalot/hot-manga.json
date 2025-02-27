@@ -144,6 +144,14 @@
     "views": "205,900,000"
   },
   {
+    "mangaId": "https://www.natomanga.com/manga/ranker-who-lives-a-second-time",
+    "mangaTitle": "Ranker Who Lives A Second Time",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/ranker-who-lives-a-second-time.webp",
+    "chapter": "Chapter 200.1",
+    "mangaUrl": "https://www.natomanga.com/manga/ranker-who-lives-a-second-time",
+    "views": "200,900,000"
+  },
+  {
     "mangaId": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
     "mangaTitle": "Mairimashita! Iruma-Kun",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/mairimashita-iruma-kun.webp",
@@ -182,13 +190,5 @@
     "chapter": "Chapter 828",
     "mangaUrl": "https://www.natomanga.com/manga/kingdom",
     "views": "183,500,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/release-that-witch",
-    "mangaTitle": "Release That Witch",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/release-that-witch.webp",
-    "chapter": "Chapter 5478",
-    "mangaUrl": "https://www.natomanga.com/manga/release-that-witch",
-    "views": "176,700,000"
   }
 ]
