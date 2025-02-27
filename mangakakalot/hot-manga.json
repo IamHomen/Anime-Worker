@@ -24,14 +24,6 @@
     "views": "433,100,000"
   },
   {
-    "mangaId": "https://www.natomanga.com/manga/apotheosis",
-    "mangaTitle": "Apotheosis",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/apotheosis.webp",
-    "chapter": "Chapter 11203",
-    "mangaUrl": "https://www.natomanga.com/manga/apotheosis",
-    "views": "302,900,000"
-  },
-  {
     "mangaId": "https://www.natomanga.com/manga/versatile-mage",
     "mangaTitle": "Versatile Mage",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/versatile-mage.webp",
@@ -190,5 +182,13 @@
     "chapter": "Chapter 5478",
     "mangaUrl": "https://www.natomanga.com/manga/release-that-witch",
     "views": "176,700,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
+    "mangaTitle": "The Great Mage Returns After 4000 Years",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/the-great-mage-returns-after-4000-years.webp",
+    "chapter": "Chapter 189.5",
+    "mangaUrl": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
+    "views": "175,600,000"
   }
 ]
