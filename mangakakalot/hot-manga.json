@@ -144,6 +144,14 @@
     "views": "200,900,000"
   },
   {
+    "mangaId": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
+    "mangaTitle": "Mairimashita! Iruma-Kun",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/mairimashita-iruma-kun.webp",
+    "chapter": "Chapter 385",
+    "mangaUrl": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
+    "views": "194,500,000"
+  },
+  {
     "mangaId": "https://www.natomanga.com/manga/survival-story-of-a-sword-king-in-a-fantasy-world",
     "mangaTitle": "Survival Story Of A Sword King In A Fantasy World",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/survival-story-of-a-sword-king-in-a-fantasy-world.webp",
@@ -171,7 +179,7 @@
     "mangaId": "https://www.natomanga.com/manga/kingdom",
     "mangaTitle": "Kingdom",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/kingdom.webp",
-    "chapter": "Chapter 826",
+    "chapter": "Chapter 827",
     "mangaUrl": "https://www.natomanga.com/manga/kingdom",
     "views": "183,500,000"
   },
@@ -182,13 +190,5 @@
     "chapter": "Chapter 5478",
     "mangaUrl": "https://www.natomanga.com/manga/release-that-witch",
     "views": "176,700,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
-    "mangaTitle": "The Great Mage Returns After 4000 Years",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/the-great-mage-returns-after-4000-years.webp",
-    "chapter": "Chapter 189.5",
-    "mangaUrl": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
-    "views": "175,600,000"
   }
 ]
