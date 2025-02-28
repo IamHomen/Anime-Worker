@@ -112,14 +112,6 @@
     "views": "205,900,000"
   },
   {
-    "mangaId": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
-    "mangaTitle": "Mairimashita! Iruma-Kun",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/mairimashita-iruma-kun.webp",
-    "chapter": "Chapter 385",
-    "mangaUrl": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
-    "views": "194,500,000"
-  },
-  {
     "mangaId": "https://www.natomanga.com/manga/survival-story-of-a-sword-king-in-a-fantasy-world",
     "mangaTitle": "Survival Story Of A Sword King In A Fantasy World",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/survival-story-of-a-sword-king-in-a-fantasy-world.webp",
@@ -190,5 +182,13 @@
     "chapter": "Chapter 953.6",
     "mangaUrl": "https://www.natomanga.com/manga/tomo-chan-wa-onnanoko",
     "views": "166,100,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/jujutsu-kaisen",
+    "mangaTitle": "Jujutsu Kaisen",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/jujutsu-kaisen.webp",
+    "chapter": "Chapter 271",
+    "mangaUrl": "https://www.natomanga.com/manga/jujutsu-kaisen",
+    "views": "160,200,000"
   }
 ]
