@@ -16,6 +16,22 @@
     "views": "488,000,000"
   },
   {
+    "mangaId": "https://www.natomanga.com/manga/martial-peak",
+    "mangaTitle": "Martial Peak",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/martial-peak.webp",
+    "chapter": "Chapter 3822",
+    "mangaUrl": "https://www.natomanga.com/manga/martial-peak",
+    "views": "433,100,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/apotheosis",
+    "mangaTitle": "Apotheosis",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/apotheosis.webp",
+    "chapter": "Chapter 11203",
+    "mangaUrl": "https://www.natomanga.com/manga/apotheosis",
+    "views": "302,900,000"
+  },
+  {
     "mangaId": "https://www.natomanga.com/manga/versatile-mage",
     "mangaTitle": "Versatile Mage",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/versatile-mage.webp",
@@ -38,6 +54,14 @@
     "chapter": "Chapter 269",
     "mangaUrl": "https://www.natomanga.com/manga/a-returner-s-magic-should-be-special",
     "views": "276,400,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/star-martial-god-technique",
+    "mangaTitle": "Star Martial God Technique",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/star-martial-god-technique.webp",
+    "chapter": "Chapter 788",
+    "mangaUrl": "https://www.natomanga.com/manga/star-martial-god-technique",
+    "views": "263,200,000"
   },
   {
     "mangaId": "https://www.natomanga.com/manga/one-piece",
@@ -120,6 +144,14 @@
     "views": "205,900,000"
   },
   {
+    "mangaId": "https://www.natomanga.com/manga/ranker-who-lives-a-second-time",
+    "mangaTitle": "Ranker Who Lives A Second Time",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/ranker-who-lives-a-second-time.webp",
+    "chapter": "Chapter 200.1",
+    "mangaUrl": "https://www.natomanga.com/manga/ranker-who-lives-a-second-time",
+    "views": "200,900,000"
+  },
+  {
     "mangaId": "https://www.natomanga.com/manga/mairimashita-iruma-kun",
     "mangaTitle": "Mairimashita! Iruma-Kun",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/mairimashita-iruma-kun.webp",
@@ -158,37 +190,5 @@
     "chapter": "Chapter 828",
     "mangaUrl": "https://www.natomanga.com/manga/kingdom",
     "views": "183,500,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
-    "mangaTitle": "The Great Mage Returns After 4000 Years",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/the-great-mage-returns-after-4000-years.webp",
-    "chapter": "Chapter 189.5",
-    "mangaUrl": "https://www.natomanga.com/manga/the-great-mage-returns-after-4000-years",
-    "views": "175,600,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/tomb-raider-king",
-    "mangaTitle": "Tomb Raider King",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/tomb-raider-king.webp",
-    "chapter": "Chapter 411",
-    "mangaUrl": "https://www.natomanga.com/manga/tomb-raider-king",
-    "views": "170,900,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/i-am-the-sorcerer-king",
-    "mangaTitle": "I Am The Sorcerer King",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/i-am-the-sorcerer-king.webp",
-    "chapter": "Chapter 144.1",
-    "mangaUrl": "https://www.natomanga.com/manga/i-am-the-sorcerer-king",
-    "views": "170,600,000"
-  },
-  {
-    "mangaId": "https://www.natomanga.com/manga/moshi-fanren",
-    "mangaTitle": "Moshi Fanren",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/moshi-fanren.webp",
-    "chapter": "Chapter 601",
-    "mangaUrl": "https://www.natomanga.com/manga/moshi-fanren",
-    "views": "167,400,000"
   }
 ]
