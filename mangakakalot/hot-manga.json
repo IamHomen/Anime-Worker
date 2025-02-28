@@ -1,13 +1,5 @@
 [
   {
-    "mangaId": "https://www.natomanga.com/manga/tales-of-demons-and-gods",
-    "mangaTitle": "Tales Of Demons And Gods",
-    "mangaImg": "https://imgs-2.2xstorage.com/thumb/tales-of-demons-and-gods.webp",
-    "chapter": "Chapter 567",
-    "mangaUrl": "https://www.natomanga.com/manga/tales-of-demons-and-gods",
-    "views": "535,400,000"
-  },
-  {
     "mangaId": "https://www.natomanga.com/manga/solo-leveling",
     "mangaTitle": "Solo Leveling",
     "mangaImg": "https://imgs-2.2xstorage.com/thumb/solo-leveling.webp",
@@ -190,5 +182,13 @@
     "chapter": "Chapter 601",
     "mangaUrl": "https://www.natomanga.com/manga/moshi-fanren",
     "views": "167,400,000"
+  },
+  {
+    "mangaId": "https://www.natomanga.com/manga/tomo-chan-wa-onnanoko",
+    "mangaTitle": "Tomo-Chan Wa Onnanoko!",
+    "mangaImg": "https://imgs-2.2xstorage.com/thumb/tomo-chan-wa-onnanoko.webp",
+    "chapter": "Chapter 953.6",
+    "mangaUrl": "https://www.natomanga.com/manga/tomo-chan-wa-onnanoko",
+    "views": "166,100,000"
   }
 ]
